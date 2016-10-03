@@ -1,2 +1,5 @@
 # Ignores python binaries
 *.pyc
+
+#Mac Thing
+.DS_Store
