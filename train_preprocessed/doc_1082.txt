@@ -1,0 +1,106 @@
+This	DT	_ <O>
+is	VBZ	_ <O>
+the	DT	<B-CUE>
+earliest	JJS	<I-CUE>
+and	CC	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+individualized	JJ	<I-CUE>
+and	CC	<I-CUE>
+direct	JJ	<I-CUE>
+forming	VBG	_ <O>
+method	NN	_ <O>
+.	.	_ <O>
+ <O>
+Wares	NNS	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+constructed	VBN	_ <O>
+by	IN	_ <O>
+hand	NN	_ <O>
+from	IN	_ <O>
+coils	NNS	_ <O>
+of	IN	_ <O>
+clay	NN	_ <O>
+,	,	_ <O>
+from	IN	_ <O>
+flat	JJ	_ <O>
+slabs	NNS	_ <O>
+of	IN	_ <O>
+clay	NN	_ <O>
+,	,	_ <O>
+from	IN	_ <O>
+solid	JJ	_ <O>
+balls	NNS	_ <O>
+of	IN	_ <O>
+clay	NN	_ <O>
+—	:	_ <O>
+or	CC	_ <O>
+some	DT	<B-CUE>
+combination	NN	<I-CUE>
+of	IN	_ <O>
+these	DT	_ <O>
+.	.	_ <O>
+ <O>
+Parts	NNS	_ <O>
+of	IN	_ <O>
+hand	NN	_ <O>
+-	HYPH	_ <O>
+built	VBN	_ <O>
+vessels	NNS	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+joined	VBN	_ <O>
+together	RB	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+aid	NN	_ <O>
+of	IN	_ <O>
+slurry	NN	_ <O>
+or	CC	_ <O>
+slip	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+runny	JJ	_ <O>
+mixture	NN	_ <O>
+of	IN	_ <O>
+clay	NN	_ <O>
+and	CC	_ <O>
+water	NN	_ <O>
+.	.	_ <O>
+ <O>
+Some	DT	<B-CUE>
+studio	NN	<I-CUE>
+potters	NNS	<I-CUE>
+find	VBP	_ <O>
+hand	NN	_ <O>
+building	VBG	_ <O>
+more	RBR	_ <O>
+conducive	JJ	_ <O>
+to	TO	_ <O>
+fully	RB	_ <O>
+using	VBG	_ <O>
+the	DT	_ <O>
+imagination	NN	_ <O>
+to	TO	_ <O>
+create	VB	_ <O>
+one	CD	_ <O>
+-	HYPH	_ <O>
+of	IN	_ <O>
+-	HYPH	_ <O>
+a	DT	_ <O>
+-	HYPH	_ <O>
+kind	NN	_ <O>
+works	NNS	_ <O>
+of	IN	_ <O>
+art	NN	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+others	NNS	<B-CUE>
+find	VB	_ <O>
+this	DT	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+wheel	NN	_ <O>
+.	.	_ <O>
+ <O>

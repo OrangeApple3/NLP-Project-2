@@ -1,0 +1,70 @@
+His	PRP$	_ <O>
+central	JJ	_ <O>
+argument	NN	_ <O>
+on	IN	_ <O>
+population	NN	_ <O>
+is	VBZ	_ <O>
+as	IN	_ <O>
+follows:"A	JJ	_ <O>
+cancer	NN	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+uncontrolled	JJ	_ <O>
+multiplication	NN	_ <O>
+of	IN	_ <O>
+cells	NNS	_ <O>
+;	:	_ <O>
+the	DT	_ <O>
+population	NN	_ <O>
+explosion	NN	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+uncontrolled	JJ	_ <O>
+multiplication	NN	_ <O>
+of	IN	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Treating	VBG	_ <O>
+only	RB	_ <O>
+the	DT	_ <O>
+symptoms	NNS	_ <O>
+of	IN	_ <O>
+cancer	NN	_ <O>
+may	MD	_ <O>
+make	VB	_ <O>
+the	DT	_ <O>
+victim	NN	_ <O>
+more	RBR	_ <O>
+comfortable	JJ	_ <O>
+at	IN	_ <O>
+first	RB	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+eventually	RB	_ <O>
+he	PRP	_ <O>
+dies	VBZ	_ <O>
+-	:	_ <O>
+often	RB	_ <O>
+horribly	RB	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+operation	NN	_ <O>
+will	MD	_ <O>
+demand	VB	_ <O>
+many	JJ	<B-CUE>
+apparent	JJ	<I-CUE>
+brutal	JJ	<I-CUE>
+and	CC	<I-CUE>
+heartless	JJ	<I-CUE>
+decisions	NNS	<I-CUE>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+pain	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+intense	JJ	_ <O>
+.	.	_ <O>
+ <O>

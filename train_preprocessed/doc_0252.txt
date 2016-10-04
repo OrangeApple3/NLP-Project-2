@@ -1,0 +1,117 @@
+He	PRP	_ <O>
+celebrated	VBD	_ <O>
+several	JJ	_ <O>
+jubilees	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+300th	JJ	_ <O>
+anniversary	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Council	NNP	_ <O>
+of	IN	_ <O>
+Trent	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+his	PRP$	_ <O>
+own	JJ	_ <O>
+Golden	NNP	_ <O>
+Jubilee	NNP	_ <O>
+in	IN	_ <O>
+1868	CD	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+Italian	JJ	_ <O>
+government	NN	_ <O>
+,	,	_ <O>
+intervening	VBG	_ <O>
+in	IN	_ <O>
+Church	NNP	_ <O>
+affairs	NNS	_ <O>
+,	,	_ <O>
+had	VBD	_ <O>
+outlawed	VBN	_ <O>
+in	IN	_ <O>
+1870	CD	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+popular	JJ	_ <O>
+pilgrimages	NNS	_ <O>
+.	.	_ <O>
+ <O>
+At	IN	_ <O>
+the	DT	_ <O>
+50th	JJ	_ <O>
+anniversary	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+Episcopal	JJ	_ <O>
+consecration	NN	_ <O>
+,	,	_ <O>
+people	NNS	_ <O>
+from	IN	_ <O>
+all	DT	_ <O>
+parts	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+came	VBD	_ <O>
+to	TO	_ <O>
+see	VB	_ <O>
+the	DT	_ <O>
+old	JJ	_ <O>
+pontiff	NN	_ <O>
+from	IN	_ <O>
+30	CD	_ <O>
+April	NNP	_ <O>
+1877	CD	_ <O>
+to	IN	_ <O>
+15	CD	_ <O>
+June	NNP	_ <O>
+1877	CD	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+Pope	NNP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+bit	NN	_ <O>
+shy	JJ	_ <O>
+on	IN	_ <O>
+himself	PRP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+he	PRP	_ <O>
+valued	VBD	_ <O>
+initiative	NN	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+Church	NNP	_ <O>
+and	CC	_ <O>
+created	VBD	_ <O>
+several	JJ	<B-CUE>
+new	JJ	<I-CUE>
+titles	NNS	<I-CUE>
+,	,	<I-CUE>
+rewards	NNS	<I-CUE>
+and	CC	<I-CUE>
+orders	NNS	<I-CUE>
+to	TO	_ <O>
+elevate	VB	_ <O>
+those	DT	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+in	IN	_ <O>
+his	PRP$	_ <O>
+view	NN	_ <O>
+deserved	VBD	_ <O>
+merit	NN	_ <O>
+for	IN	_ <O>
+their	PRP$	_ <O>
+Church	NNP	_ <O>
+engagement	NN	_ <O>
+.	.	_ <O>
+ <O>

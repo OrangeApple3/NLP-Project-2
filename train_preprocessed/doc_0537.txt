@@ -1,0 +1,130 @@
+Peter	NNP	_ <O>
+claims	VBZ	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+reason	NN	_ <O>
+why	WRB	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+so	RB	_ <O>
+successful	JJ	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+badminton	NN	_ <O>
+court	NN	_ <O>
+was	VBD	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+studies	NNS	_ <O>
+of	IN	_ <O>
+Bushido	NNP	_ <O>
+,	,	_ <O>
+an	DT	_ <O>
+ancient	JJ	_ <O>
+Japanese	JJ	_ <O>
+philosophy	NN	_ <O>
+and	CC	_ <O>
+his	PRP$	_ <O>
+mentor	NN	_ <O>
+,	,	_ <O>
+Miyamoto	NNP	_ <O>
+Musashi	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+great	JJ	_ <O>
+samurai	NN	_ <O>
+.	.	_ <O>
+ <O>
+Legend	NN	<B-CUE>
+claims	NNS	<B-CUE>
+that	IN	_ <O>
+he	PRP	_ <O>
+killed	VBD	_ <O>
+his	PRP$	_ <O>
+first	JJ	_ <O>
+opponent	NN	_ <O>
+at	IN	_ <O>
+age	NN	_ <O>
+14	CD	_ <O>
+in	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+60	CD	_ <O>
+duels	NNS	_ <O>
+he	PRP	_ <O>
+fought	VBD	_ <O>
+over	IN	_ <O>
+his	PRP$	_ <O>
+lifetime	NN	_ <O>
+.	.	_ <O>
+ <O>
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+said	VBN	<I-CUE>
+that	IN	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+never	RB	_ <O>
+defeated	VBN	_ <O>
+,	,	_ <O>
+both	CC	_ <O>
+in	IN	_ <O>
+single	JJ	_ <O>
+combat	NN	_ <O>
+and	CC	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+6	CD	_ <O>
+wars	NNS	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+he	PRP	_ <O>
+took	VBD	_ <O>
+part	NN	_ <O>
+.	.	_ <O>
+ <O>
+At	IN	_ <O>
+age	NN	_ <O>
+35	CD	_ <O>
+,	,	_ <O>
+Musashi	NNP	_ <O>
+sheathed	VBD	_ <O>
+his	PRP$	_ <O>
+sword	NN	_ <O>
+to	TO	_ <O>
+become	VB	_ <O>
+a	DT	_ <O>
+mentor	NN	_ <O>
+,	,	_ <O>
+an	DT	_ <O>
+artist	NN	_ <O>
+and	CC	_ <O>
+finally	RB	_ <O>
+a	DT	_ <O>
+writer	NN	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+penned	VBD	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+Japan	NNP	<I-CUE>
+’s	POS	<I-CUE>
+most	RBS	<I-CUE>
+influential	JJ	<I-CUE>
+pieces	NNS	_ <O>
+of	IN	_ <O>
+literature	NN	_ <O>
+–	.	_ <O>
+“	NFP	_ <O>
+The	DT	_ <O>
+Book	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Five	CD	_ <O>
+Rings	NNS	_ <O>
+.	.	_ <O>
+”	NFP	_ <O>
+ <O>

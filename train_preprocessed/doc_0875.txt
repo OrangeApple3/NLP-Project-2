@@ -1,0 +1,99 @@
+Though	IN	_ <O>
+various	JJ	<B-CUE>
+dates	NNS	<I-CUE>
+for	IN	_ <O>
+his	PRP$	_ <O>
+emigration	NN	_ <O>
+have	VBP	<B-CUE>
+been	VBN	<I-CUE>
+suggested	VBN	<I-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+record	NN	_ <O>
+of	IN	_ <O>
+Peter	NNP	_ <O>
+Pelham	NNP	_ <O>
+'s	POS	_ <O>
+activities	NNS	_ <O>
+at	IN	_ <O>
+Boston	NNP	_ <O>
+is	VBZ	_ <O>
+well	RB	_ <O>
+established	VBN	_ <O>
+.	.	_ <O>
+ <O>
+Portraits	NNS	_ <O>
+of	IN	_ <O>
+several	JJ	<B-CUE>
+other	JJ	<I-CUE>
+New	NNP	<I-CUE>
+England	NNP	<I-CUE>
+clergymen	NNS	<I-CUE>
+followed	VBD	_ <O>
+.	.	_ <O>
+ <O>
+Pelham	NNP	_ <O>
+was	VBD	_ <O>
+seemingly	RB	<B-CUE>
+intimate	JJ	_ <O>
+with	IN	_ <O>
+John	NNP	_ <O>
+Smibert	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+settled	VBD	_ <O>
+in	IN	_ <O>
+Boston	NNP	_ <O>
+in	IN	_ <O>
+1730	CD	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+he	PRP	_ <O>
+painted	VBD	_ <O>
+Smibert	NNP	_ <O>
+'s	POS	_ <O>
+portrait	NN	_ <O>
+and	CC	_ <O>
+made	VBD	_ <O>
+several	JJ	_ <O>
+engravings	NNS	_ <O>
+after	IN	_ <O>
+Smibert	NNP	_ <O>
+'s	POS	_ <O>
+works	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Such	JJ	_ <O>
+professional	JJ	_ <O>
+labors	NNS	_ <O>
+did	VBD	_ <O>
+not	RB	_ <O>
+produce	VB	_ <O>
+a	DT	_ <O>
+sufficient	JJ	_ <O>
+living	NN	_ <O>
+for	IN	_ <O>
+an	DT	_ <O>
+ever	RB	_ <O>
+-	HYPH	_ <O>
+growing	VBG	_ <O>
+family	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Pelham	NNP	_ <O>
+opened	VBD	_ <O>
+a	DT	_ <O>
+school	NN	_ <O>
+at	IN	_ <O>
+which	WDT	_ <O>
+he	PRP	_ <O>
+taught	VBD	_ <O>
+dancing	NN	_ <O>
+,	,	_ <O>
+arithmetic	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+subjects	NNS	_ <O>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,151 @@
+Whilst	NNP	_ <O>
+in	IN	_ <O>
+London	NNP	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+met	VBD	_ <O>
+several	JJ	<B-CUE>
+important	JJ	<I-CUE>
+black	JJ	<I-CUE>
+leaders	NNS	<I-CUE>
+and	CC	<I-CUE>
+writers	NNS	<I-CUE>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Jomo	NNP	_ <O>
+Kenyatta	NNP	_ <O>
+.	.	_ <O>
+ <O>
+One	CD	<B-CUE>
+of	IN	<I-CUE>
+South	NNP	<I-CUE>
+Africa	NNP	<I-CUE>
+'s	POS	<I-CUE>
+most	RBS	<I-CUE>
+prominent	JJ	<I-CUE>
+black	JJ	_ <O>
+writers	NNS	_ <O>
+,	,	_ <O>
+his	PRP$	_ <O>
+work	NN	_ <O>
+deals	VBZ	_ <O>
+with	IN	_ <O>
+political	JJ	_ <O>
+and	CC	_ <O>
+social	JJ	_ <O>
+issues	NNS	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+with	IN	_ <O>
+racism	NN	_ <O>
+.	.	_ <O>
+ <O>
+His	PRP$	_ <O>
+other	JJ	_ <O>
+works	NNS	_ <O>
+include	VBP	_ <O>
+the	DT	_ <O>
+story	NN	_ <O>
+collection	NN	_ <O>
+'	''	_ <O>
+Dark	NNP	_ <O>
+Testament	NNP	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+1942	CD	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+novels	NNS	_ <O>
+'	POS	_ <O>
+The	DT	_ <O>
+Path	NNP	_ <O>
+of	IN	_ <O>
+Thunder	NN	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+1948	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+A	DT	_ <O>
+Wreath	NN	_ <O>
+for	IN	_ <O>
+Udomo	NNP	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+1956	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+A	DT	_ <O>
+Night	NN	_ <O>
+of	IN	_ <O>
+Their	PRP$	_ <O>
+Own	JJ	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+1965	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Jamaica	NNP	_ <O>
+-	HYPH	_ <O>
+set	NN	_ <O>
+'	``	_ <O>
+This	DT	_ <O>
+Island	NNP	_ <O>
+Now	RB	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+1966	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+only	JJ	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+novels	NNS	_ <O>
+not	RB	_ <O>
+set	VBN	_ <O>
+in	IN	_ <O>
+Africa	NNP	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+'	``	_ <O>
+The	DT	_ <O>
+View	NNP	_ <O>
+from	IN	_ <O>
+Coyaba	NNP	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+1985	CD	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+ <O>
+He	PRP	_ <O>
+also	RB	_ <O>
+wrote	VBD	_ <O>
+'	``	_ <O>
+This	DT	_ <O>
+Island	NNP	_ <O>
+Now	RB	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+speaks	VBZ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+ways	NNS	_ <O>
+power	NN	_ <O>
+and	CC	_ <O>
+money	NN	_ <O>
+can	MD	_ <O>
+change	VB	_ <O>
+most	JJS	_ <O>
+people	NNS	_ <O>
+'s	POS	_ <O>
+perspectives	NNS	_ <O>
+.	.	_ <O>
+ <O>

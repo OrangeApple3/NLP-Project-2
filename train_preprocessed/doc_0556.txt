@@ -1,0 +1,79 @@
+The	DT	_ <O>
+empirical	JJ	_ <O>
+evidence	NN	_ <O>
+on	IN	_ <O>
+this	DT	_ <O>
+topic	NN	_ <O>
+is	VBZ	_ <O>
+quite	RB	_ <O>
+clear	JJ	_ <O>
+(	-LRB-	_ <O>
+Kirschner	NNP	_ <O>
+et	NNP	_ <O>
+al	NNP	_ <O>
+.	.	_ <O>
+2006	CD	_ <O>
+;	:	_ <O>
+Mayer	NNP	_ <O>
+,	,	_ <O>
+2004	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+it	PRP	_ <O>
+suggests	VBZ	_ <O>
+direct	JJ	_ <O>
+methods	NNS	_ <O>
+of	IN	_ <O>
+instruction	NN	_ <O>
+given	VBN	_ <O>
+novices	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Certainly	RB	_ <O>
+once	IN	_ <O>
+a	DT	_ <O>
+learner	NN	_ <O>
+has	VBZ	_ <O>
+some	DT	_ <O>
+foundation	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+material	NN	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+one	PRP	_ <O>
+can	MD	_ <O>
+expect	VB	_ <O>
+them	PRP	_ <O>
+to	TO	_ <O>
+practice	VB	_ <O>
+what	WP	_ <O>
+they	PRP	_ <O>
+have	VBP	_ <O>
+learned	VBN	_ <O>
+.	.	_ <O>
+ <O>
+Unfortunately	RB	<B-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+sad	JJ	<B-CUE>
+truth	NN	<I-CUE>
+is	VBZ	_ <O>
+that	IN	_ <O>
+most	JJS	<B-CUE>
+learners	NNS	<I-CUE>
+are	VBP	_ <O>
+essentially	RB	_ <O>
+novices	NNS	_ <O>
+,	,	_ <O>
+yet	CC	_ <O>
+many	JJ	<B-CUE>
+expect	VB	_ <O>
+them	PRP	_ <O>
+to	TO	_ <O>
+act	VB	_ <O>
+like	IN	_ <O>
+experts	NNS	_ <O>
+.	.	_ <O>
+ <O>

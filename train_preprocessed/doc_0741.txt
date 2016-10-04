@@ -1,0 +1,116 @@
+In	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+postwar	JJ	_ <O>
+years	NNS	_ <O>
+the	DT	_ <O>
+situation	NN	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+improve	VB	_ <O>
+perceptibly	RB	_ <O>
+,	,	_ <O>
+only	RB	_ <O>
+some	DT	<B-CUE>
+scattered	JJ	<I-CUE>
+events	NNS	<I-CUE>
+testify	VB	_ <O>
+the	DT	_ <O>
+arrival	NN	_ <O>
+of	IN	_ <O>
+Carnival	NNP	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+most	RBS	_ <O>
+pessimistic	JJ	_ <O>
+predict	VB	_ <O>
+a	DT	_ <O>
+failure	NN	_ <O>
+:	:	_ <O>
+"	``	_ <O>
+nothing	NN	_ <O>
+will	MD	_ <O>
+be	VB	_ <O>
+as	RB	_ <O>
+before	IN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+pioneer	NN	_ <O>
+musical	JJ	_ <O>
+groups	NNS	_ <O>
+"	``	_ <O>
+Orpheus	NNP	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+Patraiki	NNP	_ <O>
+'	''	_ <O>
+Mantolinata	NNP	_ <O>
+"	''	_ <O>
+lead	VB	_ <O>
+the	DT	_ <O>
+effort	NN	_ <O>
+.	.	_ <O>
+ <O>
+Still	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1950s	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+carnival	NN	_ <O>
+becomes	VBZ	_ <O>
+the	DT	_ <O>
+object	NN	_ <O>
+of	IN	_ <O>
+attacks	NNS	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+fanatic	JJ	_ <O>
+Christian	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	<B-CUE>
+misinformed	JJ	<I-CUE>
+moralistic	JJ	<I-CUE>
+organisations	NNS	<I-CUE>
+roll	VB	_ <O>
+up	RP	_ <O>
+to	TO	_ <O>
+Patras	NNP	_ <O>
+from	IN	_ <O>
+other	JJ	_ <O>
+regions	NNS	_ <O>
+of	IN	_ <O>
+Greece	NNP	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+carnival	NN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+denounce	VB	_ <O>
+orgies	NNS	_ <O>
+,	,	_ <O>
+corruptness	NN	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+Sodom	NNP	_ <O>
+and	CC	_ <O>
+Gomorrah	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+they	PRP	<B-CUE>
+are	VBP	_ <O>
+prevented	VBN	_ <O>
+from	IN	_ <O>
+creating	VBG	_ <O>
+trouble	NN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+police	NN	_ <O>
+.	.	_ <O>
+ <O>

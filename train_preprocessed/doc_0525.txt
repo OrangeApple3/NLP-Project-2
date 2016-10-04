@@ -1,0 +1,94 @@
+(	-LRB-	_ <O>
+2	LS	_ <O>
+)	-RRB-	_ <O>
+Too	RB	_ <O>
+many	JJ	_ <O>
+meetings	NNS	_ <O>
+:	:	_ <O>
+Parecon	NN	_ <O>
+would	MD	_ <O>
+seem	VB	_ <O>
+to	TO	_ <O>
+require	VB	_ <O>
+many	JJ	_ <O>
+meetings	NNS	_ <O>
+,	,	_ <O>
+perhaps	RB	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+debilitating	JJ	_ <O>
+degree	NN	_ <O>
+.	.	_ <O>
+ <O>
+However	RB	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+workers	NNS	<I-CUE>
+in	IN	_ <O>
+a	DT	_ <O>
+capitalist	JJ	_ <O>
+society	NN	_ <O>
+do	VBP	_ <O>
+little	JJ	_ <O>
+else	RB	_ <O>
+but	CC	_ <O>
+attend	VB	_ <O>
+meetings	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Thus	RB	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+it	PRP	<B-CUE>
+would	MD	<I-CUE>
+be	VB	<I-CUE>
+the	DT	<I-CUE>
+case	NN	<I-CUE>
+that	IN	_ <O>
+more	JJR	_ <O>
+people	NNS	_ <O>
+attend	VBP	_ <O>
+meetings	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+workplace	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+total	JJ	_ <O>
+time	NN	_ <O>
+spent	VBN	_ <O>
+in	IN	_ <O>
+meetings	NNS	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+whole	JJ	_ <O>
+might	MD	_ <O>
+be	VB	_ <O>
+similar	JJ	_ <O>
+.	.	_ <O>
+ <O>
+Further	RB	_ <O>
+,	,	_ <O>
+concerning	VBG	_ <O>
+meetings	NNS	_ <O>
+for	IN	_ <O>
+participatory	JJ	_ <O>
+planning	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+planning	NN	_ <O>
+process	NN	_ <O>
+would	MD	_ <O>
+last	VB	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+weeks	NNS	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+time	NN	_ <O>
+off	RP	_ <O>
+work	NN	_ <O>
+to	TO	_ <O>
+participate	VB	_ <O>
+.	.	_ <O>
+ <O>

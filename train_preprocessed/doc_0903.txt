@@ -1,0 +1,34 @@
+Prime	NNP	_ <O>
+Minister	NNP	_ <O>
+Gough	NNP	_ <O>
+Whitlam	NNP	_ <O>
+is	VBZ	_ <O>
+deposed	VBN	_ <O>
+in	IN	_ <O>
+favor	NN	_ <O>
+of	IN	_ <O>
+Malcolm	NNP	_ <O>
+Fraser	NNP	_ <O>
+on	IN	_ <O>
+11	CD	_ <O>
+November	NNP	_ <O>
+1975	CD	_ <O>
+.	.	_ <O>
+ <O>
+This	DT	<B-CUE>
+is	VBZ	<I-CUE>
+rumored	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+result	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+joint	JJ	_ <O>
+CIA	NNP	_ <O>
+-	HYPH	_ <O>
+British	JJ	_ <O>
+Government	NNP	_ <O>
+operation	NN	_ <O>
+.	.	_ <O>
+ <O>

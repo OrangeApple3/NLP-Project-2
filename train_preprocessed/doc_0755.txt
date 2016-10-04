@@ -1,0 +1,126 @@
+In	IN	_ <O>
+1928	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Zone	NNP	_ <O>
+issued	VBD	_ <O>
+a	DT	_ <O>
+definitive	JJ	_ <O>
+series	NN	_ <O>
+inscribed	VBN	_ <O>
+"	``	_ <O>
+CANAL	NNP	_ <O>
+ZONE	NNP	_ <O>
+POSTAGE	NNPS	_ <O>
+"	''	_ <O>
+depicting	VBG	_ <O>
+various	JJ	<B-CUE>
+persons	NNS	<I-CUE>
+involved	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+construction	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+canal	NN	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+5	CD	_ <O>
+c	NN	_ <O>
+value	NN	_ <O>
+showing	VBG	_ <O>
+the	DT	_ <O>
+Gaillard	NNP	_ <O>
+Cut	NNP	_ <O>
+.	.	_ <O>
+ <O>
+A	DT	_ <O>
+series	NN	_ <O>
+of	IN	_ <O>
+16	CD	_ <O>
+stamps	NNS	_ <O>
+in	IN	_ <O>
+1939	CD	_ <O>
+commemorating	IN	_ <O>
+the	DT	_ <O>
+25th	JJ	_ <O>
+anniversary	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+canal	NN	_ <O>
+'s	POS	_ <O>
+completion	NN	_ <O>
+showed	VBD	_ <O>
+"	``	_ <O>
+before	IN	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+after	IN	_ <O>
+"	``	_ <O>
+views	NNS	_ <O>
+of	IN	_ <O>
+various	JJ	_ <O>
+points	NNS	_ <O>
+along	IN	_ <O>
+the	DT	_ <O>
+canal	NN	_ <O>
+.	.	_ <O>
+ <O>
+Thereafter	JJ	_ <O>
+stamps	NNS	_ <O>
+appeared	VBD	_ <O>
+at	IN	_ <O>
+an	DT	_ <O>
+average	JJ	_ <O>
+rate	NN	_ <O>
+of	IN	_ <O>
+about	RB	_ <O>
+two	CD	_ <O>
+per	IN	_ <O>
+year	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+commemorative	JJ	_ <O>
+set	NN	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+years	NNS	<I-CUE>
+and	CC	_ <O>
+no	DT	_ <O>
+stamps	NNS	_ <O>
+in	IN	_ <O>
+others	NNS	_ <O>
+.	.	_ <O>
+ <O>
+This	DT	_ <O>
+paralleled	VBD	_ <O>
+the	DT	_ <O>
+abandonment	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+word	NN	_ <O>
+"	``	_ <O>
+POSTAGE	NN	_ <O>
+"	''	_ <O>
+on	IN	_ <O>
+many	JJ	<B-CUE>
+United	NNP	<I-CUE>
+States	NNP	<I-CUE>
+stamps	NNS	<I-CUE>
+,	,	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+ceased	VBD	_ <O>
+to	TO	_ <O>
+issue	VB	_ <O>
+revenue	NN	_ <O>
+stamps	NNS	_ <O>
+.	.	_ <O>
+ <O>

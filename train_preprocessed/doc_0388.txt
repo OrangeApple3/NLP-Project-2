@@ -1,0 +1,129 @@
+(	-LRB-	_ <O>
+The	DT	_ <O>
+old	JJ	_ <O>
+terminal	NN	_ <O>
+remained	VBD	_ <O>
+standing	VBG	_ <O>
+for	IN	_ <O>
+some	DT	<B-CUE>
+years	NNS	<I-CUE>
+after	IN	_ <O>
+,	,	_ <O>
+continuing	VBG	_ <O>
+to	TO	_ <O>
+house	VB	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+operations	NNS	_ <O>
+offices	NNS	_ <O>
+;	:	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+demolished	VBN	_ <O>
+in	IN	_ <O>
+1999	CD	_ <O>
+.	.	_ <O>
+)	-RRB-	_ <O>
+ <O>
+The	DT	_ <O>
+new	JJ	_ <O>
+terminal	NN	_ <O>
+was	VBD	_ <O>
+equipped	VBN	_ <O>
+with	IN	_ <O>
+numerous	JJ	_ <O>
+innovative	JJ	_ <O>
+,	,	_ <O>
+state	NN	_ <O>
+-	HYPH	_ <O>
+of	IN	_ <O>
+-	HYPH	_ <O>
+the	DT	_ <O>
+-	HYPH	_ <O>
+art	NN	_ <O>
+features	NNS	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+an	DT	_ <O>
+"	``	_ <O>
+AirMall	NNP	_ <O>
+"	''	_ <O>
+that	WDT	_ <O>
+featured	VBD	_ <O>
+shops	NNS	_ <O>
+for	IN	_ <O>
+passengers	NNS	_ <O>
+to	TO	_ <O>
+browse	VB	_ <O>
+in	IN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+landside	RB	_ <O>
+-	HYPH	_ <O>
+airside	NN	_ <O>
+"	''	_ <O>
+terminal	JJ	_ <O>
+construction	NN	_ <O>
+which	WDT	_ <O>
+eliminated	VBD	_ <O>
+the	DT	_ <O>
+need	NN	_ <O>
+for	IN	_ <O>
+connecting	VBG	_ <O>
+passengers	NNS	_ <O>
+to	TO	_ <O>
+go	VB	_ <O>
+through	IN	_ <O>
+security	NN	_ <O>
+again	RB	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+airport	NN	_ <O>
+'s	POS	_ <O>
+capacity	NN	_ <O>
+is	VBZ	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+its	PRP$	<I-CUE>
+most	RBS	<I-CUE>
+valuable	JJ	<I-CUE>
+assets	NNS	<I-CUE>
+.	.	_ <O>
+ <O>
+A	DT	<B-CUE>
+model	NN	<I-CUE>
+to	IN	<I-CUE>
+other	JJ	<I-CUE>
+airports	NNS	<I-CUE>
+around	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+design	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+terminal	NN	_ <O>
+was	VBD	_ <O>
+planned	VBN	_ <O>
+to	TO	_ <O>
+simplify	VB	_ <O>
+aircraft	NN	_ <O>
+movement	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+airfield	NN	_ <O>
+and	CC	_ <O>
+ease	VB	_ <O>
+pedestrian	NN	_ <O>
+traffic	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+gates	NNS	_ <O>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,66 @@
+Rises	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+costs	NNS	_ <O>
+of	IN	_ <O>
+living	VBG	_ <O>
+make	VB	_ <O>
+poor	JJ	_ <O>
+people	NNS	_ <O>
+poorer	VBP	_ <O>
+.	.	_ <O>
+ <O>
+Poor	JJ	_ <O>
+people	NNS	_ <O>
+spend	VBP	_ <O>
+a	DT	_ <O>
+greater	JJR	_ <O>
+portion	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+budgets	NNS	_ <O>
+on	IN	_ <O>
+food	NN	_ <O>
+than	IN	_ <O>
+richer	JJR	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+ <O>
+For	IN	_ <O>
+example	NN	_ <O>
+in	IN	_ <O>
+late	JJ	_ <O>
+2007	CD	_ <O>
+increases	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+price	NN	_ <O>
+of	IN	_ <O>
+grains	NNS	_ <O>
+led	VBN	_ <O>
+to	IN	_ <O>
+food	NN	_ <O>
+riots	NNS	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+countries	NNS	<I-CUE>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+World	NNP	_ <O>
+Bank	NNP	_ <O>
+warned	VBD	_ <O>
+that	IN	_ <O>
+100	CD	_ <O>
+million	CD	_ <O>
+people	NNS	_ <O>
+were	VBD	_ <O>
+at	IN	_ <O>
+risk	NN	_ <O>
+of	IN	_ <O>
+sinking	VBG	_ <O>
+deeper	JJR	_ <O>
+into	IN	_ <O>
+poverty	NN	_ <O>
+.	.	_ <O>
+ <O>

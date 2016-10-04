@@ -1,0 +1,75 @@
+Rescue	NN	_ <O>
+archaeology	NN	_ <O>
+undertaken	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+line	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+A29	NNP	_ <O>
+autoroute	NN	_ <O>
+revealed	VBD	_ <O>
+several	JJ	<B-CUE>
+Gallo	NNP	<I-CUE>
+-	HYPH	<I-CUE>
+Roman	NNP	<I-CUE>
+villas	NNS	<I-CUE>
+.	.	_ <O>
+ <O>
+One	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+important	JJ	<I-CUE>
+is	VBZ	_ <O>
+that	IN	_ <O>
+of	IN	_ <O>
+Sainte	NNP	_ <O>
+-	HYPH	_ <O>
+Marguerite	NNP	_ <O>
+-	HYPH	_ <O>
+sur	NNP	_ <O>
+-	HYPH	_ <O>
+Mer	NNP	_ <O>
+,	,	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+coast	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+west	NN	_ <O>
+of	IN	_ <O>
+Dieppe	NNP	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+archaeologists	NNS	_ <O>
+found	VBD	_ <O>
+a	DT	_ <O>
+complex	NN	_ <O>
+of	IN	_ <O>
+several	JJ	_ <O>
+rooms	NNS	_ <O>
+,	,	_ <O>
+organised	VBN	_ <O>
+around	IN	_ <O>
+a	DT	_ <O>
+square	JJ	_ <O>
+court	NN	_ <O>
+.	.	_ <O>
+ <O>
+To	IN	_ <O>
+the	DT	_ <O>
+north	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+baths	NNS	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+rooms	NNS	_ <O>
+were	VBD	_ <O>
+heated	VBN	_ <O>
+by	IN	_ <O>
+hypocausts	NNS	_ <O>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,59 @@
+The	DT	_ <O>
+public	NN	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+critics	NNS	<I-CUE>
+received	VBD	_ <O>
+the	DT	_ <O>
+show	NN	_ <O>
+coolly	RB	_ <O>
+.	.	_ <O>
+ <O>
+A	DT	<B-CUE>
+number	NN	<I-CUE>
+felt	VBD	_ <O>
+the	DT	_ <O>
+show	NN	_ <O>
+took	VBD	_ <O>
+too	RB	_ <O>
+many	JJ	_ <O>
+liberties	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+racial	JJ	_ <O>
+slurs	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Most	JJS	<B-CUE>
+critics	NNS	<I-CUE>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+praised	VBD	_ <O>
+the	DT	_ <O>
+show	NN	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+the	DT	_ <O>
+score	NN	_ <O>
+.	.	_ <O>
+ <O>
+Lincoln	NNP	_ <O>
+Center	NNP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+producer	NN	_ <O>
+solely	RB	_ <O>
+responsible	JJ	_ <O>
+for	IN	_ <O>
+covering	VBG	_ <O>
+the	DT	_ <O>
+weekly	JJ	_ <O>
+running	NN	_ <O>
+costs	NNS	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+ <O>

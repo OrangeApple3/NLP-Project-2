@@ -1,0 +1,80 @@
+Poser	NNP	_ <O>
+has	VBZ	_ <O>
+become	VBN	_ <O>
+a	DT	_ <O>
+popular	JJ	_ <O>
+tool	NN	_ <O>
+for	IN	_ <O>
+digital	JJ	_ <O>
+artists	NNS	_ <O>
+creating	VBG	_ <O>
+original	JJ	_ <O>
+images	NNS	_ <O>
+featuring	VBG	_ <O>
+human	JJ	_ <O>
+figures	NNS	_ <O>
+.	.	_ <O>
+ <O>
+While	IN	_ <O>
+Poser	NNP	_ <O>
+has	VBZ	_ <O>
+animation	NN	_ <O>
+capability	NN	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+use	NN	_ <O>
+is	VBZ	_ <O>
+less	RBR	_ <O>
+common	JJ	_ <O>
+.	.	_ <O>
+ <O>
+Poser	NNP	_ <O>
+figures	NNS	_ <O>
+and	CC	_ <O>
+animations	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+seen	VBN	_ <O>
+in	IN	_ <O>
+some	DT	_ <O>
+computer	NN	_ <O>
+games	NNS	_ <O>
+from	IN	_ <O>
+budding	JJ	_ <O>
+game	NN	_ <O>
+creators	NNS	_ <O>
+(	-LRB-	_ <O>
+Desert	NNP	_ <O>
+Rifle	NNP	_ <O>
+-	HYPH	_ <O>
+Qi	NNP	_ <O>
+games	NNS	_ <O>
+and	CC	_ <O>
+Cake	NNP	_ <O>
+shop	NN	_ <O>
+-	HYPH	_ <O>
+Elefun	NNP	_ <O>
+games	NNS	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+ <O>
+Infography	NNP	_ <O>
+present	NN	_ <O>
+in	IN	_ <O>
+several	JJ	<B-CUE>
+science	NN	<I-CUE>
+and	CC	<I-CUE>
+technology	NN	<I-CUE>
+magazines	NNS	<I-CUE>
+around	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+Poser	NNP	_ <O>
+retouched	VBD	_ <O>
+or	CC	_ <O>
+postworked	VBD	_ <O>
+models	NNS	_ <O>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,64 @@
+Although	IN	_ <O>
+more	JJR	_ <O>
+typical	JJ	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+periodic	JJ	_ <O>
+paralytic	JJ	_ <O>
+disorders	NNS	_ <O>
+,	,	_ <O>
+patients	NNS	_ <O>
+with	IN	_ <O>
+PC	NN	_ <O>
+may	MD	_ <O>
+also	RB	_ <O>
+have	VB	_ <O>
+potassium	NN	_ <O>
+provoked	VBN	_ <O>
+paralysis	NN	_ <O>
+.	.	_ <O>
+ <O>
+Patients	NNS	_ <O>
+with	IN	_ <O>
+this	DT	_ <O>
+disorder	NN	_ <O>
+commonly	RB	_ <O>
+present	JJ	_ <O>
+with	IN	_ <O>
+myotonia	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+face	NN	_ <O>
+or	CC	_ <O>
+upper	JJ	_ <O>
+extremities	NNS	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+lower	JJR	_ <O>
+extremities	NNS	_ <O>
+are	VBP	_ <O>
+generally	RB	_ <O>
+less	RBR	_ <O>
+affected	JJ	_ <O>
+.	.	_ <O>
+ <O>
+While	IN	_ <O>
+some	DT	<B-CUE>
+other	JJ	<I-CUE>
+related	JJ	<I-CUE>
+disorders	NNS	<I-CUE>
+result	NN	_ <O>
+in	IN	_ <O>
+muscle	NN	_ <O>
+atrophy	VBP	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+normally	RB	_ <O>
+the	DT	_ <O>
+case	NN	_ <O>
+with	IN	_ <O>
+PC.	NN	_ <O>
+ <O>

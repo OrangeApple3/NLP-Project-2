@@ -1,0 +1,11 @@
+The	DT	_ <O>
+bowler	NN	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+get	VB	_ <O>
+credit	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+wicket	NN	_ <O>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,105 @@
+Today	NN	_ <O>
+,	,	_ <O>
+PCC	NNP	_ <O>
+is	VBZ	_ <O>
+owned	VBN	_ <O>
+by	IN	_ <O>
+its	PRP$	_ <O>
+300+	CD	_ <O>
+members	NNS	_ <O>
+and	CC	_ <O>
+is	VBZ	<B-CUE>
+regarded	VBN	<I-CUE>
+as	IN	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+finest	JJS	<I-CUE>
+courses	NNS	_ <O>
+in	IN	_ <O>
+Massachusetts	NNP	_ <O>
+.	.	_ <O>
+ <O>
+PCC	NNP	_ <O>
+hosts	VBZ	_ <O>
+the	DT	_ <O>
+annual	JJ	_ <O>
+Hornblower	NNP	_ <O>
+Memorial	NNP	_ <O>
+tournament	NN	_ <O>
+(	-LRB-	_ <O>
+now	RB	_ <O>
+in	IN	_ <O>
+its	PRP$	_ <O>
+5th	JJ	_ <O>
+decade	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+draws	VBZ	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+best	JJS	<I-CUE>
+amateur	NN	<I-CUE>
+players	NNS	<I-CUE>
+from	IN	_ <O>
+across	IN	_ <O>
+New	NNP	_ <O>
+England	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Northeast	NNP	_ <O>
+.	.	_ <O>
+ <O>
+PCC	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+overlooks	VBZ	_ <O>
+Plymouth	NNP	_ <O>
+Bay	NNP	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+located	VBN	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+miles	NNS	_ <O>
+from	IN	_ <O>
+Plymouth	NNP	_ <O>
+Rock	NNP	_ <O>
+,	,	_ <O>
+Plimoth	NNP	_ <O>
+Plantation	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Mayflower	NNP	_ <O>
+II	NNP	_ <O>
+'	''	_ <O>
+near	IN	_ <O>
+the	DT	_ <O>
+junction	NN	_ <O>
+of	IN	_ <O>
+Route	NNP	_ <O>
+3A	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Plimoth	NNP	_ <O>
+Plantation	NNP	_ <O>
+Highway	NNP	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+membership	NN	_ <O>
+waiting	VBG	_ <O>
+list	NN	_ <O>
+is	VBZ	_ <O>
+generally	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+2-	NN	_ <O>
+to	TO	_ <O>
+3-year	VB	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+ <O>

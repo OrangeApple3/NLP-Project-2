@@ -1,0 +1,63 @@
+'	``	_ <O>
+Possible	JJ	_ <O>
+Reserves	NNS	_ <O>
+'	''	_ <O>
+-	:	_ <O>
+i.e.	FW	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+having	VBG	_ <O>
+a	DT	_ <O>
+chance	NN	_ <O>
+of	IN	_ <O>
+being	VBG	_ <O>
+developed	VBN	_ <O>
+under	IN	_ <O>
+favourable	JJ	_ <O>
+circumstances	NNS	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+ <O>
+Some	DT	<B-CUE>
+industry	NN	<I-CUE>
+specialists	NNS	<I-CUE>
+refer	VB	_ <O>
+to	IN	_ <O>
+this	DT	_ <O>
+as	IN	_ <O>
+P10	NNP	_ <O>
+,	,	_ <O>
+i.e.	FW	_ <O>
+,	,	_ <O>
+ideally	RB	<B-CUE>
+having	VBG	_ <O>
+a	DT	_ <O>
+10	CD	_ <O>
+%	NN	_ <O>
+certainty	NN	_ <O>
+of	IN	_ <O>
+being	VBG	_ <O>
+produced	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+foreseeable	JJ	_ <O>
+future	NN	_ <O>
+.	.	_ <O>
+ <O>
+This	DT	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+known	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+industry	NN	_ <O>
+as	IN	_ <O>
+3P	CD	_ <O>
+or	CC	_ <O>
+Proven	NNP	_ <O>
+plus	CC	_ <O>
+probable	JJ	_ <O>
+plus	CC	_ <O>
+possible	JJ	_ <O>
+.	.	_ <O>
+ <O>

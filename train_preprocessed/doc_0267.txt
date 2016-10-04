@@ -1,0 +1,96 @@
+Davilita	NNP	_ <O>
+became	VBD	_ <O>
+very	RB	_ <O>
+popular	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+New	NNP	_ <O>
+York	NNP	_ <O>
+Latin	JJ	_ <O>
+scene	NN	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+soon	RB	_ <O>
+working	VBG	_ <O>
+with	IN	_ <O>
+many	JJ	<B-CUE>
+Latin	JJ	<I-CUE>
+artists	NNS	<I-CUE>
+.	.	_ <O>
+ <O>
+Davilita	NNP	_ <O>
+accepted	VBD	_ <O>
+and	CC	_ <O>
+became	VBD	_ <O>
+the	DT	_ <O>
+lead	NN	_ <O>
+singer	NN	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+Flores	NNP	<I-CUE>
+'	''	<I-CUE>
+boleros	VBZ	<I-CUE>
+.	.	_ <O>
+ <O>
+He	PRP	_ <O>
+traveled	VBD	_ <O>
+to	IN	_ <O>
+many	JJ	<B-CUE>
+countries	NNS	<I-CUE>
+with	IN	_ <O>
+the	DT	_ <O>
+sexteto	NN	_ <O>
+.	.	_ <O>
+ <O>
+In	IN	_ <O>
+1954	CD	_ <O>
+,	,	_ <O>
+Davilita	NNP	_ <O>
+had	VBD	_ <O>
+returned	VBN	_ <O>
+to	IN	_ <O>
+Puerto	NNP	_ <O>
+Rico	NNP	_ <O>
+where	WRB	_ <O>
+he	PRP	_ <O>
+joined	VBD	_ <O>
+Felipe	NNP	_ <O>
+"	``	_ <O>
+La	NNP	_ <O>
+Voz	NNP	_ <O>
+"	''	_ <O>
+Rodriguez	NNP	_ <O>
+and	CC	_ <O>
+together	RB	_ <O>
+formed	VBD	_ <O>
+a	DT	_ <O>
+duo	NN	_ <O>
+.	.	_ <O>
+ <O>
+Even	RB	_ <O>
+though	IN	_ <O>
+Davilita	NNP	_ <O>
+'s	POS	_ <O>
+voice	NN	_ <O>
+was	VBD	_ <O>
+n't	RB	_ <O>
+as	RB	_ <O>
+sharp	JJ	_ <O>
+as	IN	_ <O>
+when	WRB	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+young	JJ	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+were	VBD	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+score	VB	_ <O>
+many	JJ	<B-CUE>
+"	``	<I-CUE>
+hits	NNS	<I-CUE>
+"	''	<I-CUE>
+.	.	_ <O>
+ <O>

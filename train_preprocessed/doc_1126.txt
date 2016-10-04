@@ -1,0 +1,74 @@
+The	DT	_ <O>
+British	JJ	_ <O>
+media	NNS	_ <O>
+often	RB	_ <O>
+portrays	VBZ	_ <O>
+a	DT	_ <O>
+cultural	JJ	_ <O>
+skepticism	NN	_ <O>
+towards	IN	_ <O>
+religion	NN	_ <O>
+.	.	_ <O>
+ <O>
+British	JJ	_ <O>
+comedy	NN	_ <O>
+in	IN	_ <O>
+particular	JJ	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+history	NN	_ <O>
+of	IN	_ <O>
+satire	NN	_ <O>
+and	CC	_ <O>
+parody	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+subject	NN	_ <O>
+,	,	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+iconic	JJ	<I-CUE>
+example	NN	_ <O>
+probably	RB	<B-CUE>
+being	VBG	_ <O>
+Monty	NNP	_ <O>
+Python	NNP	_ <O>
+film	NN	_ <O>
+'	POS	_ <O>
+Life	NN	_ <O>
+of	IN	_ <O>
+Brian	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+ <O>
+Religious	JJ	_ <O>
+mockery	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+open	JJ	_ <O>
+disbelief	NN	_ <O>
+in	IN	_ <O>
+Christianity	NNP	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+as	IN	_ <O>
+culturally	RB	_ <O>
+taboo	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+British	JJ	_ <O>
+media	NNS	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+could	MD	_ <O>
+be	VB	_ <O>
+considered	VBN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+nations	NNS	_ <O>
+.	.	_ <O>
+ <O>

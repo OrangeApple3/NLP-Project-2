@@ -1,0 +1,122 @@
+It	PRP	_ <O>
+was	VBD	_ <O>
+intensely	RB	_ <O>
+engaged	VBN	_ <O>
+against	IN	_ <O>
+several	JJ	<B-CUE>
+kidnap	NN	<I-CUE>
+-	HYPH	<I-CUE>
+for	IN	<I-CUE>
+-	HYPH	<I-CUE>
+ransom	NN	<I-CUE>
+(	-LRB-	<I-CUE>
+KFRC	NNP	<I-CUE>
+)	-RRB-	<I-CUE>
+gangs	NNS	<I-CUE>
+in	IN	_ <O>
+Central	NNP	_ <O>
+Mindanao	NNP	_ <O>
+.	.	_ <O>
+ <O>
+One	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+celebrated	JJ	<I-CUE>
+accomplishments	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+unit	NN	_ <O>
+during	IN	_ <O>
+this	DT	_ <O>
+period	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+rescue	NN	_ <O>
+of	IN	_ <O>
+Father	NNP	_ <O>
+BLANCO	NNP	_ <O>
+and	CC	_ <O>
+Anthony	NNP	_ <O>
+BIEL	NNP	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+Abu	NNP	_ <O>
+Sayyaf	NNP	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+encounters	NNS	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+unit	NN	_ <O>
+which	WDT	_ <O>
+preceded	VBD	_ <O>
+this	DT	_ <O>
+rescue	NN	_ <O>
+,	,	_ <O>
+together	RB	_ <O>
+with	IN	_ <O>
+other	JJ	_ <O>
+Marine	NNP	_ <O>
+units	NNS	_ <O>
+operating	VBG	_ <O>
+in	IN	_ <O>
+Basilan	NNP	_ <O>
+were	VBD	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+ever	RB	_ <O>
+series	NN	_ <O>
+of	IN	_ <O>
+encounters	NNS	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+AFP	NNP	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+ASG.	NNP	_ <O>
+ <O>
+This	DT	_ <O>
+operation	NN	_ <O>
+soon	RB	_ <O>
+led	VBD	_ <O>
+to	IN	_ <O>
+several	JJ	<B-CUE>
+intense	JJ	<I-CUE>
+but	CC	<I-CUE>
+nonetheless	RB	<I-CUE>
+successful	JJ	<I-CUE>
+combat	NN	<I-CUE>
+operations	NNS	<I-CUE>
+against	IN	_ <O>
+the	DT	_ <O>
+ASG	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+MNLF	NNP	_ <O>
+Lost	NNP	_ <O>
+Command	NNP	_ <O>
+in	IN	_ <O>
+Basilan	NNP	_ <O>
+and	CC	_ <O>
+Jolo	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+unfortunately	RB	_ <O>
+escalated	VBD	_ <O>
+to	IN	_ <O>
+alarming	VBG	_ <O>
+heights	NNS	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+arrival	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Philippine	JJ	_ <O>
+Army	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+ <O>

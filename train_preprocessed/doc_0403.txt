@@ -1,0 +1,146 @@
+The	DT	_ <O>
+series	NN	_ <O>
+has	VBZ	_ <O>
+received	VBN	_ <O>
+lots	NNS	_ <O>
+of	IN	_ <O>
+praise	NN	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+anime	JJ	_ <O>
+world	NN	_ <O>
+between	IN	_ <O>
+its	PRP$	_ <O>
+story	NN	_ <O>
+and	CC	_ <O>
+technical	JJ	_ <O>
+excellence	NN	_ <O>
+in	IN	_ <O>
+production	NN	_ <O>
+quality	NN	_ <O>
+,	,	_ <O>
+animation	NN	_ <O>
+and	CC	_ <O>
+color	NN	_ <O>
+.	.	_ <O>
+ <O>
+Due	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+very	RB	<B-CUE>
+bold	JJ	<I-CUE>
+and	CC	<I-CUE>
+daring	JJ	<I-CUE>
+scenes	NNS	_ <O>
+of	IN	_ <O>
+nudity	NN	_ <O>
+and	CC	_ <O>
+gore	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+series	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+drawn	VBN	_ <O>
+criticism	NN	_ <O>
+as	IN	_ <O>
+being	VBG	_ <O>
+"	``	_ <O>
+overly	RB	_ <O>
+blatant	JJ	_ <O>
+"	''	_ <O>
+or	CC	_ <O>
+"	``	_ <O>
+sad	JJ	_ <O>
+and	CC	_ <O>
+forced	VBN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+first	JJ	_ <O>
+seven	CD	_ <O>
+minutes	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+episode	NN	_ <O>
+are	VBP	<B-CUE>
+often	RB	<I-CUE>
+said	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+some	DT	_ <O>
+of	IN	_ <O>
+the	DT	<B-CUE>
+boldest	JJS	<I-CUE>
+and	CC	_ <O>
+most	RBS	<B-CUE>
+provocative	JJ	<I-CUE>
+scenes	NNS	_ <O>
+of	IN	_ <O>
+many	JJ	_ <O>
+anime	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+have	VBP	_ <O>
+deterred	VBN	_ <O>
+some	DT	<B-CUE>
+viewers	NNS	<I-CUE>
+and	CC	_ <O>
+caused	VBD	_ <O>
+controversy	NN	_ <O>
+as	IN	_ <O>
+to	IN	_ <O>
+its	PRP$	_ <O>
+release	NN	_ <O>
+.	.	_ <O>
+ <O>
+Criticism	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+leveled	VBN	_ <O>
+at	IN	_ <O>
+both	PDT	_ <O>
+the	DT	_ <O>
+Japanese	JJ	_ <O>
+and	CC	_ <O>
+English	JJ	_ <O>
+dub	NN	_ <O>
+for	IN	_ <O>
+having	VBG	_ <O>
+sub	NN	_ <O>
+-	HYPH	_ <O>
+par	NN	_ <O>
+voice	NN	_ <O>
+acting	VBG	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+three	CD	_ <O>
+episodes	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Another	DT	_ <O>
+criticism	NN	_ <O>
+is	VBZ	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+series	NN	_ <O>
+ends	VBZ	_ <O>
+abruptly	RB	_ <O>
+with	IN	_ <O>
+some	DT	_ <O>
+loose	JJ	_ <O>
+ends	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+story	NN	_ <O>
+that	WDT	_ <O>
+could	MD	_ <O>
+leave	VB	_ <O>
+viewers	NNS	_ <O>
+unsatisfied	JJ	_ <O>
+.	.	_ <O>
+ <O>

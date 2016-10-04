@@ -1,0 +1,40 @@
+'	``	_ <O>
+Leptoprin	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+dietary	JJ	_ <O>
+supplement	NN	_ <O>
+marketed	VBN	_ <O>
+by	IN	_ <O>
+"	``	_ <O>
+A.G.	NNP	_ <O>
+Waterhouse	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+child	NN	_ <O>
+company	NN	_ <O>
+of	IN	_ <O>
+Basic	NNP	_ <O>
+Research	NNP	_ <O>
+;	:	_ <O>
+Salt	NNP	_ <O>
+Lake	NNP	_ <O>
+City	NNP	_ <O>
+,	,	_ <O>
+Utah	NNP	_ <O>
+.	.	_ <O>
+ <O>
+It	PRP	_ <O>
+was	VBD	<B-CUE>
+formerly	RB	<I-CUE>
+known	VBN	<I-CUE>
+as	IN	_ <O>
+Anorex	NNP	_ <O>
+(	-LRB-	_ <O>
+see	VB	_ <O>
+anorexia	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,85 @@
+Fires	NNS	_ <O>
+have	VBP	_ <O>
+burned	VBN	_ <O>
+over	IN	_ <O>
+most	JJS	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+region	NN	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+past	NN	_ <O>
+.	.	_ <O>
+ <O>
+As	IN	_ <O>
+a	DT	_ <O>
+result	NN	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+dry	JJ	_ <O>
+sites	NNS	_ <O>
+,	,	_ <O>
+much	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+tree	NN	<I-CUE>
+growth	NN	<I-CUE>
+is	VBZ	_ <O>
+coniferous	JJ	_ <O>
+with	IN	_ <O>
+some	DT	<B-CUE>
+white	JJ	<I-CUE>
+birch	NN	<I-CUE>
+mixed	VBN	_ <O>
+in	RP	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+white	JJ	_ <O>
+pine	NN	_ <O>
+-	HYPH	_ <O>
+white	JJ	_ <O>
+birch	NN	_ <O>
+type	NN	_ <O>
+along	IN	_ <O>
+the	DT	_ <O>
+shores	NNS	_ <O>
+of	IN	_ <O>
+several	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+lakes	NNS	<I-CUE>
+and	CC	<I-CUE>
+ponds	NNS	<I-CUE>
+adds	VBZ	_ <O>
+immeasurably	RB	_ <O>
+to	IN	_ <O>
+their	PRP$	_ <O>
+attractiveness	NN	_ <O>
+.	.	_ <O>
+ <O>
+Stands	NNS	_ <O>
+of	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+best	JJS	<I-CUE>
+quality	NN	<I-CUE>
+Adirondack	JJ	_ <O>
+hardwoods	NNS	_ <O>
+exist	VBP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+covelike	JJ	_ <O>
+pockets	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+unburned	JJ	_ <O>
+area	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+northeast	NN	_ <O>
+.	.	_ <O>
+ <O>

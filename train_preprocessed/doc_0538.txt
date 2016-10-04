@@ -1,0 +1,116 @@
+Incidents	NNS	_ <O>
+of	IN	_ <O>
+violence	NN	_ <O>
+against	IN	_ <O>
+Christians	NNPS	_ <O>
+have	VBP	_ <O>
+occurred	VBN	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+parts	NNS	<I-CUE>
+of	IN	<I-CUE>
+India	NNP	<I-CUE>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+Vishva	NNP	_ <O>
+Hindu	NNP	_ <O>
+Parishad	NNP	_ <O>
+(	-LRB-	_ <O>
+VHP	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Bajrang	NNP	_ <O>
+Dal	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Rashtriya	NNP	_ <O>
+Swayamsevak	NNP	_ <O>
+Sangh	NNP	_ <O>
+(	-LRB-	_ <O>
+RSS	NNP	_ <O>
+)	-RRB-	_ <O>
+are	VBP	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+responsible	JJ	<I-CUE>
+organizations	NNS	_ <O>
+for	IN	_ <O>
+violence	NN	_ <O>
+against	IN	_ <O>
+Christians	NNPS	_ <O>
+.	.	_ <O>
+ <O>
+These	DT	_ <O>
+organizations	NNS	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+referred	VBD	_ <O>
+to	TO	_ <O>
+collectively	RB	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+name	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+umbrella	NN	_ <O>
+organization	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Sangh	NNP	_ <O>
+Parivar	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+local	JJ	_ <O>
+media	NNS	_ <O>
+were	VBD	_ <O>
+involved	VBN	_ <O>
+in	IN	_ <O>
+promoting	VBG	_ <O>
+anti	JJ	_ <O>
+-	HYPH	_ <O>
+Christian	JJ	_ <O>
+propaganda	NN	_ <O>
+in	IN	_ <O>
+Gujarat	NNP	_ <O>
+.	.	_ <O>
+ <O>
+These	DT	_ <O>
+claims	NNS	_ <O>
+have	VBP	<B-CUE>
+been	VBN	<I-CUE>
+disputed	VBN	<I-CUE>
+by	IN	_ <O>
+Christians	NNPS	<B-CUE>
+a	DT	_ <O>
+belief	NN	_ <O>
+described	VBN	_ <O>
+as	IN	_ <O>
+mythical	JJ	_ <O>
+and	CC	_ <O>
+propaganda	NN	_ <O>
+by	IN	_ <O>
+Sangh	NNP	_ <O>
+Parivar	NNP	_ <O>
+;	:	_ <O>
+the	DT	_ <O>
+Parivar	NNP	_ <O>
+objects	NNS	_ <O>
+in	IN	_ <O>
+any	DT	_ <O>
+case	NN	_ <O>
+to	IN	_ <O>
+all	DT	_ <O>
+conversions	NNS	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+threat	NN	_ <O>
+to	IN	_ <O>
+national	JJ	_ <O>
+unity	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+ <O>

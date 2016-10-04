@@ -1,0 +1,153 @@
+In	IN	<B-CUE>
+its	PRP$	<I-CUE>
+most	RBS	<I-CUE>
+general	JJ	<I-CUE>
+sense	NN	<I-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+practice	NN	_ <O>
+of	IN	_ <O>
+law	NN	_ <O>
+'	''	_ <O>
+involves	VBZ	_ <O>
+giving	VBG	_ <O>
+legal	JJ	_ <O>
+advice	NN	_ <O>
+to	IN	_ <O>
+clients	NNS	_ <O>
+,	,	_ <O>
+drafting	VBG	_ <O>
+legal	JJ	_ <O>
+documents	NNS	_ <O>
+for	IN	_ <O>
+clients	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+representing	VBG	_ <O>
+clients	NNS	_ <O>
+in	IN	_ <O>
+legal	JJ	_ <O>
+negotiations	NNS	_ <O>
+and	CC	_ <O>
+court	NN	_ <O>
+proceedings	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+lawsuits	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+applied	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+professional	JJ	_ <O>
+services	NNS	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+lawyer	NN	_ <O>
+or	CC	_ <O>
+attorney	NN	_ <O>
+at	IN	_ <O>
+law	NN	_ <O>
+,	,	_ <O>
+barrister	NN	_ <O>
+,	,	_ <O>
+solicitor	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+civil	JJ	_ <O>
+law	NN	_ <O>
+notary	NN	_ <O>
+.	.	_ <O>
+ <O>
+However	RB	_ <O>
+,	,	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+substantial	JJ	_ <O>
+amount	NN	_ <O>
+of	IN	_ <O>
+overlap	NN	_ <O>
+between	IN	_ <O>
+the	DT	_ <O>
+practice	NN	_ <O>
+of	IN	_ <O>
+law	NN	_ <O>
+and	CC	_ <O>
+various	JJ	<B-CUE>
+other	JJ	<I-CUE>
+professions	NNS	<I-CUE>
+where	WRB	_ <O>
+clients	NNS	_ <O>
+are	VBP	_ <O>
+represented	VBN	_ <O>
+by	IN	_ <O>
+agents	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Moreover	RB	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+growing	VBG	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+legal	JJ	_ <O>
+document	NN	_ <O>
+assistants	NNS	_ <O>
+(	-LRB-	_ <O>
+LDAs	NNS	_ <O>
+)	-RRB-	_ <O>
+are	VBP	_ <O>
+offering	VBG	_ <O>
+services	NNS	_ <O>
+which	WDT	_ <O>
+have	VBP	_ <O>
+traditionally	RB	_ <O>
+been	VBN	_ <O>
+offered	VBN	_ <O>
+only	RB	_ <O>
+by	IN	_ <O>
+lawyers	NNS	_ <O>
+and	CC	_ <O>
+their	PRP$	_ <O>
+employee	NN	_ <O>
+paralegals	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Many	JJ	<B-CUE>
+documents	NNS	<I-CUE>
+may	MD	<B-CUE>
+now	RB	_ <O>
+be	VB	_ <O>
+created	VBN	_ <O>
+by	IN	_ <O>
+computer	NN	_ <O>
+-	HYPH	_ <O>
+assisted	VBN	_ <O>
+drafting	NN	_ <O>
+libraries	NNS	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+clients	NNS	_ <O>
+are	VBP	_ <O>
+asked	VBN	_ <O>
+a	DT	_ <O>
+series	NN	_ <O>
+of	IN	_ <O>
+questions	NNS	_ <O>
+posed	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+software	NN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+construct	VB	_ <O>
+the	DT	_ <O>
+legal	JJ	_ <O>
+documents	NNS	_ <O>
+.	.	_ <O>
+ <O>

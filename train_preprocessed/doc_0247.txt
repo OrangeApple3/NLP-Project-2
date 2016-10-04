@@ -1,0 +1,113 @@
+In	IN	_ <O>
+ancient	JJ	_ <O>
+times	NNS	_ <O>
+,	,	_ <O>
+dogs	NNS	_ <O>
+,	,	_ <O>
+usually	RB	_ <O>
+large	JJ	_ <O>
+ancient	JJ	_ <O>
+mastiff	NN	_ <O>
+and	CC	_ <O>
+rottweiler	NN	_ <O>
+-	HYPH	_ <O>
+type	NN	_ <O>
+breeds	NNS	_ <O>
+,	,	_ <O>
+would	MD	_ <O>
+be	VB	_ <O>
+strapped	VBN	_ <O>
+with	IN	_ <O>
+armor	NN	_ <O>
+and	CC	_ <O>
+spiked	JJ	_ <O>
+collars	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+sent	VBN	_ <O>
+into	IN	_ <O>
+battle	NN	_ <O>
+to	TO	_ <O>
+attack	VB	_ <O>
+the	DT	_ <O>
+enemy	NN	_ <O>
+.	.	_ <O>
+ <O>
+This	DT	_ <O>
+strategy	NN	_ <O>
+was	VBD	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+various	JJ	<B-CUE>
+civilizations	NNS	<I-CUE>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+Romans	NNPS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Greeks	NNPS	_ <O>
+.	.	_ <O>
+ <O>
+This	DT	_ <O>
+approach	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+largely	RB	<B-CUE>
+abandoned	VBN	_ <O>
+in	IN	_ <O>
+modern	JJ	_ <O>
+day	NN	_ <O>
+militaries	NNS	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+fact	NN	_ <O>
+that	IN	_ <O>
+modern	JJ	_ <O>
+weapons	NNS	_ <O>
+would	MD	_ <O>
+allow	VB	_ <O>
+the	DT	_ <O>
+dogs	NNS	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+destroyed	VBN	_ <O>
+almost	RB	_ <O>
+immediately	RB	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+on	IN	_ <O>
+Okinawa	NNP	_ <O>
+when	WRB	_ <O>
+US	NNP	_ <O>
+soldiers	NNS	_ <O>
+quickly	RB	_ <O>
+eliminated	VBD	_ <O>
+a	DT	_ <O>
+platoon	NN	_ <O>
+of	IN	_ <O>
+Japanese	JJ	_ <O>
+soldiers	NNS	_ <O>
+and	CC	_ <O>
+their	PRP$	_ <O>
+dogs	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Ethics	NNS	<B-CUE>
+questions	NNS	<I-CUE>
+have	VBP	<I-CUE>
+also	RB	<I-CUE>
+been	VBN	<I-CUE>
+raised	VBN	<I-CUE>
+about	IN	_ <O>
+the	DT	_ <O>
+uses	NNS	_ <O>
+of	IN	_ <O>
+dogs	NNS	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+way	NN	_ <O>
+.	.	_ <O>
+ <O>

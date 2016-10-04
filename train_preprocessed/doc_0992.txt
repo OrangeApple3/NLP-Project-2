@@ -1,0 +1,15 @@
+Russia	NNP	_ <O>
+has	VBZ	_ <O>
+an	DT	_ <O>
+embassy	NN	_ <O>
+in	IN	_ <O>
+Kampala	NNP	_ <O>
+and	CC	_ <O>
+Uganda	NNP	_ <O>
+has	VBZ	_ <O>
+an	DT	_ <O>
+embassy	NN	_ <O>
+in	IN	_ <O>
+Moscow	NNP	_ <O>
+.	.	_ <O>
+ <O>

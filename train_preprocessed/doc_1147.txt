@@ -1,0 +1,68 @@
+In	IN	_ <O>
+the	DT	_ <O>
+implementation	NN	_ <O>
+field	NN	_ <O>
+several	JJ	<B-CUE>
+techniques	NNS	<I-CUE>
+are	VBP	_ <O>
+used	VBN	_ <O>
+.	.	_ <O>
+ <O>
+A	DT	_ <O>
+well	RB	<B-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+method	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+specifically	RB	_ <O>
+oriented	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+implementation	NN	_ <O>
+field	NN	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+Regatta	NN	_ <O>
+method	NN	_ <O>
+by	IN	_ <O>
+Sogeti	NNP	_ <O>
+.	.	_ <O>
+ <O>
+Systems	NNS	_ <O>
+are	VBP	_ <O>
+installed	VBN	_ <O>
+in	IN	_ <O>
+several	JJ	<B-CUE>
+different	JJ	<I-CUE>
+ways	NNS	<I-CUE>
+.	.	_ <O>
+ <O>
+Different	JJ	_ <O>
+organizations	NNS	_ <O>
+may	MD	_ <O>
+have	VB	_ <O>
+their	PRP$	_ <O>
+own	JJ	_ <O>
+methods	NNS	_ <O>
+,	,	_ <O>
+When	WRB	_ <O>
+implementing	VBG	_ <O>
+a	DT	_ <O>
+system	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+considered	VBN	_ <O>
+a	DT	_ <O>
+project	NN	_ <O>
+and	CC	_ <O>
+thus	RB	_ <O>
+must	MD	_ <O>
+be	VB	_ <O>
+handled	VBN	_ <O>
+as	IN	_ <O>
+such	JJ	_ <O>
+.	.	_ <O>
+ <O>

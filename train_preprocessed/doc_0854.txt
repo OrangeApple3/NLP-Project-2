@@ -1,0 +1,12 @@
+Shabazz	NNP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+member	NN	_ <O>
+of	IN	_ <O>
+Delta	NNP	_ <O>
+Sigma	NNP	_ <O>
+Theta	NNP	_ <O>
+Sorority	NNP	_ <O>
+,	,	_ <O>
+Inc.	NNP	_ <O>
+ <O>

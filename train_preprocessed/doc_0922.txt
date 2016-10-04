@@ -1,0 +1,33 @@
+'	''	_ <O>
+Frere	NNP	_ <O>
+Jacques	NNP	_ <O>
+'	POS	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+well	RB	<B-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+children	NNS	_ <O>
+'s	POS	_ <O>
+song	NN	_ <O>
+.	.	_ <O>
+ <O>
+It	PRP	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+sung	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+simple	JJ	_ <O>
+melody	NN	_ <O>
+or	CC	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+round	NN	_ <O>
+with	IN	_ <O>
+up	IN	_ <O>
+to	TO	_ <O>
+four	CD	_ <O>
+parts	NNS	_ <O>
+.	.	_ <O>
+ <O>

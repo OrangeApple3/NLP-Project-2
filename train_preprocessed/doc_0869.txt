@@ -1,0 +1,81 @@
+Pathological	JJ	_ <O>
+(	-LRB-	_ <O>
+acquired	VBN	_ <O>
+)	-RRB-	_ <O>
+phimosis	NN	_ <O>
+has	VBZ	_ <O>
+several	JJ	<B-CUE>
+causes	NNS	<I-CUE>
+.	.	_ <O>
+ <O>
+Lichen	NNP	_ <O>
+sclerosus	VBZ	_ <O>
+et	FW	_ <O>
+atrophicus	NN	_ <O>
+(	-LRB-	_ <O>
+thought	VBD	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+condition	NN	_ <O>
+as	IN	_ <O>
+balanitis	NN	_ <O>
+xerotica	NN	_ <O>
+obliterans	NNS	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+is	VBZ	<B-CUE>
+regarded	VBN	<I-CUE>
+as	IN	_ <O>
+a	DT	_ <O>
+common	JJ	_ <O>
+(	-LRB-	_ <O>
+or	CC	_ <O>
+even	RB	_ <O>
+the	DT	_ <O>
+main	JJ	_ <O>
+)	-RRB-	_ <O>
+cause	NN	_ <O>
+of	IN	_ <O>
+pathological	JJ	_ <O>
+phimosis	NN	_ <O>
+.	.	_ <O>
+ <O>
+Other	JJ	_ <O>
+causes	VBZ	_ <O>
+may	MD	<B-CUE>
+include	VBP	_ <O>
+:	:	_ <O>
+scarring	NN	_ <O>
+caused	VBN	_ <O>
+by	IN	_ <O>
+forcible	JJ	_ <O>
+retraction	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+foreskin	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+balanitis	NN	_ <O>
+.	.	_ <O>
+ <O>
+Some	DT	<B-CUE>
+studies	NNS	<I-CUE>
+found	VBD	_ <O>
+phimosis	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+risk	NN	_ <O>
+factor	NN	_ <O>
+for	IN	_ <O>
+urinary	JJ	_ <O>
+retention	NN	_ <O>
+and	CC	_ <O>
+carcinoma	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+penis	NN	_ <O>
+.	.	_ <O>
+ <O>

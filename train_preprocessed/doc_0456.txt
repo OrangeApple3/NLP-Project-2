@@ -1,0 +1,60 @@
+Husqvarna	NNP	_ <O>
+also	RB	_ <O>
+provides	VBZ	_ <O>
+lawn	NN	_ <O>
+mowers	NNS	_ <O>
+,	,	_ <O>
+lawn	NN	_ <O>
+tractors	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+yard	NN	_ <O>
+equipment	NN	_ <O>
+to	IN	_ <O>
+Sears	NNP	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+sold	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+Craftsman	NNP	_ <O>
+brand	NN	_ <O>
+.	.	_ <O>
+ <O>
+Sears	NNP	_ <O>
+also	RB	_ <O>
+carries	VBZ	_ <O>
+some	DT	<B-CUE>
+Poulan	NNP	<I-CUE>
+and	CC	<I-CUE>
+Husqvarna	NNP	<I-CUE>
+products	NNS	<I-CUE>
+.	.	_ <O>
+ <O>
+Husqvarna	NNP	_ <O>
+produces	VBZ	_ <O>
+products	NNS	_ <O>
+under	IN	_ <O>
+many	JJ	_ <O>
+brand	NN	_ <O>
+names	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Visit	VB	_ <O>
+to	TO	_ <O>
+view	VB	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+them	PRP	<I-CUE>
+,	,	_ <O>
+or	CC	_ <O>
+this	DT	_ <O>
+site	NN	_ <O>
+,	,	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+various	JJ	<B-CUE>
+examples	NNS	<I-CUE>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,83 @@
+Haitian	JJ	_ <O>
+spirits	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+loa	NN	_ <O>
+,	,	_ <O>
+are	VBP	_ <O>
+divided	VBN	_ <O>
+into	IN	_ <O>
+several	JJ	_ <O>
+"	``	_ <O>
+nations	NNS	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+ <O>
+Two	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+major	JJ	_ <O>
+nations	NNS	_ <O>
+are	VBP	_ <O>
+the	DT	_ <O>
+Rada	NNP	_ <O>
+and	CC	_ <O>
+Petwo	NNP	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+Rada	NNP	_ <O>
+loa	VBZ	_ <O>
+spirits	NNS	_ <O>
+like	IN	_ <O>
+Danbala	NNP	_ <O>
+,	,	_ <O>
+Ezili	NNP	_ <O>
+Freda	NNP	_ <O>
+and	CC	_ <O>
+Papa	NNP	_ <O>
+Legba	NNP	_ <O>
+--	:	_ <O>
+are	VBP	<B-CUE>
+said	VBN	<I-CUE>
+to	TO	_ <O>
+come	VB	_ <O>
+from	IN	_ <O>
+Africa	NNP	_ <O>
+,	,	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+former	JJ	_ <O>
+Dahomean	NNP	_ <O>
+empire	NN	_ <O>
+.	.	_ <O>
+ <O>
+Many	JJ	<B-CUE>
+scholars	NNS	<I-CUE>
+believe	VB	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+name	NN	_ <O>
+"	``	_ <O>
+Rada	NNP	_ <O>
+"	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+corruption	NN	_ <O>
+of	IN	_ <O>
+"	``	_ <O>
+Arara	NNP	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+an	DT	_ <O>
+African	JJ	_ <O>
+port	NN	_ <O>
+from	IN	_ <O>
+whence	RB	_ <O>
+many	JJ	_ <O>
+slave	NN	_ <O>
+ships	NNS	_ <O>
+were	VBD	_ <O>
+launched	VBN	_ <O>
+.	.	_ <O>
+ <O>

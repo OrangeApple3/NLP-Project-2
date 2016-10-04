@@ -1,0 +1,65 @@
+An	DT	_ <O>
+oil	NN	_ <O>
+well	NN	_ <O>
+in	IN	_ <O>
+Canada	NNP	_ <O>
+.	.	_ <O>
+ <O>
+Canada	NNP	_ <O>
+has	VBZ	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+'s	POS	_ <O>
+second	RB	_ <O>
+largest	JJS	_ <O>
+proven	VBN	_ <O>
+oil	NN	_ <O>
+reserves	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Peak	NNP	_ <O>
+Graph	NNP	_ <O>
+showing	VBG	_ <O>
+oil	NN	_ <O>
+production	NN	_ <O>
+has	VBZ	_ <O>
+peaked	VBN	_ <O>
+in	IN	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+OPEC	NNP	_ <O>
+and	CC	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+FSU	NN	_ <O>
+countries	NNS	_ <O>
+ <O>
+Countries	NNS	_ <O>
+with	IN	_ <O>
+largest	JJS	_ <O>
+oil	NN	_ <O>
+reserves	NNS	_ <O>
+ <O>
+'	``	_ <O>
+Oil	NN	_ <O>
+reserves	NNS	_ <O>
+'	POS	_ <O>
+refer	VB	_ <O>
+to	IN	_ <O>
+portions	NNS	_ <O>
+of	IN	_ <O>
+oil	NN	_ <O>
+in	IN	_ <O>
+place	NN	_ <O>
+that	WDT	_ <O>
+are	VBP	<B-CUE>
+claimed	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+recoverable	JJ	_ <O>
+under	IN	_ <O>
+current	JJ	_ <O>
+economic	JJ	_ <O>
+constraints	NNS	_ <O>
+.	.	_ <O>
+ <O>

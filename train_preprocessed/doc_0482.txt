@@ -1,0 +1,69 @@
+Postictal	JJ	_ <O>
+migraines	NNS	_ <O>
+are	VBP	_ <O>
+a	DT	_ <O>
+major	JJ	_ <O>
+complaint	NN	_ <O>
+among	IN	_ <O>
+epilepsy	JJ	_ <O>
+patients	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+can	MD	_ <O>
+have	VB	_ <O>
+a	DT	<B-CUE>
+variety	NN	<I-CUE>
+of	IN	<I-CUE>
+etiologies	NNS	<I-CUE>
+.	.	_ <O>
+ <O>
+One	CD	_ <O>
+possible	JJ	<B-CUE>
+cause	NN	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+migraines	NNS	_ <O>
+is	VBZ	_ <O>
+high	JJ	_ <O>
+intracranial	JJ	_ <O>
+pressure	NN	_ <O>
+resulting	VBG	_ <O>
+from	IN	_ <O>
+postictal	JJ	_ <O>
+cerebral	JJ	_ <O>
+edema	NN	_ <O>
+.	.	_ <O>
+ <O>
+At	IN	_ <O>
+times	NNS	_ <O>
+,	,	_ <O>
+patients	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+unaware	JJ	_ <O>
+that	IN	_ <O>
+they	PRP	_ <O>
+had	VBD	_ <O>
+a	DT	_ <O>
+seizure	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+characteristic	JJ	_ <O>
+migraine	NN	_ <O>
+is	VBZ	_ <O>
+their	PRP$	_ <O>
+only	JJ	_ <O>
+clue	NN	_ <O>
+.	.	_ <O>
+ <O>
+Depression	NN	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+very	RB	_ <O>
+common	JJ	_ <O>
+after	IN	_ <O>
+a	DT	_ <O>
+seizure	NN	_ <O>
+.	.	_ <O>
+ <O>

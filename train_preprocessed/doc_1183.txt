@@ -1,0 +1,93 @@
+Some	DT	<B-CUE>
+have	VBP	_ <O>
+attempted	VBN	_ <O>
+to	TO	_ <O>
+construct	VB	_ <O>
+an	DT	_ <O>
+"	``	_ <O>
+interests	NNS	_ <O>
+theory	NN	_ <O>
+"	''	_ <O>
+defense	NN	_ <O>
+of	IN	_ <O>
+human	JJ	_ <O>
+rights	NNS	_ <O>
+.	.	_ <O>
+ <O>
+For	IN	_ <O>
+example	NN	_ <O>
+the	DT	_ <O>
+philosopher	NN	_ <O>
+John	NNP	_ <O>
+Finnis	NNP	_ <O>
+argues	VBZ	_ <O>
+that	IN	_ <O>
+human	JJ	_ <O>
+rights	NNS	_ <O>
+are	VBP	_ <O>
+justifiable	JJ	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+grounds	NNS	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+instrumental	JJ	_ <O>
+value	NN	_ <O>
+in	IN	_ <O>
+creating	VBG	_ <O>
+the	DT	_ <O>
+necessary	JJ	_ <O>
+conditions	NNS	_ <O>
+for	IN	_ <O>
+human	JJ	_ <O>
+well	RB	_ <O>
+-	HYPH	_ <O>
+being	NN	_ <O>
+.	.	_ <O>
+ <O>
+Some	DT	<B-CUE>
+interest	NN	<I-CUE>
+-	HYPH	<I-CUE>
+theorists	NNS	<I-CUE>
+also	RB	_ <O>
+justify	VB	_ <O>
+the	DT	_ <O>
+duty	NN	_ <O>
+to	TO	_ <O>
+respect	VB	_ <O>
+the	DT	_ <O>
+rights	NNS	_ <O>
+of	IN	_ <O>
+other	JJ	_ <O>
+individuals	NNS	_ <O>
+on	IN	_ <O>
+grounds	NNS	_ <O>
+of	IN	_ <O>
+self	NN	_ <O>
+-	HYPH	_ <O>
+interest	NN	_ <O>
+(	-LRB-	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+altruism	NN	_ <O>
+or	CC	_ <O>
+benevolence	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+ <O>
+Reciprocal	JJ	_ <O>
+recognition	NN	_ <O>
+and	CC	_ <O>
+respect	NN	_ <O>
+of	IN	_ <O>
+rights	NNS	_ <O>
+ensures	VBZ	_ <O>
+that	IN	_ <O>
+one	PRP	_ <O>
+'s	POS	_ <O>
+own	JJ	_ <O>
+will	MD	_ <O>
+be	VB	_ <O>
+protected	VBN	_ <O>
+.	.	_ <O>
+ <O>

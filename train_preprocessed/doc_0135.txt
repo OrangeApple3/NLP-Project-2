@@ -1,0 +1,46 @@
+The	DT	_ <O>
+nature	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+bombing	NN	_ <O>
+of	IN	_ <O>
+Dresden	NNP	_ <O>
+has	VBZ	_ <O>
+made	VBN	_ <O>
+it	PRP	_ <O>
+a	DT	_ <O>
+unique	JJ	_ <O>
+point	NN	_ <O>
+of	IN	_ <O>
+contention	NN	_ <O>
+and	CC	_ <O>
+debate	NN	_ <O>
+.	.	_ <O>
+ <O>
+Arguments	NNS	_ <O>
+for	IN	_ <O>
+and	CC	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+bombing	NN	_ <O>
+being	VBG	_ <O>
+a	DT	_ <O>
+war	NN	_ <O>
+crime	NN	_ <O>
+come	VBN	_ <O>
+from	IN	_ <O>
+all	RB	_ <O>
+across	IN	_ <O>
+the	DT	_ <O>
+political	JJ	_ <O>
+spectrum	NN	_ <O>
+and	CC	_ <O>
+are	VBP	<B-CUE>
+supported	VBN	<I-CUE>
+in	IN	_ <O>
+a	DT	<B-CUE>
+variety	NN	<I-CUE>
+of	IN	<I-CUE>
+ways	NNS	<I-CUE>
+.	.	_ <O>
+ <O>

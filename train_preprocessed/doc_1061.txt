@@ -1,0 +1,44 @@
+Maryland	NNP	_ <O>
+boasts	VBZ	_ <O>
+a	DT	<B-CUE>
+plethora	NN	<I-CUE>
+of	IN	<I-CUE>
+marine	JJ	<I-CUE>
+fare	NN	<I-CUE>
+,	,	_ <O>
+including	VBG	_ <O>
+blue	JJ	_ <O>
+crabs	NNS	_ <O>
+,	,	_ <O>
+crabcakes	NNS	_ <O>
+,	,	_ <O>
+crab	NN	_ <O>
+soup	NN	_ <O>
+,	,	_ <O>
+seafood	NN	_ <O>
+lasagna	NNS	_ <O>
+,	,	_ <O>
+raw	JJ	_ <O>
+oysters	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+rock	NN	_ <O>
+fish	NN	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+state	NN	_ <O>
+even	RB	_ <O>
+has	VBZ	_ <O>
+its	PRP$	_ <O>
+own	JJ	_ <O>
+brand	NN	_ <O>
+of	IN	_ <O>
+potato	NN	_ <O>
+chip	NN	_ <O>
+,	,	_ <O>
+called	VBD	_ <O>
+Crab	NNP	_ <O>
+Chips	NNP	_ <O>
+.	.	_ <O>
+ <O>

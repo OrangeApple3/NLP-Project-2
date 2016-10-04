@@ -1,0 +1,119 @@
+Views	NNS	<B-CUE>
+range	NN	_ <O>
+in	IN	_ <O>
+intensity	NN	_ <O>
+from	IN	_ <O>
+apathy	NN	_ <O>
+to	IN	_ <O>
+extreme	JJ	_ <O>
+.	.	_ <O>
+ <O>
+Some	DT	<B-CUE>
+risk	VB	_ <O>
+their	PRP$	_ <O>
+life	NN	_ <O>
+to	TO	_ <O>
+help	VB	_ <O>
+suffering	VBG	_ <O>
+animals	NNS	_ <O>
+;	:	_ <O>
+some	DT	<B-CUE>
+defend	VB	_ <O>
+these	DT	_ <O>
+farms	NNS	_ <O>
+as	IN	_ <O>
+necessary	JJ	_ <O>
+to	TO	_ <O>
+avoid	VB	_ <O>
+human	JJ	_ <O>
+starvation	NN	_ <O>
+.	.	_ <O>
+ <O>
+However	RB	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+factory	NN	_ <O>
+farming	NN	_ <O>
+is	VBZ	_ <O>
+necessary	JJ	_ <O>
+to	TO	_ <O>
+produce	VB	_ <O>
+the	DT	_ <O>
+quantity	NN	_ <O>
+of	IN	_ <O>
+meat	NN	_ <O>
+,	,	_ <O>
+eggs	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+dairy	NN	_ <O>
+products	NNS	_ <O>
+currently	RB	_ <O>
+demanded	VBN	_ <O>
+by	IN	_ <O>
+consumers	NNS	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+n't	RB	_ <O>
+necesseraly	RB	_ <O>
+required	VBN	_ <O>
+to	TO	_ <O>
+produce	VB	_ <O>
+the	DT	_ <O>
+amounts	NNS	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+products	NNS	_ <O>
+required	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+healthy	JJ	_ <O>
+(	-LRB-	_ <O>
+plant	NN	_ <O>
+based	VBN	_ <O>
+)	-RRB-	_ <O>
+diet	NN	_ <O>
+like	IN	_ <O>
+the	DT	_ <O>
+ones	NNS	_ <O>
+promoted	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+nutrition	NN	<I-CUE>
+experts	NNS	<I-CUE>
+.	.	_ <O>
+ <O>
+The	DT	<B-CUE>
+broad	JJ	<I-CUE>
+majority	NN	<I-CUE>
+of	IN	<I-CUE>
+experts	NNS	<I-CUE>
+believe	VBP	_ <O>
+that	IN	_ <O>
+while	IN	_ <O>
+some	DT	_ <O>
+form	NN	_ <O>
+of	IN	_ <O>
+industrial	JJ	_ <O>
+farming	NN	_ <O>
+is	VBZ	_ <O>
+necessary	JJ	_ <O>
+to	TO	_ <O>
+feed	VB	_ <O>
+billions	NNS	_ <O>
+of	IN	_ <O>
+humans	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+current	JJ	_ <O>
+methods	NNS	_ <O>
+must	MD	_ <O>
+be	VB	_ <O>
+altered	VBN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+variety	NN	_ <O>
+of	IN	_ <O>
+reasons	NNS	_ <O>
+.	.	_ <O>
+ <O>

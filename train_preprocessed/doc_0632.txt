@@ -1,0 +1,71 @@
+It	PRP	_ <O>
+is	VBZ	_ <O>
+found	VBN	_ <O>
+on	IN	_ <O>
+rotten	JJ	_ <O>
+logs	NNS	_ <O>
+,	,	_ <O>
+roots	NNS	_ <O>
+and	CC	_ <O>
+tree	NN	_ <O>
+stumps	NNS	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+widely	RB	<B-CUE>
+distributed	VBN	_ <O>
+.	.	_ <O>
+ <O>
+It	PRP	_ <O>
+can	MD	_ <O>
+also	RB	_ <O>
+grow	VB	_ <O>
+on	IN	_ <O>
+sawdust	NN	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+wood	NN	_ <O>
+waste	NN	_ <O>
+.	.	_ <O>
+ <O>
+Being	VBG	_ <O>
+very	RB	_ <O>
+variable	JJ	_ <O>
+in	IN	_ <O>
+appearance	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+divided	VBN	_ <O>
+into	IN	_ <O>
+several	JJ	_ <O>
+varieties	NNS	_ <O>
+or	CC	_ <O>
+subspecies	NNS	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+which	WDT	<I-CUE>
+are	VBP	<B-CUE>
+sometimes	RB	<I-CUE>
+considered	VBN	<I-CUE>
+species	NNS	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+own	JJ	_ <O>
+right	NN	_ <O>
+.	.	_ <O>
+ <O>
+It	PRP	_ <O>
+is	VBZ	_ <O>
+edible	JJ	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+not	RB	_ <O>
+often	RB	_ <O>
+collected	VBN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+table	NN	_ <O>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,116 @@
+In	IN	_ <O>
+the	DT	_ <O>
+anime	NN	_ <O>
+,	,	_ <O>
+several	JJ	<B-CUE>
+characters	NNS	<I-CUE>
+were	VBD	_ <O>
+introduced	VBN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+add	VB	_ <O>
+its	PRP$	_ <O>
+criticism	NN	_ <O>
+of	IN	_ <O>
+salaryman	NN	_ <O>
+culture	NN	_ <O>
+.	.	_ <O>
+ <O>
+Some	DT	<B-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+characters	NNS	<I-CUE>
+are	VBP	_ <O>
+portrayed	VBN	_ <O>
+only	RB	_ <O>
+to	TO	_ <O>
+seek	VB	_ <O>
+to	TO	_ <O>
+climb	VB	_ <O>
+the	DT	_ <O>
+corporate	JJ	_ <O>
+ladder	NN	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+unlikely	JJ	_ <O>
+it	PRP	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+.	.	_ <O>
+ <O>
+This	DT	_ <O>
+fact	NN	_ <O>
+makes	VBZ	_ <O>
+several	JJ	<B-CUE>
+characters	NNS	<I-CUE>
+lose	VB	_ <O>
+sight	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+importance	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+job	NN	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+lowly	JJ	_ <O>
+others	NNS	<B-CUE>
+might	MD	<B-CUE>
+see	VB	_ <O>
+it	PRP	_ <O>
+.	.	_ <O>
+ <O>
+At	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+time	NN	_ <O>
+,	,	_ <O>
+several	JJ	<B-CUE>
+characters	NNS	<I-CUE>
+are	VBP	_ <O>
+introduced	VBN	_ <O>
+who	WP	_ <O>
+seek	VBP	_ <O>
+to	TO	_ <O>
+work	VB	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+system	NN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+a	DT	_ <O>
+difference	NN	_ <O>
+.	.	_ <O>
+ <O>
+Having	VBG	_ <O>
+expanded	VBN	_ <O>
+his	PRP$	_ <O>
+influence	NN	_ <O>
+within	IN	_ <O>
+Technora	NNP	_ <O>
+Corporation	NNP	_ <O>
+,	,	_ <O>
+Dolf	NNP	_ <O>
+decides	VBZ	_ <O>
+to	TO	_ <O>
+defy	VB	_ <O>
+the	DT	_ <O>
+board	NN	_ <O>
+in	IN	_ <O>
+favor	NN	_ <O>
+of	IN	_ <O>
+steering	VBG	_ <O>
+the	DT	_ <O>
+company	NN	_ <O>
+towards	IN	_ <O>
+the	DT	_ <O>
+ideals	NNS	_ <O>
+he	PRP	_ <O>
+started	VBD	_ <O>
+out	RP	_ <O>
+with	IN	_ <O>
+.	.	_ <O>
+ <O>

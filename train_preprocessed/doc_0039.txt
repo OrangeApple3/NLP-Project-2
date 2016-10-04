@@ -1,0 +1,106 @@
+Early	RB	_ <O>
+sauropodomorphs	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+group	NN	_ <O>
+traditionally	RB	_ <O>
+called	VBD	_ <O>
+"	``	_ <O>
+prosauropods	NNS	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+may	MD	<B-CUE>
+also	RB	_ <O>
+have	VBP	_ <O>
+had	VBN	_ <O>
+air	NN	_ <O>
+sacs	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Although	IN	_ <O>
+possible	JJ	_ <O>
+pneumatic	JJ	_ <O>
+indentations	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+'	``	_ <O>
+Plateosaurus	NNP	_ <O>
+'	''	_ <O>
+and	CC	_ <O>
+'	``	_ <O>
+Thecodontosaurus	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+indentations	NNS	_ <O>
+are	VBP	_ <O>
+very	RB	_ <O>
+small	JJ	_ <O>
+.	.	_ <O>
+ <O>
+One	CD	<B-CUE>
+study	NN	<I-CUE>
+in	IN	_ <O>
+2007	CD	_ <O>
+concluded	VBD	_ <O>
+that	IN	_ <O>
+prosauropods	NNS	_ <O>
+likely	JJ	_ <O>
+had	VBD	_ <O>
+abdominal	JJ	_ <O>
+and	CC	_ <O>
+cervical	JJ	_ <O>
+air	NN	_ <O>
+sacs	NN	_ <O>
+,	,	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+evidence	NN	_ <O>
+for	IN	_ <O>
+them	PRP	_ <O>
+in	IN	_ <O>
+sister	NN	_ <O>
+taxa	NN	_ <O>
+(	-LRB-	_ <O>
+theropods	NNS	_ <O>
+and	CC	_ <O>
+sauropods	NNS	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	<B-CUE>
+study	NN	<I-CUE>
+concluded	VBD	_ <O>
+that	IN	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+impossible	JJ	<B-CUE>
+to	TO	<I-CUE>
+determine	VB	<I-CUE>
+whether	IN	<B-CUE>
+prosauropods	NNS	_ <O>
+had	VBD	_ <O>
+a	DT	_ <O>
+bird	NN	_ <O>
+-	HYPH	_ <O>
+like	JJ	_ <O>
+flow	NN	_ <O>
+-	HYPH	_ <O>
+through	IN	_ <O>
+lung	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+air	NN	_ <O>
+sacs	NNS	_ <O>
+were	VBD	_ <O>
+almost	RB	<B-CUE>
+certainly	RB	<I-CUE>
+present	NN	_ <O>
+.	.	_ <O>
+ <O>

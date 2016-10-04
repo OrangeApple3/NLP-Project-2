@@ -1,0 +1,90 @@
+There	EX	_ <O>
+is	VBZ	_ <O>
+some	DT	<B-CUE>
+evidence	NN	<I-CUE>
+suggesting	VBG	<B-CUE>
+that	IN	_ <O>
+administering	VBG	_ <O>
+glucocorticoids	NNS	_ <O>
+immediately	RB	_ <O>
+after	IN	_ <O>
+a	DT	_ <O>
+traumatic	JJ	_ <O>
+experience	NN	_ <O>
+may	MD	<B-CUE>
+help	NN	_ <O>
+prevent	VB	_ <O>
+PTSD.	NNP	_ <O>
+ <O>
+Several	JJ	<B-CUE>
+studies	NNS	<I-CUE>
+have	VBP	_ <O>
+shown	VBN	_ <O>
+that	IN	_ <O>
+patients	NNS	_ <O>
+who	WP	_ <O>
+receive	VBP	_ <O>
+high	JJ	_ <O>
+doses	NNS	_ <O>
+of	IN	_ <O>
+hydrocortisone	NN	_ <O>
+for	IN	_ <O>
+treatment	NN	_ <O>
+of	IN	_ <O>
+septic	JJ	_ <O>
+shock	NN	_ <O>
+or	CC	_ <O>
+following	VBG	_ <O>
+surgery	NN	_ <O>
+have	VBP	_ <O>
+a	DT	_ <O>
+lower	JJR	_ <O>
+incidence	NN	_ <O>
+and	CC	_ <O>
+fewer	JJR	_ <O>
+symptoms	NNS	_ <O>
+of	IN	_ <O>
+PTSD.	NNP	_ <O>
+ <O>
+In	IN	_ <O>
+this	DT	_ <O>
+study	NN	_ <O>
+,	,	_ <O>
+corticosterone	NN	_ <O>
+impaired	VBD	_ <O>
+memory	NN	_ <O>
+performance	NN	_ <O>
+,	,	_ <O>
+suggesting	VBG	<B-CUE>
+that	IN	_ <O>
+it	PRP	_ <O>
+may	MD	<B-CUE>
+reduce	VB	_ <O>
+risk	NN	_ <O>
+for	IN	_ <O>
+PTSD	NNP	_ <O>
+by	IN	_ <O>
+interfering	VBG	_ <O>
+with	IN	_ <O>
+consolidation	NN	_ <O>
+of	IN	_ <O>
+traumatic	JJ	_ <O>
+memories	NNS	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+neurodegenerative	JJ	_ <O>
+effects	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+glucocorticoids	NNS	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+may	MD	<B-CUE>
+prove	VB	_ <O>
+this	DT	_ <O>
+treatment	NN	_ <O>
+counterproductive	JJ	_ <O>
+.	.	_ <O>
+ <O>

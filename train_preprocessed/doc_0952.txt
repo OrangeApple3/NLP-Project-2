@@ -1,0 +1,127 @@
+The	DT	_ <O>
+design	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+programme	NN	_ <O>
+emanates	VBZ	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+view	NN	_ <O>
+that	IN	_ <O>
+to	TO	_ <O>
+understand	VB	_ <O>
+social	JJ	_ <O>
+phenomena	NN	_ <O>
+one	PRP	_ <O>
+must	MD	_ <O>
+approach	VB	_ <O>
+them	PRP	_ <O>
+from	IN	_ <O>
+several	JJ	<B-CUE>
+complementary	JJ	<I-CUE>
+disciplinary	JJ	<I-CUE>
+directions	NNS	<I-CUE>
+and	CC	<I-CUE>
+analytical	JJ	<I-CUE>
+frameworks	NNS	<I-CUE>
+.	.	_ <O>
+ <O>
+In	IN	_ <O>
+this	DT	_ <O>
+regard	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+study	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+philosophy	NN	_ <O>
+'	''	_ <O>
+is	VBZ	<B-CUE>
+considered	VBN	<I-CUE>
+important	JJ	_ <O>
+because	IN	_ <O>
+it	PRP	_ <O>
+both	DT	_ <O>
+equips	VBZ	_ <O>
+students	NNS	_ <O>
+with	IN	_ <O>
+meta	JJ	_ <O>
+-	HYPH	_ <O>
+tools	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+ability	NN	_ <O>
+to	TO	_ <O>
+reason	VB	_ <O>
+rigorously	RB	_ <O>
+and	CC	_ <O>
+logically	RB	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+facilitates	VBZ	_ <O>
+ethical	JJ	_ <O>
+reflection	NN	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+study	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+politics	NNS	_ <O>
+'	''	_ <O>
+is	VBZ	<B-CUE>
+considered	VBN	<I-CUE>
+necessary	JJ	_ <O>
+because	IN	_ <O>
+it	PRP	_ <O>
+acquaints	VBZ	_ <O>
+students	NNS	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+authoritative	JJ	_ <O>
+structures	NNS	_ <O>
+that	WDT	_ <O>
+govern	VBP	_ <O>
+society	NN	_ <O>
+and	CC	_ <O>
+help	VB	_ <O>
+solve	VB	_ <O>
+collective	JJ	_ <O>
+action	NN	_ <O>
+problems	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Finally	RB	_ <O>
+,	,	_ <O>
+studying	VBG	_ <O>
+'	``	_ <O>
+economics	NNS	_ <O>
+'	''	_ <O>
+is	VBZ	<B-CUE>
+seen	VBN	<I-CUE>
+as	IN	_ <O>
+vital	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+modern	JJ	_ <O>
+world	NN	_ <O>
+because	IN	_ <O>
+political	JJ	_ <O>
+decisions	NNS	_ <O>
+often	RB	_ <O>
+concern	VBP	_ <O>
+economic	JJ	_ <O>
+matters	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+government	NN	_ <O>
+decisions	NNS	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+influenced	VBN	_ <O>
+by	IN	_ <O>
+economic	JJ	_ <O>
+events	NNS	_ <O>
+.	.	_ <O>
+ <O>

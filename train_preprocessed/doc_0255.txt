@@ -1,0 +1,68 @@
+Criticism	NN	_ <O>
+of	IN	_ <O>
+EM	NNP	_ <O>
+has	VBZ	_ <O>
+come	VBN	_ <O>
+from	IN	_ <O>
+all	DT	<B-CUE>
+directions	NNS	<I-CUE>
+.	.	_ <O>
+ <O>
+Many	JJ	<B-CUE>
+internet	NN	<I-CUE>
+sites	NNS	<I-CUE>
+and	CC	<I-CUE>
+web	NN	<I-CUE>
+pages	NNS	<I-CUE>
+and	CC	<I-CUE>
+even	RB	<I-CUE>
+internet	NN	<I-CUE>
+videos	NNS	<I-CUE>
+have	VBP	_ <O>
+been	VBN	_ <O>
+dedicated	VBN	_ <O>
+to	IN	_ <O>
+countering	VBG	_ <O>
+the	DT	_ <O>
+position	NN	_ <O>
+of	IN	_ <O>
+many	JJ	_ <O>
+school	NN	_ <O>
+districts	NNS	_ <O>
+and	CC	_ <O>
+education	NN	_ <O>
+professionals	NNS	_ <O>
+that	IN	_ <O>
+EM	NNP	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+effective	JJ	_ <O>
+mathematics	NN	_ <O>
+program	NN	_ <O>
+.	.	_ <O>
+ <O>
+Many	JJ	<B-CUE>
+believe	VB	_ <O>
+that	IN	_ <O>
+EM	NNP	_ <O>
+,	,	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+being	VBG	_ <O>
+innovative	JJ	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+severely	RB	_ <O>
+deficient	JJ	_ <O>
+and	CC	_ <O>
+radical	JJ	_ <O>
+approach	NN	_ <O>
+to	IN	_ <O>
+math	NN	_ <O>
+that	DT	_ <O>
+should	MD	_ <O>
+be	VB	_ <O>
+abandoned	VBN	_ <O>
+.	.	_ <O>
+ <O>

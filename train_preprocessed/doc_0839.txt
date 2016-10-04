@@ -1,0 +1,87 @@
+'	``	_ <O>
+Star	NNP	_ <O>
+Wars	NNPS	_ <O>
+'	POS	_ <O>
+has	VBZ	_ <O>
+various	JJ	_ <O>
+action	NN	_ <O>
+sounds	NNS	_ <O>
+in	IN	_ <O>
+space	NN	_ <O>
+that	WDT	_ <O>
+the	DT	_ <O>
+characters	NNS	_ <O>
+react	VBP	_ <O>
+to	IN	_ <O>
+and	CC	_ <O>
+are	VBP	_ <O>
+apparently	RB	_ <O>
+aware	JJ	_ <O>
+of	IN	_ <O>
+.	.	_ <O>
+ <O>
+But	CC	_ <O>
+sound	JJ	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+pressure	NN	_ <O>
+wave	NN	_ <O>
+,	,	_ <O>
+must	MD	_ <O>
+propagate	VB	_ <O>
+through	IN	_ <O>
+some	DT	_ <O>
+form	NN	_ <O>
+of	IN	_ <O>
+matter	NN	_ <O>
+.	.	_ <O>
+ <O>
+First	RB	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+possible	JJ	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+various	JJ	_ <O>
+ships	NNS	_ <O>
+’	.	_ <O>
+deflector	NN	_ <O>
+shields	NNS	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+hit	VBN	_ <O>
+with	IN	_ <O>
+radiation	NN	_ <O>
+from	IN	_ <O>
+explosions	NNS	_ <O>
+or	CC	_ <O>
+blasters	NNS	_ <O>
+,	,	_ <O>
+cause	VB	_ <O>
+the	DT	_ <O>
+ships	NNS	_ <O>
+themselves	PRP	_ <O>
+to	TO	_ <O>
+vibrate	VB	_ <O>
+,	,	_ <O>
+producing	VBG	_ <O>
+sound	NN	_ <O>
+.	.	_ <O>
+ <O>
+Second	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+audio	NN	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+synthetically	RB	_ <O>
+generated	VBN	_ <O>
+by	IN	_ <O>
+ships	NNS	_ <O>
+’	.	_ <O>
+sensor	NN	_ <O>
+systems	NNS	_ <O>
+.	.	_ <O>
+ <O>

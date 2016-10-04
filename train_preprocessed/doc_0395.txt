@@ -1,0 +1,57 @@
+The	DT	_ <O>
+diagnosis	NN	_ <O>
+of	IN	_ <O>
+portal	JJ	_ <O>
+hypertensive	JJ	_ <O>
+gastropathy	NN	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+made	VBN	_ <O>
+on	IN	_ <O>
+endoscopy	NN	_ <O>
+.	.	_ <O>
+ <O>
+Red	JJ	_ <O>
+spots	NNS	_ <O>
+may	MD	<B-CUE>
+or	CC	_ <O>
+may	MD	<B-CUE>
+not	RB	_ <O>
+be	VB	_ <O>
+present	JJ	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+pattern	NN	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+seen	VBN	_ <O>
+throughout	IN	_ <O>
+the	DT	_ <O>
+stomach	NN	_ <O>
+.	.	_ <O>
+ <O>
+However	RB	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+GAVE	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+ectatic	JJ	_ <O>
+blood	NN	_ <O>
+vessels	NNS	_ <O>
+are	VBP	_ <O>
+more	RBR	_ <O>
+commonly	RB	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+antrum	NN	_ <O>
+or	CC	_ <O>
+lower	JJR	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+stomach	NN	_ <O>
+.	.	_ <O>
+ <O>

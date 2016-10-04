@@ -1,0 +1,71 @@
+American	JJ	_ <O>
+Alligators	NNS	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+as	RB	_ <O>
+common	JJ	_ <O>
+as	IN	_ <O>
+they	PRP	_ <O>
+once	RB	_ <O>
+were	VBD	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+their	PRP$	_ <O>
+population	NN	_ <O>
+has	VBZ	_ <O>
+rebounded	VBN	_ <O>
+since	IN	_ <O>
+the	DT	_ <O>
+1960s	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Recently	RB	_ <O>
+,	,	_ <O>
+there	EX	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+significant	JJ	<I-CUE>
+talk	NN	<I-CUE>
+of	IN	_ <O>
+reintroducing	VBG	_ <O>
+the	DT	_ <O>
+Black	NNP	_ <O>
+Bear	NNP	_ <O>
+into	IN	_ <O>
+many	JJ	_ <O>
+parts	NNS	_ <O>
+of	IN	_ <O>
+East	NNP	_ <O>
+Texas	NNP	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+most	RBS	_ <O>
+common	JJ	_ <O>
+fish	NN	_ <O>
+is	VBZ	_ <O>
+Catfish	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+a	DT	_ <O>
+native	JJ	_ <O>
+species	NN	_ <O>
+but	CC	_ <O>
+also	RB	_ <O>
+stocked	VBN	_ <O>
+in	IN	_ <O>
+local	JJ	_ <O>
+reservoirs	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Crayfish	NN	_ <O>
+are	VBP	_ <O>
+common	JJ	_ <O>
+along	IN	_ <O>
+river	NN	_ <O>
+and	CC	_ <O>
+creek	NN	_ <O>
+banks	NNS	_ <O>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,65 @@
+He	PRP	_ <O>
+spent	VBD	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+time	NN	_ <O>
+working	VBG	_ <O>
+on	IN	_ <O>
+questions	NNS	_ <O>
+of	IN	_ <O>
+theology	NN	_ <O>
+.	.	_ <O>
+ <O>
+He	PRP	_ <O>
+rejected	VBD	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+ideas	NNS	<I-CUE>
+developed	VBN	_ <O>
+by	IN	_ <O>
+John	NNP	_ <O>
+XXII.	NNP	_ <O>
+ <O>
+Though	IN	_ <O>
+some	DT	<B-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+campaigned	VBD	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+Immaculate	NNP	_ <O>
+Conception	NNP	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+far	RB	_ <O>
+from	IN	_ <O>
+clear	JJ	_ <O>
+.	.	_ <O>
+ <O>
+He	PRP	_ <O>
+engaged	VBD	_ <O>
+in	RP	_ <O>
+long	JJ	_ <O>
+theological	JJ	_ <O>
+debates	NNS	_ <O>
+with	IN	_ <O>
+other	JJ	_ <O>
+noted	VBN	_ <O>
+figures	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+age	NN	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+William	NNP	_ <O>
+of	IN	_ <O>
+Ockham	NNP	_ <O>
+and	CC	_ <O>
+Meister	NNP	_ <O>
+Eckhart	NNP	_ <O>
+.	.	_ <O>
+ <O>

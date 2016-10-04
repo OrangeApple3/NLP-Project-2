@@ -1,0 +1,106 @@
+The	DT	_ <O>
+new	JJ	_ <O>
+minority	NN	_ <O>
+government	NN	_ <O>
+managed	VBD	_ <O>
+to	TO	_ <O>
+secure	VB	_ <O>
+itself	PRP	_ <O>
+a	DT	_ <O>
+majority	NN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+by	IN	_ <O>
+-	HYPH	_ <O>
+election	NN	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+dominated	VBN	_ <O>
+overwhelmingly	RB	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+always	RB	_ <O>
+-	HYPH	_ <O>
+smiling	VBG	_ <O>
+self	NN	_ <O>
+confessed	VBD	_ <O>
+"	``	_ <O>
+media	NNS	_ <O>
+tart	NN	_ <O>
+"	''	_ <O>
+Peter	NNP	_ <O>
+Beattie	NNP	_ <O>
+.	.	_ <O>
+ <O>
+A	DT	_ <O>
+major	JJ	_ <O>
+controversy	NN	_ <O>
+broke	VBD	_ <O>
+in	IN	_ <O>
+2001	CD	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+eve	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+election	NN	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+very	RB	_ <O>
+prominent	JJ	_ <O>
+Labor	NNP	_ <O>
+Party	NNP	_ <O>
+figures	NNS	_ <O>
+were	VBD	_ <O>
+implicated	VBN	_ <O>
+in	IN	_ <O>
+rorting	VBG	_ <O>
+internal	JJ	_ <O>
+preselection	NN	_ <O>
+and	CC	_ <O>
+party	NN	_ <O>
+ballots	NNS	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+subsequent	JJ	_ <O>
+Shepardson	NNP	_ <O>
+Commission	NNP	_ <O>
+of	IN	_ <O>
+Inquiry	NNP	_ <O>
+was	VBD	<B-CUE>
+widely	RB	<I-CUE>
+expected	VBN	<I-CUE>
+to	TO	_ <O>
+destroy	VB	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+.	.	_ <O>
+ <O>
+Beattie	NNP	_ <O>
+immediately	RB	_ <O>
+undertook	VBD	_ <O>
+a	DT	_ <O>
+purge	NN	_ <O>
+,	,	_ <O>
+taking	VBG	_ <O>
+the	DT	_ <O>
+opportunity	NN	_ <O>
+to	TO	_ <O>
+dispatch	VB	_ <O>
+several	JJ	<B-CUE>
+factional	JJ	<I-CUE>
+enemies	NNS	<I-CUE>
+,	,	_ <O>
+and	CC	_ <O>
+promised	VBD	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+cleanskin	NN	_ <O>
+"	''	_ <O>
+approach	NN	_ <O>
+.	.	_ <O>
+ <O>

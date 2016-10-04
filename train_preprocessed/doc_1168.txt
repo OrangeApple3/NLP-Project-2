@@ -1,0 +1,82 @@
+Also	RB	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+free	JJ	_ <O>
+shot	NN	_ <O>
+in	IN	_ <O>
+hurling	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+free	JJ	_ <O>
+puck	NN	_ <O>
+.	.	_ <O>
+ <O>
+Hockey	NN	_ <O>
+puck	NN	_ <O>
+bearing	VBG	_ <O>
+an	DT	_ <O>
+early	JJ	_ <O>
+style	NN	_ <O>
+logo	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Toronto	NNP	_ <O>
+Maple	NNP	_ <O>
+Leafs	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+National	NNP	_ <O>
+Hockey	NNP	_ <O>
+League	NNP	_ <O>
+.	.	_ <O>
+ <O>
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+believed	VBN	<I-CUE>
+that	IN	_ <O>
+Halifax	NNP	_ <O>
+natives	NNS	_ <O>
+,	,	_ <O>
+many	DT	_ <O>
+of	IN	_ <O>
+whom	WP	_ <O>
+were	VBD	_ <O>
+Irish	JJ	_ <O>
+and	CC	_ <O>
+played	VBD	_ <O>
+hurley	NN	_ <O>
+,	,	_ <O>
+may	MD	<B-CUE>
+have	VBP	_ <O>
+introduced	VBN	_ <O>
+the	DT	_ <O>
+word	NN	_ <O>
+to	IN	_ <O>
+Canada	NNP	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+first	JJ	_ <O>
+known	VBN	_ <O>
+printed	VBN	_ <O>
+reference	NN	_ <O>
+was	VBD	_ <O>
+in	IN	_ <O>
+Montreal	NNP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+1876	CD	_ <O>
+,	,	_ <O>
+just	RB	_ <O>
+a	DT	_ <O>
+year	NN	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+indoor	JJ	_ <O>
+game	NN	_ <O>
+was	VBD	_ <O>
+played	VBN	_ <O>
+there	RB	_ <O>
+.	.	_ <O>
+ <O>

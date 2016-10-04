@@ -1,0 +1,65 @@
+A	DT	<B-CUE>
+few	JJ	<I-CUE>
+people	NNS	<I-CUE>
+even	RB	_ <O>
+had	VBD	_ <O>
+seizures	NNS	_ <O>
+,	,	_ <O>
+blindness	NN	_ <O>
+,	,	_ <O>
+convulsions	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+lost	VBD	_ <O>
+consciousness,.	NN	_ <O>
+ <O>
+Although	IN	_ <O>
+many	JJ	<B-CUE>
+victims	NNS	<I-CUE>
+recovered	VBD	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+ambulance	NN	_ <O>
+trip	NN	_ <O>
+,	,	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+150	CD	_ <O>
+of	IN	_ <O>
+them	PRP	_ <O>
+were	VBD	_ <O>
+admitted	VBN	_ <O>
+to	IN	_ <O>
+hospitals	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Two	CD	_ <O>
+people	NNS	_ <O>
+remained	VBD	_ <O>
+hospitalized	VBN	_ <O>
+for	IN	_ <O>
+over	IN	_ <O>
+2	CD	_ <O>
+weeks	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Some	DT	<B-CUE>
+other	JJ	<I-CUE>
+people	NNS	<I-CUE>
+had	VBD	_ <O>
+seizures	NNS	_ <O>
+when	WRB	_ <O>
+parts	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+scene	NN	_ <O>
+were	VBD	_ <O>
+rebroadcast	NN	_ <O>
+during	IN	_ <O>
+news	NN	_ <O>
+reports	NNS	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+seizures	NNS	_ <O>
+.	.	_ <O>
+ <O>

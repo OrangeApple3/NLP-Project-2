@@ -1,0 +1,28 @@
+The	DT	_ <O>
+clinical	JJ	_ <O>
+ramifications	NNS	_ <O>
+and	CC	_ <O>
+knowledge	NN	_ <O>
+of	IN	_ <O>
+COX	NNP	_ <O>
+isozymes	NNS	_ <O>
+are	VBP	_ <O>
+rapidly	RB	<B-CUE>
+expanding	VBG	<I-CUE>
+and	CC	_ <O>
+may	MD	<B-CUE>
+offer	VB	_ <O>
+significant	JJ	_ <O>
+hope	NN	_ <O>
+for	IN	_ <O>
+future	JJ	_ <O>
+treatments	NNS	_ <O>
+of	IN	_ <O>
+pain	NN	_ <O>
+,	,	_ <O>
+inflammation	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+fever	NN	_ <O>
+.	.	_ <O>
+ <O>

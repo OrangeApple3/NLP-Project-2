@@ -1,0 +1,107 @@
+He	PRP	_ <O>
+was	VBD	_ <O>
+signed	VBN	_ <O>
+by	IN	_ <O>
+Neftalí	NNP	_ <O>
+Cruz	NNP	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+Pirates	NNPS	_ <O>
+organization	NN	_ <O>
+in	IN	_ <O>
+1976	CD	_ <O>
+and	CC	_ <O>
+reached	VBD	_ <O>
+the	DT	_ <O>
+major	JJ	_ <O>
+league	NN	_ <O>
+club	NN	_ <O>
+in	IN	_ <O>
+1980	CD	_ <O>
+.	.	_ <O>
+ <O>
+Traded	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Braves	NNPS	_ <O>
+on	IN	_ <O>
+June	NNP	_ <O>
+30	CD	_ <O>
+,	,	_ <O>
+1982	CD	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+enjoyed	VBD	_ <O>
+his	PRP$	_ <O>
+two	CD	_ <O>
+best	JJS	_ <O>
+seasons	NNS	_ <O>
+while	IN	_ <O>
+with	IN	_ <O>
+that	DT	_ <O>
+organization	NN	_ <O>
+,	,	_ <O>
+going	VBG	_ <O>
+15	CD	_ <O>
+-	SYM	_ <O>
+8	CD	_ <O>
+and	CC	_ <O>
+14	CD	_ <O>
+-	SYM	_ <O>
+8	CD	_ <O>
+in	IN	_ <O>
+1983	CD	_ <O>
+and	CC	_ <O>
+1984	CD	_ <O>
+respectively	RB	_ <O>
+.	.	_ <O>
+ <O>
+Incredibly	RB	_ <O>
+slender	JJR	_ <O>
+at	IN	_ <O>
+6	CD	_ <O>
+ft	RB	_ <O>
+2	CD	_ <O>
+in	IN	_ <O>
+,	,	_ <O>
+162	CD	_ <O>
+lb	NN	_ <O>
+.	.	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+probably	RB	<B-CUE>
+better	RBR	<B-CUE>
+known	VBN	<I-CUE>
+for	IN	_ <O>
+his	PRP$	_ <O>
+on	IN	_ <O>
+-	HYPH	_ <O>
+field	NN	_ <O>
+and	CC	_ <O>
+off	IN	_ <O>
+-	HYPH	_ <O>
+field	NN	_ <O>
+antics	NNS	_ <O>
+than	IN	_ <O>
+his	PRP$	_ <O>
+pitching	VBG	_ <O>
+talent	NN	_ <O>
+.	.	_ <O>
+ <O>
+Also	RB	_ <O>
+a	DT	_ <O>
+showboater	NN	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+often	RB	_ <O>
+drew	VBD	_ <O>
+the	DT	_ <O>
+ire	NN	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+opponents	NNS	<I-CUE>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,29 @@
+Finally	RB	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+appears	VBZ	<I-CUE>
+there	EX	_ <O>
+were	VBD	_ <O>
+similar	JJ	_ <O>
+experiments	NNS	_ <O>
+conducted	VBN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+UK	NNP	_ <O>
+Ministry	NNP	_ <O>
+of	IN	_ <O>
+Defence	NNP	_ <O>
+establishment	NN	_ <O>
+at	IN	_ <O>
+Porton	NNP	_ <O>
+Down	NNP	_ <O>
+,	,	_ <O>
+Wiltshire	NNP	_ <O>
+,	,	_ <O>
+into	IN	_ <O>
+at	IN	<B-CUE>
+least	JJS	<I-CUE>
+the	DT	_ <O>
+1970s	NNS	_ <O>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,31 @@
+Initially	RB	_ <O>
+,	,	_ <O>
+accurate	JJ	_ <O>
+transcription	NN	_ <O>
+rates	NNS	_ <O>
+of	IN	_ <O>
+85	CD	_ <O>
+-	SYM	_ <O>
+90	CD	_ <O>
+%	NN	_ <O>
+are	VBP	<B-CUE>
+to	TO	<I-CUE>
+be	VB	<I-CUE>
+reasonably	RB	<I-CUE>
+expected	VBN	<I-CUE>
+.	.	_ <O>
+ <O>
+An	DT	_ <O>
+expert	NN	_ <O>
+NaturallySpeaking	VBG	_ <O>
+user	NN	_ <O>
+can	MD	_ <O>
+expect	VB	_ <O>
+98	CD	_ <O>
+-	SYM	_ <O>
+99	CD	_ <O>
+%	NN	_ <O>
+recognition	NN	_ <O>
+accuracy	NN	_ <O>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,158 @@
+Unilever	NNP	_ <O>
+decided	VBD	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+catalysing	VBG	_ <O>
+agents	NNS	_ <O>
+would	MD	_ <O>
+be	VB	_ <O>
+an	DT	_ <O>
+ideal	JJ	_ <O>
+addition	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+product	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+had	VBD	_ <O>
+worries	NNS	_ <O>
+over	IN	_ <O>
+such	PDT	_ <O>
+a	DT	_ <O>
+major	JJ	_ <O>
+alteration	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+formula	NN	_ <O>
+of	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+main	JJ	_ <O>
+products	NNS	_ <O>
+(	-LRB-	_ <O>
+a	DT	_ <O>
+high	JJ	_ <O>
+profile	NN	_ <O>
+example	NN	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+being	VBG	_ <O>
+New	NNP	_ <O>
+Coke	NNP	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+more	RBR	_ <O>
+direct	JJ	_ <O>
+example	NN	_ <O>
+being	VBG	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+late	JJ	_ <O>
+1980s	NNS	_ <O>
+when	WRB	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+Persil	NNP	_ <O>
+'s	POS	_ <O>
+competitors	NNS	_ <O>
+,	,	_ <O>
+Daz	NNP	_ <O>
+,	,	_ <O>
+introduced	VBD	_ <O>
+a	DT	_ <O>
+new	JJ	_ <O>
+formula	NN	_ <O>
+that	WDT	_ <O>
+also	RB	_ <O>
+increased	VBD	_ <O>
+cleaning	VBG	_ <O>
+performance	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+caused	VBD	_ <O>
+allergic	JJ	_ <O>
+reactions	NNS	_ <O>
+in	IN	_ <O>
+a	DT	<B-CUE>
+small	JJ	<I-CUE>
+but	CC	<I-CUE>
+noticeable	JJ	<I-CUE>
+percentage	NN	<I-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+population	NN	<I-CUE>
+)	-RRB-	_ <O>
+.	.	_ <O>
+ <O>
+To	IN	_ <O>
+this	DT	_ <O>
+end	NN	_ <O>
+they	PRP	_ <O>
+decided	VBD	_ <O>
+to	TO	_ <O>
+split	VB	_ <O>
+the	DT	_ <O>
+catalyst	NN	_ <O>
+agent	NN	_ <O>
+(	-LRB-	_ <O>
+together	RB	_ <O>
+with	IN	_ <O>
+some	DT	<B-CUE>
+fabric	NN	<I-CUE>
+softening	VBG	<I-CUE>
+agents	NNS	<I-CUE>
+)	-RRB-	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+new	JJ	_ <O>
+product	NN	_ <O>
+,	,	_ <O>
+Persil	NNP	_ <O>
+Power	NNP	_ <O>
+.	.	_ <O>
+ <O>
+Some	DT	<B-CUE>
+believe	VB	_ <O>
+that	IN	_ <O>
+,	,	_ <O>
+had	VBD	_ <O>
+Power	NNP	_ <O>
+been	VBN	_ <O>
+successful	JJ	_ <O>
+,	,	_ <O>
+Unilever	NNP	_ <O>
+would	MD	_ <O>
+have	VB	_ <O>
+created	VBN	_ <O>
+a	DT	_ <O>
+unified	VBN	_ <O>
+version	NN	_ <O>
+of	IN	_ <O>
+Persil	NNP	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+catalysing	VBG	_ <O>
+agents	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Power	NN	_ <O>
+was	VBD	_ <O>
+launched	VBN	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+large	JJ	_ <O>
+publicity	NN	_ <O>
+campaign	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+problems	NNS	<I-CUE>
+soon	RB	_ <O>
+became	VBD	_ <O>
+apparent	JJ	_ <O>
+.	.	_ <O>
+ <O>

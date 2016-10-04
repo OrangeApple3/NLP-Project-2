@@ -1,0 +1,87 @@
+'	``	_ <O>
+Belle	NNP	_ <O>
+Vue	NNP	_ <O>
+Park	NNP	_ <O>
+'	''	_ <O>
+-	:	_ <O>
+During	IN	_ <O>
+the	DT	_ <O>
+1970s	NNS	_ <O>
+Bellevue	NNP	_ <O>
+Park	NNP	_ <O>
+was	VBD	_ <O>
+neglected	VBN	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+amenities	NNS	<I-CUE>
+were	VBD	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+poor	JJ	_ <O>
+state	NN	_ <O>
+of	IN	_ <O>
+repair	NN	_ <O>
+.	.	_ <O>
+ <O>
+A	DT	_ <O>
+major	JJ	_ <O>
+project	NN	_ <O>
+was	VBD	_ <O>
+undertaken	VBN	_ <O>
+to	TO	_ <O>
+refurbish	VB	_ <O>
+the	DT	_ <O>
+Park	NNP	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+its	PRP$	_ <O>
+original	JJ	_ <O>
+splendour	NN	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+park	NN	_ <O>
+itself	PRP	_ <O>
+has	VBZ	_ <O>
+many	JJ	_ <O>
+walkways	NNS	_ <O>
+through	IN	_ <O>
+mature	JJ	_ <O>
+tree	NN	_ <O>
+-	HYPH	_ <O>
+lined	VBN	_ <O>
+avenues	NNS	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+affording	VBG	_ <O>
+some	DT	_ <O>
+magnificent	JJ	_ <O>
+views	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Parish	NNP	_ <O>
+Church	NNP	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+park	NN	_ <O>
+is	VBZ	_ <O>
+well	RB	_ <O>
+lit	VBN	_ <O>
+and	CC	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+CCTV	NNP	_ <O>
+cameras	NNS	_ <O>
+installed	VBN	_ <O>
+to	TO	_ <O>
+deter	VB	_ <O>
+antisocial	JJ	_ <O>
+behaviour	NN	_ <O>
+.	.	_ <O>
+ <O>

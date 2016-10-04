@@ -1,0 +1,90 @@
+Professor	NNP	_ <O>
+Goad	NNP	_ <O>
+is	VBZ	<B-CUE>
+known	VBN	<I-CUE>
+internationally	RB	<I-CUE>
+for	IN	_ <O>
+his	PRP$	_ <O>
+research	NN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+variety	NN	_ <O>
+of	IN	_ <O>
+areas	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+architectural	JJ	_ <O>
+history	NN	_ <O>
+,	,	_ <O>
+theory	NN	_ <O>
+and	CC	_ <O>
+design	NN	_ <O>
+.	.	_ <O>
+ <O>
+He	PRP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+well	RB	<B-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+authority	NN	_ <O>
+on	IN	_ <O>
+modern	JJ	_ <O>
+Australian	JJ	_ <O>
+architecture	NN	_ <O>
+.	.	_ <O>
+ <O>
+One	CD	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+most	RBS	<I-CUE>
+notable	JJ	<I-CUE>
+fields	NNS	_ <O>
+of	IN	_ <O>
+expertise	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+life	NN	_ <O>
+and	CC	_ <O>
+work	NN	_ <O>
+of	IN	_ <O>
+Robin	NNP	_ <O>
+Boyd	NNP	_ <O>
+.	.	_ <O>
+ <O>
+As	IN	_ <O>
+an	DT	_ <O>
+architect	NN	_ <O>
+,	,	_ <O>
+his	PRP$	_ <O>
+most	RBS	<B-CUE>
+notable	JJ	<I-CUE>
+work	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+Melbourne	NNP	_ <O>
+firm	NN	_ <O>
+,	,	_ <O>
+Corrigan	NNP	_ <O>
+and	CC	_ <O>
+Edmond	NNP	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+project	NN	_ <O>
+architect	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+RMIT	NNP	_ <O>
+Building	NNP	_ <O>
+8	CD	_ <O>
+project	NN	_ <O>
+in	IN	_ <O>
+Swanston	NNP	_ <O>
+Street	NNP	_ <O>
+,	,	_ <O>
+central	JJ	_ <O>
+Melbourne	NNP	_ <O>
+.	.	_ <O>
+ <O>

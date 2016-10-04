@@ -1,0 +1,137 @@
+Many	JJ	<B-CUE>
+accounts	NNS	<I-CUE>
+,	,	_ <O>
+including	VBG	_ <O>
+Muslim	JJ	<B-CUE>
+accounts	NNS	<I-CUE>
+,	,	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+accounts	NNS	<I-CUE>
+written	VBN	<I-CUE>
+by	IN	<I-CUE>
+academic	JJ	<I-CUE>
+historians	NNS	<I-CUE>
+,	,	_ <O>
+stress	VB	_ <O>
+the	DT	_ <O>
+power	NN	_ <O>
+and	CC	_ <O>
+importance	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+pre	NN	_ <O>
+-	HYPH	_ <O>
+Islamic	NNP	_ <O>
+Mecca	NNP	_ <O>
+.	.	_ <O>
+ <O>
+They	PRP	<B-CUE>
+depict	VB	_ <O>
+it	PRP	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+city	NN	_ <O>
+grown	VBN	_ <O>
+rich	JJ	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+proceeds	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+spice	NN	_ <O>
+trade	NN	_ <O>
+.	.	_ <O>
+ <O>
+Crone	NNP	_ <O>
+believes	VBZ	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+exaggeration	NN	_ <O>
+and	CC	_ <O>
+that	IN	_ <O>
+Mecca	NNP	_ <O>
+may	MD	_ <O>
+only	RB	_ <O>
+have	VB	_ <O>
+been	VBN	_ <O>
+an	DT	_ <O>
+outpost	NN	_ <O>
+trading	NN	_ <O>
+with	IN	_ <O>
+nomads	NNS	_ <O>
+for	IN	_ <O>
+leather	NN	_ <O>
+,	,	_ <O>
+cloth	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+camel	NN	_ <O>
+butter	NN	_ <O>
+.	.	_ <O>
+ <O>
+Crone	NNP	_ <O>
+argues	VBZ	_ <O>
+that	IN	_ <O>
+if	IN	_ <O>
+Mecca	NNP	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+a	DT	_ <O>
+well	RB	_ <O>
+-	HYPH	_ <O>
+known	VBN	_ <O>
+center	NN	_ <O>
+of	IN	_ <O>
+trade	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+would	MD	_ <O>
+have	VB	_ <O>
+been	VBN	_ <O>
+mentioned	VBN	_ <O>
+by	IN	_ <O>
+later	JJ	_ <O>
+authors	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Procopius	NNP	_ <O>
+,	,	_ <O>
+Nonnosus	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Syrian	JJ	_ <O>
+church	NN	_ <O>
+chroniclers	NNS	_ <O>
+writing	VBG	_ <O>
+in	IN	_ <O>
+Syriac	NNP	_ <O>
+.	.	_ <O>
+ <O>
+However	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+town	NN	_ <O>
+is	VBZ	_ <O>
+absent	JJ	_ <O>
+from	IN	_ <O>
+any	DT	_ <O>
+geographies	NNS	_ <O>
+or	CC	_ <O>
+histories	NNS	_ <O>
+written	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+last	JJ	_ <O>
+three	CD	_ <O>
+centuries	NNS	_ <O>
+before	IN	_ <O>
+the	DT	_ <O>
+rise	NN	_ <O>
+of	IN	_ <O>
+Islam	NNP	_ <O>
+.	.	_ <O>
+ <O>

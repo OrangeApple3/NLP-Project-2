@@ -1,0 +1,25 @@
+However	RB	_ <O>
+,	,	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+some	DT	<B-CUE>
+speculation	NN	<I-CUE>
+among	IN	_ <O>
+fans	NNS	_ <O>
+that	IN	_ <O>
+she	PRP	_ <O>
+had	VBD	_ <O>
+faked	VBN	_ <O>
+her	PRP$	_ <O>
+death	NN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+get	VB	_ <O>
+out	IN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+industry	NN	_ <O>
+completely	RB	_ <O>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,115 @@
+In	IN	_ <O>
+the	DT	_ <O>
+past	NN	_ <O>
+decade	NN	_ <O>
+,	,	_ <O>
+no	DT	_ <O>
+political	JJ	_ <O>
+party	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+clearly	RB	_ <O>
+dominant	JJ	_ <O>
+in	IN	_ <O>
+Pennsylvania	NNP	_ <O>
+.	.	_ <O>
+ <O>
+This	DT	_ <O>
+,	,	_ <O>
+combined	VBN	_ <O>
+with	IN	_ <O>
+Pennsylvania	NNP	_ <O>
+'s	POS	_ <O>
+rank	NN	_ <O>
+of	IN	_ <O>
+6th	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+country	NN	_ <O>
+in	IN	_ <O>
+population	NN	_ <O>
+,	,	_ <O>
+has	VBZ	_ <O>
+made	VBN	_ <O>
+it	PRP	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+important	JJ	<I-CUE>
+swing	NN	_ <O>
+states	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Republicans	NNS	_ <O>
+are	VBP	_ <O>
+generally	RB	<B-CUE>
+dominant	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+areas	NNS	_ <O>
+of	IN	_ <O>
+Altoona	NNP	_ <O>
+,	,	_ <O>
+York	NNP	_ <O>
+,	,	_ <O>
+Lancaster	NNP	_ <O>
+,	,	_ <O>
+Williamsport	NNP	_ <O>
+,	,	_ <O>
+Harrisburg	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+vast	JJ	_ <O>
+rural	JJ	_ <O>
+areas	NNS	_ <O>
+that	WDT	_ <O>
+make	VBP	_ <O>
+up	RP	_ <O>
+the	DT	_ <O>
+balance	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Commonwealth	NNP	_ <O>
+.	.	_ <O>
+ <O>
+Traditionally	RB	_ <O>
+,	,	_ <O>
+Republicans	NNPS	_ <O>
+have	VBP	_ <O>
+also	RB	_ <O>
+fared	VBN	_ <O>
+well	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+densely	RB	_ <O>
+populated	VBN	_ <O>
+and	CC	_ <O>
+wealthy	JJ	_ <O>
+suburbs	NNS	_ <O>
+of	IN	_ <O>
+Philadelphia	NNP	_ <O>
+and	CC	_ <O>
+Pittsburgh	NNP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1990s	NNS	_ <O>
+and	CC	_ <O>
+2000s	NNS	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+suburbs	NNS	<I-CUE>
+began	VBD	_ <O>
+to	TO	_ <O>
+associate	VB	_ <O>
+more	RBR	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+Democratic	NNP	_ <O>
+Party	NNP	_ <O>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,113 @@
+AD	NN	_ <O>
+900–1400	NNS	_ <O>
+.	.	_ <O>
+ <O>
+Vowels	NNS	_ <O>
+were	VBD	_ <O>
+lengthened	VBN	_ <O>
+before	RB	_ <O>
+,	,	_ <O>
+,	,	_ <O>
+,	,	_ <O>
+,	,	_ <O>
+probably	RB	<B-CUE>
+also	RB	_ <O>
+,	,	_ <O>
+,	,	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+not	RB	_ <O>
+followed	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+third	JJ	_ <O>
+consonant	NN	_ <O>
+or	CC	_ <O>
+two	CD	_ <O>
+consonants	NNS	_ <O>
+and	CC	_ <O>
+two	CD	_ <O>
+syllables	NNS	_ <O>
+.	.	_ <O>
+ <O>
+This	DT	_ <O>
+probably	RB	<B-CUE>
+occurred	VBD	_ <O>
+around	IN	_ <O>
+AD	NNP	_ <O>
+1000	CD	_ <O>
+.	.	_ <O>
+ <O>
+Later	RB	_ <O>
+on	RB	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+vowels	NNS	<I-CUE>
+were	VBD	_ <O>
+shortened	VBN	_ <O>
+again	RB	_ <O>
+;	:	_ <O>
+but	CC	_ <O>
+evidence	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+Ormulum	NNP	_ <O>
+shows	VBZ	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+lengthening	NN	_ <O>
+was	VBD	_ <O>
+once	RB	_ <O>
+quite	RB	_ <O>
+general	JJ	_ <O>
+.	.	_ <O>
+ <O>
+Middle	JJ	_ <O>
+English	NNP	_ <O>
+open	JJ	_ <O>
+syllable	NN	_ <O>
+lengthening	VBG	_ <O>
+:	:	_ <O>
+Vowels	NNS	_ <O>
+were	VBD	_ <O>
+usually	RB	_ <O>
+lengthened	VBN	_ <O>
+in	IN	_ <O>
+open	JJ	_ <O>
+syllables	NNS	_ <O>
+(	-LRB-	_ <O>
+13th	JJ	_ <O>
+century	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+except	IN	_ <O>
+when	WRB	_ <O>
+trisyllabic	JJ	_ <O>
+laxing	NN	_ <O>
+would	MD	_ <O>
+apply	VB	_ <O>
+.	.	_ <O>
+ <O>
+Voiced	VBN	_ <O>
+fricatives	NNS	_ <O>
+became	VBD	_ <O>
+independent	JJ	_ <O>
+phonemes	NNS	_ <O>
+through	IN	_ <O>
+borrowing	NN	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+sound	JJ	_ <O>
+changes	NNS	_ <O>
+.	.	_ <O>
+ <O>
+before	IN	_ <O>
+back	JJ	_ <O>
+vowel	NN	_ <O>
+becomes	VBZ	_ <O>
+;	:	_ <O>
+becomes	VBZ	_ <O>
+.	.	_ <O>
+ <O>

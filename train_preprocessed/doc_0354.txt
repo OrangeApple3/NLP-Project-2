@@ -1,0 +1,75 @@
+As	IN	_ <O>
+befits	IN	_ <O>
+a	DT	_ <O>
+main	JJ	_ <O>
+stand	NN	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+section	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+ground	NN	_ <O>
+includes	VBZ	_ <O>
+both	DT	_ <O>
+padded	JJ	_ <O>
+seating	NN	_ <O>
+for	IN	_ <O>
+club	NN	_ <O>
+officials	NNS	_ <O>
+and	CC	_ <O>
+VIP	NN	_ <O>
+'s	POS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+several	JJ	<B-CUE>
+executive	NN	<I-CUE>
+boxes	NNS	<I-CUE>
+at	IN	_ <O>
+the	DT	_ <O>
+rear	NN	_ <O>
+.	.	_ <O>
+ <O>
+There	EX	_ <O>
+are	VBP	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+pillars	NNS	_ <O>
+running	VBG	_ <O>
+along	IN	_ <O>
+this	DT	_ <O>
+stand	NN	_ <O>
+,	,	_ <O>
+supporting	VBG	_ <O>
+the	DT	_ <O>
+roof	NN	_ <O>
+.	.	_ <O>
+ <O>
+As	IN	_ <O>
+a	DT	_ <O>
+consequence	NN	_ <O>
+,	,	_ <O>
+views	NNS	_ <O>
+in	IN	_ <O>
+some	DT	_ <O>
+places	NNS	_ <O>
+are	VBP	_ <O>
+restricted	VBN	_ <O>
+.	.	_ <O>
+ <O>
+It	PRP	_ <O>
+remains	VBZ	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+expensive	JJ	_ <O>
+stand	NN	_ <O>
+from	IN	_ <O>
+which	WDT	_ <O>
+to	TO	_ <O>
+watch	VB	_ <O>
+matches	NNS	_ <O>
+.	.	_ <O>
+ <O>

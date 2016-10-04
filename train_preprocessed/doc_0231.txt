@@ -1,0 +1,98 @@
+For	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+person	NN	_ <O>
+who	WP	_ <O>
+lives	VBZ	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+home	NN	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+mud	NN	_ <O>
+floor	NN	_ <O>
+is	VBZ	<B-CUE>
+considered	VBN	<I-CUE>
+severely	RB	_ <O>
+deprived	VBN	_ <O>
+of	IN	_ <O>
+shelter	NN	_ <O>
+.	.	_ <O>
+ <O>
+A	DT	_ <O>
+person	NN	_ <O>
+who	WP	_ <O>
+never	RB	_ <O>
+attended	VBD	_ <O>
+school	NN	_ <O>
+and	CC	_ <O>
+can	MD	_ <O>
+not	RB	_ <O>
+read	VB	_ <O>
+is	VBZ	<B-CUE>
+considered	VBN	<I-CUE>
+severely	RB	_ <O>
+deprived	VBN	_ <O>
+of	IN	_ <O>
+education	NN	_ <O>
+.	.	_ <O>
+ <O>
+A	DT	_ <O>
+person	NN	_ <O>
+who	WP	_ <O>
+has	VBZ	_ <O>
+no	DT	_ <O>
+newspaper	NN	_ <O>
+,	,	_ <O>
+radio	NN	_ <O>
+,	,	_ <O>
+television	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+telephone	NN	_ <O>
+is	VBZ	<B-CUE>
+considered	VBN	<I-CUE>
+severely	RB	_ <O>
+deprived	VBN	_ <O>
+of	IN	_ <O>
+information	NN	_ <O>
+.	.	_ <O>
+ <O>
+All	DT	_ <O>
+people	NNS	_ <O>
+who	WP	_ <O>
+meet	VBP	_ <O>
+any	DT	_ <O>
+two	CD	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+conditions	NNS	_ <O>
+—	:	_ <O>
+for	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+live	VBP	_ <O>
+in	IN	_ <O>
+homes	NNS	_ <O>
+with	IN	_ <O>
+mud	NN	_ <O>
+floors	NNS	_ <O>
+'	''	_ <O>
+and	CC	_ <O>
+'	''	_ <O>
+can	MD	_ <O>
+not	RB	_ <O>
+read	VB	_ <O>
+—	:	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+living	VBG	_ <O>
+in	IN	_ <O>
+absolute	JJ	_ <O>
+poverty	NN	_ <O>
+.	.	_ <O>
+ <O>

@@ -1,0 +1,121 @@
+The	DT	_ <O>
+Paul	NNP	_ <O>
+R	NNP	_ <O>
+Jones	NNP	_ <O>
+Collection	NNP	_ <O>
+originated	VBD	_ <O>
+from	IN	_ <O>
+Jones	NNP	_ <O>
+’	,	_ <O>
+discovery	NN	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+many	JJ	_ <O>
+museums	NNS	_ <O>
+he	PRP	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+visiting	VBG	_ <O>
+held	VBN	_ <O>
+few	JJ	_ <O>
+works	NNS	_ <O>
+by	IN	_ <O>
+African	JJ	_ <O>
+Americans	NNPS	_ <O>
+.	.	_ <O>
+ <O>
+Because	IN	_ <O>
+Jones	NNP	_ <O>
+believed	VBD	_ <O>
+that	IN	_ <O>
+these	DT	_ <O>
+great	JJ	_ <O>
+artists	NNS	_ <O>
+were	VBD	_ <O>
+being	VBG	_ <O>
+overlooked	VBN	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+decided	VBD	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+would	MD	_ <O>
+create	VB	_ <O>
+a	DT	_ <O>
+collection	NN	_ <O>
+of	IN	_ <O>
+works	NNS	_ <O>
+by	IN	_ <O>
+a	DT	<B-CUE>
+variety	NN	<I-CUE>
+of	IN	<I-CUE>
+African	JJ	<I-CUE>
+American	JJ	<I-CUE>
+artists	NNS	<I-CUE>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+current	JJ	_ <O>
+collection	NN	_ <O>
+took	VBD	_ <O>
+over	RP	_ <O>
+forty	CD	_ <O>
+years	NNS	_ <O>
+to	TO	_ <O>
+amass	VB	_ <O>
+and	CC	_ <O>
+contains	VBZ	_ <O>
+works	NNS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+variety	NN	_ <O>
+of	IN	_ <O>
+media	NNS	_ <O>
+,	,	_ <O>
+representing	VBG	_ <O>
+over	IN	_ <O>
+three	CD	_ <O>
+hundred	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+nation	NN	_ <O>
+’s	JJ	_ <O>
+African	JJ	_ <O>
+American	JJ	_ <O>
+artists	NNS	_ <O>
+.	.	_ <O>
+ <O>
+At	IN	_ <O>
+almost	RB	_ <O>
+two	CD	_ <O>
+thousand	CD	_ <O>
+works	NNS	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+world	NN	<I-CUE>
+’s	RB	<I-CUE>
+largest	JJS	<I-CUE>
+and	CC	<I-CUE>
+most	RBS	<I-CUE>
+comprehensive	JJ	<I-CUE>
+collections	NNS	_ <O>
+of	IN	_ <O>
+works	NNS	_ <O>
+by	IN	_ <O>
+African	JJ	_ <O>
+American	JJ	_ <O>
+artists	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+twentieth	JJ	_ <O>
+and	CC	_ <O>
+twenty	CD	_ <O>
+-	HYPH	_ <O>
+first	JJ	_ <O>
+centuries	NNS	_ <O>
+.	.	_ <O>
+ <O>

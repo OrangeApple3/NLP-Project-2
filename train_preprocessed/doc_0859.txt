@@ -1,0 +1,105 @@
+The	DT	_ <O>
+skin	NN	_ <O>
+and	CC	_ <O>
+feathers	NNS	_ <O>
+of	IN	_ <O>
+some	DT	_ <O>
+pitohuis	NN	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+the	DT	_ <O>
+Variable	NN	_ <O>
+and	CC	_ <O>
+Hooded	JJ	_ <O>
+Pitohuis	NNP	_ <O>
+,	,	_ <O>
+contain	VBP	_ <O>
+powerful	JJ	_ <O>
+neurotoxic	JJ	_ <O>
+alkaloids	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+batrachotoxin	NN	_ <O>
+group	NN	_ <O>
+(	-LRB-	_ <O>
+also	RB	_ <O>
+secreted	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Colombian	JJ	_ <O>
+poison	NN	_ <O>
+dart	NN	_ <O>
+frogs	NNS	_ <O>
+,	,	_ <O>
+genus	NN	_ <O>
+'	``	_ <O>
+Phyllobates	NNP	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+ <O>
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+believed	VBN	<I-CUE>
+that	IN	_ <O>
+these	DT	_ <O>
+serve	VBP	_ <O>
+the	DT	_ <O>
+birds	NNS	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+chemical	NN	_ <O>
+defence	NN	_ <O>
+,	,	_ <O>
+either	CC	_ <O>
+against	IN	_ <O>
+ectoparasites	NNS	_ <O>
+or	CC	_ <O>
+against	IN	_ <O>
+visually	RB	_ <O>
+guided	VBN	_ <O>
+predators	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+snakes	NNS	_ <O>
+,	,	_ <O>
+raptors	NNS	_ <O>
+or	CC	_ <O>
+humans	NNS	_ <O>
+.	.	_ <O>
+ <O>
+The	DT	_ <O>
+birds	NNS	_ <O>
+probably	RB	<B-CUE>
+do	VBP	_ <O>
+not	RB	_ <O>
+produce	VB	_ <O>
+batrachotoxin	NN	_ <O>
+themselves	PRP	_ <O>
+.	.	_ <O>
+ <O>
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+most	RBS	<I-CUE>
+likely	JJ	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+toxins	NNS	_ <O>
+come	VBP	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Choresine	NNP	_ <O>
+'	''	_ <O>
+genus	NN	_ <O>
+of	IN	_ <O>
+beetles	NNS	_ <O>
+,	,	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+bird	NN	_ <O>
+'s	POS	_ <O>
+diet	NN	_ <O>
+.	.	_ <O>
+ <O>
