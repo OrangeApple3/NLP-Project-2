@@ -34,7 +34,8 @@ with	IN	_ <O>
 his	PRP$	_ <O>
 views	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 are	VBP	_ <O>
 not	RB	_ <O>
@@ -60,7 +61,8 @@ this	DT	_ <O>
 country	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 To	IN	_ <O>
 some	DT	<B-CUE>
 of	IN	<I-CUE>
@@ -87,7 +89,8 @@ condone	VB	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 remained	VBD	_ <O>
 on	IN	_ <O>
@@ -110,4 +113,5 @@ President	NNP	_ <O>
 in	IN	_ <O>
 1991	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

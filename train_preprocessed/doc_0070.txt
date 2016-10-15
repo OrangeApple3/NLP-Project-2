@@ -20,4 +20,5 @@ the	DT	_ <O>
 Geneva	NNP	_ <O>
 Convention	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -36,7 +36,8 @@ the	DT	_ <O>
 election	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Pillar	NNP	_ <O>
 was	VBD	_ <O>
 a	DT	_ <O>
@@ -88,7 +89,8 @@ February	NNP	_ <O>
 ,	,	_ <O>
 2005	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Conference	NN	_ <O>
 participants	NNS	_ <O>
 included	VBD	_ <O>
@@ -113,7 +115,8 @@ other	JJ	_ <O>
 universities	NNS	_ <O>
 ...	:	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 has	VBZ	_ <O>
 become	VBN	_ <O>
@@ -172,4 +175,5 @@ was	VBD	_ <O>
 politicized	VBN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

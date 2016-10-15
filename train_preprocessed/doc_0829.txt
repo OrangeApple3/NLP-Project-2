@@ -34,7 +34,8 @@ that	DT	_ <O>
 China	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 acceptance	NN	_ <O>
 or	CC	_ <O>
@@ -83,4 +84,5 @@ which	WDT	_ <O>
 governs	VBZ	_ <O>
 Taiwan	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

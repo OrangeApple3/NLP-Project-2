@@ -17,7 +17,8 @@ of	IN	_ <O>
 alternative	JJ	_ <O>
 medicine	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 some	DT	<B-CUE>
@@ -36,7 +37,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 curriculum	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Teaching	NN	_ <O>
 is	VBZ	_ <O>
 based	VBN	_ <O>
@@ -60,7 +62,8 @@ alternative	JJ	_ <O>
 medicine	NN	_ <O>
 specialists	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 [	-LRB-	_ <O>
 British	JJ	_ <O>
@@ -91,4 +94,5 @@ UK	NNP	_ <O>
 and	CC	_ <O>
 Ireland	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -30,7 +30,8 @@ an	DT	_ <O>
 early	JJ	_ <O>
 period	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Herodotus	NNP	_ <O>
 ,	,	_ <O>
 who	WP	_ <O>
@@ -75,7 +76,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 coast	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pamphylia	NNP	_ <O>
 early	RB	_ <O>
 received	VBD	_ <O>
@@ -110,7 +112,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 interior	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pisidia	NNP	_ <O>
 remained	VBD	_ <O>
 a	DT	_ <O>
@@ -131,4 +134,5 @@ powers	NNS	_ <O>
 to	TO	_ <O>
 rule	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

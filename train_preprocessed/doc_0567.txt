@@ -19,7 +19,8 @@ bonded	VBN	_ <O>
 with	IN	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 a	DT	_ <O>
 few	JJ	_ <O>
@@ -29,7 +30,8 @@ they	PRP	_ <O>
 gave	VBD	_ <O>
 up	RP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Harlow	NNP	_ <O>
 wrote	VBD	_ <O>
 ,	,	_ <O>
@@ -51,7 +53,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 apparatus	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Stephen	NNP	_ <O>
 J.	NNP	_ <O>
 Suomi	NNP	_ <O>
@@ -74,7 +77,8 @@ in	IN	_ <O>
 for	IN	_ <O>
 his	PRP$	_ <O>
 PhD.	NNP	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 wrote	VBD	_ <O>
 that	IN	_ <O>
@@ -90,4 +94,5 @@ defense	NN	_ <O>
 against	IN	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

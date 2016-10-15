@@ -5,7 +5,8 @@ Party	NNP	_ <O>
 2008	CD	_ <O>
 Platform	NNP	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 We	PRP	_ <O>
 believe	VBP	_ <O>
 that	IN	_ <O>
@@ -40,7 +41,8 @@ self	NN	_ <O>
 -	HYPH	_ <O>
 determination	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 White	NNP	_ <O>
 House	NNP	_ <O>
@@ -72,7 +74,8 @@ next	JJ	_ <O>
 four	CD	_ <O>
 years	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 We	PRP	_ <O>
 also	RB	_ <O>
 believe	VBP	_ <O>
@@ -96,7 +99,8 @@ and	CC	_ <O>
 financial	JJ	_ <O>
 investment	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 We	PRP	_ <O>
 will	MD	_ <O>
 phase	VB	_ <O>
@@ -121,4 +125,5 @@ care	NN	_ <O>
 assistance	NN	_ <O>
 programs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

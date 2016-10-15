@@ -3,7 +3,8 @@ The	DT	_ <O>
 Mega	NNP	_ <O>
 -	HYPH	_ <O>
 Powers	NNP	_ <O>
- <O>
+
+NULL
 Savage	NNP	_ <O>
 turned	VBD	_ <O>
 face	NN	_ <O>
@@ -58,7 +59,8 @@ all	DT	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 '	``	_ <O>
 Saturday	NNP	_ <O>
@@ -103,7 +105,8 @@ The	DT	_ <O>
 Hart	NNP	_ <O>
 Foundation	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 a	DT	_ <O>
 result	NN	_ <O>
@@ -114,7 +117,8 @@ Powers	NNPS	_ <O>
 were	VBD	_ <O>
 born	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hogan	NNP	_ <O>
 and	CC	_ <O>
 Savage	NNP	_ <O>
@@ -128,7 +132,8 @@ next	JJ	_ <O>
 sixteen	CD	_ <O>
 months	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 later	JJ	_ <O>
 years	NNS	_ <O>
@@ -164,7 +169,8 @@ a	DT	_ <O>
 road	NN	_ <O>
 trip	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Savage	NNP	_ <O>
 and	CC	_ <O>
 Elizabeth	NNP	_ <O>
@@ -175,7 +181,8 @@ September	NNP	_ <O>
 18	CD	_ <O>
 1992	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Savage	NN	_ <O>
 and	CC	_ <O>
 Hogan	NNP	_ <O>
@@ -187,7 +194,8 @@ to	IN	_ <O>
 this	DT	_ <O>
 day	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 has	VBZ	<I-CUE>
 been	VBN	<I-CUE>
@@ -216,7 +224,8 @@ during	IN	_ <O>
 the	DT	_ <O>
 event	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 story	NN	_ <O>
 was	VBD	<B-CUE>
@@ -225,7 +234,8 @@ to	TO	_ <O>
 be	VB	_ <O>
 untrue	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 WWE	NNP	_ <O>
 (	-LRB-	_ <O>
 then	RB	_ <O>
@@ -246,4 +256,5 @@ jet	NN	_ <O>
 ski	NN	_ <O>
 accident	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

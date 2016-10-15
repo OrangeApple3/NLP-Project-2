@@ -27,7 +27,8 @@ the	DT	_ <O>
 Catholic	JJ	_ <O>
 faith	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 the	DT	_ <O>
 death	NN	_ <O>
@@ -54,7 +55,8 @@ for	IN	_ <O>
 many	JJ	_ <O>
 years	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 powerful	JJ	_ <O>
 sermons	NNS	_ <O>
@@ -89,7 +91,8 @@ Innsbruck	NNP	_ <O>
 ,	,	_ <O>
 Linz	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 teaching	VBG	_ <O>
 for	IN	_ <O>
@@ -130,4 +133,5 @@ in	IN	_ <O>
 1850	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

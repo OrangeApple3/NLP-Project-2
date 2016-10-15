@@ -38,7 +38,8 @@ host	NN	_ <O>
 and	CC	_ <O>
 reporter	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 several	JJ	_ <O>
 years	NNS	_ <O>
@@ -63,7 +64,8 @@ late	JJ	_ <O>
 afternoon	NN	_ <O>
 news	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 was	VBD	_ <O>
 also	RB	_ <O>
@@ -86,7 +88,8 @@ du	NNP	_ <O>
 soleil	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 2006	CD	_ <O>
 ,	,	_ <O>
@@ -104,4 +107,5 @@ received	VBD	_ <O>
 several	JJ	<B-CUE>
 awards	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

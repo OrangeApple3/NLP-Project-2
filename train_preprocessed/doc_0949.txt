@@ -32,7 +32,8 @@ tart	NN	_ <O>
 Peter	NNP	_ <O>
 Beattie	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 major	JJ	_ <O>
 controversy	NN	_ <O>
@@ -65,7 +66,8 @@ and	CC	_ <O>
 party	NN	_ <O>
 ballots	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 subsequent	JJ	_ <O>
 Shepardson	NNP	_ <O>
@@ -80,7 +82,8 @@ destroy	VB	_ <O>
 the	DT	_ <O>
 government	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Beattie	NNP	_ <O>
 immediately	RB	_ <O>
 undertook	VBD	_ <O>
@@ -104,4 +107,5 @@ cleanskin	NN	_ <O>
 "	''	_ <O>
 approach	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

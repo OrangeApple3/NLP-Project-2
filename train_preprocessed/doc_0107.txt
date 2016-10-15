@@ -22,7 +22,8 @@ the	DT	_ <O>
 orthodox	JJ	_ <O>
 strategy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 instance	NN	_ <O>
 ,	,	_ <O>
@@ -62,7 +63,8 @@ and	CC	_ <O>
 geographical	JJ	_ <O>
 issues	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 brought	VBD	_ <O>
 the	DT	_ <O>
@@ -96,7 +98,8 @@ from	IN	_ <O>
 that	DT	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 any	DT	_ <O>
 event	NN	_ <O>
@@ -153,4 +156,5 @@ a	DT	_ <O>
 near	JJ	_ <O>
 defeat	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

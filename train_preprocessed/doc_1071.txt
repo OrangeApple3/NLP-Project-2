@@ -12,7 +12,8 @@ crickets	NNS	_ <O>
 and	CC	_ <O>
 frogs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Its	PRP$	_ <O>
 chief	JJ	_ <O>
 predator	NN	_ <O>
@@ -28,7 +29,8 @@ common	JJ	_ <O>
 house	NN	_ <O>
 cat	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 they	PRP	_ <O>
 almost	RB	_ <O>
@@ -37,7 +39,8 @@ return	VBP	_ <O>
 before	IN	_ <O>
 daybreak	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Thus	RB	_ <O>
 ,	,	_ <O>
 he	PRP	_ <O>
@@ -60,4 +63,5 @@ net	NN	_ <O>
 for	IN	_ <O>
 breaches	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -26,7 +26,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 season	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 since	IN	_ <O>
@@ -105,4 +106,5 @@ Christmas	NNP	_ <O>
 traditions	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

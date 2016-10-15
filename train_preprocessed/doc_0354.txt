@@ -29,7 +29,8 @@ at	IN	_ <O>
 the	DT	_ <O>
 rear	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 a	DT	_ <O>
@@ -45,7 +46,8 @@ supporting	VBG	_ <O>
 the	DT	_ <O>
 roof	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 a	DT	_ <O>
 consequence	NN	_ <O>
@@ -57,7 +59,8 @@ places	NNS	_ <O>
 are	VBP	_ <O>
 restricted	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 remains	VBZ	_ <O>
 ,	,	_ <O>
@@ -73,4 +76,5 @@ to	TO	_ <O>
 watch	VB	_ <O>
 matches	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

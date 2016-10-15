@@ -13,7 +13,8 @@ from	IN	_ <O>
 stated	JJ	_ <O>
 policy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 difference	NN	_ <O>
 is	VBZ	_ <O>
@@ -40,7 +41,8 @@ implementation	NN	_ <O>
 and	CC	_ <O>
 enforcement	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Implementing	VBG	_ <O>
 policy	NN	_ <O>
 may	MD	_ <O>
@@ -66,7 +68,8 @@ crafted	VBN	_ <O>
 to	TO	_ <O>
 address	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Additionally	RB	_ <O>
 ,	,	_ <O>
 unpredictable	JJ	_ <O>
@@ -81,4 +84,5 @@ enforcement	NN	_ <O>
 of	IN	_ <O>
 policy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

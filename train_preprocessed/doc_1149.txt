@@ -20,7 +20,8 @@ spin	NN	_ <O>
 about	IN	_ <O>
 you	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	JJS	<B-CUE>
 people	NNS	<I-CUE>
 find	VB	_ <O>
@@ -35,4 +36,5 @@ nausea	NN	_ <O>
 and	CC	_ <O>
 vomiting	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

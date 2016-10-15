@@ -20,7 +20,8 @@ requisite	JJ	_ <O>
 undergraduate	JJ	_ <O>
 education	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 former	JJ	_ <O>
 commonly	RB	_ <O>
@@ -32,7 +33,8 @@ years	NNS	_ <O>
 to	TO	_ <O>
 complete	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Programs	NNS	_ <O>
 that	WDT	_ <O>
 require	VBP	_ <O>
@@ -61,7 +63,8 @@ years	NNS	_ <O>
 in	IN	_ <O>
 length	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hence	RB	_ <O>
 ,	,	_ <O>
 gaining	VBG	_ <O>
@@ -84,4 +87,5 @@ jurisdiction	NN	_ <O>
 and	CC	_ <O>
 university	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

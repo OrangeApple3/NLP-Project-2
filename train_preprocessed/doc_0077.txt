@@ -25,7 +25,8 @@ basic	JJ	_ <O>
 moult	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 resulting	VBG	_ <O>
 covering	VBG	_ <O>
@@ -57,7 +58,8 @@ basic	JJ	_ <O>
 plumage	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	_ <O>
 species	NNS	_ <O>
 undertake	VBP	_ <O>
@@ -96,7 +98,8 @@ nuptial	JJ	_ <O>
 plumage	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 alternate	JJ	_ <O>
 plumage	NN	_ <O>
@@ -134,4 +137,5 @@ on	IN	_ <O>
 the	DT	_ <O>
 nest	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

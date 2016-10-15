@@ -21,7 +21,8 @@ not	RB	<I-CUE>
 been	VBN	<I-CUE>
 verified	VBN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 it	PRP	_ <O>
 were	VBD	_ <O>
@@ -48,7 +49,8 @@ not	RB	_ <O>
 have	VB	_ <O>
 survived	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 the	DT	_ <O>
 other	JJ	_ <O>
@@ -87,7 +89,8 @@ Coast	NNP	_ <O>
 Military	NNP	_ <O>
 Academy	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 the	DT	_ <O>
 members	NNS	_ <O>
@@ -114,4 +117,5 @@ Phi	NNP	_ <O>
 Kappa	NNP	_ <O>
 chapters	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

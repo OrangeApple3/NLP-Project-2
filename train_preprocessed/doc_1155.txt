@@ -28,7 +28,8 @@ difficult	JJ	_ <O>
 to	TO	_ <O>
 trace	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 many	JJ	_ <O>
@@ -54,7 +55,8 @@ is	VBZ	_ <O>
 no	DT	_ <O>
 exception	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Because	IN	_ <O>
 Chaucer	NNP	_ <O>
 's	POS	_ <O>
@@ -97,7 +99,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 story	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -109,4 +112,5 @@ else	RB	_ <O>
 in	IN	_ <O>
 common	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -30,7 +30,8 @@ post	NN	_ <O>
 "	''	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	_ <O>
 contributors	NNS	_ <O>
 ,	,	_ <O>
@@ -58,7 +59,8 @@ reject	VB	_ <O>
 them	PRP	_ <O>
 outright	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 direct	JJ	_ <O>
 contrast	NN	_ <O>
@@ -99,7 +101,8 @@ play	NN	_ <O>
 of	IN	_ <O>
 difference	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Anti	NNP	_ <O>
 -	HYPH	_ <O>
 humanism	NN	_ <O>
@@ -118,4 +121,5 @@ a	DT	_ <O>
 central	JJ	_ <O>
 tenet	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

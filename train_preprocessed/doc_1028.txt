@@ -37,7 +37,8 @@ more	JJR	_ <O>
 damaged	VBN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 also	RB	_ <O>
 claimed	VBD	_ <O>
@@ -62,7 +63,8 @@ torpedo	NN	_ <O>
 boats	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 references	NNS	<I-CUE>
 credit	VB	_ <O>
@@ -83,7 +85,8 @@ ground	NN	_ <O>
 "	''	_ <O>
 kills	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Recent	JJ	_ <O>
 ,	,	_ <O>
 more	RBR	_ <O>
@@ -119,4 +122,5 @@ of	IN	_ <O>
 18	CD	_ <O>
 victories	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -23,7 +23,8 @@ their	PRP$	_ <O>
 presence	NN	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -47,7 +48,8 @@ breaching	VBG	_ <O>
 the	DT	_ <O>
 peace	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Constables	NNS	_ <O>
 '	POS	_ <O>
 "	``	_ <O>
@@ -83,7 +85,8 @@ on	IN	_ <O>
 probable	JJ	_ <O>
 cause	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 according	VBG	_ <O>
@@ -116,4 +119,5 @@ constable	NN	_ <O>
 is	VBZ	_ <O>
 given	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

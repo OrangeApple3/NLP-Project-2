@@ -44,7 +44,8 @@ over	IN	_ <O>
 the	DT	_ <O>
 world	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nowadays	RB	_ <O>
 ,	,	_ <O>
 Piraeus	NNP	_ <O>
@@ -78,7 +79,8 @@ of	IN	_ <O>
 passenger	NN	_ <O>
 transportation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Piraeus	NNP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -97,7 +99,8 @@ eastern	JJ	_ <O>
 Mediterranean	NNP	_ <O>
 ports	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 central	JJ	_ <O>
 port	NN	_ <O>
@@ -150,4 +153,5 @@ for	IN	_ <O>
 cargo	NN	_ <O>
 services	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -30,7 +30,8 @@ almost	RB	_ <O>
 certain	JJ	_ <O>
 death	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Armistead	NNP	_ <O>
 is	VBZ	_ <O>
 known	VBN	_ <O>
@@ -48,7 +49,8 @@ of	IN	_ <O>
 his	PRP$	_ <O>
 sword	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Per	IN	_ <O>
 his	PRP$	_ <O>
 dying	NN	_ <O>
@@ -72,7 +74,8 @@ wife	NN	_ <O>
 ,	,	_ <O>
 Almira	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Trimble	JJ	_ <O>
 and	CC	_ <O>
 Pettigrew	NNP	_ <O>
@@ -121,4 +124,5 @@ to	IN	_ <O>
 Virginia	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -53,7 +53,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 handle	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 transported	VBN	_ <O>
@@ -76,7 +77,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 dirt	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 most	RBS	_ <O>
 complex	JJ	_ <O>
@@ -105,7 +107,8 @@ from	IN	_ <O>
 the	DT	_ <O>
 plant	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 result	NN	_ <O>
 is	VBZ	_ <O>
@@ -139,4 +142,5 @@ wagon	NN	_ <O>
 or	CC	_ <O>
 truck	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

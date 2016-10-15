@@ -10,7 +10,8 @@ poor	JJ	_ <O>
 people	NNS	_ <O>
 poorer	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Poor	JJ	_ <O>
 people	NNS	_ <O>
 spend	VBP	_ <O>
@@ -26,7 +27,8 @@ than	IN	_ <O>
 richer	JJR	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 in	IN	_ <O>
@@ -46,7 +48,8 @@ in	IN	_ <O>
 some	DT	<B-CUE>
 countries	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 World	NNP	_ <O>
 Bank	NNP	_ <O>
@@ -64,4 +67,5 @@ deeper	JJR	_ <O>
 into	IN	_ <O>
 poverty	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

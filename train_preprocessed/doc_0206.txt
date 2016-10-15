@@ -15,7 +15,8 @@ notice	NN	_ <O>
 of	IN	_ <O>
 resignation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 he	PRP	_ <O>
@@ -46,4 +47,5 @@ to	IN	_ <O>
 rejected	VBD	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

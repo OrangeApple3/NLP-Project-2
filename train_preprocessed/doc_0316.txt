@@ -26,7 +26,8 @@ contemporary	JJ	_ <O>
 musical	JJ	_ <O>
 idioms	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 has	VBZ	_ <O>
 been	VBN	_ <O>
@@ -40,7 +41,8 @@ particularly	RB	_ <O>
 with	IN	_ <O>
 percussion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 often	RB	_ <O>
 quotes	VBZ	_ <O>
@@ -71,4 +73,5 @@ and	CC	_ <O>
 Shostakovich	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

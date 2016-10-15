@@ -22,7 +22,8 @@ marked	VBN	_ <O>
 by	IN	_ <O>
 prepositions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Possession	NN	_ <O>
 is	VBZ	_ <O>
 expressed	VBN	_ <O>
@@ -61,7 +62,8 @@ enclitic	NN	_ <O>
 is	VBZ	_ <O>
 employed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Inanimate	NNP	_ <O>
 nouns	NNS	_ <O>
 pluralize	VBP	_ <O>
@@ -88,7 +90,8 @@ is	VBZ	_ <O>
 also	RB	_ <O>
 common	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Special	JJ	_ <O>
 rules	NNS	_ <O>
 exist	VBP	_ <O>
@@ -99,4 +102,5 @@ borrowed	VBN	_ <O>
 from	IN	_ <O>
 Arabic	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

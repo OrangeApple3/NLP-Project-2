@@ -2,7 +2,8 @@ NULL
 AD	NN	_ <O>
 900–1400	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Vowels	NNS	_ <O>
 were	VBD	_ <O>
 lengthened	VBN	_ <O>
@@ -30,7 +31,8 @@ and	CC	_ <O>
 two	CD	_ <O>
 syllables	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 probably	RB	<B-CUE>
 occurred	VBD	_ <O>
@@ -38,7 +40,8 @@ around	IN	_ <O>
 AD	NNP	_ <O>
 1000	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Later	RB	_ <O>
 on	RB	_ <O>
 ,	,	_ <O>
@@ -64,7 +67,8 @@ once	RB	_ <O>
 quite	RB	_ <O>
 general	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Middle	JJ	_ <O>
 English	NNP	_ <O>
 open	JJ	_ <O>
@@ -90,7 +94,8 @@ laxing	NN	_ <O>
 would	MD	_ <O>
 apply	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Voiced	VBN	_ <O>
 fricatives	NNS	_ <O>
 became	VBD	_ <O>
@@ -103,7 +108,8 @@ other	JJ	_ <O>
 sound	JJ	_ <O>
 changes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 before	IN	_ <O>
 back	JJ	_ <O>
 vowel	NN	_ <O>
@@ -111,4 +117,5 @@ becomes	VBZ	_ <O>
 ;	:	_ <O>
 becomes	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

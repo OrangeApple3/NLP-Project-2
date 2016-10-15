@@ -43,7 +43,8 @@ of	IN	_ <O>
 health	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 was	VBD	_ <O>
 of	IN	_ <O>
@@ -89,7 +90,8 @@ non	AFX	_ <O>
 physical	JJ	_ <O>
 conditions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pro	JJ	_ <O>
 -	HYPH	_ <O>
 choice	NN	_ <O>
@@ -118,7 +120,8 @@ risk	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Health	NN	_ <O>
 is	VBZ	_ <O>
 one	CD	_ <O>
@@ -147,4 +150,5 @@ for	IN	_ <O>
 additional	JJ	<B-CUE>
 reasons	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

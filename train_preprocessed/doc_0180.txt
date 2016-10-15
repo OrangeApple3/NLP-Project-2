@@ -22,7 +22,8 @@ are	VBP	_ <O>
 in	IN	_ <O>
 love	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 this	DT	_ <O>
 song	NN	_ <O>
@@ -41,7 +42,8 @@ misinterpret	VBP	_ <O>
 their	PRP$	_ <O>
 intentions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Neither	DT	_ <O>
 wants	VBZ	_ <O>
 to	TO	_ <O>
@@ -59,7 +61,8 @@ her	PRP$	_ <O>
 true	JJ	_ <O>
 feelings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 the	DT	_ <O>
 end	NN	_ <O>
@@ -86,4 +89,5 @@ in	IN	_ <O>
 love	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

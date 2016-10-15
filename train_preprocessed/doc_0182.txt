@@ -29,7 +29,8 @@ of	IN	_ <O>
 traveling	VBG	_ <O>
 minstrels	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 grew	VBD	_ <O>
 in	IN	_ <O>
@@ -51,7 +52,8 @@ show	NN	_ <O>
 in	IN	_ <O>
 1878	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 continued	VBD	_ <O>
 traveling	VBG	_ <O>
@@ -74,7 +76,8 @@ Soldier	NNP	_ <O>
 in	IN	_ <O>
 1890	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	RB	_ <O>
 he	PRP	_ <O>
 began	VBD	_ <O>
@@ -92,4 +95,5 @@ publishing	VBG	_ <O>
 music	NN	_ <O>
 independently	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

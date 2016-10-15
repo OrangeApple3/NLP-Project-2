@@ -32,7 +32,8 @@ independence	NN	_ <O>
 from	IN	_ <O>
 Colombia	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 exchange	NN	_ <O>
 for	IN	_ <O>
@@ -65,7 +66,8 @@ Panama	NNP	_ <O>
 Canal	NNP	_ <O>
 Zone	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 significant	JJ	<B-CUE>
 investment	NN	_ <O>
@@ -105,7 +107,8 @@ Panama	NNP	_ <O>
 Canal	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 With	IN	_ <O>
 the	DT	_ <O>
 diseases	NNS	_ <O>
@@ -132,7 +135,8 @@ began	VBD	_ <O>
 in	IN	_ <O>
 earnest	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Americans	NNPS	_ <O>
 also	RB	_ <O>
@@ -158,7 +162,8 @@ pace	NN	_ <O>
 of	IN	_ <O>
 construction	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 President	NNP	_ <O>
 Roosevelt	NNP	_ <O>
 had	VBD	_ <O>
@@ -192,4 +197,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 canal	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -29,7 +29,8 @@ and	CC	_ <O>
 the	DT	_ <O>
 same	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 Act	NNP	_ <O>
 V	NNP	_ <O>
@@ -60,7 +61,8 @@ Call	VB	_ <O>
 Egeus	NNP	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Howard	NNP	_ <O>
 Furness	NNP	_ <O>
 ,	,	_ <O>
@@ -104,7 +106,8 @@ to	TO	_ <O>
 save	VB	_ <O>
 money	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 cases	NNS	_ <O>
 where	WRB	_ <O>
@@ -136,4 +139,5 @@ into	IN	_ <O>
 his	PRP$	_ <O>
 own	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

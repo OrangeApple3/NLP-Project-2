@@ -34,7 +34,8 @@ Pasco	NNP	_ <O>
 rail	NN	_ <O>
 yards	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 the	DT	_ <O>
 end	NN	_ <O>
@@ -76,7 +77,8 @@ Hanford	NNP	_ <O>
 related	VBN	_ <O>
 work	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Due	IN	_ <O>
 to	IN	_ <O>
 its	PRP$	_ <O>
@@ -113,7 +115,8 @@ terms	NNS	_ <O>
 of	IN	_ <O>
 population	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Farming	VBG	_ <O>
 continued	VBD	_ <O>
 to	TO	_ <O>
@@ -127,4 +130,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 city	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -15,7 +15,8 @@ featuring	VBG	_ <O>
 human	JJ	_ <O>
 figures	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 Poser	NNP	_ <O>
 has	VBZ	_ <O>
@@ -28,7 +29,8 @@ is	VBZ	_ <O>
 less	RBR	_ <O>
 common	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Poser	NNP	_ <O>
 figures	NNS	_ <O>
 and	CC	_ <O>
@@ -58,7 +60,8 @@ Elefun	NNP	_ <O>
 games	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Infography	NNP	_ <O>
 present	NN	_ <O>
 in	IN	_ <O>
@@ -78,4 +81,5 @@ or	CC	_ <O>
 postworked	VBD	_ <O>
 models	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

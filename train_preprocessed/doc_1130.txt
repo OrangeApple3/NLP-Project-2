@@ -12,7 +12,8 @@ Bodo	NNP	_ <O>
 ,	,	_ <O>
 Norway	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 was	VBD	_ <O>
 established	VBN	_ <O>
@@ -34,4 +35,5 @@ Nordlands	NNP	_ <O>
 Framtid	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

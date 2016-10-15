@@ -36,7 +36,8 @@ for	IN	_ <O>
 future	JJ	_ <O>
 dealings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Upon	IN	_ <O>
 hearing	VBG	_ <O>
 this	DT	_ <O>
@@ -49,7 +50,8 @@ Bushnell	NNP	_ <O>
 's	POS	_ <O>
 offer	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 first	JJ	_ <O>
 arcade	NN	_ <O>
@@ -73,7 +75,8 @@ failed	VBD	_ <O>
 quality	NN	_ <O>
 testing	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 By	IN	_ <O>
 1973	CD	_ <O>
 ,	,	_ <O>
@@ -93,4 +96,5 @@ of	IN	_ <O>
 foreign	JJ	_ <O>
 partners	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

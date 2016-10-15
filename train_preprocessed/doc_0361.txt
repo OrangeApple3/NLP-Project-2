@@ -19,7 +19,8 @@ country	NN	_ <O>
 music	NN	_ <O>
 singer	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 native	JJ	_ <O>
 Texan	NNP	_ <O>
@@ -33,7 +34,8 @@ country	NN	_ <O>
 western	JJ	_ <O>
 sound	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Strait	NNP	_ <O>
 is	VBZ	<B-CUE>
 sometimes	RB	<I-CUE>
@@ -60,7 +62,8 @@ Bego	NNP	_ <O>
 2001	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 is	VBZ	_ <O>
 well	RB	_ <O>
@@ -90,4 +93,5 @@ country	NN	_ <O>
 western	JJ	_ <O>
 music	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -9,7 +9,8 @@ a	DT	_ <O>
 mobile	JJ	_ <O>
 home	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 remained	VBD	_ <O>
 for	IN	_ <O>
@@ -42,7 +43,8 @@ in	IN	_ <O>
 Coal	NNP	_ <O>
 City	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Ninety	CD	_ <O>
 other	JJ	_ <O>
 homes	NNS	_ <O>
@@ -55,7 +57,8 @@ to	IN	_ <O>
 major	JJ	_ <O>
 destruction	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 An	DT	_ <O>
 additional	JJ	_ <O>
 twelve	CD	_ <O>
@@ -63,4 +66,5 @@ people	NNS	_ <O>
 were	VBD	_ <O>
 injured	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -22,7 +22,8 @@ the	DT	_ <O>
 the	DT	_ <O>
 Tower	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Amongst	IN	_ <O>
 other	JJ	_ <O>
@@ -80,7 +81,8 @@ such	JJ	_ <O>
 a	DT	_ <O>
 matter	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 other	JJ	_ <O>
 :	:	_ <O>
@@ -109,7 +111,8 @@ speech	NN	_ <O>
 and	CC	_ <O>
 consultation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 I	PRP	_ <O>
 would	MD	_ <O>
 to	IN	_ <O>
@@ -138,4 +141,5 @@ they	PRP	_ <O>
 undoubtedly	RB	_ <O>
 are	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

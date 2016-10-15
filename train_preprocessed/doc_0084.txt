@@ -26,7 +26,8 @@ some	DT	_ <O>
 floral	JJ	_ <O>
 organs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 we	PRP	_ <O>
 mutate	VBP	_ <O>
@@ -50,7 +51,8 @@ leaf	NN	_ <O>
 like	JJ	_ <O>
 structures	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 probably	RB	<B-CUE>
 also	RB	_ <O>
@@ -68,7 +70,8 @@ has	VBZ	_ <O>
 been	VBN	_ <O>
 generated	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 '	``	_ <O>
 LFY	NNP	_ <O>
@@ -88,4 +91,5 @@ MADS	NNP	_ <O>
 box	NNP	_ <O>
 family	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

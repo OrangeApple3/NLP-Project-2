@@ -60,7 +60,8 @@ from	IN	_ <O>
 their	PRP$	_ <O>
 earnings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Typically	RB	<B-CUE>
 ,	,	_ <O>
 a	DT	_ <O>
@@ -96,7 +97,8 @@ to	TO	_ <O>
 maximize	VB	_ <O>
 profits	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 pimp	NN	_ <O>
 may	MD	<B-CUE>
@@ -117,7 +119,8 @@ from	IN	_ <O>
 abusive	JJ	_ <O>
 clients	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pimping	NN	_ <O>
 is	VBZ	_ <O>
 illegal	JJ	_ <O>
@@ -125,4 +128,5 @@ in	IN	_ <O>
 most	JJS	_ <O>
 countries	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

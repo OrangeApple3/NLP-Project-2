@@ -28,7 +28,8 @@ on	IN	_ <O>
 the	DT	_ <O>
 topic	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 was	VBD	_ <O>
 of	IN	_ <O>
@@ -53,7 +54,8 @@ on	IN	_ <O>
 surrounding	VBG	_ <O>
 tombstones	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 swimming	NN	_ <O>
 pool	NN	_ <O>
@@ -78,7 +80,8 @@ was	VBD	_ <O>
 mass	NN	_ <O>
 panic	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Coincidentally	RB	_ <O>
 ,	,	_ <O>
 another	DT	_ <O>
@@ -114,4 +117,5 @@ the	DT	_ <O>
 Iberian	NNP	_ <O>
 peninsula	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -35,7 +35,8 @@ the	DT	_ <O>
 Arthurian	JJ	_ <O>
 legend	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Son	NNP	_ <O>
 of	IN	_ <O>
 King	NNP	_ <O>
@@ -72,7 +73,8 @@ first	JJ	_ <O>
 meets	VBZ	_ <O>
 him	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pellinore	NNP	_ <O>
 beats	VBZ	_ <O>
 King	NNP	_ <O>
@@ -116,7 +118,8 @@ soon	RB	_ <O>
 after	RB	_ <O>
 .	.	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 has	VBZ	_ <O>
 many	JJ	_ <O>
@@ -173,4 +176,5 @@ the	DT	_ <O>
 mystical	JJ	_ <O>
 object	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -32,7 +32,8 @@ property	NN	_ <O>
 being	VBG	_ <O>
 taxed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 three	CD	_ <O>
@@ -63,7 +64,8 @@ made	VBD	_ <O>
 things	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Real	JJ	_ <O>
 estate	NN	_ <O>
 ,	,	_ <O>
@@ -82,7 +84,8 @@ land	NN	_ <O>
 and	CC	_ <O>
 improvements	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 taxing	VBG	_ <O>
 authority	NN	_ <O>
@@ -109,7 +112,8 @@ to	IN	_ <O>
 that	DT	_ <O>
 value	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Forms	NNS	_ <O>
 of	IN	_ <O>
 property	NN	_ <O>
@@ -121,4 +125,5 @@ countries	NNS	<B-CUE>
 and	CC	<I-CUE>
 jurisdictions	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

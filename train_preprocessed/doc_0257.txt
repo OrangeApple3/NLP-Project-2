@@ -19,7 +19,8 @@ less	JJR	_ <O>
 understood	VBD	_ <O>
 substance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 a	DT	_ <O>
 sand	NN	_ <O>
@@ -40,30 +41,36 @@ of	IN	_ <O>
 following	VBG	_ <O>
 types.1	ADD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Green	NNP	_ <O>
 Sand2	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Resin	NNP	_ <O>
 Coated	NNP	_ <O>
 Sand3	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Molasses	NNP	_ <O>
 4	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Cold	NNP	_ <O>
 Box	NNP	_ <O>
 Sand5	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hot	JJ	_ <O>
 Box	NNP	_ <O>
 Sand6	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 CO2	NNP	_ <O>
 SandSand	NNP	_ <O>
 in	IN	_ <O>
@@ -85,7 +92,8 @@ moulds	NNS	_ <O>
 or	CC	_ <O>
 cores	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 preparation	NN	_ <O>
 process	NN	_ <O>
@@ -120,7 +128,8 @@ defect	NN	_ <O>
 free	JJ	_ <O>
 casting	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 a	DT	_ <O>
 Sand	NNP	_ <O>
@@ -145,7 +154,8 @@ of	IN	<I-CUE>
 internal	JJ	<I-CUE>
 variables	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 defects	NNS	_ <O>
 arising	VBG	_ <O>
@@ -170,7 +180,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 sand	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Following	VBG	_ <O>
 are	VBP	_ <O>
 the	DT	<B-CUE>
@@ -182,4 +193,5 @@ the	DT	_ <O>
 testing	NN	_ <O>
 equipments	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

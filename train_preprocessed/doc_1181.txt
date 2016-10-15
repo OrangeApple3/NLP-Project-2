@@ -29,7 +29,8 @@ and	CC	_ <O>
 Japanese	JJ	_ <O>
 culture	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Besides	IN	_ <O>
 hosting	VBG	_ <O>
 weekly	JJ	_ <O>
@@ -52,7 +53,8 @@ various	JJ	_ <O>
 outside	JJ	_ <O>
 events	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Members	NNS	_ <O>
 can	MD	_ <O>
 often	RB	_ <O>
@@ -65,7 +67,8 @@ conventions	NNS	_ <O>
 and	CC	_ <O>
 parades	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Average	JJ	_ <O>
 attendance	NN	_ <O>
 per	IN	_ <O>
@@ -88,4 +91,5 @@ throughout	IN	_ <O>
 the	DT	_ <O>
 day	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

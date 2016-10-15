@@ -18,7 +18,8 @@ minister	NN	_ <O>
 official	JJ	_ <O>
 acts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 criminal	JJ	_ <O>
 investigation	NN	_ <O>
@@ -44,7 +45,8 @@ any	DT	_ <O>
 parliamentary	JJ	_ <O>
 committee	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Similar	JJ	_ <O>
 proceedings	NNS	_ <O>
 may	MD	_ <O>
@@ -67,7 +69,8 @@ the	DT	_ <O>
 supreme	JJ	_ <O>
 courts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 President	NNP	_ <O>
 of	IN	_ <O>
@@ -115,4 +118,5 @@ crime	NN	_ <O>
 against	IN	_ <O>
 humanity	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

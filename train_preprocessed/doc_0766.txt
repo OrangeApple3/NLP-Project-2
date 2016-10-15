@@ -50,7 +50,8 @@ the	DT	_ <O>
 Islamic	JJ	_ <O>
 texts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Briefly	NN	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -76,7 +77,8 @@ and	CC	_ <O>
 Islamic	JJ	_ <O>
 sources	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Islam	NNP	_ <O>
 itself	PRP	_ <O>
 discerns	VBZ	_ <O>
@@ -98,7 +100,8 @@ the	DT	_ <O>
 Hebrew	JJ	_ <O>
 language	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Both	DT	_ <O>
 "	``	_ <O>
 Ruh	NNP	_ <O>
@@ -120,7 +123,8 @@ two	CD	_ <O>
 different	JJ	_ <O>
 concepts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	<B-CUE>
 is	VBZ	<I-CUE>
 no	DT	<I-CUE>
@@ -144,7 +148,8 @@ feelings	NNS	_ <O>
 or	CC	_ <O>
 thinking	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 No	UH	_ <O>
 where	WRB	_ <O>
 in	IN	_ <O>
@@ -182,7 +187,8 @@ whispered	VBD	_ <O>
 to	IN	_ <O>
 him	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 Nafs	NNP	_ <O>
 is	VBZ	_ <O>
@@ -192,7 +198,8 @@ source	NN	_ <O>
 of	IN	_ <O>
 life	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 something	NN	<B-CUE>
@@ -201,7 +208,8 @@ than	IN	_ <O>
 the	DT	_ <O>
 Ruh	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 partly	RB	_ <O>
 because	IN	_ <O>
@@ -257,7 +265,8 @@ an	DT	_ <O>
 independent	JJ	_ <O>
 entity	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 order	NN	_ <O>
 to	TO	_ <O>
@@ -286,7 +295,8 @@ and	CC	_ <O>
 Christian	JJ	_ <O>
 perspective	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 you	PRP	<B-CUE>
 compare	VB	_ <O>
@@ -324,4 +334,5 @@ it	PRP	_ <O>
 seem	VB	_ <O>
 so	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

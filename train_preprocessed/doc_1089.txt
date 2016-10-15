@@ -31,7 +31,8 @@ industry	NN	_ <O>
 in	IN	_ <O>
 Nevada	NNP	_ <O>
 ..	.	_ <O>
- <O>
+
+NULL
 Retrieved	VBN	_ <O>
 June	NNP	_ <O>
 25	CD	_ <O>
@@ -60,7 +61,8 @@ of	IN	_ <O>
 silver	JJ	_ <O>
 coinage	NN	_ <O>
 ..	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 under	IN	_ <O>
 pressure	NN	_ <O>
@@ -94,7 +96,8 @@ the	DT	_ <O>
 Peace	NNP	_ <O>
 Dollar	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 rumors	NNS	<B-CUE>
 persist	VB	_ <O>
@@ -124,4 +127,5 @@ come	VB	_ <O>
 forth	RB	_ <O>
 publicly	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

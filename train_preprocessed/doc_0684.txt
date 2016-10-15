@@ -24,7 +24,8 @@ Zeta	NNP	_ <O>
 -	HYPH	_ <O>
 Jones	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 episode	NN	_ <O>
@@ -64,7 +65,8 @@ the	DT	_ <O>
 concrete	JJ	_ <O>
 columns	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 towers	NNS	_ <O>
 also	RB	_ <O>
@@ -126,7 +128,8 @@ panel	NN	_ <O>
 of	IN	_ <O>
 glass	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Petronas	NNP	_ <O>
 Towers	NNP	_ <O>
@@ -164,7 +167,8 @@ by	IN	_ <O>
 S.	NNP	_ <O>
 Shankar	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 ,	,	_ <O>
 in	IN	_ <O>
@@ -202,7 +206,8 @@ a	DT	_ <O>
 major	JJ	_ <O>
 setting	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 Joseph	NNP	_ <O>
 Vijay	NNP	_ <O>
@@ -215,11 +220,13 @@ the	DT	_ <O>
 Petronas	NNP	_ <O>
 towers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Followed	VBN	_ <O>
 by	IN	_ <O>
 Surya	NNP	_ <O>
 Sivakumar	NNP	_ <O>
 's	POS	_ <O>
 Ayan	NNP	_ <O>
- <O>
+
+NULL

@@ -47,7 +47,8 @@ they	PRP	_ <O>
 are	VBP	_ <O>
 different	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 a	DT	_ <O>
@@ -70,7 +71,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 father	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 wife	NN	_ <O>
 may	MD	_ <O>
@@ -107,7 +109,8 @@ złożone	NN	_ <O>
 '	''	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -137,4 +140,5 @@ his	PRP$	_ <O>
 family	NN	_ <O>
 name	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

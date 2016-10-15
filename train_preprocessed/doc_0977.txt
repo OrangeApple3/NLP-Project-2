@@ -23,7 +23,8 @@ Advanced	NNP	_ <O>
 Vela	NNP	_ <O>
 design	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Vela	NNP	_ <O>
 Hotel	NNP	_ <O>
@@ -56,4 +57,5 @@ in	IN	_ <O>
 the	DT	_ <O>
 atmosphere	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -26,7 +26,8 @@ Modern	NNP	_ <O>
 still	RB	_ <O>
 persists	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 term	NN	_ <O>
 Dark	NNP	_ <O>
@@ -65,7 +66,8 @@ its	PRP$	_ <O>
 negative	JJ	_ <O>
 connotations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 term	NN	_ <O>
 "	``	_ <O>
@@ -118,7 +120,8 @@ into	IN	_ <O>
 academic	JJ	_ <O>
 terminology	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 other	JJ	<B-CUE>
 terms	NNS	<I-CUE>
@@ -164,4 +167,5 @@ Goth	NNP	_ <O>
 subculture	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

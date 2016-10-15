@@ -26,4 +26,5 @@ attention	NN	_ <O>
 of	IN	_ <O>
 bystanders	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

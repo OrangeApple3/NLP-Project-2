@@ -22,7 +22,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 chicks	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 threats	NNS	_ <O>
 to	IN	_ <O>
@@ -46,7 +47,8 @@ to	IN	_ <O>
 less	JJR	_ <O>
 extents	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Ghost	NNP	_ <O>
 Crabs	NNP	_ <O>
 have	VBP	_ <O>
@@ -61,7 +63,8 @@ of	IN	_ <O>
 young	JJ	_ <O>
 chicks	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 a	DT	_ <O>
 precaution	NN	_ <O>
@@ -83,4 +86,5 @@ any	DT	_ <O>
 unintended	JJ	_ <O>
 consequences	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

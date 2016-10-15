@@ -50,7 +50,8 @@ Yersinia	NNP	_ <O>
 pestis'(plague	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Opinions	NNS	<B-CUE>
 differ	VBP	_ <O>
 among	IN	_ <O>
@@ -90,7 +91,8 @@ of	IN	_ <O>
 mass	JJ	_ <O>
 destruction	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Fundamentally	RB	_ <O>
 ,	,	_ <O>
@@ -122,7 +124,8 @@ station	NN	_ <O>
 in	IN	_ <O>
 Prague	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 We	PRP	_ <O>
 were	VBD	_ <O>
@@ -148,7 +151,8 @@ and	CC	_ <O>
 the	DT	_ <O>
 Gulf	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Our	PRP$	_ <O>
 long	JJ	_ <O>
 -	HYPH	_ <O>
@@ -168,4 +172,5 @@ more	JJR	_ <O>
 responsible	JJ	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

@@ -29,7 +29,8 @@ very	RB	_ <O>
 different	JJ	_ <O>
 theses	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 Duhem	NNP	_ <O>
 's	POS	_ <O>
@@ -52,7 +53,8 @@ each	DT	_ <O>
 other	JJ	_ <O>
 logically	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 did	VBD	_ <O>
 not	RB	_ <O>
@@ -81,7 +83,8 @@ be	VB	_ <O>
 tested	VBN	_ <O>
 experimentally	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Quine	NNP	_ <O>
 ,	,	_ <O>
 on	IN	_ <O>
@@ -102,4 +105,5 @@ whole	JJ	_ <O>
 human	JJ	_ <O>
 knowledge	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

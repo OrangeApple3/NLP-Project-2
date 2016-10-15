@@ -34,7 +34,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 representatives	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 practice	NN	_ <O>
 this	DT	_ <O>
@@ -50,7 +51,8 @@ party	NN	_ <O>
 or	CC	_ <O>
 coalition	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 prime	JJ	_ <O>
 minister	NN	_ <O>
@@ -86,7 +88,8 @@ majority	NN	_ <O>
 of	IN	_ <O>
 representatives	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 assembly	NN	_ <O>
 is	VBZ	_ <O>
@@ -119,4 +122,5 @@ the	DT	_ <O>
 prime	JJ	_ <O>
 minister	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

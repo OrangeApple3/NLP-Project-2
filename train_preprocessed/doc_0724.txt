@@ -32,7 +32,8 @@ led	VBD	_ <O>
 to	IN	_ <O>
 nothing	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 would	MD	_ <O>
 finally	RB	_ <O>
@@ -59,7 +60,8 @@ by	IN	_ <O>
 Pope	NNP	_ <O>
 Clement	NNP	_ <O>
 XI.	NNP	_ <O>
- <O>
+
+NULL
 Here	RB	_ <O>
 the	DT	_ <O>
 last	JJ	_ <O>
@@ -105,7 +107,8 @@ was	VBD	_ <O>
 unceremoniously	RB	_ <O>
 expelled	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 rich	JJ	_ <O>
 Roman	JJ	_ <O>
@@ -202,4 +205,5 @@ the	DT	_ <O>
 Cathedral	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

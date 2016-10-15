@@ -26,7 +26,8 @@ Muscat	NNP	_ <O>
 's	POS	_ <O>
 cancer	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Including	VBG	_ <O>
 ,	,	_ <O>
 "	``	_ <O>
@@ -90,7 +91,8 @@ and	CC	_ <O>
 was	VBD	_ <O>
 rusty	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Coupled	VBN	_ <O>
 with	IN	_ <O>
 technical	JJ	_ <O>
@@ -124,7 +126,8 @@ guitar	NN	_ <O>
 intro	NN	_ <O>
 .	.	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 -	:	_ <O>
 Steven	NNP	_ <O>
 Adler	NNP	_ <O>
@@ -153,7 +156,8 @@ but	CC	_ <O>
 was	VBD	_ <O>
 denied	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 band	NN	_ <O>
 was	VBD	_ <O>
@@ -172,7 +176,8 @@ Pussycat	NNP	_ <O>
 's	POS	_ <O>
 equipment	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 only	RB	_ <O>
 5	CD	_ <O>
@@ -184,7 +189,8 @@ end	VB	_ <O>
 their	PRP$	_ <O>
 set	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 drummer	NN	_ <O>
 broke	VBD	_ <O>
@@ -218,4 +224,5 @@ f---ing	VBG	_ <O>
 awesome	JJ	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

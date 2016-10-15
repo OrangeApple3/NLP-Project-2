@@ -20,7 +20,8 @@ are	VBP	_ <O>
 absent	JJ	_ <O>
 entirely	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 vocals	NNS	_ <O>
 are	VBP	_ <O>
@@ -74,7 +75,8 @@ and	CC	_ <O>
 lyrical	JJ	_ <O>
 meaning	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 present	JJ	_ <O>
 ,	,	_ <O>
@@ -97,7 +99,8 @@ in	IN	_ <O>
 irregular	JJ	_ <O>
 intervals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Sigur	NNP	_ <O>
 Rós	NNP	_ <O>
 ,	,	_ <O>
@@ -158,4 +161,5 @@ another	DT	_ <O>
 instrument	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

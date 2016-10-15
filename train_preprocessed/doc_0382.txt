@@ -24,7 +24,8 @@ official	JJ	_ <O>
 state	NN	_ <O>
 visit	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Bush	NNP	_ <O>
 presidency	NN	_ <O>
@@ -73,7 +74,8 @@ provoked	VBN	_ <O>
 by	IN	_ <O>
 the	DT	_ <O>
 U.S.	NNP	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 administration	NN	_ <O>
 is	VBZ	_ <O>
@@ -105,7 +107,8 @@ of	IN	_ <O>
 nuclear	JJ	_ <O>
 energy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Bush	NNP	_ <O>
 made	VBD	_ <O>
 his	PRP$	_ <O>
@@ -127,7 +130,8 @@ winning	VBG	_ <O>
 the	DT	_ <O>
 presidency	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Bush	NNP	_ <O>
 came	VBD	<B-CUE>
 under	IN	<I-CUE>
@@ -157,7 +161,8 @@ to	IN	_ <O>
 global	JJ	_ <O>
 warming	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 has	VBZ	<B-CUE>
 asserted	VBN	<I-CUE>
@@ -195,4 +200,5 @@ U.S.	NNP	_ <O>
 economy	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

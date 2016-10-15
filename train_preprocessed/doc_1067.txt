@@ -65,7 +65,8 @@ group	NN	_ <O>
 being	VBG	_ <O>
 leader	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Assuming	VBG	_ <O>
 the	DT	_ <O>
 warrior	NN	_ <O>
@@ -92,7 +93,8 @@ on	IN	_ <O>
 the	DT	_ <O>
 female	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 most	RBS	_ <O>
 recent	JJ	_ <O>
@@ -117,7 +119,8 @@ an	DT	_ <O>
 accident	NN	_ <O>
 ...	:	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Yautja	NNP	_ <O>
 females	NNS	_ <O>
@@ -160,7 +163,8 @@ human	JJ	_ <O>
 females	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 musk	NN	_ <O>
 can	MD	_ <O>
@@ -179,4 +183,5 @@ imperceptible	JJ	_ <O>
 to	IN	_ <O>
 humans	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

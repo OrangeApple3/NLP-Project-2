@@ -27,7 +27,8 @@ and	CC	_ <O>
 active	JJ	_ <O>
 persons	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Despite	IN	_ <O>
 promising	VBG	_ <O>
 avenues	NNS	_ <O>
@@ -53,7 +54,8 @@ be	VB	_ <O>
 diagnostic	JJ	_ <O>
 of	IN	_ <O>
 CFS.	NNP	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 remains	VBZ	_ <O>
 largely	RB	_ <O>
@@ -85,7 +87,8 @@ help	VB	_ <O>
 aid	VB	_ <O>
 diagnosis	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 there	EX	_ <O>
 is	VBZ	_ <O>
@@ -142,7 +145,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 disorder	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 name	NN	_ <O>
 '	``	_ <O>
@@ -197,4 +201,5 @@ or	CC	_ <O>
 pathologic	JJ	_ <O>
 processes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

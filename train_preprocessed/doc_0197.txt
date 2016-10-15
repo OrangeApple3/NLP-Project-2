@@ -16,7 +16,8 @@ to	IN	_ <O>
 one	CD	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Over	IN	_ <O>
 the	DT	_ <O>
 previous	JJ	_ <O>
@@ -42,7 +43,8 @@ a	DT	_ <O>
 sticky	JJ	_ <O>
 situation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 it	PRP	_ <O>
 does	VBZ	_ <O>
@@ -68,7 +70,8 @@ with	IN	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Delacourt	NNP	_ <O>
 wrote	VBD	_ <O>
 ,	,	_ <O>
@@ -113,4 +116,5 @@ rooted	JJ	_ <O>
 social	JJ	_ <O>
 values	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

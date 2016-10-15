@@ -19,7 +19,8 @@ a	DT	_ <O>
 short	JJ	_ <O>
 stem	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	<B-CUE>
 believed	VBN	<I-CUE>
@@ -40,7 +41,8 @@ according	VBG	_ <O>
 to	IN	_ <O>
 Christenson	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 rooting	NN	_ <O>
 of	IN	_ <O>
@@ -52,7 +54,8 @@ is	VBZ	_ <O>
 usually	RB	_ <O>
 unbranched	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 leaves	NNS	_ <O>
 of	IN	_ <O>
@@ -86,7 +89,8 @@ at	IN	_ <O>
 10	CD	_ <O>
 cm	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 moon	NN	_ <O>
 orchid	NN	_ <O>
@@ -132,4 +136,5 @@ the	DT	_ <O>
 individual	JJ	_ <O>
 plant	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

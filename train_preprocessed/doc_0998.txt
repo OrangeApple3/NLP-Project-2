@@ -32,7 +32,8 @@ and	CC	_ <O>
 black	JJ	_ <O>
 metal	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Following	VBG	_ <O>
 in	IN	_ <O>
 the	DT	_ <O>
@@ -63,7 +64,8 @@ a	DT	_ <O>
 high	JJ	_ <O>
 register	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 majority	NN	_ <O>
 of	IN	_ <O>
@@ -110,7 +112,8 @@ of	IN	_ <O>
 Primal	NNP	_ <O>
 Fear	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 however	RB	_ <O>
@@ -164,4 +167,5 @@ of	IN	_ <O>
 Rob	NNP	_ <O>
 Halford	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -7,7 +7,8 @@ layers	NNS	_ <O>
 are	VBP	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Users	NNS	_ <O>
 obviously	RB	_ <O>
 have	VBP	_ <O>
@@ -21,7 +22,8 @@ reporting	VBG	_ <O>
 suspicious	JJ	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Aiding	VBG	_ <O>
 in	IN	_ <O>
 identifying	VBG	_ <O>
@@ -34,7 +36,8 @@ are	VBP	_ <O>
 identification	NN	_ <O>
 systems	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Visitors	NNS	_ <O>
 are	VBP	_ <O>
 often	RB	_ <O>
@@ -45,4 +48,5 @@ a	DT	_ <O>
 visitor	NN	_ <O>
 badge	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

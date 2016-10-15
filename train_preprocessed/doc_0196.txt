@@ -44,7 +44,8 @@ specific	JJ	_ <O>
 grammatical	JJ	_ <O>
 patterns	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nawat	NNP	_ <O>
 is	VBZ	_ <O>
 one	CD	_ <O>
@@ -70,7 +71,8 @@ expressive	JJ	_ <O>
 verb	NN	_ <O>
 formations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 root	NN	_ <O>
 form	NN	_ <O>
@@ -109,7 +111,8 @@ e.g.	FW	_ <O>
 -tzutzu-	FW	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 roots	NNS	_ <O>
 are	VBP	_ <O>
@@ -135,7 +138,8 @@ for	IN	_ <O>
 Nawat	NNP	_ <O>
 ideophones	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	_ <O>
 at	IN	_ <O>
 least	JJS	_ <O>
@@ -145,4 +149,5 @@ onomatopoeic	NN	_ <O>
 in	IN	_ <O>
 origin	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

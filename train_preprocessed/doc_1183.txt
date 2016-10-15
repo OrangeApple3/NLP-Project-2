@@ -14,7 +14,8 @@ of	IN	_ <O>
 human	JJ	_ <O>
 rights	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 the	DT	_ <O>
@@ -45,7 +46,8 @@ well	RB	_ <O>
 -	HYPH	_ <O>
 being	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 interest	NN	<I-CUE>
 -	HYPH	<I-CUE>
@@ -75,7 +77,8 @@ or	CC	_ <O>
 benevolence	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Reciprocal	JJ	_ <O>
 recognition	NN	_ <O>
 and	CC	_ <O>
@@ -91,4 +94,5 @@ will	MD	_ <O>
 be	VB	_ <O>
 protected	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

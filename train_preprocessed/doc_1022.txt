@@ -9,7 +9,8 @@ denomination	NN	_ <O>
 of	IN	_ <O>
 Islam	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Shi`a	JJ	_ <O>
 Muslims	NNPS	_ <O>
 believe	VBP	_ <O>
@@ -30,7 +31,8 @@ chosen	VBN	_ <O>
 by	IN	_ <O>
 God	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 Shi`as	NNP	_ <O>
@@ -57,7 +59,8 @@ the	DT	_ <O>
 Muslim	JJ	_ <O>
 community	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 regard	VBP	_ <O>
 him	PRP	_ <O>
@@ -80,7 +83,8 @@ Ali	NNP	_ <O>
 's	POS	_ <O>
 descendants	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 largest	JJS	_ <O>
 group	NN	_ <O>
@@ -95,7 +99,8 @@ of	IN	_ <O>
 twelve	CD	_ <O>
 Imams	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 twelfth	JJ	_ <O>
 Imam	NNP	_ <O>
@@ -116,7 +121,8 @@ the	DT	_ <O>
 end	NN	_ <O>
 times	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Shi`a	NN	_ <O>
 Hadiths	NNS	_ <O>
@@ -127,7 +133,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 Imams	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 Muslims	NNPS	<I-CUE>
 criticise	VB	_ <O>
@@ -146,4 +153,5 @@ as	IN	_ <O>
 the	DT	_ <O>
 Mätam	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

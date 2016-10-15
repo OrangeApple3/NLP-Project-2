@@ -31,7 +31,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 city	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 food	NN	_ <O>
 ,	,	_ <O>
@@ -55,7 +56,8 @@ other	JJ	_ <O>
 small	JJ	_ <O>
 animals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 the	DT	_ <O>
 Spanish	JJ	_ <O>
@@ -88,7 +90,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 mission	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Today	NN	_ <O>
 ,	,	_ <O>
 several	JJ	<B-CUE>
@@ -103,4 +106,5 @@ Los	NNP	_ <O>
 Angeles	NNP	_ <O>
 area	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

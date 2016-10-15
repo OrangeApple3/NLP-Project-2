@@ -8,7 +8,8 @@ in	IN	_ <O>
 Western	JJ	_ <O>
 society	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Prevalence	NN	_ <O>
 figures	NNS	_ <O>
 range	VBP	_ <O>
@@ -26,7 +27,8 @@ and	CC	_ <O>
 for	IN	_ <O>
 males	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Denial	NN	_ <O>
 by	IN	_ <O>
 others	NNS	<B-CUE>
@@ -44,7 +46,8 @@ not	RB	_ <O>
 easily	RB	_ <O>
 accepted	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Questioning	VBG	_ <O>
 the	DT	_ <O>
 validity	NN	_ <O>
@@ -61,7 +64,8 @@ form	NN	_ <O>
 of	IN	_ <O>
 denial	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Child	NN	_ <O>
 sexual	JJ	_ <O>
 abuse	NN	_ <O>
@@ -75,7 +79,8 @@ in	IN	_ <O>
 criminal	JJ	_ <O>
 courts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 possible	JJ	<B-CUE>
@@ -105,7 +110,8 @@ about	IN	_ <O>
 what	WP	_ <O>
 happened	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 frequency	NN	_ <O>
 of	IN	_ <O>
@@ -122,14 +128,16 @@ emergency	NN	_ <O>
 room	NN	_ <O>
 staff	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 False	JJ	_ <O>
 retractions	NNS	_ <O>
 are	VBP	_ <O>
 also	RB	_ <O>
 common	JJ	<B-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Other	JJ	<B-CUE>
 studies	NNS	<I-CUE>
 have	VBP	_ <O>
@@ -145,7 +153,8 @@ as	IN	_ <O>
 two	CD	_ <O>
 percent	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 studies	NNS	<I-CUE>
 break	VB	_ <O>
@@ -162,7 +171,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 child	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 a	DT	_ <O>
 1989	CD	_ <O>
@@ -189,7 +199,8 @@ to	IN	_ <O>
 2.7	CD	_ <O>
 percent	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Among	IN	_ <O>
 adolescents	NNS	_ <O>
 ,	,	_ <O>
@@ -205,7 +216,8 @@ to	IN	_ <O>
 12	CD	_ <O>
 percent	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 overall	JJ	_ <O>
 average	JJ	_ <O>
@@ -219,7 +231,8 @@ to	TO	_ <O>
 8	CD	_ <O>
 percent	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Higher	JJR	_ <O>
 rates	NNS	_ <O>
 of	IN	_ <O>
@@ -231,7 +244,8 @@ in	IN	_ <O>
 custody	NN	_ <O>
 disputes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Children	NNS	_ <O>
 appear	VBP	_ <O>
 to	TO	_ <O>
@@ -245,7 +259,8 @@ their	PRP$	_ <O>
 own	JJ	_ <O>
 accord	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 denial	NN	_ <O>
 of	IN	_ <O>
@@ -259,7 +274,8 @@ commit	VBP	_ <O>
 sexual	JJ	_ <O>
 offenses	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	_ <O>
 continue	VBP	_ <O>
 to	TO	_ <O>
@@ -270,7 +286,8 @@ even	RB	_ <O>
 after	IN	_ <O>
 conviction	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 suggested	VBN	<I-CUE>
@@ -295,7 +312,8 @@ their	PRP$	_ <O>
 own	JJ	_ <O>
 children	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Adults	NNS	_ <O>
 that	WDT	_ <O>
 were	VBD	_ <O>
@@ -317,4 +335,5 @@ to	IN	_ <O>
 their	PRP$	_ <O>
 offender	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

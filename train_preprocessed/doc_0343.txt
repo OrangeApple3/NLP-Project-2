@@ -28,7 +28,8 @@ have	VBP	_ <O>
 reportedly	RB	_ <O>
 continued	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 two	CD	_ <O>
 sides	NNS	_ <O>
@@ -75,7 +76,8 @@ referendum	NN	_ <O>
 on	IN	_ <O>
 independence	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Furthermore	RB	_ <O>
 ,	,	_ <O>
 oil	NN	_ <O>
@@ -97,7 +99,8 @@ year	NN	_ <O>
 interim	JJ	_ <O>
 period	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 ability	NN	_ <O>
 or	CC	_ <O>
@@ -136,7 +139,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 negotiations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 observers	NNS	<I-CUE>
 wondered	VBD	<B-CUE>
@@ -154,4 +158,5 @@ treaty	NN	_ <O>
 to	TO	_ <O>
 proceed	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

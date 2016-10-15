@@ -39,7 +39,8 @@ of	IN	_ <O>
 pest	NN	_ <O>
 insects	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 by	IN	_ <O>
@@ -67,7 +68,8 @@ genus	NN	_ <O>
 Perdita	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 over	IN	_ <O>
@@ -89,7 +91,8 @@ by	IN	_ <O>
 T.D.A.	NNP	_ <O>
 Cockerell	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 are	VBP	_ <O>
 almost	RB	<B-CUE>
@@ -120,4 +123,5 @@ collecting	VBG	_ <O>
 for	IN	_ <O>
 decades	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

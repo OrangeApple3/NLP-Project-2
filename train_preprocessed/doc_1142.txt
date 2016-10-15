@@ -29,7 +29,8 @@ transportation	NN	_ <O>
 and	CC	_ <O>
 amenities	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 By	IN	_ <O>
 2004	CD	_ <O>
 most	JJS	_ <O>
@@ -100,7 +101,8 @@ leading	VBG	<I-CUE>
 entertainment	NN	_ <O>
 precincts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Sydney	NNP	_ <O>
 City	NNP	_ <O>
 Council	NNP	_ <O>
@@ -143,7 +145,8 @@ furniture	NN	_ <O>
 and	CC	_ <O>
 lighting	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Plans	NNS	_ <O>
 to	TO	_ <O>
 force	VB	_ <O>
@@ -179,7 +182,8 @@ not	RB	_ <O>
 been	VBN	_ <O>
 implemented	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Wylde	NNP	_ <O>
 Street	NNP	_ <O>
 home	NN	_ <O>
@@ -201,4 +205,5 @@ Tusculum	NNP	_ <O>
 ,	,	_ <O>
 Manning	NNP	_ <O>
 Street	NNP	_ <O>
- <O>
+
+NULL

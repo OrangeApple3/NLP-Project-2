@@ -20,7 +20,8 @@ water	NN	_ <O>
 conducting	VBG	_ <O>
 tissue	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 other	JJ	_ <O>
 tissue	NN	_ <O>
@@ -39,7 +40,8 @@ contains	VBZ	_ <O>
 smaller	JJR	_ <O>
 cells	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 tissue	NN	_ <O>
 is	VBZ	_ <O>
@@ -53,7 +55,8 @@ analogous	JJ	_ <O>
 to	IN	_ <O>
 phloem	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 these	DT	_ <O>
 two	CD	_ <O>
@@ -104,4 +107,5 @@ smaller	JJR	_ <O>
 stem	NN	_ <O>
 lengths	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

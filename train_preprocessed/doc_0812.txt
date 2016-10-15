@@ -34,7 +34,8 @@ changing	VBG	_ <O>
 the	DT	_ <O>
 gameplay	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Brood	NNP	_ <O>
 War	NNP	_ <O>
@@ -79,7 +80,8 @@ all	DT	_ <O>
 three	CD	_ <O>
 species	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Though	IN	_ <O>
 the	DT	_ <O>
 three	CD	_ <O>
@@ -123,4 +125,5 @@ stable	JJ	_ <O>
 balanced	JJ	_ <O>
 game	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

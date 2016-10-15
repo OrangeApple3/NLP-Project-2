@@ -10,7 +10,8 @@ the	DT	_ <O>
 EU	NNP	_ <O>
 website	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 famous	JJ	<B-CUE>
 choral	JJ	_ <O>
@@ -37,7 +38,8 @@ within	IN	_ <O>
 a	DT	_ <O>
 symphony	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 contains	VBZ	_ <O>
 four	CD	_ <O>
@@ -46,7 +48,8 @@ played	VBD	_ <O>
 without	IN	_ <O>
 interruption	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 "	``	_ <O>
 inner	JJ	_ <O>
@@ -65,11 +68,13 @@ as	IN	_ <O>
 a	DT	_ <O>
 whole	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 scheme	NN	_ <O>
 is	VBZ	_ <O>
 as	IN	_ <O>
 follows	VBZ	_ <O>
 :	:	_ <O>
- <O>
+
+NULL

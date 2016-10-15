@@ -25,7 +25,8 @@ school	NN	_ <O>
 's	POS	_ <O>
 team	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Games	NNS	_ <O>
 between	IN	_ <O>
 competing	VBG	_ <O>
@@ -37,7 +38,8 @@ may	MD	_ <O>
 be	VB	_ <O>
 held	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 school	NN	_ <O>
 's	POS	_ <O>
@@ -57,7 +59,8 @@ drumline	NN	_ <O>
 may	MD	_ <O>
 play	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 case	NN	_ <O>
@@ -77,4 +80,5 @@ chosen	VBN	_ <O>
 and	CC	_ <O>
 announced	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

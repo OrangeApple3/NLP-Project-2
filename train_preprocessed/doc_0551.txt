@@ -20,7 +20,8 @@ patent	NN	_ <O>
 agent	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Both	DT	_ <O>
 patent	NN	_ <O>
 agents	NNS	_ <O>
@@ -37,7 +38,8 @@ prosecute	VB	_ <O>
 patent	NN	_ <O>
 applications	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Patent	JJ	_ <O>
 agents	NNS	_ <O>
 and	CC	_ <O>
@@ -63,7 +65,8 @@ v.	NNP	_ <O>
 Florida	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -134,4 +137,5 @@ client	NN	_ <O>
 's	POS	_ <O>
 patent	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

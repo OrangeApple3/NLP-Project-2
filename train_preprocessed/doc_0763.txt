@@ -35,7 +35,8 @@ paid	VBN	_ <O>
 $	$	_ <O>
 70	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 a	DT	_ <O>
 letter	NN	_ <O>
@@ -102,7 +103,8 @@ bargain	VB	_ <O>
 Bennett	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Seventy	CD	_ <O>
 dollars	NNS	_ <O>
 was	VBD	_ <O>
@@ -181,7 +183,8 @@ Osman	NNP	_ <O>
 138	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Bennett	NNP	_ <O>
 speculates	VBZ	_ <O>
 that	IN	_ <O>
@@ -232,7 +235,8 @@ Asia	NNP	_ <O>
 Bennett	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 An	DT	_ <O>
 1861	CD	_ <O>
 edition	NN	_ <O>
@@ -265,4 +269,5 @@ Rossier	NNP	_ <O>
 's	POS	_ <O>
 stereographs	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -23,7 +23,8 @@ the	DT	_ <O>
 Old	NNP	_ <O>
 Colony	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 his	PRP$	_ <O>
 life	NN	_ <O>
@@ -36,7 +37,8 @@ his	PRP$	_ <O>
 spelling	NN	_ <O>
 system	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 developments	NNS	_ <O>
 are	VBP	_ <O>
@@ -49,7 +51,8 @@ spellings	NNS	_ <O>
 used	VBN	_ <O>
 today	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 latter	JJ	_ <O>
 two	CD	_ <O>
@@ -99,4 +102,5 @@ of	IN	_ <O>
 -n	NNP	_ <O>
 endings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

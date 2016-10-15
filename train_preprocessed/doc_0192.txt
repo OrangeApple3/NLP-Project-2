@@ -14,7 +14,8 @@ its	PRP$	_ <O>
 other	JJ	_ <O>
 neighbors	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 the	DT	_ <O>
 next	JJ	_ <O>
@@ -33,7 +34,8 @@ a	DT	_ <O>
 Vietnamese	JJ	_ <O>
 colony	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 systematic	JJ	_ <O>
 program	NN	_ <O>
@@ -72,7 +74,8 @@ government	NN	_ <O>
 of	IN	_ <O>
 Laos	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Lao	NNP	_ <O>
 government	NN	_ <O>
@@ -100,4 +103,5 @@ international	JJ	_ <O>
 terrorists	NNS	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

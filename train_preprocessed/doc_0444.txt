@@ -19,4 +19,5 @@ which	WDT	_ <O>
 it	PRP	_ <O>
 propagates	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -28,7 +28,8 @@ to	IN	_ <O>
 spelling	NN	_ <O>
 conventions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Phonemicity	NN	_ <O>
 may	MD	_ <O>
 be	VB	_ <O>
@@ -70,7 +71,8 @@ Russian	JJ	_ <O>
 vowel	NN	_ <O>
 reduction	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Spelling	NN	_ <O>
 pronunciation	NN	_ <O>
 is	VBZ	_ <O>
@@ -78,7 +80,8 @@ another	DT	_ <O>
 common	JJ	_ <O>
 phenomenon	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nativizing	VBG	_ <O>
 the	DT	_ <O>
 spelling	NN	_ <O>
@@ -113,4 +116,5 @@ Gaelic	NNP	_ <O>
 uisge	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

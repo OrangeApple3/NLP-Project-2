@@ -35,7 +35,8 @@ or	CC	_ <O>
 Kaiser	NNP	_ <O>
 Wilhelm	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 many	JJ	_ <O>
 victims	NNS	_ <O>
@@ -93,7 +94,8 @@ in	IN	_ <O>
 such	JJ	_ <O>
 organisations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 World	NNP	_ <O>
 War	NNP	_ <O>
@@ -131,7 +133,8 @@ the	DT	_ <O>
 annexing	VBG	_ <O>
 country	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 other	JJ	_ <O>
 cases	NNS	_ <O>
@@ -186,4 +189,5 @@ the	DT	_ <O>
 Third	NNP	_ <O>
 Reich	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

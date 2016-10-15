@@ -16,7 +16,8 @@ in	IN	_ <O>
 payload	NN	_ <O>
 definition	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 That	DT	_ <O>
 is	VBZ	_ <O>
 ,	,	_ <O>
@@ -59,7 +60,8 @@ denominator	NN	_ <O>
 data	NN	_ <O>
 types	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -81,7 +83,8 @@ to	TO	_ <O>
 be	VB	_ <O>
 sent	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 order	NN	_ <O>
 to	TO	_ <O>
@@ -115,4 +118,5 @@ use	VB	_ <O>
 Payload	NNP	_ <O>
 Abstraction	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

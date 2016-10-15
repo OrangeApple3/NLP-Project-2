@@ -19,7 +19,8 @@ win	VB	_ <O>
 the	DT	_ <O>
 tournament	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 his	PRP$	_ <O>
 role	NN	_ <O>
@@ -81,7 +82,8 @@ drunken	JJ	_ <O>
 speeches	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 seems	VBZ	_ <O>
 that	IN	_ <O>
@@ -106,7 +108,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 camera	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Le	NNP	_ <O>
 Vell	NNP	_ <O>
 once	RB	_ <O>
@@ -132,7 +135,8 @@ everything	NN	_ <O>
 I	PRP	_ <O>
 know	VBP	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 was	VBD	_ <O>
 part	NN	_ <O>
@@ -161,7 +165,8 @@ by	IN	_ <O>
 Take	NNP	_ <O>
 That	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 featured	VBD	_ <O>
 as	IN	_ <O>
@@ -193,7 +198,8 @@ May	NNP	_ <O>
 ,	,	_ <O>
 2007	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 is	VBZ	_ <O>
 an	DT	_ <O>
@@ -210,7 +216,8 @@ intros	NNS	_ <O>
 for	IN	_ <O>
 Setanta	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 wife	NN	_ <O>
 is	VBZ	_ <O>
@@ -234,7 +241,8 @@ alongside	IN	_ <O>
 Brigit	NNP	_ <O>
 Forsyth	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 a	DT	<I-CUE>
@@ -260,7 +268,8 @@ Emily	NNP	_ <O>
 Bishop	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 believed	VBN	<I-CUE>
@@ -307,7 +316,8 @@ Jones	NNP	_ <O>
 conceded	VBD	_ <O>
 defeat	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 often	RB	_ <O>
 frequents	VBZ	_ <O>
@@ -320,4 +330,5 @@ on	IN	_ <O>
 Saturday	NNP	_ <O>
 nights	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

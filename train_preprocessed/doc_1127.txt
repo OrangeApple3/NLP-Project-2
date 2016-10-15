@@ -30,7 +30,8 @@ their	PRP$	_ <O>
 free	JJ	_ <O>
 country	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 10th	NN	_ <O>
 Underground	NNP	_ <O>
@@ -65,7 +66,8 @@ the	DT	_ <O>
 resistance	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Headed	VBN	_ <O>
 by	IN	_ <O>
 Antoni	NNP	_ <O>
@@ -92,7 +94,8 @@ documenting	VBG	_ <O>
 the	DT	_ <O>
 struggle	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Eugeniusz	NNP	_ <O>
 Lokajski	NNP	_ <O>
 took	VBD	_ <O>
@@ -123,4 +126,5 @@ which	WDT	_ <O>
 600	CD	_ <O>
 survived	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

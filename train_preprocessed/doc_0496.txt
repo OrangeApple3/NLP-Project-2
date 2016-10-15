@@ -37,7 +37,8 @@ and	CC	_ <O>
 even	RB	_ <O>
 days	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Todd	NNP	_ <O>
 ’s	NNP	_ <O>
 paresis	NN	_ <O>
@@ -78,7 +79,8 @@ place	NN	_ <O>
 following	VBG	_ <O>
 seizures	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 should	MD	_ <O>
 be	VB	_ <O>
@@ -109,7 +111,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 brain	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 possible	JJ	<B-CUE>
@@ -154,4 +157,5 @@ to	TO	_ <O>
 eventually	RB	_ <O>
 disappear	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

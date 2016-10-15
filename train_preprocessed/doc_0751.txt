@@ -25,7 +25,8 @@ Act	NNP	_ <O>
 1992	CD	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 the	DT	_ <O>
 early	JJ	_ <O>
@@ -61,7 +62,8 @@ education	NN	_ <O>
 in	IN	_ <O>
 Bangladesh	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Moreover	RB	_ <O>
 ,	,	_ <O>
 to	TO	_ <O>
@@ -97,7 +99,8 @@ higher	JJR	_ <O>
 educational	JJ	_ <O>
 institutions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 All	PDT	_ <O>
 those	DT	_ <O>
 issues	NNS	_ <O>
@@ -111,7 +114,8 @@ to	TO	_ <O>
 establish	VB	_ <O>
 universities	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 9	CD	_ <O>
 August	NNP	_ <O>
@@ -148,7 +152,8 @@ Rajshahi	NNP	_ <O>
 and	CC	_ <O>
 Sylhet	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 North	NNP	_ <O>
 South	NNP	_ <O>
 University	NNP	_ <O>
@@ -163,7 +168,8 @@ university	NN	_ <O>
 in	IN	_ <O>
 Bangladesh	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Independent	NNP	_ <O>
 University	NNP	_ <O>
 ,	,	_ <O>
@@ -202,7 +208,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 country	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 University	NNP	_ <O>
 Grant	NNP	_ <O>
@@ -221,4 +228,5 @@ universities	NNS	_ <O>
 in	IN	_ <O>
 Bangladesh	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

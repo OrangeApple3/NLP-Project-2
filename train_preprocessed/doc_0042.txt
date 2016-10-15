@@ -18,7 +18,8 @@ non	NN	_ <O>
 American	JJ	_ <O>
 member	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1978	CD	_ <O>
 the	DT	_ <O>
@@ -36,4 +37,5 @@ its	PRP$	_ <O>
 Art	NNP	_ <O>
 Department	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -21,7 +21,8 @@ trader	NN	_ <O>
 's	POS	_ <O>
 risk	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -43,7 +44,8 @@ to	TO	_ <O>
 hold	VB	_ <O>
 overnight	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 other	JJ	_ <O>
 choice	NN	_ <O>
@@ -81,7 +83,8 @@ within	IN	_ <O>
 the	DT	_ <O>
 period	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 the	DT	_ <O>
 trader	NN	_ <O>
@@ -110,4 +113,5 @@ hold	VB	_ <O>
 it	PRP	_ <O>
 overnight	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

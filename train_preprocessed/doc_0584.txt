@@ -30,4 +30,5 @@ crowned	VBN	_ <O>
 state	NN	_ <O>
 champions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

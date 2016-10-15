@@ -37,7 +37,8 @@ with	IN	_ <O>
 the	DT	_ <O>
 heel	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 organist	JJ	_ <O>
@@ -74,7 +75,8 @@ the	DT	_ <O>
 heel	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Koopman	NNP	_ <O>
 claims	VBZ	_ <O>
 that	IN	_ <O>
@@ -114,7 +116,8 @@ the	DT	_ <O>
 toe	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 critic	NN	_ <O>
 for	IN	_ <O>
@@ -148,4 +151,5 @@ of	IN	_ <O>
 J.S.	NNP	_ <O>
 Bach	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

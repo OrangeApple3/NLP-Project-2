@@ -15,7 +15,8 @@ it	PRP	_ <O>
 the	DT	_ <O>
 PlayChoice-10	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 machine	NN	_ <O>
 was	VBD	_ <O>
@@ -30,7 +31,8 @@ some	DT	_ <O>
 key	JJ	_ <O>
 differences	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Normal	JJ	_ <O>
 NES	NNP	_ <O>
 cartridges	NNS	_ <O>
@@ -64,7 +66,8 @@ to	TO	_ <O>
 display	VB	_ <O>
 hints	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 in	IN	_ <O>
@@ -87,4 +90,5 @@ output	VB	_ <O>
 RGB	NNP	_ <O>
 natively	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

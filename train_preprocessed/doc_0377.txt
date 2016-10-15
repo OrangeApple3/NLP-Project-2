@@ -21,7 +21,8 @@ called	VBN	_ <O>
 IDEA	NNP	_ <O>
 2004	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Following	VBG	_ <O>
 enactment	NN	_ <O>
 ,	,	_ <O>
@@ -50,7 +51,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 law	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	IN	_ <O>
 some	DT	<B-CUE>
 extent	NN	<I-CUE>
@@ -68,7 +70,8 @@ put	VBN	_ <O>
 into	IN	_ <O>
 practice	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 some	DT	<B-CUE>
 areas	NNS	<I-CUE>
@@ -101,4 +104,5 @@ public	JJ	_ <O>
 school	NN	_ <O>
 districts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

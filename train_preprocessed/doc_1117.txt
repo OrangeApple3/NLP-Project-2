@@ -22,4 +22,5 @@ European	JJ	_ <O>
 Super	NNP	_ <O>
 Cup	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

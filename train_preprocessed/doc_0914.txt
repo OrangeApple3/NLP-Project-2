@@ -14,7 +14,8 @@ dominant	JJ	_ <O>
 in	IN	_ <O>
 Pennsylvania	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 ,	,	_ <O>
 combined	VBN	_ <O>
@@ -41,7 +42,8 @@ important	JJ	<I-CUE>
 swing	NN	_ <O>
 states	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Republicans	NNS	_ <O>
 are	VBP	_ <O>
 generally	RB	<B-CUE>
@@ -74,7 +76,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 Commonwealth	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Traditionally	RB	_ <O>
 ,	,	_ <O>
 Republicans	NNPS	_ <O>
@@ -113,4 +116,5 @@ the	DT	_ <O>
 Democratic	NNP	_ <O>
 Party	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

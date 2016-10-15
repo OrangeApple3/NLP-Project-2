@@ -13,7 +13,8 @@ playing	VBG	_ <O>
 cylinder	NN	_ <O>
 records	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 term	NN	_ <O>
 '	``	_ <O>
@@ -64,7 +65,8 @@ and	CC	_ <O>
 included	VBD	_ <O>
 radio	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Such	PDT	_ <O>
 a	DT	_ <O>
 system	NN	_ <O>
@@ -92,7 +94,8 @@ mid-1960s	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 Like	IN	_ <O>
 other	JJ	_ <O>
 ,	,	_ <O>
@@ -137,4 +140,5 @@ etc	FW	_ <O>
 .	.	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -23,7 +23,8 @@ war	NN	_ <O>
 ’s	JJ	_ <O>
 end	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 lower	JJR	_ <O>
 floors	NNS	_ <O>
@@ -44,7 +45,8 @@ sort	NN	_ <O>
 to	TO	_ <O>
 resume	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 new	JJ	_ <O>
 East	JJ	_ <O>
@@ -120,7 +122,8 @@ floor	NN	_ <O>
 of	IN	_ <O>
 Columbushaus	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 the	DT	_ <O>
 American	JJ	_ <O>
@@ -152,4 +155,5 @@ respective	JJ	_ <O>
 Police	NN	_ <O>
 officials	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

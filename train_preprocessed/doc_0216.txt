@@ -35,7 +35,8 @@ a	DT	_ <O>
 power	NN	_ <O>
 play	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 they	PRP	_ <O>
 score	VBP	_ <O>
@@ -69,7 +70,8 @@ a	DT	_ <O>
 minor	JJ	_ <O>
 penalty	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 No	DT	_ <O>
 time	NN	_ <O>
 is	VBZ	_ <O>
@@ -83,7 +85,8 @@ a	DT	_ <O>
 major	JJ	_ <O>
 penalty	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Goaltenders	NNS	_ <O>
 never	RB	_ <O>
 go	VBP	_ <O>
@@ -133,4 +136,5 @@ a	DT	_ <O>
 major	JJ	_ <O>
 penalty	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

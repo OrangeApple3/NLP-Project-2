@@ -13,7 +13,8 @@ caucuses	NNS	_ <O>
 in	IN	_ <O>
 Iowa	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	_ <O>
 criticism	NN	_ <O>
 is	VBZ	_ <O>
@@ -38,7 +39,8 @@ a	DT	_ <O>
 secret	JJ	_ <O>
 ballot	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Democratic	JJ	_ <O>
 caucus	NN	_ <O>
 participants	NNS	_ <O>
@@ -85,7 +87,8 @@ pick	NN	_ <O>
 might	MD	_ <O>
 be	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Another	DT	_ <O>
 criticism	NN	_ <O>
 involves	VBZ	_ <O>
@@ -100,7 +103,8 @@ these	DT	_ <O>
 events	NNS	_ <O>
 consume	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Iowa	NNP	_ <O>
 caucus	NN	_ <O>
@@ -130,7 +134,8 @@ casting	VBG	_ <O>
 their	PRP$	_ <O>
 vote	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Absentee	NNP	_ <O>
 voting	NN	_ <O>
 is	VBZ	_ <O>
@@ -154,7 +159,8 @@ lose	VB	_ <O>
 their	PRP$	_ <O>
 vote	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 final	JJ	_ <O>
 criticism	NN	_ <O>
@@ -182,7 +188,8 @@ simple	JJ	_ <O>
 popular	JJ	_ <O>
 vote	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Each	DT	_ <O>
 precinct	NN	_ <O>
 's	POS	_ <O>
@@ -198,7 +205,8 @@ past	JJ	_ <O>
 voting	NN	_ <O>
 record	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Ties	NNS	_ <O>
 can	MD	_ <O>
 be	VB	_ <O>
@@ -229,7 +237,8 @@ of	IN	_ <O>
 these	DT	_ <O>
 caucuses	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Additionally	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -246,7 +255,8 @@ traditionally	RB	_ <O>
 low	JJ	_ <O>
 turnout	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Others	NNS	<B-CUE>
 question	NN	_ <O>
 the	DT	_ <O>
@@ -268,4 +278,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 country	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

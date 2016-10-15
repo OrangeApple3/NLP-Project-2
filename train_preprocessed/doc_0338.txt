@@ -6,7 +6,8 @@ overlook	VB	_ <O>
 unmarked	JJ	_ <O>
 categories	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Whiteness	NN	_ <O>
 forms	VBZ	_ <O>
 an	DT	_ <O>
@@ -27,7 +28,8 @@ within	IN	_ <O>
 this	DT	_ <O>
 category	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 unmarked	JJ	_ <O>
 category	NN	_ <O>
@@ -44,7 +46,8 @@ to	IN	_ <O>
 deviant	JJ	_ <O>
 status	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Social	JJ	<B-CUE>
 groups	NNS	<I-CUE>
 can	MD	_ <O>
@@ -80,4 +83,5 @@ the	DT	_ <O>
 normal	JJ	_ <O>
 status	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

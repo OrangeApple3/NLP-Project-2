@@ -19,7 +19,8 @@ also	RB	_ <O>
 impact	VB	_ <O>
 habitability	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Scientists	NNS	<B-CUE>
 considered	VBD	_ <O>
 the	DT	_ <O>
@@ -73,7 +74,8 @@ life	NN	_ <O>
 favorable	JJ	_ <O>
 spot	NN	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 not	RB	_ <O>
@@ -97,7 +99,8 @@ and	CC	_ <O>
 gravitational	JJ	_ <O>
 disturbance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Globular	JJ	_ <O>
 clusters	NNS	_ <O>
 are	VBP	_ <O>
@@ -114,7 +117,8 @@ poor	JJ	_ <O>
 ,	,	_ <O>
 stars	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 not	RB	_ <O>
@@ -125,7 +129,8 @@ gamma	NN	_ <O>
 ray	NN	_ <O>
 source	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 not	RB	_ <O>
@@ -153,7 +158,8 @@ and	CC	_ <O>
 supernovae	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 supermassive	JJ	_ <O>
 black	JJ	_ <O>
@@ -179,7 +185,8 @@ any	DT	_ <O>
 nearby	JJ	_ <O>
 bodies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 circular	JJ	_ <O>
 orbit	NN	_ <O>
@@ -215,4 +222,5 @@ to	IN	_ <O>
 disruption	NN	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL

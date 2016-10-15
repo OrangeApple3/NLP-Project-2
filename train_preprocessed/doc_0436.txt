@@ -24,7 +24,8 @@ the	DT	_ <O>
 American	JJ	_ <O>
 colonies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Due	IN	_ <O>
 to	IN	_ <O>
 his	PRP$	_ <O>
@@ -55,7 +56,8 @@ been	VBN	_ <O>
 as	RB	_ <O>
 fortunate	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Unfortunately	RB	_ <O>
 ,	,	_ <O>
 most	JJS	_ <O>
@@ -78,7 +80,8 @@ Quaker	NNP	_ <O>
 New	NNP	_ <O>
 England	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 slavery	NN	_ <O>
 continued	VBD	_ <O>
@@ -109,4 +112,5 @@ problem	NN	_ <O>
 in	IN	_ <O>
 America	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -29,7 +29,8 @@ equally	RB	<I-CUE>
 hotly	RB	<I-CUE>
 debated	VBN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 seems	VBZ	<I-CUE>
 widely	RB	<I-CUE>
@@ -48,7 +49,8 @@ anti	JJ	_ <O>
 -	:	_ <O>
 cultures	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Bad	JJ	_ <O>
 taste	NN	_ <O>
@@ -88,7 +90,8 @@ of	IN	_ <O>
 educated	VBN	_ <O>
 taste	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 are	VBP	_ <O>
 expressions	NNS	_ <O>
@@ -114,4 +117,5 @@ civilized	JJ	_ <O>
 society	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

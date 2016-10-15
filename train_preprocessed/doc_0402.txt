@@ -14,7 +14,8 @@ double	JJ	_ <O>
 eagle	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Extremely	RB	_ <O>
 rare	JJ	_ <O>
 ,	,	_ <O>
@@ -36,7 +37,8 @@ holed	VBN	_ <O>
 approach	NN	_ <O>
 shot	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Holes	NNS	_ <O>
 -	:	_ <O>
 in	IN	_ <O>
@@ -56,7 +58,8 @@ are	VBP	_ <O>
 also	RB	_ <O>
 albatrosses	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 most	RBS	_ <O>
 famous	JJ	_ <O>
@@ -82,4 +85,5 @@ The	NNP	_ <O>
 Masters	NNP	_ <O>
 Tournament	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

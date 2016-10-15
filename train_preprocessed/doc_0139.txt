@@ -23,7 +23,8 @@ the	DT	_ <O>
 French	JJ	_ <O>
 emperor	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 From	IN	_ <O>
 Napoleon	NNP	_ <O>
 's	POS	_ <O>
@@ -59,7 +60,8 @@ glory	NN	_ <O>
 and	CC	_ <O>
 prosperity	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Geyl	NNP	_ <O>
 used	VBD	_ <O>
 his	PRP$	_ <O>
@@ -87,7 +89,8 @@ writing	NN	_ <O>
 is	VBZ	_ <O>
 transitory	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 Geyl	NNP	_ <O>
 the	DT	_ <O>
@@ -110,4 +113,5 @@ to	TO	_ <O>
 do	VB	_ <O>
 likewise	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

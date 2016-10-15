@@ -16,7 +16,8 @@ Misha	NNP	_ <O>
 angelic	JJ	_ <O>
 influence	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 Misha	NNP	_ <O>
@@ -38,7 +39,8 @@ and	CC	_ <O>
 remember	VB	_ <O>
 Shia	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Once	IN	_ <O>
 the	DT	_ <O>
 people	NNS	_ <O>
@@ -51,7 +53,8 @@ back	RB	_ <O>
 to	IN	_ <O>
 life	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 Shima	NNP	_ <O>
 becomes	VBZ	_ <O>
@@ -82,4 +85,5 @@ and	CC	_ <O>
 her	PRP$	_ <O>
 children	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

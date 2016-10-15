@@ -15,4 +15,5 @@ at	IN	_ <O>
 Hollywood	NNP	_ <O>
 Boulevard	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

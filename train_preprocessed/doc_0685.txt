@@ -12,7 +12,8 @@ Indonesia	NNP	_ <O>
 and	CC	_ <O>
 China	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 affluent	JJ	_ <O>
 societies	NNS	_ <O>
@@ -39,7 +40,8 @@ who	WP	_ <O>
 refuse	VBP	_ <O>
 food	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 was	VBD	_ <O>
 common	JJ	_ <O>
@@ -54,7 +56,8 @@ the	DT	_ <O>
 infamous	JJ	_ <O>
 Gulag	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 addition	NN	_ <O>
 ,	,	_ <O>
@@ -90,4 +93,5 @@ on	IN	_ <O>
 food	NN	_ <O>
 aid	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

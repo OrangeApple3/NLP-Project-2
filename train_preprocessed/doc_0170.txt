@@ -31,7 +31,8 @@ the	DT	_ <O>
 Danube	NNP	_ <O>
 frontier	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 were	VBD	_ <O>
 finally	RB	_ <O>
@@ -64,7 +65,8 @@ plunder	NN	_ <O>
 if	IN	_ <O>
 any	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pacatianus	NNP	_ <O>
 '	POS	_ <O>
 revolt	NN	_ <O>
@@ -103,7 +105,8 @@ the	DT	_ <O>
 Eastern	JJ	_ <O>
 provinces	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Two	CD	_ <O>
 other	JJ	_ <O>
 usurpers	NNS	_ <O>
@@ -123,4 +126,5 @@ without	IN	_ <O>
 much	JJ	_ <O>
 success	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

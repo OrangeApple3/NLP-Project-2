@@ -22,7 +22,8 @@ with	IN	_ <O>
 each	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 simplest	JJS	_ <O>
@@ -51,7 +52,8 @@ for	IN	_ <O>
 threshold	NN	_ <O>
 voltage	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Stacking	NNP	_ <O>
 and	CC	_ <O>
 parking	NN	_ <O>
@@ -81,7 +83,8 @@ to	IN	_ <O>
 01	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 State	NN	_ <O>
 machines	NNS	_ <O>
 may	MD	<B-CUE>
@@ -92,4 +95,5 @@ in	IN	_ <O>
 certain	JJ	<B-CUE>
 states	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

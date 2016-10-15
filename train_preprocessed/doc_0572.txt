@@ -23,7 +23,8 @@ reality	NN	_ <O>
 and	CC	_ <O>
 unreality	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Life	NN	_ <O>
 is	VBZ	_ <O>
 physically	RB	_ <O>
@@ -47,7 +48,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 colonies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 company	NN	_ <O>
 also	RB	_ <O>
@@ -101,7 +103,8 @@ a	DT	_ <O>
 man	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 recreational	JJ	_ <O>
 use	NN	_ <O>
@@ -129,4 +132,5 @@ a	DT	_ <O>
 collective	JJ	_ <O>
 hallucination	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -19,7 +19,8 @@ chain	NN	_ <O>
 growth	NN	_ <O>
 polymerization	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 essential	JJ	_ <O>
 difference	NN	_ <O>
@@ -61,7 +62,8 @@ one	CD	_ <O>
 another	DT	_ <O>
 directly	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 some	DT	<B-CUE>
@@ -79,7 +81,8 @@ into	IN	_ <O>
 either	DT	_ <O>
 category	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Synthetic	JJ	_ <O>
 polymerization	NN	_ <O>
 reactions	NNS	_ <O>
@@ -93,4 +96,5 @@ without	IN	_ <O>
 a	DT	_ <O>
 catalyst	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

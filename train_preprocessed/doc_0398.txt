@@ -21,7 +21,8 @@ books	NNS	_ <O>
 about	IN	_ <O>
 dinosaurs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Dodson	NNP	_ <O>
 described	VBD	_ <O>
 '	``	_ <O>
@@ -41,7 +42,8 @@ and	CC	_ <O>
 many	JJ	<B-CUE>
 others	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 An	DT	_ <O>
 authority	NN	_ <O>
 on	IN	_ <O>
@@ -60,7 +62,8 @@ hadrosaurs	NNS	_ <O>
 and	CC	_ <O>
 sauropods	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 2001	CD	_ <O>
 ,	,	_ <O>
@@ -93,4 +96,5 @@ Perce	NNP	_ <O>
 people	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

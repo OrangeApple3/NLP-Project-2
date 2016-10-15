@@ -16,7 +16,8 @@ on	IN	_ <O>
 the	DT	_ <O>
 menu	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Roti	NNP	_ <O>
 or	CC	_ <O>
 rice	NN	_ <O>
@@ -48,7 +49,8 @@ the	DT	_ <O>
 bhaji	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 With	IN	_ <O>
 time	NN	_ <O>
 the	DT	_ <O>
@@ -74,7 +76,8 @@ the	DT	_ <O>
 Udipi	NNP	_ <O>
 restaurants	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Such	JJ	_ <O>
 is	VBZ	_ <O>
 popularity	NN	_ <O>
@@ -120,4 +123,5 @@ Switzerland	NNP	_ <O>
 and	CC	_ <O>
 elsewhere	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

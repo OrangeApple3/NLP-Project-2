@@ -23,7 +23,8 @@ film	NN	_ <O>
 Psycho	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 spite	NN	_ <O>
 of	IN	_ <O>
@@ -51,7 +52,8 @@ on	IN	_ <O>
 TV	NN	_ <O>
 shows	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Her	PRP$	_ <O>
 performance	NN	_ <O>
 earned	VBD	_ <O>
@@ -65,7 +67,8 @@ Academy	NNP	_ <O>
 award	NN	_ <O>
 nomination	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Years	NNS	_ <O>
 later	RB	_ <O>
 ,	,	_ <O>
@@ -105,4 +108,5 @@ shower	NN	_ <O>
 scene	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

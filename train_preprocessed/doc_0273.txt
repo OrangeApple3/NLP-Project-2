@@ -14,7 +14,8 @@ than	IN	_ <O>
 regular	JJ	_ <O>
 fudge	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 formed	VBN	_ <O>
@@ -37,7 +38,8 @@ reminiscent	JJ	_ <O>
 of	IN	_ <O>
 caramel	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nuts	NNP	_ <O>
 ,	,	_ <O>
 especially	RB	_ <O>
@@ -59,7 +61,8 @@ of	IN	_ <O>
 penuche	NN	_ <O>
 candies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 primarily	RB	_ <O>
@@ -98,4 +101,5 @@ Fudge	NNP	_ <O>
 Candy	NNP	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -12,7 +12,8 @@ greed	NN	_ <O>
 and	CC	_ <O>
 ambition	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 as	IN	_ <O>
@@ -41,7 +42,8 @@ reaping	VBG	_ <O>
 the	DT	_ <O>
 benefits	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Similarly	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -79,7 +81,8 @@ relationships	NNS	_ <O>
 with	IN	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hachi	NNP	_ <O>
 's	POS	_ <O>
 father	NN	_ <O>
@@ -111,4 +114,5 @@ could	MD	_ <O>
 explore	VB	_ <O>
 space	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

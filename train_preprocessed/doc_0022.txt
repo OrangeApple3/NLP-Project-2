@@ -11,7 +11,8 @@ human	JJ	_ <O>
 rights	NNS	_ <O>
 groups	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 Khuzestan	NNP	_ <O>
 is	VBZ	_ <O>
@@ -37,7 +38,8 @@ to	IN	_ <O>
 institutional	JJ	_ <O>
 discrimination	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 its	PRP$	_ <O>
 report	NN	_ <O>
@@ -125,7 +127,8 @@ their	PRP$	_ <O>
 traditional	JJ	_ <O>
 lands	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 apparently	RB	<B-CUE>
@@ -172,4 +175,5 @@ to	IN	_ <O>
 local	JJ	_ <O>
 Arabs	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

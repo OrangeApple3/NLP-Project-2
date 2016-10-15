@@ -26,7 +26,8 @@ pre	NN	_ <O>
 Islamic	NNP	_ <O>
 Mecca	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	<B-CUE>
 depict	VB	_ <O>
 it	PRP	_ <O>
@@ -43,7 +44,8 @@ the	DT	_ <O>
 spice	NN	_ <O>
 trade	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Crone	NNP	_ <O>
 believes	VBZ	_ <O>
 that	IN	_ <O>
@@ -72,7 +74,8 @@ and	CC	_ <O>
 camel	NN	_ <O>
 butter	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Crone	NNP	_ <O>
 argues	VBZ	_ <O>
 that	IN	_ <O>
@@ -111,7 +114,8 @@ writing	VBG	_ <O>
 in	IN	_ <O>
 Syriac	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -135,4 +139,5 @@ rise	NN	_ <O>
 of	IN	_ <O>
 Islam	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

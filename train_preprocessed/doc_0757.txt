@@ -31,7 +31,8 @@ for	IN	_ <O>
 the	DT	_ <O>
 parsley	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Anchovy	NNP	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -41,7 +42,8 @@ in	IN	_ <O>
 Provençal	NNP	_ <O>
 cooking	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 small	JJ	_ <O>
 amount	NN	_ <O>
@@ -61,7 +63,8 @@ to	TO	_ <O>
 work	VB	_ <O>
 with	IN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Adding	VBG	_ <O>
 more	RBR	_ <O>
 olive	JJ	_ <O>
@@ -74,4 +77,5 @@ Parmesan	NNP	_ <O>
 produces	VBZ	_ <O>
 Pistou	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

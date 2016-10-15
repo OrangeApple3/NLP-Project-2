@@ -67,7 +67,8 @@ quarters	NNS	_ <O>
 of	IN	_ <O>
 2007	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 also	RB	_ <O>
 showed	VBD	_ <O>
@@ -117,7 +118,8 @@ SEALs	NNP	_ <O>
 Confrontation	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 number	NN	_ <O>
 of	IN	_ <O>
@@ -203,7 +205,8 @@ Evil	JJ	_ <O>
 5	CD	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Two	CD	_ <O>
 other	JJ	_ <O>
 important	JJ	_ <O>
@@ -240,4 +243,5 @@ the	DT	_ <O>
 Japanese	JJ	_ <O>
 market	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

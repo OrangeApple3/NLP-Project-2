@@ -15,7 +15,8 @@ is	VBZ	_ <O>
 widely	RB	<B-CUE>
 distributed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 can	MD	_ <O>
 also	RB	_ <O>
@@ -27,7 +28,8 @@ other	JJ	_ <O>
 wood	NN	_ <O>
 waste	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Being	VBG	_ <O>
 very	RB	_ <O>
 variable	JJ	_ <O>
@@ -56,7 +58,8 @@ their	PRP$	_ <O>
 own	JJ	_ <O>
 right	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 edible	JJ	_ <O>
@@ -69,4 +72,5 @@ for	IN	_ <O>
 the	DT	_ <O>
 table	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

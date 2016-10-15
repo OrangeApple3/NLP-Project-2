@@ -30,7 +30,8 @@ efforts	NNS	_ <O>
 were	VBD	_ <O>
 unfruitful	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 crossing	VBG	_ <O>
 over	RP	_ <O>
@@ -116,7 +117,8 @@ Man	NNP	_ <O>
 in	IN	_ <O>
 1985	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 David	NNP	_ <O>
 attributes	VBZ	_ <O>
@@ -140,7 +142,8 @@ is	VBZ	_ <O>
 now	RB	_ <O>
 common	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nonetheless	RB	_ <O>
 ,	,	_ <O>
 he	PRP	_ <O>
@@ -193,4 +196,5 @@ Owsley	NNP	_ <O>
 's	POS	_ <O>
 career	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

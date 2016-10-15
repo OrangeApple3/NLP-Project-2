@@ -28,7 +28,8 @@ and	CC	_ <O>
 chemical	NN	_ <O>
 detection	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 medicine	NN	_ <O>
 ,	,	_ <O>
@@ -54,7 +55,8 @@ woman	NN	_ <O>
 's	POS	_ <O>
 uterus	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 some	DT	<B-CUE>
 cases	NNS	<I-CUE>
@@ -83,7 +85,8 @@ an	DT	_ <O>
 ectopic	NN	_ <O>
 pregnancy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 usually	RB	_ <O>
@@ -99,4 +102,5 @@ bleeding	VBG	_ <O>
 as	RB	_ <O>
 well	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

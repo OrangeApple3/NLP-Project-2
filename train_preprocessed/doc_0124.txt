@@ -24,7 +24,8 @@ of	IN	_ <O>
 Chapel	NNP	_ <O>
 Quad	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 private	JJ	_ <O>
 houses	NNS	_ <O>
@@ -54,7 +55,8 @@ from	IN	_ <O>
 the	DT	_ <O>
 rear	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 modern	JJ	_ <O>
 annex	NN	_ <O>
@@ -87,7 +89,8 @@ their	PRP$	_ <O>
 final	JJ	_ <O>
 year	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 building	NN	_ <O>
 is	VBZ	<B-CUE>
@@ -119,4 +122,5 @@ college	NN	_ <O>
 1985	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

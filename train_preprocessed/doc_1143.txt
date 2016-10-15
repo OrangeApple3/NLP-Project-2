@@ -23,7 +23,8 @@ the	DT	_ <O>
 house	NN	_ <O>
 party	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 Bristol	NNP	_ <O>
 the	DT	_ <O>
@@ -58,7 +59,8 @@ some	DT	_ <O>
 unspecified	JJ	_ <O>
 destination	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 She	PRP	_ <O>
 would	MD	_ <O>
 return	VB	_ <O>
@@ -78,7 +80,8 @@ the	DT	_ <O>
 Plymouth	NNP	_ <O>
 line	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 waiting	VBG	_ <O>
 at	IN	_ <O>
@@ -109,4 +112,5 @@ day	NN	_ <O>
 's	POS	_ <O>
 paper	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

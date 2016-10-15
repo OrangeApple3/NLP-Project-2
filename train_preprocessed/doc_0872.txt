@@ -24,7 +24,8 @@ strong	JJ	_ <O>
 iron	NN	_ <O>
 frame	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 increased	VBN	_ <O>
 structural	JJ	_ <O>
@@ -46,7 +47,8 @@ more	RBR	_ <O>
 numerous	JJ	_ <O>
 strings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 single	JJ	_ <O>
 piece	NN	_ <O>
@@ -100,7 +102,8 @@ and	CC	_ <O>
 Érard	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Composite	NNP	_ <O>
 forged	VBD	_ <O>
 metal	NN	_ <O>
@@ -124,4 +127,5 @@ early	JJ	_ <O>
 20th	JJ	_ <O>
 century	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

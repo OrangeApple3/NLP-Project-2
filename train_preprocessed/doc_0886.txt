@@ -24,7 +24,8 @@ and	CC	_ <O>
 June	NNP	_ <O>
 beetles	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 range	VBP	_ <O>
 in	IN	_ <O>
@@ -52,7 +53,8 @@ rather	RB	_ <O>
 hairy	JJ	_ <O>
 ventrally	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 may	MD	_ <O>
 cause	VB	_ <O>
@@ -64,7 +66,8 @@ in	IN	_ <O>
 large	JJ	_ <O>
 numbers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 larvae	NN	_ <O>
 (	-LRB-	_ <O>
@@ -82,4 +85,5 @@ and	CC	_ <O>
 other	JJ	_ <O>
 plants	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

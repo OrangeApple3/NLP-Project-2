@@ -27,4 +27,5 @@ least	JJS	<I-CUE>
 the	DT	_ <O>
 1970s	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

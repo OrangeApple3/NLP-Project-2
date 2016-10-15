@@ -34,7 +34,8 @@ word	NN	_ <O>
 loyal	JJ	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 emblem	NN	_ <O>
 was	VBD	_ <O>
@@ -46,4 +47,5 @@ the	DT	_ <O>
 Beaufort	NNP	_ <O>
 portcullis	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

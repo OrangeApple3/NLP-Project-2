@@ -8,7 +8,8 @@ in	IN	_ <O>
 several	JJ	_ <O>
 ways	NNS	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 the	DT	_ <O>
 PlayStation	NNP	_ <O>
@@ -35,7 +36,8 @@ and	CC	_ <O>
 subsequently	RB	_ <O>
 installed	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Using	VBG	_ <O>
 an	DT	_ <O>
 external	JJ	_ <O>
@@ -67,7 +69,8 @@ on	IN	_ <O>
 the	DT	_ <O>
 System	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 may	MD	_ <O>
 be	VB	_ <O>
@@ -83,7 +86,8 @@ order	NN	_ <O>
 to	TO	_ <O>
 run	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 so	RB	_ <O>
 ,	,	_ <O>
@@ -96,4 +100,5 @@ from	IN	_ <O>
 the	DT	_ <O>
 disc	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

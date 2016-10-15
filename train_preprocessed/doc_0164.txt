@@ -19,7 +19,8 @@ Dublin	NNP	_ <O>
 tallest	JJS	_ <O>
 building	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 '	``	_ <O>
 Ha'penny	NNP	_ <O>
@@ -55,7 +56,8 @@ Dublin	NNP	_ <O>
 ,	,	_ <O>
 Ireland	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Originally	RB	_ <O>
 called	VBD	_ <O>
 the	DT	_ <O>
@@ -94,7 +96,8 @@ to	IN	_ <O>
 this	DT	_ <O>
 day	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 due	JJ	_ <O>
@@ -136,7 +139,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 natives	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 toll	NN	_ <O>
 itself	PRP	_ <O>
@@ -156,4 +160,5 @@ side	NN	_ <O>
 of	IN	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

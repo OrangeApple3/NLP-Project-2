@@ -25,6 +25,10 @@ def preprocess():
         beginning = True
         for line in data:
             line = line.strip("\n")
+            if not line.strip():
+                preprocessed_data.write(line+"\n")
+                preprocessed_data.write("NULL\n")
+                continue
             line_cue = has_cue(line)
             if line_cue:
                 if cue != line_cue:

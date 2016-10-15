@@ -23,7 +23,8 @@ the	DT	_ <O>
 Universe	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 was	VBD	_ <O>
 a	DT	_ <O>
@@ -44,7 +45,8 @@ Filmation	NNP	_ <O>
 in	IN	_ <O>
 1983	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 with	IN	_ <O>
 other	JJ	<B-CUE>
@@ -88,7 +90,8 @@ well	RB	<I-CUE>
 written	VBN	<I-CUE>
 cartoons	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	<B-CUE>
 best	RBS	<I-CUE>
 -	HYPH	<I-CUE>
@@ -127,7 +130,8 @@ the	DT	_ <O>
 original	JJ	_ <O>
 cast	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Other	JJ	_ <O>
 favorably	RB	<B-CUE>
 remembered	VBD	<I-CUE>
@@ -205,7 +209,8 @@ of	IN	_ <O>
 Mattel	NNP	_ <O>
 toys	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 animated	JJ	_ <O>
 adaptations	NNS	_ <O>
@@ -243,4 +248,5 @@ a	DT	_ <O>
 hit	VBN	_ <O>
 single	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

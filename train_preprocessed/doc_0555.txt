@@ -10,7 +10,8 @@ examine	VB	_ <O>
 the	DT	_ <O>
 film	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Patterson	NNP	_ <O>
 claimed	VBD	_ <O>
 to	TO	_ <O>
@@ -33,7 +34,8 @@ Studios	NNP	_ <O>
 in	IN	_ <O>
 Hollywood	NNP	_ <O>
 ...	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 might	MD	_ <O>
 be	VB	_ <O>
@@ -56,7 +58,8 @@ Dahinden	NNP	_ <O>
 ,	,	_ <O>
 119	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 authenticity	NN	_ <O>
 of	IN	_ <O>
@@ -81,4 +84,5 @@ never	RB	_ <O>
 come	VBN	_ <O>
 forward	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

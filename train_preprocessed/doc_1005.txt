@@ -11,7 +11,8 @@ places	NNS	<I-CUE>
 of	IN	<I-CUE>
 interest	NN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 include	VBP	_ <O>
 courtyards	NNS	_ <O>
@@ -29,7 +30,8 @@ called	VBN	_ <O>
 Devidi	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	<B-CUE>
 few	JJ	<I-CUE>
 sprawling	JJ	<I-CUE>
@@ -65,7 +67,8 @@ within	IN	_ <O>
 the	DT	_ <O>
 town	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 a	DT	<B-CUE>
@@ -76,4 +79,5 @@ theatres	NNS	<I-CUE>
 and	CC	<I-CUE>
 restaurants	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

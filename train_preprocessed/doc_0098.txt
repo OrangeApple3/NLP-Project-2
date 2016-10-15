@@ -11,7 +11,8 @@ within	IN	_ <O>
 several	JJ	_ <O>
 decades	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 Nazi	JJ	_ <O>
 German	JJ	_ <O>
@@ -54,7 +55,8 @@ to	IN	_ <O>
 concentration	NN	_ <O>
 camp	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Between	IN	_ <O>
 April	NNP	_ <O>
 5	CD	_ <O>
@@ -77,7 +79,8 @@ guillotine	NN	_ <O>
 in	IN	_ <O>
 Pankrác	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 last	JJ	_ <O>
@@ -108,4 +111,5 @@ last	JJ	_ <O>
 in	IN	_ <O>
 1989	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

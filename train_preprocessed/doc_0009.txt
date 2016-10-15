@@ -23,7 +23,8 @@ on	IN	_ <O>
 perceptual	JJ	_ <O>
 maps	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Perceptual	JJ	_ <O>
 Map	NN	_ <O>
@@ -34,7 +35,8 @@ with	IN	_ <O>
 Ideal	NNP	_ <O>
 Vectors	NNP	_ <O>
 '	POS	_ <O>
- <O>
+
+NULL
 Starting	VBG	_ <O>
 with	IN	_ <O>
 raw	JJ	_ <O>
@@ -61,7 +63,8 @@ on	IN	_ <O>
 these	DT	_ <O>
 dimensions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Like	IN	_ <O>
 all	DT	_ <O>
 regression	NN	_ <O>
@@ -76,7 +79,8 @@ best	JJS	_ <O>
 predict	VB	_ <O>
 data	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 resultant	JJ	_ <O>
 regression	NN	_ <O>
@@ -105,4 +109,5 @@ the	DT	_ <O>
 two	CD	_ <O>
 dimensions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -5,7 +5,8 @@ President	NNP	_ <O>
 (	-LRB-	_ <O>
 D	NNP	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 the	DT	_ <O>
 election	NN	_ <O>
@@ -33,11 +34,13 @@ have	VB	_ <O>
 been	VBN	_ <O>
 his	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 (	-LRB-	_ <O>
 1884	CD	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 James	NNP	_ <O>
 Buchanan	NNP	_ <O>
 President	NNP	_ <O>
@@ -76,7 +79,8 @@ for	IN	_ <O>
 many	JJ	_ <O>
 years	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Andrew	NNP	_ <O>
 Jackson	NNP	_ <O>
 referred	VBD	_ <O>
@@ -93,13 +97,15 @@ Fancy	NNP	_ <O>
 1850	CD	_ <O>
 's	POS	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 Petticoat	NNP	_ <O>
 Affair	NNP	_ <O>
 or	CC	_ <O>
 Eaton	NNP	_ <O>
 Affair	NNP	_ <O>
- <O>
+
+NULL
 Margaret	NNP	_ <O>
 "	``	_ <O>
 Peggy	NNP	_ <O>
@@ -138,7 +144,8 @@ Eaton	NNP	_ <O>
 (	-LRB-	_ <O>
 1831	CD	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 Alexander	NNP	_ <O>
 Hamilton	NNP	_ <O>
 -	HYPH	_ <O>
@@ -146,7 +153,8 @@ Maria	NNP	_ <O>
 Reynolds	NNP	_ <O>
 affair	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Secretary	NNP	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -166,4 +174,5 @@ to	IN	_ <O>
 other	JJ	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

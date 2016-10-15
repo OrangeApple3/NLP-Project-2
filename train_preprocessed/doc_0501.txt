@@ -33,7 +33,8 @@ David	NNP	_ <O>
 2000	CD	_ <O>
 summit	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -53,7 +54,8 @@ to	TO	_ <O>
 be	VB	_ <O>
 unacceptable	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 HonestReporting	NNP	_ <O>
 organization	NN	_ <O>
@@ -76,7 +78,8 @@ compelled	VBN	_ <O>
 but	CC	_ <O>
 voluntary	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 seven	CD	_ <O>
 Arab	JJ	_ <O>
@@ -108,7 +111,8 @@ the	DT	_ <O>
 Jewish	JJ	_ <O>
 state	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 point	NN	_ <O>
 ,	,	_ <O>
@@ -121,7 +125,8 @@ of	IN	_ <O>
 some	DT	_ <O>
 contention	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Certain	JJ	_ <O>
 actions	NNS	_ <O>
 on	IN	_ <O>
@@ -139,7 +144,8 @@ to	TO	_ <O>
 leave	VB	_ <O>
 Israel	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Eye	JJ	_ <O>
 witness	NN	_ <O>
 accounts	VBZ	_ <O>
@@ -171,7 +177,8 @@ villages	NNS	_ <O>
 '	POS	_ <O>
 surrender	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Jewish	JJ	_ <O>
 militia	NN	_ <O>
@@ -196,7 +203,8 @@ pain	NN	_ <O>
 of	IN	_ <O>
 death	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Still	RB	_ <O>
 ,	,	_ <O>
 such	JJ	_ <O>
@@ -217,7 +225,8 @@ their	PRP$	_ <O>
 own	JJ	_ <O>
 accord	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 most	JJS	_ <O>
 Palestinians	NNPS	_ <O>
@@ -238,7 +247,8 @@ absolved	VBN	_ <O>
 of	IN	_ <O>
 responsibility	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 fact	NN	_ <O>
 ,	,	_ <O>
@@ -287,7 +297,8 @@ be	VB	_ <O>
 destroyed	VBN	_ <O>
 :	:	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 Arab	JJ	_ <O>
 leaders	NNS	_ <O>
 and	CC	_ <O>
@@ -315,7 +326,8 @@ they	PRP	_ <O>
 saved	VBD	_ <O>
 Palestine	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 is	VBZ	_ <O>
 no	DT	_ <O>
@@ -331,7 +343,8 @@ and	CC	_ <O>
 their	PRP$	_ <O>
 descendents	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 No	DT	_ <O>
 international	JJ	_ <O>
 legislation	NN	_ <O>
@@ -348,7 +361,8 @@ Palestinians	NNPS	_ <O>
 require	VBP	_ <O>
 this	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 none	NN	_ <O>
 of	IN	_ <O>
@@ -405,7 +419,8 @@ to	TO	_ <O>
 assimilate	VB	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	JJS	<B-CUE>
 Israelis	NNPS	<I-CUE>
 hold{	NFP	_ <O>
@@ -440,7 +455,8 @@ region	NN	_ <O>
 dwindling	JJ	_ <O>
 resources	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 Israel	NNP	_ <O>
 accepts	VBZ	_ <O>
@@ -491,7 +507,8 @@ state	NN	_ <O>
 of	IN	_ <O>
 Israel	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Because	IN	_ <O>
 a	DT	_ <O>
 right	NN	_ <O>
@@ -516,7 +533,8 @@ the	DT	_ <O>
 Jewish	JJ	_ <O>
 state	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 Fatah	NNP	_ <O>
 explains	VBZ	_ <O>
@@ -542,4 +560,5 @@ Israeli	JJ	_ <O>
 state	NN	_ <O>
 .	.	_ <O>
 ”	.	_ <O>
- <O>
+
+NULL

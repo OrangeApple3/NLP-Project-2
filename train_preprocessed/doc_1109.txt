@@ -14,7 +14,8 @@ Chennai	NNP	_ <O>
 ,	,	_ <O>
 India	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 organization	NN	_ <O>
 does	VBZ	_ <O>
@@ -35,7 +36,8 @@ forms	NNS	_ <O>
 of	IN	_ <O>
 development	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 founder	NN	_ <O>
 of	IN	_ <O>
@@ -62,4 +64,5 @@ helping	VBG	_ <O>
 the	DT	_ <O>
 poor	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

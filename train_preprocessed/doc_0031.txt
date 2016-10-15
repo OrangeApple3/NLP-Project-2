@@ -43,7 +43,8 @@ Republic	NNP	_ <O>
 of	IN	_ <O>
 Poland	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 crowd	NN	_ <O>
 of	IN	_ <O>
@@ -97,7 +98,8 @@ the	DT	_ <O>
 protesting	VBG	_ <O>
 civilians	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 death	NN	_ <O>
 toll	NN	_ <O>
@@ -125,4 +127,5 @@ people	NNS	_ <O>
 sustained	VBD	_ <O>
 injuries	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

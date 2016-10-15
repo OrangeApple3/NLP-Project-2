@@ -24,7 +24,8 @@ the	DT	<I-CUE>
 20th	JJ	<I-CUE>
 century	NN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 a	DT	_ <O>
 short	JJ	_ <O>
@@ -81,7 +82,8 @@ a	DT	_ <O>
 cardinal	NN	_ <O>
 then	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Yet	CC	_ <O>
 Pope	NNP	_ <O>
 Paul	NNP	_ <O>
@@ -132,7 +134,8 @@ holy	JJ	_ <O>
 man	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 in	IN	_ <O>
 turn	NN	_ <O>
@@ -156,4 +159,5 @@ spoke	VBD	_ <O>
 many	JJ	_ <O>
 languages	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

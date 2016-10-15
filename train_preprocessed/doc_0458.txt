@@ -32,7 +32,8 @@ means	NNS	_ <O>
 and	CC	_ <O>
 ends	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 rarely	RB	<I-CUE>
@@ -100,7 +101,8 @@ embargos/autarkies	NNS	_ <O>
 or	CC	_ <O>
 tariffs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 conversation	NN	_ <O>
 among	IN	_ <O>
@@ -144,4 +146,5 @@ fossil	NN	_ <O>
 fuel	NN	_ <O>
 reserves	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

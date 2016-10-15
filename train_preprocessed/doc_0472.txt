@@ -21,7 +21,8 @@ Copenhagen	NNP	_ <O>
 ,	,	_ <O>
 Denmark	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 was	VBD	_ <O>
 first	JJ	_ <O>
@@ -44,4 +45,5 @@ in	IN	_ <O>
 November	NNP	_ <O>
 1943	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

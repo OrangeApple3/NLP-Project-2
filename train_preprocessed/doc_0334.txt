@@ -28,7 +28,8 @@ patent	NN	_ <O>
 bacteriophage	NN	_ <O>
 products	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Scientists	NNS	<B-CUE>
 comment	NN	_ <O>
 that	IN	_ <O>
@@ -68,7 +69,8 @@ with	IN	_ <O>
 many	JJ	_ <O>
 variables	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Due	IN	_ <O>
 to	IN	_ <O>
 the	DT	_ <O>
@@ -102,7 +104,8 @@ Administration	NNP	_ <O>
 FDA	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Public	JJ	_ <O>
 awareness	NN	_ <O>
 and	CC	_ <O>
@@ -123,4 +126,5 @@ than	IN	_ <O>
 mainstream	JJ	_ <O>
 media	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

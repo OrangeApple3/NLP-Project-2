@@ -67,7 +67,8 @@ the	DT	_ <O>
 pagani	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Upon	IN	_ <O>
 the	DT	_ <O>
 death	NN	_ <O>
@@ -87,7 +88,8 @@ two	CD	_ <O>
 incompetent	JJ	_ <O>
 sons	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Political	JJ	_ <O>
 crisis	NN	_ <O>
 ensued	RB	_ <O>
@@ -106,7 +108,8 @@ Empire	NNP	_ <O>
 gradually	RB	_ <O>
 collapsed	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 this	DT	_ <O>
 prolonged	JJ	_ <O>
@@ -128,7 +131,8 @@ the	DT	_ <O>
 old	JJ	_ <O>
 religion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pagans	NNPS	_ <O>
 blamed	VBD	_ <O>
 the	DT	_ <O>
@@ -140,7 +144,8 @@ affecting	VBG	_ <O>
 the	DT	_ <O>
 empire	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Eunapius	NN	_ <O>
 reflects	VBZ	_ <O>
 some	DT	<B-CUE>
@@ -155,7 +160,8 @@ in	IN	_ <O>
 his	PRP$	_ <O>
 writings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Despite	IN	_ <O>
 the	DT	_ <O>
 pleas	NNS	_ <O>
@@ -189,7 +195,8 @@ revival	NN	_ <O>
 of	IN	_ <O>
 Paganism	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 fact	NN	_ <O>
 that	IN	_ <O>
@@ -232,7 +239,8 @@ be	VB	_ <O>
 practiced	VBN	_ <O>
 discreetly	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 the	DT	_ <O>
 early	JJ	_ <O>
@@ -254,7 +262,8 @@ over	IN	_ <O>
 the	DT	_ <O>
 west	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 year	NN	_ <O>
@@ -281,7 +290,8 @@ number	NN	_ <O>
 of	IN	_ <O>
 holidays	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 same	JJ	_ <O>
@@ -313,7 +323,8 @@ of	IN	_ <O>
 Pagan	NNP	_ <O>
 sacrifice	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 law	NN	_ <O>
 seems	VBZ	<B-CUE>
@@ -350,7 +361,8 @@ Catholic	JJ	_ <O>
 faith	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 year	NN	_ <O>
@@ -368,7 +380,8 @@ were	VBD	_ <O>
 officially	RB	_ <O>
 revoked	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 same	JJ	_ <O>
@@ -408,7 +421,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 authorities	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 large	JJ	_ <O>
 number	NN	_ <O>
@@ -447,4 +461,5 @@ the	DT	_ <O>
 old	JJ	_ <O>
 religion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

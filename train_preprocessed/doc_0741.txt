@@ -21,7 +21,8 @@ arrival	NN	_ <O>
 of	IN	_ <O>
 Carnival	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 most	RBS	_ <O>
 pessimistic	JJ	_ <O>
@@ -37,7 +38,8 @@ as	RB	_ <O>
 before	IN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 pioneer	NN	_ <O>
 musical	JJ	_ <O>
@@ -55,7 +57,8 @@ lead	VB	_ <O>
 the	DT	_ <O>
 effort	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Still	RB	_ <O>
 in	IN	_ <O>
 the	DT	_ <O>
@@ -114,4 +117,5 @@ by	IN	_ <O>
 the	DT	_ <O>
 police	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

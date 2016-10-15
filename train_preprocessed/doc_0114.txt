@@ -29,7 +29,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 prototype	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Travel	NN	_ <O>
 between	IN	_ <O>
 these	DT	_ <O>
@@ -50,7 +51,8 @@ of	IN	_ <O>
 this	DT	_ <O>
 pantheon	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Those	DT	_ <O>
 "	``	_ <O>
 of	IN	_ <O>
@@ -84,7 +86,8 @@ as	IN	_ <O>
 they	PRP	_ <O>
 go	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 argued	VBN	<I-CUE>
@@ -129,4 +132,5 @@ of	IN	_ <O>
 godlike	JJ	_ <O>
 creation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

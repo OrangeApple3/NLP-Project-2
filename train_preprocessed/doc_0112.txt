@@ -38,7 +38,8 @@ widespread	JJ	<B-CUE>
 media	NN	_ <O>
 attention	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 building	NN	_ <O>
 drew	VBD	_ <O>
@@ -62,7 +63,8 @@ Catholic	NNP	_ <O>
 revivalism	NN	_ <O>
 group	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 local	JJ	_ <O>
 chemist	NN	_ <O>
@@ -104,7 +106,8 @@ the	DT	_ <O>
 water	NN	_ <O>
 sprinkler	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Images	NNS	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -142,4 +145,5 @@ Valley	NNP	_ <O>
 ,	,	_ <O>
 California	NNP	_ <O>
 ;	:	_ <O>
- <O>
+
+NULL

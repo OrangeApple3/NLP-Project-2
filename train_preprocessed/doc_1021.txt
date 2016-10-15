@@ -37,7 +37,8 @@ death	NN	_ <O>
 from	IN	_ <O>
 disease	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Noble	NNP	_ <O>
 David	NNP	_ <O>
 Cook	NNP	_ <O>
@@ -94,7 +95,8 @@ explanations	NNS	_ <O>
 for	IN	_ <O>
 depopulation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 response	NN	_ <O>
 to	IN	_ <O>
@@ -137,7 +139,8 @@ calls	VBZ	_ <O>
 democide	NN	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 Rummel	NNP	_ <O>
 's	POS	_ <O>
 estimate	NN	_ <O>
@@ -163,4 +166,5 @@ different	JJ	<I-CUE>
 governments	NNS	<I-CUE>
 involved	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -86,7 +86,8 @@ the	DT	<I-CUE>
 population	NN	<I-CUE>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	IN	_ <O>
 this	DT	_ <O>
 end	NN	_ <O>
@@ -113,7 +114,8 @@ product	NN	_ <O>
 Persil	NNP	_ <O>
 Power	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 believe	VB	_ <O>
 that	IN	_ <O>
@@ -137,7 +139,8 @@ the	DT	_ <O>
 catalysing	VBG	_ <O>
 agents	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Power	NN	_ <O>
 was	VBD	_ <O>
 launched	VBN	_ <O>
@@ -156,4 +159,5 @@ soon	RB	_ <O>
 became	VBD	_ <O>
 apparent	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

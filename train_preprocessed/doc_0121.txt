@@ -18,7 +18,8 @@ a	DT	_ <O>
 Nobel	NNP	_ <O>
 Prize	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Sarkozy	NNP	_ <O>
 announced	VBD	_ <O>
 that	IN	_ <O>
@@ -35,4 +36,5 @@ Bastille	NNP	_ <O>
 Day	NNP	_ <O>
 celebrations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -17,7 +17,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 Andes	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 due	JJ	_ <O>
@@ -45,7 +46,8 @@ recycles	VBZ	_ <O>
 organic	JJ	_ <O>
 materials	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Beyond	IN	_ <O>
 the	DT	_ <O>
 Andean	JJ	_ <O>
@@ -82,7 +84,8 @@ are	VBP	_ <O>
 stone	NN	_ <O>
 outcrops	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 there	EX	_ <O>
 is	VBZ	_ <O>
@@ -119,4 +122,5 @@ earliest	JJS	_ <O>
 artistic	JJ	_ <O>
 artifacts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -61,7 +61,8 @@ Empire	NNP	_ <O>
 throughout	IN	_ <O>
 history	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Gradually	RB	_ <O>
 ,	,	_ <O>
 these	DT	_ <O>
@@ -125,7 +126,8 @@ under	IN	_ <O>
 their	PRP$	_ <O>
 control	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 major	JJ	_ <O>
 urban	JJ	_ <O>
@@ -159,7 +161,8 @@ already	RB	_ <O>
 very	RB	_ <O>
 deep	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 From	IN	_ <O>
 then	RB	_ <O>
 on	RB	_ <O>
@@ -186,4 +189,5 @@ of	IN	_ <O>
 colonial	JJ	_ <O>
 society	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

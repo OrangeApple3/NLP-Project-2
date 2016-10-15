@@ -19,7 +19,8 @@ and	CC	_ <O>
 North	NNP	_ <O>
 India	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 also	RB	_ <O>
@@ -35,7 +36,8 @@ Maraicars	NNP	_ <O>
 and	CC	_ <O>
 Sahibs	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Maraicar	NNP	_ <O>
 '	''	_ <O>
@@ -96,7 +98,8 @@ with	IN	_ <O>
 their	PRP$	_ <O>
 trade	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Then	RB	_ <O>
 ,	,	_ <O>
 with	IN	_ <O>
@@ -117,4 +120,5 @@ themselves	PRP	_ <O>
 to	IN	_ <O>
 Muslims	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

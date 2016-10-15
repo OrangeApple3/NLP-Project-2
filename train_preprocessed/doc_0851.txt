@@ -16,7 +16,8 @@ father	NN	_ <O>
 and	CC	_ <O>
 son	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 former	JJ	_ <O>
 (	-LRB-	_ <O>
@@ -51,7 +52,8 @@ purpose	NN	_ <O>
 of	IN	_ <O>
 engraving	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 George	NNP	_ <O>
 White	NNP	_ <O>
 (	-LRB-	_ <O>
@@ -74,7 +76,8 @@ his	PRP$	<I-CUE>
 fathers	NNS	<I-CUE>
 plates	VBZ	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 By	IN	_ <O>
 Robert	NNP	_ <O>
 White	NNP	_ <O>
@@ -124,4 +127,5 @@ Tenison	NNP	_ <O>
 and	CC	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

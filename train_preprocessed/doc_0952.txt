@@ -26,7 +26,8 @@ and	CC	<I-CUE>
 analytical	JJ	<I-CUE>
 frameworks	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 this	DT	_ <O>
 regard	NN	_ <O>
@@ -64,7 +65,8 @@ facilitates	VBZ	_ <O>
 ethical	JJ	_ <O>
 reflection	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 study	NN	_ <O>
 of	IN	_ <O>
@@ -92,7 +94,8 @@ collective	JJ	_ <O>
 action	NN	_ <O>
 problems	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Finally	RB	_ <O>
 ,	,	_ <O>
 studying	VBG	_ <O>
@@ -125,4 +128,5 @@ by	IN	_ <O>
 economic	JJ	_ <O>
 events	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

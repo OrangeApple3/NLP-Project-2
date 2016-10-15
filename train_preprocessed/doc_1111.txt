@@ -25,7 +25,8 @@ billion	CD	_ <O>
 are	VBP	_ <O>
 legal	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 figure	NN	_ <O>
 is	VBZ	_ <O>
@@ -43,7 +44,8 @@ lowered	VBN	_ <O>
 in	IN	_ <O>
 1998	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Other	JJ	_ <O>
 sources	NNS	_ <O>
 ,	,	_ <O>
@@ -118,7 +120,8 @@ cellphone	NN	_ <O>
 component	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 USA	NNP	_ <O>
 Today	NNP	_ <O>
@@ -157,4 +160,5 @@ at	IN	_ <O>
 the	DT	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

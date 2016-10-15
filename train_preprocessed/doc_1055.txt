@@ -16,7 +16,8 @@ for	IN	_ <O>
 most	JJS	_ <O>
 configurations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 long	JJ	_ <O>
 -	HYPH	_ <O>
@@ -40,7 +41,8 @@ principle	NN	_ <O>
 be	VB	_ <O>
 avoided	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Intermediate	JJ	_ <O>
 -	HYPH	_ <O>
 wavelength	NN	_ <O>
@@ -74,7 +76,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 stabilitycalculations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 extensive	JJ	_ <O>
 beta	NN	_ <O>
@@ -111,7 +114,8 @@ are	VBP	_ <O>
 accurately	RB	_ <O>
 measured	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 good	JJ	_ <O>
 agreement	NN	_ <O>
@@ -132,4 +136,5 @@ prototype	NN	_ <O>
 fusion	NN	_ <O>
 reactors	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

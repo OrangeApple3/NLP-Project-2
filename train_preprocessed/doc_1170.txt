@@ -19,7 +19,8 @@ type	NN	_ <O>
 of	IN	_ <O>
 file	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Updates	NNS	_ <O>
 for	IN	_ <O>
 serial	JJ	_ <O>
@@ -33,7 +34,8 @@ many	JJ	<B-CUE>
 Internet	NN	<I-CUE>
 sites	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 most	RBS	_ <O>
 common	JJ	_ <O>
@@ -45,7 +47,8 @@ for	IN	_ <O>
 warez	NN	_ <O>
 software	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Phrozen	NNP	_ <O>
 Crew	NNP	_ <O>
 was	VBD	_ <O>
@@ -68,4 +71,5 @@ keys	NNS	_ <O>
 at	IN	_ <O>
 once	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -27,7 +27,8 @@ under	IN	_ <O>
 extreme	JJ	_ <O>
 conditions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 compounds	NNS	_ <O>
 now	RB	_ <O>
@@ -62,7 +63,8 @@ and	CC	_ <O>
 enzymatic	JJ	_ <O>
 levels	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 participate	VBP	_ <O>
 in	IN	_ <O>
@@ -73,7 +75,8 @@ occurring	VBG	_ <O>
 in	IN	_ <O>
 bacteria	NNS	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 participate	VBP	_ <O>
 in	IN	_ <O>
@@ -112,7 +115,8 @@ many	JJ	<B-CUE>
 stressful	JJ	<I-CUE>
 agents	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 above	JJ	_ <O>
 channels	NNS	_ <O>
@@ -139,7 +143,8 @@ variety	NN	_ <O>
 of	IN	_ <O>
 organisms	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Polyphosphates	NNS	_ <O>
 are	VBP	_ <O>
 present	JJ	_ <O>
@@ -174,4 +179,5 @@ tissues	NNS	_ <O>
 and	CC	_ <O>
 brain	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

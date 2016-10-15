@@ -15,7 +15,8 @@ a	DT	_ <O>
 community	NN	_ <O>
 college	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Degree	NN	_ <O>
 programs	NNS	_ <O>
 are	VBP	_ <O>
@@ -42,7 +43,8 @@ degree	NN	_ <O>
 programs	NNS	_ <O>
 exist	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 addition	NN	_ <O>
 ,	,	_ <O>
@@ -62,7 +64,8 @@ license	NN	_ <O>
 or	CC	_ <O>
 certification	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 addition	NN	_ <O>
 to	IN	_ <O>
@@ -112,4 +115,5 @@ Cardiac	NNP	_ <O>
 Life	NNP	_ <O>
 Support	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

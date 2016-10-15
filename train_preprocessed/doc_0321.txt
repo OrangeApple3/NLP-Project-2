@@ -17,7 +17,8 @@ in	IN	_ <O>
 Latin	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 2007	CD	_ <O>
 a	DT	_ <O>
@@ -39,4 +40,5 @@ You	PRP	_ <O>
 Imagine	VBP	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

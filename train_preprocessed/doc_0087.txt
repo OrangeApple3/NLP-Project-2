@@ -33,7 +33,8 @@ of	IN	_ <O>
 New	NNP	_ <O>
 Zealand	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 are	VBP	_ <O>
 75	CD	_ <O>
@@ -68,4 +69,5 @@ is	VBZ	_ <O>
 km	NNS	_ <O>
 long	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

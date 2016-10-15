@@ -22,7 +22,8 @@ and	CC	_ <O>
 even	RB	_ <O>
 Lisbon	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 victory	NN	_ <O>
 over	IN	_ <O>
@@ -68,7 +69,8 @@ Kingdom	NNP	_ <O>
 of	IN	_ <O>
 Portugal	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Guimaraes	NNP	_ <O>
 -	HYPH	_ <O>
 the	DT	_ <O>
@@ -81,7 +83,8 @@ cradle	NN	_ <O>
 of	IN	_ <O>
 Portugal	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 24	CD	_ <O>
 June	NNP	_ <O>
@@ -96,7 +99,8 @@ occurred	VBD	_ <O>
 near	IN	_ <O>
 Guimaraes	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1348	CD	_ <O>
 and	CC	_ <O>
@@ -116,7 +120,8 @@ the	DT	_ <O>
 Black	NNP	_ <O>
 Death	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1373	CD	_ <O>
 ,	,	_ <O>
@@ -140,7 +145,8 @@ world	NN	_ <O>
 .	.	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1383	CD	_ <O>
 ,	,	_ <O>
@@ -169,7 +175,8 @@ claimed	VBD	_ <O>
 his	PRP$	_ <O>
 throne	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 An	DT	_ <O>
 ensuing	VBG	_ <O>
 popular	JJ	_ <O>
@@ -182,4 +189,5 @@ the	DT	_ <O>
 1385	CD	_ <O>
 Crisis	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

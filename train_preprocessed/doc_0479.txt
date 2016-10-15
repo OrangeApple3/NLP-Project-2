@@ -11,7 +11,8 @@ prickly	JJ	_ <O>
 pear	NN	_ <O>
 plants	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	_ <O>
 food	NN	_ <O>
 found	VBN	_ <O>
@@ -49,7 +50,8 @@ sedge	NN	_ <O>
 Cyperus	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Even	RB	_ <O>
 those	DT	_ <O>
 caught	VBN	_ <O>
@@ -65,7 +67,8 @@ with	IN	_ <O>
 weed	NN	_ <O>
 seeds	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Seeds	NNS	_ <O>
 of	IN	_ <O>
 two	CD	_ <O>
@@ -89,4 +92,5 @@ in	IN	_ <O>
 their	PRP$	_ <O>
 holes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

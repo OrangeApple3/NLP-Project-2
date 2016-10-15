@@ -13,7 +13,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 universe	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 terms	NNS	_ <O>
 of	IN	_ <O>
@@ -36,7 +37,8 @@ a	DT	_ <O>
 proton	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 makes	VBZ	_ <O>
 the	DT	_ <O>
@@ -56,7 +58,8 @@ schools	NNS	_ <O>
 of	IN	_ <O>
 thought	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 approaches	NNS	_ <O>
 ,	,	_ <O>
@@ -75,4 +78,5 @@ Planck	NNP	_ <O>
 scale	NN	_ <O>
 dynamics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

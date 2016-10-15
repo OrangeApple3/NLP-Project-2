@@ -19,7 +19,8 @@ complete	JJ	_ <O>
 operating	NN	_ <O>
 systems	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 guest	NN	_ <O>
 software	NN	_ <O>
@@ -40,7 +41,8 @@ several	JJ	<B-CUE>
 notable	JJ	<I-CUE>
 caveats	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Access	NN	_ <O>
 to	IN	_ <O>
 physical	JJ	_ <O>
@@ -77,7 +79,8 @@ system	NN	_ <O>
 -	HYPH	_ <O>
 memory	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Guests	NNS	_ <O>
 are	VBP	_ <O>
 often	RB	_ <O>
@@ -114,4 +117,5 @@ the	DT	_ <O>
 virtualization	NN	_ <O>
 host	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

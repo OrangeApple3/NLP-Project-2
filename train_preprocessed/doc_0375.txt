@@ -47,7 +47,8 @@ public	JJ	_ <O>
 speaking	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 also	RB	_ <O>
 taught	VBD	_ <O>
@@ -66,7 +67,8 @@ public	JJ	_ <O>
 reciter	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -103,7 +105,8 @@ over	IN	_ <O>
 900,000	CD	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 a	DT	_ <O>
@@ -157,7 +160,8 @@ national	JJ	_ <O>
 distinction	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Burrell	NNP	_ <O>
 served	VBD	_ <O>
 as	IN	_ <O>
@@ -212,4 +216,5 @@ by	IN	_ <O>
 the	DT	_ <O>
 Fraternity	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

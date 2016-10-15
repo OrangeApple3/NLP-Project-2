@@ -18,7 +18,8 @@ trial	NN	_ <O>
 being	VBG	_ <O>
 held	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 this	DT	_ <O>
 stage	NN	_ <O>
@@ -53,7 +54,8 @@ killer	NN	_ <O>
 was	VBD	_ <O>
 exposed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 this	DT	_ <O>
 point	NN	_ <O>
@@ -129,7 +131,8 @@ by	IN	_ <O>
 Perry	NNP	_ <O>
 Mason	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 closing	NN	_ <O>
@@ -148,4 +151,5 @@ case	NN	_ <O>
 was	VBD	_ <O>
 solved	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

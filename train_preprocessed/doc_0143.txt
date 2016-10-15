@@ -43,7 +43,8 @@ the	DT	_ <O>
 United	NNP	_ <O>
 States	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 used	VBN	_ <O>
@@ -116,7 +117,8 @@ term	NN	_ <O>
 by	IN	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 derivative	JJ	_ <O>
 term	NN	_ <O>
@@ -130,7 +132,8 @@ is	VBZ	_ <O>
 also	RB	_ <O>
 used	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 additionally	RB	_ <O>
@@ -158,7 +161,8 @@ between	IN	_ <O>
 and	CC	_ <O>
 1066	CD	_ <O>
 CE.	NN	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -169,4 +173,5 @@ notional	JJ	_ <O>
 racial	JJ	_ <O>
 category	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

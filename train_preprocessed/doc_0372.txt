@@ -66,7 +66,8 @@ video	NN	_ <O>
 game	NN	_ <O>
 developers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Naturally	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -83,7 +84,8 @@ developer	NN	_ <O>
 suite	NN	_ <O>
 provided	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 amount	NN	_ <O>
 of	IN	_ <O>
@@ -112,7 +114,8 @@ music	NN	_ <O>
 tracks	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 would	MD	_ <O>
 not	RB	_ <O>
@@ -138,4 +141,5 @@ a	DT	_ <O>
 modified	JJ	_ <O>
 Playstation	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

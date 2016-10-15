@@ -15,7 +15,8 @@ casual	JJ	_ <O>
 sexual	JJ	_ <O>
 relationships	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 intent	NN	_ <O>
 of	IN	_ <O>
@@ -50,7 +51,8 @@ activity	NN	_ <O>
 when	WRB	_ <O>
 wished	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 people	NNS	<I-CUE>
 prefer	VBP	_ <O>
@@ -62,7 +64,8 @@ without	IN	_ <O>
 commitment	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Usually	RB	_ <O>
 a	DT	_ <O>
 casual	JJ	_ <O>
@@ -75,7 +78,8 @@ a	DT	_ <O>
 monogamous	JJ	_ <O>
 relationship	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -94,4 +98,5 @@ not	RB	_ <O>
 include	VB	_ <O>
 sex	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

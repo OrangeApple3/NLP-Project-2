@@ -16,7 +16,8 @@ or	CC	_ <O>
 degradative	JJ	_ <O>
 properties	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 KOH	NNP	_ <O>
 is	VBZ	_ <O>
 widely	RB	<B-CUE>
@@ -29,7 +30,8 @@ the	DT	_ <O>
 same	JJ	_ <O>
 purposes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Its	PRP$	_ <O>
 corrosive	JJ	_ <O>
 properties	NNS	_ <O>
@@ -49,7 +51,8 @@ surfaces	NNS	_ <O>
 and	CC	_ <O>
 materials	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 often	RB	_ <O>
@@ -64,7 +67,8 @@ cuticle	NN	_ <O>
 removers	NNS	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 KOH	NNP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -95,4 +99,5 @@ a	DT	_ <O>
 few	JJ	_ <O>
 hours	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

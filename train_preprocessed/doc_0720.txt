@@ -32,7 +32,8 @@ as	IN	_ <O>
 Esplendor	NNP	_ <O>
 Geométrico	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hymen	NNP	_ <O>
 Records	NNPS	_ <O>
 ,	,	_ <O>
@@ -42,7 +43,8 @@ Coma	NNP	_ <O>
 record	NN	_ <O>
 description	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Power	NN	_ <O>
 noise	NN	_ <O>
 groups	NNS	_ <O>
@@ -57,7 +59,8 @@ electronic	JJ	_ <O>
 dance	NN	_ <O>
 music	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Access	NN	_ <O>
 date	NN	_ <O>
 :	:	_ <O>
@@ -97,7 +100,8 @@ is	VBZ	_ <O>
 usually	RB	_ <O>
 instrumental	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Sometimes	RB	_ <O>
 a	DT	_ <O>
 melodic	JJ	_ <O>
@@ -115,4 +119,5 @@ to	IN	_ <O>
 the	DT	_ <O>
 rhythm	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

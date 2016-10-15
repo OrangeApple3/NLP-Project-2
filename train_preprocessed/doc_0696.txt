@@ -26,7 +26,8 @@ in	IN	_ <O>
 many	JJ	<B-CUE>
 areas	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 the	DT	_ <O>
 epidemics	NNS	_ <O>
@@ -53,7 +54,8 @@ few	JJ	_ <O>
 indigenous	JJ	_ <O>
 peoples	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 scope	NN	_ <O>
 of	IN	_ <O>
@@ -126,4 +128,5 @@ between	IN	_ <O>
 and	CC	_ <O>
 1351	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

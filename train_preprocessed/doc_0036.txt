@@ -39,7 +39,8 @@ City	NNP	_ <O>
 ,	,	_ <O>
 Nevada	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Counties	NNS	_ <O>
 can	MD	_ <O>
 include	VB	_ <O>
@@ -64,7 +65,8 @@ of	IN	_ <O>
 a	DT	_ <O>
 city	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Counties	NNS	_ <O>
 in	IN	_ <O>
 many	JJ	<B-CUE>
@@ -87,7 +89,8 @@ of	IN	_ <O>
 a	DT	_ <O>
 county	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 some	DT	<B-CUE>
 states	NNS	<I-CUE>
@@ -158,4 +161,5 @@ municipality	NN	_ <O>
 and	CC	_ <O>
 county	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

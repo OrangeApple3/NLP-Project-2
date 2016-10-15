@@ -13,4 +13,5 @@ embassy	NN	_ <O>
 in	IN	_ <O>
 Moscow	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

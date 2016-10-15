@@ -27,7 +27,8 @@ elimination	NN	_ <O>
 of	IN	_ <O>
 quarantines	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	_ <O>
 300	CD	_ <O>
 people	NNS	_ <O>
@@ -36,7 +37,8 @@ brought	VBN	_ <O>
 to	IN	_ <O>
 trial	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 took	VBD	_ <O>
 some	DT	<B-CUE>
@@ -61,7 +63,8 @@ people	NNS	_ <O>
 of	IN	_ <O>
 Moscow	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Around	IN	_ <O>
 200,000	CD	_ <O>
 people	NNS	_ <O>
@@ -75,4 +78,5 @@ during	IN	_ <O>
 the	DT	_ <O>
 plague	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

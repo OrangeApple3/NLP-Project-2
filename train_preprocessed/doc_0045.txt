@@ -15,7 +15,8 @@ the	DT	_ <O>
 DNS	NNP	_ <O>
 protocol	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 has	VBZ	<I-CUE>
 been	VBN	<I-CUE>
@@ -81,4 +82,5 @@ does	VBZ	_ <O>
 not	RB	_ <O>
 respond	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

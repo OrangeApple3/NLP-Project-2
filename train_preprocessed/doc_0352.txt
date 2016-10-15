@@ -46,7 +46,8 @@ intact	JJ	_ <O>
 Virgin	NNP	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 John	NNP	_ <O>
 Calvin	NNP	_ <O>
 rejected	VBD	_ <O>
@@ -69,7 +70,8 @@ had	VBD	_ <O>
 other	JJ	_ <O>
 children	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 William	NNP	_ <O>
 Pringle	NNP	_ <O>
 ,	,	_ <O>
@@ -117,7 +119,8 @@ p.	NN	_ <O>
 )	-RRB-	_ <O>
 ;	:	_ <O>
 “	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 inference	NN	_ <O>
 he	PRP	_ <O>
@@ -153,7 +156,8 @@ by	IN	_ <O>
 her	PRP$	_ <O>
 husband	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 No	DT	_ <O>
 man	NN	_ <O>
 will	MD	_ <O>
@@ -178,7 +182,8 @@ I	PRP	_ <O>
 p.	NN	_ <O>
 107	CD	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 John	NNP	_ <O>
 Wesley	NNP	_ <O>
 wrote	VBD	_ <O>
@@ -242,4 +247,5 @@ unspotted	JJ	_ <O>
 virgin	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

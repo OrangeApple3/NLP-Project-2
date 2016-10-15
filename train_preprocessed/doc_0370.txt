@@ -15,7 +15,8 @@ to	TO	_ <O>
 operate	VB	_ <O>
 smoothly	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 unusual	JJ	_ <O>
 engine	NN	_ <O>
@@ -35,7 +36,8 @@ a	DT	_ <O>
 two	CD	_ <O>
 stroke	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Light	NN	_ <O>
 bulbs	NNS	_ <O>
 burned	VBN	_ <O>
@@ -56,7 +58,8 @@ in	IN	_ <O>
 cutting	VBG	_ <O>
 costs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 had	VBD	_ <O>
 no	DT	_ <O>
@@ -81,7 +84,8 @@ almost	RB	_ <O>
 theft	NN	_ <O>
 proof	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 made	VBD	_ <O>
 them	PRP	_ <O>
@@ -102,7 +106,8 @@ high	JJ	_ <O>
 beam	NN	_ <O>
 motions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Lubrication	NN	_ <O>
 required	VBD	_ <O>
 a	DT	_ <O>
@@ -121,7 +126,8 @@ at	IN	_ <O>
 that	DT	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 was	VBD	_ <O>
 always	RB	_ <O>
@@ -143,4 +149,5 @@ yet	RB	_ <O>
 used	VBN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

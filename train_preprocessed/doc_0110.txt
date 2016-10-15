@@ -22,7 +22,8 @@ band	NN	_ <O>
 Bella	NNP	_ <O>
 Lea	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 later	RB	_ <O>
 changed	VBD	_ <O>
@@ -31,4 +32,5 @@ name	NN	_ <O>
 to	IN	_ <O>
 Ambulette	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

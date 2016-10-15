@@ -32,7 +32,8 @@ home	NN	_ <O>
 one	CD	_ <O>
 night	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 they	PRP	_ <O>
 fight	VBP	_ <O>
@@ -68,7 +69,8 @@ Seeu	NNP	_ <O>
 's	POS	_ <O>
 orders	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Shiina	NNP	_ <O>
 explains	VBZ	_ <O>
 that	IN	_ <O>
@@ -156,7 +158,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 series	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	TO	_ <O>
 move	VB	_ <O>
 from	IN	_ <O>
@@ -182,4 +185,5 @@ the	DT	_ <O>
 dimensional	JJ	_ <O>
 fabric	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

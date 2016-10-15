@@ -36,7 +36,8 @@ to	IN	_ <O>
 state	NN	_ <O>
 governments	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Subsequently	RB	_ <O>
 ,	,	_ <O>
 under	IN	_ <O>
@@ -60,7 +61,8 @@ government	NN	_ <O>
 as	RB	_ <O>
 well	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -114,7 +116,8 @@ to	IN	_ <O>
 irreligion	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Critics	NNS	<B-CUE>
 of	IN	<I-CUE>
 this	DT	<I-CUE>
@@ -127,7 +130,8 @@ changes	VBZ	_ <O>
 the	DT	_ <O>
 Constitution	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 this	DT	_ <O>
@@ -140,4 +144,5 @@ area	NN	_ <O>
 of	IN	_ <O>
 jurisprudence	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

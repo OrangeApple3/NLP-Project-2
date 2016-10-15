@@ -11,7 +11,8 @@ England	NNP	_ <O>
 in	IN	_ <O>
 1964	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 is	VBZ	<B-CUE>
 considered	VBN	<I-CUE>
@@ -27,7 +28,8 @@ of	IN	_ <O>
 his	PRP$	_ <O>
 generation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 has	VBZ	_ <O>
 worked	VBN	_ <O>
@@ -44,7 +46,8 @@ and	CC	_ <O>
 a	DT	_ <O>
 lecturer	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 studies	NNS	_ <O>
 and	CC	_ <O>
@@ -60,7 +63,8 @@ an	DT	_ <O>
 art	NN	_ <O>
 historian	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Openings	NNS	_ <O>
 and	CC	_ <O>
 spaces	NNS	_ <O>
@@ -73,7 +77,8 @@ in	IN	_ <O>
 his	PRP$	_ <O>
 work	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Edmund	NNP	_ <O>
 was	VBD	_ <O>
 raised	VBN	_ <O>
@@ -87,7 +92,8 @@ attended	VBD	_ <O>
 church	NN	_ <O>
 regularly	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 lived	VBD	_ <O>
 near	IN	_ <O>
@@ -114,7 +120,8 @@ within	IN	_ <O>
 larger	JJR	_ <O>
 architecture	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 he	PRP	_ <O>
 was	VBD	_ <O>
@@ -143,7 +150,8 @@ and	CC	_ <O>
 to	TO	_ <O>
 throw	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 small	JJ	_ <O>
 white	JJ	_ <O>
@@ -161,7 +169,8 @@ he	PRP	_ <O>
 remembers	VBZ	_ <O>
 liking	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 From	IN	_ <O>
 this	DT	_ <O>
 age	NN	_ <O>
@@ -184,7 +193,8 @@ highly	RB	_ <O>
 decorated	JJ	_ <O>
 objects	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Edmund	NNP	_ <O>
 then	RB	_ <O>
 went	VBD	_ <O>
@@ -199,7 +209,8 @@ School	NNP	_ <O>
 in	IN	_ <O>
 Canterbury	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 Geoffrey	NNP	_ <O>
 Whiting	NNP	_ <O>
@@ -218,7 +229,8 @@ taught	VBD	_ <O>
 him	PRP	_ <O>
 pottery	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Whiting	NNP	_ <O>
 worked	VBD	_ <O>
 and	CC	_ <O>
@@ -251,7 +263,8 @@ mediaeval	JJ	_ <O>
 English	JJ	_ <O>
 ceramics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Geoffrey	NNP	_ <O>
 Whiting	NNP	_ <O>
 believed	VBD	_ <O>
@@ -272,7 +285,8 @@ as	IN	_ <O>
 his	PRP$	_ <O>
 apprentice	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 By	IN	_ <O>
 repetitively	RB	_ <O>
 making	VBG	_ <O>
@@ -295,7 +309,8 @@ differences	NNS	_ <O>
 in	IN	_ <O>
 form	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Edmund	NNP	_ <O>
 stated	VBD	_ <O>
 in	IN	_ <O>
@@ -347,7 +362,8 @@ you’re	NNP	_ <O>
 doing	VBG	_ <O>
 .	.	_ <O>
 ”	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 Edmund	NNP	_ <O>
 graduated	VBD	_ <O>
@@ -365,7 +381,8 @@ become	VB	_ <O>
 a	DT	_ <O>
 potter	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 continued	VBD	_ <O>
 as	IN	_ <O>
@@ -387,7 +404,8 @@ at	IN	_ <O>
 Sheffield	NNP	_ <O>
 University	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 was	VBD	_ <O>
 awarded	VBN	_ <O>
@@ -407,7 +425,8 @@ Studio	NNP	_ <O>
 in	IN	_ <O>
 Tokyo	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 was	VBD	_ <O>
 brought	VBN	_ <O>
@@ -434,7 +453,8 @@ reading	VBG	_ <O>
 and	CC	_ <O>
 writing	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 then	RB	_ <O>
 decided	VBD	_ <O>
@@ -449,7 +469,8 @@ would	MD	_ <O>
 study	VB	_ <O>
 English	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Edmund	NNP	_ <O>
 is	VBZ	_ <O>
 well	RB	_ <O>
@@ -470,4 +491,5 @@ for	IN	_ <O>
 his	PRP$	_ <O>
 writings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -51,4 +51,5 @@ the	DT	_ <O>
 term	NN	_ <O>
 homophobia	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

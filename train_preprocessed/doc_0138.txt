@@ -8,7 +8,8 @@ and	CC	_ <O>
 lentic	JJ	_ <O>
 erosional	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 are	VBP	_ <O>
 most	RBS	_ <O>
@@ -23,7 +24,8 @@ with	IN	_ <O>
 rocky	JJ	_ <O>
 bottoms	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 are	VBP	_ <O>
 found	VBN	_ <O>
@@ -48,7 +50,8 @@ to	TO	_ <O>
 be	VB	_ <O>
 found	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 larvae	NN	_ <O>
 are	VBP	<B-CUE>
@@ -69,4 +72,5 @@ for	IN	_ <O>
 gripping	VBG	_ <O>
 substrates	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

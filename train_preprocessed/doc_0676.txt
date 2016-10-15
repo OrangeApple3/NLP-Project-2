@@ -30,7 +30,8 @@ Jacques	NNP	_ <O>
 de	NNP	_ <O>
 Croes	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 accompanied	VBD	_ <O>
 the	DT	_ <O>
@@ -85,7 +86,8 @@ champetres	NNS	_ <O>
 1758	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 works	NNS	_ <O>
 were	VBD	_ <O>
@@ -98,7 +100,8 @@ and	CC	_ <O>
 Joseph	NNP	_ <O>
 Haydn	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Carl	NNP	_ <O>
 Ditters	NNP	_ <O>
 von	NNP	_ <O>
@@ -116,4 +119,5 @@ of	IN	_ <O>
 his	PRP$	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

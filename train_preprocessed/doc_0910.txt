@@ -18,7 +18,8 @@ the	DT	_ <O>
 United	NNP	_ <O>
 States	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -31,4 +32,5 @@ population	NN	_ <O>
 was	VBD	_ <O>
 2,712	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

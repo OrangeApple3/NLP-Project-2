@@ -24,7 +24,8 @@ to	TO	_ <O>
 be	VB	_ <O>
 appreciated	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 of	IN	<I-CUE>
 the	DT	<I-CUE>
@@ -42,7 +43,8 @@ by	IN	_ <O>
 medieval	JJ	_ <O>
 thinkers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -63,7 +65,8 @@ the	DT	_ <O>
 suppositio	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 can	MD	_ <O>
 be	VB	_ <O>
@@ -91,4 +94,5 @@ of	IN	_ <O>
 speech	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -32,7 +32,8 @@ writings	NNS	_ <O>
 of	IN	_ <O>
 Arrian	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Theology	NN	_ <O>
 and	CC	_ <O>
 ecclesiastical	JJ	_ <O>
@@ -53,7 +54,8 @@ almost	RB	_ <O>
 entirely	RB	_ <O>
 ignored	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 literary	JJ	_ <O>
 criticisms	NNS	_ <O>
@@ -74,7 +76,8 @@ considerably	RB	<B-CUE>
 in	IN	_ <O>
 length	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 numerous	JJ	_ <O>
 biographical	JJ	_ <O>
@@ -90,4 +93,5 @@ Hesychius	NNP	_ <O>
 of	IN	_ <O>
 Miletus	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

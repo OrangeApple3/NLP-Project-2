@@ -63,7 +63,8 @@ SPO	NNP	_ <O>
 list	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 logical	JJ	_ <O>
 consequence	NN	_ <O>
@@ -158,7 +159,8 @@ for	IN	_ <O>
 SPO	NN	_ <O>
 status	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	PRP	_ <O>
 may	MD	_ <O>
 apply	VB	_ <O>
@@ -188,7 +190,8 @@ for	IN	_ <O>
 SPO	NN	_ <O>
 status	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Therefore	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -228,4 +231,5 @@ weaker	JJR	_ <O>
 .	.	_ <O>
 "	''	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL

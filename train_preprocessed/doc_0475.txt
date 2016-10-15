@@ -21,7 +21,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 cell	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Undifferentiated	JJ	_ <O>
 plastids	NNS	_ <O>
 (	-LRB-	_ <O>
@@ -38,7 +39,8 @@ the	DT	_ <O>
 following	JJ	_ <O>
 plastids	NN	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 Chloroplasts	NNS	_ <O>
 :	:	_ <O>
 for	IN	_ <O>
@@ -54,7 +56,8 @@ predecessors	NNS	_ <O>
 of	IN	_ <O>
 chloroplasts	NNS	_ <O>
 '	POS	_ <O>
- <O>
+
+NULL
 Chromoplasts	NNS	_ <O>
 :	:	_ <O>
 for	IN	_ <O>
@@ -62,7 +65,8 @@ pigment	NN	_ <O>
 synthesis	NN	_ <O>
 and	CC	_ <O>
 storage	NN	_ <O>
- <O>
+
+NULL
 Leucoplasts	NNS	_ <O>
 :	:	_ <O>
 for	IN	_ <O>
@@ -79,25 +83,29 @@ specialized	JJ	_ <O>
 plastids	NNS	_ <O>
 :	:	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 Amyloplasts	NNS	_ <O>
 :	:	_ <O>
 for	IN	_ <O>
 starch	NN	_ <O>
 storage	NN	_ <O>
- <O>
+
+NULL
 Statoliths	NNS	_ <O>
 :	:	_ <O>
 for	IN	_ <O>
 detecting	VBG	_ <O>
 gravity	NN	_ <O>
- <O>
+
+NULL
 Elaioplasts	NNS	_ <O>
 :	:	_ <O>
 for	IN	_ <O>
 storing	VBG	_ <O>
 fat	JJ	_ <O>
- <O>
+
+NULL
 Proteinoplasts	NNS	_ <O>
 :	:	_ <O>
 for	IN	_ <O>
@@ -105,7 +113,8 @@ storing	VBG	_ <O>
 and	CC	_ <O>
 modifying	VBG	_ <O>
 protein	NN	_ <O>
- <O>
+
+NULL
 Each	DT	_ <O>
 plastid	NN	_ <O>
 creates	VBZ	_ <O>
@@ -121,7 +130,8 @@ kilo	NN	_ <O>
 bases	NNS	_ <O>
 plastome	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 number	NN	_ <O>
 of	IN	_ <O>
@@ -169,7 +179,8 @@ number	NN	_ <O>
 of	IN	_ <O>
 plastids	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nuclear	JJ	_ <O>
 genes	NNS	_ <O>
 encode	VBP	_ <O>
@@ -206,4 +217,5 @@ to	IN	_ <O>
 cell	NN	_ <O>
 differentiation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

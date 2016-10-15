@@ -35,7 +35,8 @@ position	NN	_ <O>
 until	IN	_ <O>
 1938	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Like	IN	_ <O>
 Winston	NNP	_ <O>
 Churchill	NNP	_ <O>
@@ -61,7 +62,8 @@ to	IN	_ <O>
 German	JJ	_ <O>
 aggrandizement	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Reynaud	NNP	_ <O>
 was	VBD	_ <O>
 a	DT	_ <O>
@@ -116,7 +118,8 @@ Second	NNP	_ <O>
 World	NNP	_ <O>
 War	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 Pierre	NNP	_ <O>
@@ -149,4 +152,5 @@ of	IN	_ <O>
 economic	JJ	_ <O>
 liberalism	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

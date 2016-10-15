@@ -20,7 +20,8 @@ the	DT	_ <O>
 federal	JJ	_ <O>
 budget	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Normally	RB	_ <O>
 ,	,	_ <O>
 a	DT	_ <O>
@@ -40,7 +41,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 administration	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Clinton	NNP	_ <O>
 's	POS	_ <O>
 personal	JJ	_ <O>
@@ -56,7 +58,8 @@ problematic	JJ	_ <O>
 for	IN	_ <O>
 Gore	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 has	VBZ	<I-CUE>
 been	VBN	<I-CUE>
@@ -125,7 +128,8 @@ himself	PRP	_ <O>
 from	IN	_ <O>
 Clinton	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Lieberman	NNP	_ <O>
 problem	NN	_ <O>
@@ -154,7 +158,8 @@ the	DT	_ <O>
 Democratic	NNP	_ <O>
 Party	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	_ <O>
 voters	NNS	_ <O>
 who	WP	_ <O>
@@ -173,7 +178,8 @@ candidate	NN	_ <O>
 Ralph	NNP	_ <O>
 Nader	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 if	IN	_ <O>
@@ -197,7 +203,8 @@ George	NNP	_ <O>
 W.	NNP	_ <O>
 Bush	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 have	VBP	<B-CUE>
 speculated	VBN	<I-CUE>
@@ -236,7 +243,8 @@ conservative	JJ	_ <O>
 Christian	JJ	_ <O>
 voters	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 it	PRP	<B-CUE>
 can	MD	<I-CUE>
@@ -279,7 +287,8 @@ favored	VBN	_ <O>
 the	DT	_ <O>
 Democrats	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Gore	NNP	_ <O>
 's	POS	_ <O>
 personality	NN	_ <O>
@@ -306,7 +315,8 @@ the	DT	_ <O>
 Bush/Gore	NNP	_ <O>
 debates	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 CNN	NNP	_ <O>
 instant	JJ	_ <O>
 polls	NNS	_ <O>
@@ -326,7 +336,8 @@ a	DT	_ <O>
 narrow	JJ	_ <O>
 margin	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Twenty	CD	_ <O>
 -	HYPH	_ <O>
 two	CD	_ <O>
@@ -356,7 +367,8 @@ October	NNP	_ <O>
 2000	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 asked	VBN	_ <O>
 by	IN	_ <O>
@@ -396,7 +408,8 @@ W.	NNP	_ <O>
 Bush	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 liberals	NNS	<I-CUE>
 conclude	VB	_ <O>
@@ -424,7 +437,8 @@ conservative	JJ	_ <O>
 news	NN	_ <O>
 organizations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Regardless	RB	_ <O>
 of	IN	_ <O>
 voters	NNS	_ <O>
@@ -460,7 +474,8 @@ Al	NNP	_ <O>
 Bore	NNP	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Gore	NNP	_ <O>
 's	POS	_ <O>
 behavior	NN	_ <O>
@@ -506,7 +521,8 @@ the	DT	_ <O>
 next	JJ	_ <O>
 debate	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Whether	IN	_ <O>
 or	CC	_ <O>
 not	RB	_ <O>
@@ -525,7 +541,8 @@ the	DT	_ <O>
 second	JJ	_ <O>
 debate	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 Election	NNP	_ <O>
 Day	NNP	_ <O>
@@ -553,7 +570,8 @@ about	IN	_ <O>
 this	DT	_ <O>
 behavior	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Perceived	VBN	_ <O>
 artificiality	NN	_ <O>
 and	CC	_ <O>
@@ -649,7 +667,8 @@ community	NN	_ <O>
 outreach	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 "	``	_ <O>
 no	DT	_ <O>
@@ -698,7 +717,8 @@ Clinton	NNP	_ <O>
 's	POS	_ <O>
 style	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Populist	JJ	_ <O>
 rhetoric	NN	_ <O>
 :	:	_ <O>
@@ -715,7 +735,8 @@ his	PRP$	_ <O>
 predecessor	NN	_ <O>
 Clinton	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 Gore	NNP	_ <O>
 supported	VBD	_ <O>
@@ -747,7 +768,8 @@ in	IN	_ <O>
 American	JJ	_ <O>
 society	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 found	VBD	_ <O>
 this	DT	_ <O>
@@ -796,7 +818,8 @@ in	IN	_ <O>
 Los	NNP	_ <O>
 Angeles	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 the	DT	_ <O>
 loss	NN	_ <O>
@@ -846,7 +869,8 @@ win	VB	_ <O>
 the	DT	_ <O>
 election	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Republicans	NNPS	_ <O>
 '	POS	_ <O>
@@ -877,7 +901,8 @@ the	DT	_ <O>
 2000	CD	_ <O>
 election	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 between	IN	_ <O>
@@ -908,7 +933,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 region	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 Gore	NNP	_ <O>
 would	MD	_ <O>
@@ -946,7 +972,8 @@ his	PRP$	_ <O>
 native	JJ	_ <O>
 Tennessee	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Ralph	NNP	_ <O>
 Nader	NNP	_ <O>
 :	:	_ <O>
@@ -975,7 +1002,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 election	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	<B-CUE>
 number	NN	<I-CUE>
 of	IN	<I-CUE>
@@ -1004,4 +1032,5 @@ intentionally	RB	_ <O>
 or	CC	_ <O>
 not	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

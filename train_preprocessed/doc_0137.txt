@@ -28,7 +28,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 country	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 was	VBD	_ <O>
 originally	RB	_ <O>
@@ -55,7 +56,8 @@ and	CC	_ <O>
 13	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 school	NN	_ <O>
 has	VBZ	_ <O>
@@ -87,7 +89,8 @@ Board	NNP	_ <O>
 Of	IN	_ <O>
 Governors	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 school	NN	_ <O>
 caters	VBZ	_ <O>
@@ -98,4 +101,5 @@ and	CC	_ <O>
 day	NN	_ <O>
 students	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

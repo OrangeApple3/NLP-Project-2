@@ -49,7 +49,8 @@ of	IN	_ <O>
 researchers	NNS	_ <O>
 think	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Then	RB	_ <O>
 in	IN	_ <O>
 clearness	NN	_ <O>
@@ -262,7 +263,8 @@ of	IN	_ <O>
 positive	JJ	_ <O>
 exactness	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Peirce	NNP	_ <O>
 's	POS	_ <O>
 discussions	NNS	_ <O>
@@ -289,4 +291,5 @@ theories	NNS	_ <O>
 of	IN	_ <O>
 truth	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -29,7 +29,8 @@ the	DT	_ <O>
 Spanish	JJ	_ <O>
 mainland	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Philip	NNP	_ <O>
 appealed	VBD	_ <O>
 to	IN	_ <O>
@@ -50,7 +51,8 @@ rising	VBG	_ <O>
 Ottoman	JJ	_ <O>
 threat	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 his	PRP$	_ <O>
 father	NN	_ <O>
@@ -88,7 +90,8 @@ confronting	VBG	_ <O>
 the	DT	_ <O>
 Ottomans	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 myth	NN	_ <O>
 of	IN	_ <O>
@@ -110,4 +113,5 @@ among	IN	_ <O>
 the	DT	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

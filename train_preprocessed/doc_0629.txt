@@ -43,7 +43,8 @@ life	NN	_ <O>
 and	CC	_ <O>
 humans	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 holds	VBZ	_ <O>
 that	IN	_ <O>
@@ -79,7 +80,8 @@ of	IN	_ <O>
 years	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Genesis	NNP	_ <O>
 account	NN	_ <O>
@@ -111,7 +113,8 @@ interpretations	NNS	<I-CUE>
 are	VBP	_ <O>
 built	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Proponents	NNS	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -129,4 +132,5 @@ and	CC	_ <O>
 progressive	JJ	_ <O>
 creationists	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

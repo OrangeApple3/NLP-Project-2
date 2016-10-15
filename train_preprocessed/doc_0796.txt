@@ -10,7 +10,8 @@ Gypsies	NNPS	_ <O>
 and	CC	_ <O>
 Turks	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 vast	JJ	_ <O>
 majority	NN	_ <O>
@@ -43,7 +44,8 @@ and	CC	_ <O>
 others	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 also	RB	_ <O>
@@ -52,7 +54,8 @@ Muslims	NNPS	_ <O>
 and	CC	_ <O>
 Jews	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 Plovdiv	NNP	_ <O>
 there	EX	_ <O>
@@ -66,4 +69,5 @@ and	CC	_ <O>
 a	DT	_ <O>
 synagogue	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

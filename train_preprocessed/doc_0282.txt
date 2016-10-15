@@ -13,7 +13,8 @@ mid	JJ	_ <O>
 -	HYPH	_ <O>
 July	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 She	PRP	_ <O>
 was	VBD	_ <O>
 among	IN	_ <O>
@@ -61,4 +62,5 @@ negotiations	NNS	_ <O>
 in	IN	_ <O>
 Europe	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

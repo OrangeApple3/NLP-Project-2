@@ -28,7 +28,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 alliance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 People	JJ	_ <O>
 Nation	NNP	_ <O>
@@ -47,7 +48,8 @@ their	PRP$	_ <O>
 gang	NN	_ <O>
 graffiti	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 five	CD	_ <O>
 -	HYPH	_ <O>
@@ -73,7 +75,8 @@ larger	JJR	_ <O>
 street	NN	_ <O>
 gangs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 many	JJ	<B-CUE>
@@ -106,7 +109,8 @@ poppin	NN	_ <O>
 droppin	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Certain	JJ	<B-CUE>
 terms	NNS	<I-CUE>
 are	VBP	_ <O>
@@ -128,4 +132,5 @@ greeting	VBG	_ <O>
 each	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

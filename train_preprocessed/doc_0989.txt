@@ -26,4 +26,5 @@ inflammation	NN	_ <O>
 and	CC	_ <O>
 fever	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -12,7 +12,8 @@ trees	NNS	_ <O>
 on	IN	_ <O>
 stage	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 band	NN	_ <O>
 's	POS	_ <O>
@@ -49,7 +50,8 @@ Line	NNP	_ <O>
 and	CC	_ <O>
 Thursday	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 McCabe	NNP	_ <O>
 was	VBD	_ <O>
 also	RB	_ <O>
@@ -67,4 +69,5 @@ at	IN	_ <O>
 Earth	NNP	_ <O>
 Crisis	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

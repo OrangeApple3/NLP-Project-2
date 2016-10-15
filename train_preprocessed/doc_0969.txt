@@ -62,7 +62,8 @@ to	IN	_ <O>
 his	PRP$	_ <O>
 kingdom	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Alongside	IN	_ <O>
 memories	NNS	_ <O>
 of	IN	_ <O>
@@ -75,7 +76,8 @@ contain	VBP	_ <O>
 mythical	JJ	_ <O>
 elements	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pantun	NNP	_ <O>
 were	VBD	_ <O>
 not	RB	_ <O>
@@ -93,7 +95,8 @@ many	JJ	_ <O>
 case	NN	_ <O>
 blind	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 form	NN	_ <O>
 of	IN	_ <O>
@@ -119,4 +122,5 @@ the	DT	_ <O>
 octosyllabic	JJ	_ <O>
 verse	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

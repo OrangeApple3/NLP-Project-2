@@ -32,7 +32,8 @@ at	IN	_ <O>
 86.99	CD	_ <O>
 %	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Minority	NN	_ <O>
 ethnic	JJ	_ <O>
 groups	NNS	_ <O>
@@ -59,7 +60,8 @@ Poole	NNP	_ <O>
 ’s	NNP	_ <O>
 population	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 largest	JJS	_ <O>
 religion	NN	_ <O>
@@ -83,7 +85,8 @@ of	IN	_ <O>
 71.6	CD	_ <O>
 %	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 next	RB	_ <O>
 -	HYPH	_ <O>
@@ -109,4 +112,5 @@ of	IN	_ <O>
 15.5	CD	_ <O>
 %	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -43,7 +43,8 @@ on	IN	_ <O>
 the	DT	_ <O>
 agenda	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 proposal	NN	_ <O>
 would	MD	_ <O>
@@ -63,4 +64,5 @@ the	DT	_ <O>
 Kildare	NNP	_ <O>
 line	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

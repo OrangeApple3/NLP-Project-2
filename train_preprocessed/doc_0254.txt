@@ -30,11 +30,13 @@ ensure	VB	_ <O>
 efficient	JJ	_ <O>
 travel	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 include	VBP	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 Fare	JJ	_ <O>
 details	NNS	_ <O>
 ,	,	_ <O>
@@ -48,7 +50,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 ticket	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 form	NN	_ <O>
 of	IN	_ <O>
@@ -69,7 +72,8 @@ is	VBZ	_ <O>
 not	RB	_ <O>
 used	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Special	JJ	_ <O>
 Service	NN	_ <O>
@@ -94,7 +98,8 @@ other	JJ	_ <O>
 similar	JJ	_ <O>
 requests	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 SSR	NNP	_ <O>
 messages	NNS	_ <O>
 returned	VBN	_ <O>
@@ -115,7 +120,8 @@ confirmed	VBD	_ <O>
 the	DT	_ <O>
 request	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 more	JJR	_ <O>
 recent	JJ	_ <O>
@@ -140,15 +146,18 @@ criminals	NNS	_ <O>
 or	CC	_ <O>
 terrorists	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 include	VBP	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 Passengers	NNS	_ <O>
 '	POS	_ <O>
 gender	NN	_ <O>
- <O>
+
+NULL
 Passport	NN	_ <O>
 details-	JJ	_ <O>
 nationality	NN	_ <O>
@@ -160,4 +169,5 @@ date	NN	_ <O>
 of	IN	_ <O>
 expiry	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

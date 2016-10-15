@@ -48,7 +48,8 @@ cells	NNS	_ <O>
 and	CC	_ <O>
 fibroblasts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 nodules	NNS	_ <O>
 are	VBP	_ <O>
@@ -91,7 +92,8 @@ al	NNP	_ <O>
 2005	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Anorexia	NNP	_ <O>
 with	IN	_ <O>
 darkening	VBG	_ <O>
@@ -115,7 +117,8 @@ signs	NNS	_ <O>
 often	RB	_ <O>
 observed	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 lesions	NNS	_ <O>
 are	VBP	_ <O>
@@ -126,4 +129,5 @@ the	DT	_ <O>
 acute	JJ	_ <O>
 form	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -13,7 +13,8 @@ embossed	VBN	_ <O>
 on	IN	_ <O>
 insulators	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 few	JJ	_ <O>
 company	NN	_ <O>
@@ -98,11 +99,13 @@ in	IN	_ <O>
 the	DT	_ <O>
 States	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Co.and	VB	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Other	JJ	_ <O>
 manufacturers	NNS	_ <O>
 include	VBP	_ <O>
@@ -137,4 +140,5 @@ and	CC	_ <O>
 many	JJ	_ <O>
 more	JJR	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

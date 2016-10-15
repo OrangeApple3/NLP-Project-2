@@ -26,7 +26,8 @@ at	IN	_ <O>
 80	CD	_ <O>
 km/h	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 it	PRP	_ <O>
 opens	VBZ	_ <O>
@@ -59,4 +60,5 @@ the	DT	_ <O>
 current	JJ	_ <O>
 journey	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -27,7 +27,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 industry	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1999	CD	_ <O>
 he	PRP	_ <O>
@@ -95,7 +96,8 @@ film	NN	_ <O>
 was	VBD	_ <O>
 completed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 few	JJ	_ <O>
 months	NNS	_ <O>
@@ -117,7 +119,8 @@ Faiz	NNP	_ <O>
 Mohammad	NNP	_ <O>
 released	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 standard	NN	_ <O>
 was	VBD	_ <O>
@@ -129,4 +132,5 @@ liked	VBD	_ <O>
 the	DT	_ <O>
 movie	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -34,7 +34,8 @@ Clint	NNP	_ <O>
 Ritchie	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 New	JJ	_ <O>
 town	NN	_ <O>
 sheriff	NN	_ <O>
@@ -57,4 +58,5 @@ escalates	VBZ	_ <O>
 into	IN	_ <O>
 violence	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -23,4 +23,5 @@ the	DT	_ <O>
 industry	NN	_ <O>
 completely	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

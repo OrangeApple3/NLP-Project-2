@@ -29,7 +29,8 @@ Cesare	NNP	_ <O>
 own	JJ	_ <O>
 condottieri	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 goods	NNS	_ <O>
 were	VBD	_ <O>
@@ -68,7 +69,8 @@ seized	VBD	_ <O>
 their	PRP$	_ <O>
 castles	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Thus	RB	_ <O>
 the	DT	_ <O>
 two	CD	_ <O>
@@ -104,7 +106,8 @@ Borgias	NNP	_ <O>
 power	NN	_ <O>
 increased	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Cesare	NNP	_ <O>
 then	RB	_ <O>
 returned	VBD	_ <O>
@@ -162,4 +165,5 @@ who	WP	_ <O>
 surrendered	VBD	_ <O>
 Bracciano	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

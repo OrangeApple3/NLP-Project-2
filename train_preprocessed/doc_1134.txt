@@ -17,7 +17,8 @@ bearing	NN	_ <O>
 for	IN	_ <O>
 start/stop	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 this	DT	_ <O>
 application	NN	_ <O>
@@ -55,4 +56,5 @@ the	DT	_ <O>
 oil	NN	_ <O>
 film	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

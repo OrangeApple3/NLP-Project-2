@@ -27,7 +27,8 @@ of	IN	_ <O>
 foot	NN	_ <O>
 traffic	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 many	JJ	<B-CUE>
@@ -46,7 +47,8 @@ within	IN	_ <O>
 single	JJ	_ <O>
 countries	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 United	NNP	_ <O>
@@ -64,7 +66,8 @@ are	VBP	_ <O>
 usually	RB	_ <O>
 minor	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 several	JJ	<B-CUE>
@@ -81,4 +84,5 @@ their	PRP$	_ <O>
 own	JJ	_ <O>
 name	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

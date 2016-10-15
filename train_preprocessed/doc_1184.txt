@@ -40,7 +40,8 @@ such	PDT	_ <O>
 a	DT	_ <O>
 photograph	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 offence	NN	_ <O>
 (	-LRB-	_ <O>
@@ -69,7 +70,8 @@ Terrorism	NNP	_ <O>
 Act	NNP	_ <O>
 2006	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 such	JJ	_ <O>
 ,	,	_ <O>
@@ -95,7 +97,8 @@ act	NN	_ <O>
 of	IN	_ <O>
 terrorism	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 defence	NN	_ <O>
 may	MD	_ <O>
@@ -139,4 +142,5 @@ is	VBZ	_ <O>
 otherwise	RB	_ <O>
 unlawful	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

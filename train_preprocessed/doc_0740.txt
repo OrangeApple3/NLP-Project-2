@@ -36,7 +36,8 @@ a	DT	_ <O>
 car	NN	_ <O>
 crash	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 And	CC	_ <O>
 we	PRP	_ <O>
 were	VBD	_ <O>
@@ -44,7 +45,8 @@ best	JJS	_ <O>
 of	IN	_ <O>
 friends	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 And	CC	_ <O>
 we	PRP	_ <O>
 hoped	VBD	_ <O>
@@ -52,7 +54,8 @@ for	IN	_ <O>
 the	DT	_ <O>
 best	JJS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 this	DT	_ <O>
 could	MD	_ <O>
@@ -82,4 +85,5 @@ their	PRP$	_ <O>
 entire	JJ	_ <O>
 lives	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

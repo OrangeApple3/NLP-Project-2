@@ -18,7 +18,8 @@ of	IN	_ <O>
 its	PRP$	_ <O>
 location	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 they	PRP	_ <O>
@@ -26,7 +27,8 @@ may	MD	_ <O>
 be	VB	_ <O>
 larger	JJR	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Verandahs	NNP	_ <O>
 ,	,	_ <O>
 for	IN	_ <O>
@@ -51,7 +53,8 @@ of	IN	_ <O>
 a	DT	_ <O>
 structure	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 the	DT	_ <O>
 other	JJ	_ <O>
@@ -76,4 +79,5 @@ at	IN	_ <O>
 in	IN	_ <O>
 length	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

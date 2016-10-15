@@ -96,7 +96,8 @@ of	IN	_ <O>
 Officer	NNP	_ <O>
 Mekruit	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 turn	NN	_ <O>
 ,	,	_ <O>
@@ -166,7 +167,8 @@ articles	NNS	_ <O>
 be	VB	_ <O>
 dismissed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Further	JJ	_ <O>
 revelations	NNS	_ <O>
 about	IN	_ <O>
@@ -249,7 +251,8 @@ and	CC	_ <O>
 city	NN	_ <O>
 council	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 confirmed	VBN	_ <O>
 on	IN	_ <O>
@@ -279,7 +282,8 @@ guilty	JJ	_ <O>
 of	IN	_ <O>
 bribery	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Officer	NNP	_ <O>
 Barta	NNP	_ <O>
 was	VBD	_ <O>
@@ -322,4 +326,5 @@ and	CC	_ <O>
 possession	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

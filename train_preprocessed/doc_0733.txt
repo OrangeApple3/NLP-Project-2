@@ -18,7 +18,8 @@ Kaposi	NNP	_ <O>
 's	POS	_ <O>
 Sarcoma	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 the	DT	_ <O>
 most	RBS	_ <O>
@@ -46,7 +47,8 @@ of	IN	_ <O>
 controlled	VBN	_ <O>
 trials	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 correlation	NN	_ <O>
 might	MD	<B-CUE>
@@ -68,14 +70,16 @@ risk	NN	_ <O>
 sexual	JJ	_ <O>
 behaviours	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Anal	JJ	_ <O>
 sex	NN	_ <O>
 was	VBD	_ <O>
 also	RB	_ <O>
 correlated	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 a	DT	_ <O>
@@ -112,4 +116,5 @@ research	NN	_ <O>
 was	VBD	_ <O>
 necessary	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -14,7 +14,8 @@ common	JJ	_ <O>
 B	NNP	_ <O>
 series	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 So	RB	_ <O>
 ,	,	_ <O>
 B1	NN	_ <O>
@@ -36,7 +37,8 @@ m2	NN	_ <O>
 ?0.5	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 a	DT	_ <O>
 result	NN	_ <O>
@@ -73,7 +75,8 @@ of	IN	_ <O>
 a	DT	_ <O>
 metre	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 less	RBR	_ <O>
 common	JJ	_ <O>
@@ -91,7 +94,8 @@ of	IN	<I-CUE>
 special	JJ	<I-CUE>
 situations	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	_ <O>
 posters	NNS	_ <O>
 use	VBP	_ <O>
@@ -119,4 +123,5 @@ choice	NN	_ <O>
 for	IN	_ <O>
 books	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

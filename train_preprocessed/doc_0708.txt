@@ -15,7 +15,8 @@ number	NN	_ <O>
 of	IN	_ <O>
 victims	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 State	NN	_ <O>
 commission	NN	_ <O>
 was	VBD	_ <O>
@@ -43,7 +44,8 @@ by	IN	_ <O>
 December	NNP	_ <O>
 1993	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Government	NN	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -51,7 +53,8 @@ Republic	NNP	_ <O>
 of	IN	_ <O>
 Lithuania	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Not	RB	_ <O>
 a	DT	_ <O>
 single	JJ	_ <O>
@@ -78,7 +81,8 @@ as	IN	_ <O>
 of	IN	_ <O>
 2001	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 Lithuanian	JJ	_ <O>
 historian	NN	_ <O>
@@ -165,4 +169,5 @@ in	IN	_ <O>
 Lithuania	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

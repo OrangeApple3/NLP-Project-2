@@ -20,7 +20,8 @@ city	NN	_ <O>
 in	IN	_ <O>
 1858	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 15	CD	_ <O>
 years	NNS	_ <O>
@@ -50,4 +51,5 @@ Railroad	NNP	_ <O>
 attracted	VBD	_ <O>
 settlers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

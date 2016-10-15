@@ -11,7 +11,8 @@ companies	NNS	<I-CUE>
 remained	VBD	_ <O>
 active	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 company	NN	_ <O>
 generated	VBD	_ <O>
@@ -39,7 +40,8 @@ to	IN	_ <O>
 other	JJ	_ <O>
 callers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 other	JJ	_ <O>
 competing	VBG	_ <O>
@@ -64,7 +66,8 @@ the	DT	_ <O>
 United	NNP	_ <O>
 States	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 addition	NN	_ <O>
 to	IN	_ <O>
@@ -109,4 +112,5 @@ operates	VBZ	_ <O>
 numbers	NNS	_ <O>
 nationwide	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

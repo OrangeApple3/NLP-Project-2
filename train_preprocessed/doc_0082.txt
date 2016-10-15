@@ -18,7 +18,8 @@ to	IN	_ <O>
 some	DT	_ <O>
 fathers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Despite	IN	_ <O>
 Gardner	NNP	_ <O>
 claiming	VBG	_ <O>
@@ -83,7 +84,8 @@ the	DT	_ <O>
 existence	NN	_ <O>
 of	IN	_ <O>
 PAS.	NNP	_ <O>
- <O>
+
+NULL
 Both	DT	_ <O>
 held	VBD	_ <O>
 PAS	NNP	_ <O>
@@ -117,7 +119,8 @@ an	DT	_ <O>
 appellate	JJ	_ <O>
 court	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Gardner	NNP	_ <O>
 listed	VBD	_ <O>
 fifty	CD	_ <O>
@@ -157,4 +160,5 @@ four	CD	_ <O>
 were	VBD	_ <O>
 problematic	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

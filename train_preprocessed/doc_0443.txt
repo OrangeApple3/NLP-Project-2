@@ -32,7 +32,8 @@ facilitate	VB	_ <O>
 the	DT	_ <O>
 suspension	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Modern	JJ	_ <O>
 furniture	NN	_ <O>
 makers	NNS	_ <O>
@@ -68,7 +69,8 @@ especially	RB	_ <O>
 office	NN	_ <O>
 chairs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 other	JJ	<I-CUE>
 products	NNS	<I-CUE>
@@ -92,7 +94,8 @@ opaque	JJ	_ <O>
 objects	NNS	_ <O>
 translucent	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 From	IN	_ <O>
 approximately	RB	_ <O>
 the	DT	_ <O>
@@ -129,4 +132,5 @@ and	CC	_ <O>
 filter	VB	_ <O>
 light	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

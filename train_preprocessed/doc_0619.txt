@@ -16,7 +16,8 @@ to	IN	_ <O>
 as	IN	_ <O>
 gradualism	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Gradualism	NN	_ <O>
 advocates	NNS	_ <O>
 are	VBP	_ <O>
@@ -53,7 +54,8 @@ low	JJ	_ <O>
 expectations	NNS	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 are	VBP	_ <O>
 unlikely	JJ	<B-CUE>
@@ -69,7 +71,8 @@ or	CC	_ <O>
 bad	JJ	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Rather	RB	_ <O>
 ,	,	_ <O>
 they	PRP	_ <O>
@@ -91,4 +94,5 @@ of	IN	_ <O>
 opportunity	NN	_ <O>
 open	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

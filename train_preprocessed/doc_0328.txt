@@ -23,7 +23,8 @@ the	DT	_ <O>
 Romanceiro	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 consists	VBZ	_ <O>
 of	IN	_ <O>
@@ -66,7 +67,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 peninsula	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 the	DT	_ <O>
 Court	NNP	_ <O>
@@ -99,7 +101,8 @@ the	DT	_ <O>
 Classical	NNP	_ <O>
 Renaissance	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 was	VBD	_ <O>
 then	RB	_ <O>
@@ -146,4 +149,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 peasantry	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

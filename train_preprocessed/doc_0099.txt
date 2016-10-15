@@ -71,7 +71,8 @@ of	IN	_ <O>
 this	DT	_ <O>
 set	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Dirt	NN	_ <O>
 ,	,	_ <O>
 pebbles	NNS	_ <O>
@@ -88,7 +89,8 @@ inside	IN	_ <O>
 the	DT	_ <O>
 wrappers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Later	JJ	_ <O>
 print	NN	_ <O>
 runs	NNS	_ <O>
@@ -126,7 +128,8 @@ to	IN	_ <O>
 other	JJ	_ <O>
 sets	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Collectors	NNS	_ <O>
 are	VBP	_ <O>
 warned	VBN	_ <O>
@@ -149,4 +152,5 @@ from	IN	_ <O>
 the	DT	_ <O>
 factory	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

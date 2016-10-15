@@ -39,7 +39,8 @@ dominated	VBN	_ <O>
 by	IN	_ <O>
 grasses	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 create	VBP	_ <O>
 the	DT	_ <O>
@@ -67,7 +68,8 @@ for	IN	_ <O>
 the	DT	_ <O>
 species	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Up	IN	_ <O>
 to	TO	_ <O>
 90	CD	_ <O>
@@ -101,7 +103,8 @@ system	NN	_ <O>
 to	IN	_ <O>
 another	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Both	DT	_ <O>
 native	JJ	_ <O>
 and	CC	_ <O>
@@ -140,4 +143,5 @@ burrows	NNS	_ <O>
 were	VBD	_ <O>
 abundant	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

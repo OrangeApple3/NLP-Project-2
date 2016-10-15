@@ -58,7 +58,8 @@ Democrática	NNP	_ <O>
 AD	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 coalition	NN	_ <O>
 won	VBD	_ <O>
@@ -85,7 +86,8 @@ the	DT	_ <O>
 250-seat	CD	_ <O>
 assembly	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 PS	NNP	_ <O>
 ,	,	_ <O>
@@ -121,7 +123,8 @@ with	IN	_ <O>
 1976	CD	_ <O>
 results	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 PCP	NNP	_ <O>
 ,	,	_ <O>
@@ -137,4 +140,5 @@ party	NN	_ <O>
 gained	VBD	_ <O>
 slightly	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -28,7 +28,8 @@ endured	VBD	_ <O>
 similar	JJ	_ <O>
 persecutions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Under	IN	_ <O>
 pressure	NN	_ <O>
 ,	,	_ <O>
@@ -38,7 +39,8 @@ converted	VBD	_ <O>
 to	IN	_ <O>
 Islam	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	<B-CUE>
 most	RBS	<I-CUE>
 famous	JJ	<I-CUE>
@@ -71,7 +73,8 @@ at	IN	_ <O>
 's	POS	_ <O>
 court	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 in	IN	_ <O>
@@ -127,4 +130,5 @@ upon	IN	_ <O>
 him	PRP	_ <O>
 !	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

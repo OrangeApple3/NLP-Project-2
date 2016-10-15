@@ -21,7 +21,8 @@ may	MD	_ <O>
 share	VB	_ <O>
 territory	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 chief	JJ	_ <O>
 difference	NN	_ <O>
@@ -62,7 +63,8 @@ ivy	NN	_ <O>
 is	VBZ	_ <O>
 smooth	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -95,7 +97,8 @@ rather	RB	_ <O>
 than	IN	_ <O>
 three	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Blackberries	NNS	_ <O>
 and	CC	_ <O>
 raspberries	NNS	_ <O>
@@ -135,4 +138,5 @@ minty	JJ	_ <O>
 greenish	JJ	_ <O>
 white	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

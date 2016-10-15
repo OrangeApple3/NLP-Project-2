@@ -10,4 +10,5 @@ the	DT	_ <O>
 album	NN	_ <O>
 cover	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

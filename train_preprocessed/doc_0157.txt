@@ -12,7 +12,8 @@ to	IN	_ <O>
 various	JJ	_ <O>
 industries	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Bog	NNP	_ <O>
 iron	NN	_ <O>
 was	VBD	_ <O>
@@ -45,7 +46,8 @@ several	JJ	<B-CUE>
 other	JJ	<I-CUE>
 locations	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Over	IN	_ <O>
 time	NN	_ <O>
 ,	,	_ <O>
@@ -65,7 +67,8 @@ Barrens	NNP	_ <O>
 industrial	JJ	_ <O>
 past	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Ghost	NN	_ <O>
 towns—remnants	NNS	_ <O>
 of	IN	_ <O>
@@ -93,4 +96,5 @@ mid-19th	JJ	_ <O>
 century	NN	_ <O>
 state	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

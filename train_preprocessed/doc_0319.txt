@@ -16,7 +16,8 @@ shop	NN	_ <O>
 and	CC	_ <O>
 restaurant	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 centers	NNS	_ <O>
 are	VBP	_ <O>
@@ -42,7 +43,8 @@ ascend	VB	_ <O>
 the	DT	_ <O>
 mountain	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Automobiles	NNS	_ <O>
 can	MD	_ <O>
 be	VB	_ <O>
@@ -75,7 +77,8 @@ Pass	NNP	_ <O>
 at	IN	_ <O>
 Cascade	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 road	NN	_ <O>
 ,	,	_ <O>
@@ -122,4 +125,5 @@ International	NNP	_ <O>
 Hillclimb	NNP	_ <O>
 race	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

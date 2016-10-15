@@ -21,7 +21,8 @@ Junior	NNP	_ <O>
 or	CC	_ <O>
 Shredder	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Alternately	RB	_ <O>
 ,	,	_ <O>
 users	NNS	_ <O>
@@ -39,7 +40,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 Fritz	NNP	_ <O>
 GUI.	NNP	_ <O>
- <O>
+
+NULL
 New	JJ	_ <O>
 users	NNS	_ <O>
 may	MD	_ <O>
@@ -59,7 +61,8 @@ a	DT	_ <O>
 serial	JJ	_ <O>
 number	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Guests	NNS	_ <O>
 may	MD	_ <O>
 always	RB	_ <O>
@@ -73,7 +76,8 @@ have	VBP	_ <O>
 limited	VBN	_ <O>
 access	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 software	NN	_ <O>
 has	VBZ	_ <O>
@@ -96,7 +100,8 @@ task	NN	_ <O>
 switching	VBG	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -134,4 +139,5 @@ Server	NNP	_ <O>
 FICS	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

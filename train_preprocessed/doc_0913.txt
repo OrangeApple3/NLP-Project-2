@@ -20,7 +20,8 @@ several	JJ	_ <O>
 plant	NN	_ <O>
 communities	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -64,7 +65,8 @@ toward	IN	_ <O>
 Bolinas	NNP	_ <O>
 Lagoon	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 despite	IN	_ <O>
 these	DT	_ <O>
@@ -84,7 +86,8 @@ of	IN	_ <O>
 European	JJ	_ <O>
 settlement	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Coast	NNP	_ <O>
 Miwok	NNP	_ <O>
@@ -120,4 +123,5 @@ bare	JJ	_ <O>
 and	CC	_ <O>
 grassy	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

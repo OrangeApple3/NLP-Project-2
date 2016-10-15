@@ -62,7 +62,8 @@ failing	VBG	_ <O>
 to	TO	_ <O>
 adapt	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 that	DT	_ <O>
 respect	NN	_ <O>
@@ -107,7 +108,8 @@ the	DT	_ <O>
 same	JJ	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -137,7 +139,8 @@ or	CC	_ <O>
 became	VBD	_ <O>
 vacant	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 that	DT	_ <O>
 respect	NN	_ <O>
@@ -206,4 +209,5 @@ type	NN	_ <O>
 trophic	NN	_ <O>
 web	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

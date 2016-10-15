@@ -12,7 +12,8 @@ hawthorn	NN	_ <O>
 and	CC	_ <O>
 crabapple	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 found	VBN	_ <O>
@@ -30,7 +31,8 @@ in	IN	_ <O>
 eastern	JJ	_ <O>
 Canada	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 beetles	NNS	_ <O>
 are	VBP	_ <O>
@@ -51,7 +53,8 @@ damp	VB	_ <O>
 and	CC	_ <O>
 cloudy	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 are	VBP	_ <O>
 often	RB	_ <O>
@@ -61,4 +64,5 @@ heavy	JJ	_ <O>
 leafed	NN	_ <O>
 trees	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

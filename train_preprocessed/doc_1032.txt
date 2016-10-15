@@ -33,4 +33,5 @@ of	IN	_ <O>
 biblical	JJ	_ <O>
 subjects	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

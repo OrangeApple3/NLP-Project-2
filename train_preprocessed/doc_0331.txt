@@ -10,7 +10,8 @@ April	NNP	_ <O>
 ,	,	_ <O>
 1987	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 have	VBP	_ <O>
 two	CD	_ <O>
@@ -20,7 +21,8 @@ Jonathan	NNP	_ <O>
 and	CC	_ <O>
 Alexandra	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Joel	NNP	_ <O>
 ,	,	_ <O>
 son	NN	_ <O>
@@ -36,7 +38,8 @@ of	IN	_ <O>
 six	CD	_ <O>
 children	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 elder	JJR	_ <O>
 siblings	NNS	_ <O>
@@ -61,7 +64,8 @@ full	JJ	_ <O>
 time	NN	_ <O>
 ministry	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Joel	NNP	_ <O>
 's	POS	_ <O>
 half	JJ	_ <O>
@@ -94,7 +98,8 @@ in	IN	_ <O>
 a	DT	_ <O>
 divorce	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Joel	NNP	_ <O>
 's	POS	_ <O>
 father	NN	_ <O>
@@ -125,7 +130,8 @@ Day	NNP	_ <O>
 ,	,	_ <O>
 1959	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Osteen	NNP	_ <O>
 's	POS	_ <O>
 father	NN	_ <O>
@@ -154,7 +160,8 @@ and	CC	_ <O>
 food	NN	_ <O>
 distribution	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 died	VBD	_ <O>
 of	IN	_ <O>
@@ -164,7 +171,8 @@ attack	NN	_ <O>
 in	IN	_ <O>
 1999	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Joel	NNP	_ <O>
 attended	VBD	_ <O>
 Oral	NNP	_ <O>
@@ -176,7 +184,8 @@ but	CC	_ <O>
 dropped	VBD	_ <O>
 out	RP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nonetheless	RB	_ <O>
 ,	,	_ <O>
 just	RB	_ <O>
@@ -207,7 +216,8 @@ in	IN	_ <O>
 Boston	NNP	_ <O>
 Massachusetts	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Joel	NNP	_ <O>
 was	VBD	_ <O>
 recognized	VBN	_ <O>
@@ -247,4 +257,5 @@ best	JJS	_ <O>
 seller	NN	_ <O>
 books	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

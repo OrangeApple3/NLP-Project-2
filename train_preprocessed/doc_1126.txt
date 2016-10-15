@@ -10,7 +10,8 @@ skepticism	NN	_ <O>
 towards	IN	_ <O>
 religion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 British	JJ	_ <O>
 comedy	NN	_ <O>
 in	IN	_ <O>
@@ -41,7 +42,8 @@ of	IN	_ <O>
 Brian	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Religious	JJ	_ <O>
 mockery	NN	_ <O>
 ,	,	_ <O>
@@ -72,4 +74,5 @@ the	DT	_ <O>
 other	JJ	_ <O>
 nations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

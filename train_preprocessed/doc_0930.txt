@@ -12,7 +12,8 @@ tyramine	NN	_ <O>
 containing	VBG	_ <O>
 foods	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 a	DT	_ <O>
 result	NN	_ <O>
@@ -44,7 +45,8 @@ meats	NNS	_ <O>
 among	IN	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Serotonin	NNP	_ <O>
 syndrome	NN	_ <O>
 may	MD	_ <O>
@@ -60,7 +62,8 @@ increase	VBP	_ <O>
 serotonin	NN	_ <O>
 activity	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Several	JJ	_ <O>
 deaths	NNS	_ <O>
 have	VBP	<B-CUE>
@@ -82,4 +85,5 @@ of	IN	_ <O>
 Libby	NNP	_ <O>
 Zion	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

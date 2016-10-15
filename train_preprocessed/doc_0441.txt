@@ -36,7 +36,8 @@ world	NN	_ <O>
 at	IN	_ <O>
 large	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 would	MD	_ <O>
 culminate	VB	_ <O>
@@ -75,7 +76,8 @@ California	NNP	_ <O>
 in	IN	_ <O>
 1929	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 work	NN	_ <O>
 would	MD	_ <O>
@@ -131,7 +133,8 @@ the	DT	_ <O>
 sterilized	VBN	_ <O>
 patients	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Eventually	RB	_ <O>
 the	DT	_ <O>
 Nazis	NNPS	_ <O>
@@ -161,4 +164,5 @@ third	JJ	_ <O>
 in	IN	_ <O>
 California	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

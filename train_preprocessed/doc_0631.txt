@@ -27,7 +27,8 @@ much	RB	_ <O>
 better	JJR	_ <O>
 yields	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Cell	NN	_ <O>
 lines	NNS	_ <O>
 from	IN	_ <O>
@@ -48,7 +49,8 @@ and	CC	_ <O>
 growth	NN	_ <O>
 factors	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 a	DT	<B-CUE>
@@ -61,7 +63,8 @@ for	IN	_ <O>
 proper	JJ	_ <O>
 folding	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Thus	RB	_ <O>
 ,	,	_ <O>
 '	``	_ <O>
@@ -84,4 +87,5 @@ the	DT	_ <O>
 appropriate	JJ	_ <O>
 chaperones	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

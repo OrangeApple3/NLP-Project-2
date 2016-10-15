@@ -28,7 +28,8 @@ in	IN	_ <O>
 some	DT	<B-CUE>
 cases	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 To	TO	_ <O>
 ride	VB	_ <O>
 a	DT	_ <O>
@@ -69,7 +70,8 @@ tele	NN	_ <O>
 táxi	NN	_ <O>
 service	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Tele	NNP	_ <O>
 -	HYPH	_ <O>
 táxi	NNP	_ <O>
@@ -80,7 +82,8 @@ for	IN	_ <O>
 this	DT	_ <O>
 service	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 price	NN	_ <O>
 of	IN	_ <O>
@@ -102,4 +105,5 @@ the	DT	_ <O>
 passenger	NN	_ <O>
 seat	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

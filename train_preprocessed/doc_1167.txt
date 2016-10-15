@@ -43,7 +43,8 @@ as	IN	_ <O>
 resource	NN	_ <O>
 rights	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 groups	NNS	<I-CUE>
 ,	,	_ <O>
@@ -68,7 +69,8 @@ status	NN	_ <O>
 took	VBD	_ <O>
 place	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 some	DT	<B-CUE>
 cases	NNS	<I-CUE>
@@ -88,7 +90,8 @@ being	VBG	_ <O>
 given	VBN	_ <O>
 away	RP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 catastrophic	JJ	_ <O>
 mortalities	NNS	_ <O>
@@ -120,4 +123,5 @@ a	DT	_ <O>
 suitable	JJ	_ <O>
 potlatch	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

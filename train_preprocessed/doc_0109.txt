@@ -26,7 +26,8 @@ Cleisthenes	NNP	_ <O>
 another	DT	_ <O>
 Alcmaeonid	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 Herodotus	NNP	_ <O>
@@ -51,7 +52,8 @@ borne	VBN	_ <O>
 a	DT	_ <O>
 lion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	<B-CUE>
 interpretation	NN	<I-CUE>
 of	IN	<I-CUE>
@@ -91,7 +93,8 @@ of	IN	_ <O>
 contemporary	JJ	_ <O>
 comedians	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 (	-LRB-	_ <O>
 Although	IN	_ <O>
 Plutarch	NNP	_ <O>
@@ -134,4 +137,5 @@ general	JJ	_ <O>
 )	-RRB-	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

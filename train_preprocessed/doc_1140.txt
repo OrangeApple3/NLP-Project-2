@@ -12,7 +12,8 @@ have	VBP	_ <O>
 been	VBN	_ <O>
 reported	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	RB	_ <O>
 early	RB	_ <O>
 as	IN	_ <O>
@@ -37,7 +38,8 @@ hundred	CD	_ <O>
 CFS	NNP	_ <O>
 sufferers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 authors	NNS	_ <O>
 reported	VBD	_ <O>
@@ -74,7 +76,8 @@ among	IN	_ <O>
 leading	VBG	_ <O>
 researchers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	JJS	_ <O>
 strikingly	RB	_ <O>
 ,	,	_ <O>
@@ -133,7 +136,8 @@ response	NN	_ <O>
 at	IN	_ <O>
 all	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 theories	NNS	<I-CUE>
 propose	VB	_ <O>
@@ -161,7 +165,8 @@ in	IN	_ <O>
 cases	NNS	_ <O>
 of	IN	_ <O>
 CFS.	NNP	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 partly	RB	_ <O>
@@ -193,4 +198,5 @@ patients	NNS	_ <O>
 '	POS	_ <O>
 blood	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

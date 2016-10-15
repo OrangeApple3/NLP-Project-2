@@ -51,7 +51,8 @@ and	CC	_ <O>
 Joanna	NNP	_ <O>
 Goeman	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Little	RB	_ <O>
 is	VBZ	_ <O>
 known	VBN	_ <O>
@@ -59,7 +60,8 @@ of	IN	_ <O>
 his	PRP$	_ <O>
 childhood	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 a	DT	_ <O>
 young	JJ	_ <O>
@@ -86,7 +88,8 @@ local	JJ	_ <O>
 parish	NN	_ <O>
 school	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Local	JJ	<B-CUE>
 folk	NN	<I-CUE>
 tales	NNS	<I-CUE>
@@ -112,4 +115,5 @@ mass	NN	_ <O>
 on	IN	_ <O>
 Sunday	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

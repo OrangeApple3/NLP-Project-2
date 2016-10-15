@@ -49,7 +49,8 @@ they	PRP	_ <O>
 needed	VBD	_ <O>
 help	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nick	NNP	_ <O>
 had	VBD	_ <O>
 led	VBN	_ <O>
@@ -76,7 +77,8 @@ on	IN	_ <O>
 their	PRP$	_ <O>
 luck	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nick	NNP	_ <O>
 turned	VBD	_ <O>
 them	PRP	_ <O>
@@ -96,7 +98,8 @@ Beth	NNP	_ <O>
 and	CC	_ <O>
 Phillip	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Bradley	NNP	_ <O>
 saw	VBD	_ <O>
 through	IN	_ <O>
@@ -123,4 +126,5 @@ off	IN	_ <O>
 a	DT	_ <O>
 cliff	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

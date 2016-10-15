@@ -6,7 +6,8 @@ five	CD	_ <O>
 pointed	VBN	_ <O>
 "	''	_ <O>
 star	NN	_ <O>
- <O>
+
+NULL
 Reputedly	RB	_ <O>
 ,	,	_ <O>
 some	DT	<B-CUE>
@@ -40,7 +41,8 @@ non	NN	_ <O>
 sixfold	JJ	_ <O>
 asterisk	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 NB	NN	_ <O>
 '	''	_ <O>
@@ -57,4 +59,5 @@ in	IN	_ <O>
 some	DT	_ <O>
 fonts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

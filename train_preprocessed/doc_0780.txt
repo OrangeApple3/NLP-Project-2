@@ -13,7 +13,8 @@ kilometers	NNS	_ <O>
 from	IN	_ <O>
 here	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Tourist	NN	_ <O>
 folks	NNS	_ <O>
 usually	RB	_ <O>
@@ -26,7 +27,8 @@ enjoy	VB	_ <O>
 some	DT	_ <O>
 leisure	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -42,7 +44,8 @@ predominantly	RB	_ <O>
 spoken	VBN	_ <O>
 language	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 also	RB	_ <O>
@@ -59,4 +62,5 @@ Aldona	NNP	_ <O>
 Assanora	NNP	_ <O>
 ,	,	_ <O>
 Thivim	NNP	_ <O>
- <O>
+
+NULL

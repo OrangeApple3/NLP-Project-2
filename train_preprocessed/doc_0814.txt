@@ -14,7 +14,8 @@ the	DT	_ <O>
 stock	NN	_ <O>
 markets	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 From	IN	_ <O>
 a	DT	_ <O>
@@ -52,7 +53,8 @@ of	IN	_ <O>
 33	CD	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Militant	JJ	_ <O>
 30	CD	_ <O>
 October	NNP	_ <O>
@@ -93,7 +95,8 @@ the	DT	_ <O>
 majority	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Here	RB	_ <O>
 was	VBD	_ <O>
 first	RB	_ <O>
@@ -113,4 +116,5 @@ Grant	NNP	_ <O>
 and	CC	_ <O>
 Taaffe	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

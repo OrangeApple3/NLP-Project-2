@@ -32,7 +32,8 @@ can	MD	_ <O>
 be	VB	_ <O>
 reclaimed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 these	DT	_ <O>
 recycling	NN	_ <O>
@@ -54,7 +55,8 @@ not	RB	_ <O>
 universally	RB	_ <O>
 done	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 earlier	JJR	_ <O>
 times	NNS	_ <O>
@@ -73,7 +75,8 @@ was	VBD	_ <O>
 not	RB	_ <O>
 reclaimed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 author	NN	_ <O>
 was	VBD	_ <O>
@@ -97,4 +100,5 @@ placer	NN	_ <O>
 deposits	NNS	_ <O>
 there	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

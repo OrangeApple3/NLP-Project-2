@@ -27,7 +27,8 @@ more	JJR	_ <O>
 GCSEs	NNS	_ <O>
 at	IN	_ <O>
 A	NN	_ <O>
- <O>
+
+NULL
 to	IN	_ <O>
 C	NNP	_ <O>
 grade	NN	_ <O>
@@ -36,7 +37,8 @@ maths	NNS	_ <O>
 and	CC	_ <O>
 English	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Canford	NNP	_ <O>
 School	NNP	_ <O>
 also	RB	_ <O>
@@ -57,7 +59,8 @@ with	IN	_ <O>
 98	CD	_ <O>
 %	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Poole	NNP	_ <O>
 ’s	NN	_ <O>
 grammar	NN	_ <O>
@@ -73,7 +76,8 @@ A	DT	_ <O>
 level	NN	_ <O>
 results	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Poole	NNP	_ <O>
 Grammar	NNP	_ <O>
 School	NNP	_ <O>
@@ -105,4 +109,5 @@ average	NN	_ <O>
 of	IN	_ <O>
 731.2	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

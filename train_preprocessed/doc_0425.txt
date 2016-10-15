@@ -47,7 +47,8 @@ become	VB	_ <O>
 infected	JJ	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 Peirce	NNP	_ <O>
 the	DT	_ <O>
@@ -72,7 +73,8 @@ to	TO	_ <O>
 test	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Truth	NNP	_ <O>
 is	VBZ	_ <O>
 defined	VBN	_ <O>
@@ -109,7 +111,8 @@ community	NN	_ <O>
 of	IN	_ <O>
 investigators	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hilary	NNP	_ <O>
 Putnam	NNP	_ <O>
 also	RB	_ <O>
@@ -133,4 +136,5 @@ in	IN	_ <O>
 epistemic	JJ	_ <O>
 terms	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

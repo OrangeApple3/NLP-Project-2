@@ -10,7 +10,8 @@ some	DT	<B-CUE>
 autism	NN	<I-CUE>
 societies	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 autistic	JJ	<I-CUE>
 adults	NNS	<I-CUE>
@@ -21,7 +22,8 @@ offensive	JJ	_ <O>
 and	CC	_ <O>
 insulting	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 people	NNS	<I-CUE>
 have	VB	_ <O>
@@ -60,4 +62,5 @@ to	TO	_ <O>
 eliminate	VB	_ <O>
 autism	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

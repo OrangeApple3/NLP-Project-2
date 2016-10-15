@@ -22,7 +22,8 @@ different	JJ	_ <O>
 time	NN	_ <O>
 slots	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 HRM	NNP	_ <O>
 needs	VBZ	_ <O>
 different	JJ	_ <O>
@@ -49,7 +50,8 @@ package	NN	_ <O>
 Product	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 the	DT	_ <O>
 certain	JJ	_ <O>
@@ -72,7 +74,8 @@ may	MD	_ <O>
 be	VB	_ <O>
 conversed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 all	DT	_ <O>
 of	IN	_ <O>
@@ -105,4 +108,5 @@ may	MD	_ <O>
 be	VB	_ <O>
 dissolved	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

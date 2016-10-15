@@ -24,7 +24,8 @@ originated	VBD	_ <O>
 from	IN	_ <O>
 Cornwall	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Tradition	NN	<B-CUE>
 claims	NNS	<B-CUE>
 that	IN	_ <O>
@@ -63,7 +64,8 @@ surface	NN	_ <O>
 to	TO	_ <O>
 eat	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 story	NN	_ <O>
 goes	VBZ	_ <O>
@@ -108,7 +110,8 @@ the	DT	_ <O>
 dirty	JJ	_ <O>
 pastry	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pasties	NNS	_ <O>
 were	VBD	_ <O>
 also	RB	_ <O>
@@ -131,4 +134,5 @@ a	DT	_ <O>
 mining	NN	_ <O>
 region	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

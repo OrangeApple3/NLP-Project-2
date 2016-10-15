@@ -39,7 +39,8 @@ much	JJ	_ <O>
 common	JJ	_ <O>
 ground	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 Carnivals	NNS	_ <O>
@@ -90,7 +91,8 @@ finish	VB	_ <O>
 the	DT	_ <O>
 run	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 as	RB	_ <O>
@@ -113,7 +115,8 @@ announces	VBZ	_ <O>
 the	DT	_ <O>
 float	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Rumba	JJ	_ <O>
 performers	NNS	_ <O>
 don’t	TO	_ <O>
@@ -134,4 +137,5 @@ the	DT	_ <O>
 first	JJ	_ <O>
 place	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

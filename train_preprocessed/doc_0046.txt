@@ -53,7 +53,8 @@ world	NN	_ <O>
 peace	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 order	NN	_ <O>
 to	TO	_ <O>
@@ -73,7 +74,8 @@ of	IN	_ <O>
 future	JJ	_ <O>
 leaders	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Lionel	NNP	_ <O>
 Curtis	NNP	_ <O>
 ,	,	_ <O>
@@ -122,7 +124,8 @@ Relations	NNPS	_ <O>
 in	IN	_ <O>
 1920	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 concept	NN	_ <O>
 was	VBD	_ <O>
@@ -166,7 +169,8 @@ actual	JJ	_ <O>
 phrase	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Another	DT	_ <O>
 important	JJ	_ <O>
 influence	NN	_ <O>
@@ -183,4 +187,5 @@ for	IN	_ <O>
 world	NN	_ <O>
 government	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

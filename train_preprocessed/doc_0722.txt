@@ -24,7 +24,8 @@ Dynasty	NNP	_ <O>
 of	IN	_ <O>
 China	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Indicated	VBN	_ <O>
 by	IN	_ <O>
 records	NNS	_ <O>
@@ -54,7 +55,8 @@ Tuluva	NNP	_ <O>
 king	NN	_ <O>
 Krishnadevaraya	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Deva	NNP	_ <O>
 Raya	NNP	_ <O>
 II	NNP	_ <O>
@@ -85,7 +87,8 @@ Sangama	NNP	_ <O>
 dynasty	NN	_ <O>
 rulers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 quelled	VBD	_ <O>
 rebelling	VBG	_ <O>
@@ -122,7 +125,8 @@ Pegu	NNP	_ <O>
 and	CC	_ <O>
 Tanasserim	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Telugu	NNP	_ <O>
 attained	VBD	_ <O>
 its	PRP$	_ <O>
@@ -136,7 +140,8 @@ peak	NN	_ <O>
 under	IN	_ <O>
 Krishnadevaraya	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Kannada	NNP	_ <O>
 Haridasa	NNP	_ <O>
@@ -156,7 +161,8 @@ across	IN	_ <O>
 South	NNP	_ <O>
 India	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Owing	VBG	_ <O>
 to	IN	_ <O>
 his	PRP$	_ <O>
@@ -175,7 +181,8 @@ Sangita	NNP	_ <O>
 Pitamaha	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 With	IN	_ <O>
 the	DT	_ <O>
 defeat	NN	_ <O>
@@ -218,4 +225,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 empire	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

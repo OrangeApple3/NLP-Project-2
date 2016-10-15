@@ -28,7 +28,8 @@ from	IN	_ <O>
 the	DT	_ <O>
 capital	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 An	DT	_ <O>
 estimated	VBN	_ <O>
 one	CD	_ <O>
@@ -56,7 +57,8 @@ were	VBD	_ <O>
 internally	RB	_ <O>
 displaced	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 third	JJ	_ <O>
@@ -84,7 +86,8 @@ and	CC	_ <O>
 economic	JJ	_ <O>
 reforms	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 death	NN	_ <O>
 ,	,	_ <O>
@@ -103,4 +106,5 @@ in	IN	_ <O>
 interrupted	VBD	_ <O>
 progress	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

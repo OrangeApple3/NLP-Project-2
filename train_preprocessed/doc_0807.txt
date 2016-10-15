@@ -15,7 +15,8 @@ Borough	NNP	_ <O>
 of	IN	_ <O>
 Harrow	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 was	VBD	_ <O>
 founded	VBN	_ <O>
@@ -32,7 +33,8 @@ I	NNP	_ <O>
 of	IN	_ <O>
 England	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 charter	NN	_ <O>
 was	VBD	_ <O>
@@ -49,7 +51,8 @@ to	IN	_ <O>
 local	JJ	_ <O>
 boys	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Lyon	NNP	_ <O>
 was	VBD	_ <O>
 particularly	RB	_ <O>
@@ -61,7 +64,8 @@ single	JJ	_ <O>
 -	HYPH	_ <O>
 sex	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 one	CD	_ <O>
@@ -81,4 +85,5 @@ Schools	NNPS	_ <O>
 Act	NNP	_ <O>
 1868	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

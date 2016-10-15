@@ -35,7 +35,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 1960s	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 provided	VBD	_ <O>
 Charlie	NNP	_ <O>
@@ -56,7 +57,8 @@ from	IN	_ <O>
 to	IN	_ <O>
 1969	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 best	RBS	_ <O>
 -	HYPH	_ <O>
@@ -90,7 +92,8 @@ Great	NNP	_ <O>
 Pumpkin	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 first	RB	_ <O>
 used	VBN	_ <O>
@@ -121,4 +124,5 @@ the	DT	_ <O>
 other	JJ	_ <O>
 kids	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

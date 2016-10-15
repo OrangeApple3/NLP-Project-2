@@ -20,7 +20,8 @@ broadcasts	NNS	_ <O>
 at	IN	_ <O>
 107.5	CD	_ <O>
 FM.	NNS	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 transmitter	NN	_ <O>
 is	VBZ	_ <O>
@@ -57,4 +58,5 @@ frequency	NN	_ <O>
 licensing	NN	_ <O>
 history	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -32,7 +32,8 @@ couch	NN	_ <O>
 or	CC	_ <O>
 chair	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Outside	IN	_ <O>
 the	DT	_ <O>
 USA	NNP	_ <O>
@@ -59,7 +60,8 @@ on	IN	_ <O>
 a	DT	_ <O>
 bed	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 Tudor	NNP	_ <O>
 England	NNP	_ <O>
@@ -81,7 +83,8 @@ should	MD	_ <O>
 use	VB	_ <O>
 one	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Traditional	JJ	_ <O>
 Chinese	JJ	_ <O>
 pillows	NNS	_ <O>
@@ -104,4 +107,5 @@ of	IN	_ <O>
 stuffed	JJ	_ <O>
 fabric	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

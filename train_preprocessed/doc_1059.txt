@@ -61,7 +61,8 @@ functional	JJ	_ <O>
 production	NN	_ <O>
 equipment	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 (	-LRB-	_ <O>
 The	DT	_ <O>
 Association	NNP	_ <O>
@@ -71,7 +72,8 @@ Health	NNP	_ <O>
 and	CC	_ <O>
 Sciences	NNPS	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 reason	NN	_ <O>
 that	DT	_ <O>
@@ -136,7 +138,8 @@ opportunities	NNS	_ <O>
 for	IN	_ <O>
 leaks	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 onshore	JJ	_ <O>
 areas	NNS	_ <O>
@@ -150,7 +153,8 @@ laid	VBN	_ <O>
 above	JJ	_ <O>
 ground	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Even	RB	_ <O>
 Shell	NNP	_ <O>
 admits	VBZ	_ <O>
@@ -174,4 +178,5 @@ then	RB	_ <O>
 prevailing	VBG	_ <O>
 standards	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

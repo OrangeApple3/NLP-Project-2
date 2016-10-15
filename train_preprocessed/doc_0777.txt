@@ -58,7 +58,8 @@ major	JJ	_ <O>
 works	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 Magnol	NNP	_ <O>
 's	POS	_ <O>
@@ -86,7 +87,8 @@ Book	NNP	_ <O>
 of	IN	_ <O>
 Genesis	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nevertheless	RB	_ <O>
 his	PRP$	_ <O>
 work	NN	_ <O>
@@ -108,7 +110,8 @@ tree	NN	_ <O>
 of	IN	_ <O>
 life	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 his	PRP$	_ <O>
 '	``	_ <O>
@@ -151,4 +154,5 @@ compose	VB	_ <O>
 the	DT	_ <O>
 groups	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

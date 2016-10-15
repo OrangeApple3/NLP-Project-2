@@ -4,7 +4,8 @@ gameplay	NN	<I-CUE>
 modes	NNS	_ <O>
 include	VBP	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Speed	NN	_ <O>
 Monkey	NNP	_ <O>
@@ -25,7 +26,8 @@ cars	NNS	_ <O>
 as	IN	_ <O>
 possible	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Hot	JJ	_ <O>
 Pursuit	NNP	_ <O>
@@ -47,7 +49,8 @@ much	RB	_ <O>
 as	IN	_ <O>
 possible	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Hot	JJ	_ <O>
 Rods	NNP	_ <O>
@@ -68,7 +71,8 @@ avoiding	VBG	_ <O>
 other	JJ	_ <O>
 cars	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 The	DT	_ <O>
 Munchies	NNPS	_ <O>
@@ -93,4 +97,5 @@ to	TO	_ <O>
 keep	VB	_ <O>
 racing	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -43,7 +43,8 @@ on	IN	_ <O>
 the	DT	_ <O>
 wall	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Below	IN	_ <O>
 the	DT	_ <O>
 ships	NNS	_ <O>
@@ -73,7 +74,8 @@ the	DT	_ <O>
 River	NNP	_ <O>
 Thames	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Then	RB	_ <O>
 ,	,	_ <O>
 going	VBG	_ <O>
@@ -124,7 +126,8 @@ and	CC	_ <O>
 Skull	NNP	_ <O>
 Rock	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 here	RB	_ <O>
@@ -168,4 +171,5 @@ the	DT	_ <O>
 Darlings	NNPS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

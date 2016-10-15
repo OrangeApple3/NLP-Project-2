@@ -58,7 +58,8 @@ the	DT	_ <O>
 National	NNP	_ <O>
 Guard	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Embassy	NNP	_ <O>
 operative	NN	_ <O>
@@ -92,7 +93,8 @@ under	IN	_ <O>
 tight	JJ	_ <O>
 surveillance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Apart	RB	_ <O>
 from	IN	_ <O>
 the	DT	_ <O>
@@ -146,4 +148,5 @@ any	DT	_ <O>
 results	NNS	_ <O>
 thereof	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

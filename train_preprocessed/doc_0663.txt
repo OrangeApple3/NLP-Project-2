@@ -30,7 +30,8 @@ came	VBD	_ <O>
 to	IN	_ <O>
 Palestine	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pelagius	NNP	_ <O>
 explained	VBD	_ <O>
 to	IN	_ <O>
@@ -53,7 +54,8 @@ created	VBN	_ <O>
 by	IN	_ <O>
 God	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 also	RB	_ <O>
 claimed	VBD	_ <O>
@@ -69,7 +71,8 @@ his	PRP$	_ <O>
 own	JJ	_ <O>
 views	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 also	RB	_ <O>
 showed	VBD	_ <O>
@@ -97,4 +100,5 @@ Pelagius	NNP	_ <O>
 '	POS	_ <O>
 character	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

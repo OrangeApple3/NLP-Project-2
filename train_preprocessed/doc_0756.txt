@@ -47,7 +47,8 @@ this	DT	_ <O>
 one	NN	_ <O>
 is	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 the	DT	_ <O>
 important	JJ	_ <O>
@@ -55,7 +56,8 @@ word	NN	_ <O>
 is	VBZ	_ <O>
 almost	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 however	RB	_ <O>
 cluttered	VBN	_ <O>
@@ -85,7 +87,8 @@ of	IN	_ <O>
 this	DT	_ <O>
 process	NN	_ <O>
 ...	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 may	MD	_ <O>
 be	VB	_ <O>
@@ -107,4 +110,5 @@ its	PRP$	_ <O>
 political	JJ	_ <O>
 context	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

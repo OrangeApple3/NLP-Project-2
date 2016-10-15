@@ -26,7 +26,8 @@ of	IN	_ <O>
 delegation	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Medical	JJ	_ <O>
 directors	NNS	_ <O>
 are	VBP	_ <O>
@@ -44,7 +45,8 @@ the	DT	_ <O>
 paramedic	NN	_ <O>
 service	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Other	JJ	_ <O>
 physicians	NNS	_ <O>
 in	IN	_ <O>
@@ -76,7 +78,8 @@ as	IN	_ <O>
 delegating	VBG	_ <O>
 physicians	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 physicians	NNS	_ <O>
 are	VBP	_ <O>
@@ -84,4 +87,5 @@ usually	RB	_ <O>
 ER	NNP	_ <O>
 physicians	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -32,7 +32,8 @@ that	IN	_ <O>
 of	IN	_ <O>
 timocracy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 following	VBG	_ <O>
 are	VBP	_ <O>
@@ -41,7 +42,8 @@ of	IN	_ <O>
 such	JJ	_ <O>
 problems	NNS	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 the	DT	_ <O>
 very	JJ	_ <O>
 distribution	NN	_ <O>
@@ -78,7 +80,8 @@ but	CC	_ <O>
 incompetent	JJ	_ <O>
 ones	NNS	_ <O>
 ;	.	_ <O>
- <O>
+
+NULL
 an	DT	_ <O>
 oligarchy	NN	_ <O>
 is	VBZ	_ <O>
@@ -109,7 +112,8 @@ very	RB	_ <O>
 poor	JJ	_ <O>
 men	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Thus	RB	_ <O>
 the	DT	_ <O>
 poor	JJ	_ <O>
@@ -138,7 +142,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 state	NN	_ <O>
 ;	:	_ <O>
- <O>
+
+NULL
 an	DT	_ <O>
 oligarchy	NN	_ <O>
 will	MD	_ <O>
@@ -185,7 +190,8 @@ of	IN	_ <O>
 a	DT	_ <O>
 revolution	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 a	DT	_ <O>
 revolution	NN	_ <O>
@@ -225,4 +231,5 @@ between	IN	_ <O>
 one	CD	_ <O>
 another	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

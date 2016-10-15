@@ -6,4 +6,5 @@ Futrell	NNP	_ <O>
 practiced	VBD	_ <O>
 law	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -41,7 +41,8 @@ unequal	JJ	_ <O>
 size	NN	_ <O>
 .	.	_ <O>
 ”	NFP	_ <O>
- <O>
+
+NULL
 Does	VBZ	_ <O>
 this	DT	_ <O>
 correspond	VB	_ <O>
@@ -72,7 +73,8 @@ same	JJ	_ <O>
 land	NN	_ <O>
 rights	NNS	_ <O>
 ?	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 also	RB	_ <O>
 claims	VBZ	_ <O>
@@ -95,7 +97,8 @@ tyrant	NN	_ <O>
 tyrannos	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 discussing	VBG	_ <O>
 the	DT	_ <O>
@@ -113,4 +116,5 @@ contradictions	NNS	<B-CUE>
 are	VBP	<B-CUE>
 observed	VBN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

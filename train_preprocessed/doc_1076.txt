@@ -40,7 +40,8 @@ hundred	CD	_ <O>
 individual	NN	_ <O>
 riders	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	IN	_ <O>
 the	DT	_ <O>
 credit	NN	_ <O>
@@ -65,7 +66,8 @@ first	JJ	_ <O>
 two	CD	_ <O>
 weeks	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Patriots	NNS	_ <O>
 from	IN	_ <O>
 all	RB	_ <O>
@@ -77,7 +79,8 @@ foreign	JJ	<I-CUE>
 countries	NNS	<I-CUE>
 responded	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Emails	NNS	_ <O>
 were	VBD	_ <O>
 pouring	VBG	_ <O>
@@ -93,4 +96,5 @@ the	DT	_ <O>
 newly	RB	_ <O>
 formed	VBN	_ <O>
 PGR.	NNP	_ <O>
- <O>
+
+NULL

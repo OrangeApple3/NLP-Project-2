@@ -31,7 +31,8 @@ of	IN	_ <O>
 paid	VBN	_ <O>
 work	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Greater	JJ	_ <O>
 wealth	NN	_ <O>
 in	IN	_ <O>
@@ -53,7 +54,8 @@ pink	JJ	_ <O>
 collar	NN	_ <O>
 positions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 the	DT	_ <O>
 twentieth	JJ	_ <O>
@@ -89,7 +91,8 @@ women	NNS	_ <O>
 's	POS	_ <O>
 jobs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Not	RB	_ <O>
 only	RB	_ <O>
 this	DT	_ <O>
@@ -118,7 +121,8 @@ for	IN	_ <O>
 most	JJS	_ <O>
 women	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Increasingly	RB	_ <O>
 ,	,	_ <O>
 women	NNS	_ <O>
@@ -143,4 +147,5 @@ pink	JJ	_ <O>
 collar	NN	_ <O>
 jobs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

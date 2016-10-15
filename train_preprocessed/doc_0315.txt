@@ -27,7 +27,8 @@ the	DT	_ <O>
 disorder	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Most	JJS	<B-CUE>
 sociologists	NNS	<I-CUE>
 ,	,	<I-CUE>
@@ -54,7 +55,8 @@ term	NN	_ <O>
 sociopath	NN	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 Those	DT	_ <O>
 who	WP	_ <O>
 believe	VBP	_ <O>
@@ -90,4 +92,5 @@ term	NN	_ <O>
 psychopath	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

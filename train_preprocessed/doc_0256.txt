@@ -15,7 +15,8 @@ on	IN	_ <O>
 first	JJ	_ <O>
 viewing	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 several	JJ	<B-CUE>
 pronunciations	NNS	<I-CUE>
@@ -29,7 +30,8 @@ to	IN	_ <O>
 this	DT	_ <O>
 confusion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 also	RB	<I-CUE>
@@ -47,7 +49,8 @@ its	PRP$	_ <O>
 original	JJ	_ <O>
 name	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Because	IN	_ <O>
 of	IN	_ <O>
 ubiquitous	JJ	_ <O>
@@ -71,4 +74,5 @@ back	RB	_ <O>
 to	IN	_ <O>
 Postgres	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

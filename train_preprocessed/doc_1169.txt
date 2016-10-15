@@ -3,7 +3,8 @@ Primary	NN	_ <O>
 and	CC	_ <O>
 Intermediate	NNP	_ <O>
 Education	NNP	_ <O>
- <O>
+
+NULL
 Bulacan	NNP	_ <O>
 has	VBZ	_ <O>
 a	DT	_ <O>
@@ -41,4 +42,5 @@ Schools	NNP	_ <O>
 of	IN	_ <O>
 Malolos	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

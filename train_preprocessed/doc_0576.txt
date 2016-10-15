@@ -29,4 +29,5 @@ and	CC	_ <O>
 Grandma	NNP	_ <O>
 Duck	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

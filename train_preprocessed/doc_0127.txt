@@ -31,7 +31,8 @@ American	JJ	_ <O>
 style	NN	_ <O>
 hamburger	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Traditional	JJ	_ <O>
 fast	JJ	_ <O>
 food	NN	_ <O>
@@ -62,7 +63,8 @@ proof	JJ	_ <O>
 paper	NN	_ <O>
 bags	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 type	NN	_ <O>
 of	IN	_ <O>
@@ -118,7 +120,8 @@ heat	NN	_ <O>
 from	IN	_ <O>
 chilli	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Spice	NNP	_ <O>
 burgers	NNS	_ <O>
 and	CC	_ <O>
@@ -130,4 +133,5 @@ an	DT	_ <O>
 acquired	JJ	_ <O>
 taste	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

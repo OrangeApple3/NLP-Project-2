@@ -9,4 +9,5 @@ for	IN	_ <O>
 the	DT	_ <O>
 wicket	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

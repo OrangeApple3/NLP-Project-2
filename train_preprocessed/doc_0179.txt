@@ -24,7 +24,8 @@ in	IN	_ <O>
 December	NNP	_ <O>
 1955	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 based	VBN	_ <O>
@@ -41,7 +42,8 @@ by	IN	_ <O>
 Väinö	NNP	_ <O>
 Linna	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 story	NN	_ <O>
 is	VBZ	_ <O>
@@ -65,7 +67,8 @@ ordinary	JJ	_ <O>
 Finnish	JJ	_ <O>
 soldiers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 film	NN	_ <O>
 was	VBD	_ <O>
@@ -97,7 +100,8 @@ it	PRP	_ <O>
 in	IN	_ <O>
 theaters	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Its	PRP$	_ <O>
 portrayal	NN	_ <O>
 of	IN	_ <O>
@@ -110,7 +114,8 @@ accepted	VBN	<I-CUE>
 as	IN	_ <O>
 canonical	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1985	CD	_ <O>
 Rauni	NNP	_ <O>
@@ -123,4 +128,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 film	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

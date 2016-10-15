@@ -40,7 +40,8 @@ benefits	NNS	<I-CUE>
 machines	NNS	_ <O>
 provided	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 New	NNP	_ <O>
 Deal	NNP	_ <O>
@@ -77,7 +78,8 @@ including	VBG	_ <O>
 Presidential	JJ	_ <O>
 appointments	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 1940s	NNS	_ <O>
@@ -98,7 +100,8 @@ the	DT	_ <O>
 Chicago	NNP	_ <O>
 machine	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 local	JJ	_ <O>
 political	JJ	_ <O>
@@ -118,4 +121,5 @@ Battle	NNP	_ <O>
 of	IN	_ <O>
 Athens	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

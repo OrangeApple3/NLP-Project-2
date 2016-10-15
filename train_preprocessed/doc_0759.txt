@@ -35,7 +35,8 @@ Standards	NNPS	_ <O>
 in	IN	_ <O>
 1996	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 this	DT	_ <O>
 publication	NN	_ <O>
@@ -57,7 +58,8 @@ teaching	NN	_ <O>
 and	CC	_ <O>
 assessment	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Other	JJ	<B-CUE>
 educators	NNS	<I-CUE>
 perceive	JJ	_ <O>
@@ -84,7 +86,8 @@ and	CC	_ <O>
 self	NN	_ <O>
 discovery	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Unfortunately	RB	<B-CUE>
 these	DT	_ <O>
 standards	NNS	_ <O>
@@ -99,4 +102,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 literature	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

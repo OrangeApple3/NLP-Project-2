@@ -24,7 +24,8 @@ for	IN	_ <O>
 weight	NN	_ <O>
 control	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Foods	NNS	_ <O>
 high	JJ	_ <O>
 in	IN	_ <O>
@@ -45,4 +46,5 @@ proteins	NNS	_ <O>
 and	CC	_ <O>
 fats	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

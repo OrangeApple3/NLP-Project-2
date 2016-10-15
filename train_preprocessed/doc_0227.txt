@@ -8,7 +8,8 @@ to	IN	_ <O>
 all	DT	_ <O>
 night	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 regulation	NN	_ <O>
 states	VBZ	_ <O>
@@ -24,7 +25,8 @@ of	IN	_ <O>
 emergency	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Most	JJS	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -50,7 +52,8 @@ and	CC	<I-CUE>
 's	POS	<I-CUE>
 hits	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Publications	NNS	_ <O>
 featured	VBD	_ <O>
 in	IN	_ <O>
@@ -72,7 +75,8 @@ industry	NN	_ <O>
 related	VBN	_ <O>
 publications	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Using	VBG	_ <O>
 publicity	NN	_ <O>
 stunts	NNS	_ <O>
@@ -128,7 +132,8 @@ in	IN	_ <O>
 that	DT	_ <O>
 area	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 they	PRP	_ <O>
 finally	RB	_ <O>
@@ -164,7 +169,8 @@ throughout	IN	_ <O>
 the	DT	_ <O>
 area	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 possible	JJ	<I-CUE>
@@ -188,7 +194,8 @@ slightly	RB	_ <O>
 tweaked	VBN	_ <O>
 format	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Lewis	NNP	_ <O>
 FM	NNP	_ <O>
 ,	,	_ <O>
@@ -227,4 +234,5 @@ approximately	RB	_ <O>
 1,200	CD	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -13,7 +13,8 @@ Burgundy	NNP	_ <O>
 in	IN	_ <O>
 1490	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1491	CD	_ <O>
 ,	,	_ <O>
@@ -38,7 +39,8 @@ four	CD	_ <O>
 years	NNS	_ <O>
 previously	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Warbeck	NNP	_ <O>
 was	VBD	_ <O>
 also	RB	_ <O>
@@ -86,7 +88,8 @@ III	NNP	_ <O>
 son	NN	_ <O>
 Maximilian	NNP	_ <O>
 I.	NNP	_ <O>
- <O>
+
+NULL
 Warbeck	NNP	_ <O>
 also	RB	_ <O>
 promised	VBD	_ <O>
@@ -107,4 +110,5 @@ fall	VB	_ <O>
 to	IN	_ <O>
 Maximilian	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

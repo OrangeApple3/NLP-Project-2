@@ -18,7 +18,8 @@ all	DT	_ <O>
 possible	JJ	_ <O>
 directions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 famous	JJ	_ <O>
 yet	RB	_ <O>
@@ -49,7 +50,8 @@ Satschan	NNP	_ <O>
 frozen	JJ	_ <O>
 ponds	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 French	JJ	_ <O>
 artillery	NN	_ <O>
 pounded	VBD	_ <O>
@@ -68,7 +70,8 @@ at	IN	_ <O>
 the	DT	_ <O>
 ice	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 men	NNS	_ <O>
 drowned	VBD	_ <O>
@@ -88,7 +91,8 @@ along	RB	_ <O>
 with	IN	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Estimates	NNS	_ <O>
 on	IN	_ <O>
 how	WRB	_ <O>
@@ -113,7 +117,8 @@ as	IN	_ <O>
 over	IN	_ <O>
 100	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Sources	NNS	_ <O>
 also	RB	_ <O>
 differ	VBP	_ <O>
@@ -135,7 +140,8 @@ as	IN	_ <O>
 2,000	CD	_ <O>
 dead	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Because	IN	_ <O>
 Napoleon	NNP	_ <O>
 exaggerated	VBD	_ <O>
@@ -167,7 +173,8 @@ are	VBP	_ <O>
 fully	RB	_ <O>
 correct	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 regard	VB	_ <O>
 this	DT	_ <O>
@@ -182,4 +189,5 @@ acts	NNS	_ <O>
 in	IN	_ <O>
 war	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

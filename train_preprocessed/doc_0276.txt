@@ -37,7 +37,8 @@ reading	VBG	_ <O>
 in	IN	_ <O>
 school	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	<B-CUE>
 story	NN	<I-CUE>
 also	RB	_ <O>
@@ -55,7 +56,8 @@ lose	VB	_ <O>
 her	PRP$	_ <O>
 job	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hugh	NNP	_ <O>
 Clark	NNP	_ <O>
 denied	VBD	_ <O>
@@ -108,7 +110,8 @@ was	VBD	_ <O>
 not	RB	_ <O>
 read	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Anti	NNP	_ <O>
 -	HYPH	_ <O>
 Catholic	NNP	_ <O>
@@ -139,4 +142,5 @@ against	IN	_ <O>
 the	DT	_ <O>
 Bible	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

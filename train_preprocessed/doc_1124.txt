@@ -52,7 +52,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 test	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 test	NN	_ <O>
 report	NN	_ <O>
@@ -78,7 +79,8 @@ uniformly	RB	_ <O>
 structured	VBN	_ <O>
 listings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 UK	NNP	_ <O>
@@ -124,7 +126,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 manufacturer	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	<B-CUE>
 most	RBS	<I-CUE>
 highly	RB	<I-CUE>
@@ -194,4 +197,5 @@ nuclear	JJ	_ <O>
 power	NN	_ <O>
 plants	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

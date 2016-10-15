@@ -46,7 +46,8 @@ the	DT	_ <O>
 Basque	JJ	_ <O>
 country	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Originating	VBG	_ <O>
 in	IN	_ <O>
 the	DT	_ <O>
@@ -96,7 +97,8 @@ Culture	NNP	_ <O>
 and	CC	_ <O>
 Society	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 are	VBP	_ <O>
 related	VBN	_ <O>
@@ -128,7 +130,8 @@ to	TO	_ <O>
 be	VB	_ <O>
 shared	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 addition	NN	_ <O>
 ,	,	_ <O>
@@ -149,4 +152,5 @@ on	IN	_ <O>
 bread	NN	_ <O>
 slices	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

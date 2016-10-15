@@ -30,7 +30,8 @@ of	IN	_ <O>
 his	PRP$	_ <O>
 life	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	RB	_ <O>
 he	PRP	_ <O>
 attracted	VBD	_ <O>
@@ -39,7 +40,8 @@ number	NN	_ <O>
 of	IN	_ <O>
 students	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Other	JJ	_ <O>
 students	NNS	_ <O>
 included	VBD	_ <O>
@@ -82,7 +84,8 @@ Serapion	NNP	_ <O>
 from	IN	_ <O>
 Alexandria	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 SBL.	NNP	_ <O>
 who	WP	_ <O>
 say	VBP	_ <O>
@@ -119,4 +122,5 @@ philosopher	NN	_ <O>
 Cassius	NNP	_ <O>
 Longinus	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

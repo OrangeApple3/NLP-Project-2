@@ -24,7 +24,8 @@ and	CC	_ <O>
 Goths	NNPS	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 use	NN	_ <O>
 of	IN	_ <O>
@@ -35,4 +36,5 @@ discontinued	VBN	_ <O>
 in	IN	_ <O>
 1972	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

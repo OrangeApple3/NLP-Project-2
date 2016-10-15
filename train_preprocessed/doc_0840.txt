@@ -30,7 +30,8 @@ on	IN	_ <O>
 reasoned	VBN	_ <O>
 argument	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Philosophy	NN	_ <O>
 is	VBZ	_ <O>
@@ -85,7 +86,8 @@ of	IN	_ <O>
 value	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Everyone	NN	_ <O>
 has	VBZ	_ <O>
 some	DT	_ <O>
@@ -108,7 +110,8 @@ place	NN	_ <O>
 in	IN	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Everyone	NN	_ <O>
 has	VBZ	_ <O>
 occasion	NN	_ <O>
@@ -140,7 +143,8 @@ they	PRP	_ <O>
 are	VBP	_ <O>
 doing	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Ethics	NNS	_ <O>
 ,	,	_ <O>
 or	CC	_ <O>
@@ -169,4 +173,5 @@ principles	NNS	_ <O>
 involved	VBN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

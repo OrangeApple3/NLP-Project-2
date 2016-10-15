@@ -33,7 +33,8 @@ Orioles	NNPS	_ <O>
 in	IN	_ <O>
 2007	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 is	VBZ	_ <O>
 currently	RB	_ <O>
@@ -41,4 +42,5 @@ a	DT	_ <O>
 free	JJ	_ <O>
 agent	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

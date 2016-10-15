@@ -29,7 +29,8 @@ of	IN	_ <O>
 William	NNP	_ <O>
 Walsh	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 ferries	NNS	_ <O>
 had	VBD	<B-CUE>
@@ -58,7 +59,8 @@ build	VB	_ <O>
 a	DT	_ <O>
 bridge	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Walsh	NNP	_ <O>
 chose	VBD	_ <O>
 the	DT	_ <O>
@@ -82,4 +84,5 @@ for	IN	_ <O>
 100	CD	_ <O>
 years	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

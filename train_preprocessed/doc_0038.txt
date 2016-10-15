@@ -21,7 +21,8 @@ zygotes	NNS	_ <O>
 called	VBD	_ <O>
 ookinetes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Here	RB	_ <O>
 they	PRP	_ <O>
 divide	VBP	_ <O>
@@ -36,7 +37,8 @@ tiny	JJ	_ <O>
 elongated	JJ	_ <O>
 sporozoites	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 majority	NN	_ <O>
 appear	VBP	_ <O>
@@ -55,7 +57,8 @@ into	IN	_ <O>
 the	DT	_ <O>
 capillaries	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 proportion	NN	_ <O>
 are	VBP	_ <O>
@@ -78,4 +81,5 @@ are	VBP	_ <O>
 presumably	RB	_ <O>
 destroyed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

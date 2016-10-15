@@ -17,7 +17,8 @@ myths	NNS	<I-CUE>
 and	CC	<I-CUE>
 legends	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 parasite	NN	_ <O>
 causes	VBZ	_ <O>
@@ -45,7 +46,8 @@ zombies	NNS	_ <O>
 among	IN	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 superior	JJ	_ <O>
 ability	NN	_ <O>
@@ -59,7 +61,8 @@ times	NNS	_ <O>
 by	IN	_ <O>
 Cal	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 claims	VBZ	_ <O>
 to	TO	_ <O>
@@ -93,4 +96,5 @@ print	NN	_ <O>
 by	IN	_ <O>
 starlight	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

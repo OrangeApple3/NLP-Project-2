@@ -18,7 +18,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 paraspeckle	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 2004	CD	_ <O>
 Dettwiler	NNP	_ <O>
@@ -35,7 +36,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 paraspeckle	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Fox	NNP	_ <O>
 et	NNP	_ <O>
 al	NNP	_ <O>
@@ -58,7 +60,8 @@ paraspeckle	NN	_ <O>
 :	:	_ <O>
 PSF	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 PSF	NNP	_ <O>
 is	VBZ	_ <O>
@@ -92,4 +95,5 @@ pre	NN	_ <O>
 mRNA	NN	_ <O>
 splicing	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

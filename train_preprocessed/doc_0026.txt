@@ -61,7 +61,8 @@ civil	JJ	_ <O>
 law	NN	_ <O>
 notary	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 there	EX	_ <O>
@@ -87,7 +88,8 @@ represented	VBN	_ <O>
 by	IN	_ <O>
 agents	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Moreover	RB	_ <O>
 ,	,	_ <O>
 a	DT	_ <O>
@@ -116,7 +118,8 @@ their	PRP$	_ <O>
 employee	NN	_ <O>
 paralegals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 documents	NNS	<I-CUE>
 may	MD	<B-CUE>
@@ -151,4 +154,5 @@ the	DT	_ <O>
 legal	JJ	_ <O>
 documents	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -11,7 +11,8 @@ the	DT	_ <O>
 legs	NNS	_ <O>
 “	.	_ <O>
 perfect”.	XX	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 reflectiveness	NN	_ <O>
 of	IN	_ <O>
@@ -45,7 +46,8 @@ by	IN	_ <O>
 dramatic	JJ	_ <O>
 lighting	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 accentuates	VBZ	_ <O>
 the	DT	_ <O>
@@ -74,7 +76,8 @@ dark	JJ	_ <O>
 pantyhose	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 often	RB	_ <O>
 have	VBP	_ <O>
@@ -92,7 +95,8 @@ and	CC	_ <O>
 her	PRP$	_ <O>
 partner	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 enhance	VBP	_ <O>
 the	DT	_ <O>
@@ -111,7 +115,8 @@ woman	NN	_ <O>
 ’s	JJ	_ <O>
 clothes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Not	RB	_ <O>
 only	RB	_ <O>
 serving	VBG	_ <O>
@@ -151,7 +156,8 @@ down	RP	_ <O>
 the	DT	_ <O>
 legs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 vulnerability	NN	_ <O>
 is	VBZ	_ <O>
@@ -183,4 +189,5 @@ and	CC	_ <O>
 foot	NN	_ <O>
 fetishists	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

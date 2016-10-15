@@ -29,7 +29,8 @@ some	DT	_ <O>
 people	NNS	_ <O>
 with	IN	_ <O>
 CFS.	NNP	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 statement	NN	_ <O>
 of	IN	_ <O>
@@ -75,7 +76,8 @@ people	NNS	_ <O>
 with	IN	_ <O>
 CFS/ME.	NNP	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 some	DT	_ <O>
 uncertainty	NN	_ <O>
@@ -110,7 +112,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 review	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 review	NN	_ <O>
 also	RB	_ <O>
@@ -150,7 +153,8 @@ or	CC	_ <O>
 poorly	RB	_ <O>
 quantified	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 mentioned	VBN	_ <O>
 in	IN	_ <O>
@@ -186,7 +190,8 @@ affected	VBN	_ <O>
 patients	NNS	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 More	JJR	_ <O>
 research	NN	_ <O>
 is	VBZ	_ <O>
@@ -227,7 +232,8 @@ and	CC	_ <O>
 social	JJ	_ <O>
 services	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 authors	NNS	_ <O>
 also	RB	_ <O>
@@ -290,7 +296,8 @@ of	IN	_ <O>
 these	DT	_ <O>
 studies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 review	NN	_ <O>
 found	VBD	_ <O>
@@ -308,7 +315,8 @@ ability	NN	_ <O>
 to	TO	_ <O>
 work	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 An	DT	_ <O>
 earlier	RBR	_ <O>
 systematic	JJ	_ <O>
@@ -346,7 +354,8 @@ patients	NNS	_ <O>
 employed	VBN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 earlier	JJR	_ <O>
 review	NN	_ <O>
@@ -384,7 +393,8 @@ associated	VBN	_ <O>
 with	IN	_ <O>
 unemployment	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 another	DT	_ <O>
@@ -416,7 +426,8 @@ to	TO	_ <O>
 work	VB	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 "	``	_ <O>
 Gibson	NNP	_ <O>
@@ -444,7 +455,8 @@ with	IN	_ <O>
 CBT	NNP	_ <O>
 and/or	CC	_ <O>
 GET.	NNP	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -482,7 +494,8 @@ potentially	RB	_ <O>
 damaging	JJ	_ <O>
 implications	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Transcript	NNP	_ <O>
 of	IN	_ <O>
 extracts	NNS	_ <O>
@@ -505,7 +518,8 @@ ME	NNP	_ <O>
 February	NNP	_ <O>
 2007	CD	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 "	``	_ <O>
@@ -539,7 +553,8 @@ but	CC	_ <O>
 also	RB	_ <O>
 dangerous/harmful	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 discrepancy	NN	_ <O>
 between	IN	_ <O>
@@ -582,4 +597,5 @@ completion	NN	_ <O>
 in	IN	_ <O>
 2009	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

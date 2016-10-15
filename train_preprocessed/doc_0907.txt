@@ -28,4 +28,5 @@ research	NN	_ <O>
 and	CC	_ <O>
 abortion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

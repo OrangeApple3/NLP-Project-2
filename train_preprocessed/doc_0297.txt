@@ -25,7 +25,8 @@ channels	NNS	_ <O>
 and	CC	_ <O>
 inlets	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 majority	NN	_ <O>
 of	IN	_ <O>
@@ -50,7 +51,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 Harbour	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Green	NNP	_ <O>
 Island	NNP	_ <O>
 ,	,	_ <O>
@@ -87,7 +89,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 south	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 area	NN	_ <O>
 of	IN	_ <O>
@@ -99,4 +102,5 @@ the	DT	_ <O>
 South	NNP	_ <O>
 Deep	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

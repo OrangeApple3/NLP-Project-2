@@ -19,7 +19,8 @@ onto	IN	_ <O>
 solid	JJ	_ <O>
 substrates	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 UV	NN	_ <O>
 lasers	NNS	_ <O>
 stimulate	VBP	_ <O>
@@ -44,7 +45,8 @@ are	VBP	_ <O>
 looking	VBG	_ <O>
 for	IN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -73,7 +75,8 @@ onto	IN	_ <O>
 solid	JJ	_ <O>
 substrates	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Using	VBG	_ <O>
 this	DT	_ <O>
 technique	NN	_ <O>
@@ -97,4 +100,5 @@ UV	NNP	_ <O>
 laser	NN	_ <O>
 light	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

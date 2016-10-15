@@ -22,7 +22,8 @@ major	JJ	_ <O>
 musical	JJ	_ <O>
 influence	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Bush	NNP	_ <O>
 spent	VBD	_ <O>
 two	CD	_ <O>
@@ -61,7 +62,8 @@ of	IN	_ <O>
 his	PRP$	_ <O>
 career	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 subsequently	RB	_ <O>
 moved	VBD	_ <O>
@@ -80,7 +82,8 @@ was	VBD	_ <O>
 based	VBN	_ <O>
 there	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 recent	JJ	_ <O>
 years	NNS	_ <O>
@@ -117,4 +120,5 @@ he	PRP	_ <O>
 lives	VBZ	_ <O>
 today	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

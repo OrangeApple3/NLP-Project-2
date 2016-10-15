@@ -16,7 +16,8 @@ in	IN	_ <O>
 northern	JJ	_ <O>
 latitudes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Period	NN	_ <O>
 of	IN	_ <O>
 pit	NN	_ <O>
@@ -29,7 +30,8 @@ the	DT	_ <O>
 cold	JJ	_ <O>
 season	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 probably	RB	<B-CUE>
@@ -39,7 +41,8 @@ their	PRP$	_ <O>
 thermal	JJ	_ <O>
 efficiency	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 less	JJR	_ <O>
 heat	NN	_ <O>
@@ -64,7 +67,8 @@ inside	IN	_ <O>
 the	DT	_ <O>
 structure	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Out	IN	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -93,7 +97,8 @@ people	NNS	_ <O>
 per	IN	_ <O>
 settlement	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 only	RB	_ <O>
 6	CD	_ <O>
@@ -108,4 +113,5 @@ persons	NNS	_ <O>
 per	IN	_ <O>
 settlement	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

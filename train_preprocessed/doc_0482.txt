@@ -17,7 +17,8 @@ variety	NN	<I-CUE>
 of	IN	<I-CUE>
 etiologies	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	_ <O>
 possible	JJ	<B-CUE>
 cause	NN	_ <O>
@@ -34,7 +35,8 @@ postictal	JJ	_ <O>
 cerebral	JJ	_ <O>
 edema	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 times	NNS	_ <O>
 ,	,	_ <O>
@@ -57,7 +59,8 @@ their	PRP$	_ <O>
 only	JJ	_ <O>
 clue	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Depression	NN	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -67,4 +70,5 @@ after	IN	_ <O>
 a	DT	_ <O>
 seizure	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

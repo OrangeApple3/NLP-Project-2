@@ -23,7 +23,8 @@ East	NNP	_ <O>
 End	NNP	_ <O>
 area	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 name	NN	_ <O>
 Pecan	NNP	_ <O>
@@ -51,7 +52,8 @@ being	VBG	_ <O>
 the	DT	_ <O>
 largest	JJS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 original	JJ	_ <O>
 streets	NNS	_ <O>
@@ -83,7 +85,8 @@ area	NN	_ <O>
 were	VBD	_ <O>
 constructed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 area	NN	_ <O>
 was	VBD	_ <O>
@@ -132,4 +135,5 @@ influenced	VBD	_ <O>
 English	NNP	_ <O>
 Cottages	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

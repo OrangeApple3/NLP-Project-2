@@ -20,7 +20,8 @@ their	PRP$	_ <O>
 respective	JJ	_ <O>
 products	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 also	RB	_ <O>
 promised	VBD	_ <O>
@@ -54,7 +55,8 @@ to	TO	_ <O>
 do	VB	_ <O>
 this	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Leaders	NNS	_ <O>
 from	IN	_ <O>
 both	DT	_ <O>
@@ -77,4 +79,5 @@ better	JJR	<B-CUE>
 virtualization	NN	_ <O>
 techniques	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

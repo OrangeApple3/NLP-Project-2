@@ -49,7 +49,8 @@ headgroups	NNS	_ <O>
 of	IN	_ <O>
 lipids	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 this	DT	_ <O>
 is	VBZ	_ <O>
@@ -91,7 +92,8 @@ the	DT	_ <O>
 correct	JJ	_ <O>
 angle	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Whatever	WDT	_ <O>
 the	DT	_ <O>
 mechanism	NN	_ <O>
@@ -102,7 +104,8 @@ specificity	NN	_ <O>
 is	VBZ	_ <O>
 possible	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Thus	RB	_ <O>
 it	PRP	<B-CUE>
 seems	VBZ	<I-CUE>
@@ -139,4 +142,5 @@ separate	JJ	_ <O>
 signaling	VBG	_ <O>
 pathways	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

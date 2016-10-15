@@ -27,7 +27,8 @@ through	IN	_ <O>
 the	DT	_ <O>
 mediator	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	TO	_ <O>
 enhance	VB	_ <O>
 this	DT	_ <O>
@@ -56,7 +57,8 @@ distance	NN	_ <O>
 from	IN	_ <O>
 both	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 assures	VBZ	_ <O>
 that	IN	_ <O>
@@ -69,7 +71,8 @@ other	JJ	_ <O>
 ,	,	_ <O>
 directly	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Parties	NNS	_ <O>
 often	RB	_ <O>
 must	MD	_ <O>
@@ -109,4 +112,5 @@ or	CC	_ <O>
 the	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -18,7 +18,8 @@ publicized	VBD	_ <O>
 their	PRP$	_ <O>
 correspondence	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 possibility	NN	_ <O>
 ,	,	_ <O>
@@ -57,7 +58,8 @@ Allende	NNP	_ <O>
 inbound	JJ	_ <O>
 mail	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 theory	NN	_ <O>
 is	VBZ	_ <O>
@@ -91,7 +93,8 @@ purview	NN	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
 CIA.	NNP	_ <O>
- <O>
+
+NULL
 More	RBR	_ <O>
 importantly	RB	_ <O>
 ,	,	_ <O>
@@ -118,4 +121,5 @@ by	IN	_ <O>
 the	DT	_ <O>
 government	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -27,7 +27,8 @@ eternal	JJ	_ <O>
 lesson	NN	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 Matthew	NNP	_ <O>
 13	CD	_ <O>
@@ -51,7 +52,8 @@ Kingdom	NNP	_ <O>
 of	IN	_ <O>
 Heaven	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 the	DT	_ <O>
@@ -72,7 +74,8 @@ misunderstood	VBD	_ <O>
 these	DT	_ <O>
 parables	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 fact	NN	_ <O>
 ,	,	_ <O>
@@ -104,4 +107,5 @@ in	IN	_ <O>
 parables	NNS	_ <O>
 ?	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

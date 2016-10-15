@@ -27,7 +27,8 @@ influence	VBP	_ <O>
 their	PRP$	_ <O>
 user	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 present	NN	_ <O>
 ,	,	_ <O>
@@ -75,7 +76,8 @@ are	VBP	_ <O>
 not	RB	_ <O>
 worthy	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 trapped	VBN	_ <O>
 within	IN	_ <O>
@@ -98,7 +100,8 @@ into	IN	_ <O>
 Star	NNP	_ <O>
 Sapphires	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Violet	NN	_ <O>
 rings	NNS	_ <O>
 are	VBP	_ <O>
@@ -142,4 +145,5 @@ greatest	JJS	_ <O>
 love	NN	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL

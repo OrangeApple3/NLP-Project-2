@@ -40,7 +40,8 @@ than	IN	_ <O>
 infinity	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Those	DT	_ <O>
 candidates	NNS	_ <O>
 who	WP	_ <O>
@@ -59,7 +60,8 @@ secretive	JJ	_ <O>
 initiation	NN	_ <O>
 rite	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	TO	_ <O>
 further	RB	_ <O>
 test	VB	_ <O>
@@ -110,7 +112,8 @@ The	DT	_ <O>
 Horrors	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 meeting	NN	_ <O>
 is	VBZ	_ <O>
@@ -136,4 +139,5 @@ weasels	NNS	_ <O>
 and/or	CC	_ <O>
 platypi	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -26,7 +26,8 @@ looking	VBG	_ <O>
 at	IN	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pop	VB	_ <O>
 -	HYPH	_ <O>
 under	NN	_ <O>
@@ -68,7 +69,8 @@ for	IN	_ <O>
 the	DT	_ <O>
 advertisement	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pop	VB	_ <O>
 -	HYPH	_ <O>
 under	NN	_ <O>
@@ -82,7 +84,8 @@ corporation	NN	_ <O>
 in	IN	_ <O>
 1999	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 years	NNS	_ <O>
 of	IN	_ <O>
@@ -123,7 +126,8 @@ June	NNP	_ <O>
 of	IN	_ <O>
 2008	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 the	DT	_ <O>
 pop	NN	_ <O>
@@ -150,4 +154,5 @@ Wall	NNP	_ <O>
 Street	NNP	_ <O>
 Journal	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -37,7 +37,8 @@ Belarus	NNP	_ <O>
 Olympic	NNP	_ <O>
 Committee	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Alexander	NNP	_ <O>
 Medved	NNP	_ <O>
 '	''	_ <O>
@@ -53,4 +54,5 @@ freestyle	NN	_ <O>
 wrestling	NN	_ <O>
 team	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

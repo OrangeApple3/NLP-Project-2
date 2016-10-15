@@ -15,7 +15,8 @@ myth	NN	_ <O>
 of	IN	_ <O>
 Pelops	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 myth	NN	_ <O>
 's	POS	_ <O>
@@ -67,7 +68,8 @@ Ovid	NNP	_ <O>
 's	POS	_ <O>
 Metamorphoses	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	<B-CUE>
 is	VBZ	<I-CUE>
 thought	VBN	<I-CUE>
@@ -96,7 +98,8 @@ rather	RB	_ <O>
 than	IN	_ <O>
 profit	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Likewise	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -122,7 +125,8 @@ on	IN	_ <O>
 their	PRP$	_ <O>
 victims	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 may	MD	<B-CUE>
 be	VB	_ <O>
@@ -156,4 +160,5 @@ underlie	VBP	_ <O>
 both	DT	_ <O>
 legends	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

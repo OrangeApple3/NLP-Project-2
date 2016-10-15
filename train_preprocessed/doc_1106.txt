@@ -20,4 +20,5 @@ inequality	NN	_ <O>
 within	IN	_ <O>
 society	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

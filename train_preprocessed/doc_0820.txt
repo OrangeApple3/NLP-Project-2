@@ -19,7 +19,8 @@ the	DT	_ <O>
 audience	NN	_ <O>
 present	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Once	IN	_ <O>
 they	PRP	_ <O>
 are	VBP	_ <O>
@@ -35,7 +36,8 @@ simultaneously	RB	_ <O>
 as	IN	_ <O>
 possible	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 the	DT	_ <O>
 metronomes	NNS	_ <O>
@@ -64,7 +66,8 @@ clearly	RB	_ <O>
 made	VBN	_ <O>
 out	RP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 piece	NN	_ <O>
 typically	RB	_ <O>
@@ -80,4 +83,5 @@ a	DT	_ <O>
 few	JJ	_ <O>
 beats	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

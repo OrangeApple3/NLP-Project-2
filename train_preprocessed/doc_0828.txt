@@ -20,7 +20,8 @@ Energy	NNP	_ <O>
 DOE	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 popular	JJ	_ <O>
 "	``	_ <O>
@@ -52,7 +53,8 @@ related	JJ	_ <O>
 support	NN	_ <O>
 materials	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 (	-LRB-	_ <O>
 A	DT	_ <O>
 significant	JJ	_ <O>
@@ -80,4 +82,5 @@ Solar	NNP	_ <O>
 Workshop	NNP	_ <O>
 .	.	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL

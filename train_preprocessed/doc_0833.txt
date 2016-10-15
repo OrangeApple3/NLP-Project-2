@@ -21,7 +21,8 @@ Karimov	NNP	_ <O>
 of	IN	_ <O>
 Uzbekistan	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 She	PRP	_ <O>
 serves	VBZ	_ <O>
 as	IN	_ <O>
@@ -63,7 +64,8 @@ large	JJ	_ <O>
 cement	NN	_ <O>
 factory	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 She	PRP	_ <O>
 has	VBZ	_ <O>
 a	DT	_ <O>
@@ -102,4 +104,5 @@ being	VBG	_ <O>
 awarded	VBN	_ <O>
 custody	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

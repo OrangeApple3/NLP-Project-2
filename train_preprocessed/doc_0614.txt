@@ -37,7 +37,8 @@ expression	NN	_ <O>
 is	VBZ	_ <O>
 predominant	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Like	IN	_ <O>
 other	JJ	_ <O>
 types	NNS	_ <O>
@@ -66,7 +67,8 @@ may	MD	_ <O>
 be	VB	_ <O>
 included	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 portrait	NN	_ <O>
 is	VBZ	_ <O>
@@ -87,7 +89,8 @@ a	DT	_ <O>
 still	JJ	_ <O>
 position	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 portrait	NN	_ <O>
 often	RB	_ <O>
@@ -100,4 +103,5 @@ at	IN	_ <O>
 the	DT	_ <O>
 camera	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

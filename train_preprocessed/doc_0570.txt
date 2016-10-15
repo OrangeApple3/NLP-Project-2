@@ -30,7 +30,8 @@ on	IN	_ <O>
 multiple	JJ	_ <O>
 manuals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Such	PDT	_ <O>
 a	DT	_ <O>
 rank	NN	_ <O>
@@ -46,7 +47,8 @@ or	CC	_ <O>
 borrowed	VBN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -66,7 +68,8 @@ a	DT	_ <O>
 ;	:	_ <O>
 Octave	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Because	IN	_ <O>
 the	DT	_ <O>
 8&prime	NN	_ <O>
@@ -111,4 +114,5 @@ to	TO	_ <O>
 be	VB	_ <O>
 added	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

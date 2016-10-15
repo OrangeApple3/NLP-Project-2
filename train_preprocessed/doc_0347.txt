@@ -23,7 +23,8 @@ introduction	NN	_ <O>
 in	IN	_ <O>
 1959	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 some	DT	<B-CUE>
@@ -46,7 +47,8 @@ men	NNS	_ <O>
 legwear	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Being	VBG	_ <O>
 so	RB	_ <O>
 strongly	RB	_ <O>
@@ -75,7 +77,8 @@ men	NNS	_ <O>
 wearing	VBG	_ <O>
 pantyhose	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Now	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -102,4 +105,5 @@ a	DT	_ <O>
 second	JJ	_ <O>
 glance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

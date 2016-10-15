@@ -20,7 +20,8 @@ as	IN	_ <O>
 regional	JJ	_ <O>
 parties	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 regional	JJ	_ <O>
 party	NN	_ <O>
@@ -34,7 +35,8 @@ a	DT	_ <O>
 particular	JJ	_ <O>
 state	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 a	DT	_ <O>
 party	NN	_ <O>
@@ -52,7 +54,8 @@ as	IN	_ <O>
 national	JJ	_ <O>
 parties	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 party	NN	_ <O>
 enjoyed	VBD	_ <O>
@@ -70,4 +73,5 @@ and	CC	_ <O>
 late	JJ	_ <O>
 1980s	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

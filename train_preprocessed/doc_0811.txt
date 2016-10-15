@@ -39,7 +39,8 @@ dictionary	JJ	_ <O>
 attack	NN	_ <O>
 program	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 findable	JJ	_ <O>
 in	IN	_ <O>
@@ -80,7 +81,8 @@ automated	VBN	_ <O>
 dictionary	NN	_ <O>
 attack	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 How	WRB	_ <O>
 many	JJ	_ <O>
 depends	VBZ	_ <O>
@@ -103,7 +105,8 @@ are	VBP	_ <O>
 selected	VBN	_ <O>
 randomly	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 good	JJ	_ <O>
 rule	NN	_ <O>
@@ -139,4 +142,5 @@ to	IN	_ <O>
 the	DT	_ <O>
 words	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

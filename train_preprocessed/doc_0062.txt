@@ -9,7 +9,8 @@ for	IN	_ <O>
 most	JJS	_ <O>
 recipients	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 4	CD	_ <O>
 most	RBS	_ <O>
@@ -35,7 +36,8 @@ too	RB	_ <O>
 big	JJ	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 skilled	JJ	_ <O>
 ,	,	_ <O>
@@ -60,7 +62,8 @@ in	IN	_ <O>
 most	JJS	_ <O>
 cases	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Costly	JJ	_ <O>
 pigment	NN	_ <O>
 lightening	VBG	_ <O>
@@ -73,4 +76,5 @@ the	DT	_ <O>
 only	JJ	_ <O>
 solutions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

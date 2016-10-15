@@ -32,7 +32,8 @@ speak	VB	_ <O>
 with	IN	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Milesians	NNPS	_ <O>
 attack	NN	_ <O>
@@ -49,7 +50,8 @@ of	IN	_ <O>
 their	PRP$	_ <O>
 force	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Loomis	NNP	_ <O>
 further	RB	_ <O>
 suggests	VBZ	_ <O>
@@ -69,7 +71,8 @@ in	IN	_ <O>
 later	RB	_ <O>
 literature	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Sarah	NNP	_ <O>
 Higley	NNP	_ <O>
 suggests	VBZ	_ <O>
@@ -85,4 +88,5 @@ and	CC	_ <O>
 Irish	JJ	_ <O>
 accounts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -19,7 +19,8 @@ Art	NN	_ <O>
 in	IN	_ <O>
 India	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 won	VBD	_ <O>
 the	DT	_ <O>
@@ -35,7 +36,8 @@ the	DT	_ <O>
 same	JJ	_ <O>
 year	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 travelled	VBD	_ <O>
 a	DT	_ <O>
@@ -62,7 +64,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 paintings	NNS	_ <O>
 included	VBD	_ <O>
@@ -97,7 +100,8 @@ and	CC	_ <O>
 the	DT	_ <O>
 Mahabharata	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 paintings	NNS	_ <O>
 have	VBP	_ <O>
@@ -125,7 +129,8 @@ Albert	NNP	_ <O>
 Museum	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Few	JJ	_ <O>
 also	RB	_ <O>
 exist	VBP	_ <O>
@@ -153,7 +158,8 @@ Palace	NNP	_ <O>
 at	IN	_ <O>
 Jaipur	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 paintings	NNS	_ <O>
 are	VBP	_ <O>
@@ -170,4 +176,5 @@ in	IN	_ <O>
 recent	JJ	_ <O>
 years	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

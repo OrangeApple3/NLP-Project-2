@@ -69,7 +69,8 @@ balls	NNS	_ <O>
 '	''	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 in	IN	_ <O>
 cricket	NN	_ <O>
@@ -103,7 +104,8 @@ to	TO	_ <O>
 make	VB	_ <O>
 runs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 the	DT	_ <O>
 batsman	NN	_ <O>
@@ -156,7 +158,8 @@ the	DT	_ <O>
 opposite	JJ	_ <O>
 end	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 sequence	NN	_ <O>
 continues	VBZ	_ <O>
@@ -172,4 +175,5 @@ a	DT	_ <O>
 legal	JJ	_ <O>
 hit	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

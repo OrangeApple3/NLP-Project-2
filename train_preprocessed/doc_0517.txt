@@ -47,7 +47,8 @@ pathway	NN	_ <O>
 to	IN	_ <O>
 citizenship	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 by	IN	_ <O>
 the	DT	_ <O>
@@ -100,7 +101,8 @@ in	IN	_ <O>
 this	DT	_ <O>
 country	NN	_ <O>
 ....	.	_ <O>
- <O>
+
+NULL
 To	TO	_ <O>
 think	VB	_ <O>
 that	IN	_ <O>
@@ -146,7 +148,8 @@ going	VBG	_ <O>
 to	TO	_ <O>
 happen	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 What	WP	_ <O>
 should	MD	_ <O>
 happen	VB	_ <O>
@@ -188,4 +191,5 @@ the	DT	_ <O>
 law	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

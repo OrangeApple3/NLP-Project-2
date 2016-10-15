@@ -59,7 +59,8 @@ new	JJ	_ <O>
 industrial	JJ	_ <O>
 economy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 reform	NN	_ <O>
 was	VBD	_ <O>
@@ -112,4 +113,5 @@ figures	NNS	_ <O>
 including	VBG	_ <O>
 amateurs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

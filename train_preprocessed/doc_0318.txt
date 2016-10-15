@@ -17,14 +17,16 @@ of	IN	_ <O>
 the	DT	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 was	VBD	_ <O>
 making	VBG	_ <O>
 proper	JJ	_ <O>
 changes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 a	DT	_ <O>
 madison	NN	_ <O>
@@ -44,7 +46,8 @@ slowly	RB	_ <O>
 to	TO	_ <O>
 rest	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 demands	VBZ	_ <O>
 not	RB	_ <O>
@@ -100,7 +103,8 @@ better	JJR	_ <O>
 and	CC	_ <O>
 better	RBR	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 others	NNS	_ <O>
 could	MD	_ <O>
@@ -122,4 +126,5 @@ jour	FW	_ <O>
 .	.	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

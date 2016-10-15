@@ -24,7 +24,8 @@ long	RB	<I-CUE>
 held	VBN	<I-CUE>
 practices	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Priestly	RB	_ <O>
 celibacy	NN	_ <O>
 is	VBZ	_ <O>
@@ -48,7 +49,8 @@ might	MD	<B-CUE>
 be	VB	_ <O>
 relaxed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 encyclical	JJ	_ <O>
 Sacerdotalis	NNP	_ <O>
@@ -80,7 +82,8 @@ Roman	NNP	_ <O>
 Catholic	JJ	_ <O>
 priests	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 during	IN	_ <O>
@@ -138,4 +141,5 @@ circumstances	NNS	_ <O>
 grant	VBP	_ <O>
 laicization	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -39,7 +39,8 @@ purchased	VBN	_ <O>
 by	IN	_ <O>
 Italians	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 document	NN	_ <O>
 testifying	VBG	_ <O>
@@ -84,7 +85,8 @@ even	RB	_ <O>
 have	VBP	_ <O>
 met	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 might	MD	<B-CUE>
 account	NN	_ <O>
@@ -131,7 +133,8 @@ Gallery	NNP	_ <O>
 in	IN	_ <O>
 London	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 composition	NN	_ <O>
 of	IN	_ <O>
@@ -177,4 +180,5 @@ an	DT	_ <O>
 Italian	JJ	_ <O>
 client	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

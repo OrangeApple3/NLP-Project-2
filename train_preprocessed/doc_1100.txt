@@ -18,7 +18,8 @@ disadvantages	NNS	_ <O>
 in	IN	_ <O>
 combat	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 most	RBS	_ <O>
 basic	JJ	_ <O>
@@ -37,7 +38,8 @@ and	CC	_ <O>
 military	JJ	_ <O>
 buildings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Warriors	NNS	_ <O>
 are	VBP	_ <O>
 the	DT	_ <O>
@@ -51,7 +53,8 @@ a	DT	_ <O>
 melee	NN	_ <O>
 attack	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Shaman	NNP	_ <O>
 herself	PRP	_ <O>
@@ -68,7 +71,8 @@ indefinitely	RB	_ <O>
 during	IN	_ <O>
 gameplay	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Shamans	NNS	_ <O>
 make	VBP	_ <O>
 up	RP	_ <O>
@@ -91,4 +95,5 @@ or	CC	_ <O>
 defensive	JJ	_ <O>
 situations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

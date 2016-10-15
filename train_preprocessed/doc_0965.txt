@@ -11,7 +11,8 @@ of	IN	<I-CUE>
 his	PRP$	<I-CUE>
 views	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 see	VB	_ <O>
 him	PRP	_ <O>
@@ -45,7 +46,8 @@ to	TO	_ <O>
 counter	VB	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 critics	NNS	<B-CUE>
 point	NN	_ <O>
@@ -70,7 +72,8 @@ through	IN	_ <O>
 his	PRP$	_ <O>
 consultancy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Moore	NNP	_ <O>
 has	VBZ	_ <O>
 earned	VBN	_ <O>
@@ -99,4 +102,5 @@ industry	NN	<I-CUE>
 lobby	NN	<I-CUE>
 groups	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

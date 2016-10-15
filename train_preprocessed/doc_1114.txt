@@ -34,7 +34,8 @@ September	NNP	_ <O>
 2001	CD	_ <O>
 attacks	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 album	NN	_ <O>
 has	VBZ	_ <O>
@@ -46,7 +47,8 @@ most	RBS	<I-CUE>
 popular	JJ	<I-CUE>
 recordings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Peter	NNP	_ <O>
 has	VBZ	_ <O>
 also	RB	_ <O>
@@ -60,7 +62,8 @@ orchestras	NNS	<I-CUE>
 and	CC	<I-CUE>
 choirs	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 New	NNP	_ <O>
 Year	NNP	_ <O>
@@ -85,4 +88,5 @@ event	NN	_ <O>
 broadcast	VBN	_ <O>
 worldwide	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

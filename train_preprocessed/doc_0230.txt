@@ -13,7 +13,8 @@ number	NN	<I-CUE>
 of	IN	<I-CUE>
 factors	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 the	DT	_ <O>
 same	JJ	_ <O>
@@ -48,7 +49,8 @@ the	DT	_ <O>
 12th	JJ	_ <O>
 century	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 the	DT	_ <O>
 noble	JJ	_ <O>
@@ -91,7 +93,8 @@ they	PRP	_ <O>
 read	VBP	_ <O>
 about	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 romanticised	VBD	_ <O>
 "	``	_ <O>
@@ -139,4 +142,5 @@ courtesy	NN	_ <O>
 and	CC	_ <O>
 heraldry	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

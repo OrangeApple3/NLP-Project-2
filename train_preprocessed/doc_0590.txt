@@ -18,7 +18,8 @@ King	NNP	_ <O>
 of	IN	_ <O>
 Rome	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 presumption	NN	_ <O>
 is	VBZ	_ <O>
@@ -44,7 +45,8 @@ or	CC	_ <O>
 another	DT	_ <O>
 artist	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 bust	NN	_ <O>
 can	MD	_ <O>
@@ -86,7 +88,8 @@ sitter	NN	_ <O>
 's	POS	_ <O>
 ear	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 may	MD	_ <O>
 always	RB	_ <O>
@@ -109,7 +112,8 @@ transparent	JJ	_ <O>
 with	IN	_ <O>
 age	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Strictly	RB	_ <O>
 speaking	VBG	_ <O>
 ,	,	_ <O>
@@ -140,4 +144,5 @@ made	VBN	_ <O>
 the	DT	_ <O>
 change	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

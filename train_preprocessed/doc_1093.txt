@@ -8,7 +8,8 @@ Dunkirk	NNP	_ <O>
 New	NNP	_ <O>
 York	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1891	CD	_ <O>
 ,	,	_ <O>
@@ -18,4 +19,5 @@ from	IN	_ <O>
 Hamilton	NNP	_ <O>
 College	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

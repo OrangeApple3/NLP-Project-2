@@ -33,7 +33,8 @@ Sunao	NNP	_ <O>
 's	POS	_ <O>
 name	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Potemayo	NNP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -63,7 +64,8 @@ thinking	VBG	_ <O>
 about	IN	_ <O>
 Sunao	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 small	JJ	_ <O>
 chick	NN	_ <O>
@@ -79,7 +81,8 @@ on	IN	_ <O>
 her	PRP$	_ <O>
 head	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 running	VBG	_ <O>
 gag	NN	_ <O>
@@ -105,4 +108,5 @@ it	PRP	_ <O>
 a	DT	_ <O>
 cannibal	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -36,7 +36,8 @@ and	CC	_ <O>
 paramilitary	JJ	_ <O>
 forces	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Those	DT	_ <O>
 in	IN	_ <O>
 Gujarat	NNP	_ <O>
@@ -62,7 +63,8 @@ most	JJS	_ <O>
 are	VBP	_ <O>
 agrarian	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Maharashtrian	JJ	_ <O>
 and	CC	_ <O>
 Sindhi	NNP	_ <O>
@@ -89,7 +91,8 @@ their	PRP$	_ <O>
 home	NN	_ <O>
 state	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 may	MD	_ <O>
 be	VB	_ <O>
@@ -130,4 +133,5 @@ Urdu	NNP	_ <O>
 speaking	VBG	_ <O>
 Paramaras	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

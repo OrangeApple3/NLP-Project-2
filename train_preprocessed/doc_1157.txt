@@ -24,7 +24,8 @@ free	JJ	<I-CUE>
 standing	NN	<I-CUE>
 stores	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Purchased	VBN	_ <O>
 by	IN	_ <O>
 O'Reilly	NNP	_ <O>
@@ -58,7 +59,8 @@ O'Reilly	NNP	_ <O>
 Auto	NNP	_ <O>
 Parts	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Alaska	NNP	_ <O>
 stores	NNS	_ <O>
 kept	VBD	_ <O>
@@ -67,7 +69,8 @@ a	DT	_ <O>
 few	JJ	_ <O>
 years	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Sold	VBN	_ <O>
 to	IN	_ <O>
 their	PRP$	_ <O>
@@ -86,4 +89,5 @@ other	JJ	<B-CUE>
 major	JJ	<I-CUE>
 retailers	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

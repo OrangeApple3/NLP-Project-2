@@ -12,7 +12,8 @@ lithium	NN	_ <O>
 based	VBN	_ <O>
 batteries	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Production	NN	_ <O>
 of	IN	_ <O>
 these	DT	_ <O>
@@ -43,7 +44,8 @@ to	TO	_ <O>
 wear	VB	_ <O>
 out	RP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 people	NNS	<I-CUE>
 will	MD	_ <O>
@@ -92,7 +94,8 @@ down	RP	_ <O>
 the	DT	_ <O>
 limit	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 battery	NN	_ <O>
 packs	NNS	_ <O>
@@ -118,4 +121,5 @@ for	IN	_ <O>
 most	JJS	_ <O>
 consumers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

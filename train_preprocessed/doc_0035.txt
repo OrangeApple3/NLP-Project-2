@@ -15,7 +15,8 @@ be	VB	<I-CUE>
 reasonably	RB	<I-CUE>
 expected	VBN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 An	DT	_ <O>
 expert	NN	_ <O>
 NaturallySpeaking	VBG	_ <O>
@@ -29,4 +30,5 @@ expect	VB	_ <O>
 recognition	NN	_ <O>
 accuracy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

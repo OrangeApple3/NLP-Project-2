@@ -25,7 +25,8 @@ multiplication	NN	_ <O>
 of	IN	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Treating	VBG	_ <O>
 only	RB	_ <O>
 the	DT	_ <O>
@@ -49,7 +50,8 @@ dies	VBZ	_ <O>
 often	RB	_ <O>
 horribly	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 operation	NN	_ <O>
 will	MD	_ <O>
@@ -61,11 +63,13 @@ and	CC	<I-CUE>
 heartless	JJ	<I-CUE>
 decisions	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 pain	NN	_ <O>
 may	MD	_ <O>
 be	VB	_ <O>
 intense	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

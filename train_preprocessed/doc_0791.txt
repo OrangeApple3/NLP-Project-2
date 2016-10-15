@@ -23,7 +23,8 @@ creams	NNS	_ <O>
 and	CC	_ <O>
 sunscreen	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -63,7 +64,8 @@ copper	NN	_ <O>
 and	CC	_ <O>
 lead	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -106,7 +108,8 @@ in	IN	_ <O>
 organic	JJ	_ <O>
 synthesis	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 used	VBN	_ <O>
@@ -119,4 +122,5 @@ aquaculture	NN	_ <O>
 of	IN	_ <O>
 some	DT	_ <O>
 fishH.	$	_ <O>
- <O>
+
+NULL

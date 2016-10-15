@@ -17,7 +17,8 @@ East	NNP	_ <O>
 and	CC	_ <O>
 Europe	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 work	NN	_ <O>
 was	VBD	_ <O>
@@ -39,7 +40,8 @@ their	PRP$	_ <O>
 subsequent	JJ	_ <O>
 writings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 results	NNS	_ <O>
 thus	RB	_ <O>
@@ -67,7 +69,8 @@ until	IN	_ <O>
 much	RB	_ <O>
 later	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Mughal	NNP	_ <O>
 emperor	NN	_ <O>
@@ -85,4 +88,5 @@ Lilvati	NNP	_ <O>
 in	IN	_ <O>
 1587	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

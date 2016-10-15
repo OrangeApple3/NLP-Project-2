@@ -33,7 +33,8 @@ small	JJ	_ <O>
 diameter	NN	_ <O>
 needle	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Recurrence	NN	_ <O>
 rates	NNS	_ <O>
 may	MD	_ <O>
@@ -47,7 +48,8 @@ under	IN	_ <O>
 ultrasound	NN	_ <O>
 guidance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Repeated	VBN	_ <O>
 steroid	NN	_ <O>
 injections	NNS	_ <O>
@@ -60,7 +62,8 @@ the	DT	_ <O>
 plantar	NN	_ <O>
 fascia	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 this	DT	_ <O>
 may	MD	_ <O>
@@ -77,4 +80,5 @@ long	JJ	_ <O>
 term	NN	_ <O>
 consequences	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

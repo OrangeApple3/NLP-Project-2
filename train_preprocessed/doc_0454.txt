@@ -21,7 +21,8 @@ Doris	NNP	_ <O>
 Day	NNP	_ <O>
 Show	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Her	PRP$	_ <O>
 first	JJ	_ <O>
 movie	NN	_ <O>
@@ -47,7 +48,8 @@ several	JJ	_ <O>
 Disney	NNP	_ <O>
 productions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Foster	NNP	_ <O>
 did	VBD	_ <O>
 not	RB	_ <O>
@@ -88,7 +90,8 @@ Best	NNP	_ <O>
 Supporting	NNP	_ <O>
 Actress	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 She	PRP	_ <O>
 won	VBD	_ <O>
 an	DT	_ <O>
@@ -109,7 +112,8 @@ The	NNP	_ <O>
 Accused	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1991	CD	_ <O>
 ,	,	_ <O>
@@ -141,7 +145,8 @@ a	DT	_ <O>
 serial	JJ	_ <O>
 killer	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 performance	NN	_ <O>
 received	VBD	_ <O>
@@ -154,7 +159,8 @@ for	IN	_ <O>
 Best	NNP	_ <O>
 Actress	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Her	PRP$	_ <O>
 films	NNS	_ <O>
 and	CC	_ <O>
@@ -184,4 +190,5 @@ and	CC	_ <O>
 science	NN	_ <O>
 fiction	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

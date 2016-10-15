@@ -11,7 +11,8 @@ finding	VBG	_ <O>
 common	JJ	_ <O>
 ground	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 tragedy	NN	_ <O>
 is	VBZ	_ <O>
@@ -40,7 +41,8 @@ their	PRP$	_ <O>
 implementation	NN	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 a	DT	_ <O>
 new	JJ	_ <O>
@@ -57,7 +59,8 @@ not	RB	_ <O>
 be	VB	_ <O>
 sustainable	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 long	JJ	_ <O>
@@ -71,4 +74,5 @@ people	NNS	_ <O>
 will	MD	_ <O>
 prevail	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

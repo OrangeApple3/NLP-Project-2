@@ -15,7 +15,8 @@ number	NN	_ <O>
 of	IN	_ <O>
 islands	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	<B-CUE>
 few	JJ	<I-CUE>
 species	NNS	<I-CUE>
@@ -28,7 +29,8 @@ majority	NN	_ <O>
 are	VBP	_ <O>
 resident	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 most	RBS	_ <O>
 telling	JJ	_ <O>
@@ -48,7 +50,8 @@ of	IN	_ <O>
 many	JJ	<B-CUE>
 species	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 species	NNS	_ <O>
 also	RB	_ <O>
@@ -95,4 +98,5 @@ Africa	NNP	_ <O>
 Atlantic	NNP	_ <O>
 coast	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

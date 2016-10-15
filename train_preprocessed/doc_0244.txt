@@ -23,7 +23,8 @@ good	JJ	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Unlike	IN	_ <O>
 the	DT	_ <O>
 traditional	JJ	_ <O>
@@ -94,7 +95,8 @@ so	RB	_ <O>
 released	VBN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 some	DT	_ <O>
 cases	NNS	_ <O>
@@ -115,7 +117,8 @@ one	CD	_ <O>
 -	HYPH	_ <O>
 third	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 usually	RB	_ <O>
@@ -140,4 +143,5 @@ be	VB	_ <O>
 moved	VBN	_ <O>
 up	RP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

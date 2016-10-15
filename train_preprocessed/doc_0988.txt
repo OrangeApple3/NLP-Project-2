@@ -13,7 +13,8 @@ of	IN	_ <O>
 signalling	VBG	_ <O>
 networks	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 cells	NNS	_ <O>
 are	VBP	_ <O>
@@ -32,7 +33,8 @@ analysis	NN	_ <O>
 by	IN	_ <O>
 tandem	NN	_ <O>
 MS.	NNP	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 allows	VBZ	_ <O>
 experimenters	NNS	_ <O>
@@ -50,7 +52,8 @@ cell	NN	_ <O>
 over	IN	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 ability	NN	_ <O>
 to	TO	_ <O>
@@ -82,7 +85,8 @@ signalling	VBG	_ <O>
 network	NN	_ <O>
 behavior	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Phosphoproteomics	NNS	_ <O>
 :	:	_ <O>
 new	JJ	_ <O>
@@ -91,4 +95,5 @@ into	IN	_ <O>
 cellular	JJ	_ <O>
 signalling	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

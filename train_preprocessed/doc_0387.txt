@@ -20,7 +20,8 @@ country	NN	_ <O>
 to	IN	_ <O>
 another	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -39,7 +40,8 @@ a	DT	_ <O>
 BSc(Chemistry	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 some	DT	_ <O>
@@ -47,7 +49,8 @@ exceptions	NNS	_ <O>
 to	IN	_ <O>
 this	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 a	DT	_ <O>
 professional	JJ	_ <O>
@@ -83,4 +86,5 @@ of	IN	_ <O>
 Business	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

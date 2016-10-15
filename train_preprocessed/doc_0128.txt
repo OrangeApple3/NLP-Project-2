@@ -18,7 +18,8 @@ water	NN	_ <O>
 while	IN	_ <O>
 eating	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Certain	JJ	_ <O>
 patients	NNS	_ <O>
 suffering	VBG	_ <O>
@@ -40,7 +41,8 @@ water	NN	_ <O>
 while	IN	_ <O>
 eating	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 these	DT	_ <O>
 rages	NNS	_ <O>
@@ -73,7 +75,8 @@ their	PRP$	_ <O>
 other	JJ	_ <O>
 hand	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 and	CC	_ <O>
 other	JJ	<B-CUE>
@@ -82,4 +85,5 @@ have	VBP	<B-CUE>
 been	VBN	<I-CUE>
 observed	VBN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

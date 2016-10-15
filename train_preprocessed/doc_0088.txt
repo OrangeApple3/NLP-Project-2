@@ -19,7 +19,8 @@ during	IN	_ <O>
 his	PRP$	_ <O>
 pontificate	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 was	VBD	_ <O>
 fluent	JJ	_ <O>
@@ -54,7 +55,8 @@ Greek	NNP	_ <O>
 and	CC	_ <O>
 Latin	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 part	NN	_ <O>
 of	IN	_ <O>
@@ -92,7 +94,8 @@ five	CD	_ <O>
 centuries	NNS	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 Whether	IN	<B-CUE>
 John	NNP	_ <O>
 Paul	NNP	_ <O>
@@ -127,4 +130,5 @@ or	CC	_ <O>
 inaccurate	JJ	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL

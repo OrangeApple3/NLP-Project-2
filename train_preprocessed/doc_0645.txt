@@ -14,7 +14,8 @@ Dunaway	NNP	_ <O>
 's	POS	_ <O>
 legs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 glamour	NN	_ <O>
 shot	NN	_ <O>
@@ -48,7 +49,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 movie	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 film	NN	_ <O>
 inspired	VBD	_ <O>
@@ -73,7 +75,8 @@ O	NNP	_ <O>
 -	HYPH	_ <O>
 Nine	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Charles	NNP	_ <O>
 Bukowski	NNP	_ <O>
 later	RB	_ <O>
@@ -88,7 +91,8 @@ the	DT	_ <O>
 book	NN	_ <O>
 Hollywood	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 punk	NN	_ <O>
 rock	NN	_ <O>
@@ -110,7 +114,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 movie	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 An	DT	_ <O>
 episode	NN	_ <O>
 of	IN	_ <O>
@@ -143,7 +148,8 @@ Barf	NNP	_ <O>
 ly	NNP	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Now	RB	_ <O>
 out	IN	_ <O>
 of	IN	_ <O>
@@ -162,4 +168,5 @@ re	IN	_ <O>
 -	HYPH	_ <O>
 released	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

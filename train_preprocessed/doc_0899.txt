@@ -39,7 +39,8 @@ own	JJ	_ <O>
 tail	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 produces	VBZ	_ <O>
 highly	RB	_ <O>
@@ -86,7 +87,8 @@ the	DT	_ <O>
 anticipated	JJ	_ <O>
 dynamics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -123,7 +125,8 @@ random	JJ	_ <O>
 coil	NN	_ <O>
 conformation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 common	JJ	_ <O>
 recommendation	NN	_ <O>
@@ -150,4 +153,5 @@ in	IN	_ <O>
 every	DT	_ <O>
 dimension	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

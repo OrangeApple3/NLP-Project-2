@@ -20,7 +20,8 @@ graduate	NN	_ <O>
 -	HYPH	_ <O>
 entry	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 former	JJ	_ <O>
 commonly	RB	_ <O>
@@ -38,7 +39,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 Commonwealth	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Entrants	NNS	_ <O>
 to	TO	_ <O>
 graduate	VB	_ <O>
@@ -80,7 +82,8 @@ always	RB	_ <O>
 in	IN	_ <O>
 sciences	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 degree	NN	_ <O>
 qualifies	VBZ	_ <O>
@@ -119,4 +122,5 @@ conditional	JJ	_ <O>
 registration	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

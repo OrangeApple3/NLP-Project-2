@@ -50,7 +50,8 @@ in	IN	_ <O>
 northern	JJ	_ <O>
 Indiana	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 order	NN	_ <O>
 to	TO	_ <O>
@@ -92,7 +93,8 @@ any	DT	_ <O>
 dramatic	JJ	_ <O>
 changes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Despite	IN	_ <O>
 published	VBN	_ <O>
 claims	NNS	_ <O>
@@ -171,7 +173,8 @@ timely	JJ	_ <O>
 local	JJ	_ <O>
 news	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 remaining	VBG	_ <O>
 '	``	_ <O>
@@ -210,4 +213,5 @@ and	CC	_ <O>
 production	NN	_ <O>
 changes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

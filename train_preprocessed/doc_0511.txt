@@ -10,7 +10,8 @@ AVG	NNP	_ <O>
 victory	NN	_ <O>
 claims	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Boyington	NNP	_ <O>
 also	RB	_ <O>
 felt	VBD	_ <O>
@@ -30,7 +31,8 @@ Mai	NNP	_ <O>
 ,	,	_ <O>
 Thailand	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Six	CD	_ <O>
 pilots	NNS	_ <O>
 were	VBD	_ <O>
@@ -58,7 +60,8 @@ for	IN	_ <O>
 the	DT	_ <O>
 raid	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Boyington	NNP	_ <O>
 apparently	RB	_ <O>
 decided	VBD	_ <O>
@@ -104,4 +107,5 @@ in	IN	_ <O>
 the	DT	_ <O>
 raid	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

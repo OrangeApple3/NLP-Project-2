@@ -22,7 +22,8 @@ he	PRP	_ <O>
 also	RB	_ <O>
 produced	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Clarke	NNP	_ <O>
 also	RB	_ <O>
 produced	VBD	_ <O>
@@ -49,4 +50,5 @@ Romance	NNP	_ <O>
 in	IN	_ <O>
 2006	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

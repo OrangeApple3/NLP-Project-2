@@ -32,7 +32,8 @@ in	IN	_ <O>
 a	DT	_ <O>
 joint	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 People	NNS	_ <O>
 who	WP	_ <O>
 use	VBP	_ <O>
@@ -74,7 +75,8 @@ the	DT	_ <O>
 cannabis	JJ	_ <O>
 high	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 smokers	NNS	<I-CUE>
 also	RB	_ <O>
@@ -91,7 +93,8 @@ addicted	JJ	_ <O>
 to	IN	_ <O>
 tobacco	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 believe	VB	_ <O>
 that	IN	_ <O>
@@ -110,4 +113,5 @@ other	JJ	_ <O>
 unhealthy	JJ	_ <O>
 substances	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

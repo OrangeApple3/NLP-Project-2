@@ -37,7 +37,8 @@ trip	NN	_ <O>
 -	HYPH	_ <O>
 hop	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Phunk	NNP	_ <O>
 Junkeez	NNP	_ <O>
 concerts	NNS	_ <O>
@@ -57,7 +58,8 @@ band	NN	_ <O>
 in	IN	_ <O>
 jail	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 band	NN	_ <O>
 grew	VBD	_ <O>
@@ -96,7 +98,8 @@ of	IN	<I-CUE>
 these	DT	<I-CUE>
 venues	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 while	IN	_ <O>
 Roachclip	NNP	_ <O>
@@ -143,4 +146,5 @@ Phoenix	NNP	_ <O>
 New	NNP	_ <O>
 Times	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

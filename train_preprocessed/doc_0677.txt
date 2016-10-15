@@ -12,7 +12,8 @@ Jean	NNP	_ <O>
 Baptiste	NNP	_ <O>
 Thiérrée	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 started	VBD	_ <O>
 as	IN	_ <O>
@@ -54,4 +55,5 @@ Cirque	NNP	_ <O>
 du	NNP	_ <O>
 Soleil	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

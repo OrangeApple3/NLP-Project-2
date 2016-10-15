@@ -29,7 +29,8 @@ printer	NN	_ <O>
 and	CC	_ <O>
 author	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 is	VBZ	_ <O>
 best	RBS	<B-CUE>
@@ -74,7 +75,8 @@ hatchet	NN	_ <O>
 "	''	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 The	DT	_ <O>
 Life	NN	_ <O>
@@ -92,7 +94,8 @@ contained	VBD	_ <O>
 the	DT	_ <O>
 story	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Creating	VBG	_ <O>
 a	DT	_ <O>
 moral	JJ	_ <O>
@@ -113,4 +116,5 @@ in	IN	_ <O>
 century	NN	_ <O>
 biographies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

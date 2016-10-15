@@ -38,7 +38,8 @@ during	IN	_ <O>
 the	DT	_ <O>
 day	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 end	NN	_ <O>
@@ -57,7 +58,8 @@ sounded	VBD	_ <O>
 best	JJS	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 brief	JJ	_ <O>
 two	CD	_ <O>
@@ -100,7 +102,8 @@ around	RP	_ <O>
 with	IN	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 the	DT	_ <O>
 album	NN	_ <O>
@@ -126,4 +129,5 @@ parts	NNS	_ <O>
 were	VBD	_ <O>
 recorded	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

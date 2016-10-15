@@ -5,7 +5,8 @@ well	NN	_ <O>
 in	IN	_ <O>
 Canada	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Canada	NNP	_ <O>
 has	VBZ	_ <O>
 the	DT	_ <O>
@@ -17,7 +18,8 @@ proven	VBN	_ <O>
 oil	NN	_ <O>
 reserves	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Peak	NNP	_ <O>
 Graph	NNP	_ <O>
 showing	VBG	_ <O>
@@ -34,13 +36,15 @@ non	AFX	_ <O>
 -	HYPH	_ <O>
 FSU	NN	_ <O>
 countries	NNS	_ <O>
- <O>
+
+NULL
 Countries	NNS	_ <O>
 with	IN	_ <O>
 largest	JJS	_ <O>
 oil	NN	_ <O>
 reserves	NNS	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Oil	NN	_ <O>
 reserves	NNS	_ <O>
@@ -63,4 +67,5 @@ current	JJ	_ <O>
 economic	JJ	_ <O>
 constraints	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

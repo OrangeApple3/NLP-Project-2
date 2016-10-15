@@ -23,7 +23,8 @@ National	NNP	_ <O>
 Constituent	NNP	_ <O>
 Assembly	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Vendean	NNP	_ <O>
 clergy	NN	_ <O>
@@ -63,7 +64,8 @@ condemned	VBD	_ <O>
 as	IN	_ <O>
 intruders	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Nonjuring	NNP	_ <O>
 '	''	_ <O>
@@ -100,4 +102,5 @@ of	IN	_ <O>
 nonjuring	VBG	_ <O>
 priests	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

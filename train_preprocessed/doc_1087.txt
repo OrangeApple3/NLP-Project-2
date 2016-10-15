@@ -54,7 +54,8 @@ official	JJ	_ <O>
 rules	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 popular	JJ	_ <O>
 parlance	NN	_ <O>
@@ -87,7 +88,8 @@ the	DT	_ <O>
 and	CC	_ <O>
 70s	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 New	NNP	_ <O>
 York	NNP	_ <O>
 real	JJ	_ <O>
@@ -121,7 +123,8 @@ Fellow	NNP	_ <O>
 in	IN	_ <O>
 1942	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Mr.	NNP	_ <O>
 Palame	NNP	_ <O>
 spent	VBD	_ <O>
@@ -140,4 +143,5 @@ various	JJ	_ <O>
 Manhattan	NNP	_ <O>
 neighborhoods	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

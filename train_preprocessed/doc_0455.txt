@@ -13,7 +13,8 @@ cultures	NNS	_ <O>
 is	VBZ	_ <O>
 problematic	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 slendro	NN	_ <O>
 anhemitonic	JJ	_ <O>
@@ -52,7 +53,8 @@ gamelan	NN	_ <O>
 to	IN	_ <O>
 gamelan	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Specially	RB	_ <O>
 trained	VBN	_ <O>
 musicians	NNS	_ <O>
@@ -123,7 +125,8 @@ manner	NN	_ <O>
 of	IN	_ <O>
 performance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Composer	NNP	_ <O>
 Lou	NNP	_ <O>
 Harrison	NNP	_ <O>
@@ -146,4 +149,5 @@ on	IN	_ <O>
 historical	JJ	_ <O>
 models	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

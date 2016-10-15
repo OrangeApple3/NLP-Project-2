@@ -16,7 +16,8 @@ multiculturalism	NN	_ <O>
 and	CC	_ <O>
 immigration	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 With	IN	_ <O>
 Canada	NNP	_ <O>
 's	POS	_ <O>
@@ -41,7 +42,8 @@ right	JJ	_ <O>
 movement	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 three	CD	_ <O>
 groups	NNS	_ <O>
@@ -55,7 +57,8 @@ led	VBN	_ <O>
 by	IN	_ <O>
 Fromm	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Fromm	NNP	_ <O>
 's	POS	_ <O>
 leadership	NN	_ <O>
@@ -80,4 +83,5 @@ shows	NNS	_ <O>
 and	CC	_ <O>
 newspapers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

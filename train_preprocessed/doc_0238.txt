@@ -21,7 +21,8 @@ and	CC	_ <O>
 their	PRP$	_ <O>
 characteristics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Australian	JJ	_ <O>
 Aboriginal	JJ	_ <O>
 dreamtime	NN	_ <O>
@@ -33,7 +34,8 @@ the	DT	_ <O>
 Rainbow	NNP	_ <O>
 Serpent	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Certain	JJ	<B-CUE>
 tall	JJ	<I-CUE>
 tales	NNS	<I-CUE>
@@ -51,7 +53,8 @@ horse	NN	_ <O>
 ,	,	_ <O>
 Widowmaker	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 horse	NN	_ <O>
 bucked	VBD	_ <O>
@@ -67,7 +70,8 @@ the	DT	_ <O>
 Grand	NNP	_ <O>
 Canyon	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Epic	NNP	_ <O>
 of	IN	_ <O>
@@ -113,7 +117,8 @@ mortal	JJ	_ <O>
 do	VBP	_ <O>
 not	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Origin	NNP	_ <O>
 stories	NNS	_ <O>
 ,	,	_ <O>
@@ -132,7 +137,8 @@ their	PRP$	_ <O>
 special	JJ	_ <O>
 characteristics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Alamat	NNP	_ <O>
 ,	,	_ <O>
 very	RB	_ <O>
@@ -157,7 +163,8 @@ came	VBD	_ <O>
 to	TO	_ <O>
 be	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 normally	RB	_ <O>
 involve	VBP	_ <O>
@@ -176,7 +183,8 @@ habits	NNS	<I-CUE>
 they	PRP	_ <O>
 have	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 An	DT	_ <O>
 example	NN	_ <O>
 would	MD	_ <O>
@@ -208,4 +216,5 @@ numerous	JJ	_ <O>
 eyes	NNS	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

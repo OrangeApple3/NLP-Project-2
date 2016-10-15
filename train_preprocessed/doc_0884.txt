@@ -21,7 +21,8 @@ be	VB	_ <O>
 too	RB	_ <O>
 cumbersome	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Portuguese	JJ	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -51,7 +52,8 @@ Portuguese	NNP	_ <O>
 BP	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Apart	RB	_ <O>
 from	IN	_ <O>
 these	DT	_ <O>
@@ -74,7 +76,8 @@ or	CC	_ <O>
 Catalan	JJ	_ <O>
 pronunciation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Only	RB	_ <O>
 the	DT	_ <O>
 consonants	NNS	_ <O>
@@ -123,4 +126,5 @@ from	IN	_ <O>
 English	JJ	_ <O>
 speakers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -16,7 +16,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 world	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Winds	NNS	_ <O>
 on	IN	_ <O>
 the	DT	_ <O>
@@ -37,7 +38,8 @@ almost	RB	_ <O>
 without	IN	_ <O>
 warning	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Plum	NNP	_ <O>
 Island	NNP	_ <O>
 and	CC	_ <O>
@@ -63,7 +65,8 @@ thereby	RB	_ <O>
 pose	VB	_ <O>
 hazards	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 the	DT	_ <O>
 Porte	NNP	_ <O>
@@ -95,4 +98,5 @@ Island	NNP	_ <O>
 has	VBZ	_ <O>
 many	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

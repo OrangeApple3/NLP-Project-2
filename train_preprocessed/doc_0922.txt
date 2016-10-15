@@ -12,7 +12,8 @@ children	NNS	_ <O>
 's	POS	_ <O>
 song	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 can	MD	_ <O>
 be	VB	_ <O>
@@ -31,4 +32,5 @@ to	TO	_ <O>
 four	CD	_ <O>
 parts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

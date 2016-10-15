@@ -8,7 +8,8 @@ has	VBZ	_ <O>
 several	JJ	<B-CUE>
 causes	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Lichen	NNP	_ <O>
 sclerosus	VBZ	_ <O>
 et	FW	_ <O>
@@ -42,7 +43,8 @@ of	IN	_ <O>
 pathological	JJ	_ <O>
 phimosis	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Other	JJ	_ <O>
 causes	VBZ	_ <O>
 may	MD	<B-CUE>
@@ -60,7 +62,8 @@ foreskin	NN	_ <O>
 and	CC	_ <O>
 balanitis	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 studies	NNS	<I-CUE>
 found	VBD	_ <O>
@@ -79,4 +82,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 penis	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

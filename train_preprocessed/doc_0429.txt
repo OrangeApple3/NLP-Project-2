@@ -18,7 +18,8 @@ with	IN	_ <O>
 one	CD	_ <O>
 another	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Essentially	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -38,7 +39,8 @@ been	VBN	_ <O>
 eroded	VBN	_ <O>
 away	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 last	JJ	_ <O>
 major	JJ	_ <O>
@@ -66,7 +68,8 @@ began	VBD	_ <O>
 to	TO	_ <O>
 separate	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 series	NN	_ <O>
 of	IN	_ <O>
@@ -81,4 +84,5 @@ the	DT	_ <O>
 Piedmont	NNP	_ <O>
 region	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

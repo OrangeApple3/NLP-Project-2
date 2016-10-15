@@ -13,7 +13,8 @@ in	IN	_ <O>
 Pascoe	NNP	_ <O>
 Vale	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 slightly	RB	_ <O>
 more	JJR	_ <O>
@@ -40,7 +41,8 @@ in	IN	_ <O>
 Pascoe	NNP	_ <O>
 Vale	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 suburb	NN	_ <O>
 has	VBZ	_ <O>
@@ -56,7 +58,8 @@ suburbs	NNS	_ <O>
 in	IN	_ <O>
 Moreland	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 lower	JJR	_ <O>
 proportion	NN	_ <O>
@@ -79,7 +82,8 @@ Australian	NNP	_ <O>
 born	VBN	_ <O>
 citizens	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 61	CD	_ <O>
 %	NN	_ <O>
 of	IN	_ <O>
@@ -108,4 +112,5 @@ average	NN	_ <O>
 in	IN	_ <O>
 Moreland	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

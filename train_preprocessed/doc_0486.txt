@@ -29,7 +29,8 @@ in	IN	_ <O>
 that	DT	_ <O>
 direction	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 doorman	NN	_ <O>
 dressed	VBN	_ <O>
@@ -72,7 +73,8 @@ a	DT	_ <O>
 paper	NN	_ <O>
 contract	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Before	IN	_ <O>
 he	PRP	_ <O>
 can	MD	_ <O>
@@ -95,7 +97,8 @@ the	DT	_ <O>
 green	JJ	_ <O>
 liquid	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pinocchio	NNP	_ <O>
 is	VBZ	_ <O>
 startled	VBN	_ <O>
@@ -128,4 +131,5 @@ Pinocchio	NNP	_ <O>
 blacks	NNS	_ <O>
 out	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

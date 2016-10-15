@@ -20,7 +20,8 @@ courses	NNS	_ <O>
 in	IN	_ <O>
 Massachusetts	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 PCC	NNP	_ <O>
 hosts	VBZ	_ <O>
 the	DT	_ <O>
@@ -52,7 +53,8 @@ and	CC	_ <O>
 the	DT	_ <O>
 Northeast	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 PCC	NNP	_ <O>
 ,	,	_ <O>
 which	WDT	_ <O>
@@ -89,7 +91,8 @@ Plimoth	NNP	_ <O>
 Plantation	NNP	_ <O>
 Highway	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 membership	NN	_ <O>
 waiting	VBG	_ <O>
@@ -103,4 +106,5 @@ to	TO	_ <O>
 3-year	VB	_ <O>
 area	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

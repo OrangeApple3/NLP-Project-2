@@ -14,7 +14,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 year	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Due	IN	_ <O>
 to	IN	_ <O>
 the	DT	_ <O>
@@ -32,7 +33,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 year	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 summer	NN	_ <O>
@@ -58,7 +60,8 @@ Stonehouse	NNP	_ <O>
 69	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Weathering	NN	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -67,4 +70,5 @@ in	IN	_ <O>
 polar	JJ	_ <O>
 regions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

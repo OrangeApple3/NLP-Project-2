@@ -40,7 +40,8 @@ of	IN	_ <O>
 saints	NNS	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Protestants	NNS	_ <O>
 often	RB	_ <O>
 appeal	VBP	_ <O>
@@ -65,7 +66,8 @@ Paul	NNP	_ <O>
 's	POS	_ <O>
 letters	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 ,	,	_ <O>
 since	IN	_ <O>
@@ -94,4 +96,5 @@ in	IN	_ <O>
 Protestant	JJ	_ <O>
 practice	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -37,7 +37,8 @@ its	PRP$	_ <O>
 name	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Joint	JJ	_ <O>
 ventures	NNS	_ <O>
 account	VBP	_ <O>
@@ -66,7 +67,8 @@ remaining	VBG	_ <O>
 5	CD	_ <O>
 percent	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Six	CD	_ <O>
 companies	NNS	_ <O>
 are	VBP	_ <O>
@@ -152,7 +154,8 @@ eighty	CD	_ <O>
 oil	NN	_ <O>
 fields	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Shell	NNP	_ <O>
 Nigeria	NNP	_ <O>
 owns	VBZ	_ <O>
@@ -213,4 +216,5 @@ Gas	NNP	_ <O>
 NLNG	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

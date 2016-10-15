@@ -40,7 +40,8 @@ William	NNP	_ <O>
 of	IN	_ <O>
 Modena	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pomesanians	NNPS	_ <O>
 joined	VBD	_ <O>
 the	DT	_ <O>
@@ -73,7 +74,8 @@ Uprising	NNP	_ <O>
 1260–1274	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 the	DT	_ <O>
 westernmost	NN	_ <O>
@@ -93,7 +95,8 @@ and	CC	_ <O>
 their	PRP$	_ <O>
 culture	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 assimilated	VBD	_ <O>
 and	CC	_ <O>
@@ -107,4 +110,5 @@ the	DT	_ <O>
 other	JJ	_ <O>
 Prussians	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

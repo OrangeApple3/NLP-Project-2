@@ -30,7 +30,8 @@ instruction	NN	_ <O>
 given	VBN	_ <O>
 novices	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Certainly	RB	_ <O>
 once	IN	_ <O>
 a	DT	_ <O>
@@ -54,7 +55,8 @@ they	PRP	_ <O>
 have	VBP	_ <O>
 learned	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Unfortunately	RB	<B-CUE>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -77,4 +79,5 @@ act	VB	_ <O>
 like	IN	_ <O>
 experts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

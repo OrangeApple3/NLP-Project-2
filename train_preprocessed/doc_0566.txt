@@ -23,7 +23,8 @@ few	JJ	_ <O>
 days	NNS	_ <O>
 later	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Iverson	NNP	_ <O>
 was	VBD	_ <O>
 moved	VBN	_ <O>
@@ -40,7 +41,8 @@ his	PRP$	_ <O>
 finest	JJS	_ <O>
 season	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 also	RB	_ <O>
 impressed	VBD	_ <O>
@@ -57,7 +59,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 offense	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Following	VBG	_ <O>
 the	DT	_ <O>
 season	NN	_ <O>
@@ -93,4 +96,5 @@ the	DT	_ <O>
 NBA	NNP	_ <O>
 Champions	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -22,7 +22,8 @@ Jubilee	NNP	_ <O>
 in	IN	_ <O>
 1868	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Italian	JJ	_ <O>
 government	NN	_ <O>
@@ -42,7 +43,8 @@ of	IN	_ <O>
 popular	JJ	_ <O>
 pilgrimages	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 the	DT	_ <O>
 50th	JJ	_ <O>
@@ -74,7 +76,8 @@ to	IN	_ <O>
 June	NNP	_ <O>
 1877	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Pope	NNP	_ <O>
 was	VBD	_ <O>
@@ -115,4 +118,5 @@ their	PRP$	_ <O>
 Church	NNP	_ <O>
 engagement	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

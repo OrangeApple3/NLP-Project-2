@@ -21,7 +21,8 @@ needs	NNS	_ <O>
 of	IN	_ <O>
 society	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 relationship	NN	_ <O>
 between	IN	_ <O>
@@ -34,7 +35,8 @@ a	DT	_ <O>
 fiduciary	JJ	_ <O>
 one	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Yet	RB	_ <O>
 rules	NNS	_ <O>
 such	JJ	_ <O>
@@ -76,7 +78,8 @@ of	IN	_ <O>
 a	DT	_ <O>
 country	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Originating	VBG	_ <O>
 from	IN	_ <O>
 within	IN	_ <O>
@@ -103,4 +106,5 @@ abusing	VBG	_ <O>
 their	PRP$	_ <O>
 authority	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

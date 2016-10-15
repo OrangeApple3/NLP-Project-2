@@ -22,7 +22,8 @@ plane	NN	_ <O>
 of	IN	_ <O>
 existence	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 Second	NNP	_ <O>
@@ -40,7 +41,8 @@ came	VBD	_ <O>
 from	IN	_ <O>
 Earth	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 was	VBD	_ <O>
 omitted	VBN	_ <O>
@@ -55,4 +57,5 @@ Campaign	NNP	_ <O>
 Setting	VBG	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

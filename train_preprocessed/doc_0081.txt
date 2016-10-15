@@ -13,7 +13,8 @@ offenders	NNS	_ <O>
 '	POS	_ <O>
 characteristics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Situational	JJ	_ <O>
 offenders	NNS	_ <O>
 tend	VBP	_ <O>
@@ -47,7 +48,8 @@ for	IN	_ <O>
 adult	NN	_ <O>
 partners	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pedophilic	JJ	_ <O>
 offenders	NNS	_ <O>
 ,	,	_ <O>
@@ -92,7 +94,8 @@ an	DT	_ <O>
 offense	NN	_ <O>
 lifestyle	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Research	NN	<B-CUE>
 suggests	VBZ	<B-CUE>
 that	IN	_ <O>
@@ -138,4 +141,5 @@ against	IN	_ <O>
 150	CD	_ <O>
 victims	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

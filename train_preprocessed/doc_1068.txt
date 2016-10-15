@@ -30,7 +30,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 bill	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 may	MD	_ <O>
 display	VB	_ <O>
@@ -38,7 +39,8 @@ when	WRB	_ <O>
 changing	VBG	_ <O>
 shifts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 All	DT	_ <O>
 species	NNS	_ <O>
 lay	VBD	_ <O>
@@ -97,7 +99,8 @@ billed	VBN	_ <O>
 species	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Before	IN	_ <O>
 or	CC	_ <O>
 especially	RB	_ <O>
@@ -125,4 +128,5 @@ not	RB	<B-CUE>
 clearly	RB	<I-CUE>
 known	VBN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

@@ -6,7 +6,8 @@ from	IN	_ <O>
 people	NNS	_ <O>
 smuggling	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 people	NNS	_ <O>
 smuggler	NN	_ <O>
@@ -35,7 +36,8 @@ is	VBZ	_ <O>
 usually	RB	_ <O>
 free	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Trafficking	NN	_ <O>
 involves	VBZ	_ <O>
 a	DT	_ <O>
@@ -54,7 +56,8 @@ and	CC	_ <O>
 transport	VB	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Women	NNS	_ <O>
 ,	,	_ <O>
 who	WP	_ <O>
@@ -94,4 +97,5 @@ to	TO	_ <O>
 be	VB	_ <O>
 prostitutes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

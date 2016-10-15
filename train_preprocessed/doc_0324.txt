@@ -13,7 +13,8 @@ off	RP	_ <O>
 one	CD	_ <O>
 another	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Their	PRP$	_ <O>
 orbits	NNS	_ <O>
 can	MD	_ <O>
@@ -26,7 +27,8 @@ toward	IN	_ <O>
 one	CD	_ <O>
 another	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Plasmoids	NNS	_ <O>
 can	MD	_ <O>
 also	RB	_ <O>
@@ -39,7 +41,8 @@ other	JJ	_ <O>
 into	IN	_ <O>
 fragments	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	<B-CUE>
 is	VBZ	<I-CUE>
 some	DT	<I-CUE>
@@ -57,4 +60,5 @@ and	CC	_ <O>
 possess	VBP	_ <O>
 spin	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

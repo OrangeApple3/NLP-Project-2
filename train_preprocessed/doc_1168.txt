@@ -11,7 +11,8 @@ a	DT	_ <O>
 free	JJ	_ <O>
 puck	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hockey	NN	_ <O>
 puck	NN	_ <O>
 bearing	VBG	_ <O>
@@ -30,7 +31,8 @@ National	NNP	_ <O>
 Hockey	NNP	_ <O>
 League	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 believed	VBN	<I-CUE>
@@ -55,7 +57,8 @@ word	NN	_ <O>
 to	IN	_ <O>
 Canada	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 first	JJ	_ <O>
 known	VBN	_ <O>
@@ -80,4 +83,5 @@ was	VBD	_ <O>
 played	VBN	_ <O>
 there	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

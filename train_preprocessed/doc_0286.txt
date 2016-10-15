@@ -26,7 +26,8 @@ a	DT	_ <O>
 port	NN	_ <O>
 multiplier	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 controller	NN	_ <O>
 can	MD	_ <O>
@@ -59,7 +60,8 @@ the	DT	_ <O>
 current	JJ	_ <O>
 transactions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 means	VBZ	_ <O>
 that	IN	_ <O>
@@ -76,7 +78,8 @@ not	RB	_ <O>
 be	VB	_ <O>
 used	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 kind	NN	_ <O>
 of	IN	_ <O>
@@ -93,4 +96,5 @@ concern	NN	_ <O>
 not	RB	_ <O>
 performance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

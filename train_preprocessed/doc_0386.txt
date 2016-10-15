@@ -12,7 +12,8 @@ help	VB	_ <O>
 reinforce	VB	_ <O>
 loyalty	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 state	NN	_ <O>
 usually	RB	_ <O>
@@ -29,7 +30,8 @@ it	PRP	_ <O>
 with	IN	_ <O>
 propaganda	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Political	JJ	_ <O>
 religions	NNS	_ <O>
 that	WDT	_ <O>
@@ -56,7 +58,8 @@ and	CC	_ <O>
 programming	NN	_ <O>
 decisions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Certain	JJ	<B-CUE>
 leisure	NN	<I-CUE>
 or	CC	<I-CUE>
@@ -77,4 +80,5 @@ the	DT	_ <O>
 state	NN	_ <O>
 ideology	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -16,7 +16,8 @@ to	IN	_ <O>
 systemic	JJ	_ <O>
 risk	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 risk	NN	_ <O>
 is	VBZ	_ <O>
@@ -55,7 +56,8 @@ stress	NN	_ <O>
 testing	NN	_ <O>
 conditions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 more	RBR	_ <O>
 efficient	JJ	_ <O>
@@ -90,7 +92,8 @@ disrupt	VB	_ <O>
 the	DT	_ <O>
 system	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Therefore	RB	_ <O>
 well	RB	_ <O>
 -	HYPH	_ <O>
@@ -136,4 +139,5 @@ within	IN	_ <O>
 the	DT	_ <O>
 system	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

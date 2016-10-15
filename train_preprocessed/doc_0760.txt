@@ -40,7 +40,8 @@ the	DT	_ <O>
 DSM	NNP	_ <O>
 -	HYPH	_ <O>
 IV.	NNP	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 those	DT	_ <O>
@@ -91,7 +92,8 @@ socially	RB	_ <O>
 deviant	JJ	_ <O>
 behaviours	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 a	DT	_ <O>
 result	NN	_ <O>
@@ -112,7 +114,8 @@ easily	RB	_ <O>
 meet	VBP	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Hare	NNP	_ <O>
 goes	VBZ	_ <O>
 further	RBR	_ <O>
@@ -154,7 +157,8 @@ diagnosis	NN	_ <O>
 of	IN	_ <O>
 psychopath	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 twenty	CD	_ <O>
 percent	NN	_ <O>
@@ -184,7 +188,8 @@ and	CC	_ <O>
 repeat	VB	_ <O>
 rapists	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 FBI	NNP	_ <O>
@@ -204,4 +209,5 @@ committed	VBN	_ <O>
 by	IN	_ <O>
 psychopaths	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

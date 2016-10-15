@@ -42,7 +42,8 @@ Town	NNP	_ <O>
 1970	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 was	VBD	_ <O>
 several	JJ	_ <O>
@@ -64,7 +65,8 @@ Year	NNP	_ <O>
 in	IN	_ <O>
 1976	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 provided	VBD	_ <O>
 the	DT	_ <O>
@@ -101,7 +103,8 @@ the	DT	_ <O>
 King	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 also	RB	_ <O>
 voiced	VBD	_ <O>
@@ -131,4 +134,5 @@ between	IN	_ <O>
 and	CC	_ <O>
 1973	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

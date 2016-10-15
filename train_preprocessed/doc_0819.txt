@@ -48,7 +48,8 @@ President	NNP	_ <O>
 Henri	NNP	_ <O>
 Konan	NNP	_ <O>
 Bédié.	NNP	_ <O>
- <O>
+
+NULL
 Gbagbo	NNP	_ <O>
 was	VBD	_ <O>
 elected	VBN	_ <O>
@@ -64,7 +65,8 @@ many	JJ	<B-CUE>
 oppositional	JJ	<I-CUE>
 forces	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 president	NN	_ <O>
 is	VBZ	_ <O>
@@ -86,7 +88,8 @@ held	VBN	_ <O>
 October	NNP	_ <O>
 2000	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 prime	JJ	_ <O>
 minister	NN	_ <O>
@@ -97,4 +100,5 @@ by	IN	_ <O>
 the	DT	_ <O>
 president	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

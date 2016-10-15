@@ -47,4 +47,5 @@ travel	NN	_ <O>
 to	IN	_ <O>
 Cuba	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

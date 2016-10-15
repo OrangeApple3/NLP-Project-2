@@ -30,7 +30,8 @@ the	DT	_ <O>
 father	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Diandry	NNP	_ <O>
 is	VBZ	_ <O>
 almost	RB	_ <O>
@@ -49,7 +50,8 @@ sperm	NN	_ <O>
 dispermy	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Digyny	NNP	_ <O>
 is	VBZ	_ <O>
 most	RBS	_ <O>
@@ -80,7 +82,8 @@ from	IN	_ <O>
 the	DT	_ <O>
 oocyte	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 among	IN	_ <O>
@@ -108,4 +111,5 @@ embryo	NN	_ <O>
 is	VBZ	_ <O>
 present	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

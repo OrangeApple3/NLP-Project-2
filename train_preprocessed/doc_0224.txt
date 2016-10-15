@@ -47,7 +47,8 @@ space	NN	_ <O>
 occupying	VBG	_ <O>
 behavior	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Pauli	NNP	_ <O>
 exclusion	NN	_ <O>
@@ -81,7 +82,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 elements	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Apart	RB	_ <O>
 from	IN	_ <O>
 the	DT	_ <O>
@@ -115,7 +117,8 @@ atoms	NNS	_ <O>
 like	IN	_ <O>
 helium-3	ADD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Particles	NNS	_ <O>
 with	IN	_ <O>
 integer	NN	_ <O>
@@ -143,4 +146,5 @@ same	JJ	_ <O>
 quantum	JJ	_ <O>
 states	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

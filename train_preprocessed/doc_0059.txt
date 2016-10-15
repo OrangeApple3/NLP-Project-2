@@ -25,7 +25,8 @@ people	NNS	_ <O>
 in	IN	_ <O>
 attendance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 claimed	VBN	<I-CUE>
@@ -55,7 +56,8 @@ change	NN	_ <O>
 in	IN	_ <O>
 history	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 the	DT	_ <O>
 University	NNP	_ <O>
@@ -85,7 +87,8 @@ a	DT	_ <O>
 Lobby	NNP	_ <O>
 Day	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 event	NN	_ <O>
 was	VBD	_ <O>
@@ -132,7 +135,8 @@ advocacy	NN	_ <O>
 coalition	NN	_ <O>
 1Sky	NN	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 creation	NN	_ <O>
 of	IN	_ <O>
@@ -145,7 +149,8 @@ Clean	NNP	_ <O>
 Energy	NNP	_ <O>
 Job	NNP	_ <O>
 Corps	NNP	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 reduction	NN	_ <O>
 of	IN	_ <O>
@@ -174,7 +179,8 @@ effects	NNS	_ <O>
 of	IN	_ <O>
 global	JJ	_ <O>
 warming	NN	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 moratorium	NN	_ <O>
 on	IN	_ <O>
@@ -190,4 +196,5 @@ and	CC	_ <O>
 highway	NN	_ <O>
 subsidies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

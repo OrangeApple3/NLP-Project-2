@@ -60,7 +60,8 @@ the	DT	_ <O>
 highest	JJS	_ <O>
 bidder	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 one	CD	_ <O>
 -	HYPH	_ <O>
@@ -119,7 +120,8 @@ will	NN	_ <O>
 of	IN	_ <O>
 his	PRP$	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Stephen	NNP	_ <O>
 King	NNP	_ <O>
 makes	VBZ	_ <O>
@@ -139,7 +141,8 @@ novel	NN	_ <O>
 Cell	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 this	DT	_ <O>
 was	VBD	_ <O>
@@ -169,4 +172,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 bird	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

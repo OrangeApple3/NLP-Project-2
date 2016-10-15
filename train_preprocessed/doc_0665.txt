@@ -48,7 +48,8 @@ wagering	NN	_ <O>
 is	VBZ	_ <O>
 closed	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Moving	VBG	_ <O>
 from	IN	_ <O>
 turf	NN	_ <O>
@@ -74,7 +75,8 @@ the	DT	_ <O>
 racing	NN	_ <O>
 surface	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 only	RB	_ <O>
 one	CD	_ <O>
@@ -105,7 +107,8 @@ pool	NN	_ <O>
 including	VBG	_ <O>
 carryovers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 two	CD	_ <O>
 races	NNS	_ <O>
@@ -150,4 +153,5 @@ the	DT	_ <O>
 next	JJ	_ <O>
 program	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

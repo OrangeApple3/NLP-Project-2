@@ -39,7 +39,8 @@ colonies	NNS	_ <O>
 including	VBG	_ <O>
 India	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 may	MD	<I-CUE>
 be	VB	<I-CUE>
@@ -78,7 +79,8 @@ was	VBD	_ <O>
 Congress	NNP	_ <O>
 president	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1937	CD	_ <O>
 he	PRP	_ <O>
@@ -106,7 +108,8 @@ the	DT	_ <O>
 Japanese	JJ	_ <O>
 regime	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 could	MD	_ <O>
 not	RB	_ <O>
@@ -134,4 +137,5 @@ and	CC	_ <O>
 ancient	JJ	_ <O>
 race	NN	_ <O>
 ?	.	_ <O>
- <O>
+
+NULL

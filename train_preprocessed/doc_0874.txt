@@ -19,7 +19,8 @@ cared	VBD	_ <O>
 about—his	DT	_ <O>
 children	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Not	RB	_ <O>
 long	RB	_ <O>
 after	RB	_ <O>
@@ -61,7 +62,8 @@ daughter	NN	_ <O>
 ’s	XX	_ <O>
 love	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 That	DT	_ <O>
 same	JJ	_ <O>
 night	NN	_ <O>
@@ -103,7 +105,8 @@ returned	VBN	_ <O>
 to	IN	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 9	CD	_ <O>
 pm	NN	_ <O>
@@ -120,4 +123,5 @@ find	VB	_ <O>
 Phillip	NNP	_ <O>
 shot	VBD	_ <O>
 !	.	_ <O>
- <O>
+
+NULL

@@ -17,7 +17,8 @@ be	VB	_ <O>
 by	IN	_ <O>
 jury	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 trial	NN	_ <O>
 must	MD	_ <O>
@@ -59,4 +60,5 @@ by	IN	_ <O>
 the	DT	_ <O>
 Congress	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -3,7 +3,8 @@ NULL
 Windows	NNP	_ <O>
 Forms	NNP	_ <O>
 Components	NNPS	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 the	DT	_ <O>
 Microsoft	NNP	_ <O>
@@ -34,7 +35,8 @@ components	NNS	_ <O>
 for	IN	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 fact	NN	_ <O>
 ,	,	_ <O>
@@ -56,7 +58,8 @@ for	IN	_ <O>
 Visual	NNP	_ <O>
 Studio	NNP	_ <O>
 .NET.	.	_ <O>
- <O>
+
+NULL
 Once	RB	_ <O>
 again	RB	_ <O>
 ,	,	_ <O>
@@ -73,7 +76,8 @@ for	IN	_ <O>
 different	JJ	_ <O>
 platforms	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 .NET	JJ	_ <O>
 framework	NN	_ <O>
 components	NNS	_ <O>
@@ -82,4 +86,5 @@ the	DT	_ <O>
 Xtra	NNP	_ <O>
 prefix	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

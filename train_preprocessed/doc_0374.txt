@@ -25,7 +25,8 @@ nesc	NN	_ <O>
 nescenes	NNS	_ <O>
 .	.	_ <O>
 ”	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Slat	FW	_ <O>
 "	''	_ <O>
@@ -44,7 +45,8 @@ slath	NN	_ <O>
 ”	NFP	_ <O>
 moved	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Fang	NNP	_ <O>
 "	''	_ <O>
@@ -80,7 +82,8 @@ fang	NN	_ <O>
 fangen	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Sheed	VB	_ <O>
 "	''	_ <O>
@@ -107,7 +110,8 @@ rid	VBN	_ <O>
 of	IN	_ <O>
 something	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Cost	VB	_ <O>
 keck	NN	_ <O>
@@ -145,7 +149,8 @@ burst	VBP	_ <O>
 it	PRP	_ <O>
 ?	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Duck	NNP	_ <O>
 "	''	_ <O>
@@ -169,7 +174,8 @@ duck	NN	_ <O>
 ?	.	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Duck	NNP	_ <O>
 being	VBG	_ <O>
 derived	VBN	_ <O>
@@ -202,7 +208,8 @@ from	IN	_ <O>
 in	IN	_ <O>
 English	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Duck	NN	_ <O>
 in	IN	_ <O>
 this	DT	_ <O>
@@ -242,7 +249,8 @@ are	VBP	_ <O>
 etymologically	RB	_ <O>
 related	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Spanwanned	VBN	_ <O>
 "	''	_ <O>
@@ -265,4 +273,5 @@ climb	VB	_ <O>
 over	IN	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -36,7 +36,8 @@ sea	NN	_ <O>
 is	VBZ	_ <O>
 unfrozen	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 sea	NN	_ <O>
 ice	NN	_ <O>
@@ -60,7 +61,8 @@ at	IN	_ <O>
 a	DT	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Polar	JJ	_ <O>
 bears	NNS	_ <O>
 have	VBP	_ <O>
@@ -97,7 +99,8 @@ other	JJ	_ <O>
 polar	JJ	_ <O>
 bears	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 may	MD	_ <O>
 also	RB	_ <O>
@@ -124,4 +127,5 @@ of	IN	_ <O>
 their	PRP$	_ <O>
 diet	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

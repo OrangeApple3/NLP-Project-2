@@ -21,7 +21,8 @@ the	DT	_ <O>
 concept	NN	_ <O>
 exist	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 widely	RB	<B-CUE>
 accepted	VBN	<I-CUE>
@@ -94,7 +95,8 @@ through	IN	_ <O>
 military	JJ	_ <O>
 service	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 view	NN	_ <O>
 is	VBZ	_ <O>
@@ -115,7 +117,8 @@ letters	NNS	_ <O>
 of	IN	_ <O>
 Cortés	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 in	IN	_ <O>
 recent	JJ	_ <O>
@@ -199,4 +202,5 @@ conquer	VB	_ <O>
 them	PRP	_ <O>
 entirely	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

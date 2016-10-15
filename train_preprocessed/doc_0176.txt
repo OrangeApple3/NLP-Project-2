@@ -17,4 +17,5 @@ cause	NN	_ <O>
 and	CC	_ <O>
 effect	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

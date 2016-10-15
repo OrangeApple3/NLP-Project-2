@@ -22,7 +22,8 @@ the	DT	_ <O>
 common	JJ	_ <O>
 room	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 may	MD	_ <O>
 even	RB	_ <O>
@@ -37,7 +38,8 @@ go	VB	_ <O>
 to	IN	_ <O>
 work	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Prisoners	NNS	_ <O>
 are	VBP	_ <O>
 safe	JJ	_ <O>
@@ -49,7 +51,8 @@ other	JJ	_ <O>
 dangerous	JJ	_ <O>
 prisoners	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 may	MD	_ <O>
 have	VB	_ <O>
@@ -81,4 +84,5 @@ during	IN	_ <O>
 visiting	VBG	_ <O>
 hours	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

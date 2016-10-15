@@ -11,7 +11,8 @@ into	IN	_ <O>
 5	CD	_ <O>
 groups	NNS	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 Category	NN	_ <O>
 I	PRP	_ <O>
 :	:	_ <O>
@@ -40,7 +41,8 @@ evolution	NN	_ <O>
 of	IN	_ <O>
 life	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Category	NN	_ <O>
 II	CD	_ <O>
 :	:	_ <O>
@@ -91,7 +93,8 @@ with	IN	_ <O>
 Earth	JJ	_ <O>
 life	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Missions	NNS	_ <O>
 returning	VBG	_ <O>
 samples	NNS	_ <O>
@@ -125,7 +128,8 @@ Biosafety	NNP	_ <O>
 level	NN	_ <O>
 4	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Samples	NNS	_ <O>
 from	IN	_ <O>
 locations	NNS	_ <O>
@@ -150,4 +154,5 @@ planetary	JJ	_ <O>
 protection	NN	_ <O>
 purposes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

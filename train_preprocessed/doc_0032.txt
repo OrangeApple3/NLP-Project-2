@@ -1,7 +1,8 @@
 NULL
 Precision	NNP	_ <O>
 incorporates	VBZ	_ <O>
- <O>
+
+NULL
 Precision	NNP	_ <O>
 becomes	VBZ	_ <O>
 the	DT	_ <O>
@@ -29,7 +30,8 @@ PDC	NNP	_ <O>
 drill	NN	_ <O>
 bits	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Precision	NNP	_ <O>
 also	RB	_ <O>
 receives	VBZ	_ <O>
@@ -54,7 +56,8 @@ the	DT	_ <O>
 Computalog	NNP	_ <O>
 subsidiary	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 2001	CD	_ <O>
 Computalog	NNP	_ <O>
 U.S.A.	NNP	_ <O>
@@ -84,7 +87,8 @@ other	JJ	_ <O>
 stimulation	NN	_ <O>
 services	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Precision	NNP	_ <O>
 Drilling	NNP	_ <O>
 Corporation	NNP	_ <O>
@@ -100,7 +104,8 @@ and	CC	_ <O>
 PrecisionLWD	NNP	_ <O>
 tools	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 2005	CD	_ <O>
 Precision	NNP	_ <O>
 Drilling	NNP	_ <O>
@@ -127,7 +132,8 @@ and	CC	_ <O>
 $	$	_ <O>
 1	CD	_ <O>
 CAD.	CD	_ <O>
- <O>
+
+NULL
 Precision	NNP	_ <O>
 Drilling	NNP	_ <O>
 Corporation	NNP	_ <O>
@@ -147,4 +153,5 @@ $	$	_ <O>
 274	CD	_ <O>
 million	CD	_ <O>
 CAD.	NNP	_ <O>
- <O>
+
+NULL

@@ -35,7 +35,8 @@ Byzantine	JJ	_ <O>
 '	''	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 the	DT	_ <O>
 other	JJ	_ <O>
@@ -66,7 +67,8 @@ a	DT	_ <O>
 computer	NN	_ <O>
 system	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -86,7 +88,8 @@ its	PRP$	_ <O>
 other	JJ	_ <O>
 senses	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Given	VBN	_ <O>
 enough	JJ	_ <O>
 run	VBN	_ <O>
@@ -130,4 +133,5 @@ Ariane	NNP	_ <O>
 5	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

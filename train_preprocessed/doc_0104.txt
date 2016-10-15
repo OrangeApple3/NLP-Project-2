@@ -27,7 +27,8 @@ people	NNS	_ <O>
 of	IN	_ <O>
 Rome	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 body	NN	_ <O>
 of	IN	_ <O>
@@ -54,7 +55,8 @@ of	IN	_ <O>
 electors	NNS	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 the	DT	_ <O>
 Lateran	NNP	_ <O>
@@ -84,7 +86,8 @@ six	CD	_ <O>
 cardinal	JJ	_ <O>
 bishops	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 then	RB	_ <O>
 other	JJ	<B-CUE>
@@ -95,7 +98,8 @@ process	NN	_ <O>
 have	VBP	_ <O>
 developed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Pope	NNP	_ <O>
 may	MD	_ <O>
@@ -146,7 +150,8 @@ dated	VBD	_ <O>
 June	NNP	_ <O>
 2007	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 two	CD	_ <O>
 -	HYPH	_ <O>
@@ -163,4 +168,5 @@ the	DT	_ <O>
 new	JJ	_ <O>
 pope	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

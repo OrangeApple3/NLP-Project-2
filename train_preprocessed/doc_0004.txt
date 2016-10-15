@@ -33,4 +33,5 @@ in	IN	_ <O>
 the	DT	_ <O>
 legislature	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

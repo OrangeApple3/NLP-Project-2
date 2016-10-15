@@ -30,7 +30,8 @@ King	NNP	_ <O>
 since	IN	_ <O>
 1941	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Under	IN	_ <O>
 the	DT	_ <O>
 Constitution	NNP	_ <O>
@@ -62,7 +63,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 government	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 King	NNP	_ <O>
 ,	,	_ <O>
@@ -90,7 +92,8 @@ government	NN	_ <O>
 got	VBD	_ <O>
 along	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 influence	NN	_ <O>
 of	IN	_ <O>
@@ -106,4 +109,5 @@ differences	NNS	_ <O>
 in	IN	_ <O>
 government	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

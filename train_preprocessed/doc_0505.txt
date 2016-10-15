@@ -13,7 +13,8 @@ was	VBD	_ <O>
 evenly	RB	_ <O>
 divided	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 the	DT	_ <O>
 discovery	NN	_ <O>
@@ -41,7 +42,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 cosmos	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Before	IN	_ <O>
 the	DT	_ <O>
 late	JJ	_ <O>
@@ -88,7 +90,8 @@ to	TO	_ <O>
 expand	VB	_ <O>
 again	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 led	VBD	_ <O>
 the	DT	_ <O>
@@ -113,4 +116,5 @@ finite	JJ	_ <O>
 time	NN	_ <O>
 ago	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

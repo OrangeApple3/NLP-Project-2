@@ -33,7 +33,8 @@ and	CC	_ <O>
 other	JJ	_ <O>
 animals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 productivity	NN	_ <O>
 of	IN	_ <O>
@@ -60,7 +61,8 @@ productive	JJ	_ <O>
 wheat	NN	_ <O>
 field	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 in	IN	_ <O>
@@ -93,7 +95,8 @@ design	NN	_ <O>
 is	VBZ	_ <O>
 modelled	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 many	JJ	_ <O>
 connections	NNS	_ <O>
@@ -122,4 +125,5 @@ through	IN	_ <O>
 the	DT	_ <O>
 system	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

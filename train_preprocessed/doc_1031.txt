@@ -13,7 +13,8 @@ long	RB	<I-CUE>
 been	VBN	<I-CUE>
 claimed	VBN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 West	NNP	_ <O>
 Africa	NNP	_ <O>
@@ -34,7 +35,8 @@ to	IN	_ <O>
 one	CD	_ <O>
 another	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 a	DT	_ <O>
 person	NN	_ <O>
@@ -61,7 +63,8 @@ was	VBD	_ <O>
 to	TO	_ <O>
 blame	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Because	IN	_ <O>
 salivation	NN	_ <O>
 was	VBD	_ <O>
@@ -91,4 +94,5 @@ rice	NN	_ <O>
 was	VBD	_ <O>
 dry	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

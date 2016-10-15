@@ -37,7 +37,8 @@ well	RB	_ <O>
 -	HYPH	_ <O>
 equipped	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Until	IN	_ <O>
 the	DT	_ <O>
 18th	JJ	_ <O>
@@ -53,7 +54,8 @@ Polish	JJ	_ <O>
 armed	JJ	_ <O>
 forces	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Because	IN	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -77,7 +79,8 @@ nobility	NN	_ <O>
 szlachta	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 by	IN	_ <O>
 the	DT	_ <O>
@@ -111,4 +114,5 @@ remained	VBD	_ <O>
 almost	RB	_ <O>
 unchanged	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

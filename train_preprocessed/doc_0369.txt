@@ -16,7 +16,8 @@ press	NN	_ <O>
 and	CC	_ <O>
 deadlift	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	_ <O>
 variations	NNS	_ <O>
 of	IN	_ <O>
@@ -56,7 +57,8 @@ the	DT	_ <O>
 deadlift	NN	_ <O>
 after	IN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Single	JJ	_ <O>
 lift	NN	_ <O>
 meets	NNS	_ <O>
@@ -71,7 +73,8 @@ normal	JJ	_ <O>
 3-lift	NN	_ <O>
 event	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 most	RBS	_ <O>
@@ -81,4 +84,5 @@ the	DT	_ <O>
 bench	NN	_ <O>
 press	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

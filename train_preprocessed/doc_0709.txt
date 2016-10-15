@@ -27,7 +27,8 @@ Bosnia	NNP	_ <O>
 and	CC	_ <O>
 Herzegovina	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Sarajevo	NNP	_ <O>
 show	NN	_ <O>
@@ -57,7 +58,8 @@ war	NN	_ <O>
 had	VBD	_ <O>
 ended	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 highly	RB	_ <O>
 emotional	JJ	_ <O>
@@ -71,7 +73,8 @@ the	DT	_ <O>
 PopMart	NNP	_ <O>
 Tour	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 50,000	CD	_ <O>
 people	NNS	_ <O>
 attended	VBD	_ <O>
@@ -89,7 +92,8 @@ groups	NNS	_ <O>
 were	VBD	_ <O>
 present	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 in	IN	_ <O>
 attendance	NN	_ <O>
@@ -119,4 +123,5 @@ the	DT	_ <O>
 Dayton	NNP	_ <O>
 Agreement	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

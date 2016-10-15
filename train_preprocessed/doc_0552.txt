@@ -11,7 +11,8 @@ complement	VBP	_ <O>
 each	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Photogrammetry	NNP	_ <O>
 is	VBZ	_ <O>
 more	RBR	_ <O>
@@ -34,7 +35,8 @@ the	DT	_ <O>
 z	NNP	_ <O>
 direction	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 range	NN	_ <O>
 data	NNS	_ <O>
@@ -92,7 +94,8 @@ clouds	NNS	_ <O>
 "	''	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Photos	NNS	_ <O>
 can	MD	_ <O>
 clearly	RB	_ <O>
@@ -109,4 +112,5 @@ footprint	NN	_ <O>
 can	MD	_ <O>
 not	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

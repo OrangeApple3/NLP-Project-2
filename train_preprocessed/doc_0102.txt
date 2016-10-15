@@ -25,7 +25,8 @@ the	DT	_ <O>
 Manhattan	NNP	_ <O>
 project	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Evidence	NN	_ <O>
 for	IN	_ <O>
 his	PRP$	_ <O>
@@ -62,7 +63,8 @@ the	DT	_ <O>
 Soviet	NNP	_ <O>
 Union	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 also	RB	_ <O>
@@ -77,7 +79,8 @@ VENONA	NNP	_ <O>
 decrypts	NNS	_ <O>
 as	IN	_ <O>
 PERS.	NNP	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 identity	NN	_ <O>
 of	IN	_ <O>
@@ -107,4 +110,5 @@ matter	NN	_ <O>
 are	VBP	_ <O>
 questionable	JJ	<B-CUE>
 .	.	_ <O>
- <O>
+
+NULL

@@ -25,7 +25,8 @@ breaking	VBG	_ <O>
 Enigma	NNP	_ <O>
 ciphers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Subsequently	RB	_ <O>
 the	DT	_ <O>
 design	NN	_ <O>
@@ -67,7 +68,8 @@ American	JJ	_ <O>
 M4	NNP	_ <O>
 Sherman	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 VIS	NN	_ <O>
 (	-LRB-	_ <O>
 Polish	JJ	_ <O>
@@ -110,7 +112,8 @@ semi	NN	_ <O>
 automatic	JJ	_ <O>
 pistol	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Between	IN	_ <O>
 1939	CD	_ <O>
 -	SYM	_ <O>
@@ -132,7 +135,8 @@ paratroopers	NNS	_ <O>
 and	CC	_ <O>
 police	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Radom	NNP	_ <O>
 was	VBD	_ <O>
@@ -154,7 +158,8 @@ of	IN	_ <O>
 that	DT	_ <O>
 period	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 the	DT	_ <O>
 war	NN	_ <O>
@@ -173,7 +178,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 Vis	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 was	VBD	_ <O>
 to	TO	_ <O>
@@ -192,7 +198,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 1940s	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Thanks	NNS	_ <O>
 to	IN	_ <O>
 the	DT	_ <O>
@@ -215,7 +222,8 @@ before	IN	_ <O>
 World	NNP	_ <O>
 War	NNP	_ <O>
 II.	NNP	_ <O>
- <O>
+
+NULL
 7TP	NN	_ <O>
 was	VBD	_ <O>
 the	DT	_ <O>
@@ -228,7 +236,8 @@ Second	NNP	_ <O>
 World	NNP	_ <O>
 War	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 development	NN	_ <O>
 of	IN	_ <O>
@@ -255,7 +264,8 @@ I	PRP	_ <O>
 and	CC	_ <O>
 Panzer	NNP	_ <O>
 II.	NNP	_ <O>
- <O>
+
+NULL
 Samochód	NNP	_ <O>
 pancerny	VBZ	_ <O>
 wz	NN	_ <O>
@@ -286,7 +296,8 @@ heavy	JJ	_ <O>
 armored	JJ	_ <O>
 car	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 was	VBD	_ <O>
 probably	RB	<B-CUE>
@@ -318,7 +329,8 @@ Second	NNP	_ <O>
 World	NNP	_ <O>
 War	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 was	VBD	_ <O>
 used	VBN	_ <O>
@@ -337,7 +349,8 @@ walkie	NN	_ <O>
 talkie	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Polish	NNP	_ <O>
 Home	NNP	_ <O>
@@ -360,7 +373,8 @@ weaponry	NN	_ <O>
 and	CC	_ <O>
 munitions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Finally	RB	_ <O>
 ,	,	_ <O>
 during	IN	_ <O>
@@ -381,4 +395,5 @@ in	IN	_ <O>
 the	DT	_ <O>
 fighting	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

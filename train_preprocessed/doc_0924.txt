@@ -19,4 +19,5 @@ the	DT	_ <O>
 Mountain	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

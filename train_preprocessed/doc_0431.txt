@@ -19,7 +19,8 @@ rather	RB	_ <O>
 than	IN	_ <O>
 killing	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 behaviour	NN	_ <O>
 has	VBZ	_ <O>
@@ -38,7 +39,8 @@ by	IN	_ <O>
 the	DT	_ <O>
 Europeans	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 the	DT	_ <O>
 Aztecs	NNP	_ <O>
 '	POS	_ <O>
@@ -59,7 +61,8 @@ enemies	NNS	_ <O>
 in	IN	_ <O>
 battle	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 this	DT	_ <O>
 idea	NN	_ <O>
@@ -101,4 +104,5 @@ with	IN	_ <O>
 fierce	JJ	_ <O>
 resistance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

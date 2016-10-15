@@ -18,7 +18,8 @@ the	DT	_ <O>
 Arkansas	NNP	_ <O>
 River	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 were	VBD	_ <O>
 a	DT	_ <O>
@@ -34,7 +35,8 @@ than	IN	_ <O>
 the	DT	_ <O>
 Osage	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 known	VBN	<I-CUE>
@@ -55,7 +57,8 @@ in	IN	_ <O>
 their	PRP$	_ <O>
 way	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 town	NN	_ <O>
 's	POS	_ <O>
@@ -88,7 +91,8 @@ to	TO	_ <O>
 produce	VB	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Who	WP	_ <O>
 Lived	VBD	_ <O>
 in	IN	_ <O>
@@ -99,4 +103,5 @@ Our	PRP$	_ <O>
 Ancestors	NNPS	_ <O>
 Came	NNPS	_ <O>
 ?	.	_ <O>
- <O>
+
+NULL

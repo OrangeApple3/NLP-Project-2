@@ -11,7 +11,8 @@ the	DT	_ <O>
 17th	JJ	_ <O>
 century	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 toccata	NN	_ <O>
 at	IN	_ <O>
@@ -64,7 +65,8 @@ called	VBN	_ <O>
 an	DT	_ <O>
 overture	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Such	JJ	_ <O>
 short	JJ	_ <O>
 introductions	NNS	_ <O>
@@ -82,4 +84,5 @@ Bach	NNP	_ <O>
 's	POS	_ <O>
 cantatas	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

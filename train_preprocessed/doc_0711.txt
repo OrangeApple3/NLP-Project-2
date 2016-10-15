@@ -39,7 +39,8 @@ a	DT	_ <O>
 doomed	JJ	_ <O>
 rabbit	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Extreme	JJ	_ <O>
 specialization	NN	_ <O>
 of	IN	_ <O>
@@ -77,7 +78,8 @@ cormorants	NNS	_ <O>
 or	CC	_ <O>
 dogs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Social	JJ	_ <O>
 predation	NN	_ <O>
 is	VBZ	_ <O>
@@ -101,7 +103,8 @@ cats	NNS	_ <O>
 perform	VBP	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Even	RB	_ <O>
 without	IN	_ <O>
 complex	JJ	_ <O>
@@ -120,4 +123,5 @@ much	RB	_ <O>
 larger	JJR	_ <O>
 creatures	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

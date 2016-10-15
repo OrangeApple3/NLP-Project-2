@@ -6,7 +6,8 @@ generally	RB	<B-CUE>
 favorable	JJ	<I-CUE>
 reviews	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Most	JJS	<B-CUE>
 critics	NNS	<I-CUE>
 praised	VBD	_ <O>
@@ -38,7 +39,8 @@ was	VBD	_ <O>
 still	RB	_ <O>
 engaging	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Reviewers	NNS	<B-CUE>
 were	VBD	_ <O>
 divided	VBN	_ <O>
@@ -57,7 +59,8 @@ as	IN	_ <O>
 being	VBG	_ <O>
 primitive	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 games	NNS	_ <O>
 enjoyed	VBD	_ <O>
@@ -116,4 +119,5 @@ and	CC	_ <O>
 LeafGreen	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

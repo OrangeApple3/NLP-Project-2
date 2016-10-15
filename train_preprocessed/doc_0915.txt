@@ -9,7 +9,8 @@ morphology	NN	_ <O>
 or	CC	_ <O>
 phonology	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	JJS	_ <O>
 Pravic	JJ	_ <O>
 words	NNS	_ <O>
@@ -83,7 +84,8 @@ they	PRP	_ <O>
 probably	RB	<B-CUE>
 are	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Gv	NNP	_ <O>
 '	''	_ <O>
@@ -142,7 +144,8 @@ of	IN	_ <O>
 labiovelar	JJ	_ <O>
 consonants	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Other	JJ	_ <O>
 than	IN	_ <O>
 that	DT	_ <O>
@@ -163,4 +166,5 @@ another	DT	_ <O>
 named	VBN	_ <O>
 Skovan	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -52,7 +52,8 @@ Nazi	NNP	_ <O>
 hands	NNS	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 some	DT	<B-CUE>
 historians	NNS	<I-CUE>
 have	VBP	<B-CUE>
@@ -90,7 +91,8 @@ surviving	VBG	_ <O>
 the	DT	_ <O>
 Holocaust	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Catholic	JJ	_ <O>
 scholar	NN	_ <O>
 Kevin	NNP	_ <O>
@@ -126,4 +128,5 @@ State	NNP	_ <O>
 of	IN	_ <O>
 Israel	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

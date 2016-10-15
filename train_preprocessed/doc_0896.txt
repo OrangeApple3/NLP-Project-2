@@ -12,7 +12,8 @@ in	IN	_ <O>
 Eastern	NNP	_ <O>
 Europe	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Knife	NNP	_ <O>
 pistols	NNS	_ <O>
 with	IN	_ <O>
@@ -28,7 +29,8 @@ mid	JJ	_ <O>
 Victorian	JJ	_ <O>
 era	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 were	VBD	_ <O>
 made	VBN	_ <O>
@@ -48,7 +50,8 @@ various	JJ	_ <O>
 small	JJ	_ <O>
 calibers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Like	IN	_ <O>
 the	DT	_ <O>
 modern	JJ	_ <O>
@@ -74,4 +77,5 @@ used	VBN	_ <O>
 by	IN	_ <O>
 sailors	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

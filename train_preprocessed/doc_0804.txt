@@ -55,7 +55,8 @@ about	IN	_ <O>
 other	JJ	_ <O>
 things	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 plan	NN	_ <O>
 was	VBD	_ <O>
@@ -75,7 +76,8 @@ I	PRP	_ <O>
 absolutely	RB	_ <O>
 disagreed	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 other	JJ	_ <O>
 words	NNS	_ <O>
@@ -98,7 +100,8 @@ were	VBD	_ <O>
 considerably	RB	<B-CUE>
 different	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 even	RB	_ <O>
@@ -127,4 +130,5 @@ for	IN	_ <O>
 several	JJ	_ <O>
 weeks	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

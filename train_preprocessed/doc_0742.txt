@@ -11,7 +11,8 @@ as	IN	_ <O>
 the	DT	_ <O>
 Panthers	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 PSU	NN	_ <O>
 competes	VBZ	_ <O>
 in	IN	_ <O>
@@ -31,7 +32,8 @@ its	PRP$	_ <O>
 intercollegiate	JJ	_ <O>
 sports	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	<B-CUE>
 most	RBS	<I-CUE>
@@ -63,7 +65,8 @@ diving	NN	_ <O>
 and	CC	_ <O>
 volleyball	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Every	DT	_ <O>
 year	NN	_ <O>
 the	DT	_ <O>
@@ -87,4 +90,5 @@ against	IN	_ <O>
 each	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

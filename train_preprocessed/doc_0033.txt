@@ -49,7 +49,8 @@ and	CC	_ <O>
 Estuary	NNP	_ <O>
 English	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 same	JJ	_ <O>
 phenomenon	NN	_ <O>
@@ -75,7 +76,8 @@ modern	JJ	_ <O>
 Romance	NNP	_ <O>
 languages	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Interestingly	RB	_ <O>
 ,	,	_ <O>
 both	DT	_ <O>
@@ -130,7 +132,8 @@ Spanish	JJ	_ <O>
 /x/	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -157,4 +160,5 @@ in	IN	_ <O>
 Runic	NNP	_ <O>
 Swedish	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

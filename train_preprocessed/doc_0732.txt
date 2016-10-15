@@ -18,7 +18,8 @@ edition	NN	_ <O>
 in	IN	_ <O>
 1882	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Like	IN	_ <O>
 other	JJ	_ <O>
 fellow	JJ	_ <O>
@@ -36,7 +37,8 @@ descriptive	JJ	_ <O>
 of	IN	_ <O>
 nature	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 critics	NNS	<I-CUE>
 contend	VB	_ <O>
@@ -52,7 +54,8 @@ poet	NN	_ <O>
 John	NNP	_ <O>
 Keats	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hayne	NNP	_ <O>
 's	POS	_ <O>
 sonnets	NNS	_ <O>
@@ -62,4 +65,5 @@ his	PRP$	_ <O>
 best	JJS	<B-CUE>
 work	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

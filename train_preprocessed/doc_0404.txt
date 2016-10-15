@@ -26,7 +26,8 @@ in	IN	_ <O>
 everyday	JJ	_ <O>
 communication	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 dialect	NN	_ <O>
 is	VBZ	_ <O>
@@ -41,12 +42,14 @@ of	IN	_ <O>
 local	JJ	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 European	NNP	_ <O>
 Commission	NNP	_ <O>
 2006	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -56,7 +59,8 @@ some	DT	_ <O>
 local	JJ	_ <O>
 Czechs	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 Zaolzie	NNP	_ <O>
@@ -87,4 +91,5 @@ pray	VB	_ <O>
 in	IN	_ <O>
 Polish	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

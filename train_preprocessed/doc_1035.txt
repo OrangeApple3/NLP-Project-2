@@ -10,7 +10,8 @@ slaves	NNS	_ <O>
 were	VBD	_ <O>
 complex	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Three	CD	_ <O>
 strands	NNS	_ <O>
 may	MD	<B-CUE>
@@ -28,7 +29,8 @@ from	IN	_ <O>
 each	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 following	VBG	_ <O>
 relates	VBZ	_ <O>
@@ -40,4 +42,5 @@ and	CC	_ <O>
 Roman	JJ	_ <O>
 forms	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

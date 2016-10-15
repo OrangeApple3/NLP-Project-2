@@ -25,7 +25,8 @@ is	VBZ	_ <O>
 now	RB	_ <O>
 situated	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 land	NN	_ <O>
 returned	VBD	_ <O>
@@ -40,4 +41,5 @@ the	DT	_ <O>
 early	JJ	_ <O>
 1970s	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

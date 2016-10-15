@@ -8,7 +8,8 @@ apathy	NN	_ <O>
 to	IN	_ <O>
 extreme	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 risk	VB	_ <O>
 their	PRP$	_ <O>
@@ -29,7 +30,8 @@ avoid	VB	_ <O>
 human	JJ	_ <O>
 starvation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 while	IN	_ <O>
@@ -83,7 +85,8 @@ many	JJ	<B-CUE>
 nutrition	NN	<I-CUE>
 experts	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	<B-CUE>
 broad	JJ	<I-CUE>
 majority	NN	<I-CUE>
@@ -117,4 +120,5 @@ variety	NN	_ <O>
 of	IN	_ <O>
 reasons	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

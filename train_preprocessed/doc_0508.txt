@@ -35,7 +35,8 @@ first	JJ	_ <O>
 order	NN	_ <O>
 logic	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 No	DT	_ <O>
 set	NN	_ <O>
 ever	RB	_ <O>
@@ -48,7 +49,8 @@ its	PRP$	_ <O>
 members	NNS	_ <O>
 may	MD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 fact	NN	_ <O>
 that	IN	_ <O>
@@ -75,7 +77,8 @@ surrounds	VBZ	_ <O>
 the	DT	_ <O>
 building	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Plural	JJ	_ <O>
 noun	NN	_ <O>
 phrases	NNS	_ <O>
@@ -85,4 +88,5 @@ to	IN	_ <O>
 several	JJ	<B-CUE>
 things	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

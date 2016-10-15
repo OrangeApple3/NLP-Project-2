@@ -32,7 +32,8 @@ of	IN	_ <O>
 postage	NN	_ <O>
 stamps	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 From	IN	_ <O>
 the	DT	_ <O>
 late	JJ	_ <O>
@@ -52,7 +53,8 @@ often	RB	<B-CUE>
 manufactured	VBN	_ <O>
 abroad	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Mexican	JJ	_ <O>
 Revolution	NNP	_ <O>
@@ -93,7 +95,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 country	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 years	NNS	_ <O>
@@ -125,4 +128,5 @@ and	CC	_ <O>
 mural	JJ	_ <O>
 artists	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

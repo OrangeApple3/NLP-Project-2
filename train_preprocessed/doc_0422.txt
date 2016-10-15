@@ -30,7 +30,8 @@ Sovietological	JJ	<I-CUE>
 colleagues	NNS	<I-CUE>
 wrong	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Reagan	NNP	_ <O>
 and	CC	_ <O>
 Levin	NNP	_ <O>
@@ -72,7 +73,8 @@ believe	VB	_ <O>
 the	DT	_ <O>
 worst	JJS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	JJS	<B-CUE>
 of	IN	<I-CUE>
 the	DT	<I-CUE>
@@ -114,7 +116,8 @@ would	MD	_ <O>
 not	RB	_ <O>
 work	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 were	VBD	_ <O>
 also	RB	_ <O>
@@ -144,4 +147,5 @@ impoverished	JJ	_ <O>
 societies	NNS	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

@@ -22,7 +22,8 @@ Eindhoven	NNP	_ <O>
 among	IN	_ <O>
 others	NNS	<B-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 From	IN	_ <O>
 1870	CD	_ <O>
 onwards	RB	_ <O>
@@ -53,7 +54,8 @@ Norway	NNP	_ <O>
 and	CC	_ <O>
 Italy	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 also	RB	_ <O>
 experimented	VBD	_ <O>
@@ -69,7 +71,8 @@ non	AFX	_ <O>
 conventional	JJ	_ <O>
 layouts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 this	DT	_ <O>
 second	JJ	_ <O>
@@ -85,4 +88,5 @@ his	PRP$	<I-CUE>
 best	JJS	<I-CUE>
 work	NN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

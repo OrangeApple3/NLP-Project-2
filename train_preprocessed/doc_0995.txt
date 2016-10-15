@@ -28,7 +28,8 @@ Luke	NNP	_ <O>
 and	CC	_ <O>
 John	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 some	DT	<B-CUE>
 think	VB	_ <O>
@@ -66,4 +67,5 @@ about	IN	_ <O>
 A.D.	NNP	_ <O>
 95	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

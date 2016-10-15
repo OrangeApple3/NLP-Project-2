@@ -38,7 +38,8 @@ to	TO	_ <O>
 this	DT	_ <O>
 style	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	_ <O>
 possible	JJ	<B-CUE>
 reason	NN	_ <O>
@@ -63,7 +64,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 internet	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Another	DT	_ <O>
 possible	JJ	<B-CUE>
 reason	NN	_ <O>
@@ -105,7 +107,8 @@ prefix	NN	_ <O>
 level	NN	_ <O>
 indicators	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Finally	RB	_ <O>
 ,	,	_ <O>
 most	JJS	<B-CUE>
@@ -139,4 +142,5 @@ in	IN	_ <O>
 chronological	JJ	_ <O>
 order	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -7,7 +7,8 @@ found	VBN	_ <O>
 in	IN	_ <O>
 churches	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Use	NNP	_ <O>
 of	IN	_ <O>
 pewter	NN	_ <O>
@@ -33,7 +34,8 @@ and	CC	_ <O>
 19th	JJ	_ <O>
 centuries	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Mass	NNP	_ <O>
 production	NN	_ <O>
 of	IN	_ <O>
@@ -53,7 +55,8 @@ to	IN	_ <O>
 day	NN	_ <O>
 life	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 some	DT	_ <O>
 items	NNS	_ <O>
@@ -67,4 +70,5 @@ is	VBZ	_ <O>
 very	RB	_ <O>
 rare	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

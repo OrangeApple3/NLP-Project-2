@@ -5,7 +5,8 @@ singalensis	NN	_ <O>
 '	''	_ <O>
 ,	.	_ <O>
 Felder.—	FW	_ <O>
- <O>
+
+NULL
 Male	NN	_ <O>
 Upperside	NNP	_ <O>
 :	:	_ <O>
@@ -64,7 +65,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 latter	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Fore	JJ	_ <O>
 wing	NN	_ <O>
 :	:	_ <O>
@@ -103,7 +105,8 @@ posteriorly	RB	_ <O>
 than	IN	_ <O>
 anteriorly	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hind	JJ	_ <O>
 wing	NN	_ <O>
 :	:	_ <O>
@@ -140,7 +143,8 @@ than	IN	_ <O>
 the	DT	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Both	DT	_ <O>
 fore	NN	_ <O>
 and	CC	_ <O>
@@ -204,4 +208,5 @@ and	CC	_ <O>
 clearly	RB	_ <O>
 defined	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

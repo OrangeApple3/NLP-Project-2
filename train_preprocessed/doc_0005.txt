@@ -41,7 +41,8 @@ military	JJ	_ <O>
 intervention	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 National	NNP	_ <O>
 Security	NNP	_ <O>
 Adviser	NNP	_ <O>
@@ -80,7 +81,8 @@ Afghanistan	NNP	_ <O>
 Dec	NNP	_ <O>
 1979	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 the	DT	_ <O>
 reality	NN	_ <O>
@@ -95,7 +97,8 @@ completely	RB	_ <O>
 otherwise	RB	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 That	DT	_ <O>
 secret	JJ	_ <O>
@@ -105,7 +108,8 @@ an	DT	_ <O>
 excellent	JJ	_ <O>
 idea	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 had	VBD	_ <O>
 the	DT	_ <O>
@@ -119,7 +123,8 @@ the	DT	_ <O>
 Afghan	JJ	_ <O>
 trap	NN	_ <O>
 ....	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 day	NN	_ <O>
 that	IN	_ <O>
@@ -136,7 +141,8 @@ to	IN	_ <O>
 President	NNP	_ <O>
 Carter	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 We	PRP	_ <O>
 now	RB	_ <O>
@@ -154,7 +160,8 @@ Vietnam	NNP	_ <O>
 War	NNP	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 There	EX	_ <O>
 are	VBP	_ <O>
@@ -203,7 +210,8 @@ the	DT	_ <O>
 shorter	JJR	_ <O>
 version	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 above	JJ	_ <O>
 has	VBZ	_ <O>
@@ -248,7 +256,8 @@ World	NNP	_ <O>
 Only	JJ	_ <O>
 Superpower	NN	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Portions	NNS	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -259,4 +268,5 @@ read	VBN	_ <O>
 at	IN	_ <O>
 :	:	_ <O>
 "	``	_ <O>
- <O>
+
+NULL

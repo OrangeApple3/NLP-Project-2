@@ -27,7 +27,8 @@ of	IN	_ <O>
 Zionist	JJ	_ <O>
 groups	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Post	NNP	_ <O>
 -	HYPH	_ <O>
 Zionists	NNPS	_ <O>
@@ -45,7 +46,8 @@ Israel	NNP	_ <O>
 among	IN	_ <O>
 them	PRP	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 Is	VBZ	_ <O>
 the	DT	_ <O>
 state	NN	_ <O>
@@ -60,7 +62,8 @@ the	DT	_ <O>
 Jewish	JJ	_ <O>
 nation	NN	_ <O>
 ?	.	_ <O>
- <O>
+
+NULL
 Are	VBP	_ <O>
 there	EX	_ <O>
 any	DT	_ <O>
@@ -84,14 +87,16 @@ point	NN	_ <O>
 of	IN	_ <O>
 view	NN	_ <O>
 ?	.	_ <O>
- <O>
+
+NULL
 (	-LRB-	_ <O>
 For	IN	_ <O>
 example	NN	_ <O>
 North	NNP	_ <O>
 America	NNP	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 Is	VBZ	_ <O>
 it	PRP	_ <O>
 really	RB	_ <O>
@@ -106,4 +111,5 @@ and	CC	_ <O>
 a	DT	_ <O>
 democracy	NN	_ <O>
 ?	.	_ <O>
- <O>
+
+NULL

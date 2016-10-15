@@ -26,7 +26,8 @@ usually	RB	_ <O>
 not	RB	_ <O>
 counted	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 importance	NN	_ <O>
 of	IN	_ <O>
@@ -50,7 +51,8 @@ within	IN	<I-CUE>
 a	DT	<I-CUE>
 country	NN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Per	IN	_ <O>
 capita	NN	_ <O>
 income	NN	_ <O>
@@ -90,7 +92,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 population	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 for	IN	_ <O>
 the	DT	_ <O>
@@ -120,4 +123,5 @@ more	RBR	_ <O>
 appropriate	JJ	_ <O>
 approach	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

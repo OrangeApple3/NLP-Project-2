@@ -16,7 +16,8 @@ describe	VB	_ <O>
 a	DT	_ <O>
 phobia	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -35,7 +36,8 @@ plane	NN	_ <O>
 may	MD	_ <O>
 crash	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 lack	NN	_ <O>
 of	IN	_ <O>
@@ -49,7 +51,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 latter	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 An	DT	_ <O>
 important	JJ	_ <O>
 feature	NN	_ <O>
@@ -106,4 +109,5 @@ or	CC	_ <O>
 about	IN	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

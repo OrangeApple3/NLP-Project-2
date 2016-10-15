@@ -49,7 +49,8 @@ Battle	NNP	_ <O>
 of	IN	_ <O>
 Berlin	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Soviet	NNP	_ <O>
 Union	NNP	_ <O>
@@ -74,7 +75,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 war	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -93,7 +95,8 @@ other	JJ	_ <O>
 allies	NNS	_ <O>
 together	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 the	DT	_ <O>
 war	NN	_ <O>
@@ -125,4 +128,5 @@ western	JJ	_ <O>
 Allies	NNPS	_ <O>
 and	CC	_ <O>
 NATO.	NNP	_ <O>
- <O>
+
+NULL

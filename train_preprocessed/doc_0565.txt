@@ -39,7 +39,8 @@ director	NN	_ <O>
 Stuart	NNP	_ <O>
 Smith	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 School	NNP	_ <O>
 groups	NNS	_ <O>
 have	VBP	_ <O>
@@ -62,7 +63,8 @@ professional	JJ	_ <O>
 standard	NN	_ <O>
 productions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 English	NNP	_ <O>
@@ -111,7 +113,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 words	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Paris	NNP	_ <O>
 '	''	_ <O>
@@ -136,4 +139,5 @@ head	NN	_ <O>
 and	CC	_ <O>
 heart	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

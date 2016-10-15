@@ -50,7 +50,8 @@ middle	NN	_ <O>
 of	IN	_ <O>
 nowhere	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 this	DT	_ <O>
 happens	VBZ	_ <O>
@@ -92,7 +93,8 @@ skin	NN	_ <O>
 and	CC	_ <O>
 all	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 She	PRP	_ <O>
 states	VBZ	_ <O>
 that	IN	_ <O>
@@ -130,7 +132,8 @@ life	NN	_ <O>
 in	IN	_ <O>
 Gotham	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 leads	VBZ	_ <O>
 readers	NNS	_ <O>
@@ -190,4 +193,5 @@ between	IN	_ <O>
 both	DT	_ <O>
 series	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

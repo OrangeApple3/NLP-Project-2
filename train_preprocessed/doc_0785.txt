@@ -22,7 +22,8 @@ time	NN	_ <O>
 or	CC	_ <O>
 inflation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Using	VBG	_ <O>
 net	JJ	_ <O>
 present	JJ	_ <O>
@@ -51,7 +52,8 @@ variety	NN	_ <O>
 of	IN	_ <O>
 investments	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 order	NN	_ <O>
 to	TO	_ <O>
@@ -85,7 +87,8 @@ number	NN	<I-CUE>
 of	IN	<I-CUE>
 risks	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Managing	VBG	_ <O>
 these	DT	<B-CUE>
 portfolio	NN	<I-CUE>
@@ -107,4 +110,5 @@ risk	NN	_ <O>
 and	CC	_ <O>
 opportunity	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -31,7 +31,8 @@ personal	JJ	_ <O>
 luxury	NN	_ <O>
 cars	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Those	DT	_ <O>
 changes	NNS	_ <O>
 for	IN	_ <O>
@@ -78,7 +79,8 @@ option	NN	_ <O>
 "	''	_ <O>
 list	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Leather	JJ	_ <O>
 interior	JJ	_ <O>
 trim	NN	_ <O>
@@ -101,7 +103,8 @@ and	CC	_ <O>
 SJ	NNP	_ <O>
 models	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Both	DT	_ <O>
 the	DT	_ <O>
 "	``	_ <O>
@@ -136,7 +139,8 @@ on	IN	_ <O>
 all	DT	_ <O>
 models	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 celebration	NN	_ <O>
 of	IN	_ <O>
@@ -159,7 +163,8 @@ gold	NN	_ <O>
 were	VBD	_ <O>
 produced	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 models	NNS	_ <O>
 featured	VBD	_ <O>
@@ -184,4 +189,5 @@ the	DT	_ <O>
 regular	JJ	_ <O>
 models	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

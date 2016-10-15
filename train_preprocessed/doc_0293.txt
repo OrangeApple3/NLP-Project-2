@@ -25,7 +25,8 @@ in	IN	_ <O>
 key	JJ	_ <O>
 posts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Previous	JJ	_ <O>
 U.N.	NNP	_ <O>
 chiefs	NNS	_ <O>
@@ -68,7 +69,8 @@ country	NN	_ <O>
 Foreign	NNP	_ <O>
 Ministry	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 some	DT	<B-CUE>
@@ -97,7 +99,8 @@ the	DT	_ <O>
 past	JJ	_ <O>
 year	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 response	NN	_ <O>
 ,	,	_ <O>
@@ -127,7 +130,8 @@ undercurrents	NNS	_ <O>
 of	IN	_ <O>
 racism	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 said	VBD	_ <O>
 that	IN	_ <O>
@@ -169,4 +173,5 @@ for	IN	_ <O>
 their	PRP$	_ <O>
 positions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

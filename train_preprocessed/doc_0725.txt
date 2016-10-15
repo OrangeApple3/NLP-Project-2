@@ -36,7 +36,8 @@ post	NN	_ <O>
 war	NN	_ <O>
 years	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 sudden	JJ	_ <O>
 arrival	NN	_ <O>
@@ -91,7 +92,8 @@ money	NN	_ <O>
 doing	VBG	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	<B-CUE>
 two	CD	<I-CUE>
 best	RBS	<I-CUE>
@@ -113,7 +115,8 @@ on	IN	_ <O>
 the	DT	_ <O>
 map	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Within	IN	_ <O>
 a	DT	_ <O>
 few	JJ	_ <O>
@@ -148,4 +151,5 @@ and	CC	_ <O>
 the	DT	_ <O>
 imports	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

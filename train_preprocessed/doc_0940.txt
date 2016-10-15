@@ -41,7 +41,8 @@ produce	VB	_ <O>
 the	DT	_ <O>
 radiopharmaceuticals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Few	JJ	<B-CUE>
 hospitals	NNS	<I-CUE>
 and	CC	<I-CUE>
@@ -73,7 +74,8 @@ many	JJ	<B-CUE>
 sites	NNS	<I-CUE>
 simultaneously	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 limitation	NN	_ <O>
 restricts	VBZ	_ <O>
@@ -127,7 +129,8 @@ myocardial	JJ	_ <O>
 perfusion	NN	_ <O>
 studies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nevertheless	RB	_ <O>
 ,	,	_ <O>
 in	IN	_ <O>
@@ -155,4 +158,5 @@ to	IN	_ <O>
 remote	JJ	_ <O>
 hospitals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

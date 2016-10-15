@@ -37,7 +37,8 @@ other	JJ	<I-CUE>
 civil	JJ	<I-CUE>
 liberties	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Marcos	NNP	_ <O>
 also	RB	_ <O>
 ordered	VBD	_ <O>
@@ -51,7 +52,8 @@ opponents	NNS	_ <O>
 and	CC	_ <O>
 critics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Among	IN	_ <O>
 those	DT	_ <O>
 arrested	VBN	_ <O>
@@ -93,7 +95,8 @@ the	DT	_ <O>
 1973	CD	_ <O>
 elections	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 With	IN	_ <O>
 practically	RB	_ <O>
 all	DT	_ <O>
@@ -153,4 +156,5 @@ terms	NNS	_ <O>
 as	IN	_ <O>
 president	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

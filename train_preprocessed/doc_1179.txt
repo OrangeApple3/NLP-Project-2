@@ -18,7 +18,8 @@ evolution	NN	_ <O>
 is	VBZ	_ <O>
 unfalsifiable	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 claim	VBP	_ <O>
 that	IN	_ <O>
@@ -43,7 +44,8 @@ evolution	NN	_ <O>
 is	VBZ	_ <O>
 wrong	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Others	NNS	<B-CUE>
 claim	NN	_ <O>
 evolution	NN	_ <O>
@@ -100,7 +102,8 @@ of	IN	_ <O>
 virtual	JJ	_ <O>
 impossibility	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Others	NNS	<B-CUE>
 claim	NN	_ <O>
 that	IN	_ <O>
@@ -121,7 +124,8 @@ is	VBZ	_ <O>
 not	RB	_ <O>
 falsifiable	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1976	CD	_ <O>
 ,	,	_ <O>
@@ -144,7 +148,8 @@ research	NN	_ <O>
 programme	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 Popper	NNP	_ <O>
@@ -168,4 +173,5 @@ of	IN	_ <O>
 its	PRP$	_ <O>
 status	NN	_ <O>
 :	:	_ <O>
- <O>
+
+NULL

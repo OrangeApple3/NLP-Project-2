@@ -28,7 +28,8 @@ Penn	NNP	_ <O>
 State	NNP	_ <O>
 University	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 number	NN	_ <O>
 is	VBZ	<B-CUE>
@@ -54,7 +55,8 @@ Cedarbrook	NNP	_ <O>
 apartment	NN	_ <O>
 buildings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Allegedly	RB	<B-CUE>
 ,	,	_ <O>
 this	DT	_ <O>
@@ -83,4 +85,5 @@ number	NN	_ <O>
 was	VBD	_ <O>
 used	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

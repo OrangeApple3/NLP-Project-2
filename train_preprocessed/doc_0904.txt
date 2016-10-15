@@ -16,7 +16,8 @@ candidates	NNS	_ <O>
 claimed	VBD	_ <O>
 victory	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Marc	NNP	_ <O>
 Ravalomanana	NNP	_ <O>
 contested	VBD	_ <O>
@@ -26,7 +27,8 @@ and	CC	_ <O>
 claimed	VBD	_ <O>
 victory	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 political	JJ	_ <O>
 crisis	NN	_ <O>
@@ -55,7 +57,8 @@ of	IN	_ <O>
 Ravalomanana	NNP	_ <O>
 support	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Sporadic	JJ	_ <O>
 violence	NN	_ <O>
 and	CC	_ <O>
@@ -80,4 +83,5 @@ exile	NN	_ <O>
 in	IN	_ <O>
 France	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

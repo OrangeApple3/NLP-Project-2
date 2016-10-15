@@ -24,4 +24,5 @@ a	DT	_ <O>
 virtuous	JJ	_ <O>
 life	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

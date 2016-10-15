@@ -36,7 +36,8 @@ a	DT	_ <O>
 great	JJ	_ <O>
 samurai	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Legend	NN	<B-CUE>
 claims	NNS	<B-CUE>
 that	IN	_ <O>
@@ -60,7 +61,8 @@ over	IN	_ <O>
 his	PRP$	_ <O>
 lifetime	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 said	VBN	<I-CUE>
@@ -86,7 +88,8 @@ he	PRP	_ <O>
 took	VBD	_ <O>
 part	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 age	NN	_ <O>
 35	CD	_ <O>
@@ -128,4 +131,5 @@ Five	CD	_ <O>
 Rings	NNS	_ <O>
 .	.	_ <O>
 ”	NFP	_ <O>
- <O>
+
+NULL

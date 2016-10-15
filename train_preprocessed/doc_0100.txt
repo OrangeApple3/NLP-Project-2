@@ -16,7 +16,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 law	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 wash	NN	_ <O>
 for	IN	_ <O>
@@ -42,7 +43,8 @@ and	CC	_ <O>
 some	DT	_ <O>
 yeast	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Stills	NNS	_ <O>
 were	VBD	_ <O>
 often	RB	_ <O>
@@ -60,7 +62,8 @@ could	MD	_ <O>
 be	VB	_ <O>
 disputed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 still	RB	_ <O>
 had	VBD	_ <O>
@@ -81,4 +84,5 @@ to	TO	_ <O>
 go	VB	_ <O>
 through	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

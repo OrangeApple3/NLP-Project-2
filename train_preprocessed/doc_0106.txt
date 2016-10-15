@@ -46,7 +46,8 @@ the	DT	_ <O>
 United	NNP	_ <O>
 States	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Contrary	JJ	_ <O>
 to	IN	_ <O>
 popular	JJ	<B-CUE>
@@ -77,7 +78,8 @@ Jews	NNPS	_ <O>
 as	RB	_ <O>
 well	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 of	IN	<I-CUE>
 these	DT	<I-CUE>
@@ -115,7 +117,8 @@ strangers	NNS	_ <O>
 at	IN	_ <O>
 Christmastime	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 also	RB	_ <O>
 claim	VBP	_ <O>
@@ -144,7 +147,8 @@ holidays	NNS	_ <O>
 by	IN	_ <O>
 name	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 United	NNP	_ <O>
 States	NNP	_ <O>
@@ -161,7 +165,8 @@ held	VBN	_ <O>
 in	IN	_ <O>
 December	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 2001	CD	_ <O>
 ,	,	_ <O>
@@ -200,4 +205,5 @@ legitimate	JJ	_ <O>
 secular	JJ	_ <O>
 interest	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

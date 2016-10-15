@@ -23,7 +23,8 @@ the	DT	_ <O>
 Suncoast	NNP	_ <O>
 Parkway	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 23px	NN	_ <O>
 Suncoast	NNP	_ <O>
 Parkway	NNP	_ <O>
@@ -96,7 +97,8 @@ reaching	VBG	_ <O>
 Interstate	NNP	_ <O>
 275	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 SR	NN	_ <O>
 589	CD	_ <O>
 has	VBZ	_ <O>
@@ -135,7 +137,8 @@ Road(Exit	NNP	_ <O>
 37	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 U.S.	NNP	_ <O>
 Route	NNP	_ <O>
 19	CD	_ <O>
@@ -204,7 +207,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 north	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Alternate	JJ	_ <O>
 19	CD	_ <O>
 is	VBZ	_ <O>
@@ -232,7 +236,8 @@ than	IN	_ <O>
 US	NNP	_ <O>
 19	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 U.S.	NNP	_ <O>
 Route	NNP	_ <O>
 41	CD	_ <O>
@@ -243,7 +248,8 @@ O	NN	_ <O>
 Lakes	NNP	_ <O>
 Bouelvard	NNP	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 U.S.	NNP	_ <O>
 Route	NNP	_ <O>
 98	CD	_ <O>
@@ -258,7 +264,8 @@ to	IN	_ <O>
 Polk	NNP	_ <O>
 County	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Concurrent	NN	_ <O>
 with	IN	_ <O>
 US	NNP	_ <O>
@@ -269,7 +276,8 @@ and	CC	_ <O>
 Clinton	NNP	_ <O>
 Heights	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 U.S.	NNP	_ <O>
 Route	NNP	_ <O>
 301(Fort	NNP	_ <O>
@@ -277,7 +285,8 @@ King	NNP	_ <O>
 Highway/Gall	NNP	_ <O>
 Boulevard	NNP	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 State	NN	_ <O>
 Road	NNP	_ <O>
 39	CD	_ <O>
@@ -293,7 +302,8 @@ US	NNP	_ <O>
 301	CD	_ <O>
 in	IN	_ <O>
 Zephyrhills	NNP	_ <O>
- <O>
+
+NULL
 20px	NNP	_ <O>
 County	NNP	_ <O>
 Road	NNP	_ <O>
@@ -306,7 +316,8 @@ Street/21st	NNP	_ <O>
 Street/Blanton	NNP	_ <O>
 Road	NNP	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 20px	NNP	_ <O>
 County	NNP	_ <O>
 Line	NNP	_ <O>
@@ -344,7 +355,8 @@ at	IN	_ <O>
 US	NNP	_ <O>
 41	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Due	IN	_ <O>
 to	IN	_ <O>
 increased	VBN	_ <O>
@@ -374,7 +386,8 @@ a	DT	_ <O>
 state	NN	_ <O>
 road	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 State	NN	_ <O>
 Road	NNP	_ <O>
 52	CD	_ <O>
@@ -413,7 +426,8 @@ in	IN	_ <O>
 Dade	NNP	_ <O>
 City	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 State	NN	_ <O>
 Road	NNP	_ <O>
 54	CD	_ <O>
@@ -445,7 +459,8 @@ US	NNP	_ <O>
 in	IN	_ <O>
 Zephyrhills	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 State	NN	_ <O>
 Road	NNP	_ <O>
 56	CD	_ <O>
@@ -464,4 +479,5 @@ in	IN	_ <O>
 Wesley	NNP	_ <O>
 Chapel	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

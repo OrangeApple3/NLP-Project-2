@@ -25,7 +25,8 @@ before	IN	_ <O>
 the	DT	_ <O>
 1820s	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 the	DT	_ <O>
 time	NN	_ <O>
@@ -71,7 +72,8 @@ self	NN	_ <O>
 -	HYPH	_ <O>
 defence	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Because	IN	_ <O>
 of	IN	_ <O>
 many	JJ	_ <O>
@@ -124,7 +126,8 @@ districts	NNS	_ <O>
 with	IN	_ <O>
 revolvers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 practice	NN	_ <O>
 lasted	VBD	_ <O>
@@ -149,4 +152,5 @@ the	DT	_ <O>
 19th	JJ	_ <O>
 century	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

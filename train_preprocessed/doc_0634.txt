@@ -21,7 +21,8 @@ Fourth	NNP	_ <O>
 Avenue	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Above	IN	_ <O>
 14th	JJ	_ <O>
 Street	NN	_ <O>
@@ -45,7 +46,8 @@ Plan	NNP	_ <O>
 of	IN	_ <O>
 1811	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 From	IN	_ <O>
 14th	JJ	_ <O>
 Street	NN	_ <O>
@@ -81,7 +83,8 @@ for	IN	_ <O>
 this	DT	_ <O>
 distance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 From	IN	_ <O>
 17th	JJ	_ <O>
 Street	NN	_ <O>
@@ -120,4 +123,5 @@ Park	NNP	_ <O>
 Avenue	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

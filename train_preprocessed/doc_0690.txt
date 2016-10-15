@@ -26,7 +26,8 @@ to	TO	_ <O>
 thrive	VB	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 People	NNS	_ <O>
 have	VBP	_ <O>
 been	VBN	_ <O>
@@ -42,4 +43,5 @@ least	JJS	_ <O>
 Ancient	NNP	_ <O>
 Greece	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

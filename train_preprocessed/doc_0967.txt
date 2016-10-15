@@ -28,7 +28,8 @@ a	DT	_ <O>
 new	JJ	_ <O>
 one	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Bott	NNP	_ <O>
 also	RB	_ <O>
 knew	VBD	_ <O>
@@ -48,7 +49,8 @@ of	IN	_ <O>
 new	JJ	_ <O>
 models	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 motor	NN	_ <O>
 had	VBD	_ <O>
@@ -100,7 +102,8 @@ the	DT	_ <O>
 racing	NN	_ <O>
 counterpart	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 use	NN	_ <O>
 of	IN	_ <O>
@@ -155,4 +158,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 period	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

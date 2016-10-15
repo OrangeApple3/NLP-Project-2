@@ -25,7 +25,8 @@ public	NN	_ <O>
 and	CC	_ <O>
 critics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 length	NN	_ <O>
 was	VBD	_ <O>
@@ -48,7 +49,8 @@ the	DT	_ <O>
 first	JJ	_ <O>
 performance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 mentioning	VBG	_ <O>
 the	DT	_ <O>
@@ -80,7 +82,8 @@ Parisina	NNP	_ <O>
 ’s	NNP	_ <O>
 sound	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Independent	NNP	_ <O>
 of	IN	_ <O>
 any	DT	_ <O>
@@ -110,4 +113,5 @@ cut	NN	_ <O>
 cut	VBN	_ <O>
 ,	,	_ <O>
 cut!”.	XX	_ <O>
- <O>
+
+NULL

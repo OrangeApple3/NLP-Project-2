@@ -17,7 +17,8 @@ contention	NN	_ <O>
 and	CC	_ <O>
 debate	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Arguments	NNS	_ <O>
 for	IN	_ <O>
 and	CC	_ <O>
@@ -44,4 +45,5 @@ variety	NN	<I-CUE>
 of	IN	<I-CUE>
 ways	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

@@ -18,7 +18,8 @@ favourable	JJ	_ <O>
 circumstances	NNS	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 industry	NN	<I-CUE>
 specialists	NNS	<I-CUE>
@@ -44,7 +45,8 @@ the	DT	_ <O>
 foreseeable	JJ	_ <O>
 future	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -61,4 +63,5 @@ probable	JJ	_ <O>
 plus	CC	_ <O>
 possible	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

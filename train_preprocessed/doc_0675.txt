@@ -20,7 +20,8 @@ surveillance	NN	_ <O>
 state	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 have	VBP	_ <O>
 therefore	RB	_ <O>
@@ -62,4 +63,5 @@ queue	NN	_ <O>
 monitoring	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

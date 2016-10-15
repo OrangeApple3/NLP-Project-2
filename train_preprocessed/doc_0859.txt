@@ -38,7 +38,8 @@ Phyllobates	NNP	_ <O>
 '	''	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 believed	VBN	<I-CUE>
@@ -68,7 +69,8 @@ raptors	NNS	_ <O>
 or	CC	_ <O>
 humans	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 birds	NNS	_ <O>
 probably	RB	<B-CUE>
@@ -78,7 +80,8 @@ produce	VB	_ <O>
 batrachotoxin	NN	_ <O>
 themselves	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 most	RBS	<I-CUE>
@@ -103,4 +106,5 @@ bird	NN	_ <O>
 's	POS	_ <O>
 diet	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

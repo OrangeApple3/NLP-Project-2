@@ -22,7 +22,8 @@ inside	IN	_ <O>
 a	DT	_ <O>
 meteorite	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Geologist	NN	_ <O>
 Bruno	NNP	_ <O>
 D'Argenio	NNP	_ <O>
@@ -59,7 +60,8 @@ a	DT	_ <O>
 culture	NN	_ <O>
 medium	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 believe	VBP	_ <O>
 that	IN	_ <O>
@@ -85,7 +87,8 @@ washed	VBD	_ <O>
 with	IN	_ <O>
 alcohol	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 also	RB	_ <O>
 claim	VBP	_ <O>
@@ -100,4 +103,5 @@ any	DT	_ <O>
 on	IN	_ <O>
 Earth	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

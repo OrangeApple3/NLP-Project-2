@@ -13,7 +13,8 @@ Fork	NNP	_ <O>
 near	IN	_ <O>
 Bailey	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 narrowest	JJS	_ <O>
 part	NN	_ <O>
@@ -59,7 +60,8 @@ from	IN	_ <O>
 the	DT	_ <O>
 mountains	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 this	DT	_ <O>
 section	NN	_ <O>
@@ -82,7 +84,8 @@ the	DT	_ <O>
 river	NN	_ <O>
 bed	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 river	NN	_ <O>
 drops	VBZ	_ <O>
@@ -111,4 +114,5 @@ the	DT	_ <O>
 canyon	NN	_ <O>
 mouth	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

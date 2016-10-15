@@ -27,7 +27,8 @@ replaceable	JJ	_ <O>
 air	NN	_ <O>
 filters	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 early	JJ	_ <O>
@@ -49,7 +50,8 @@ sustained	JJ	_ <O>
 daily	JJ	_ <O>
 use	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -70,7 +72,8 @@ pan	NN	_ <O>
 air	NN	_ <O>
 filter	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Trilobite	NNP	_ <O>
 ,	,	_ <O>
@@ -86,7 +89,8 @@ for	IN	_ <O>
 the	DT	_ <O>
 motor	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 has	VBZ	_ <O>
 the	DT	_ <O>
@@ -107,7 +111,8 @@ any	DT	_ <O>
 internal	JJ	_ <O>
 machinery	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Like	IN	_ <O>
 the	DT	_ <O>
 later	RB	_ <O>
@@ -145,7 +150,8 @@ out	RP	_ <O>
 the	DT	_ <O>
 motor	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 later	JJ	_ <O>
 generation	NN	_ <O>
@@ -166,7 +172,8 @@ consuming	VBG	_ <O>
 to	TO	_ <O>
 clean	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Trilobite	NNP	_ <O>
 's	POS	_ <O>
@@ -204,4 +211,5 @@ slightly	RB	_ <O>
 better	JJR	_ <O>
 standard	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -40,7 +40,8 @@ new	JJ	_ <O>
 chums	NNS	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Traditional	JJ	_ <O>
 style	NN	_ <O>
 Hunter	NNP	_ <O>
@@ -67,7 +68,8 @@ bottle	NN	_ <O>
 not	RB	_ <O>
 uncommon	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -96,7 +98,8 @@ kilometres	NNS	_ <O>
 north	RB	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 many	JJ	<B-CUE>
@@ -113,7 +116,8 @@ try	VB	_ <O>
 local	JJ	_ <O>
 wines	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 list	NN	_ <O>
 of	IN	_ <O>
@@ -123,16 +127,20 @@ the	DT	_ <O>
 Pokolbin	NNP	_ <O>
 region	NN	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 Wineries	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pokolbin	NNP	_ <O>
 village	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hunter	NNP	_ <O>
 Valley	NNP	_ <O>
 Gardens	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -32,7 +32,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 disabled	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 World	NNP	_ <O>
 Health	NNP	_ <O>
@@ -49,7 +50,8 @@ polio	NN	_ <O>
 survivors	NNS	_ <O>
 worldwide	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 doctors	NNS	_ <O>
@@ -94,7 +96,8 @@ the	DT	_ <O>
 United	NNP	_ <O>
 Kingdom	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 notable	JJ	<I-CUE>
 individuals	NNS	<I-CUE>
@@ -123,4 +126,5 @@ lives	NNS	_ <O>
 and	CC	_ <O>
 careers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

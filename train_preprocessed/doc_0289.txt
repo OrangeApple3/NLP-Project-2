@@ -20,7 +20,8 @@ mentioned	VBD	_ <O>
 the	DT	_ <O>
 ear	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Below	IN	_ <O>
 the	DT	_ <O>
 great	JJ	_ <O>
@@ -57,7 +58,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 back	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 front	NN	_ <O>
 of	IN	_ <O>
@@ -85,7 +87,8 @@ meaning	VBG	_ <O>
 apparently	RB	_ <O>
 incomprehensible	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 cave	NN	_ <O>
@@ -129,7 +132,8 @@ well	RB	_ <O>
 defined	VBN	_ <O>
 ritual	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	_ <O>
 of	IN	_ <O>
 these	DT	_ <O>
@@ -161,4 +165,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 bull	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

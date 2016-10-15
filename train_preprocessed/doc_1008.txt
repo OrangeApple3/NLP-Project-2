@@ -43,7 +43,8 @@ additional	JJ	_ <O>
 '	''	_ <O>
 facts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 (	-LRB-	_ <O>
 This	DT	_ <O>
 is	VBZ	_ <O>
@@ -88,7 +89,8 @@ our	PRP$	_ <O>
 world	NN	_ <O>
 .	.	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 #	:	_ <O>
 But	CC	_ <O>
 there	EX	_ <O>
@@ -118,7 +120,8 @@ are	VBP	_ <O>
 additional	JJ	_ <O>
 facts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 (	-LRB-	_ <O>
 For	IN	_ <O>
 example	NN	_ <O>
@@ -155,7 +158,8 @@ experiences	NNS	_ <O>
 or	CC	_ <O>
 qualia	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 people	NNS	_ <O>
 there	RB	_ <O>
@@ -206,7 +210,8 @@ any	DT	_ <O>
 pain	NN	_ <O>
 .	.	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 #	NN	_ <O>
 Therefore	RB	_ <O>
 ,	,	_ <O>
@@ -214,4 +219,5 @@ physicalism	NN	_ <O>
 is	VBZ	_ <O>
 false	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

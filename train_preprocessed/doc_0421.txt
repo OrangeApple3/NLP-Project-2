@@ -14,7 +14,8 @@ Italian	JJ	_ <O>
 Renaissance	NNP	_ <O>
 painting	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Stylistic	JJ	_ <O>
 he	PRP	_ <O>
 is	VBZ	_ <O>
@@ -46,7 +47,8 @@ may	MD	<B-CUE>
 have	VBP	_ <O>
 influenced	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 work	NN	_ <O>
 differs	VBZ	_ <O>
@@ -77,7 +79,8 @@ more	RBR	_ <O>
 modern	JJ	_ <O>
 approach	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 lack	NN	_ <O>
 of	IN	_ <O>
@@ -125,4 +128,5 @@ in	IN	_ <O>
 the	DT	_ <O>
 renaissance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -55,4 +55,5 @@ based	VBN	_ <O>
 economic	JJ	_ <O>
 system	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

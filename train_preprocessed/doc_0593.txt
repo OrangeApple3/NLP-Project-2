@@ -35,7 +35,8 @@ of	IN	_ <O>
 liters	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 because	IN	_ <O>
@@ -77,7 +78,8 @@ engine	NN	_ <O>
 liters	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Taking	VBG	_ <O>
 combustion	NN	_ <O>
 chamber	NN	_ <O>
@@ -95,7 +97,8 @@ chambers	NNS	_ <O>
 per	IN	_ <O>
 engine	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 means	VBZ	_ <O>
 comparing	VBG	_ <O>
@@ -171,4 +174,5 @@ the	DT	_ <O>
 Wankel	NNP	_ <O>
 rotary	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

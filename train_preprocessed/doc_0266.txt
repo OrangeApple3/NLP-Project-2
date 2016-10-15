@@ -14,7 +14,8 @@ boogie	NN	_ <O>
 woogie	NN	_ <O>
 groups	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 worked	VBD	_ <O>
 with	IN	_ <O>
@@ -27,7 +28,8 @@ jazz	NN	_ <O>
 in	IN	_ <O>
 2006	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 is	VBZ	_ <O>
 now	RB	_ <O>
@@ -52,4 +54,5 @@ and	CC	_ <O>
 many	JJ	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

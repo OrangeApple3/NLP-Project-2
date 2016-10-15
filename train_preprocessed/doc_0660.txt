@@ -27,7 +27,8 @@ such	JJ	_ <O>
 cross	JJ	_ <O>
 pollination	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Its	PRP$	_ <O>
 also	RB	_ <O>
 the	DT	_ <O>
@@ -50,7 +51,8 @@ prevent	VB	_ <O>
 cross	VB	_ <O>
 pollination	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 beetles	NNS	_ <O>
 have	VBP	_ <O>
@@ -83,7 +85,8 @@ hybrids	NNS	_ <O>
 less	RBR	_ <O>
 likely	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 An	DT	_ <O>
 interesting	JJ	_ <O>
 feature	NN	_ <O>
@@ -106,4 +109,5 @@ to	IN	_ <O>
 genetic	JJ	_ <O>
 relation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

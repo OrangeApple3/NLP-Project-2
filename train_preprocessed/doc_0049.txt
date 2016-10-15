@@ -11,7 +11,8 @@ view	NN	_ <O>
 of	IN	_ <O>
 Mizoram	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 cliff	NN	_ <O>
 is	VBZ	<B-CUE>
@@ -22,7 +23,8 @@ haunted	VBN	_ <O>
 by	IN	_ <O>
 spirits	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 area	NN	_ <O>
 is	VBZ	_ <O>
@@ -36,7 +38,8 @@ other	JJ	_ <O>
 alluring	JJ	_ <O>
 vegetations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 You	PRP	_ <O>
 will	MD	_ <O>
 come	VB	_ <O>
@@ -54,4 +57,5 @@ in	IN	_ <O>
 this	DT	_ <O>
 region	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

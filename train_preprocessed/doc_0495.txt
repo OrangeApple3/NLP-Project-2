@@ -44,7 +44,8 @@ like	JJ	_ <O>
 spine	NN	_ <O>
 long	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 seeds	NNS	_ <O>
 are	VBP	_ <O>
@@ -82,7 +83,8 @@ the	DT	_ <O>
 opening	NN	_ <O>
 cones	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 nutcrackers	NNS	_ <O>
 use	VBP	_ <O>
@@ -117,7 +119,8 @@ into	IN	_ <O>
 new	JJ	_ <O>
 plants	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 in	IN	_ <O>
@@ -135,4 +138,5 @@ and	CC	_ <O>
 dying	VBG	_ <O>
 trees	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

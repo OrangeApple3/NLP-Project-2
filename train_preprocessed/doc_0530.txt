@@ -27,7 +27,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 genus	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 trophozoite	JJ	_ <O>
 stage	NN	_ <O>
@@ -70,7 +71,8 @@ the	DT	_ <O>
 fungal	JJ	_ <O>
 kingdom	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 cysts	NNS	_ <O>
 often	RB	_ <O>
@@ -85,7 +87,8 @@ in	IN	_ <O>
 stained	JJ	_ <O>
 tissue	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 not	RB	<B-CUE>
@@ -112,4 +115,5 @@ various	JJ	_ <O>
 cell	NN	_ <O>
 types	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

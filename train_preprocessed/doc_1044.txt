@@ -23,7 +23,8 @@ from	IN	_ <O>
 true	JJ	_ <O>
 crocodiles	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 possible	JJ	<I-CUE>
@@ -45,7 +46,8 @@ to	TO	_ <O>
 have	VB	_ <O>
 had	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Finally	RB	_ <O>
 ,	,	_ <O>
 and	CC	_ <O>
@@ -80,7 +82,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 snout	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 adaptation	NN	_ <O>
 may	MD	<B-CUE>
@@ -100,4 +103,5 @@ body	NN	_ <O>
 was	VBD	_ <O>
 submerged	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

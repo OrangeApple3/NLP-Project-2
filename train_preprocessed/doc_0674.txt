@@ -58,7 +58,8 @@ tour	NN	_ <O>
 of	IN	_ <O>
 Japan	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 wrote	VBD	_ <O>
 that	IN	_ <O>
@@ -126,7 +127,8 @@ time	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Music	NN	_ <O>
 for	IN	_ <O>
 a	DT	_ <O>
@@ -183,7 +185,8 @@ accompanying	VBG	_ <O>
 the	DT	_ <O>
 movie	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Its	PRP$	_ <O>
 rhythm	NN	_ <O>
 ,	,	_ <O>
@@ -225,4 +228,5 @@ and	CC	_ <O>
 Sharon	NNP	_ <O>
 Shannon	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -11,7 +11,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 past	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 a	DT	_ <O>
 result	NN	_ <O>
@@ -36,7 +37,8 @@ birch	NN	<I-CUE>
 mixed	VBN	_ <O>
 in	RP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 white	JJ	_ <O>
 pine	NN	_ <O>
@@ -60,7 +62,8 @@ to	IN	_ <O>
 their	PRP$	_ <O>
 attractiveness	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Stands	NNS	_ <O>
 of	IN	_ <O>
 some	DT	<B-CUE>
@@ -83,4 +86,5 @@ in	IN	_ <O>
 the	DT	_ <O>
 northeast	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

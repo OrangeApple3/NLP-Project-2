@@ -12,7 +12,8 @@ direct	JJ	<I-CUE>
 forming	VBG	_ <O>
 method	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Wares	NNS	_ <O>
 can	MD	_ <O>
 be	VB	_ <O>
@@ -42,7 +43,8 @@ combination	NN	<I-CUE>
 of	IN	_ <O>
 these	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Parts	NNS	_ <O>
 of	IN	_ <O>
 hand	NN	_ <O>
@@ -69,7 +71,8 @@ clay	NN	_ <O>
 and	CC	_ <O>
 water	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 studio	NN	<I-CUE>
 potters	NNS	<I-CUE>
@@ -104,4 +107,5 @@ with	IN	_ <O>
 the	DT	_ <O>
 wheel	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

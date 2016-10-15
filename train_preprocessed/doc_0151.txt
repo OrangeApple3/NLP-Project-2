@@ -24,7 +24,8 @@ to	IN	_ <O>
 each	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 I	PRP	_ <O>
 do	VBP	_ <O>
 n't	RB	_ <O>
@@ -40,7 +41,8 @@ any	DT	_ <O>
 other	JJ	_ <O>
 song	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 So	RB	_ <O>
 most	JJS	_ <O>
 of	IN	_ <O>
@@ -84,7 +86,8 @@ or	CC	_ <O>
 flavor	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 their	PRP$	_ <O>
 records	NNS	_ <O>
@@ -106,4 +109,5 @@ for	IN	_ <O>
 rock	NN	_ <O>
 bands	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

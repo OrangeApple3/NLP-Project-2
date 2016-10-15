@@ -58,7 +58,8 @@ prescribing	VBG	_ <O>
 ozone	NN	_ <O>
 therapies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Which	WDT	_ <O>
 has	VBZ	<B-CUE>
 been	VBN	<I-CUE>
@@ -74,7 +75,8 @@ or	CC	_ <O>
 self	NN	_ <O>
 administration	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Under	IN	_ <O>
 such	JJ	_ <O>
 circumstances	NNS	_ <O>
@@ -111,7 +113,8 @@ with	IN	_ <O>
 fortunate	JJ	_ <O>
 results	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 there	EX	<B-CUE>
 is	VBZ	<I-CUE>
@@ -145,4 +148,5 @@ can	MD	_ <O>
 be	VB	_ <O>
 verified	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

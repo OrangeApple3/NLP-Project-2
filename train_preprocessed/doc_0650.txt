@@ -16,7 +16,8 @@ States	NNP	_ <O>
 nuclear	JJ	_ <O>
 arsenal	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 experts	NNS	<B-CUE>
@@ -55,7 +56,8 @@ open	VB	_ <O>
 the	DT	_ <O>
 briefcase	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 that	DT	_ <O>
 point	NN	_ <O>
@@ -88,7 +90,8 @@ large	JJ	_ <O>
 ICBM	NNP	_ <O>
 launch	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Next	RB	_ <O>
 ,	,	_ <O>
 using	VBG	_ <O>
@@ -131,7 +134,8 @@ Boeing	NNP	_ <O>
 E-4B	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Before	IN	_ <O>
 the	DT	_ <O>
 order	NN	_ <O>
@@ -169,7 +173,8 @@ the	DT	_ <O>
 biscuit	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Once	RB	_ <O>
 all	PDT	_ <O>
 the	DT	_ <O>
@@ -189,7 +194,8 @@ the	DT	_ <O>
 proper	JJ	_ <O>
 units	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Football	NN	_ <O>
 is	VBZ	_ <O>
@@ -222,7 +228,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 briefcase	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 person	NN	_ <O>
 is	VBZ	_ <O>
@@ -256,7 +263,8 @@ Yankee	NNP	_ <O>
 White	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 officers	NNS	_ <O>
 ,	,	_ <O>
@@ -280,7 +288,8 @@ at	IN	_ <O>
 all	DT	_ <O>
 times	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Consequently	RB	_ <O>
 ,	,	_ <O>
 an	DT	_ <O>
@@ -317,4 +326,5 @@ with	IN	_ <O>
 the	DT	_ <O>
 president	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

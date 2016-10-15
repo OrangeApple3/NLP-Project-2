@@ -20,7 +20,8 @@ privileges	NNS	_ <O>
 would	MD	_ <O>
 suggest	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 That	DT	_ <O>
 is	VBZ	_ <O>
 not	RB	_ <O>
@@ -35,7 +36,8 @@ it	PRP	_ <O>
 does	VBZ	_ <O>
 help	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 point	NN	_ <O>
 is	VBZ	_ <O>
@@ -64,4 +66,5 @@ about	IN	_ <O>
 its	PRP$	_ <O>
 effectiveness	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

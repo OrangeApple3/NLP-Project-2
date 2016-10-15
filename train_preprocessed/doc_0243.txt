@@ -25,7 +25,8 @@ owned	VBN	_ <O>
 by	IN	_ <O>
 Microsoft	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 thought	VBD	_ <O>
 that	IN	_ <O>
@@ -44,7 +45,8 @@ Novell	NNP	_ <O>
 ’s	NNP	_ <O>
 lead	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 by	IN	_ <O>
@@ -77,4 +79,5 @@ source	NN	_ <O>
 community	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

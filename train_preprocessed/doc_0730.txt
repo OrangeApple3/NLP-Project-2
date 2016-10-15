@@ -22,7 +22,8 @@ International	NNP	_ <O>
 Criminal	NNP	_ <O>
 Court	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	<B-CUE>
 point	NN	_ <O>
 to	IN	_ <O>
@@ -66,7 +67,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 Americas	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Engaging	VBG	_ <O>
 in	IN	_ <O>
 such	JJ	_ <O>
@@ -84,7 +86,8 @@ grounds	NNS	_ <O>
 for	IN	_ <O>
 prosecution	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 addition	NN	_ <O>
 ,	,	_ <O>
@@ -138,7 +141,8 @@ Invasion	NNP	_ <O>
 of	IN	_ <O>
 Iraq	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Critics	NNS	<B-CUE>
 of	IN	<I-CUE>
 the	DT	<I-CUE>
@@ -167,7 +171,8 @@ for	IN	_ <O>
 criminal	JJ	_ <O>
 prosecution	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 International	NNP	_ <O>
 Criminal	NNP	_ <O>
@@ -200,7 +205,8 @@ by	IN	_ <O>
 national	JJ	_ <O>
 authorities	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Not	RB	_ <O>
 one	CD	_ <O>
 member	NN	_ <O>
@@ -238,7 +244,8 @@ them	PRP	_ <O>
 before	IN	_ <O>
 the	DT	_ <O>
 ICC.	NNP	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 any	DT	_ <O>
 actual	JJ	_ <O>
@@ -259,4 +266,5 @@ reopen	VB	_ <O>
 its	PRP$	_ <O>
 investigation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

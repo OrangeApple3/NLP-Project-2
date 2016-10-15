@@ -29,7 +29,8 @@ the	DT	_ <O>
 archbishop	NN	_ <O>
 Dositej	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 next	JJ	_ <O>
@@ -53,7 +54,8 @@ other	JJ	_ <O>
 Orthodox	NNP	_ <O>
 Churches	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 German	JJ	_ <O>
 and	CC	_ <O>
 the	DT	_ <O>
@@ -93,7 +95,8 @@ Macedonian	JJ	_ <O>
 Orthodox	NNP	_ <O>
 Church	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 turn	NN	_ <O>
 ,	,	_ <O>
@@ -116,4 +119,5 @@ to	IN	_ <O>
 this	DT	_ <O>
 day	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

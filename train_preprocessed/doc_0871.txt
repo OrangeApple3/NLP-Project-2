@@ -20,7 +20,8 @@ Australasian	JJ	_ <O>
 robins	NNS	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 family	NN	_ <O>
 occurs	VBZ	_ <O>
@@ -39,7 +40,8 @@ east	RB	_ <O>
 as	IN	_ <O>
 Samoa	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Within	IN	_ <O>
 the	DT	_ <O>
 family	NN	_ <O>
@@ -60,7 +62,8 @@ scrub	VB	_ <O>
 -	HYPH	_ <O>
 robins	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 are	VBP	_ <O>
 however	RB	_ <O>
@@ -89,4 +92,5 @@ flycatchers	NNS	_ <O>
 Monarchidae	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

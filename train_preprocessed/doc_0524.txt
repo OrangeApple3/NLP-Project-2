@@ -23,7 +23,8 @@ thoracic	NN	_ <O>
 or	CC	_ <O>
 lumbar	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 virus	NN	_ <O>
 may	MD	_ <O>
@@ -44,7 +45,8 @@ paralysis	NN	_ <O>
 is	VBZ	_ <O>
 asymmetrical	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Any	DT	_ <O>
 limb	NN	_ <O>
 or	CC	_ <O>
@@ -66,7 +68,8 @@ and	CC	_ <O>
 both	DT	_ <O>
 arms	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Paralysis	NN	_ <O>
 is	VBZ	_ <O>
 often	RB	_ <O>
@@ -90,4 +93,5 @@ and	CC	_ <O>
 toes	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

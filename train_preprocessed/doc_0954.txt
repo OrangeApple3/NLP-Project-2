@@ -12,7 +12,8 @@ of	IN	_ <O>
 some	DT	_ <O>
 sort	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 provides	VBZ	_ <O>
 a	DT	_ <O>
@@ -37,7 +38,8 @@ by	IN	_ <O>
 open	JJ	_ <O>
 strobes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hair	NN	_ <O>
 and	CC	_ <O>
 background	NN	_ <O>
@@ -47,7 +49,8 @@ usually	RB	_ <O>
 not	RB	_ <O>
 diffused	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 more	RBR	_ <O>
@@ -63,4 +66,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 subject	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

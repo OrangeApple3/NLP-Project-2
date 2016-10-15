@@ -32,4 +32,5 @@ organization	NN	_ <O>
 of	IN	_ <O>
 Norway	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -33,7 +33,8 @@ and	CC	_ <O>
 the	DT	_ <O>
 sciences	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 usually	RB	_ <O>
 referred	VBN	_ <O>
@@ -79,7 +80,8 @@ Canal	NNP	_ <O>
 Company	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 some	DT	_ <O>
 unaccountable	JJ	_ <O>
@@ -109,7 +111,8 @@ plan	VB	_ <O>
 their	PRP$	_ <O>
 attack	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Ormonde	NNP	_ <O>
 's	POS	_ <O>
 army	NN	_ <O>
@@ -145,4 +148,5 @@ the	DT	_ <O>
 Bloody	NNP	_ <O>
 Fields	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

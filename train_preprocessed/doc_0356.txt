@@ -10,7 +10,8 @@ not	RB	_ <O>
 a	DT	_ <O>
 box	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 mistranslation	NN	_ <O>
 of	IN	_ <O>
@@ -27,7 +28,8 @@ as	IN	_ <O>
 "	``	_ <O>
 box	NN	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 development	NN	_ <O>
 of	IN	_ <O>
@@ -94,7 +96,8 @@ festival	NN	_ <O>
 of	IN	_ <O>
 Anthesteria	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 is	VBZ	_ <O>
 usually	RB	_ <O>
 attributed	VBN	_ <O>
@@ -117,7 +120,8 @@ Pandora	NNP	_ <O>
 into	IN	_ <O>
 Latin	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hesiod	NNP	_ <O>
 's	POS	_ <O>
 '	``	_ <O>
@@ -146,7 +150,8 @@ oil	NN	_ <O>
 or	CC	_ <O>
 grain	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 In	IN	_ <O>
 the	DT	_ <O>
@@ -174,7 +179,8 @@ and	CC	_ <O>
 solemn	JJ	_ <O>
 intent	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 vase	NN	_ <O>
 -	HYPH	_ <O>
@@ -207,4 +213,5 @@ grave	NN	_ <O>
 -	HYPH	_ <O>
 stele	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

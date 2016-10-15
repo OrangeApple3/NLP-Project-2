@@ -35,7 +35,8 @@ voice	NN	_ <O>
 telephone	NN	_ <O>
 service	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 new	JJ	_ <O>
 services	NNS	_ <O>
@@ -74,7 +75,8 @@ customers	NNS	_ <O>
 ’	POS	_ <O>
 premises	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 U	NN	_ <O>
 -	HYPH	_ <O>
 verse	NN	_ <O>
@@ -112,4 +114,5 @@ you	PRP	_ <O>
 "	''	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

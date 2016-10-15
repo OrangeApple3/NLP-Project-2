@@ -39,7 +39,8 @@ Sukow	NNP	_ <O>
 Dziedzice	NNP	_ <O>
 group	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 First	JJ	_ <O>
 settlements	NNS	_ <O>
 appear	VBP	_ <O>
@@ -61,7 +62,8 @@ Slavic	JJ	_ <O>
 archeological	JJ	_ <O>
 culture	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 some	DT	_ <O>
@@ -84,7 +86,8 @@ the	DT	_ <O>
 Przeworsk	NNP	_ <O>
 tradition	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 allochthonists	NNS	_ <O>
@@ -104,4 +107,5 @@ its	PRP$	_ <O>
 younger	JJR	_ <O>
 stage	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -15,7 +15,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 FairTax	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 concepts	NNS	_ <O>
 of	IN	_ <O>
@@ -31,7 +32,8 @@ the	DT	<I-CUE>
 aspects	NNS	<I-CUE>
 suggested	VBD	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 With	IN	_ <O>
 the	DT	_ <O>
 subsequent	JJ	_ <O>
@@ -82,7 +84,8 @@ from	IN	_ <O>
 disposable	JJ	_ <O>
 goods	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 may	MD	<B-CUE>
 reduce	VB	_ <O>
@@ -105,4 +108,5 @@ stringent	JJ	_ <O>
 pollution	NN	_ <O>
 controls	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

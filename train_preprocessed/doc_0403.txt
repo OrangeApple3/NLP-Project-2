@@ -24,7 +24,8 @@ animation	NN	_ <O>
 and	CC	_ <O>
 color	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Due	IN	_ <O>
 to	IN	_ <O>
 the	DT	_ <O>
@@ -58,7 +59,8 @@ and	CC	_ <O>
 forced	VBN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 first	JJ	_ <O>
 seven	CD	_ <O>
@@ -97,7 +99,8 @@ to	IN	_ <O>
 its	PRP$	_ <O>
 release	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Criticism	NN	_ <O>
 has	VBZ	_ <O>
 been	VBN	_ <O>
@@ -122,7 +125,8 @@ first	JJ	_ <O>
 three	CD	_ <O>
 episodes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Another	DT	_ <O>
 criticism	NN	_ <O>
 is	VBZ	_ <O>
@@ -144,4 +148,5 @@ leave	VB	_ <O>
 viewers	NNS	_ <O>
 unsatisfied	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

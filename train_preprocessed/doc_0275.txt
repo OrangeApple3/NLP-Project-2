@@ -33,7 +33,8 @@ a	DT	_ <O>
 different	JJ	_ <O>
 color	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 band	NN	_ <O>
 can	MD	_ <O>
@@ -53,7 +54,8 @@ vertically	RB	_ <O>
 or	CC	_ <O>
 horizontally	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	JJS	_ <O>
 caps	NNS	_ <O>
 have	VBP	_ <O>
@@ -68,7 +70,8 @@ cap	NN	_ <O>
 badge	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 peak	NN	_ <O>
 or	CC	_ <O>
@@ -91,4 +94,5 @@ a	DT	_ <O>
 shiny	JJ	_ <O>
 plastic	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

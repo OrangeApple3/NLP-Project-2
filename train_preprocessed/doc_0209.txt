@@ -23,7 +23,8 @@ private	JJ	_ <O>
 retirement	NN	_ <O>
 accounts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -78,7 +79,8 @@ retirement	NN	_ <O>
 plan	NN	_ <O>
 instead	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 employees	NNS	_ <O>
 who	WP	_ <O>
@@ -109,7 +111,8 @@ $	$	_ <O>
 per	IN	_ <O>
 month	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 employees	NNS	_ <O>
 who	WP	_ <O>
@@ -148,7 +151,8 @@ in	IN	_ <O>
 1996	CD	_ <O>
 .	.	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 some	DT	<B-CUE>
 advocates	NNS	<I-CUE>
@@ -203,4 +207,5 @@ be	VB	_ <O>
 less	RBR	_ <O>
 favorable	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -18,7 +18,8 @@ Secretary	NNP	_ <O>
 of	IN	_ <O>
 State	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 2	CD	_ <O>
 years	NNS	_ <O>
@@ -51,7 +52,8 @@ of	IN	_ <O>
 Pittsburgh	NNP	_ <O>
 businessmen	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 new	JJ	_ <O>
 group	NN	_ <O>
@@ -79,7 +81,8 @@ Schoonmaker	NNP	_ <O>
 all	DT	_ <O>
 influential	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 spring	NN	_ <O>
@@ -105,7 +108,8 @@ other	JJ	_ <O>
 than	IN	_ <O>
 Pittsburgh	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 other	JJ	_ <O>
 reason	NN	_ <O>
@@ -125,4 +129,5 @@ had	VBD	_ <O>
 business	NN	_ <O>
 there	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

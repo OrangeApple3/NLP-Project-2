@@ -24,7 +24,8 @@ and	CC	_ <O>
 carpels	NNS	_ <O>
 respectively	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 turns	VBZ	_ <O>
 out	RP	_ <O>
@@ -55,7 +56,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 monocots	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Arabidopsis	NN	_ <O>
 '	''	_ <O>
 has	VBZ	_ <O>
@@ -83,7 +85,8 @@ organs	NNS	_ <O>
 are	VBP	_ <O>
 generated	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Mutations	NNS	_ <O>
 in	IN	_ <O>
 this	DT	_ <O>
@@ -108,7 +111,8 @@ on	IN	_ <O>
 getting	VBG	_ <O>
 produced	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Several	JJ	<B-CUE>
 studies	NNS	<I-CUE>
 on	IN	_ <O>
@@ -143,4 +147,5 @@ controlling	VBG	_ <O>
 their	PRP$	_ <O>
 development	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

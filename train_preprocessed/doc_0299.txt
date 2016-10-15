@@ -13,7 +13,8 @@ have	VB	_ <O>
 pinned	VBN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Therefore	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -29,7 +30,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 underlier	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -53,7 +55,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 writer	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 other	JJ	_ <O>
 words	NNS	_ <O>
@@ -86,4 +89,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 trader	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -41,7 +41,8 @@ standard	NN	_ <O>
 of	IN	_ <O>
 comparison	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 That	DT	_ <O>
 is	VBZ	_ <O>
 ,	,	_ <O>
@@ -67,7 +68,8 @@ paradigms	NN	_ <O>
 being	VBG	_ <O>
 compared	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 way	NN	_ <O>
 of	IN	_ <O>
@@ -98,7 +100,8 @@ with	IN	_ <O>
 each	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 definition	NN	_ <O>
 makes	VBZ	_ <O>
@@ -132,4 +135,5 @@ mutually	RB	_ <O>
 intelligible	JJ	_ <O>
 concepts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

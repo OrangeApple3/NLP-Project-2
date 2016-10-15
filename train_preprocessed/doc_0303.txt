@@ -14,7 +14,8 @@ against	IN	_ <O>
 Platoon	NNP	_ <O>
 8	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 that	DT	_ <O>
 same	JJ	_ <O>
@@ -33,7 +34,8 @@ group	NN	_ <O>
 of	IN	_ <O>
 enemy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 this	DT	_ <O>
 position	NN	_ <O>
@@ -59,7 +61,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 enemy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 enemy	NN	_ <O>
 was	VBD	_ <O>
@@ -78,4 +81,5 @@ and	CC	_ <O>
 high	JJ	_ <O>
 explosives	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

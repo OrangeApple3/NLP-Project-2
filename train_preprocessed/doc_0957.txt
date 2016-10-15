@@ -13,7 +13,8 @@ Garden	NNP	_ <O>
 in	IN	_ <O>
 1875	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 the	DT	_ <O>
 season	NN	_ <O>
@@ -40,4 +41,5 @@ Benedict	NNP	_ <O>
 St.	NNP	_ <O>
 Cecilia	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

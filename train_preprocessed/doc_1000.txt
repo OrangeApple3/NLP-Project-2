@@ -4,9 +4,11 @@ of	IN	_ <O>
 space	NN	_ <O>
 and	CC	_ <O>
 time	NN	_ <O>
- <O>
+
+NULL
 Time	NNP	_ <O>
- <O>
+
+NULL
 Time	NNP	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -43,7 +45,8 @@ than	IN	_ <O>
 time	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Our	PRP$	_ <O>
 modern	JJ	_ <O>
 conception	NN	_ <O>
@@ -83,7 +86,8 @@ merged	VBN	_ <O>
 into	IN	_ <O>
 spacetime	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Time	NNP	_ <O>
 may	MD	_ <O>
 be	VB	_ <O>
@@ -99,7 +103,8 @@ the	DT	_ <O>
 Planck	NNP	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Einstein	NNP	_ <O>
 's	POS	_ <O>
 general	JJ	_ <O>
@@ -138,4 +143,5 @@ the	DT	_ <O>
 big	JJ	_ <O>
 bang	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

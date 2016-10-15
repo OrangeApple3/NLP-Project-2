@@ -30,7 +30,8 @@ marketing	NN	_ <O>
 petroleum	NN	_ <O>
 products	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Petroleum	NN	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -54,7 +55,8 @@ pesticides	NNS	_ <O>
 and	CC	_ <O>
 plastics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 industry	NN	_ <O>
 is	VBZ	_ <O>
@@ -71,7 +73,8 @@ midstream	NN	_ <O>
 and	CC	_ <O>
 downstream	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Midstream	NNP	_ <O>
 operations	NNS	_ <O>
 are	VBP	_ <O>
@@ -82,4 +85,5 @@ the	DT	_ <O>
 downstream	JJ	_ <O>
 category	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

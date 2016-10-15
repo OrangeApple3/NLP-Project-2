@@ -1,8 +1,10 @@
 NULL
 History	NN	_ <O>
- <O>
+
+NULL
 Aborigines	NNPS	_ <O>
- <O>
+
+NULL
 Aboriginal	JJ	_ <O>
 people	NNS	_ <O>
 were	VBD	_ <O>
@@ -17,7 +19,8 @@ and	CC	_ <O>
 La	NNP	_ <O>
 Perouse	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Their	PRP$	_ <O>
 presence	NN	_ <O>
 was	VBD	_ <O>
@@ -47,7 +50,8 @@ in	IN	_ <O>
 January	NNP	_ <O>
 1788	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 settlement	NN	_ <O>
 has	VBZ	_ <O>
@@ -64,7 +68,8 @@ groups	NNS	<I-CUE>
 over	IN	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 area	NN	_ <O>
 is	VBZ	_ <O>
@@ -89,4 +94,5 @@ and	CC	_ <O>
 Yarra	NNP	_ <O>
 Bay	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

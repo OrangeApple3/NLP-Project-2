@@ -42,7 +42,8 @@ to	IN	_ <O>
 a	DT	_ <O>
 wholesaler	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 such	JJ	_ <O>
 ,	,	_ <O>
@@ -90,7 +91,8 @@ and	CC	_ <O>
 cost	VB	_ <O>
 factors	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 determining	VBG	_ <O>
 the	DT	_ <O>
@@ -130,7 +132,8 @@ reclaim	VB	_ <O>
 the	DT	_ <O>
 item	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 the	DT	_ <O>
 key	NN	_ <O>
@@ -175,4 +178,5 @@ on	IN	_ <O>
 the	DT	_ <O>
 loan	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

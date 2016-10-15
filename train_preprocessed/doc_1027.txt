@@ -23,7 +23,8 @@ similar	JJ	_ <O>
 human	JJ	_ <O>
 qualities	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 others	NNS	<B-CUE>
 argue	VBP	_ <O>
@@ -50,7 +51,8 @@ human	JJ	_ <O>
 rights	NNS	_ <O>
 treaties	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Commentators	NNS	<B-CUE>
 '	POS	<I-CUE>
 positions	NNS	_ <O>
@@ -94,4 +96,5 @@ or	CC	_ <O>
 nationalist	JJ	_ <O>
 persuasion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

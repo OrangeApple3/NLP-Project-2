@@ -9,7 +9,8 @@ to	TO	_ <O>
 confirm	VB	_ <O>
 ovulation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Ovulation	NN	_ <O>
 may	MD	_ <O>
 also	RB	_ <O>
@@ -53,7 +54,8 @@ day	NN	_ <O>
 21	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 mid	JJ	_ <O>
 -	HYPH	_ <O>
@@ -71,7 +73,8 @@ luteal	JJ	_ <O>
 phase	NN	_ <O>
 defect	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Methods	NNS	_ <O>
 that	WDT	_ <O>
 confirm	VBP	_ <O>
@@ -89,4 +92,5 @@ to	TO	_ <O>
 stimulate	VB	_ <O>
 ovulation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

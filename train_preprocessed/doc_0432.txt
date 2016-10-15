@@ -45,7 +45,8 @@ nor	CC	_ <O>
 by	IN	_ <O>
 opinion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 ground	NN	_ <O>
 for	IN	_ <O>
@@ -76,7 +77,8 @@ this	DT	_ <O>
 extreme	JJ	_ <O>
 case	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 reason	NN	_ <O>
 for	IN	_ <O>
@@ -103,7 +105,8 @@ for	IN	_ <O>
 his	PRP$	_ <O>
 liberty	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 voluntary	JJ	_ <O>
 choice	NN	_ <O>
@@ -148,4 +151,5 @@ of	IN	_ <O>
 pursuing	VBG	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -8,7 +8,8 @@ and	CC	_ <O>
 solitary	JJ	_ <O>
 childhood	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 was	VBD	<B-CUE>
 considered	VBN	<I-CUE>
@@ -32,7 +33,8 @@ to	TO	_ <O>
 please	VB	_ <O>
 him	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 the	DT	_ <O>
 most	JJS	_ <O>
@@ -57,7 +59,8 @@ him	PRP	_ <O>
 when	WRB	_ <O>
 questioned	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 way	NN	_ <O>
 Pedro	NNP	_ <O>
@@ -91,7 +94,8 @@ isolate	VB	_ <O>
 and	CC	_ <O>
 protect	VB	_ <O>
 himself”.	PRP	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 The	DT	_ <O>
 only	JJ	_ <O>
@@ -109,7 +113,8 @@ lay	VBD	_ <O>
 within	IN	_ <O>
 himself	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Learning	NNP	_ <O>
 ,	,	_ <O>
 and	CC	_ <O>
@@ -128,4 +133,5 @@ friendly	JJ	_ <O>
 existence	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

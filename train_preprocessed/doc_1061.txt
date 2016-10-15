@@ -26,7 +26,8 @@ and	CC	_ <O>
 rock	NN	_ <O>
 fish	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 state	NN	_ <O>
 even	RB	_ <O>
@@ -42,4 +43,5 @@ called	VBD	_ <O>
 Crab	NNP	_ <O>
 Chips	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

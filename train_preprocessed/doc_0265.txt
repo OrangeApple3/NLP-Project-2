@@ -12,7 +12,8 @@ price	NN	_ <O>
 and	CC	_ <O>
 quality	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pioneer	NNP	_ <O>
 Elite	NNP	_ <O>
 branded	VBD	_ <O>
@@ -31,7 +32,8 @@ black	JJ	_ <O>
 finish	NN	_ <O>
 .	.	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 Pioneer	NNP	_ <O>
 Elite	JJ	_ <O>
 products	NNS	_ <O>
@@ -57,7 +59,8 @@ rear	JJ	_ <O>
 projection	NN	_ <O>
 televisions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pioneer	NNP	_ <O>
 Elite	NNP	_ <O>
 debuted	VBD	_ <O>
@@ -74,7 +77,8 @@ BDP	NNP	_ <O>
 -	HYPH	_ <O>
 HD1	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pioneer	NNP	_ <O>
 released	VBD	_ <O>
 the	DT	_ <O>
@@ -89,7 +93,8 @@ PRO	NNP	_ <O>
 FHD1	NNP	_ <O>
 .	.	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 Pioneer	NNP	_ <O>
 has	VBZ	_ <O>
 recently	RB	_ <O>
@@ -116,11 +121,13 @@ flat	JJ	_ <O>
 panel	NN	_ <O>
 display	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Kuro	JJ	_ <O>
 means	VBZ	_ <O>
 black	JJ	_ <O>
 in	IN	_ <O>
 Japanese	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

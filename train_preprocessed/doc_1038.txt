@@ -45,7 +45,8 @@ one	NN	_ <O>
 other	JJ	_ <O>
 goals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Second	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -61,7 +62,8 @@ desires	NNS	_ <O>
 of	IN	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Third	JJ	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -110,7 +112,8 @@ Russell	NNP	_ <O>
 1938:201	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 explicitly	RB	_ <O>
@@ -132,7 +135,8 @@ to	TO	_ <O>
 be	VB	_ <O>
 decisive	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Fourth	JJ	_ <O>
 ,	,	_ <O>
 moral	JJ	_ <O>
@@ -156,4 +160,5 @@ Russell	NNP	_ <O>
 218	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

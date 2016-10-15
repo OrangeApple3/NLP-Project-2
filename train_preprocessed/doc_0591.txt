@@ -29,7 +29,8 @@ Luther	NNP	_ <O>
 's	POS	_ <O>
 doctrine	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Bucer	NNP	_ <O>
 did	VBD	_ <O>
 not	RB	_ <O>
@@ -75,7 +76,8 @@ bread	NN	_ <O>
 and	CC	_ <O>
 wine	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Melanchthon	NNP	_ <O>
 discussed	VBD	_ <O>
 Bucer	NNP	_ <O>
@@ -103,7 +105,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 dispute	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Melanchthon	NNP	_ <O>
 's	POS	_ <O>
 relation	NN	_ <O>
@@ -149,4 +152,5 @@ with	IN	_ <O>
 him	PRP	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

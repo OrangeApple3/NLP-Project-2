@@ -31,7 +31,8 @@ sort	NN	_ <O>
 of	IN	_ <O>
 wax	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 may	MD	_ <O>
 be	VB	_ <O>
@@ -50,7 +51,8 @@ easier	JJR	_ <O>
 to	TO	_ <O>
 remove	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 may	MD	_ <O>
 also	RB	_ <O>
@@ -60,7 +62,8 @@ and	CC	_ <O>
 coloring	VBG	_ <O>
 agents	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 stiffest	JJS	_ <O>
 will	MD	_ <O>
@@ -81,4 +84,5 @@ proportion	NN	_ <O>
 of	IN	_ <O>
 oils	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -25,7 +25,8 @@ the	DT	_ <O>
 Fields	NNP	_ <O>
 medal	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 claim	NN	_ <O>
 concerns	VBZ	_ <O>
@@ -57,7 +58,8 @@ closed	VBN	_ <O>
 3-manifold	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Poincaré	NNP	_ <O>
 conjecture	NN	_ <O>
@@ -95,7 +97,8 @@ three	CD	_ <O>
 dimensional	JJ	_ <O>
 sphere	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 An	DT	_ <O>
 analogous	JJ	_ <O>
 result	NN	_ <O>
@@ -109,4 +112,5 @@ for	IN	_ <O>
 some	DT	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

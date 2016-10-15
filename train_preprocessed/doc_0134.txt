@@ -19,7 +19,8 @@ popular	JJ	_ <O>
 antenna	NN	_ <O>
 type	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 assembly	NN	_ <O>
 is	VBZ	_ <O>
@@ -47,7 +48,8 @@ essential	JJ	_ <O>
 simplicity	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 are	VBP	_ <O>
 the	DT	_ <O>
@@ -74,7 +76,8 @@ one	CD	_ <O>
 half	NN	_ <O>
 wavelength	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 patch	NN	_ <O>
 antenna	NN	_ <O>
@@ -101,4 +104,5 @@ printed	VBN	_ <O>
 circuit	NN	_ <O>
 boards	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

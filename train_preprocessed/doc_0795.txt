@@ -49,7 +49,8 @@ into	IN	_ <O>
 the	DT	_ <O>
 sea	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 former	JJ	_ <O>
 "	``	_ <O>
@@ -76,7 +77,8 @@ the	DT	_ <O>
 United	NNP	_ <O>
 States	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 panhandle	NN	_ <O>
 is	VBZ	_ <O>
@@ -141,7 +143,8 @@ the	DT	_ <O>
 same	JJ	_ <O>
 jurisdiction	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 panhandle	NN	_ <O>
 shape	NN	_ <O>
@@ -175,4 +178,5 @@ ties	NNS	_ <O>
 or	CC	_ <O>
 topography	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

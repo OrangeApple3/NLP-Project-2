@@ -16,7 +16,8 @@ possible	JJ	_ <O>
 in	IN	_ <O>
 Russia	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 other	JJ	_ <O>
 words	NNS	_ <O>
@@ -39,7 +40,8 @@ by	IN	_ <O>
 the	DT	_ <O>
 West	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Lavrov	NNP	_ <O>
 rejected	VBD	_ <O>
 this	DT	_ <O>
@@ -61,7 +63,8 @@ Russia	NNP	_ <O>
 individual	JJ	_ <O>
 history	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Almost	RB	_ <O>
 90	CD	_ <O>
 percent	NN	_ <O>
@@ -106,4 +109,5 @@ the	DT	_ <O>
 past	NN	_ <O>
 .	.	_ <O>
 ”	NFP	_ <O>
- <O>
+
+NULL

@@ -28,7 +28,8 @@ Country	NNP	_ <O>
 in	IN	_ <O>
 1991	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 record	NN	_ <O>
 enjoyed	VBD	_ <O>
@@ -41,7 +42,8 @@ only	RB	_ <O>
 in	IN	_ <O>
 Japan	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 follow	VB	_ <O>
 up	RP	_ <O>
@@ -78,7 +80,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 States	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 One	CD	_ <O>
 Night	NN	_ <O>
@@ -122,7 +125,8 @@ New	NNP	_ <O>
 York	NNP	_ <O>
 City	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Primarily	RB	_ <O>
 an	DT	_ <O>
 acoustic	JJ	_ <O>
@@ -153,7 +157,8 @@ and	CC	_ <O>
 acoustic	JJ	_ <O>
 rockers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 fans	NNS	<I-CUE>
 still	RB	_ <O>
@@ -165,7 +170,8 @@ be	VB	_ <O>
 his	PRP$	_ <O>
 finest	JJS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Dunnery	NNP	_ <O>
 's	POS	_ <O>
 next	JJ	_ <O>
@@ -190,7 +196,8 @@ and	CC	_ <O>
 Tie	NNP	_ <O>
 label	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 album	NN	_ <O>
 was	VBD	_ <O>
@@ -222,4 +229,5 @@ more	JJR	_ <O>
 electronic	JJ	_ <O>
 sounds	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -36,7 +36,8 @@ live	JJ	_ <O>
 action	NN	_ <O>
 shooting	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Therefore	RB	_ <O>
 ,	,	_ <O>
 many	JJ	<B-CUE>
@@ -68,7 +69,8 @@ fetched	VBN	_ <O>
 BDSM	NNP	_ <O>
 scenarios	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Violent	JJ	_ <O>
 and	CC	_ <O>
 disturbing	JJ	_ <O>
@@ -84,7 +86,8 @@ computer	NN	_ <O>
 generated	VBN	_ <O>
 porn	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Another	DT	_ <O>
 popular	JJ	_ <O>
 sub	NN	_ <O>
@@ -117,4 +120,5 @@ vore	NN	_ <O>
 category	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

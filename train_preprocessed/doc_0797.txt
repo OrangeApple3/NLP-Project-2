@@ -59,7 +59,8 @@ and	CC	_ <O>
 so	RB	_ <O>
 forth	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 All	PDT	_ <O>
 these	DT	_ <O>
 support	NN	_ <O>
@@ -108,7 +109,8 @@ self	NN	_ <O>
 propelled	VBN	_ <O>
 models	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 practice	NN	_ <O>
 the	DT	_ <O>
@@ -139,7 +141,8 @@ German	JJ	_ <O>
 armed	JJ	_ <O>
 forces	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 few	JJ	_ <O>
 elite	JJ	_ <O>
@@ -182,4 +185,5 @@ battalions	NNS	_ <O>
 as	RB	_ <O>
 well	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -12,7 +12,8 @@ to	TO	_ <O>
 create	VB	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 From	IN	_ <O>
 the	DT	_ <O>
 quiet	JJ	_ <O>
@@ -25,7 +26,8 @@ effective	JJ	_ <O>
 action	NN	_ <O>
 .	.	_ <O>
 ”	NFP	_ <O>
- <O>
+
+NULL
 “	``	_ <O>
 People	NNS	_ <O>
 who	WP	_ <O>
@@ -42,7 +44,8 @@ mistakes	NNS	_ <O>
 a	DT	_ <O>
 year	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 People	NNS	_ <O>
 who	WP	_ <O>
 do	VBP	_ <O>
@@ -58,7 +61,8 @@ a	DT	_ <O>
 year	NN	_ <O>
 .	.	_ <O>
 ”	NFP	_ <O>
- <O>
+
+NULL
 “	.	_ <O>
 The	DT	_ <O>
 most	RBS	_ <O>
@@ -74,7 +78,8 @@ n't	RB	_ <O>
 said	VBN	_ <O>
 .	.	_ <O>
 ”	NFP	_ <O>
- <O>
+
+NULL
 “	.	_ <O>
 The	DT	_ <O>
 purpose	NN	_ <O>
@@ -89,7 +94,8 @@ a	DT	_ <O>
 customer	NN	_ <O>
 .	.	_ <O>
 ”	NFP	_ <O>
- <O>
+
+NULL
 “	``	_ <O>
 There	EX	_ <O>
 is	VBZ	_ <O>
@@ -109,7 +115,8 @@ at	IN	_ <O>
 all	RB	_ <O>
 .	.	_ <O>
 ”	.	_ <O>
- <O>
+
+NULL
 “	``	_ <O>
 When	WRB	_ <O>
 a	DT	_ <O>
@@ -125,7 +132,8 @@ required	VBN	_ <O>
 course	NN	_ <O>
 .	.	_ <O>
 ”	NFP	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Rank	NN	_ <O>
 does	VBZ	_ <O>
@@ -136,9 +144,11 @@ or	CC	_ <O>
 give	VB	_ <O>
 power	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Most	JJS	_ <O>
 of	IN	_ <O>
@@ -160,4 +170,5 @@ work	NN	_ <O>
 done	VBN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

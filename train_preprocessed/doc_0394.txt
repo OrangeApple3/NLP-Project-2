@@ -44,7 +44,8 @@ State	NNP	_ <O>
 Secretary	NNP	_ <O>
 archives	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Much	JJ	_ <O>
 praise	NN	_ <O>
 of	IN	_ <O>
@@ -70,7 +71,8 @@ with	IN	_ <O>
 his	PRP$	_ <O>
 work	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 works	NNS	_ <O>
 such	JJ	_ <O>
@@ -152,7 +154,8 @@ most	JJS	_ <O>
 recent	JJ	_ <O>
 documents	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Cornwell	NNP	_ <O>
 's	POS	_ <O>
 scholarship	NN	_ <O>
@@ -160,7 +163,8 @@ has	VBZ	_ <O>
 been	VBN	_ <O>
 criticized	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -191,4 +195,5 @@ every	DT	_ <O>
 page	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

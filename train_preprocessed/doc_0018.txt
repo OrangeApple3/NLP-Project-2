@@ -11,7 +11,8 @@ a	DT	_ <O>
 legitimizing	VBG	_ <O>
 fiction	NN	<B-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 "	``	_ <O>
 Vlachian	NNP	_ <O>
@@ -38,7 +39,8 @@ lived	VBD	_ <O>
 in	IN	_ <O>
 Moesia	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -68,7 +70,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 13th	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 that	DT	_ <O>
 is	VBZ	_ <O>
@@ -102,4 +105,5 @@ intermixed	VBN	_ <O>
 with	IN	_ <O>
 both	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

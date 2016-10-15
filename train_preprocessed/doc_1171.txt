@@ -16,7 +16,8 @@ Brown	NNP	_ <O>
 opposed	VBD	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 election	NN	_ <O>
 was	VBD	_ <O>
@@ -42,7 +43,8 @@ to	IN	_ <O>
 Election	NNP	_ <O>
 Day	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Finally	RB	_ <O>
 ,	,	_ <O>
 President	NNP	_ <O>
@@ -64,7 +66,8 @@ campaign	NN	_ <O>
 for	IN	_ <O>
 Wilson	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 major	JJ	_ <O>
 factor	NN	_ <O>
@@ -92,4 +95,5 @@ and	CC	_ <O>
 Tom	NNP	_ <O>
 Bradley	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

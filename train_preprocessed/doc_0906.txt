@@ -28,7 +28,8 @@ true	JJ	_ <O>
 pop	NN	_ <O>
 success	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 album	NN	_ <O>
 introduced	VBD	_ <O>
@@ -79,7 +80,8 @@ and	CC	_ <O>
 commercial	JJ	_ <O>
 advertisements	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 eventually	RB	_ <O>
 became	VBD	_ <O>
@@ -100,7 +102,8 @@ copies	NNS	_ <O>
 sold	VBN	_ <O>
 worldwide	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 Rolling	NNP	_ <O>
@@ -165,4 +168,5 @@ buyers	NNS	_ <O>
 alike	RB	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

@@ -46,7 +46,8 @@ to	IN	_ <O>
 best	JJS	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Three	CD	_ <O>
 days	NNS	_ <O>
 later	RBR	_ <O>
@@ -69,7 +70,8 @@ the	DT	_ <O>
 editorial	NN	_ <O>
 staff	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 response	NN	_ <O>
 to	IN	_ <O>
@@ -123,7 +125,8 @@ our	PRP$	_ <O>
 profession	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 We	PRP	_ <O>
 demand	VBP	_ <O>
 nothing	NN	_ <O>
@@ -138,4 +141,5 @@ uncalled	JJ	_ <O>
 for	IN	_ <O>
 interference	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

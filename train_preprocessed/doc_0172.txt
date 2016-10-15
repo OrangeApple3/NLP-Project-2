@@ -13,7 +13,8 @@ for	IN	_ <O>
 several	JJ	_ <O>
 tenants	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 the	DT	_ <O>
 completion	NN	_ <O>
@@ -41,7 +42,8 @@ I-264	NNP	_ <O>
 and	CC	_ <O>
 I-265	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 popular	JJ	_ <O>
 teen	NN	_ <O>
@@ -65,7 +67,8 @@ and	CC	_ <O>
 Greenwood	NNP	_ <O>
 Road	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 club	NN	_ <O>
 opened	VBD	_ <O>
@@ -81,4 +84,5 @@ several	JJ	_ <O>
 other	JJ	_ <O>
 tenants	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

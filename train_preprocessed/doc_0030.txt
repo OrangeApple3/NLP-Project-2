@@ -26,7 +26,8 @@ post	NN	<I-CUE>
 office	NN	<I-CUE>
 contracts	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 train	NN	_ <O>
 was	VBD	_ <O>
@@ -43,4 +44,5 @@ May	NNP	_ <O>
 ,	,	_ <O>
 1971	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

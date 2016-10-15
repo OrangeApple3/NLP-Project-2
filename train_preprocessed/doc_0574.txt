@@ -23,7 +23,8 @@ with	IN	_ <O>
 three	CD	_ <O>
 strikeouts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 first	JJ	_ <O>
 major	JJ	_ <O>
@@ -60,7 +61,8 @@ a	DT	_ <O>
 Tigers	NNPS	_ <O>
 win	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 hit	VBD	_ <O>
 his	PRP$	_ <O>
@@ -102,7 +104,8 @@ Randa	NNP	_ <O>
 on	IN	_ <O>
 base	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Bako	NNP	_ <O>
 's	POS	_ <O>
 rookie	NN	_ <O>
@@ -136,4 +139,5 @@ collected	VBD	_ <O>
 total	JJ	_ <O>
 bases	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

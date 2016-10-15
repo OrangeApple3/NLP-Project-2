@@ -19,7 +19,8 @@ since	IN	_ <O>
 the	DT	_ <O>
 1960s	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Recently	RB	_ <O>
 ,	,	_ <O>
 there	EX	<B-CUE>
@@ -39,7 +40,8 @@ of	IN	_ <O>
 East	NNP	_ <O>
 Texas	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 most	RBS	_ <O>
 common	JJ	_ <O>
@@ -59,7 +61,8 @@ in	IN	_ <O>
 local	JJ	_ <O>
 reservoirs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Crayfish	NN	_ <O>
 are	VBP	_ <O>
 common	JJ	_ <O>
@@ -69,4 +72,5 @@ and	CC	_ <O>
 creek	NN	_ <O>
 banks	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

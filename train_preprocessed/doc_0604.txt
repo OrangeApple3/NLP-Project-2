@@ -26,7 +26,8 @@ in	IN	_ <O>
 health	NN	_ <O>
 care	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 is	VBZ	_ <O>
 active	JJ	_ <O>
@@ -51,7 +52,8 @@ music	NN	_ <O>
 and	CC	_ <O>
 voice	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 self	NN	_ <O>
 -	HYPH	_ <O>
@@ -76,7 +78,8 @@ numerology	NN	_ <O>
 and	CC	_ <O>
 Tarot	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -104,4 +107,5 @@ other	JJ	_ <O>
 alternative	JJ	_ <O>
 techniques	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

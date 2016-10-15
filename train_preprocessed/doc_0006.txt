@@ -22,7 +22,8 @@ it	PRP	_ <O>
 highly	RB	_ <O>
 enriched	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Fuel	NN	_ <O>
 elements	NNS	_ <O>
 may	MD	_ <O>
@@ -38,7 +39,8 @@ to	IN	_ <O>
 %	NN	_ <O>
 uranium	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Beryllium	NN	_ <O>
 and	CC	_ <O>
 graphite	NN	_ <O>
@@ -64,7 +66,8 @@ core	NN	_ <O>
 for	IN	_ <O>
 control	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 General	NNP	_ <O>
 Atomics	NNP	_ <O>
 of	IN	_ <O>
@@ -91,4 +94,5 @@ around	IN	_ <O>
 the	DT	_ <O>
 world	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -35,7 +35,8 @@ and	CC	_ <O>
 Dymaxion	NNP	_ <O>
 maps	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 convention	NN	_ <O>
 that	WDT	_ <O>
@@ -69,4 +70,5 @@ by	IN	_ <O>
 other	JJ	_ <O>
 cartographers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

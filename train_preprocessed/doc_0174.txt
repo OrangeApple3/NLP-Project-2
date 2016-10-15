@@ -23,7 +23,8 @@ proposition	NN	_ <O>
 :	:	_ <O>
 Slavery	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 two	CD	_ <O>
 anecdotes	NNS	_ <O>
@@ -68,7 +69,8 @@ Row	NNP	_ <O>
 Center	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 man	NN	_ <O>
 preferred	VBN	_ <O>
@@ -108,7 +110,8 @@ irrationality	NN	_ <O>
 of	IN	_ <O>
 prejudice	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 next	JJ	_ <O>
 day	NN	_ <O>
@@ -146,4 +149,5 @@ of	IN	_ <O>
 their	PRP$	_ <O>
 neighborhoods	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

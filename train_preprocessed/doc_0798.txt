@@ -34,7 +34,8 @@ many	JJ	<B-CUE>
 disastrous	JJ	<I-CUE>
 mistakes	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Paul	NNP	_ <O>
 continued	VBD	_ <O>
 to	TO	_ <O>
@@ -53,7 +54,8 @@ be	VB	_ <O>
 with	IN	_ <O>
 Julie	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Meanwhile	RB	_ <O>
 ,	,	_ <O>
 Paul	NNP	_ <O>
@@ -90,7 +92,8 @@ towards	IN	_ <O>
 other	JJ	_ <O>
 men	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 She	PRP	_ <O>
 would	MD	_ <O>
 not	RB	_ <O>
@@ -108,4 +111,5 @@ her	PRP$	_ <O>
 as	IN	_ <O>
 payback	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

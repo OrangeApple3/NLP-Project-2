@@ -29,7 +29,8 @@ unit	NN	_ <O>
 of	IN	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 :	:	_ <O>
@@ -84,7 +85,8 @@ and	CC	_ <O>
 so	RB	_ <O>
 on	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 information	NN	_ <O>
 is	VBZ	_ <O>
@@ -97,7 +99,8 @@ form	NN	_ <O>
 for	IN	_ <O>
 clarity	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Finally	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -122,4 +125,5 @@ and	CC	_ <O>
 batch	NN	_ <O>
 processing	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

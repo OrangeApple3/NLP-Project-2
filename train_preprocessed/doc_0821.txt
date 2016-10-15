@@ -32,7 +32,8 @@ N.	NNP	_ <O>
 unifasciatus	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 kept	VBN	_ <O>
 in	IN	_ <O>
@@ -57,7 +58,8 @@ characins	NNS	_ <O>
 and	CC	_ <O>
 corydoras	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 kept	VBN	_ <O>
 in	IN	_ <O>
@@ -96,7 +98,8 @@ the	DT	_ <O>
 floating	VBG	_ <O>
 plants	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Baby	NNP	_ <O>
 brine	NN	_ <O>
 shrimp	NN	_ <O>
@@ -119,7 +122,8 @@ fry	NN	_ <O>
 and	CC	_ <O>
 adults	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Nannostomus	NNP	_ <O>
 '	''	_ <O>
@@ -147,7 +151,8 @@ of	IN	_ <O>
 their	PRP$	_ <O>
 diet	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 most	JJS	_ <O>
 species	NNS	_ <O>
@@ -161,7 +166,8 @@ and	CC	_ <O>
 defend	VB	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Their	PRP$	_ <O>
 defensive	JJ	_ <O>
 actions	NNS	_ <O>
@@ -203,7 +209,8 @@ are	VBP	_ <O>
 not	RB	_ <O>
 provided	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Once	RB	_ <O>
 acclimated	VBN	_ <O>
 to	IN	_ <O>
@@ -239,4 +246,5 @@ or	CC	_ <O>
 more	JJR	_ <O>
 years	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

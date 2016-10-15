@@ -23,7 +23,8 @@ people	NNS	_ <O>
 and	CC	_ <O>
 animals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 were	VBD	_ <O>
 sick	JJ	_ <O>
@@ -35,7 +36,8 @@ in	IN	_ <O>
 all	DT	_ <O>
 directions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 heat	NN	_ <O>
 has	VBZ	_ <O>
@@ -48,7 +50,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 children	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 I	PRP	_ <O>
 baptized	VBD	_ <O>
 several	JJ	_ <O>
@@ -71,4 +74,5 @@ earth	NN	_ <O>
 to	IN	_ <O>
 heaven	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -12,7 +12,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 series	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 details	NNS	_ <O>
 of	IN	_ <O>
@@ -43,7 +44,8 @@ the	DT	_ <O>
 foreseeable	JJ	_ <O>
 future	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Advance	NNP	_ <O>
 criticisms	NNS	_ <O>
 (	-LRB-	_ <O>
@@ -92,4 +94,5 @@ Next	NNP	_ <O>
 Generation	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

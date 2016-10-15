@@ -22,7 +22,8 @@ places	NNS	_ <O>
 of	IN	_ <O>
 worship	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 Adam	NNP	_ <O>
 attempts	VBZ	_ <O>
@@ -48,7 +49,8 @@ a	DT	_ <O>
 different	JJ	_ <O>
 manner	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Specifically	RB	_ <O>
 ,	,	_ <O>
 Harding	NNP	_ <O>
@@ -82,7 +84,8 @@ will	MD	_ <O>
 stray	VB	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Much	JJ	_ <O>
 like	IN	_ <O>
 Adam	NNP	_ <O>
@@ -121,4 +124,5 @@ nature	NN	_ <O>
 of	IN	_ <O>
 God	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

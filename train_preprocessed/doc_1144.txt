@@ -19,7 +19,8 @@ Yorkshire	NNP	_ <O>
 ,	,	_ <O>
 England	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 situated	VBN	_ <O>
@@ -31,7 +32,8 @@ the	DT	_ <O>
 A166	NNP	_ <O>
 road	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 the	DT	_ <O>
@@ -47,4 +49,5 @@ population	NN	_ <O>
 of	IN	_ <O>
 672	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

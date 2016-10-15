@@ -42,7 +42,8 @@ and	CC	_ <O>
 Bengali	NNP	_ <O>
 poetry	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 refrain	NN	_ <O>
 may	MD	_ <O>
@@ -60,7 +61,8 @@ by	IN	_ <O>
 a	DT	_ <O>
 rhyme	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Each	DT	_ <O>
 couplet	NN	_ <O>
 forms	VBZ	_ <O>
@@ -86,7 +88,8 @@ love	NN	_ <O>
 or	CC	_ <O>
 divinity	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 last	JJ	_ <O>
 couplet	NN	_ <O>
@@ -98,4 +101,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 author	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

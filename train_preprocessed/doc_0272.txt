@@ -46,7 +46,8 @@ Senate	NNP	_ <O>
 Majority	NNP	_ <O>
 Whip	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Wellstone	NN	_ <O>
 saw	VBD	_ <O>
 McCain	NNP	_ <O>
@@ -77,7 +78,8 @@ minute	NN	_ <O>
 election	NN	_ <O>
 ads	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 (	-LRB-	_ <O>
 Since	IN	_ <O>
 corporate	JJ	_ <O>
@@ -103,7 +105,8 @@ rich	JJ	_ <O>
 individuals	NNS	_ <O>
 .	.	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 Wellstone	NNP	_ <O>
 pushed	VBD	_ <O>
 an	DT	_ <O>
@@ -139,4 +142,5 @@ and	CC	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

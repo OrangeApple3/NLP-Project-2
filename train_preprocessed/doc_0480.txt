@@ -22,7 +22,8 @@ interludes	NNS	_ <O>
 by	IN	_ <O>
 Rhodes	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 Parton	NNP	_ <O>
 's	POS	_ <O>
@@ -45,7 +46,8 @@ Norma	NNP	_ <O>
 Jean	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Each	DT	_ <O>
 episode	NN	_ <O>
 also	RB	_ <O>
@@ -61,7 +63,8 @@ or	CC	_ <O>
 two	CD	_ <O>
 songs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 spiritual	JJ	_ <O>
 or	CC	_ <O>
@@ -99,4 +102,5 @@ the	DT	_ <O>
 entire	JJ	_ <O>
 cast	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -32,7 +32,8 @@ in	IN	_ <O>
 ancient	JJ	_ <O>
 times	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 c.	IN	_ <O>
 3200	CD	_ <O>
 BC	NNP	_ <O>
@@ -60,7 +61,8 @@ along	IN	_ <O>
 the	DT	_ <O>
 sides	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	<B-CUE>
 believed	VBN	<I-CUE>
@@ -72,7 +74,8 @@ of	IN	_ <O>
 early	JJ	_ <O>
 animation	NN	_ <O>
 ..	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 lamp	NN	_ <O>
 experiment	NN	_ <O>
@@ -111,7 +114,8 @@ camera	NN	_ <O>
 obscura	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 1515	CD	_ <O>
 -	HYPH	_ <O>
 Leonardo	NNP	_ <O>
@@ -126,7 +130,8 @@ produce	VB	_ <O>
 this	DT	_ <O>
 effect	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 1544	CD	_ <O>
 -	HYPH	_ <O>
 Reinerus	NNP	_ <O>
@@ -152,7 +157,8 @@ by	IN	_ <O>
 this	DT	_ <O>
 means	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 1588	CD	_ <O>
 -	HYPH	_ <O>
 Giovanni	NNP	_ <O>
@@ -166,7 +172,8 @@ to	IN	_ <O>
 this	DT	_ <O>
 trick	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 1610	CD	_ <O>
 -	HYPH	_ <O>
 Johannes	NNP	_ <O>
@@ -186,7 +193,8 @@ camera	NN	_ <O>
 obscura	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 c.	IN	_ <O>
 1610	CD	_ <O>
 -	HYPH	_ <O>
@@ -201,7 +209,8 @@ a	DT	_ <O>
 convex	JJ	_ <O>
 lens	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 1671	CD	_ <O>
 -	HYPH	_ <O>
 Athanasius	NNP	_ <O>
@@ -226,7 +235,8 @@ Magic	NNP	_ <O>
 Lantern	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 1724	CD	_ <O>
 -	HYPH	_ <O>
 Johann	NNP	_ <O>
@@ -253,7 +263,8 @@ presence	NN	_ <O>
 of	IN	_ <O>
 light	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 article	NN	_ <O>
 is	VBZ	<B-CUE>
@@ -292,7 +303,8 @@ an	DT	_ <O>
 incorrect	JJ	_ <O>
 date	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 1824/1827	CD	_ <O>
 -	HYPH	_ <O>
 Nicéphore	NNP	_ <O>
@@ -313,7 +325,8 @@ for	IN	_ <O>
 eight	CD	_ <O>
 hours	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 1826	CD	_ <O>
 -	HYPH	_ <O>
 John	NNP	_ <O>
@@ -338,7 +351,8 @@ illusion	NN	_ <O>
 of	IN	_ <O>
 movement	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 1831	CD	_ <O>
 -	HYPH	_ <O>
 Faraday	NNP	_ <O>
@@ -347,4 +361,5 @@ Law	NNP	_ <O>
 of	IN	_ <O>
 electromagnetic	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

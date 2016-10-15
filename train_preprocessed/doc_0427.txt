@@ -31,7 +31,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 northwest	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Wooden	JJ	_ <O>
 buildings	NNS	_ <O>
 were	VBD	_ <O>
@@ -59,7 +60,8 @@ Sr	NNP	_ <O>
 eight	CD	_ <O>
 sons	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 that	DT	_ <O>
 period	NN	_ <O>
@@ -74,7 +76,8 @@ Pflugerville	NNP	_ <O>
 High	NNP	_ <O>
 School	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Around	IN	_ <O>
 580	CD	_ <O>
 people	NNS	_ <O>
@@ -85,4 +88,5 @@ community	NN	_ <O>
 in	IN	_ <O>
 1930	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

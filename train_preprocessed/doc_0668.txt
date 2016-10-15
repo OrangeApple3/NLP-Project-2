@@ -20,7 +20,8 @@ and	CC	_ <O>
 the	DT	_ <O>
 goalie	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Both	DT	_ <O>
 shooters	NNS	_ <O>
 and	CC	_ <O>
@@ -42,7 +43,8 @@ style	NN	_ <O>
 of	IN	_ <O>
 play	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Shooters	NNS	_ <O>
 often	RB	_ <O>
 consider	VBP	_ <O>
@@ -82,7 +84,8 @@ challenging	VBG	_ <O>
 the	DT	_ <O>
 shooter	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Goaltenders	NNS	_ <O>
 often	RB	_ <O>
 consider	VBP	_ <O>
@@ -111,4 +114,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 shooter	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

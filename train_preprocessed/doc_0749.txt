@@ -16,7 +16,8 @@ may	MD	<B-CUE>
 help	NN	_ <O>
 prevent	VB	_ <O>
 PTSD.	NNP	_ <O>
- <O>
+
+NULL
 Several	JJ	<B-CUE>
 studies	NNS	<I-CUE>
 have	VBP	_ <O>
@@ -46,7 +47,8 @@ fewer	JJR	_ <O>
 symptoms	NNS	_ <O>
 of	IN	_ <O>
 PTSD.	NNP	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 this	DT	_ <O>
 study	NN	_ <O>
@@ -72,7 +74,8 @@ of	IN	_ <O>
 traumatic	JJ	_ <O>
 memories	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 neurodegenerative	JJ	_ <O>
 effects	NNS	_ <O>
@@ -88,4 +91,5 @@ this	DT	_ <O>
 treatment	NN	_ <O>
 counterproductive	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

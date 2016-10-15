@@ -38,7 +38,8 @@ Park	NNP	_ <O>
 in	IN	_ <O>
 1976	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Singer	NNP	_ <O>
 Grace	NNP	_ <O>
 Slick	NNP	_ <O>
@@ -83,7 +84,8 @@ Balin	NNP	_ <O>
 also	RB	_ <O>
 left	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 With	IN	_ <O>
 Slick	NNP	_ <O>
 gone	VBN	_ <O>
@@ -134,7 +136,8 @@ of	IN	_ <O>
 Change	NNP	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 played	VBD	_ <O>
 only	RB	_ <O>
@@ -193,4 +196,5 @@ in	IN	_ <O>
 the	DT	_ <O>
 lyrics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

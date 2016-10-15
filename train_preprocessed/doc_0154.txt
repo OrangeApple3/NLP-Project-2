@@ -32,7 +32,8 @@ programmed	VBN	_ <O>
 for	IN	_ <O>
 them	PRP	_ <O>
 ....	.	_ <O>
- <O>
+
+NULL
 Gill	NNP	_ <O>
 ,	,	_ <O>
 17	CD	_ <O>
@@ -62,7 +63,8 @@ the	DT	_ <O>
 shortest	JJS	_ <O>
 phrases	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 because	IN	_ <O>
@@ -84,7 +86,8 @@ her	PRP$	_ <O>
 voice	NN	_ <O>
 deserves	VBZ	_ <O>
 ...	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 several	JJ	<B-CUE>
@@ -122,7 +125,8 @@ It	PRP	_ <O>
 You	PRP	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 '	``	_ <O>
 50/50	CD	_ <O>
@@ -168,7 +172,8 @@ purring	VBG	_ <O>
 and	CC	_ <O>
 swooping	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 most	JJS	_ <O>
 of	IN	_ <O>
@@ -189,4 +194,5 @@ style	NN	_ <O>
 electropop	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

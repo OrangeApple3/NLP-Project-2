@@ -30,7 +30,8 @@ associated	VBN	_ <O>
 with	IN	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Elsewhere	RB	_ <O>
 ,	,	_ <O>
 it	PRP	_ <O>
@@ -40,7 +41,8 @@ a	DT	_ <O>
 celebratory	JJ	_ <O>
 dish	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Across	IN	_ <O>
 Italy	NNP	_ <O>
 is	VBZ	_ <O>
@@ -72,7 +74,8 @@ in	IN	_ <O>
 a	DT	_ <O>
 panino	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -91,4 +94,5 @@ of	IN	_ <O>
 a	DT	_ <O>
 picnic	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

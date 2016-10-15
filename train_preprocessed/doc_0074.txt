@@ -20,7 +20,8 @@ Downtown	NN	_ <O>
 Los	NNP	_ <O>
 Angeles	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Due	IN	_ <O>
 to	IN	_ <O>
 its	PRP$	_ <O>
@@ -58,7 +59,8 @@ the	DT	_ <O>
 United	NNP	_ <O>
 States	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Today	NN	_ <O>
 much	JJ	_ <O>
 of	IN	_ <O>
@@ -102,4 +104,5 @@ remain	VBP	_ <O>
 in	IN	_ <O>
 Hollywood	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

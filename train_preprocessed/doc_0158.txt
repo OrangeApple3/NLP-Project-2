@@ -25,4 +25,5 @@ Monogatari	NNP	_ <O>
 '	''	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

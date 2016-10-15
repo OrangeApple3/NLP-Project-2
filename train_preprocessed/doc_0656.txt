@@ -16,7 +16,8 @@ in	IN	_ <O>
 public	JJ	_ <O>
 schools	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 a	DT	_ <O>
 many	JJ	_ <O>
@@ -75,7 +76,8 @@ loud	JJ	_ <O>
 popping	VBG	_ <O>
 noise	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 popular	JJ	<B-CUE>
@@ -95,7 +97,8 @@ the	DT	_ <O>
 sound	NN	_ <O>
 barrier	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	JJS	_ <O>
 papers	NNS	_ <O>
 work	VBP	_ <O>
@@ -109,4 +112,5 @@ louder	RBR	_ <O>
 than	IN	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

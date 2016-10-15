@@ -36,7 +36,8 @@ the	DT	_ <O>
 World	NNP	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 county	NN	_ <O>
 has	VBZ	_ <O>
@@ -53,7 +54,8 @@ United	NNP	_ <O>
 States	NNP	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 due	JJ	_ <O>
@@ -85,7 +87,8 @@ build	VB	_ <O>
 the	DT	_ <O>
 bridges	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Daniels	NNP	_ <O>
 and	CC	_ <O>
 Britton	NNP	_ <O>
@@ -99,4 +102,5 @@ Indiana	NNP	_ <O>
 between	IN	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

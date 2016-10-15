@@ -23,7 +23,8 @@ pedicle	NN	_ <O>
 pedunculated	VBN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pedunculated	VBN	_ <O>
 polyps	NNS	_ <O>
 are	VBP	_ <O>
@@ -33,7 +34,8 @@ that	IN	_ <O>
 sessile	JJ	_ <O>
 ones	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 range	VBP	_ <O>
 in	IN	_ <O>
@@ -46,7 +48,8 @@ to	IN	_ <O>
 several	JJ	_ <O>
 centimeters	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Small	JJ	_ <O>
 blood	NN	_ <O>
 vessels	NNS	_ <O>
@@ -60,4 +63,5 @@ particularly	RB	_ <O>
 large	JJ	_ <O>
 ones	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

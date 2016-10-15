@@ -51,7 +51,8 @@ Assassin	NNP	_ <O>
 poster	NN	_ <O>
 illustrator	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 American	JJ	_ <O>
 actor	NN	_ <O>
 Sandra	NNP	_ <O>
@@ -73,4 +74,5 @@ the	DT	_ <O>
 dubbed	VBN	_ <O>
 edition	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

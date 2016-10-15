@@ -35,7 +35,8 @@ approach	NN	_ <O>
 to	IN	_ <O>
 religion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	<B-CUE>
 most	RBS	<I-CUE>
 notable	JJ	<I-CUE>
@@ -46,7 +47,8 @@ may	MD	<B-CUE>
 be	VB	_ <O>
 Discordianism	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 With	IN	_ <O>
 Discordianism	NNP	_ <O>
 ,	,	_ <O>
@@ -74,7 +76,8 @@ even	RB	_ <O>
 bigger	JJR	_ <O>
 joke	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 joke	NN	_ <O>
 ,	,	_ <O>
@@ -99,4 +102,5 @@ ad	NN	_ <O>
 infinitum	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

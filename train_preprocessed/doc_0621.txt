@@ -44,7 +44,8 @@ of	IN	_ <O>
 atmospheric	JJ	_ <O>
 nitrogen	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Leghemoglobin	NNP	_ <O>
 buffers	VBZ	_ <O>
 the	DT	_ <O>
@@ -68,4 +69,5 @@ of	IN	_ <O>
 root	NN	_ <O>
 nodules	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

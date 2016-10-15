@@ -12,7 +12,8 @@ Michael	NNP	_ <O>
 Johnston	NNP	_ <O>
 left	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Despite	IN	_ <O>
 some	DT	_ <O>
 success	NN	_ <O>
@@ -30,7 +31,8 @@ Irish	JJ	_ <O>
 group	NN	_ <O>
 Planxty	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 next	JJ	_ <O>
 few	JJ	_ <O>
@@ -53,7 +55,8 @@ of	IN	_ <O>
 traditional	JJ	_ <O>
 songs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 versions	NNS	_ <O>
 of	IN	_ <O>
@@ -82,4 +85,5 @@ at	IN	_ <O>
 concerts	NNS	_ <O>
 today	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

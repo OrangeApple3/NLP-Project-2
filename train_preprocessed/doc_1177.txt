@@ -25,4 +25,5 @@ society	NN	_ <O>
 political	JJ	_ <O>
 policy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

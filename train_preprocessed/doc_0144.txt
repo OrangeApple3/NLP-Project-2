@@ -24,7 +24,8 @@ the	DT	_ <O>
 Red	NNP	_ <O>
 Planet	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 other	JJ	_ <O>
 astronaut	NN	_ <O>
@@ -41,7 +42,8 @@ human	JJ	_ <O>
 interplanetary	JJ	_ <O>
 nature	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Expecting	VBG	_ <O>
 some	DT	<B-CUE>
 unnameable	JJ	<I-CUE>
@@ -94,7 +96,8 @@ and	CC	_ <O>
 reassures	VBZ	_ <O>
 him	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 People	NNS	_ <O>
 '	``	_ <O>
 are	VBP	_ <O>
@@ -107,4 +110,5 @@ alike	JJ	_ <O>
 everywhere	RB	_ <O>
 !	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

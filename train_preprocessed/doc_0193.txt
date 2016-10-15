@@ -28,7 +28,8 @@ wished	VBD	_ <O>
 to	TO	_ <O>
 submit	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Thus	RB	_ <O>
 a	DT	_ <O>
 reader	NN	_ <O>
@@ -56,7 +57,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 prize	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 can	MD	_ <O>
 be	VB	_ <O>
@@ -88,7 +90,8 @@ entries	NNS	_ <O>
 of	IN	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Of	RB	_ <O>
 course	RB	_ <O>
 ,	,	_ <O>
@@ -106,4 +109,5 @@ a	DT	_ <O>
 dubious	JJ	_ <O>
 strategy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

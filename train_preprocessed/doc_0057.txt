@@ -16,4 +16,5 @@ within	IN	_ <O>
 a	DT	_ <O>
 tokonoma	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -13,7 +13,8 @@ of	IN	_ <O>
 good	JJ	_ <O>
 luck	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Albino	NNP	_ <O>
 Squirrel	NNP	_ <O>
@@ -62,4 +63,5 @@ narrowly	RB	_ <O>
 failed	VBD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

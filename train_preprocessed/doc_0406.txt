@@ -29,7 +29,8 @@ students	NNS	_ <O>
 to	TO	_ <O>
 use	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Began	NNP	_ <O>
 as	IN	_ <O>
 an	DT	_ <O>
@@ -60,7 +61,8 @@ by	IN	_ <O>
 Parkland	NNP	_ <O>
 students	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Art	NN	_ <O>
 students	NNS	_ <O>
 at	IN	_ <O>
@@ -75,7 +77,8 @@ works	NNS	_ <O>
 of	IN	_ <O>
 art	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 fall	NN	_ <O>
@@ -109,4 +112,5 @@ school	NN	_ <O>
 best	JJS	_ <O>
 ever	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -15,7 +15,8 @@ to	IN	_ <O>
 health	NN	_ <O>
 problems	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 people	NNS	<I-CUE>
 speculate	VB	_ <O>
@@ -45,7 +46,8 @@ and	CC	_ <O>
 behavioural	JJ	_ <O>
 problems	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Solid	NNP	_ <O>
 human	JJ	_ <O>
 evidence	NN	_ <O>
@@ -90,4 +92,5 @@ to	IN	_ <O>
 the	DT	_ <O>
 claims	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

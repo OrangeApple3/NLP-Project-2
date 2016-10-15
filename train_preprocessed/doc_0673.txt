@@ -58,7 +58,8 @@ borough	NN	_ <O>
 ,	,	_ <O>
 Helston	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Elections	NNS	_ <O>
 were	VBD	_ <O>
 generally	RB	_ <O>
@@ -82,7 +83,8 @@ one	CD	_ <O>
 Tory	NNP	_ <O>
 returned	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 this	DT	_ <O>
 final	JJ	_ <O>
@@ -126,7 +128,8 @@ complicit	JJ	_ <O>
 in	IN	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1828	CD	_ <O>
 ,	,	_ <O>
@@ -215,4 +218,5 @@ proposal	NN	_ <O>
 was	VBD	_ <O>
 defeated	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

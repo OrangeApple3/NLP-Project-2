@@ -32,7 +32,8 @@ aid	NN	_ <O>
 in	IN	_ <O>
 1919	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 consisted	VBD	_ <O>
 mostly	RB	_ <O>
@@ -58,7 +59,8 @@ Carton	NNP	_ <O>
 De	NNP	_ <O>
 Wiart	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 addition	NN	_ <O>
 to	IN	_ <O>
@@ -103,7 +105,8 @@ in	IN	_ <O>
 World	NNP	_ <O>
 War	NNP	_ <O>
 I.	NNP	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 army	NN	_ <O>
 was	VBD	_ <O>
@@ -116,7 +119,8 @@ general	NN	_ <O>
 Józef	NNP	_ <O>
 Haller	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hungary	NNP	_ <O>
 offered	VBD	_ <O>
 to	TO	_ <O>
@@ -177,4 +181,5 @@ arrive	VBP	_ <O>
 in	IN	_ <O>
 Poland	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

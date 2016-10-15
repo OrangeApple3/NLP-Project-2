@@ -57,7 +57,8 @@ at	IN	_ <O>
 the	DT	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Several	JJ	_ <O>
 former	JJ	_ <O>
 Nazi	NNP	_ <O>
@@ -103,7 +104,8 @@ during	IN	_ <O>
 World	NNP	_ <O>
 War	NNP	_ <O>
 II.	NNP	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 claim	NN	_ <O>
 that	IN	_ <O>
@@ -121,4 +123,5 @@ American	JJ	_ <O>
 intelligence	NN	_ <O>
 agencies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

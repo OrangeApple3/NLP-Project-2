@@ -11,7 +11,8 @@ from	IN	_ <O>
 the	DT	_ <O>
 appliance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Cords	NNS	_ <O>
 may	MD	_ <O>
 also	RB	_ <O>
@@ -34,7 +35,8 @@ or	CC	_ <O>
 both	DT	_ <O>
 ends	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 cord	NN	_ <O>
 set	VBN	_ <O>
@@ -63,7 +65,8 @@ leakage	NN	_ <O>
 current	JJ	_ <O>
 detector	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Power	NN	_ <O>
 cords	NNS	_ <O>
 for	IN	_ <O>
@@ -87,4 +90,5 @@ minimize	VB	_ <O>
 electromagnetic	JJ	_ <O>
 interference	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

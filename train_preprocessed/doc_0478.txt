@@ -33,7 +33,8 @@ the	DT	_ <O>
 next	JJ	_ <O>
 decade	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 situation	NN	_ <O>
 is	VBZ	_ <O>
@@ -51,7 +52,8 @@ counter	VB	_ <O>
 this	DT	_ <O>
 problem	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Immigration	NN	_ <O>
 policies	NNS	_ <O>
 have	VBP	_ <O>
@@ -66,7 +68,8 @@ come	VB	_ <O>
 to	IN	_ <O>
 Australia	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Those	DT	_ <O>
 who	WP	_ <O>
 are	VBP	_ <O>
@@ -95,4 +98,5 @@ into	IN	_ <O>
 their	PRP$	_ <O>
 70s	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

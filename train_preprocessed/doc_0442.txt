@@ -49,7 +49,8 @@ Iran	NNP	_ <O>
 Contra	NNP	_ <O>
 Affair	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 #	:	_ <O>
 Edwin	NNP	_ <O>
 Meese	NNP	_ <O>
@@ -90,7 +91,8 @@ owned	VBN	_ <O>
 by	IN	_ <O>
 Earl	NNP	_ <O>
 Brian#D.	NNP	_ <O>
- <O>
+
+NULL
 Lowell	NNP	_ <O>
 Jensen	NNP	_ <O>
 (	-LRB-	_ <O>
@@ -144,7 +146,8 @@ California	NNP	_ <O>
 LEAA	NNP	_ <O>
 contract	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hamilton	NNP	_ <O>
 Jordan	NNP	_ <O>
 (	-LRB-	_ <O>
@@ -181,4 +184,5 @@ them	PRP	_ <O>
 (	-LRB-	_ <O>
 1979	CD	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL

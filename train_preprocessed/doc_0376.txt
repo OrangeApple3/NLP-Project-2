@@ -19,7 +19,8 @@ abuse	NN	_ <O>
 of	IN	_ <O>
 children	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Spike	NNP	_ <O>
 ,	,	_ <O>
 Boulderhead	NNP	_ <O>
@@ -33,7 +34,8 @@ names	NNS	_ <O>
 were	VBD	_ <O>
 mentioned	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 said	VBD	_ <O>
 his	PRP$	_ <O>
@@ -51,7 +53,8 @@ done	VBN	_ <O>
 to	IN	_ <O>
 him	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 other	JJ	_ <O>
 interviewers	NNS	_ <O>
@@ -64,4 +67,5 @@ to	IN	_ <O>
 their	PRP$	_ <O>
 interviews	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

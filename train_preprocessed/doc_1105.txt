@@ -24,7 +24,8 @@ from	IN	_ <O>
 perceived	VBN	_ <O>
 tradition	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 present	JJ	_ <O>
 -	HYPH	_ <O>
@@ -51,7 +52,8 @@ the	DT	_ <O>
 the	DT	_ <O>
 community	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 homosexual	JJ	_ <O>
 couple	NN	_ <O>
@@ -66,7 +68,8 @@ heterosexual	JJ	_ <O>
 couple	NN	_ <O>
 can	MD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 followers	NNS	<I-CUE>
 suggest	VBP	<B-CUE>
@@ -79,7 +82,8 @@ as	IN	_ <O>
 celibacy	NN	_ <O>
 is	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 few	JJ	_ <O>
@@ -100,7 +104,8 @@ are	VBP	_ <O>
 ,	,	_ <O>
 homosexual	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Upon	IN	_ <O>
 his	PRP$	_ <O>
 death	NN	_ <O>
@@ -120,4 +125,5 @@ Zoroastrian	JJ	_ <O>
 funeral	NN	_ <O>
 service	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

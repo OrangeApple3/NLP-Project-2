@@ -27,7 +27,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 rifling	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hammer	NNP	_ <O>
 forging	VBG	_ <O>
 machines	NNS	_ <O>
@@ -66,7 +67,8 @@ by	IN	_ <O>
 large	JJ	_ <O>
 companies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 First	RB	_ <O>
 applied	VBN	_ <O>
 to	IN	_ <O>
@@ -98,7 +100,8 @@ the	DT	_ <O>
 United	NNP	_ <O>
 States	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 hammer	NN	_ <O>
 forging	VBG	_ <O>
@@ -135,4 +138,5 @@ button	NN	_ <O>
 rifled	VBN	_ <O>
 barrel	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

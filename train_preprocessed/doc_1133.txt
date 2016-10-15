@@ -15,7 +15,8 @@ the	DT	_ <O>
 20th	JJ	_ <O>
 Century	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 many	JJ	_ <O>
 Pee	NNP	_ <O>
@@ -41,7 +42,8 @@ day	NN	_ <O>
 lives	VBZ	_ <O>
 easier	JJR	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Those	DT	_ <O>
 whose	WP$	_ <O>
 complexions	NNS	_ <O>
@@ -58,7 +60,8 @@ black	JJ	_ <O>
 "	''	_ <O>
 schools	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 there	EX	_ <O>
@@ -83,4 +86,5 @@ during	IN	_ <O>
 that	DT	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

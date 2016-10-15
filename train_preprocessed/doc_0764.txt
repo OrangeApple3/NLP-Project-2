@@ -19,7 +19,8 @@ or	CC	_ <O>
 other	JJ	_ <O>
 contexts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Therapy	NN	_ <O>
 aims	VBZ	_ <O>
 to	TO	_ <O>
@@ -39,7 +40,8 @@ as	IN	_ <O>
 symptoms	NNS	_ <O>
 permit	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 CBT	NNP	_ <O>
 may	MD	_ <O>
 help	VB	_ <O>
@@ -63,7 +65,8 @@ that	IN	_ <O>
 they	PRP	_ <O>
 will	MD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 risk	NN	_ <O>
 exists	VBZ	_ <O>
@@ -119,4 +122,5 @@ from	IN	_ <O>
 the	DT	_ <O>
 injury	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

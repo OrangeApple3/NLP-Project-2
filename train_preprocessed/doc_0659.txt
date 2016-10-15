@@ -36,7 +36,8 @@ accept	VB	_ <O>
 the	DT	_ <O>
 seat	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nothing	NN	<B-CUE>
 could	MD	<I-CUE>
 exceed	VB	<I-CUE>
@@ -83,7 +84,8 @@ to	TO	_ <O>
 help	VB	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 occupied	VBD	_ <O>
 some	DT	_ <O>
@@ -131,7 +133,8 @@ beyond	IN	_ <O>
 his	PRP$	_ <O>
 strength	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 his	PRP$	_ <O>
 death	NN	_ <O>
@@ -163,4 +166,5 @@ all	DT	_ <O>
 went	VBD	_ <O>
 quietly	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

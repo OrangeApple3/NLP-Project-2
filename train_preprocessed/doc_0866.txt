@@ -27,7 +27,8 @@ meters	NNS	_ <O>
 high	JJ	_ <O>
 hill	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -41,7 +42,8 @@ Istria	NNP	_ <O>
 by	IN	_ <O>
 road	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Originally	RB	_ <O>
 named	VBN	_ <O>
 '	``	_ <O>
@@ -64,7 +66,8 @@ the	DT	_ <O>
 same	JJ	_ <O>
 name	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 it	PRP	_ <O>
@@ -82,7 +85,8 @@ approximately	RB	_ <O>
 130	CD	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 buildings	NNS	_ <O>
 in	IN	_ <O>
@@ -104,4 +108,5 @@ original	JJ	_ <O>
 Roman	JJ	_ <O>
 houses	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

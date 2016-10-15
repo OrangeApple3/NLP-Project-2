@@ -15,7 +15,8 @@ till	IN	_ <O>
 recent	JJ	_ <O>
 times	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 the	DT	_ <O>
 Buddhist	NNP	_ <O>
@@ -38,7 +39,8 @@ of	IN	_ <O>
 inappropriate	JJ	_ <O>
 partners	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 Tibet	NNP	_ <O>
 as	RB	_ <O>
@@ -52,7 +54,8 @@ were	VBD	_ <O>
 commonly	RB	_ <O>
 practiced	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Having	VBG	_ <O>
 several	JJ	_ <O>
 wives	NNS	_ <O>
@@ -69,4 +72,5 @@ with	IN	_ <O>
 inappropriate	JJ	_ <O>
 partners	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

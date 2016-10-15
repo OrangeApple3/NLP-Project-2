@@ -7,7 +7,8 @@ the	DT	_ <O>
 best	JJS	_ <O>
 results	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	TO	_ <O>
 prevent	VB	_ <O>
 dispersion	NN	_ <O>
@@ -31,7 +32,8 @@ the	DT	_ <O>
 boiling	NN	_ <O>
 water	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Stirring	VBG	_ <O>
 the	DT	_ <O>
 water	NN	_ <O>
@@ -45,7 +47,8 @@ reduce	VB	_ <O>
 said	VBD	_ <O>
 dispersion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Special	JJ	_ <O>
 pans	NNS	_ <O>
 ,	,	_ <O>
@@ -83,4 +86,5 @@ risk	NN	_ <O>
 of	IN	_ <O>
 dispersion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

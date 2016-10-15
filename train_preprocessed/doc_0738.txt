@@ -50,7 +50,8 @@ song	NN	_ <O>
 cycle	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Berlioz	NNP	_ <O>
 did	VBD	_ <O>
 not	RB	_ <O>
@@ -66,4 +67,5 @@ uses	VBZ	_ <O>
 this	DT	_ <O>
 device	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

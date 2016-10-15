@@ -13,7 +13,8 @@ over	IN	_ <O>
 the	DT	_ <O>
 world	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 people	NNS	<I-CUE>
 enjoy	VB	_ <O>
@@ -44,7 +45,8 @@ graduations	NNS	_ <O>
 or	CC	_ <O>
 weddings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 the	DT	_ <O>
 dawn	NN	_ <O>
@@ -56,7 +58,8 @@ have	VBP	_ <O>
 made	VBN	_ <O>
 portraits	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Studios	NNS	_ <O>
 sprang	VBD	_ <O>
 up	RP	_ <O>
@@ -76,7 +79,8 @@ plates	NNS	_ <O>
 a	DT	_ <O>
 day	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Subjects	NNS	_ <O>
 were	VBD	_ <O>
 generally	RB	_ <O>
@@ -103,4 +107,5 @@ reflected	VBN	_ <O>
 with	IN	_ <O>
 mirrors	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

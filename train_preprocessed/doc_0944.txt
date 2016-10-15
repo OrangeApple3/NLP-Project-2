@@ -17,7 +17,8 @@ Nobel	NNP	_ <O>
 Peace	NNP	_ <O>
 Prize	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Arafat	NNP	_ <O>
 was	VBD	<B-CUE>
 regarded	VBN	<I-CUE>
@@ -31,7 +32,8 @@ for	IN	_ <O>
 many	JJ	_ <O>
 years	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Kare	NNP	_ <O>
 Kristiansen	NNP	_ <O>
 ,	,	_ <O>
@@ -68,7 +70,8 @@ a	DT	_ <O>
 terrorist	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Rabin	NNP	_ <O>
 ,	,	_ <O>
 while	IN	_ <O>
@@ -94,7 +97,8 @@ the	DT	_ <O>
 1948	CD	_ <O>
 War	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 had	VBD	_ <O>
 also	RB	_ <O>
@@ -113,4 +117,5 @@ while	IN	_ <O>
 Defense	NNP	_ <O>
 Minister	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

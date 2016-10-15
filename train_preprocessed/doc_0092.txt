@@ -12,7 +12,8 @@ freshwater	NN	_ <O>
 mussel	NN	_ <O>
 shell	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Along	IN	_ <O>
 with	IN	_ <O>
 a	DT	_ <O>
@@ -50,7 +51,8 @@ a	DT	_ <O>
 saltwater	NN	_ <O>
 mollusk	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 freshwater	NN	_ <O>
 perliculture	NN	_ <O>
@@ -78,7 +80,8 @@ the	DT	_ <O>
 host	NN	_ <O>
 mussel	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 South	NNP	_ <O>
 Sea	NNP	_ <O>
 and	CC	_ <O>
@@ -138,4 +141,5 @@ years	NNS	_ <O>
 of	IN	_ <O>
 growth	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

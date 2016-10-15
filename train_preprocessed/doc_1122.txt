@@ -42,7 +42,8 @@ as	IN	_ <O>
 a	DT	_ <O>
 whole	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Further	RB	_ <O>
 ,	,	_ <O>
 harm	NN	_ <O>
@@ -77,7 +78,8 @@ prosecuting	VBG	_ <O>
 these	DT	_ <O>
 behaviours	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Often	RB	<B-CUE>
 ,	,	_ <O>
 harm	NN	_ <O>
@@ -98,7 +100,8 @@ counter	JJ	_ <O>
 -	HYPH	_ <O>
 productive	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Among	IN	_ <O>
 other	JJ	_ <O>
 arguments	NNS	_ <O>
@@ -131,7 +134,8 @@ are	VBP	_ <O>
 relatively	RB	_ <O>
 low	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	<B-CUE>
 also	RB	_ <O>
 contend	VBP	_ <O>
@@ -171,4 +175,5 @@ abiding	VBG	_ <O>
 drug	NN	_ <O>
 users	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

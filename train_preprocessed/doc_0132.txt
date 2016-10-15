@@ -38,7 +38,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 participants	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	<B-CUE>
 assert	VB	_ <O>
 that	IN	_ <O>
@@ -87,7 +88,8 @@ holding	VBG	_ <O>
 the	DT	_ <O>
 pencil	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 referred	VBN	_ <O>
@@ -97,4 +99,5 @@ the	DT	_ <O>
 ideomotor	NN	_ <O>
 effect	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

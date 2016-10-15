@@ -13,7 +13,8 @@ simple	JJ	_ <O>
 circulatory	JJ	_ <O>
 system	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 blood	NN	_ <O>
 vessels	NNS	_ <O>
@@ -38,7 +39,8 @@ of	IN	_ <O>
 a	DT	_ <O>
 heart	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 a	DT	_ <O>
 few	JJ	_ <O>
@@ -61,7 +63,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 system	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Conversely	RB	_ <O>
 ,	,	_ <O>
 some	DT	<B-CUE>
@@ -87,4 +90,5 @@ their	PRP$	_ <O>
 body	NN	_ <O>
 cavity	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

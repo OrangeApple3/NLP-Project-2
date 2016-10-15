@@ -29,7 +29,8 @@ rail	NN	_ <O>
 car	NN	_ <O>
 manufacturers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Heavyweights	NNS	_ <O>
 are	VBP	<B-CUE>
 said	VBN	<I-CUE>
@@ -66,7 +67,8 @@ trucks	NNS	_ <O>
 bogies	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 stepped	JJ	_ <O>
 roof	NN	_ <O>
@@ -105,7 +107,8 @@ as	IN	_ <O>
 a	DT	_ <O>
 foot	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 section	NN	_ <O>
 of	IN	_ <O>
@@ -129,4 +132,5 @@ was	VBD	_ <O>
 in	IN	_ <O>
 motion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

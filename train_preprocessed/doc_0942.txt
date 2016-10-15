@@ -9,7 +9,8 @@ prayed	VBD	_ <O>
 facing	VBG	_ <O>
 Jerusalem	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 Islamic	JJ	_ <O>
@@ -48,7 +49,8 @@ and	CC	_ <O>
 the	DT	_ <O>
 Kaaba	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Various	JJ	<B-CUE>
 theories	NNS	<I-CUE>
 are	VBP	_ <O>
@@ -84,4 +86,5 @@ prompted	VBD	_ <O>
 the	DT	_ <O>
 move	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

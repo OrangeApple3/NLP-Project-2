@@ -12,7 +12,8 @@ can	MD	_ <O>
 be	VB	_ <O>
 added	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 best	JJS	_ <O>
@@ -47,7 +48,8 @@ than	IN	_ <O>
 30	CD	_ <O>
 minutes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 some	DT	<B-CUE>
 cases	NNS	<I-CUE>
@@ -67,7 +69,8 @@ pain	NN	_ <O>
 and	CC	_ <O>
 injury	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Attempts	VBZ	_ <O>
 at	IN	_ <O>
 using	VBG	_ <O>
@@ -91,7 +94,8 @@ too	RB	_ <O>
 much	JJ	_ <O>
 suction	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 scientists	NNS	_ <O>
@@ -127,4 +131,5 @@ as	IN	_ <O>
 Ann	NNP	_ <O>
 Summers	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -10,7 +10,8 @@ or	CC	_ <O>
 republican	JJ	_ <O>
 communities	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Unlike	IN	_ <O>
 unionist	NN	_ <O>
 parades	NNS	_ <O>
@@ -27,7 +28,8 @@ have	VB	_ <O>
 religious	JJ	_ <O>
 associations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 broadly	RB	_ <O>
 nationalist	JJ	_ <O>
@@ -46,7 +48,8 @@ Orange	NNP	_ <O>
 Order	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Compared	VBN	_ <O>
 to	IN	_ <O>
 most	RBS	_ <O>
@@ -75,7 +78,8 @@ on	IN	_ <O>
 Lady	NNP	_ <O>
 Day	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 various	JJ	_ <O>
 points	NNS	_ <O>
@@ -97,4 +101,5 @@ do	VB	_ <O>
 the	DT	_ <O>
 same	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

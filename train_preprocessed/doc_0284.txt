@@ -39,7 +39,8 @@ and	CC	_ <O>
 next	JJ	_ <O>
 toe	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Popular	JJ	<B-CUE>
 use	NN	_ <O>
 of	IN	_ <O>
@@ -88,7 +89,8 @@ and	CC	_ <O>
 Southeast	NNP	_ <O>
 Asia	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Indeed	RB	_ <O>
 ,	,	_ <O>
 in	IN	_ <O>
@@ -142,4 +144,5 @@ the	DT	_ <O>
 warmer	JJR	_ <O>
 seasons	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

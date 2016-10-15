@@ -43,7 +43,8 @@ deaths	NNS	_ <O>
 of	IN	_ <O>
 civilians	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 the	DT	_ <O>
 same	JJ	_ <O>
@@ -69,4 +70,5 @@ most	RBS	_ <O>
 extreme	JJ	_ <O>
 cases	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

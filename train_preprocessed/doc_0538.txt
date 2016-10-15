@@ -12,7 +12,8 @@ parts	NNS	<I-CUE>
 of	IN	<I-CUE>
 India	NNP	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Vishva	NNP	_ <O>
 Hindu	NNP	_ <O>
@@ -43,7 +44,8 @@ violence	NN	_ <O>
 against	IN	_ <O>
 Christians	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 organizations	NNS	_ <O>
 ,	,	_ <O>
@@ -77,7 +79,8 @@ propaganda	NN	_ <O>
 in	IN	_ <O>
 Gujarat	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 claims	NNS	_ <O>
 have	VBP	<B-CUE>
@@ -114,4 +117,5 @@ national	JJ	_ <O>
 unity	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

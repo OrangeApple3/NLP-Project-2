@@ -29,7 +29,8 @@ a	DT	_ <O>
 theatre	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 '	``	_ <O>
 The	DT	_ <O>
@@ -67,7 +68,8 @@ acting	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 What	WP	_ <O>
 the	DT	_ <O>
 critics	NNS	_ <O>
@@ -88,13 +90,15 @@ laureate	NN	_ <O>
 's	POS	_ <O>
 characters	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 's	VBZ	_ <O>
 not	RB	_ <O>
 pretty	JJ	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Benedict	NNP	_ <O>
 Nightingale	NNP	_ <O>
 in	IN	_ <O>
@@ -139,4 +143,5 @@ the	DT	_ <O>
 show	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

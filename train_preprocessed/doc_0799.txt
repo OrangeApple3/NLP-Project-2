@@ -27,7 +27,8 @@ Yorkshire	NNP	_ <O>
 ,	,	_ <O>
 England	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 she	PRP	_ <O>
 has	VBZ	_ <O>
@@ -45,7 +46,8 @@ a	DT	_ <O>
 TV	NN	_ <O>
 star	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Carson	NNP	_ <O>
 has	VBZ	_ <O>
 a	DT	_ <O>
@@ -59,4 +61,5 @@ Walk	NNP	_ <O>
 of	IN	_ <O>
 Fame	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

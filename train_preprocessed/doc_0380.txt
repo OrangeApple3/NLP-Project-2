@@ -9,7 +9,8 @@ the	DT	_ <O>
 show	NN	_ <O>
 coolly	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	<B-CUE>
 number	NN	<I-CUE>
 felt	VBD	_ <O>
@@ -26,7 +27,8 @@ of	IN	_ <O>
 racial	JJ	_ <O>
 slurs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	JJS	<B-CUE>
 critics	NNS	<I-CUE>
 ,	,	_ <O>
@@ -40,7 +42,8 @@ especially	RB	_ <O>
 the	DT	_ <O>
 score	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Lincoln	NNP	_ <O>
 Center	NNP	_ <O>
 was	VBD	_ <O>
@@ -57,4 +60,5 @@ running	NN	_ <O>
 costs	NNS	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL

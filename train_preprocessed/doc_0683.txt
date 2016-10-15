@@ -12,7 +12,8 @@ vigil	NN	_ <O>
 in	IN	_ <O>
 the	DT	_ <O>
 US.	NNP	_ <O>
- <O>
+
+NULL
 Started	VBN	_ <O>
 by	IN	_ <O>
 Howard	NNP	_ <O>
@@ -31,7 +32,8 @@ than	IN	_ <O>
 4	CD	_ <O>
 generations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 the	DT	_ <O>
 corner	NN	_ <O>
@@ -62,4 +64,5 @@ about	RB	_ <O>
 6	CD	_ <O>
 pm	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

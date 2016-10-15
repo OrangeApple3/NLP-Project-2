@@ -20,7 +20,8 @@ as	IN	_ <O>
 a	DT	_ <O>
 medium	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 has	VBZ	_ <O>
 also	RB	_ <O>
@@ -47,7 +48,8 @@ City	NNP	_ <O>
 Radio	NNP	_ <O>
 101.8	CD	_ <O>
 FM.	NNS	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 has	VBZ	_ <O>
 worked	VBN	_ <O>
@@ -70,7 +72,8 @@ Dr	NNP	_ <O>
 Hans	NNP	_ <O>
 Holzer	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 past	NN	_ <O>
@@ -96,4 +99,5 @@ for	IN	_ <O>
 charitable	JJ	_ <O>
 organisations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

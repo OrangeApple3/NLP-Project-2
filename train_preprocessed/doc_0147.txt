@@ -21,4 +21,5 @@ located	VBN	_ <O>
 miles	NNS	_ <O>
 away	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

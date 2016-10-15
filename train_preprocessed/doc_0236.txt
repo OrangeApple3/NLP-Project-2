@@ -30,7 +30,8 @@ or	CC	_ <O>
 risk	NN	_ <O>
 taking	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Partnership	NNP	_ <O>
 for	IN	_ <O>
@@ -74,7 +75,8 @@ dangerous	JJ	_ <O>
 driving	NN	_ <O>
 behavior	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Partnership	NNP	_ <O>
 believes	VBZ	_ <O>
@@ -118,7 +120,8 @@ dangerous	JJ	_ <O>
 driving	VBG	_ <O>
 behavior	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 counter	NN	_ <O>
 -	HYPH	_ <O>
@@ -142,7 +145,8 @@ they	PRP	_ <O>
 normally	RB	_ <O>
 would	MD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 ,	,	_ <O>
 a	DT	_ <O>
@@ -179,7 +183,8 @@ vehicle	NN	_ <O>
 is	VBZ	_ <O>
 skidding	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Further	RB	_ <O>
 ,	,	_ <O>
 statistics	NNS	_ <O>
@@ -206,4 +211,5 @@ introduction	NN	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
 technology	NN	_ <O>
- <O>
+
+NULL

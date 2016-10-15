@@ -51,7 +51,8 @@ about	RB	_ <O>
 18	CD	_ <O>
 men	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 (	-LRB-	_ <O>
 This	DT	_ <O>
 record	NN	_ <O>
@@ -87,7 +88,8 @@ greatly	RB	_ <O>
 exaggerated	JJ	_ <O>
 .	.	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 She	PRP	_ <O>
 explained	VBD	_ <O>
 her	PRP$	_ <O>
@@ -115,4 +117,5 @@ the	DT	_ <O>
 porn	NN	_ <O>
 industry	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

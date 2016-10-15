@@ -35,7 +35,8 @@ what	WP	_ <O>
 he	PRP	_ <O>
 believes	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Furthermore	RB	_ <O>
 ,	,	_ <O>
 it	PRP	<B-CUE>
@@ -65,7 +66,8 @@ of	IN	_ <O>
 his	PRP$	_ <O>
 beliefs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 summary	NN	_ <O>
 ,	,	_ <O>
@@ -95,4 +97,5 @@ fourth	RB	_ <O>
 Reformed	NNP	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

@@ -12,7 +12,8 @@ with	IN	_ <O>
 disputed	VBN	<B-CUE>
 origins	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	<B-CUE>
 often	RB	<I-CUE>
@@ -39,7 +40,8 @@ or	CC	_ <O>
 a	DT	_ <O>
 standard	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	_ <O>
 documented	VBN	_ <O>
 origin	NN	_ <O>
@@ -59,7 +61,8 @@ early	JJ	_ <O>
 19th	JJ	_ <O>
 century	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Other	JJ	_ <O>
 suggested	VBN	_ <O>
 origins	NNS	_ <O>
@@ -100,7 +103,8 @@ to	IN	_ <O>
 fall	VB	_ <O>
 in	IN	_ <O>
 line”.	JJ	_ <O>
- <O>
+
+NULL
 The	DT	<B-CUE>
 longest	RBS	<I-CUE>
 -	HYPH	<I-CUE>
@@ -147,7 +151,8 @@ their	PRP$	_ <O>
 political	JJ	_ <O>
 rivals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Thus	RB	_ <O>
 the	DT	_ <O>
 cry	NN	_ <O>
@@ -174,4 +179,5 @@ potential	JJ	_ <O>
 mortal	JJ	_ <O>
 conflict	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

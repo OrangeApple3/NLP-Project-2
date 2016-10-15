@@ -13,7 +13,8 @@ of	IN	<I-CUE>
 a	DT	<I-CUE>
 disappointment	NN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 must	MD	<B-CUE>
 be	VB	_ <O>
@@ -53,7 +54,8 @@ by	IN	_ <O>
 the	DT	_ <O>
 Vikings	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Additionally	RB	_ <O>
 ,	,	_ <O>
 he	PRP	_ <O>
@@ -65,7 +67,8 @@ championship	NN	_ <O>
 NFL	NNP	_ <O>
 team	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 observers	NNS	<I-CUE>
 ,	,	_ <O>
@@ -144,4 +147,5 @@ throughout	IN	_ <O>
 his	PRP$	_ <O>
 career	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

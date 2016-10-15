@@ -31,7 +31,8 @@ in	IN	_ <O>
 England	NNP	_ <O>
 today	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 chronicler	NN	_ <O>
 Ralph	NNP	_ <O>
@@ -73,7 +74,8 @@ he	PRP	_ <O>
 came	VBD	_ <O>
 across	IN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Ralph	NNP	_ <O>
 claimed	VBD	_ <O>
 that	IN	_ <O>
@@ -116,7 +118,8 @@ from	IN	_ <O>
 the	DT	_ <O>
 west	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 may	MD	<B-CUE>
 be	VB	_ <O>
@@ -148,4 +151,5 @@ to	IN	_ <O>
 Maria	NNP	_ <O>
 Comnena	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

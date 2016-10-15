@@ -41,7 +41,8 @@ to	IN	_ <O>
 difficulty	NN	_ <O>
 eating	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Severe	JJ	_ <O>
 cases	NNS	_ <O>
 may	MD	_ <O>
@@ -51,14 +52,16 @@ ventilation	NN	_ <O>
 or	CC	_ <O>
 tracheostomy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Sleep	NNP	_ <O>
 apnoea	NN	_ <O>
 may	MD	_ <O>
 also	RB	_ <O>
 occur	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Other	JJ	_ <O>
 management	NN	_ <O>
 strategies	NNS	_ <O>
@@ -86,4 +89,5 @@ such	JJ	_ <O>
 as	IN	_ <O>
 influenza	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

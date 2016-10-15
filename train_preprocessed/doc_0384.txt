@@ -27,7 +27,8 @@ using	VBG	_ <O>
 spectacular	JJ	_ <O>
 means	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 killed	VBD	_ <O>
 six	CD	_ <O>
@@ -43,7 +44,8 @@ shot	VBN	_ <O>
 dead	JJ	_ <O>
 himself	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 action	NN	_ <O>
 has	VBZ	_ <O>
@@ -63,7 +65,8 @@ the	DT	_ <O>
 First	JJ	_ <O>
 Intifada	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 PFLP	NNP	_ <O>
 -	HYPH	_ <O>
@@ -96,4 +99,5 @@ in	IN	_ <O>
 South	NNP	_ <O>
 Lebanon	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

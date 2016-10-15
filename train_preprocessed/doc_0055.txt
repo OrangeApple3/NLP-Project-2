@@ -27,7 +27,8 @@ the	DT	_ <O>
 hotel	NN	_ <O>
 chambermaid	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Both	DT	_ <O>
 girls	NNS	_ <O>
 are	VBP	_ <O>
@@ -38,7 +39,8 @@ blame	VBP	_ <O>
 the	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 two	CD	_ <O>
 maids	NNS	_ <O>
@@ -92,7 +94,8 @@ return	VB	_ <O>
 the	DT	_ <O>
 case	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 valet	NN	_ <O>
 was	VBD	_ <O>
@@ -122,4 +125,5 @@ in	IN	_ <O>
 her	PRP$	_ <O>
 room	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

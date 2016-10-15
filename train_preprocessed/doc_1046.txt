@@ -26,4 +26,5 @@ the	DT	_ <O>
 cover	NN	_ <O>
 story	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

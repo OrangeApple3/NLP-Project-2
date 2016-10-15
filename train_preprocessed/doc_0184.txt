@@ -36,7 +36,8 @@ East	NNP	_ <O>
 of	IN	_ <O>
 Melbourne	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 are	VBP	_ <O>
 unrelated	JJ	_ <O>
@@ -50,7 +51,8 @@ are	VBP	<B-CUE>
 not	RB	<I-CUE>
 problematic	JJ	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Swamp	NNP	_ <O>
 Rat	NNP	_ <O>
@@ -71,7 +73,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 grounds	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 rangers	NNS	_ <O>
 at	IN	_ <O>
@@ -96,4 +99,5 @@ no	DT	_ <O>
 dangerous	JJ	<B-CUE>
 diseases	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

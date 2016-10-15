@@ -21,7 +21,8 @@ accentuates	VBZ	_ <O>
 his	PRP$	_ <O>
 messages	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 an	DT	_ <O>
 art	NN	_ <O>
@@ -46,7 +47,8 @@ people	NNS	_ <O>
 enjoy	VB	_ <O>
 art	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 same	JJ	_ <O>
@@ -76,7 +78,8 @@ butter	NN	_ <O>
 Wolgamott	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Schjeldahl	NNP	_ <O>
 ’s	NNP	_ <O>
 lasting	VBG	_ <O>
@@ -114,4 +117,5 @@ more	JJR	_ <O>
 commercialized	VBN	_ <O>
 entertainment	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

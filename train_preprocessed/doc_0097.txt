@@ -13,7 +13,8 @@ around	IN	_ <O>
 the	DT	_ <O>
 world	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 has	VBZ	_ <O>
 authored	VBN	_ <O>
@@ -30,7 +31,8 @@ and	CC	_ <O>
 hold	VB	_ <O>
 exhibitions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 church	NN	_ <O>
 at	IN	_ <O>
@@ -76,7 +78,8 @@ Pastoral	NNP	_ <O>
 Care	NNP	_ <O>
 Management	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pringle	NNP	_ <O>
 's	POS	_ <O>
 vision	NN	_ <O>
@@ -114,4 +117,5 @@ disciples	NNS	_ <O>
 of	IN	_ <O>
 Christ	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

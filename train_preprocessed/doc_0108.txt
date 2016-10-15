@@ -33,7 +33,8 @@ externality	NN	_ <O>
 problems	NNS	_ <O>
 exist	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 More	RBR	_ <O>
 recently	RB	_ <O>
 ,	,	_ <O>
@@ -75,7 +76,8 @@ pollution	NN	_ <O>
 rights	NNS	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Pollution	NN	_ <O>
 rights	NNS	_ <O>
 markets	NNS	_ <O>
@@ -133,7 +135,8 @@ unaltered	JJ	_ <O>
 market	NN	_ <O>
 case	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pollution	NN	_ <O>
 rights	NNS	_ <O>
 markets	NNS	_ <O>
@@ -155,4 +158,5 @@ market	NN	_ <O>
 environmentalism	NN	_ <O>
 specifically	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

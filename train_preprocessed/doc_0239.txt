@@ -24,7 +24,8 @@ other	JJ	_ <O>
 geographic	JJ	_ <O>
 regions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Urban	JJ	_ <O>
 civilization	NN	_ <O>
 ,	,	_ <O>
@@ -69,7 +70,8 @@ Valley	NNP	_ <O>
 Civilization	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 ancient	JJ	_ <O>
 city	NN	_ <O>
@@ -98,7 +100,8 @@ circumstantial	JJ	_ <O>
 and	CC	_ <O>
 speculative	JJ	<B-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Archaeological	JJ	_ <O>
 finds	NNS	_ <O>
 also	RB	_ <O>
@@ -121,4 +124,5 @@ world	NN	_ <O>
 from	IN	_ <O>
 Afghanistan	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

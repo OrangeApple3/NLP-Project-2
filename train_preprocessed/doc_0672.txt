@@ -15,7 +15,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 parasite	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Certainly	RB	_ <O>
 the	DT	_ <O>
 best	JJS	_ <O>
@@ -32,7 +33,8 @@ and	CC	_ <O>
 cowardly	JJ	_ <O>
 knight	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 J.	NNP	_ <O>
 W.	NNP	_ <O>
@@ -57,7 +59,8 @@ Miles	NNP	_ <O>
 Gloriosus	NNP	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 Of	RB	_ <O>
 course	RB	_ <O>
 ,	,	_ <O>
@@ -100,4 +103,5 @@ interlocking	VBG	_ <O>
 types	NNS	_ <O>
 .	.	_ <O>
 ”	NFP	_ <O>
- <O>
+
+NULL

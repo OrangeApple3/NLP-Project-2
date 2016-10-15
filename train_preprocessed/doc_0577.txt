@@ -40,7 +40,8 @@ remaining	VBG	_ <O>
 is	VBZ	_ <O>
 reduced	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 recovery	NN	_ <O>
 factor	NN	_ <O>
@@ -68,4 +69,5 @@ set	NN	_ <O>
 of	IN	_ <O>
 conditions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

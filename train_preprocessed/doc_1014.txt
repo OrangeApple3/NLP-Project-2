@@ -25,7 +25,8 @@ died	VBD	_ <O>
 in	IN	_ <O>
 custody	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Manifesto	NNP	_ <O>
 of	IN	_ <O>
@@ -49,7 +50,8 @@ Andrews	NNP	_ <O>
 ,	,	_ <O>
 Cindi	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 Stories	NNS	_ <O>
 of	IN	_ <O>
@@ -63,7 +65,8 @@ since	IN	_ <O>
 1995	CD	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 the	DT	_ <O>
 time	NN	_ <O>
@@ -90,7 +93,8 @@ in	IN	_ <O>
 police	NNS	_ <O>
 custody	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Of	IN	_ <O>
 the	DT	_ <O>
 fifteen	JJ	_ <O>
@@ -115,7 +119,8 @@ during	IN	_ <O>
 the	DT	_ <O>
 confrontations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 these	DT	_ <O>
 confrontation	NN	_ <O>
@@ -127,7 +132,8 @@ killed	VBN	_ <O>
 or	CC	_ <O>
 wounded	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 No	DT	_ <O>
 police	NN	_ <O>
 were	VBD	_ <O>
@@ -182,7 +188,8 @@ Michael	NNP	_ <O>
 Carpenter	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 note	VB	_ <O>
 that	IN	_ <O>
@@ -222,4 +229,5 @@ during	IN	_ <O>
 that	DT	_ <O>
 span	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

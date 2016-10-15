@@ -15,7 +15,8 @@ by	IN	_ <O>
 John	NNP	_ <O>
 Goldrosen	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 was	VBD	_ <O>
 directed	VBN	_ <O>
@@ -23,4 +24,5 @@ by	IN	_ <O>
 Steve	NNP	_ <O>
 Rash	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -19,7 +19,8 @@ the	DT	_ <O>
 oil	NN	_ <O>
 industry	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 are	VBP	<B-CUE>
 intended	VBN	<I-CUE>
@@ -58,7 +59,8 @@ support	VB	_ <O>
 their	PRP$	_ <O>
 claims	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Proven	NNP	_ <O>
 Reserves	NNPS	_ <O>
@@ -98,7 +100,8 @@ the	DT	_ <O>
 industry	NN	_ <O>
 as	IN	_ <O>
 1P.	CD	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 industry	NN	<I-CUE>
 specialists	NNS	<I-CUE>
@@ -120,7 +123,8 @@ of	IN	_ <O>
 being	VBG	_ <O>
 produced	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Proven	JJ	_ <O>
 reserves	NNS	_ <O>
 are	VBP	_ <O>
@@ -143,7 +147,8 @@ Undeveloped	NNP	_ <O>
 PUD	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 PD	NN	_ <O>
 reserves	NNS	_ <O>
 are	VBP	_ <O>
@@ -173,7 +178,8 @@ expense	NN	_ <O>
 is	VBZ	_ <O>
 required	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 PUD	NNP	_ <O>
 reserves	NNS	_ <O>
 require	VBP	_ <O>
@@ -202,7 +208,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 surface	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Probable	JJ	_ <O>
 Reserves	NNS	_ <O>
@@ -237,7 +244,8 @@ and	CC	_ <O>
 government	NN	_ <O>
 consent	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 Industry	NN	<I-CUE>
 specialists	NNS	<I-CUE>
@@ -259,7 +267,8 @@ of	IN	_ <O>
 being	VBG	_ <O>
 produced	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -274,4 +283,5 @@ Proven	NNP	_ <O>
 plus	CC	_ <O>
 probable	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

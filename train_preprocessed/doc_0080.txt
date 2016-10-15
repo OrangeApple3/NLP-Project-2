@@ -19,7 +19,8 @@ causes	NNS	_ <O>
 of	IN	_ <O>
 personality	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Eysenck	NNP	_ <O>
 's	POS	_ <O>
 theory	NN	_ <O>
@@ -48,7 +49,8 @@ substrate	NN	_ <O>
 to	IN	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Another	DT	_ <O>
 potential	JJ	_ <O>
 weakness	NN	_ <O>
@@ -79,7 +81,8 @@ of	IN	_ <O>
 their	PRP$	_ <O>
 personality	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Finally	RB	_ <O>
 ,	,	_ <O>
 trait	NN	_ <O>
@@ -96,4 +99,5 @@ people	NNS	_ <O>
 's	POS	_ <O>
 behavior	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -14,4 +14,5 @@ calculated	VBN	_ <O>
 after	IN	_ <O>
 depreciation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

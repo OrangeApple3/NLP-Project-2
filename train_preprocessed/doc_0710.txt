@@ -23,7 +23,8 @@ cancer	NN	_ <O>
 in	IN	_ <O>
 females	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Epidemiological	JJ	_ <O>
 studies	NNS	_ <O>
 showed	VBD	_ <O>
@@ -34,7 +35,8 @@ against	IN	_ <O>
 breast	NN	_ <O>
 cancer	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 In	IN	_ <O>
 vitro	FW	_ <O>
@@ -79,7 +81,8 @@ cells	NNS	_ <O>
 in	IN	_ <O>
 vitro	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 2006	CD	_ <O>
 review	NN	_ <O>
@@ -137,7 +140,8 @@ for	IN	_ <O>
 breast	NN	_ <O>
 cancer	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 generally	RB	<B-CUE>
 accepted	VBN	<I-CUE>
@@ -177,4 +181,5 @@ information	NN	_ <O>
 is	VBZ	_ <O>
 available	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -30,7 +30,8 @@ industry	NN	_ <O>
 and	CC	_ <O>
 trade	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 next	JJ	_ <O>
@@ -65,7 +66,8 @@ and	CC	_ <O>
 shipping	NN	_ <O>
 systems	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1987	CD	_ <O>
 ,	,	_ <O>
@@ -109,7 +111,8 @@ information	NN	_ <O>
 technology	NN	_ <O>
 arena	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Champion	NNP	_ <O>
 Technology	NNP	_ <O>
@@ -132,4 +135,5 @@ in	IN	_ <O>
 various	JJ	_ <O>
 environments	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

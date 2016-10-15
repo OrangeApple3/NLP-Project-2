@@ -10,7 +10,8 @@ New	NNP	_ <O>
 Hanover	NNP	_ <O>
 County	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 was	VBD	_ <O>
 named	VBN	_ <O>
@@ -27,4 +28,5 @@ Earl	NNP	_ <O>
 of	IN	_ <O>
 Kinnoull	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

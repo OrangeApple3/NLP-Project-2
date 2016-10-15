@@ -35,7 +35,8 @@ age	NN	_ <O>
 of	IN	_ <O>
 computers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 best	JJS	_ <O>
 value	NN	_ <O>
@@ -75,7 +76,8 @@ first	JJ	_ <O>
 were	VBD	_ <O>
 correct	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 (	-LRB-	_ <O>
 To	TO	_ <O>
 avoid	VB	_ <O>
@@ -98,7 +100,8 @@ two	CD	_ <O>
 different	JJ	_ <O>
 formulas	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 the	DT	_ <O>
 results	NNS	_ <O>
@@ -114,4 +117,5 @@ be	VB	_ <O>
 correct	JJ	_ <O>
 .	.	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL

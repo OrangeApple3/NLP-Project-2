@@ -19,7 +19,8 @@ critical	JJ	<I-CUE>
 legal	JJ	<I-CUE>
 studies	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	<B-CUE>
 argue	VBP	_ <O>
 that	IN	_ <O>
@@ -45,7 +46,8 @@ be	VB	_ <O>
 easily	RB	_ <O>
 manipulable	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Moreover	RB	_ <O>
 ,	,	_ <O>
 they	PRP	<B-CUE>
@@ -68,7 +70,8 @@ juridical	JJR	_ <O>
 ,	,	_ <O>
 change	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Harvard	NNP	_ <O>
 Law	NNP	_ <O>
 Professor	NNP	_ <O>
@@ -77,4 +80,5 @@ Kennedy	NNP	_ <O>
 has	VBZ	_ <O>
 argued	VBN	_ <O>
 :	:	_ <O>
- <O>
+
+NULL

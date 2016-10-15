@@ -41,7 +41,8 @@ the	DT	_ <O>
 work	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 is	VBZ	_ <O>
 in	IN	_ <O>
@@ -66,7 +67,8 @@ by	IN	_ <O>
 the	DT	_ <O>
 composer	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 1794	CD	_ <O>
 first	JJ	_ <O>
@@ -100,7 +102,8 @@ the	DT	_ <O>
 publisher	NN	_ <O>
 Johann	NNP	_ <O>
 André.	NNP	_ <O>
- <O>
+
+NULL
 Einstein	NNP	_ <O>
 is	VBZ	_ <O>
 on	IN	_ <O>
@@ -164,4 +167,5 @@ own	JJ	_ <O>
 style	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

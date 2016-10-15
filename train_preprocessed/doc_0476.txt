@@ -13,7 +13,8 @@ population	NN	_ <O>
 of	IN	_ <O>
 Patalkot	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 said	VBN	<I-CUE>
@@ -29,7 +30,8 @@ than	IN	_ <O>
 500	CD	_ <O>
 years	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Chulki	NNP	_ <O>
 ,	,	_ <O>
 Mundri	NNP	_ <O>
@@ -65,7 +67,8 @@ at	IN	_ <O>
 this	DT	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nagda	NNP	_ <O>
 ,	,	_ <O>
 Timki	NNP	_ <O>
@@ -105,4 +108,5 @@ ceremonies	NNS	_ <O>
 and	CC	_ <O>
 rituals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

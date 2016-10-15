@@ -33,7 +33,8 @@ the	DT	_ <O>
 period	NN	_ <O>
 after	IN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 area	NN	_ <O>
@@ -56,7 +57,8 @@ great	JJ	_ <O>
 cultural	JJ	_ <O>
 activity	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Today	NN	_ <O>
 ,	,	_ <O>
 all	DT	_ <O>
@@ -75,7 +77,8 @@ other	JJ	_ <O>
 museums	NNS	_ <O>
 abroad	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Today	NN	_ <O>
 ,	,	_ <O>
 these	DT	_ <O>
@@ -91,4 +94,5 @@ Russia	NNP	_ <O>
 and	CC	_ <O>
 Constantinople	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

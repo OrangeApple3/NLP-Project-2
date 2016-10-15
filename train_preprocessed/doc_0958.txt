@@ -25,7 +25,8 @@ state	NN	_ <O>
 of	IN	_ <O>
 repair	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 major	JJ	_ <O>
 project	NN	_ <O>
@@ -41,7 +42,8 @@ its	PRP$	_ <O>
 original	JJ	_ <O>
 splendour	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 park	NN	_ <O>
 itself	PRP	_ <O>
@@ -66,7 +68,8 @@ the	DT	_ <O>
 Parish	NNP	_ <O>
 Church	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 park	NN	_ <O>
 is	VBZ	_ <O>
@@ -85,4 +88,5 @@ deter	VB	_ <O>
 antisocial	JJ	_ <O>
 behaviour	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

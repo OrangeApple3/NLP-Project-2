@@ -43,4 +43,5 @@ pro	NN	_ <O>
 Soviet	JJ	_ <O>
 policies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

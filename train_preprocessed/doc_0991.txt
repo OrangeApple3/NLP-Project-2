@@ -12,7 +12,8 @@ often	RB	_ <O>
 featuring	VBG	_ <O>
 teenagers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 best	RBS	<B-CUE>
 known	VBN	<I-CUE>
@@ -44,7 +45,8 @@ on	IN	_ <O>
 different	JJ	_ <O>
 walls	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Music	NN	_ <O>
 from	IN	_ <O>
 the	DT	_ <O>
@@ -81,7 +83,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 floor	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Another	DT	_ <O>
 similar	JJ	_ <O>
 work	NN	_ <O>
@@ -115,4 +118,5 @@ of	IN	_ <O>
 Smiths	NNP	_ <O>
 songs	NNS	_ <O>
 ..	.	_ <O>
- <O>
+
+NULL

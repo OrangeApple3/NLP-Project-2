@@ -39,7 +39,8 @@ through	IN	_ <O>
 Holy	NNP	_ <O>
 Week	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 seventeenth	JJ	_ <O>
@@ -92,7 +93,8 @@ arias	NNS	_ <O>
 and	CC	_ <O>
 more	JJR	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Thomas	NNP	_ <O>
 Strutz	NNP	_ <O>
 wrote	VBD	_ <O>
@@ -140,7 +142,8 @@ beyond	IN	_ <O>
 the	DT	_ <O>
 pale	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Probably	RB	<B-CUE>
 the	DT	<B-CUE>
 most	RBS	<I-CUE>
@@ -166,4 +169,5 @@ George	NNP	_ <O>
 Frideric	NNP	_ <O>
 Handel	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

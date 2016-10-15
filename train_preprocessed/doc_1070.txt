@@ -13,7 +13,8 @@ England	NNP	_ <O>
 in	IN	_ <O>
 1755	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 name	NN	_ <O>
 '	``	_ <O>
@@ -26,7 +27,8 @@ be	VB	_ <O>
 used	VBN	_ <O>
 anymore	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Instead	RB	_ <O>
 Artemia	NNP	_ <O>
 species	NNS	_ <O>
@@ -38,4 +40,5 @@ species	NNS	_ <O>
 Compound	NNP	_ <O>
 eye	NN	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

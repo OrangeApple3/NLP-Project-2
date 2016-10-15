@@ -19,4 +19,5 @@ into	IN	_ <O>
 two	CD	_ <O>
 towns	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

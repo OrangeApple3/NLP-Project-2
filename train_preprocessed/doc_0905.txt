@@ -32,7 +32,8 @@ in	IN	_ <O>
 various	JJ	_ <O>
 companies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 each	DT	_ <O>
 episode	NN	_ <O>
@@ -48,7 +49,8 @@ on	IN	_ <O>
 various	JJ	_ <O>
 tasks	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Throughout	IN	_ <O>
 the	DT	_ <O>
 show	NN	_ <O>
@@ -66,7 +68,8 @@ of	IN	_ <O>
 different	JJ	_ <O>
 iindustries	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 each	DT	_ <O>
 challenge	NN	_ <O>
@@ -101,4 +104,5 @@ the	DT	_ <O>
 job	NN	_ <O>
 opening	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -22,7 +22,8 @@ problems	NNS	_ <O>
 with	IN	_ <O>
 Afghanistan	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Afghan	JJ	_ <O>
 government	NN	_ <O>
@@ -60,7 +61,8 @@ Afghanistan	NNP	_ <O>
 and	CC	_ <O>
 Pakistan	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 June	NNP	_ <O>
 13	CD	_ <O>
@@ -136,7 +138,8 @@ favor	NN	_ <O>
 of	IN	_ <O>
 Pakistan	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Anything	NN	_ <O>
 contrary	JJ	_ <O>
 to	IN	_ <O>
@@ -173,4 +176,5 @@ a	DT	_ <O>
 canard	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

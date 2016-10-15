@@ -15,7 +15,8 @@ several	JJ	_ <O>
 inherent	JJ	_ <O>
 limitations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 From	IN	_ <O>
 a	DT	_ <O>
 practical	JJ	_ <O>
@@ -41,7 +42,8 @@ adapt	NNS	_ <O>
 its	PRP$	_ <O>
 eyesight	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Finally	RB	_ <O>
 ,	,	_ <O>
 a	DT	_ <O>
@@ -63,7 +65,8 @@ of	IN	_ <O>
 proper	JJ	_ <O>
 occultation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 related	JJ	_ <O>
 reasons	NNS	_ <O>
@@ -107,4 +110,5 @@ in	IN	_ <O>
 the	DT	_ <O>
 audience	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

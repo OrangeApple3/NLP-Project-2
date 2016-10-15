@@ -8,7 +8,8 @@ Award	NNP	_ <O>
 in	IN	_ <O>
 1965	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 authored	VBD	_ <O>
 his	PRP$	_ <O>
@@ -31,4 +32,5 @@ year	NN	_ <O>
 he	PRP	_ <O>
 died	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

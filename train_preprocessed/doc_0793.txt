@@ -12,7 +12,8 @@ more	JJR	_ <O>
 police	NN	_ <O>
 strips	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 some	DT	_ <O>
 ,	,	_ <O>
@@ -55,7 +56,8 @@ more	RBR	_ <O>
 original	JJ	_ <O>
 approach	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Still	RB	_ <O>
 others	NNS	_ <O>
 ,	,	_ <O>
@@ -85,7 +87,8 @@ a	DT	_ <O>
 middle	JJ	_ <O>
 course	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -112,4 +115,5 @@ by	IN	_ <O>
 Alfred	NNP	_ <O>
 Andriola	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

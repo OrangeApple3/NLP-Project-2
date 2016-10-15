@@ -18,7 +18,8 @@ or	CC	_ <O>
 related	JJ	_ <O>
 diagnoses	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Co	NNP	_ <O>
 -	HYPH	_ <O>
 morbid	JJ	_ <O>
@@ -34,7 +35,8 @@ in	IN	_ <O>
 pain	NN	_ <O>
 complaints	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Fibromyalgia	NNP	_ <O>
 will	MD	_ <O>
 occur	VB	_ <O>
@@ -63,7 +65,8 @@ CFS	NNP	_ <O>
 are	VBP	_ <O>
 related	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Similarly	RB	_ <O>
 ,	,	_ <O>
 multiple	JJ	_ <O>
@@ -101,7 +104,8 @@ elevated	JJ	_ <O>
 nitric	JJ	_ <O>
 oxide/peroxynitrite	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 previously	RB	_ <O>
 mentioned	VBN	_ <O>
@@ -131,7 +135,8 @@ forms	NNS	_ <O>
 of	IN	_ <O>
 myalgia	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Clinical	JJ	_ <O>
 depression	NN	_ <O>
 and	CC	_ <O>
@@ -143,7 +148,8 @@ co	VBN	_ <O>
 -	HYPH	_ <O>
 morbid	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Compared	VBN	_ <O>
 with	IN	_ <O>
 the	DT	_ <O>
@@ -182,7 +188,8 @@ chronic	JJ	_ <O>
 pelvic	JJ	_ <O>
 pain	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 CFS	NNP	_ <O>
 is	VBZ	_ <O>
 significantly	RB	_ <O>
@@ -201,4 +208,5 @@ general	JJ	_ <O>
 USA	NNP	_ <O>
 population	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

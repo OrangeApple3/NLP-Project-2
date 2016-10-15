@@ -50,7 +50,8 @@ of	IN	_ <O>
 another	DT	_ <O>
 state	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1485	CD	_ <O>
 ,	,	_ <O>
@@ -110,7 +111,8 @@ Colomeea	NNP	_ <O>
 oath	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Popular	JJ	<B-CUE>
 culture	NN	<I-CUE>
 has	VBZ	<I-CUE>
@@ -154,7 +156,8 @@ nobles	NNS	_ <O>
 and	CC	_ <O>
 escort	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 said	VBN	<I-CUE>
@@ -188,7 +191,8 @@ of	IN	_ <O>
 his	PRP$	_ <O>
 men	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Moreover	RB	_ <O>
 ,	,	_ <O>
 when	WRB	_ <O>
@@ -212,4 +216,5 @@ nobles	NNS	_ <O>
 were	VBD	_ <O>
 killed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

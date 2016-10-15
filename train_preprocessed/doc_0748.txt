@@ -32,7 +32,8 @@ get	VBP	_ <O>
 to	IN	_ <O>
 bed	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pingu	NNP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -57,7 +58,8 @@ caused	VBN	_ <O>
 the	DT	_ <O>
 shadow	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 both	DT	_ <O>
 sit	VBP	_ <O>
@@ -77,7 +79,8 @@ that	WDT	_ <O>
 Pinga	NNP	_ <O>
 enjoys	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 some	DT	<B-CUE>
 thought	VBD	_ <O>
@@ -95,4 +98,5 @@ which	WDT	_ <O>
 Pinga	NNP	_ <O>
 applauds	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

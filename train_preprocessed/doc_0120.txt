@@ -15,7 +15,8 @@ factories	NNS	_ <O>
 at	IN	_ <O>
 Penfield	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 it	PRP	_ <O>
 was	VBD	_ <O>
@@ -37,7 +38,8 @@ at	IN	_ <O>
 many	JJ	<B-CUE>
 locations	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 the	DT	_ <O>
 war	NN	_ <O>
@@ -61,7 +63,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 area	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 was	VBD	_ <O>
 necessary	JJ	_ <O>
@@ -91,4 +94,5 @@ from	IN	_ <O>
 other	JJ	_ <O>
 districts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

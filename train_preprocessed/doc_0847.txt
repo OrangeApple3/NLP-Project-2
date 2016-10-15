@@ -15,7 +15,8 @@ and	CC	_ <O>
 Iraq	NNP	_ <O>
 Wars	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Buchanan	NNP	_ <O>
 opposes	VBZ	_ <O>
 neo	JJ	_ <O>
@@ -52,7 +53,8 @@ invasion	NN	_ <O>
 of	IN	_ <O>
 Afghanistan	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Unlike	IN	_ <O>
 many	JJ	<B-CUE>
 conservatives	NNS	<I-CUE>
@@ -72,7 +74,8 @@ proposed	VBN	_ <O>
 in	IN	_ <O>
 2002	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Buchanan	NNP	_ <O>
 's	POS	_ <O>
 critics	NNS	<B-CUE>
@@ -87,4 +90,5 @@ which	WDT	_ <O>
 he	PRP	_ <O>
 denies	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

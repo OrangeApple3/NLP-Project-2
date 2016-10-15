@@ -35,7 +35,8 @@ of	IN	_ <O>
 glacial	JJ	_ <O>
 drift	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Generally	RB	<B-CUE>
 ,	,	_ <O>
 forms	NNS	_ <O>
@@ -83,7 +84,8 @@ always	RB	<I-CUE>
 the	DT	_ <O>
 case	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 maturely	RB	_ <O>
 dissected	VBN	_ <O>
@@ -109,7 +111,8 @@ on	IN	_ <O>
 the	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 So	RB	_ <O>
 also	RB	_ <O>
 ,	,	_ <O>
@@ -135,4 +138,5 @@ and	CC	_ <O>
 a	DT	_ <O>
 peneplain	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

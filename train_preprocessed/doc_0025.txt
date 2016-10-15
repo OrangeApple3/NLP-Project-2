@@ -14,7 +14,8 @@ of	IN	_ <O>
 Rasher	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Rasher	NN	_ <O>
 's	POS	_ <O>
@@ -33,4 +34,5 @@ west	NN	_ <O>
 of	IN	_ <O>
 Luzon	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

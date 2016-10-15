@@ -25,7 +25,8 @@ describe	VB	_ <O>
 another	DT	_ <O>
 person	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Frost	NNP	_ <O>
 draws	VBZ	_ <O>
 out	RP	_ <O>
@@ -58,7 +59,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 reader	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 people	NNS	<I-CUE>
 would	MD	_ <O>
@@ -79,7 +81,8 @@ binding	VBG	_ <O>
 or	CC	_ <O>
 limiting	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 She	PRP	_ <O>
 seems	VBZ	<B-CUE>
 to	TO	_ <O>
@@ -116,4 +119,5 @@ in	IN	_ <O>
 unusual	JJ	_ <O>
 circumstances	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

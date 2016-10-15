@@ -42,7 +42,8 @@ to	IN	_ <O>
 another	DT	_ <O>
 line	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 By	IN	_ <O>
 succeeding	VBG	_ <O>
 to	IN	_ <O>
@@ -69,7 +70,8 @@ brother	NN	_ <O>
 ,	,	_ <O>
 Mortimer	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Note	VB	_ <O>
 ,	,	_ <O>
 however	RB	_ <O>
@@ -108,7 +110,8 @@ succeeded	VBN	_ <O>
 to	IN	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 the	DT	_ <O>
 other	JJ	_ <O>
@@ -133,4 +136,5 @@ an	DT	_ <O>
 impermissible	JJ	_ <O>
 action	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

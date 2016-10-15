@@ -12,7 +12,8 @@ States	NNP	_ <O>
 and	CC	_ <O>
 Canada	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 is	VBZ	_ <O>
 no	DT	_ <O>
@@ -42,7 +43,8 @@ becomes	VBZ	_ <O>
 very	RB	_ <O>
 essential	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 tournaments	NNS	_ <O>
 have	VBP	_ <O>
@@ -61,7 +63,8 @@ on	IN	_ <O>
 many	JJ	<B-CUE>
 newspapers	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 tournaments	NNS	_ <O>
 may	MD	_ <O>
@@ -74,4 +77,5 @@ purposed	VBN	_ <O>
 for	IN	_ <O>
 enjoyment	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

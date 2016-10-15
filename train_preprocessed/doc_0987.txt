@@ -20,7 +20,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 Mahabharata	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Karna	NNP	_ <O>
 ,	,	_ <O>
 half	JJ	_ <O>
@@ -56,7 +57,8 @@ the	DT	_ <O>
 evil	JJ	_ <O>
 Asuras	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 parashu	NN	_ <O>
 was	VBD	_ <O>
@@ -67,7 +69,8 @@ super	JJ	_ <O>
 natural	JJ	_ <O>
 powers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 parashu	NN	_ <O>
 was	VBD	_ <O>
@@ -84,4 +87,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 epics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

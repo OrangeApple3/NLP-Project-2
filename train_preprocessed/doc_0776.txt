@@ -41,7 +41,8 @@ to	IN	_ <O>
 amplitude	NN	_ <O>
 conversion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Real	JJ	_ <O>
 -	HYPH	_ <O>
 space	NN	_ <O>
@@ -94,7 +95,8 @@ not	RB	_ <O>
 easily	RB	_ <O>
 employed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -120,7 +122,8 @@ the	DT	_ <O>
 imaging	NN	_ <O>
 light	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Phonon	NNP	_ <O>
 -	HYPH	_ <O>
 polariton	NNP	_ <O>
@@ -149,4 +152,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 crystal	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

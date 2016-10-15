@@ -13,7 +13,8 @@ its	PRP$	_ <O>
 postage	NN	_ <O>
 stamps	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 All	DT	_ <O>
 stamp	NN	_ <O>
 editions	NNS	_ <O>
@@ -34,7 +35,8 @@ by	IN	_ <O>
 Faroese	JJ	_ <O>
 artists	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Faroese	JJ	_ <O>
 history	NN	_ <O>
 is	VBZ	_ <O>
@@ -48,7 +50,8 @@ almost	RB	_ <O>
 each	DT	_ <O>
 year	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Churches	NNS	_ <O>
 and	CC	_ <O>
 other	JJ	_ <O>
@@ -61,4 +64,5 @@ role	NN	_ <O>
 before	IN	_ <O>
 Christmas	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -24,4 +24,5 @@ to	IN	_ <O>
 the	DT	_ <O>
 force	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

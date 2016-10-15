@@ -37,7 +37,8 @@ royal	NN	_ <O>
 sudden	JJ	_ <O>
 death	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 about	IN	_ <O>
 a	DT	_ <O>
@@ -67,7 +68,8 @@ their	PRP$	_ <O>
 catalogue	NN	_ <O>
 value	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	JJS	<B-CUE>
 of	IN	<I-CUE>
 the	DT	<I-CUE>
@@ -88,7 +90,8 @@ serious	JJ	_ <O>
 stamp	NN	_ <O>
 collectors	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	IN	_ <O>
 experienced	JJ	_ <O>
 collectors	NNS	_ <O>
@@ -124,4 +127,5 @@ a	DT	_ <O>
 temporary	JJ	_ <O>
 anomaly	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

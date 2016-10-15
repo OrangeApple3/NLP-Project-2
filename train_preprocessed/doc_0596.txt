@@ -19,7 +19,8 @@ numerous	JJ	_ <O>
 artificial	JJ	_ <O>
 lakes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 largest	JJS	_ <O>
 one	CD	_ <O>
@@ -53,7 +54,8 @@ villas	NNS	_ <O>
 and	CC	_ <O>
 shrines	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Fish	NN	_ <O>
 is	VBZ	_ <O>
 abundant	JJ	_ <O>
@@ -84,7 +86,8 @@ rich	JJ	_ <O>
 in	IN	_ <O>
 trout	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 most	RBS	_ <O>
 famous	JJ	_ <O>
@@ -100,4 +103,5 @@ Batak	NNP	_ <O>
 ,	,	_ <O>
 Velingrad	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

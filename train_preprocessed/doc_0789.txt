@@ -18,4 +18,5 @@ during	IN	_ <O>
 the	DT	_ <O>
 mid-1970s	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

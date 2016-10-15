@@ -17,7 +17,8 @@ title	NN	_ <O>
 king	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	_ <O>
 of	IN	_ <O>
 the	DT	<B-CUE>
@@ -65,7 +66,8 @@ for	IN	_ <O>
 innovations	NNS	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 period	NN	_ <O>
@@ -82,7 +84,8 @@ most	RBS	_ <O>
 ardent	JJ	_ <O>
 reformer	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 the	DT	_ <O>
 revolution	NN	_ <O>
@@ -109,4 +112,5 @@ the	DT	_ <O>
 laws	NNS	_ <O>
 mentioned	VBN	_ <O>
 above	IN	_ <O>
- <O>
+
+NULL

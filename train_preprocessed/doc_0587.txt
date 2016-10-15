@@ -48,7 +48,8 @@ from	IN	_ <O>
 that	DT	_ <O>
 country	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 many	JJ	<B-CUE>
 years	NNS	<I-CUE>
@@ -88,7 +89,8 @@ Union	NNP	_ <O>
 UPU	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Usage	NN	_ <O>
 of	IN	_ <O>
 ISO	NNP	_ <O>
@@ -113,7 +115,8 @@ become	VB	_ <O>
 widely	RB	_ <O>
 used	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 European	NNP	_ <O>
 Committee	NNP	_ <O>
@@ -149,4 +152,5 @@ ISO	NNP	_ <O>
 Alpha-2	NNP	_ <O>
 codes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

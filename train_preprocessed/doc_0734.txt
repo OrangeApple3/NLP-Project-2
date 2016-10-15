@@ -26,7 +26,8 @@ the	DT	_ <O>
 Korean	NNP	_ <O>
 War	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Metropolitan	NNP	_ <O>
 Life	NNP	_ <O>
 has	VBZ	_ <O>
@@ -67,7 +68,8 @@ name	VB	_ <O>
 a	DT	_ <O>
 few	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Parkmerced	JJ	_ <O>
 ’s	POS	_ <O>
 unusual	JJ	_ <O>
@@ -95,7 +97,8 @@ La	NNP	_ <O>
 Brea	NNP	_ <O>
 design	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Schultze	NNP	_ <O>
 worked	VBD	_ <O>
 closely	RB	_ <O>
@@ -124,4 +127,5 @@ plan	NN	_ <O>
 for	IN	_ <O>
 Parkmerced	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

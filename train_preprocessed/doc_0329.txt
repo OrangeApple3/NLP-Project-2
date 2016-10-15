@@ -16,7 +16,8 @@ night	NN	_ <O>
 in	IN	_ <O>
 question	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 are	VBP	_ <O>
 of	IN	_ <O>
@@ -51,7 +52,8 @@ separate	JJ	_ <O>
 event	NN	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 largely	RB	_ <O>
@@ -75,7 +77,8 @@ eye	NN	_ <O>
 witness	NN	_ <O>
 accounts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 media	NNS	_ <O>
 and	CC	_ <O>
@@ -108,4 +111,5 @@ explanations	NNS	_ <O>
 are	VBP	_ <O>
 offered	VBN	_ <O>
 :	:	_ <O>
- <O>
+
+NULL

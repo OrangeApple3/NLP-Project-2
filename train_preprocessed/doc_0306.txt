@@ -12,7 +12,8 @@ various	JJ	_ <O>
 Polish	JJ	_ <O>
 organizations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 When	WRB	_ <O>
 PZKO	NNP	_ <O>
 organization	NN	_ <O>
@@ -30,7 +31,8 @@ organizations	NNS	_ <O>
 was	VBD	_ <O>
 prohibited	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 PZKO	NNP	_ <O>
 gained	VBD	_ <O>
 monopolist	NN	_ <O>
@@ -55,7 +57,8 @@ had	VBD	_ <O>
 been	VBN	_ <O>
 banned	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 the	DT	_ <O>
 Velvet	NNP	_ <O>
@@ -92,4 +95,5 @@ and	CC	_ <O>
 Ernest	NNP	_ <O>
 Sembol	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

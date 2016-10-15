@@ -36,7 +36,8 @@ unexpected	JJ	_ <O>
 stops	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 fees	NNS	_ <O>
 are	VBP	_ <O>
@@ -79,7 +80,8 @@ of	IN	_ <O>
 km	NN	_ <O>
 or	CC	_ <O>
 more	JJR	_ <O>
- <O>
+
+NULL
 (	-LRB-	_ <O>
 Prices	NNS	_ <O>
 went	VBD	_ <O>
@@ -106,7 +108,8 @@ MXN	NNP	_ <O>
 respectively	RB	_ <O>
 .	.	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 Routes	NNS	_ <O>
 usually	RB	_ <O>
 begin	VBP	_ <O>
@@ -130,7 +133,8 @@ in	IN	_ <O>
 Mexico	NNP	_ <O>
 State	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 terminal	NN	_ <O>
 station	NN	_ <O>
@@ -155,7 +159,8 @@ different	JJ	_ <O>
 pesero	NN	_ <O>
 routes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 addition	NN	_ <O>
 ,	,	_ <O>
@@ -174,4 +179,5 @@ one	CD	_ <O>
 pesero	NN	_ <O>
 route	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

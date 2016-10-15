@@ -16,7 +16,8 @@ with	IN	_ <O>
 other	JJ	_ <O>
 clergy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 Roman	NNP	_ <O>
@@ -61,7 +62,8 @@ Master	NNP	_ <O>
 of	IN	_ <O>
 Ceremonies	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	RBS	_ <O>
 often	RB	_ <O>
 the	DT	_ <O>
@@ -77,7 +79,8 @@ performed	VBN	_ <O>
 by	IN	_ <O>
 priests	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 parts	NNS	_ <O>
 to	TO	_ <O>
@@ -138,4 +141,5 @@ sang	VBD	_ <O>
 the	DT	_ <O>
 Introit	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

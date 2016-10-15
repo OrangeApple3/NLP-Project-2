@@ -25,7 +25,8 @@ with	IN	_ <O>
 each	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 there	EX	_ <O>
 are	VBP	_ <O>
@@ -71,7 +72,8 @@ and	CC	_ <O>
 deep	JJ	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 addition	NN	_ <O>
 ,	,	_ <O>
@@ -108,7 +110,8 @@ the	DT	_ <O>
 second	JJ	_ <O>
 color	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 system	NN	_ <O>
 becomes	VBZ	_ <O>
@@ -139,4 +142,5 @@ rose	VBD	_ <O>
 carmine	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

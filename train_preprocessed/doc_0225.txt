@@ -28,7 +28,8 @@ against	IN	_ <O>
 Giardia	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Chlorine	NNP	_ <O>
 is	VBZ	_ <O>
 considered	VBN	_ <O>
@@ -41,7 +42,8 @@ against	IN	_ <O>
 Giardia	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 more	RBR	_ <O>
 complete	JJ	_ <O>
@@ -110,7 +112,8 @@ can	MD	_ <O>
 not	RB	_ <O>
 remove	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 combination	NN	_ <O>
 is	VBZ	_ <O>
@@ -148,4 +151,5 @@ very	RB	_ <O>
 clear	JJ	_ <O>
 water	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

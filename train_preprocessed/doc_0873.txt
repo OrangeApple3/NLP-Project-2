@@ -29,7 +29,8 @@ in	IN	_ <O>
 these	DT	_ <O>
 contexts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 in	IN	_ <O>
@@ -77,7 +78,8 @@ piglet	NN	_ <O>
 '	''	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 Surinamese	NNP	_ <O>
 Sranan	NNP	_ <O>
@@ -105,7 +107,8 @@ or	CC	_ <O>
 little	JJ	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 of	IN	<I-CUE>
 these	DT	<I-CUE>
@@ -134,4 +137,5 @@ of	IN	_ <O>
 pickaninny	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

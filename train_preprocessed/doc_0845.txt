@@ -31,7 +31,8 @@ and	CC	_ <O>
 international	JJ	_ <O>
 agreements	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Typically	RB	_ <O>
 ,	,	_ <O>
 however	RB	_ <O>
@@ -61,7 +62,8 @@ or	CC	_ <O>
 industrially	RB	_ <O>
 applicable	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 many	JJ	<B-CUE>
 countries	NNS	<I-CUE>
@@ -82,7 +84,8 @@ and	CC	_ <O>
 mental	JJ	_ <O>
 acts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 exclusive	JJ	_ <O>
 right	NN	_ <O>
@@ -114,4 +117,5 @@ invention	NN	_ <O>
 without	IN	_ <O>
 permission	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

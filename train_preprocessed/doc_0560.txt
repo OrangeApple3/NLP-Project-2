@@ -18,7 +18,8 @@ in	IN	_ <O>
 Central	NNP	_ <O>
 Mindanao	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	<B-CUE>
 of	IN	<I-CUE>
 the	DT	<I-CUE>
@@ -45,7 +46,8 @@ the	DT	_ <O>
 Abu	NNP	_ <O>
 Sayyaf	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 encounters	NNS	_ <O>
 by	IN	_ <O>
@@ -77,7 +79,8 @@ AFP	NNP	_ <O>
 against	IN	_ <O>
 the	DT	_ <O>
 ASG.	NNP	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 operation	NN	_ <O>
 soon	RB	_ <O>
@@ -120,4 +123,5 @@ in	IN	_ <O>
 the	DT	_ <O>
 area	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

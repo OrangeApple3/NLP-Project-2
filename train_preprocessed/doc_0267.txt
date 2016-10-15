@@ -18,7 +18,8 @@ many	JJ	<B-CUE>
 Latin	JJ	<I-CUE>
 artists	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Davilita	NNP	_ <O>
 accepted	VBD	_ <O>
 and	CC	_ <O>
@@ -33,7 +34,8 @@ Flores	NNP	<I-CUE>
 '	''	<I-CUE>
 boleros	VBZ	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 traveled	VBD	_ <O>
 to	IN	_ <O>
@@ -43,7 +45,8 @@ with	IN	_ <O>
 the	DT	_ <O>
 sexteto	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1954	CD	_ <O>
 ,	,	_ <O>
@@ -68,7 +71,8 @@ formed	VBD	_ <O>
 a	DT	_ <O>
 duo	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Even	RB	_ <O>
 though	IN	_ <O>
 Davilita	NNP	_ <O>
@@ -94,4 +98,5 @@ many	JJ	<B-CUE>
 hits	NNS	<I-CUE>
 "	''	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

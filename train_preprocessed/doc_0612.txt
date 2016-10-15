@@ -17,7 +17,8 @@ amongst	IN	_ <O>
 confirmed	VBN	_ <O>
 passers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 three	CD	_ <O>
@@ -26,7 +27,8 @@ types	NNS	_ <O>
 of	IN	_ <O>
 rhythm	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 first	JJ	_ <O>
 is	VBZ	_ <O>
@@ -43,7 +45,8 @@ between	IN	_ <O>
 each	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 third	JJ	_ <O>
 is	VBZ	_ <O>
@@ -58,7 +61,8 @@ the	DT	_ <O>
 same	JJ	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 collision	NN	_ <O>
 is	VBZ	_ <O>
@@ -74,7 +78,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 air	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 rules	NNS	_ <O>
 generally	RB	<B-CUE>
@@ -112,4 +117,5 @@ to	TO	_ <O>
 be	VB	_ <O>
 successful	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

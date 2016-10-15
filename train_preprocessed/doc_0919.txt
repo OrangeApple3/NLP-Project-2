@@ -15,7 +15,8 @@ are	VBP	_ <O>
 relatively	RB	<B-CUE>
 common	JJ	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 in	IN	_ <O>
 the	DT	_ <O>
@@ -31,7 +32,8 @@ other	JJ	_ <O>
 wood	NN	_ <O>
 products	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -58,7 +60,8 @@ filtered	VBD	_ <O>
 bottled	JJ	_ <O>
 water	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 numerous	JJ	<B-CUE>
@@ -74,4 +77,5 @@ other	JJ	_ <O>
 similar	JJ	_ <O>
 plants	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

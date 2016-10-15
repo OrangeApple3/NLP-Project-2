@@ -37,7 +37,8 @@ a	DT	_ <O>
 Sergeant	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 usually	RB	_ <O>
@@ -70,7 +71,8 @@ on	IN	_ <O>
 mission	NN	_ <O>
 requirements	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Specialist	JJ	_ <O>
 platoons	NNS	_ <O>
 may	MD	_ <O>
@@ -86,7 +88,8 @@ a	DT	_ <O>
 Warrant	JJ	_ <O>
 Officer	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 many	JJ	_ <O>
 corps	NNS	_ <O>
@@ -100,4 +103,5 @@ called	VBN	_ <O>
 troops	NNS	_ <O>
 instead	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

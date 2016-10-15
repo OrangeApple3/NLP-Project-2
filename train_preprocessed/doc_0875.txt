@@ -22,7 +22,8 @@ is	VBZ	_ <O>
 well	RB	_ <O>
 established	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Portraits	NNS	_ <O>
 of	IN	_ <O>
 several	JJ	<B-CUE>
@@ -32,7 +33,8 @@ England	NNP	<I-CUE>
 clergymen	NNS	<I-CUE>
 followed	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pelham	NNP	_ <O>
 was	VBD	_ <O>
 seemingly	RB	<B-CUE>
@@ -63,7 +65,8 @@ Smibert	NNP	_ <O>
 's	POS	_ <O>
 works	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Such	JJ	_ <O>
 professional	JJ	_ <O>
 labors	NNS	_ <O>
@@ -97,4 +100,5 @@ and	CC	_ <O>
 other	JJ	_ <O>
 subjects	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

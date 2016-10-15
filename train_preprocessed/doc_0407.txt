@@ -19,7 +19,8 @@ favour	NN	_ <O>
 to	TO	_ <O>
 pass	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 event	NN	_ <O>
@@ -48,7 +49,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 referendum	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 event	NN	_ <O>
@@ -92,7 +94,8 @@ majority	NN	_ <O>
 to	TO	_ <O>
 pass	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 President	NNP	_ <O>
 ,	,	_ <O>
@@ -123,4 +126,5 @@ two	CD	_ <O>
 thirds	NNS	_ <O>
 support	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

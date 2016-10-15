@@ -16,7 +16,8 @@ almost	RB	_ <O>
 the	DT	_ <O>
 whole	JJ	_ <O>
 NWFP.	NNP	_ <O>
- <O>
+
+NULL
 PTV	NNP	_ <O>
 National	NNP	_ <O>
 viewers	NNS	_ <O>
@@ -47,7 +48,8 @@ countries	NNS	_ <O>
 as	RB	_ <O>
 well	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 AVT	NNP	_ <O>
 Khyber	NNP	_ <O>
 is	VBZ	_ <O>
@@ -62,7 +64,8 @@ around	IN	_ <O>
 the	DT	_ <O>
 world	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 Pakistan	NNP	_ <O>
 it	PRP	_ <O>
@@ -90,4 +93,5 @@ some	DT	<B-CUE>
 European	JJ	<I-CUE>
 countries	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

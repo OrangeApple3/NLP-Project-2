@@ -43,7 +43,8 @@ Sultantepe	NNP	_ <O>
 near	IN	_ <O>
 Üsküdar	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 said	VBN	<I-CUE>
@@ -64,7 +65,8 @@ Edhem	NNP	_ <O>
 and	CC	_ <O>
 Salih	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Based	VBN	_ <O>
 upon	IN	_ <O>
 this	DT	_ <O>
@@ -96,7 +98,8 @@ been	VBN	<I-CUE>
 concretely	RB	<I-CUE>
 established	VBN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 said	VBN	<I-CUE>
@@ -112,4 +115,5 @@ sold	VBN	_ <O>
 by	IN	_ <O>
 weight	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

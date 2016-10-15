@@ -25,7 +25,8 @@ punctuation	NN	_ <O>
 etc	FW	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 recommendation	NN	_ <O>
 makes	VBZ	_ <O>
@@ -73,7 +74,8 @@ seven	CD	_ <O>
 character	NN	_ <O>
 halves	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 better	JJR	_ <O>
 security	NN	_ <O>
@@ -94,7 +96,8 @@ supported	VBN	_ <O>
 legacy	NN	_ <O>
 systems	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Systems	NNS	_ <O>
 which	WDT	_ <O>
 limit	VBP	_ <O>
@@ -126,7 +129,8 @@ force	NN	_ <O>
 attacks	NNS	_ <O>
 easier	JJR	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Using	VBG	_ <O>
 longer	JJR	_ <O>
 passwords	NNS	_ <O>
@@ -146,4 +150,5 @@ allowable	JJ	_ <O>
 character	NN	_ <O>
 set	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

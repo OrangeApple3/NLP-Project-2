@@ -18,7 +18,8 @@ New	NNP	_ <O>
 York	NNP	_ <O>
 City	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 school	NN	_ <O>
 is	VBZ	_ <O>
@@ -33,7 +34,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 city	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Achievement	NN	_ <O>
 First	NNP	_ <O>
 Charter	NNP	_ <O>
@@ -59,7 +61,8 @@ and	CC	<I-CUE>
 students	NNS	<I-CUE>
 alike	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 parents	NNS	<I-CUE>
 believe	VB	_ <O>
@@ -94,4 +97,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 school	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

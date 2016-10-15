@@ -29,7 +29,8 @@ image	NN	_ <O>
 of	IN	_ <O>
 Shakespeare	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 attributed	VBN	_ <O>
@@ -47,7 +48,8 @@ his	PRP$	_ <O>
 brother	NN	_ <O>
 Thomas	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 inscription	NN	_ <O>
 on	IN	_ <O>
@@ -67,7 +69,8 @@ a	DT	_ <O>
 contemporary	JJ	_ <O>
 formulation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 no	RB	_ <O>
@@ -101,4 +104,5 @@ depict	VBP	_ <O>
 a	DT	_ <O>
 poet	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

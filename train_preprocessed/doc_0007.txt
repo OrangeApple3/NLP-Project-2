@@ -19,7 +19,8 @@ Regiment	NNP	_ <O>
 were	VBD	_ <O>
 mobilised	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Together	RB	_ <O>
 with	IN	_ <O>
 the	DT	_ <O>
@@ -44,7 +45,8 @@ East	NNP	_ <O>
 Anglian	NNP	_ <O>
 Division	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 2nd	NN	_ <O>
 Battalion	NN	_ <O>
 would	MD	_ <O>
@@ -67,4 +69,5 @@ D	NNP	_ <O>
 Day	NNP	_ <O>
 landings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

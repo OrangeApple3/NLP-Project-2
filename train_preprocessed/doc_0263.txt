@@ -37,7 +37,8 @@ our	PRP$	_ <O>
 own	JJ	_ <O>
 socialization	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 artists	NNS	_ <O>
 it	PRP	_ <O>
@@ -61,7 +62,8 @@ ourselves	PRP	_ <O>
 and	CC	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Humanity	NN	_ <O>
 will	MD	_ <O>
 always	RB	_ <O>
@@ -106,7 +108,8 @@ any	DT	_ <O>
 other	JJ	_ <O>
 way	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 has	VBZ	_ <O>
 always	RB	_ <O>
@@ -124,4 +127,5 @@ that	DT	_ <O>
 way	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

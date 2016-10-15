@@ -24,7 +24,8 @@ rural	JJ	_ <O>
 or	CC	_ <O>
 urban	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 urban	JJ	_ <O>
 areas	NNS	_ <O>
@@ -43,7 +44,8 @@ them	PRP	_ <O>
 to	TO	_ <O>
 borrow	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 fact	NN	_ <O>
 that	IN	_ <O>
@@ -81,7 +83,8 @@ who	WP	_ <O>
 have	VBP	_ <O>
 migrated	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 ,	,	_ <O>
 at	IN	_ <O>
@@ -105,4 +108,5 @@ for	IN	_ <O>
 urban	JJ	_ <O>
 use	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

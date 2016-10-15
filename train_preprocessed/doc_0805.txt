@@ -30,4 +30,5 @@ reassertion	NN	_ <O>
 of	IN	_ <O>
 sovereignty	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -13,7 +13,8 @@ red	JJ	_ <O>
 vaginal	JJ	_ <O>
 bleeding	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 bleeding	NN	_ <O>
 often	RB	_ <O>
@@ -30,7 +31,8 @@ placental	JJ	_ <O>
 separation	NN	_ <O>
 increases	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Abdominal	JJ	_ <O>
 examination	NN	_ <O>
 usually	RB	_ <O>
@@ -43,7 +45,8 @@ tender	NN	_ <O>
 and	CC	_ <O>
 relaxed	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Leopold	NNP	_ <O>
 's	POS	_ <O>
 Maneuvers	NNS	_ <O>
@@ -71,4 +74,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 placenta	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

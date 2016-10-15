@@ -12,7 +12,8 @@ a	DT	_ <O>
 short	JJ	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Inhabited	VBN	_ <O>
 by	IN	_ <O>
 Bartledanians	NNPS	_ <O>
@@ -24,4 +25,5 @@ wish	VBP	_ <O>
 for	IN	_ <O>
 things	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

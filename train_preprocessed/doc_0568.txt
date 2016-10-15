@@ -28,7 +28,8 @@ entire	JJ	_ <O>
 metropolitan	JJ	_ <O>
 area	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 bordered	VBN	_ <O>
@@ -77,4 +78,5 @@ to	IN	_ <O>
 the	DT	_ <O>
 north	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -25,7 +25,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 heart	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 the	DT	_ <O>
 ductus	NN	_ <O>
@@ -53,7 +54,8 @@ but	CC	_ <O>
 remains	VBZ	_ <O>
 patent	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 PDA	NN	_ <O>
 is	VBZ	_ <O>
 common	JJ	_ <O>
@@ -76,7 +78,8 @@ in	IN	_ <O>
 premature	JJ	_ <O>
 children	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Premature	JJ	_ <O>
 children	NNS	_ <O>
 are	VBP	_ <O>
@@ -97,4 +100,5 @@ heart	NN	_ <O>
 and	CC	_ <O>
 lungs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

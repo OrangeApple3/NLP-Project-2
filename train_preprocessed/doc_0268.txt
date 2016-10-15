@@ -46,7 +46,8 @@ remain	VBP	_ <O>
 immersed	JJ	_ <O>
 indefinitely	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Over	IN	_ <O>
 the	DT	_ <O>
 next	JJ	_ <O>
@@ -74,7 +75,8 @@ moment	NN	_ <O>
 summoning	VBG	_ <O>
 force	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 music	NN	_ <O>
 hardly	RB	<B-CUE>
@@ -103,7 +105,8 @@ possibly	RB	<B-CUE>
 remain	VBP	_ <O>
 there	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Bassoons	NNS	_ <O>
 and	CC	_ <O>
 flutes	NNS	_ <O>
@@ -131,7 +134,8 @@ octaves	NNS	_ <O>
 and	CC	_ <O>
 fourths	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 several	JJ	<B-CUE>
 bars	NNS	<I-CUE>
@@ -159,4 +163,5 @@ the	DT	_ <O>
 piano	NN	_ <O>
 part	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

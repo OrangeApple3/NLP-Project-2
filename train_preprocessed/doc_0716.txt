@@ -23,7 +23,8 @@ flying	NN	_ <O>
 and	CC	_ <O>
 diving	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 birds	NNS	_ <O>
 ,	,	_ <O>
@@ -47,7 +48,8 @@ Tumblers	NNPS	_ <O>
 and	CC	_ <O>
 Tipplers	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 should	MD	_ <O>
 also	RB	_ <O>
@@ -80,7 +82,8 @@ do	VBP	_ <O>
 not	RB	_ <O>
 fly	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 because	IN	_ <O>
@@ -96,7 +99,8 @@ not	RB	_ <O>
 their	PRP$	_ <O>
 appearance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Competitors	NNS	_ <O>
 in	IN	_ <O>
 pigeon	NN	_ <O>
@@ -124,7 +128,8 @@ from	IN	_ <O>
 a	DT	_ <O>
 race	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 use	NN	_ <O>
 of	IN	_ <O>
@@ -138,4 +143,5 @@ called	VBN	_ <O>
 Pigeon	NNP	_ <O>
 Post	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

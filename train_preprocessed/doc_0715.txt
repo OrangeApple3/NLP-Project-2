@@ -27,7 +27,8 @@ has	VBZ	_ <O>
 been	VBN	_ <O>
 questioned	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Petroleum	NN	_ <O>
 jelly	RB	_ <O>
 ,	,	_ <O>
@@ -48,7 +49,8 @@ warts	NNS	_ <O>
 from	IN	_ <O>
 irritation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 health	NN	_ <O>
 professional	NN	_ <O>
@@ -69,7 +71,8 @@ until	IN	_ <O>
 warts	NNS	_ <O>
 disappear	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 unstable	JJ	_ <O>
@@ -96,4 +99,5 @@ some	DT	<B-CUE>
 clinical	JJ	<I-CUE>
 trials	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

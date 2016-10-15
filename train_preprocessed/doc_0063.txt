@@ -22,7 +22,8 @@ its	PRP$	_ <O>
 presidential	JJ	_ <O>
 candidate	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 Monday	NNP	_ <O>
 ,	,	_ <O>
@@ -50,7 +51,8 @@ the	DT	_ <O>
 Presidential	JJ	_ <O>
 election	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 the	DT	_ <O>
 primary	NN	_ <O>
@@ -79,4 +81,5 @@ district	NN	_ <O>
 in	IN	_ <O>
 Seoul	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

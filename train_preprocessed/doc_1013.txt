@@ -18,4 +18,5 @@ foreigners	NNS	_ <O>
 in	IN	_ <O>
 2010	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

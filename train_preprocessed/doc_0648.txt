@@ -17,7 +17,8 @@ as	IN	_ <O>
 Jomo	NNP	_ <O>
 Kenyatta	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	<B-CUE>
 of	IN	<I-CUE>
 South	NNP	<I-CUE>
@@ -41,7 +42,8 @@ especially	RB	_ <O>
 with	IN	_ <O>
 racism	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 other	JJ	_ <O>
 works	NNS	_ <O>
@@ -124,7 +126,8 @@ Coyaba	NNP	_ <O>
 1985	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 also	RB	_ <O>
 wrote	VBD	_ <O>
@@ -149,4 +152,5 @@ people	NNS	_ <O>
 's	POS	_ <O>
 perspectives	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

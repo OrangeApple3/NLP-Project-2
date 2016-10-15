@@ -18,7 +18,8 @@ based	VBN	_ <O>
 therapy	NN	_ <O>
 for	IN	_ <O>
 CFS.	NNP	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 use	NN	_ <O>
 of	IN	_ <O>
@@ -44,7 +45,8 @@ are	VBP	_ <O>
 not	RB	_ <O>
 real	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	_ <O>
 CFS	NNP	_ <O>
 patients	NNS	_ <O>
@@ -54,7 +56,8 @@ depression	NN	_ <O>
 and/or	XX	_ <O>
 anxiety	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 addition	NN	_ <O>
 ,	,	_ <O>
@@ -115,7 +118,8 @@ serious	JJ	_ <O>
 pathological	JJ	_ <O>
 symptoms	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Dr.	NNP	_ <O>
 David	NNP	_ <O>
 Smith	NNP	_ <O>
@@ -152,7 +156,8 @@ on	IN	_ <O>
 his	PRP$	_ <O>
 website	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	_ <O>
 patients	NNS	_ <O>
 and	CC	_ <O>
@@ -218,7 +223,8 @@ and	CC	_ <O>
 behaviour	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Carruthers	NNP	_ <O>
 &	CC	_ <O>
 van	NNP	_ <O>
@@ -252,7 +258,8 @@ the	DT	_ <O>
 two	CD	_ <O>
 treatments	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Gibson	NNP	_ <O>
 Report	NNP	_ <O>
@@ -301,7 +308,8 @@ the	DT	_ <O>
 severely	RB	_ <O>
 affected	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Commenting	VBG	_ <O>
 on	IN	_ <O>
 the	DT	_ <O>
@@ -337,7 +345,8 @@ research	NN	_ <O>
 is	VBZ	_ <O>
 needed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 systematic	JJ	_ <O>
 review	NN	_ <O>
@@ -378,7 +387,8 @@ is	VBZ	_ <O>
 not	RB	_ <O>
 random	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 reviewers	NNS	_ <O>
 note	VBP	_ <O>
@@ -404,7 +414,8 @@ to	TO	_ <O>
 be	VB	_ <O>
 present	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 one	CD	_ <O>
 study	NN	_ <O>
@@ -423,7 +434,8 @@ years	NNS	_ <O>
 after	IN	_ <O>
 therapy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 large	JJ	_ <O>
 evaluation	NN	_ <O>
@@ -459,7 +471,8 @@ in	IN	_ <O>
 their	PRP$	_ <O>
 disability	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Another	DT	_ <O>
 recent	JJ	_ <O>
 study	NN	_ <O>
@@ -479,7 +492,8 @@ neuropsychological	JJ	_ <O>
 test	NN	_ <O>
 performance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 researchers	NNS	_ <O>
@@ -512,7 +526,8 @@ negative	JJ	_ <O>
 treatment	NN	_ <O>
 outcome	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 place	NN	_ <O>
 of	IN	_ <O>
@@ -553,4 +568,5 @@ the	DT	_ <O>
 individual	JJ	_ <O>
 patient	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -19,4 +19,5 @@ turned	VBD	_ <O>
 fire	NN	_ <O>
 jumper	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

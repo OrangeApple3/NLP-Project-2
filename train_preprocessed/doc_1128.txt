@@ -17,7 +17,8 @@ corporations	NNS	_ <O>
 with	IN	_ <O>
 suspicion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 feel	VBP	_ <O>
 that	IN	_ <O>
@@ -79,4 +80,5 @@ by	IN	_ <O>
 the	DT	_ <O>
 citizenry	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

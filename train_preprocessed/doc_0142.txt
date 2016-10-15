@@ -37,7 +37,8 @@ of	IN	_ <O>
 their	PRP$	_ <O>
 children	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Otherwise	RB	_ <O>
 ,	,	_ <O>
 inequality	NN	_ <O>
@@ -71,7 +72,8 @@ income	NN	_ <O>
 group	NN	_ <O>
 permanently	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 China	NNP	_ <O>
 is	VBZ	_ <O>
 at	IN	_ <O>
@@ -115,7 +117,8 @@ primary	JJ	_ <O>
 health	NN	_ <O>
 care	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 China	NNP	_ <O>
 in	IN	_ <O>
 fact	NN	_ <O>
@@ -131,4 +134,5 @@ in	IN	_ <O>
 the	DT	_ <O>
 world	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

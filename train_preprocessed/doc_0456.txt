@@ -22,7 +22,8 @@ the	DT	_ <O>
 Craftsman	NNP	_ <O>
 brand	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Sears	NNP	_ <O>
 also	RB	_ <O>
 carries	VBZ	_ <O>
@@ -32,7 +33,8 @@ and	CC	<I-CUE>
 Husqvarna	NNP	<I-CUE>
 products	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Husqvarna	NNP	_ <O>
 produces	VBZ	_ <O>
 products	NNS	_ <O>
@@ -41,7 +43,8 @@ many	JJ	_ <O>
 brand	NN	_ <O>
 names	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Visit	VB	_ <O>
 to	TO	_ <O>
 view	VB	_ <O>
@@ -58,4 +61,5 @@ for	IN	_ <O>
 various	JJ	<B-CUE>
 examples	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

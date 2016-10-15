@@ -44,7 +44,8 @@ Viceroyalty	NNP	_ <O>
 of	IN	_ <O>
 Peru	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 was	VBD	_ <O>
 probably	RB	<B-CUE>
@@ -62,7 +63,8 @@ born	VBN	_ <O>
 in	IN	_ <O>
 Quito	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 trying	VBG	_ <O>
 to	TO	_ <O>
@@ -104,7 +106,8 @@ and	CC	_ <O>
 clerical	JJ	_ <O>
 officials	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 almost	RB	<B-CUE>
 legendary	JJ	<I-CUE>
@@ -121,4 +124,5 @@ a	DT	_ <O>
 tragic	JJ	_ <O>
 ending	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -52,7 +52,8 @@ their	PRP$	_ <O>
 own	JJ	_ <O>
 way	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 passages	NNS	_ <O>
 quoted	VBN	_ <O>
@@ -100,7 +101,8 @@ and	CC	_ <O>
 welfare	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Stirner	NNP	_ <O>
 refused	VBD	_ <O>
 to	TO	_ <O>
@@ -111,7 +113,8 @@ directly	RB	_ <O>
 liberating	VBG	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 his	PRP$	_ <O>
 stated	JJ	_ <O>
@@ -145,4 +148,5 @@ he	PRP	_ <O>
 defines	VBZ	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

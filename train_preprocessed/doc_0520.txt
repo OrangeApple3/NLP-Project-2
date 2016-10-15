@@ -34,7 +34,8 @@ Christie	NNP	_ <O>
 best	JJS	_ <O>
 stories	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Everything	NN	_ <O>
 is	VBZ	_ <O>
 perfectly	RB	_ <O>
@@ -65,7 +66,8 @@ not	RB	_ <O>
 easy	JJ	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Poirot	NNP	_ <O>
 and	CC	_ <O>
 his	PRP$	_ <O>
@@ -104,7 +106,8 @@ in	IN	_ <O>
 this	DT	_ <O>
 problem	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 the	DT	_ <O>
 plot	NN	_ <O>
@@ -124,4 +127,5 @@ one	PRP	_ <O>
 wants	VBZ	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

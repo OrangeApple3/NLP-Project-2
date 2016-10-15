@@ -14,7 +14,8 @@ cells	NNS	_ <O>
 as	IN	_ <O>
 polyphosphate	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 PAOs	NNS	_ <O>
 are	VBP	_ <O>
 by	IN	_ <O>
@@ -45,7 +46,8 @@ ability	NN	_ <O>
 among	IN	_ <O>
 bacteria	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -73,7 +75,8 @@ in	IN	_ <O>
 wastewater	NN	_ <O>
 treatment	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	JJS	_ <O>
 other	JJ	_ <O>
 bacteria	NNS	_ <O>
@@ -101,7 +104,8 @@ the	DT	_ <O>
 activated	VBN	_ <O>
 sludge	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Therefore	RB	_ <O>
 ,	,	_ <O>
 wastewater	NN	_ <O>
@@ -157,4 +161,5 @@ to	IN	_ <O>
 the	DT	_ <O>
 plant	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -15,7 +15,8 @@ Indo	NNP	_ <O>
 Pakistani	NNP	_ <O>
 War	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 refers	VBZ	_ <O>
 to	IN	_ <O>
@@ -76,7 +77,8 @@ for	IN	_ <O>
 Indian	JJ	_ <O>
 forces	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 operation	NN	_ <O>
 ended	VBD	_ <O>
@@ -109,4 +111,5 @@ the	DT	_ <O>
 Indian	JJ	_ <O>
 Army	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

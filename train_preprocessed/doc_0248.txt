@@ -12,7 +12,8 @@ sideways	RB	_ <O>
 or	CC	_ <O>
 downward	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 goal	NN	_ <O>
 is	VBZ	_ <O>
@@ -29,7 +30,8 @@ confusing	VBG	_ <O>
 to	IN	_ <O>
 batters	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	JJS	_ <O>
 breaking	VBG	_ <O>
 balls	NNS	_ <O>
@@ -40,7 +42,8 @@ off	IN	_ <O>
 speed	NN	_ <O>
 pitches	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 most	RBS	_ <O>
 common	JJ	_ <O>
@@ -48,20 +51,27 @@ breaking	VBG	_ <O>
 pitches	NNS	_ <O>
 are	VBP	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 Curveball	NNP	_ <O>
- <O>
+
+NULL
 Knuckle	NNP	_ <O>
 curve	NN	_ <O>
- <O>
+
+NULL
 Slurve	VB	_ <O>
- <O>
+
+NULL
 Slider	NN	_ <O>
- <O>
+
+NULL
 Screwball	JJ	_ <O>
- <O>
+
+NULL
 12	CD	_ <O>
 -	SYM	_ <O>
 6	CD	_ <O>
 curve	NN	_ <O>
- <O>
+
+NULL

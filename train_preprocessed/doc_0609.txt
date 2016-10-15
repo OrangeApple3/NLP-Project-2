@@ -24,7 +24,8 @@ sized	JJ	_ <O>
 aggressive	JJ	_ <O>
 cichlid	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 eat	VBP	_ <O>
 most	JJS	_ <O>
@@ -43,7 +44,8 @@ frozen	VBN	_ <O>
 and	CC	_ <O>
 alike	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	''	_ <O>
 P.	NN	_ <O>
 polleni	NN	_ <O>
@@ -62,7 +64,8 @@ to	IN	_ <O>
 other	JJ	_ <O>
 cichlids	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 can	MD	_ <O>
 be	VB	_ <O>
@@ -89,7 +92,8 @@ unfamiliar	JJ	_ <O>
 person	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 aquarium	NN	_ <O>
@@ -120,7 +124,8 @@ to	IN	_ <O>
 aquarium	JJ	_ <O>
 life	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 they	PRP	_ <O>
 display	VBP	_ <O>
@@ -148,7 +153,8 @@ alpha	NN	_ <O>
 individual(s	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 this	DT	_ <O>
 reason	NN	_ <O>
@@ -170,7 +176,8 @@ with	IN	_ <O>
 many	JJ	_ <O>
 specimens	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 traits	NNS	_ <O>
 may	MD	_ <O>
@@ -188,4 +195,5 @@ in	IN	_ <O>
 the	DT	_ <O>
 hobby	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

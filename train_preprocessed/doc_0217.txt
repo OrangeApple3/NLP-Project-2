@@ -10,7 +10,8 @@ Cau	NNP	_ <O>
 -	HYPH	_ <O>
 Cau	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 other	JJ	_ <O>
 common	JJ	_ <O>
@@ -22,7 +23,8 @@ Italian	JJ	_ <O>
 "	''	_ <O>
 style	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	_ <O>
 chefs	NNS	_ <O>
 add	VBP	_ <O>
@@ -38,7 +40,8 @@ the	DT	_ <O>
 sautee	NN	_ <O>
 step	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 recipes	NNS	_ <O>
 may	MD	<B-CUE>
@@ -52,4 +55,5 @@ well	RB	_ <O>
 as	IN	_ <O>
 Italian	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

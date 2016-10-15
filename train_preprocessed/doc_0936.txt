@@ -44,7 +44,8 @@ based	VBN	_ <O>
 photographic	JJ	_ <O>
 processes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 light	NN	_ <O>
 sensitive	JJ	_ <O>
@@ -75,7 +76,8 @@ cylindrical	JJ	_ <O>
 pusher	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 artists	NNS	<I-CUE>
 achieve	VB	_ <O>
@@ -104,7 +106,8 @@ others	NNS	_ <O>
 even	RB	_ <O>
 silk	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 the	DT	_ <O>
 collecting	VBG	_ <O>
@@ -128,4 +131,5 @@ would	MD	_ <O>
 sell	VB	_ <O>
 for	IN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -28,7 +28,8 @@ souls	NNS	_ <O>
 for	IN	_ <O>
 Christ	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 R.	NN	_ <O>
 That	DT	_ <O>
 all	DT	_ <O>
@@ -57,7 +58,8 @@ we	PRP	_ <O>
 are	VBP	_ <O>
 one	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Enkindle	NNP	_ <O>
 ,	,	_ <O>
 O	UH	_ <O>
@@ -92,7 +94,8 @@ a	DT	_ <O>
 clean	JJ	_ <O>
 heart	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Direct	JJ	_ <O>
 ,	,	_ <O>
 we	PRP	_ <O>
@@ -134,4 +137,5 @@ be	VBP	_ <O>
 likewise	RB	_ <O>
 ended	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

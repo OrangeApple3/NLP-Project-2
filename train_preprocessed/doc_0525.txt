@@ -20,7 +20,8 @@ a	DT	_ <O>
 debilitating	JJ	_ <O>
 degree	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 some	DT	<B-CUE>
@@ -36,7 +37,8 @@ but	CC	_ <O>
 attend	VB	_ <O>
 meetings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Thus	RB	_ <O>
 ,	,	_ <O>
 while	IN	_ <O>
@@ -67,7 +69,8 @@ might	MD	_ <O>
 be	VB	_ <O>
 similar	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Further	RB	_ <O>
 ,	,	_ <O>
 concerning	VBG	_ <O>
@@ -92,4 +95,5 @@ work	NN	_ <O>
 to	TO	_ <O>
 participate	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -29,7 +29,8 @@ visited	VBN	_ <O>
 art	NN	_ <O>
 museum	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 city	NN	_ <O>
 's	POS	_ <O>
@@ -59,7 +60,8 @@ visitors	NNS	_ <O>
 ,	,	_ <O>
 respectively	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Eiffel	NNP	_ <O>
 Tower	NNP	_ <O>
@@ -88,7 +90,8 @@ since	IN	_ <O>
 its	PRP$	_ <O>
 construction	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Disneyland	NNP	_ <O>
 Resort	NNP	_ <O>
 Paris	NNP	_ <O>
@@ -121,4 +124,5 @@ visitors	NNS	_ <O>
 in	IN	_ <O>
 2007	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

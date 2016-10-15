@@ -30,7 +30,8 @@ the	DT	_ <O>
 Civil	NNP	_ <O>
 War	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 proved	VBD	_ <O>
 to	TO	_ <O>
@@ -61,7 +62,8 @@ a	DT	_ <O>
 common	JJ	_ <O>
 enemy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Fitzhugh	NNP	_ <O>
 Lee	NNP	_ <O>
 ,	,	_ <O>
@@ -103,7 +105,8 @@ after	IN	_ <O>
 the	DT	_ <O>
 war	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Matthew	NNP	_ <O>
 Butler	NNP	_ <O>
 ,	,	_ <O>
@@ -137,4 +140,5 @@ expedition	NN	_ <O>
 to	IN	_ <O>
 Cuba	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

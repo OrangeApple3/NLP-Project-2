@@ -25,7 +25,8 @@ north	RB	_ <O>
 eastern	JJ	_ <O>
 Argentina	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 generally	RB	_ <O>
@@ -53,7 +54,8 @@ BirdLife	NNP	_ <O>
 International	NNP	_ <O>
 and	CC	_ <O>
 IUCN.	NNP	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 three	CD	_ <O>
@@ -81,7 +83,8 @@ as	IN	_ <O>
 separate	JJ	_ <O>
 species	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 can	MD	_ <O>
 be	VB	_ <O>
@@ -112,4 +115,5 @@ all	RB	_ <O>
 black	JJ	_ <O>
 bill	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

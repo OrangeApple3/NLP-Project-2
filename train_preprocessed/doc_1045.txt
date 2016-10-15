@@ -24,7 +24,8 @@ cards	NNS	_ <O>
 "	''	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Sometimes	RB	_ <O>
 the	DT	_ <O>
 showman	NN	_ <O>
@@ -51,7 +52,8 @@ through	IN	_ <O>
 the	DT	_ <O>
 holes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 box	NN	_ <O>
 had	VBD	_ <O>
@@ -69,7 +71,8 @@ a	DT	_ <O>
 central	JJ	_ <O>
 candle	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Other	JJ	_ <O>
 common	JJ	_ <O>
 subjects	NNS	_ <O>
@@ -115,4 +118,5 @@ course	NN	_ <O>
 lewd	JJ	_ <O>
 pictures	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

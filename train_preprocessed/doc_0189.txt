@@ -33,7 +33,8 @@ bury	VB	_ <O>
 you	PRP	_ <O>
 !	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 believes	VBZ	_ <O>
 Putin	NNP	_ <O>
@@ -91,7 +92,8 @@ the	DT	_ <O>
 West	NNP	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 Buchanan	NNP	_ <O>
 's	POS	_ <O>
@@ -144,7 +146,8 @@ the	DT	_ <O>
 larger	JJR	_ <O>
 world	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 frittered	VBD	_ <O>
 away	RB	_ <O>
@@ -168,4 +171,5 @@ Cold	NNP	_ <O>
 War	NNP	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

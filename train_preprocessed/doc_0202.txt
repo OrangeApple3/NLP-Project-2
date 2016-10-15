@@ -25,4 +25,5 @@ an	DT	_ <O>
 Irish	NNP	_ <O>
 Republic	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

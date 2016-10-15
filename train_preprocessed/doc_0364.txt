@@ -24,7 +24,8 @@ title	NN	_ <O>
 the	DT	_ <O>
 Maréchaussée	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 military	JJ	_ <O>
 policing	NN	_ <O>
@@ -58,7 +59,8 @@ from	IN	_ <O>
 the	DT	_ <O>
 Marshal	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 marshalcy	NN	_ <O>
 dates	VBZ	_ <O>
@@ -81,7 +83,8 @@ early	JJ	_ <O>
 twelfth	JJ	_ <O>
 century	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 the	DT	_ <O>
 revolutionary	JJ	_ <O>
@@ -98,4 +101,5 @@ local	JJ	_ <O>
 constitutional	JJ	_ <O>
 authorities	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

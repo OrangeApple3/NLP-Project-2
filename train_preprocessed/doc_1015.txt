@@ -18,7 +18,8 @@ various	JJ	_ <O>
 troupe	NN	_ <O>
 members	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 all	DT	_ <O>
 suggest	VBP	_ <O>
@@ -34,7 +35,8 @@ ever	RB	_ <O>
 the	DT	_ <O>
 Finale	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pippin	NNP	_ <O>
 is	VBZ	_ <O>
 reluctant	JJ	_ <O>
@@ -78,7 +80,8 @@ woman	NN	_ <O>
 playing	VBG	_ <O>
 Catherine	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pippin	NNP	_ <O>
 realizes	VBZ	_ <O>
 that	IN	_ <O>
@@ -107,4 +110,5 @@ a	DT	_ <O>
 happy	JJ	_ <O>
 man	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

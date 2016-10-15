@@ -18,7 +18,8 @@ or	CC	_ <O>
 Jebel	NNP	_ <O>
 Musa	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 two	CD	_ <O>
 mountains	NNS	_ <O>
@@ -47,7 +48,8 @@ the	DT	_ <O>
 name	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Close	VB	_ <O>
 to	IN	_ <O>
 the	DT	_ <O>
@@ -80,4 +82,5 @@ the	DT	_ <O>
 Pillars	NNP	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

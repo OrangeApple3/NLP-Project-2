@@ -25,7 +25,8 @@ original	JJ	_ <O>
 the	DT	_ <O>
 Laurentian	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 compendium	NN	_ <O>
 ,	,	_ <O>
@@ -90,7 +91,8 @@ lost	VBN	_ <O>
 or	CC	_ <O>
 not	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Despite	IN	_ <O>
 the	DT	_ <O>
 existence	NN	_ <O>
@@ -109,7 +111,8 @@ the	DT	_ <O>
 Middle	NNP	_ <O>
 Ages	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	IN	_ <O>
 this	DT	_ <O>
 it	PRP	_ <O>
@@ -145,4 +148,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 first	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

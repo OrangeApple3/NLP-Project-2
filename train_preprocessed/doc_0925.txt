@@ -12,7 +12,8 @@ others	NNS	<B-CUE>
 did	VBD	_ <O>
 not	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Today	NN	_ <O>
 in	IN	_ <O>
 Ireland	NNP	_ <O>
@@ -53,7 +54,8 @@ in	IN	_ <O>
 international	JJ	_ <O>
 competitions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Selection	NN	_ <O>
 usually	RB	_ <O>
 depends	VBZ	_ <O>
@@ -80,7 +82,8 @@ a	DT	_ <O>
 UK	NNP	_ <O>
 basis	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Sports	NNS	_ <O>
 organised	VBD	_ <O>
 on	IN	_ <O>
@@ -120,4 +123,5 @@ UK	NNP	_ <O>
 Olympic	NNP	_ <O>
 association	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

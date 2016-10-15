@@ -38,7 +38,8 @@ surface	NN	_ <O>
 of	IN	_ <O>
 bark	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Resurrection	NN	_ <O>
 fern	NN	_ <O>
@@ -68,7 +69,8 @@ large	JJ	_ <O>
 oak	NN	_ <O>
 trees	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 it	PRP	_ <O>
@@ -87,7 +89,8 @@ logs	NNS	_ <O>
 as	RB	_ <O>
 well	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 often	RB	_ <O>
@@ -104,4 +107,5 @@ as	IN	_ <O>
 Spanish	JJ	_ <O>
 moss	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

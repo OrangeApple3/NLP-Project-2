@@ -41,7 +41,8 @@ the	DT	_ <O>
 PA	NNP	_ <O>
 source	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Small	JJ	_ <O>
 -	HYPH	_ <O>
 aperture	NN	_ <O>
@@ -79,7 +80,8 @@ times	NNS	_ <O>
 of	IN	_ <O>
 flight	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 three	CD	_ <O>
 geometries	NNS	_ <O>
@@ -94,7 +96,8 @@ and	CC	_ <O>
 spherical	JJ	_ <O>
 surfaces	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Besides	IN	_ <O>
 ,	,	_ <O>
 algorithms	NNS	_ <O>
@@ -123,4 +126,5 @@ also	RB	_ <O>
 been	VBN	_ <O>
 derived	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

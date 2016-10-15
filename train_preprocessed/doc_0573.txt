@@ -17,7 +17,8 @@ children	NNS	_ <O>
 of	IN	_ <O>
 Adam	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Satan	NNP	_ <O>
 is	VBZ	_ <O>
 considered	VBN	_ <O>
@@ -32,7 +33,8 @@ among	IN	_ <O>
 all	DT	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 series	NN	_ <O>
 of	IN	_ <O>
@@ -61,7 +63,8 @@ love	NN	_ <O>
 and	CC	_ <O>
 friendship	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 individual	NN	_ <O>
 who	WP	_ <O>
@@ -92,7 +95,8 @@ to	IN	_ <O>
 each	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 his	PRP$	_ <O>
 Last	JJ	_ <O>
@@ -104,4 +108,5 @@ Muhammad	NNP	_ <O>
 admonished	VBD	_ <O>
 believers	NNS	_ <O>
 :	:	_ <O>
- <O>
+
+NULL

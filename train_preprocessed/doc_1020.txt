@@ -41,7 +41,8 @@ to	TO	_ <O>
 oppose	VB	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 affair	NN	_ <O>
 assumed	VBD	_ <O>
@@ -58,7 +59,8 @@ to	TO	_ <O>
 give	VB	_ <O>
 battle	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 battle	NN	_ <O>
@@ -81,7 +83,8 @@ Japanese	NNPS	_ <O>
 were	VBD	_ <O>
 quieted	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Afterward	RB	_ <O>
 as	RB	_ <O>
 many	JJ	_ <O>
@@ -97,4 +100,5 @@ against	IN	_ <O>
 their	PRP$	_ <O>
 will	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

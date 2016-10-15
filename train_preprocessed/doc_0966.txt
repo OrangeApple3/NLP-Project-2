@@ -43,7 +43,8 @@ through	IN	_ <O>
 the	DT	_ <O>
 specimen	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 location	NN	_ <O>
 of	IN	_ <O>
@@ -75,7 +76,8 @@ wave	NN	_ <O>
 unharmed	JJ	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 what	WP	_ <O>
 is	VBZ	_ <O>
@@ -127,7 +129,8 @@ another	DT	_ <O>
 ?/4	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -144,4 +147,5 @@ waves	NNS	_ <O>
 untouched	JJ	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

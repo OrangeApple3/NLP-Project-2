@@ -37,4 +37,5 @@ Szczecin	NNP	_ <O>
 -	HYPH	_ <O>
 DÄ…bie	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

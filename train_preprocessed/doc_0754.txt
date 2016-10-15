@@ -47,7 +47,8 @@ al	NNP	_ <O>
 taglio	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 crust	NN	_ <O>
 is	VBZ	_ <O>
@@ -70,7 +71,8 @@ an	DT	_ <O>
 electric	JJ	_ <O>
 oven	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 usually	RB	_ <O>
@@ -107,7 +109,8 @@ traditional	JJ	_ <O>
 round	JJ	_ <O>
 shape	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 usually	RB	_ <O>
@@ -128,4 +131,5 @@ flavor	NN	_ <O>
 and	CC	_ <O>
 texture	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

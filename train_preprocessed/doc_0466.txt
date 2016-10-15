@@ -17,4 +17,5 @@ at	IN	_ <O>
 each	DT	_ <O>
 vertex	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

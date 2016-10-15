@@ -16,7 +16,8 @@ called	VBN	_ <O>
 piroshki	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 Armenia	NNP	_ <O>
 '	``	_ <O>
@@ -31,7 +32,8 @@ or	CC	_ <O>
 potato	NN	_ <O>
 fillings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Greek	JJ	_ <O>
 variety	NN	_ <O>
@@ -65,7 +67,8 @@ of	IN	_ <O>
 fast	JJ	_ <O>
 food	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Greek	NNP	_ <O>
 '	``	_ <O>
@@ -82,4 +85,5 @@ many	JJ	_ <O>
 different	JJ	_ <O>
 stuffings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

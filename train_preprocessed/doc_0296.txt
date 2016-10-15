@@ -29,7 +29,8 @@ stems	VBZ	_ <O>
 into	IN	_ <O>
 flowers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Auxins	NNS	_ <O>
 are	VBP	_ <O>
 toxic	JJ	_ <O>
@@ -51,7 +52,8 @@ so	RB	_ <O>
 to	IN	_ <O>
 monocots	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Auxins	NNS	_ <O>
 ,	,	_ <O>
 especially	RB	_ <O>
@@ -81,7 +83,8 @@ cuttings	NNS	_ <O>
 of	IN	_ <O>
 plants	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 most	RBS	_ <O>
 common	JJ	_ <O>
@@ -94,4 +97,5 @@ indoleacetic	JJ	_ <O>
 acid	NN	_ <O>
 or	CC	_ <O>
 IAA.	NNP	_ <O>
- <O>
+
+NULL

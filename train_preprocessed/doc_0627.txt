@@ -20,7 +20,8 @@ of	IN	_ <O>
 some	DT	<B-CUE>
 confusion	NN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Furthermore	RB	_ <O>
 ,	,	_ <O>
 because	IN	_ <O>
@@ -50,7 +51,8 @@ among	IN	_ <O>
 psychometric	JJ	<B-CUE>
 researchers	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Most	JJS	<B-CUE>
 researchers	NNS	<I-CUE>
 now	RB	_ <O>
@@ -74,4 +76,5 @@ of	IN	_ <O>
 discrete	JJ	_ <O>
 types	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

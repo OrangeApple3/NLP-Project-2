@@ -61,7 +61,8 @@ of	IN	_ <O>
 Dresden	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Historians	NNS	<B-CUE>
 now	RB	_ <O>
 generally	RB	<B-CUE>
@@ -79,4 +80,5 @@ and	CC	_ <O>
 30,000	CD	_ <O>
 civilians	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

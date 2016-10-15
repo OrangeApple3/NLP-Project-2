@@ -35,7 +35,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 floor	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 kneelers	NNS	_ <O>
 essentially	RB	_ <O>
@@ -57,7 +58,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 pew	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 kneeler	NN	_ <O>
 boards	NNS	_ <O>
@@ -85,7 +87,8 @@ can	MD	_ <O>
 vary	VB	_ <O>
 widely	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Permanently	RB	_ <O>
 attached	VBN	_ <O>
 kneelers	NNS	_ <O>
@@ -113,4 +116,5 @@ are	VBP	_ <O>
 not	RB	_ <O>
 kneeling	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

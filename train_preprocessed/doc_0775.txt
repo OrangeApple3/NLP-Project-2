@@ -19,7 +19,8 @@ to	IN	_ <O>
 his	PRP$	_ <O>
 home	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Atlanta	NNP	_ <O>
 Child	NNP	_ <O>
@@ -38,4 +39,5 @@ was	VBD	_ <O>
 years	NNS	_ <O>
 old	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

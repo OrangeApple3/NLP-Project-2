@@ -14,7 +14,8 @@ a	DT	_ <O>
 falsified	JJ	_ <O>
 charge	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 exchange	NN	_ <O>
 ,	,	_ <O>
@@ -49,7 +50,8 @@ Philip	NNP	_ <O>
 of	IN	_ <O>
 Valois	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	TO	_ <O>
 complete	VB	_ <O>
 the	DT	_ <O>
@@ -84,7 +86,8 @@ favor	NN	_ <O>
 of	IN	_ <O>
 Hugh	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 engagement	NN	_ <O>
 of	IN	_ <O>
@@ -137,4 +140,5 @@ claims	NNS	_ <O>
 thereto	NN	_ <O>
 appertaining	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

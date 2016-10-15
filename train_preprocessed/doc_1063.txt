@@ -22,7 +22,8 @@ her	PRP$	_ <O>
 man	NN	_ <O>
 faithful	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 twist	NN	_ <O>
 was	VBD	_ <O>
@@ -38,7 +39,8 @@ for	IN	_ <O>
 another	DT	_ <O>
 man	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Released	VBN	_ <O>
 as	IN	_ <O>
 a	DT	_ <O>
@@ -78,7 +80,8 @@ several	JJ	<B-CUE>
 larger	JJR	<I-CUE>
 stations	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 music	NN	_ <O>
 video	NN	_ <O>
@@ -90,4 +93,5 @@ also	RB	_ <O>
 became	VBD	_ <O>
 popular	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

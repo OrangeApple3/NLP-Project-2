@@ -29,7 +29,8 @@ vessels	NNS	_ <O>
 in	IN	_ <O>
 general	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Apart	RB	_ <O>
 from	IN	_ <O>
 a	DT	_ <O>
@@ -58,7 +59,8 @@ at	IN	_ <O>
 the	DT	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 themes	NNS	_ <O>
 may	MD	<B-CUE>
@@ -69,7 +71,8 @@ by	IN	_ <O>
 contemporary	JJ	_ <O>
 theatre	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 conventional	JJ	_ <O>
 name	NN	_ <O>
@@ -99,4 +102,5 @@ known	VBN	_ <O>
 from	IN	_ <O>
 him	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

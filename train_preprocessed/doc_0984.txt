@@ -12,7 +12,8 @@ for	IN	_ <O>
 pornographic	JJ	_ <O>
 materials	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 non	AFX	<I-CUE>
 -	HYPH	<I-CUE>
@@ -44,7 +45,8 @@ non	NN	_ <O>
 pornographic	JJ	_ <O>
 photograph	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Several	JJ	<B-CUE>
 non	AFX	<I-CUE>
 -	HYPH	<I-CUE>
@@ -83,7 +85,8 @@ not	RB	<I-CUE>
 considered	VBN	<I-CUE>
 pornographic	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Furthermore	RB	_ <O>
 ,	,	_ <O>
 a	DT	_ <O>
@@ -116,4 +119,5 @@ act	NN	_ <O>
 of	IN	_ <O>
 sex	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

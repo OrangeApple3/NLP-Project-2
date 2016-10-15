@@ -53,7 +53,8 @@ be	VB	<I-CUE>
 the	DT	<I-CUE>
 case	NN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 symbol	NN	_ <O>
 is	VBZ	_ <O>
@@ -91,7 +92,8 @@ it	PRP	_ <O>
 into	IN	_ <O>
 mathematics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 the	DT	_ <O>
@@ -121,7 +123,8 @@ of	IN	_ <O>
 a	DT	_ <O>
 proof	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 most	RBS	_ <O>
@@ -147,4 +150,5 @@ the	DT	_ <O>
 halmos	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

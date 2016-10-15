@@ -39,7 +39,8 @@ Old	NNP	_ <O>
 Indic	NNP	_ <O>
 dialects	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 word	NN	_ <O>
 itself	PRP	_ <O>
@@ -83,7 +84,8 @@ orthodoxy	NN	_ <O>
 of	IN	_ <O>
 ''	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 there	EX	_ <O>
 are	VBP	_ <O>
@@ -112,7 +114,8 @@ sanskrit(refined	VBD	_ <O>
 was	VBD	_ <O>
 made	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 also	RB	_ <O>
 is	VBZ	_ <O>
@@ -130,7 +133,8 @@ is	VBZ	_ <O>
 adinath	NN	_ <O>
 himself	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Prakrits	NNPS	_ <O>
 became	VBD	_ <O>
@@ -157,7 +161,8 @@ the	DT	_ <O>
 Brahmin	NNP	_ <O>
 orthodoxy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 various	JJ	_ <O>
 Prakrit	NNP	_ <O>
@@ -187,4 +192,5 @@ the	DT	_ <O>
 Indian	JJ	_ <O>
 subcontinent	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

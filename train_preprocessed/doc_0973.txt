@@ -22,7 +22,8 @@ with	IN	_ <O>
 his	PRP$	_ <O>
 name	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 De	NNP	_ <O>
 Rossi	NNP	_ <O>
 therefore	RB	_ <O>
@@ -49,7 +50,8 @@ Callistus	NNP	_ <O>
 '	POS	_ <O>
 Catacomb	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 many	JJ	<B-CUE>
 historians	NNS	<I-CUE>
@@ -59,7 +61,8 @@ belief	NN	_ <O>
 doubt	NN	<B-CUE>
 remains	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Therefore	RB	_ <O>
 it	PRP	_ <O>
 is	VBZ	_ <O>
@@ -75,4 +78,5 @@ the	DT	_ <O>
 Coemetarium	NNP	_ <O>
 Praetextati	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -51,7 +51,8 @@ other	JJ	_ <O>
 sites	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 best	JJS	_ <O>
 preserved	VBN	_ <O>
@@ -73,7 +74,8 @@ Temples	NNP	_ <O>
 of	IN	_ <O>
 Malta	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 start	VBP	_ <O>
 in	IN	_ <O>
@@ -90,7 +92,8 @@ on	IN	_ <O>
 Mesolithic	NNP	_ <O>
 roots	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 many	JJ	_ <O>
@@ -111,7 +114,8 @@ the	DT	_ <O>
 Saharan	NNP	_ <O>
 area	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 the	DT	<B-CUE>
 best	RBS	<I-CUE>
@@ -187,7 +191,8 @@ Kennet	NNP	_ <O>
 and	CC	_ <O>
 Woodhenge	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 tomb	NN	_ <O>
 of	IN	_ <O>
@@ -213,7 +218,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 Moon	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 of	IN	<I-CUE>
 these	DT	<I-CUE>
@@ -231,7 +237,8 @@ have	VBP	_ <O>
 religious	JJ	_ <O>
 significance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Knowth	NNP	_ <O>
 is	VBZ	_ <O>
 reputed	VBN	_ <O>
@@ -248,4 +255,5 @@ in	IN	_ <O>
 Western	NNP	_ <O>
 Europe	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

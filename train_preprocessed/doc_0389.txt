@@ -35,7 +35,8 @@ Plame	NNP	_ <O>
 's	POS	_ <O>
 identity	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 The	DT	_ <O>
 New	NNP	_ <O>
@@ -81,7 +82,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 case	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 Mr.	NNP	_ <O>
 Armitage	NNP	_ <O>
@@ -109,7 +111,8 @@ the	DT	_ <O>
 people	NNS	_ <O>
 said	VBD	_ <O>
 ...	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 he	PRP	_ <O>
 stayed	VBD	_ <O>
@@ -145,4 +148,5 @@ his	PRP$	_ <O>
 actions	NNS	_ <O>
 said	VBD	_ <O>
 ....	.	_ <O>
- <O>
+
+NULL

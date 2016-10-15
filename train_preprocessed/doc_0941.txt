@@ -27,7 +27,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 right	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 this	DT	_ <O>
 and	CC	_ <O>
@@ -50,7 +51,8 @@ Radio	NNP	_ <O>
 September	NNP	_ <O>
 2007	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 led	VBD	_ <O>
 Rabbitte	NNP	_ <O>
@@ -69,7 +71,8 @@ Student	NNP	_ <O>
 Princes	NNP	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1992	CD	_ <O>
 Rabbitte	NNP	_ <O>
@@ -94,4 +97,5 @@ hard	JJ	<I-CUE>
 left	VBN	<I-CUE>
 positions	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

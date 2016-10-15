@@ -23,7 +23,8 @@ to	IN	_ <O>
 in	IN	_ <O>
 diameter	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 (	-LRB-	_ <O>
 By	IN	_ <O>
 comparison	NN	_ <O>
@@ -35,7 +36,8 @@ generally	RB	_ <O>
 ,	,	_ <O>
 or	CC	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 UMB	NNP	_ <O>
 ,	,	_ <O>
@@ -74,7 +76,8 @@ facto	FW	_ <O>
 standard	NN	_ <O>
 is	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Modern	JJ	_ <O>
 cues	NNS	_ <O>
 are	VBP	_ <O>
@@ -110,4 +113,5 @@ are	VBP	_ <O>
 generally	RB	_ <O>
 long	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

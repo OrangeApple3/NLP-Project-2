@@ -24,7 +24,8 @@ singer	NN	_ <O>
 and	CC	_ <O>
 guitarist	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 composed	VBD	_ <O>
 lyrics	NNS	_ <O>
@@ -38,7 +39,8 @@ well	RB	<B-CUE>
 -	HYPH	<I-CUE>
 known	VBN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 began	VBD	_ <O>
 writing	VBG	_ <O>
@@ -68,7 +70,8 @@ few	JJ	_ <O>
 years	NNS	_ <O>
 later	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Matos	NNP	_ <O>
 Rodríguez	NNP	_ <O>
 went	VBD	_ <O>
@@ -118,7 +121,8 @@ Knew	NNP	_ <O>
 '	''	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Matos	NNP	_ <O>
 Rodríguez	NNP	_ <O>
 succeeded	VBD	_ <O>
@@ -155,4 +159,5 @@ highly	RB	_ <O>
 recognizable	JJ	_ <O>
 rendition	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

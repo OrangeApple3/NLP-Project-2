@@ -31,4 +31,5 @@ onto	IN	_ <O>
 the	DT	_ <O>
 foot	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

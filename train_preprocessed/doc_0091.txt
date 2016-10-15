@@ -25,7 +25,8 @@ thoracentesis	NN	_ <O>
 and	CC	_ <O>
 examined	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Depending	VBG	_ <O>
 on	IN	_ <O>
 the	DT	_ <O>
@@ -49,7 +50,8 @@ a	DT	_ <O>
 chest	NN	_ <O>
 tube	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 severe	JJ	_ <O>
 cases	NNS	_ <O>
@@ -61,7 +63,8 @@ may	MD	_ <O>
 be	VB	_ <O>
 needed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 the	DT	_ <O>
 fluid	NN	_ <O>
@@ -85,4 +88,5 @@ the	DT	_ <O>
 pleural	JJ	_ <O>
 cavity	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

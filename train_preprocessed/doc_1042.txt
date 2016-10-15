@@ -16,7 +16,8 @@ what	WP	_ <O>
 it	PRP	_ <O>
 studies	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Atoms	NNS	_ <O>
 and	CC	_ <O>
 molecules	NNS	_ <O>
@@ -57,7 +58,8 @@ and	CC	_ <O>
 metal	NN	_ <O>
 complexes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -85,4 +87,5 @@ to	IN	_ <O>
 one	CD	_ <O>
 another	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

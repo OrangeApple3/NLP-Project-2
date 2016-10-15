@@ -12,7 +12,8 @@ give	VB	_ <O>
 his	PRP$	_ <O>
 blessing	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Following	VBG	_ <O>
 this	DT	_ <O>
 the	DT	_ <O>
@@ -28,7 +29,8 @@ caused	VBD	_ <O>
 several	JJ	<B-CUE>
 deaths	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 very	RB	_ <O>
 last	JJ	_ <O>
@@ -53,7 +55,8 @@ Matutina	NNP	_ <O>
 Jesuit	NNP	_ <O>
 School	NNP	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 Pius	NNP	_ <O>
 IX	NNP	_ <O>
 was	VBD	_ <O>
@@ -81,7 +84,8 @@ No	NNP	_ <O>
 No	UH	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 occasional	JJ	_ <O>
 mood	NN	_ <O>
@@ -98,7 +102,8 @@ of	IN	_ <O>
 his	PRP$	_ <O>
 epilepsy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	_ <O>
 enduring	VBG	_ <O>
 popular	JJ	_ <O>
@@ -153,7 +158,8 @@ Saint	NNP	_ <O>
 Alphonsus	NNP	_ <O>
 Liguori	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 his	PRP$	_ <O>
 stay	NN	_ <O>
@@ -193,7 +199,8 @@ this	DT	_ <O>
 modern	JJ	_ <O>
 invention	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 houses	NNS	_ <O>
 along	IN	_ <O>
@@ -218,4 +225,5 @@ horse	NN	_ <O>
 drawn	VBN	_ <O>
 carriage	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

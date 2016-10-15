@@ -25,4 +25,5 @@ material	NN	_ <O>
 grey	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

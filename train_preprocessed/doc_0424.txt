@@ -87,7 +87,8 @@ and	CC	_ <O>
 its	PRP$	_ <O>
 Ruler	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 opposed	VBD	_ <O>
 notions	NNS	_ <O>
@@ -110,7 +111,8 @@ State	NN	_ <O>
 without	IN	_ <O>
 God	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 rejected	VBD	_ <O>
 some	DT	_ <O>
@@ -141,7 +143,8 @@ of	IN	_ <O>
 unequal	JJ	_ <O>
 condition	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 All	DT	_ <O>
 men	NNS	_ <O>
 are	VBP	_ <O>
@@ -176,7 +179,8 @@ are	VBP	_ <O>
 thence	NN	_ <O>
 derived	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Leo	NNP	_ <O>
 XIII	NNP	_ <O>
 predicts	VBZ	_ <O>
@@ -222,7 +226,8 @@ themselves	PRP	_ <O>
 will	MD	_ <O>
 occur	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Attempts	NNS	_ <O>
 are	VBP	_ <O>
 under	IN	_ <O>
@@ -238,7 +243,8 @@ socialists	NNS	_ <O>
 and	CC	_ <O>
 Freemasons	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 ,	,	_ <O>
 whoever	WP	_ <O>
@@ -281,7 +287,8 @@ with	IN	_ <O>
 their	PRP$	_ <O>
 desires	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Obedience	NN	_ <O>
 to	IN	_ <O>
 God	NNP	_ <O>
@@ -311,4 +318,5 @@ obedience	NN	_ <O>
 to	IN	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

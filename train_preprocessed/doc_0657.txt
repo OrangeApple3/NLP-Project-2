@@ -19,7 +19,8 @@ Davila	NNP	_ <O>
 of	IN	_ <O>
 Segovia	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 a	DT	_ <O>
 result	NN	_ <O>
@@ -51,7 +52,8 @@ enjoyed	VBD	_ <O>
 high	JJ	_ <O>
 honors	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 was	VBD	_ <O>
 arraigned	VBN	_ <O>
@@ -76,7 +78,8 @@ other	JJ	_ <O>
 holy	JJ	_ <O>
 images	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Observing	VBG	_ <O>
 the	DT	_ <O>
 pope	NN	_ <O>
@@ -120,4 +123,5 @@ favor	NN	_ <O>
 and	CC	_ <O>
 freedom	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

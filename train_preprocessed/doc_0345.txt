@@ -1,7 +1,8 @@
 NULL
 Aesthetics	NNS	_ <O>
 Essentialism	NNP	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 art	NN	_ <O>
 ,	,	_ <O>
@@ -20,7 +21,8 @@ in	IN	_ <O>
 certain	JJ	_ <O>
 media	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 chase	JJ	_ <O>
 scene	NN	_ <O>
@@ -61,7 +63,8 @@ a	DT	_ <O>
 chase	JJ	_ <O>
 scene	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 idea	NN	_ <O>
 may	MD	_ <O>
@@ -97,7 +100,8 @@ organically	RB	_ <O>
 correct	JJ	_ <O>
 sonnet	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Generally	RB	<B-CUE>
 ,	,	_ <O>
 working	VBG	<B-CUE>
@@ -134,4 +138,5 @@ vague	JJ	_ <O>
 and	CC	_ <O>
 irrelevant	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

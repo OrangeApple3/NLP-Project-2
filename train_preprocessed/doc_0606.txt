@@ -13,7 +13,8 @@ truth—Phillip	NN	_ <O>
 was	VBD	_ <O>
 alive	JJ	_ <O>
 !	.	_ <O>
- <O>
+
+NULL
 Though	NNP	_ <O>
 distressed	JJ	_ <O>
 at	IN	_ <O>
@@ -38,7 +39,8 @@ took	VBD	_ <O>
 the	DT	_ <O>
 case	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 was	VBD	_ <O>
 Remy	NNP	_ <O>
@@ -57,7 +59,8 @@ money	NN	_ <O>
 in	IN	_ <O>
 Clayton	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Remy	NNP	_ <O>
 claimed	VBD	_ <O>
 Phillip	NNP	_ <O>
@@ -81,4 +84,5 @@ jersey	NN	_ <O>
 to	IN	_ <O>
 Zach	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

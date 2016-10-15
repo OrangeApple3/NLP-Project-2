@@ -20,7 +20,8 @@ Police	NNP	_ <O>
 Service	NNP	_ <O>
 Officer	NNP	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 Indian	JJ	_ <O>
 Home	NNP	_ <O>
 Guard	NNP	_ <O>
@@ -35,7 +36,8 @@ Police	NNP	_ <O>
 Service	NNP	_ <O>
 Officer	NNP	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 Civil	JJ	_ <O>
 Defence	NNP	_ <O>
 :	:	_ <O>
@@ -48,7 +50,8 @@ Police	NNP	_ <O>
 Service	NNP	_ <O>
 Officer	NNP	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 Special	NNP	_ <O>
 Protection	NNP	_ <O>
 Group	NNP	_ <O>
@@ -63,7 +66,8 @@ Police	NNP	_ <O>
 Service	NNP	_ <O>
 Officer	NNP	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 State	NNP	_ <O>
 Armed	NNP	_ <O>
@@ -105,7 +109,8 @@ higher	JJR	_ <O>
 -	HYPH	_ <O>
 level	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Armed	NNP	_ <O>
 constabulary	NN	_ <O>
 are	VBP	_ <O>
@@ -142,7 +147,8 @@ and	CC	_ <O>
 natural	JJ	_ <O>
 disasters	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 may	MD	_ <O>
 also	RB	_ <O>
@@ -177,7 +183,8 @@ in	IN	_ <O>
 antiterrorist	NN	_ <O>
 operations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Depending	VBG	_ <O>
 on	IN	_ <O>
 the	DT	_ <O>
@@ -202,4 +209,5 @@ with	IN	_ <O>
 infantry	NN	_ <O>
 weapons	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

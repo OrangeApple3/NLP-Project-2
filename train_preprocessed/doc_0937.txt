@@ -34,7 +34,8 @@ than	IN	_ <O>
 the	DT	_ <O>
 rule	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 structure	NN	_ <O>
 of	IN	_ <O>
@@ -77,7 +78,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 verse	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 That	IN	_ <O>
 It	PRP	_ <O>
 could	MD	_ <O>
@@ -97,7 +99,8 @@ of	IN	_ <O>
 some	DT	<B-CUE>
 action	NN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Either	CC	_ <O>
 by	IN	_ <O>
 been	VBN	_ <O>
@@ -129,7 +132,8 @@ in	IN	_ <O>
 other	JJ	_ <O>
 words	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Political	JJ	_ <O>
 verses	NNS	_ <O>
 are	VBP	_ <O>
@@ -159,4 +163,5 @@ or	CC	_ <O>
 couplets	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

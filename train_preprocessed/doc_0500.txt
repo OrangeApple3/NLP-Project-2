@@ -15,7 +15,8 @@ into	IN	_ <O>
 Canadian	JJ	_ <O>
 politics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Residents	NNS	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -52,7 +53,8 @@ national	JJ	_ <O>
 "	''	_ <O>
 issues	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 this	DT	_ <O>
 is	VBZ	_ <O>
@@ -94,7 +96,8 @@ in	IN	_ <O>
 western	JJ	_ <O>
 Canada	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 include	VBP	_ <O>
 the	DT	_ <O>
@@ -157,4 +160,5 @@ Party	NNP	_ <O>
 1989	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -11,7 +11,8 @@ people	NNS	_ <O>
 of	IN	_ <O>
 Taiwan	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Only	RB	_ <O>
 the	DT	_ <O>
 23	CD	_ <O>
@@ -26,7 +27,8 @@ the	DT	_ <O>
 future	NN	_ <O>
 of	IN	_ <O>
 Taiwan”.	NNP	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -44,7 +46,8 @@ parties	NNS	_ <O>
 in	IN	_ <O>
 Taiwan	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 recent	JJ	_ <O>
 opinion	NN	_ <O>
@@ -66,4 +69,5 @@ this	DT	_ <O>
 position	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

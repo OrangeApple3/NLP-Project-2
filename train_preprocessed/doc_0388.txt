@@ -25,7 +25,8 @@ in	IN	_ <O>
 1999	CD	_ <O>
 .	.	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 new	JJ	_ <O>
 terminal	NN	_ <O>
@@ -82,7 +83,8 @@ through	IN	_ <O>
 security	NN	_ <O>
 again	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 airport	NN	_ <O>
 's	POS	_ <O>
@@ -95,7 +97,8 @@ most	RBS	<I-CUE>
 valuable	JJ	<I-CUE>
 assets	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	<B-CUE>
 model	NN	<I-CUE>
 to	IN	<I-CUE>
@@ -127,4 +130,5 @@ to	IN	_ <O>
 the	DT	_ <O>
 gates	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

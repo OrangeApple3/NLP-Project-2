@@ -17,7 +17,8 @@ at	IN	_ <O>
 City	NNP	_ <O>
 Hall	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 was	VBD	<I-CUE>
 rumored	VBN	<I-CUE>
@@ -51,4 +52,5 @@ wearing	VBG	_ <O>
 female	JJ	_ <O>
 underwear	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

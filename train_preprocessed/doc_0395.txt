@@ -11,7 +11,8 @@ made	VBN	_ <O>
 on	IN	_ <O>
 endoscopy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Red	JJ	_ <O>
 spots	NNS	_ <O>
 may	MD	<B-CUE>
@@ -21,7 +22,8 @@ not	RB	_ <O>
 be	VB	_ <O>
 present	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 pattern	NN	_ <O>
 is	VBZ	_ <O>
@@ -31,7 +33,8 @@ throughout	IN	_ <O>
 the	DT	_ <O>
 stomach	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 in	IN	_ <O>
@@ -55,4 +58,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 stomach	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

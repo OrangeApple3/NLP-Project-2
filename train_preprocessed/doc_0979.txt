@@ -32,7 +32,8 @@ between	IN	_ <O>
 and	CC	_ <O>
 2005	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1986	CD	_ <O>
 ,	,	_ <O>
@@ -58,7 +59,8 @@ at	IN	_ <O>
 IFK	NNP	_ <O>
 Vänersborg	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1992	CD	_ <O>
 ,	,	_ <O>
@@ -81,7 +83,8 @@ commonly	RB	<I-CUE>
 associated	VBN	_ <O>
 with	IN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 his	PRP$	_ <O>
 time	NN	_ <O>
@@ -100,4 +103,5 @@ national	JJ	_ <O>
 team	NN	_ <O>
 appearances	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

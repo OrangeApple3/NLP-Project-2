@@ -30,7 +30,8 @@ Parcham	NNP	_ <O>
 prominent	JJ	_ <O>
 members	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 President	NNP	_ <O>
 Mohammed	NNP	_ <O>
 Daoud	NNP	_ <O>
@@ -51,4 +52,5 @@ the	DT	_ <O>
 presidential	JJ	_ <O>
 palace	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -35,7 +35,8 @@ de	NNP	_ <O>
 '	POS	_ <O>
 Grassi	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 May	NNP	_ <O>
 28	CD	_ <O>
@@ -50,7 +51,8 @@ a	DT	_ <O>
 terrorist	JJ	_ <O>
 bombing	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Duomo	NNP	_ <O>
 Vecchio	NNP	_ <O>
@@ -70,7 +72,8 @@ La	NNP	_ <O>
 Rotonda	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 an	DT	_ <O>
@@ -85,7 +88,8 @@ its	PRP$	_ <O>
 circular	JJ	_ <O>
 shape	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 main	JJ	_ <O>
 structure	NN	_ <O>
@@ -103,7 +107,8 @@ an	DT	_ <O>
 earlier	JJR	_ <O>
 basilica	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Near	IN	_ <O>
 the	DT	_ <O>
 entrance	NN	_ <O>
@@ -131,7 +136,8 @@ of	IN	_ <O>
 San	NNP	_ <O>
 Filastrio	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 structure	NN	_ <O>
 houses	VBZ	_ <O>
@@ -204,7 +210,8 @@ Duomo	NNP	_ <O>
 Vecchio	NNP	_ <O>
 ]	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Duomo	NNP	_ <O>
 Nuovo	NNP	_ <O>
@@ -229,7 +236,8 @@ continued	VBN	_ <O>
 till	IN	_ <O>
 1825	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 initially	RB	_ <O>
 a	DT	_ <O>
@@ -272,7 +280,8 @@ Pietro	NNP	_ <O>
 Maria	NNP	_ <O>
 Bagnadore	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 facade	NN	_ <O>
 is	VBZ	_ <O>
@@ -296,7 +305,8 @@ by	IN	_ <O>
 Luigi	NNP	_ <O>
 Cagnola	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Interior	NNP	_ <O>
 frescoes	NNS	_ <O>
 including	VBG	_ <O>
@@ -328,7 +338,8 @@ frescoed	VBN	_ <O>
 by	IN	_ <O>
 Bonvicino	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 main	JJ	_ <O>
 attractions	NNS	_ <O>
@@ -347,7 +358,8 @@ Filastrius	NNP	_ <O>
 1510	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Casa	NNP	_ <O>
 di	IN	_ <O>
@@ -378,7 +390,8 @@ outlandish	JJ	_ <O>
 homosexual	JJ	_ <O>
 behaviour	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 thought	VBN	<I-CUE>
@@ -401,7 +414,8 @@ within	IN	_ <O>
 the	DT	_ <O>
 house	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Onlookers	NNS	_ <O>
 are	VBP	_ <O>
 invited	VBN	_ <O>
@@ -420,7 +434,8 @@ anal	JJ	_ <O>
 anarchy	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 '	``	_ <O>
 Broletto	NNP	_ <O>
@@ -431,7 +446,8 @@ the	DT	_ <O>
 Town	NNP	_ <O>
 Hall	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -448,7 +464,8 @@ a	DT	_ <O>
 lofty	JJ	_ <O>
 tower	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 Piazza	NNP	_ <O>
 del	NN	_ <O>
@@ -464,7 +481,8 @@ remains	VBZ	_ <O>
 in	IN	_ <O>
 Lombardy	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 include	VBP	_ <O>
 the	DT	_ <O>
@@ -477,7 +495,8 @@ Vespasianus	NNP	_ <O>
 in	IN	_ <O>
 73	CD	_ <O>
 AD.	NN	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 '	``	_ <O>
 monastery	NN	_ <O>
@@ -504,7 +523,8 @@ renovated	VBD	_ <O>
 several	JJ	_ <O>
 times	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 one	CD	<B-CUE>
@@ -521,7 +541,8 @@ in	IN	_ <O>
 northern	JJ	_ <O>
 Italy	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Santa	NNP	_ <O>
 Maria	NNP	_ <O>
@@ -555,4 +576,5 @@ Renaissance	NNP	_ <O>
 peristilium	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

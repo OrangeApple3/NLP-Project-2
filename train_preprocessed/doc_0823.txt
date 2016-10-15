@@ -8,7 +8,8 @@ in	IN	_ <O>
 Chinese	JJ	_ <O>
 culture	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Morning	NN	_ <O>
 exercises	NNS	_ <O>
 are	VBP	_ <O>
@@ -38,7 +39,8 @@ on	IN	_ <O>
 school	NN	_ <O>
 campuses	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Young	JJ	_ <O>
 people	NNS	_ <O>
 are	VBP	_ <O>
@@ -58,7 +60,8 @@ and	CC	_ <O>
 grass	NN	_ <O>
 areas	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 NBA	NNP	_ <O>
 has	VBZ	_ <O>
@@ -78,4 +81,5 @@ idol	NN	_ <O>
 of	IN	_ <O>
 many	JJ	<B-CUE>
 .	.	_ <O>
- <O>
+
+NULL

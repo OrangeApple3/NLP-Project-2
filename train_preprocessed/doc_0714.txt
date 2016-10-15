@@ -19,7 +19,8 @@ gymnast	NN	_ <O>
 competitive	JJ	_ <O>
 level	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 basic	JJ	_ <O>
 swings	NNS	_ <O>
@@ -35,7 +36,8 @@ flips	NNS	_ <O>
 and	CC	_ <O>
 turns	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 ,	,	_ <O>
 parallel	JJ	_ <O>
@@ -50,7 +52,8 @@ static	JJ	_ <O>
 hold	NN	_ <O>
 skill	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 common	JJ	_ <O>
 dismount	NN	_ <O>
@@ -97,4 +100,5 @@ to	IN	_ <O>
 the	DT	_ <O>
 apparatus	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

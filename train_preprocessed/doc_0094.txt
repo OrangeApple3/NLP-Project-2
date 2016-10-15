@@ -11,7 +11,8 @@ using	VBG	_ <O>
 ultrasound	NN	_ <O>
 guidance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 this	DT	_ <O>
 is	VBZ	_ <O>
@@ -27,7 +28,8 @@ may	MD	_ <O>
 be	VB	_ <O>
 required	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 frequently	RB	_ <O>
@@ -68,7 +70,8 @@ the	DT	_ <O>
 chest	NN	_ <O>
 wall	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	TO	_ <O>
 combat	VB	_ <O>
 this	DT	_ <O>
@@ -90,4 +93,5 @@ one	CD	_ <O>
 chest	NN	_ <O>
 tube	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

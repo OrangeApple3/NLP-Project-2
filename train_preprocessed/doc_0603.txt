@@ -32,7 +32,8 @@ and	CC	_ <O>
 Social	NNP	_ <O>
 Democrats	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nevertheless	RB	_ <O>
 ,	,	_ <O>
 none	NN	_ <O>
@@ -63,7 +64,8 @@ the	DT	_ <O>
 200	CD	_ <O>
 seats	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 1944	CD	_ <O>
 Communists	NNPS	_ <O>
@@ -106,7 +108,8 @@ after	IN	_ <O>
 1958	CD	_ <O>
 elections	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 relative	JJ	_ <O>
 strengths	NNS	_ <O>
@@ -139,4 +142,5 @@ long	JJ	<I-CUE>
 term	NN	<I-CUE>
 trends	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

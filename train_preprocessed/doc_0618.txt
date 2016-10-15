@@ -23,7 +23,8 @@ by	IN	_ <O>
 Digital	NNP	_ <O>
 Illusions	NNS	_ <O>
 CE.	NNP	_ <O>
- <O>
+
+NULL
 Currently	RB	_ <O>
 planned	VBN	_ <O>
 for	IN	_ <O>
@@ -54,7 +55,8 @@ next	JJ	_ <O>
 gen	NN	_ <O>
 consoles	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	<B-CUE>
 expected	VBN	<I-CUE>
@@ -65,7 +67,8 @@ in	IN	_ <O>
 early	JJ	_ <O>
 2008	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 teaser	NN	_ <O>
 trailer	NN	_ <O>
@@ -83,7 +86,8 @@ and	CC	_ <O>
 gameplay	NN	_ <O>
 visuals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 second	JJ	_ <O>
 trailer	NN	_ <O>
@@ -106,4 +110,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 storyline	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -38,7 +38,8 @@ a	DT	_ <O>
 PVA	NNP	_ <O>
 division	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Moreover	RB	_ <O>
 ,	,	_ <O>
 PVAs	NNS	_ <O>
@@ -63,7 +64,8 @@ shock	NN	_ <O>
 and	CC	_ <O>
 chaos	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 some	DT	<B-CUE>
 military	JJ	<I-CUE>
@@ -90,7 +92,8 @@ with	IN	_ <O>
 minimum	JJ	_ <O>
 casualty	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 various	JJ	_ <O>
 stages	NNS	_ <O>
@@ -148,4 +151,5 @@ at	IN	_ <O>
 X	NNP	_ <O>
 Corps	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

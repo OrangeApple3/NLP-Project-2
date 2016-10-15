@@ -32,7 +32,8 @@ to	IN	_ <O>
 Heathrow	NNP	_ <O>
 Airport	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 station	NN	_ <O>
 is	VBZ	_ <O>
@@ -55,4 +56,5 @@ Western	NNP	_ <O>
 Main	NNP	_ <O>
 Line	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

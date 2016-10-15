@@ -24,7 +24,8 @@ region	NN	_ <O>
 of	IN	_ <O>
 Andalusia	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Alarcón	NNP	_ <O>
 wrote	VBD	_ <O>
 another	DT	_ <O>
@@ -46,7 +47,8 @@ Poison	NNP	_ <O>
 1881	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 produced	VBD	_ <O>
 four	CD	_ <O>
@@ -56,7 +58,8 @@ full	JJ	_ <O>
 length	NN	_ <O>
 novels	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Alarcón	NNP	_ <O>
 also	RB	_ <O>
 wrote	VBD	_ <O>
@@ -70,4 +73,5 @@ stories	NNS	_ <O>
 and	CC	_ <O>
 essays	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

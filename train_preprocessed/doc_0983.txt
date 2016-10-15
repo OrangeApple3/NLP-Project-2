@@ -35,7 +35,8 @@ Paradisians	NNPS	_ <O>
 are	VBP	_ <O>
 true	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 main	JJ	_ <O>
 hero	NN	_ <O>
@@ -97,7 +98,8 @@ for	IN	_ <O>
 that	DT	_ <O>
 accessible	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Then	RB	_ <O>
 he	PRP	_ <O>
 discovers	VBZ	_ <O>
@@ -115,7 +117,8 @@ to	IN	_ <O>
 each	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 addition	NN	_ <O>
 ,	,	_ <O>
@@ -151,4 +154,5 @@ the	DT	_ <O>
 fictional	JJ	_ <O>
 Paradise	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

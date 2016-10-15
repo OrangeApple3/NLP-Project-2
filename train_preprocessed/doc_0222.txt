@@ -22,7 +22,8 @@ used	VBN	_ <O>
 as	IN	_ <O>
 synonyms	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 lecithin	JJ	_ <O>
@@ -37,7 +38,8 @@ and	CC	_ <O>
 other	JJ	_ <O>
 compounds	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -64,7 +66,8 @@ highly	RB	_ <O>
 lipophilic	JJ	_ <O>
 drugs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Phosphatidylcholine	NNP	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -86,4 +89,5 @@ mediated	VBN	_ <O>
 cell	NN	_ <O>
 signalling	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

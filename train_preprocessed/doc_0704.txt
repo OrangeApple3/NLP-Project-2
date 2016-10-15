@@ -24,7 +24,8 @@ the	DT	_ <O>
 Legislative	NNP	_ <O>
 Assembly	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 activity	NN	_ <O>
 in	IN	_ <O>
@@ -45,7 +46,8 @@ caustic	JJ	_ <O>
 political	JJ	_ <O>
 wit	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 enjoyed	VBD	_ <O>
 great	JJ	<B-CUE>
@@ -76,7 +78,8 @@ writing	VBG	_ <O>
 full	JJ	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 returned	VBD	_ <O>
 to	IN	_ <O>
@@ -112,4 +115,5 @@ and	CC	_ <O>
 political	JJ	_ <O>
 areas	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

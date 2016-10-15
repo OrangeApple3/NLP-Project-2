@@ -33,7 +33,8 @@ and	CC	_ <O>
 remove	VB	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Gator	NNP	_ <O>
 's	POS	_ <O>
 end	NN	_ <O>
@@ -55,4 +56,5 @@ means	NNS	_ <O>
 of	IN	_ <O>
 uninstallation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

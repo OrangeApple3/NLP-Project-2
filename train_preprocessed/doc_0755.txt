@@ -37,7 +37,8 @@ the	DT	_ <O>
 Gaillard	NNP	_ <O>
 Cut	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 series	NN	_ <O>
 of	IN	_ <O>
@@ -70,7 +71,8 @@ along	IN	_ <O>
 the	DT	_ <O>
 canal	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Thereafter	JJ	_ <O>
 stamps	NNS	_ <O>
 appeared	VBD	_ <O>
@@ -97,7 +99,8 @@ stamps	NNS	_ <O>
 in	IN	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 paralleled	VBD	_ <O>
 the	DT	_ <O>
@@ -124,4 +127,5 @@ issue	VB	_ <O>
 revenue	NN	_ <O>
 stamps	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

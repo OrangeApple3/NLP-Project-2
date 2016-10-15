@@ -39,7 +39,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 name	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 German	JJ	_ <O>
 the	DT	_ <O>
@@ -61,4 +62,5 @@ vehicle	NN	_ <O>
 "	''	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

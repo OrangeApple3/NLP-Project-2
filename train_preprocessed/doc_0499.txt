@@ -4,11 +4,13 @@ leading	VBG	_ <O>
 to	IN	_ <O>
 the	DT	_ <O>
 revolt	NN	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 poll	NN	_ <O>
 tax	NN	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 revolt	NN	_ <O>
 was	VBD	_ <O>
@@ -52,7 +54,8 @@ III	NNP	_ <O>
 of	IN	_ <O>
 England	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 third	JJ	_ <O>
 poll	NN	_ <O>
@@ -110,7 +113,8 @@ calls	NNS	_ <O>
 of	IN	_ <O>
 injustice	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 youth	NN	_ <O>
 of	IN	_ <O>
@@ -139,7 +143,8 @@ in	IN	_ <O>
 his	PRP$	_ <O>
 stead	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 included	VBD	_ <O>
 John	NNP	_ <O>
@@ -191,4 +196,5 @@ poll	NN	_ <O>
 tax	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -29,7 +29,8 @@ to	IN	_ <O>
 racial	JJ	_ <O>
 custom	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 an	DT	_ <O>
 unusual	JJ	_ <O>
@@ -70,7 +71,8 @@ white	JJ	_ <O>
 or	CC	_ <O>
 black	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 it	PRP	_ <O>
 is	VBZ	_ <O>
@@ -114,7 +116,8 @@ lived	VBD	_ <O>
 to	IN	_ <O>
 adulthood	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Marie	NNP	_ <O>
 Euchariste	NNP	_ <O>
 closely	RB	_ <O>
@@ -155,4 +158,5 @@ little	JJ	_ <O>
 to	TO	_ <O>
 correct	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

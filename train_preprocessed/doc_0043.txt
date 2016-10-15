@@ -21,7 +21,8 @@ cerebral	JJ	_ <O>
 palsy	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Athletes	NNS	_ <O>
 may	MD	_ <O>
 compete	VB	_ <O>
@@ -39,7 +40,8 @@ cerebral	JJ	_ <O>
 palsy	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Players	NNS	_ <O>
 may	MD	_ <O>
 not	RB	_ <O>
@@ -77,14 +79,16 @@ to	IN	_ <O>
 the	DT	_ <O>
 court	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 BC4	NN	_ <O>
 :	:	_ <O>
 For	IN	_ <O>
 throwing	VBG	_ <O>
 players	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Players	NNS	_ <O>
 may	MD	_ <O>
 not	RB	_ <O>
@@ -96,4 +100,5 @@ Non	NNP	_ <O>
 cerebral	JJ	_ <O>
 palsy	NN	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL

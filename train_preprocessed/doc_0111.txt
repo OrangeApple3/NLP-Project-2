@@ -25,7 +25,8 @@ very	RB	_ <O>
 opinionated	JJ	_ <O>
 form	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 ,	,	_ <O>
@@ -38,7 +39,8 @@ blurbed	NN	<I-CUE>
 film	NN	_ <O>
 critic	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -86,7 +88,8 @@ and	CC	_ <O>
 Ang	NNP	_ <O>
 Lee	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 has	VBZ	_ <O>
 also	RB	_ <O>
@@ -108,4 +111,5 @@ and	CC	_ <O>
 his	PRP$	_ <O>
 films	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -25,7 +25,8 @@ divisions	NNS	_ <O>
 and	CC	_ <O>
 mergers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Congress	NNP	_ <O>
 '	''	_ <O>
@@ -52,7 +53,8 @@ restoration	NN	_ <O>
 of	IN	_ <O>
 democracy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 CPN(UML	LS	_ <O>
 )	-RRB-	_ <O>
 became	VBD	_ <O>
@@ -61,7 +63,8 @@ major	JJ	_ <O>
 parliamentary	JJ	_ <O>
 force	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Today	NN	_ <O>
 ,	,	_ <O>
 in	IN	_ <O>
@@ -85,7 +88,8 @@ have	VBP	_ <O>
 parliamentary	JJ	_ <O>
 representation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Royalists	NNS	_ <O>
 '	''	_ <O>
@@ -108,7 +112,8 @@ Rashtriya	NNP	_ <O>
 Prajatantra	NNP	_ <O>
 Party	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 RPP	NNP	_ <O>
 became	VBD	_ <O>
@@ -137,4 +142,5 @@ ridden	VBN	_ <O>
 by	IN	_ <O>
 divisions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -16,7 +16,8 @@ the	DT	_ <O>
 viral	JJ	_ <O>
 strain	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 mildest	JJS	_ <O>
 of	IN	_ <O>
@@ -42,7 +43,8 @@ disease	NN	_ <O>
 PTNRD	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 PVY	NN	_ <O>
 is	VBZ	_ <O>
 transmissible	JJ	_ <O>
@@ -58,7 +60,8 @@ in	IN	_ <O>
 seed	NN	_ <O>
 potatoes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 means	VBZ	_ <O>
 that	IN	_ <O>
@@ -92,4 +95,5 @@ loss	NN	_ <O>
 of	IN	_ <O>
 crop	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

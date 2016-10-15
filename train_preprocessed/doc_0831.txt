@@ -9,7 +9,8 @@ from	IN	_ <O>
 ancient	JJ	_ <O>
 tradition	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Social	JJ	_ <O>
 gatherings	NNS	_ <O>
 focused	VBN	_ <O>
@@ -29,7 +30,8 @@ well	RB	_ <O>
 seasoned	VBN	_ <O>
 food	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 hosts	NNS	_ <O>
 will	MD	_ <O>
@@ -56,7 +58,8 @@ it	PRP	_ <O>
 gets	VBZ	_ <O>
 low	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 a	DT	_ <O>
 helping	NN	_ <O>
@@ -80,7 +83,8 @@ little	JJ	_ <O>
 uneaten	JJ	_ <O>
 food	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Alcohol	NN	_ <O>
 such	JJ	_ <O>
 as	IN	_ <O>
@@ -99,7 +103,8 @@ meals	NNS	_ <O>
 and	CC	_ <O>
 gatherings	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 considered	VBN	<I-CUE>
@@ -128,4 +133,5 @@ or	CC	_ <O>
 even	RB	_ <O>
 water	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

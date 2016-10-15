@@ -24,7 +24,8 @@ and	CC	_ <O>
 moral	JJ	_ <O>
 issues	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 '	``	_ <O>
 The	DT	_ <O>
@@ -52,7 +53,8 @@ of	IN	_ <O>
 his	PRP$	_ <O>
 opinions	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 would	MD	_ <O>
 later	RB	_ <O>
@@ -69,7 +71,8 @@ few	JJ	_ <O>
 years	NNS	_ <O>
 later	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 O'Reilly	RB	_ <O>
 has	VBZ	_ <O>
 also	RB	_ <O>
@@ -85,4 +88,5 @@ of	IN	_ <O>
 his	PRP$	_ <O>
 beliefs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

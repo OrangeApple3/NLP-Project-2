@@ -43,7 +43,8 @@ to	TO	_ <O>
 evaluate	VB	_ <O>
 him	PRP	_ <O>
 ?	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 state	NN	_ <O>
 courts	NNS	_ <O>
@@ -83,7 +84,8 @@ by	IN	_ <O>
 Texas	NNP	_ <O>
 law	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	RBS	_ <O>
 importantly	RB	_ <O>
 ,	,	_ <O>
@@ -109,7 +111,8 @@ court	NN	_ <O>
 appointed	VBN	_ <O>
 experts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 counsel	NN	_ <O>
 had	VBD	_ <O>
@@ -140,4 +143,5 @@ on	IN	_ <O>
 that	DT	_ <O>
 request	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

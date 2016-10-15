@@ -11,7 +11,8 @@ questions	NNS	_ <O>
 of	IN	_ <O>
 theology	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 rejected	VBD	_ <O>
 many	JJ	<B-CUE>
@@ -22,7 +23,8 @@ developed	VBN	_ <O>
 by	IN	_ <O>
 John	NNP	_ <O>
 XXII.	NNP	_ <O>
- <O>
+
+NULL
 Though	IN	_ <O>
 some	DT	<B-CUE>
 claim	NN	_ <O>
@@ -40,7 +42,8 @@ far	RB	_ <O>
 from	IN	_ <O>
 clear	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 engaged	VBD	_ <O>
 in	RP	_ <O>
@@ -63,4 +66,5 @@ and	CC	_ <O>
 Meister	NNP	_ <O>
 Eckhart	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

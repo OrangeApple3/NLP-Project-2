@@ -14,7 +14,8 @@ as	IN	_ <O>
 75	CD	_ <O>
 percent	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Prevalence	NN	_ <O>
 estimates	NNS	_ <O>
 within	IN	_ <O>
@@ -39,7 +40,8 @@ populations	NNS	_ <O>
 being	VBG	_ <O>
 sampled	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 {	-LRB-	_ <O>
 Diagnostic	JJ	_ <O>
 and	CC	_ <O>
@@ -49,7 +51,8 @@ of	IN	_ <O>
 Mental	NNP	_ <O>
 Disorders	NNS	_ <O>
 }	-RRB-	_ <O>
- <O>
+
+NULL
 Perhaps	RB	_ <O>
 not	RB	_ <O>
 surprisingly	RB	_ <O>
@@ -83,7 +86,8 @@ Hare	NNP	_ <O>
 1983	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Similarly	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -126,4 +130,5 @@ abuse	NN	_ <O>
 and	CC	_ <O>
 dependence	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

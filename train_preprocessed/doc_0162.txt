@@ -9,7 +9,8 @@ Pacers	NNPS	_ <O>
 preseason	NN	_ <O>
 game	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Conseco	NNP	_ <O>
 Fieldhouse	NNP	_ <O>
 has	VBZ	_ <O>
@@ -29,7 +30,8 @@ the	DT	_ <O>
 sports	NNS	_ <O>
 world	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 designed	VBN	_ <O>
@@ -67,7 +69,8 @@ high	JJ	_ <O>
 school	NN	_ <O>
 basketball	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 fieldhouse	NN	_ <O>
 is	VBZ	_ <O>
@@ -83,4 +86,5 @@ is	VBZ	_ <O>
 Indiana	NNP	_ <O>
 basketball	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

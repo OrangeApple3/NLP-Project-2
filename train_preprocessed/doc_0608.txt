@@ -46,7 +46,8 @@ work	NN	_ <O>
 for	IN	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Krugman	NNP	_ <O>
 later	RB	_ <O>
 argued	VBD	_ <O>
@@ -95,7 +96,8 @@ ensure	VB	_ <O>
 stability	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Krugman	NNP	_ <O>
 noted	VBD	_ <O>
 his	PRP$	_ <O>
@@ -116,7 +118,8 @@ on	IN	_ <O>
 the	DT	_ <O>
 company	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Krugman	NNP	_ <O>
 was	VBD	_ <O>
 one	CD	_ <O>
@@ -146,4 +149,5 @@ other	JJ	_ <O>
 energy	NN	_ <O>
 companies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

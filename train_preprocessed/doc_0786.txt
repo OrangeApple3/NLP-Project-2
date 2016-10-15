@@ -34,7 +34,8 @@ writers	NNS	_ <O>
 and	CC	_ <O>
 designers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 Pirates	NNS	_ <O>
 '	POS	_ <O>
@@ -47,7 +48,8 @@ other	JJ	_ <O>
 pirate	JJ	_ <O>
 fiction	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	_ <O>
 ship	NN	_ <O>
 names	NNS	_ <O>
@@ -61,7 +63,8 @@ by	IN	_ <O>
 Jordan	NNP	_ <O>
 Weisman	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 '	``	_ <O>
 Black	NNP	_ <O>
@@ -91,4 +94,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 Caribbean	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

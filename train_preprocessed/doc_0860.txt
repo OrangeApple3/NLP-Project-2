@@ -23,7 +23,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 circuit	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 technologies	NNS	<I-CUE>
 are	VBP	<B-CUE>
@@ -37,7 +38,8 @@ in	IN	_ <O>
 this	DT	_ <O>
 regard	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 best	JJS	_ <O>
 digital	JJ	_ <O>
@@ -62,7 +64,8 @@ high	JJ	_ <O>
 power	NN	_ <O>
 consumption	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	TO	_ <O>
 keep	VB	_ <O>
 phase	NN	_ <O>
@@ -91,4 +94,5 @@ TTL	NNP	_ <O>
 )	-RRB-	_ <O>
 or	CC	_ <O>
 CMOS.	NNP	_ <O>
- <O>
+
+NULL

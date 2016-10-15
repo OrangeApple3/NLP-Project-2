@@ -17,7 +17,8 @@ of	IN	_ <O>
 salaryman	NN	_ <O>
 culture	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 of	IN	<I-CUE>
 these	DT	<I-CUE>
@@ -39,7 +40,8 @@ it	PRP	_ <O>
 may	MD	<B-CUE>
 be	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 fact	NN	_ <O>
 makes	VBZ	_ <O>
@@ -61,7 +63,8 @@ might	MD	<B-CUE>
 see	VB	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 the	DT	_ <O>
 same	JJ	_ <O>
@@ -85,7 +88,8 @@ make	VB	_ <O>
 a	DT	_ <O>
 difference	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Having	VBG	_ <O>
 expanded	VBN	_ <O>
 his	PRP$	_ <O>
@@ -114,4 +118,5 @@ started	VBD	_ <O>
 out	RP	_ <O>
 with	IN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

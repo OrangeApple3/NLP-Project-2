@@ -37,7 +37,8 @@ and	CC	_ <O>
 altitude	NN	_ <O>
 trend	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 pitot	NN	_ <O>
 -	HYPH	_ <O>
@@ -61,7 +62,8 @@ pitot	NN	_ <O>
 static	JJ	_ <O>
 instruments	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Other	JJ	_ <O>
 instruments	NNS	_ <O>
 that	WDT	_ <O>
@@ -89,7 +91,8 @@ various	JJ	_ <O>
 airspeed	NN	_ <O>
 switches	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Errors	NNS	_ <O>
 in	IN	_ <O>
 pitot	NN	_ <O>
@@ -123,4 +126,5 @@ a	DT	_ <O>
 successful	JJ	_ <O>
 flight	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

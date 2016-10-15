@@ -13,7 +13,8 @@ convulsions	NNS	_ <O>
 and	CC	_ <O>
 lost	VBD	_ <O>
 consciousness,.	NN	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 many	JJ	<B-CUE>
 victims	NNS	<I-CUE>
@@ -33,7 +34,8 @@ admitted	VBN	_ <O>
 to	IN	_ <O>
 hospitals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Two	CD	_ <O>
 people	NNS	_ <O>
 remained	VBD	_ <O>
@@ -43,7 +45,8 @@ over	IN	_ <O>
 2	CD	_ <O>
 weeks	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 other	JJ	<I-CUE>
 people	NNS	<I-CUE>
@@ -63,4 +66,5 @@ on	IN	_ <O>
 the	DT	_ <O>
 seizures	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

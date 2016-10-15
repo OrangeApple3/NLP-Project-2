@@ -16,7 +16,8 @@ regular	JJ	_ <O>
 employee	NN	_ <O>
 would	MD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Employee	NN	_ <O>
 badges	NNS	_ <O>
 for	IN	_ <O>
@@ -49,7 +50,8 @@ to	IN	_ <O>
 their	PRP$	_ <O>
 login	NN	_ <O>
 ID.	NNP	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 On	IN	_ <O>
 Microsoft	NNP	_ <O>
@@ -74,7 +76,8 @@ the	DT	_ <O>
 company	NN	_ <O>
 lexicon	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Temporaries	NNS	_ <O>
 hired	VBN	_ <O>
 from	IN	_ <O>
@@ -99,4 +102,5 @@ mail	NN	_ <O>
 addresses	NNS	_ <O>
 ....	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

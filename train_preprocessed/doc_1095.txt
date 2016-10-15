@@ -41,7 +41,8 @@ were	VBD	_ <O>
 worn	VBN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Polo	NNP	_ <O>
 wraps	NNS	_ <O>
 are	VBP	_ <O>
@@ -67,7 +68,8 @@ from	IN	_ <O>
 fitting	VBG	_ <O>
 properly	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Unlike	IN	_ <O>
 boots	NNS	_ <O>
 ,	,	_ <O>
@@ -96,7 +98,8 @@ on	IN	_ <O>
 the	DT	_ <O>
 length	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Lastly	RB	_ <O>
 ,	,	_ <O>
 polos	NNS	_ <O>
@@ -133,4 +136,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 leg	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

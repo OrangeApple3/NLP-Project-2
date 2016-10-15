@@ -18,7 +18,8 @@ potassium	NN	_ <O>
 provoked	VBN	_ <O>
 paralysis	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Patients	NNS	_ <O>
 with	IN	_ <O>
 this	DT	_ <O>
@@ -34,7 +35,8 @@ or	CC	_ <O>
 upper	JJ	_ <O>
 extremities	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 lower	JJR	_ <O>
 extremities	NNS	_ <O>
@@ -43,7 +45,8 @@ generally	RB	_ <O>
 less	RBR	_ <O>
 affected	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 some	DT	<B-CUE>
 other	JJ	<I-CUE>
@@ -62,4 +65,5 @@ the	DT	_ <O>
 case	NN	_ <O>
 with	IN	_ <O>
 PC.	NN	_ <O>
- <O>
+
+NULL

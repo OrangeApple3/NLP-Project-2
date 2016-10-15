@@ -18,7 +18,8 @@ Polish	JJ	_ <O>
 American	NNP	_ <O>
 community	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Polish	JJ	_ <O>
 Fest	NNP	_ <O>
@@ -43,7 +44,8 @@ Maier	NNP	_ <O>
 Festival	NNP	_ <O>
 Park	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	<B-CUE>
 of	IN	<I-CUE>
 the	DT	<I-CUE>
@@ -71,7 +73,8 @@ Gdynia	NNP	_ <O>
 ,	,	_ <O>
 Poland	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 And	CC	_ <O>
 last	JJ	_ <O>
 ,	,	_ <O>
@@ -104,4 +107,5 @@ Dells	NNP	_ <O>
 Polish	NNP	_ <O>
 Fest	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

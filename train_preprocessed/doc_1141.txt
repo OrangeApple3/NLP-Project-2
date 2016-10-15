@@ -23,7 +23,8 @@ veteran	NN	_ <O>
 Shamus	NNP	_ <O>
 Culhane	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 story	NN	_ <O>
 evolved	VBD	_ <O>
@@ -43,7 +44,8 @@ artist	NN	_ <O>
 Peter	NNP	_ <O>
 Fernandez	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 With	IN	_ <O>
 the	DT	_ <O>
 demise	NN	_ <O>
@@ -61,4 +63,5 @@ the	DT	_ <O>
 public	JJ	_ <O>
 domain	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

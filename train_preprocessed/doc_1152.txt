@@ -5,7 +5,8 @@ available	JJ	_ <O>
 in	IN	_ <O>
 Ayutthaya	NNP	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 city	NN	_ <O>
 has	VBZ	_ <O>
@@ -22,7 +23,8 @@ younger	JJR	_ <O>
 trendier	JJ	_ <O>
 crowd	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	_ <O>
 live	VBP	_ <O>
 Music	NN	_ <O>
@@ -30,7 +32,8 @@ Joints	NNS	_ <O>
 play	VBP	_ <O>
 Thai	NNP	_ <O>
 folk	NN	_ <O>
- <O>
+
+NULL
 Karaoke	JJ	_ <O>
 clubs	NNS	_ <O>
 can	MD	_ <O>
@@ -54,7 +57,8 @@ rent	VB	_ <O>
 a	DT	_ <O>
 private	JJ	_ <O>
 room	NN	_ <O>
- <O>
+
+NULL
 Barbecues	NNS	_ <O>
 are	VBP	_ <O>
 large	JJ	_ <O>
@@ -69,7 +73,8 @@ and	CC	_ <O>
 serve	VB	_ <O>
 alcohol	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Sing	VB	_ <O>
 -	HYPH	_ <O>
 a	DT	_ <O>
@@ -81,7 +86,8 @@ with	IN	_ <O>
 Thai	NNP	_ <O>
 males	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Down	RB	_ <O>
 by	IN	_ <O>
 the	DT	_ <O>
@@ -100,4 +106,5 @@ fancy	VBD	_ <O>
 a	DT	_ <O>
 beer	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

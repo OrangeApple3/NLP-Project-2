@@ -43,7 +43,8 @@ and	CC	_ <O>
 Alan	NNP	_ <O>
 Shore	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Paul	NNP	_ <O>
 has	VBZ	_ <O>
 threatened	VBN	_ <O>
@@ -94,7 +95,8 @@ on	IN	_ <O>
 his	PRP$	_ <O>
 behalf	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 the	DT	_ <O>
 other	JJ	_ <O>
@@ -112,7 +114,8 @@ before	IN	_ <O>
 social	JJ	_ <O>
 justice	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 an	DT	_ <O>
 ethically	RB	_ <O>
@@ -160,4 +163,5 @@ she	PRP	_ <O>
 currently	RB	_ <O>
 resides	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

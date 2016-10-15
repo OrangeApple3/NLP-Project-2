@@ -37,7 +37,8 @@ the	DT	_ <O>
 smaller	JJR	_ <O>
 Groups	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1979	CD	_ <O>
 MEPs	NNS	_ <O>
@@ -101,7 +102,8 @@ major	JJ	_ <O>
 international	JJ	_ <O>
 organizations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 20	CD	_ <O>
 July	NNP	_ <O>
@@ -135,7 +137,8 @@ for	IN	_ <O>
 short	JJ	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 it	PRP	_ <O>
 contained	VBD	_ <O>
@@ -161,4 +164,5 @@ a	DT	_ <O>
 common	JJ	_ <O>
 outlook	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

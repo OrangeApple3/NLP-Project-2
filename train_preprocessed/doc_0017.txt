@@ -29,7 +29,8 @@ into	IN	_ <O>
 the	DT	_ <O>
 rock	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 By	IN	_ <O>
 1901	CD	_ <O>
 -	SYM	_ <O>
@@ -47,7 +48,8 @@ shipment	NN	_ <O>
 to	IN	_ <O>
 Europe	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	JJS	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -99,4 +101,5 @@ which	WDT	_ <O>
 it	PRP	_ <O>
 sold	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -18,7 +18,8 @@ had	VBN	_ <O>
 air	NN	_ <O>
 sacs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 possible	JJ	_ <O>
 pneumatic	JJ	_ <O>
@@ -41,7 +42,8 @@ are	VBP	_ <O>
 very	RB	_ <O>
 small	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	<B-CUE>
 study	NN	<I-CUE>
 in	IN	_ <O>
@@ -72,7 +74,8 @@ and	CC	_ <O>
 sauropods	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	<B-CUE>
 study	NN	<I-CUE>
 concluded	VBD	_ <O>
@@ -104,4 +107,5 @@ almost	RB	<B-CUE>
 certainly	RB	<I-CUE>
 present	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -24,7 +24,8 @@ the	DT	_ <O>
 broomrape	JJ	_ <O>
 family	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Like	IN	_ <O>
 others	NNS	_ <O>
 of	IN	_ <O>
@@ -50,7 +51,8 @@ nutrients	NNS	_ <O>
 and	CC	_ <O>
 water	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 species	NN	_ <O>
 is	VBZ	_ <O>
@@ -80,7 +82,8 @@ with	IN	_ <O>
 the	DT	_ <O>
 opportunity	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 often	RB	_ <O>
 parasitizes	VBZ	_ <O>
@@ -94,4 +97,5 @@ such	JJ	_ <O>
 as	IN	_ <O>
 manzanita	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

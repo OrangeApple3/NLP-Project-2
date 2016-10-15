@@ -10,7 +10,8 @@ response	NN	_ <O>
 from	IN	_ <O>
 critics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 GameSpot	NNP	_ <O>
 enjoyed	VBD	_ <O>
 the	DT	_ <O>
@@ -41,7 +42,8 @@ GameCube	NNP	_ <O>
 games	NNS	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Conversely	RB	_ <O>
 ,	,	_ <O>
 other	JJ	<B-CUE>
@@ -66,7 +68,8 @@ Paper	NNP	_ <O>
 Mario	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 RPGamer	NN	_ <O>
 commented	VBD	_ <O>
 that	IN	_ <O>
@@ -102,4 +105,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 game	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

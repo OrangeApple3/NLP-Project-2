@@ -20,7 +20,8 @@ functions	NNS	_ <O>
 on	IN	_ <O>
 manifolds	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 physics	NN	_ <O>
 ,	,	_ <O>
@@ -40,7 +41,8 @@ the	DT	_ <O>
 vector	NN	_ <O>
 potential	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 either	DT	_ <O>
 case	NN	_ <O>
@@ -63,7 +65,8 @@ may	MD	_ <O>
 be	VB	_ <O>
 derived	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Leading	VBG	_ <O>
 examples	NNS	_ <O>
 are	VBP	_ <O>
@@ -89,4 +92,5 @@ may	MD	_ <O>
 be	VB	_ <O>
 obtained	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

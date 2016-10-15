@@ -36,7 +36,8 @@ in	IN	_ <O>
 each	DT	_ <O>
 storyline	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Though	IN	_ <O>
 the	DT	_ <O>
 scars	NNS	_ <O>
@@ -64,7 +65,8 @@ character	NN	_ <O>
 look	VB	_ <O>
 cooler	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Another	DT	<B-CUE>
 criticism	NN	<I-CUE>
 could	MD	_ <O>
@@ -101,7 +103,8 @@ talk	VB	_ <O>
 about	IN	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 While	IN	_ <O>
 most	JJS	<B-CUE>
 of	IN	<I-CUE>
@@ -116,4 +119,5 @@ to	TO	_ <O>
 be	VB	_ <O>
 bigots	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

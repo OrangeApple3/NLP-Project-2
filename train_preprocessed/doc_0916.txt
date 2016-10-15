@@ -21,7 +21,8 @@ theory	NN	_ <O>
 and	CC	_ <O>
 design	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -34,7 +35,8 @@ modern	JJ	_ <O>
 Australian	JJ	_ <O>
 architecture	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	<B-CUE>
 of	IN	<I-CUE>
 his	PRP$	<I-CUE>
@@ -52,7 +54,8 @@ of	IN	_ <O>
 Robin	NNP	_ <O>
 Boyd	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 an	DT	_ <O>
 architect	NN	_ <O>
@@ -88,4 +91,5 @@ Street	NNP	_ <O>
 central	JJ	_ <O>
 Melbourne	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

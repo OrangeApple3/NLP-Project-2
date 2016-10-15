@@ -16,7 +16,8 @@ easier	JJR	_ <O>
 to	TO	_ <O>
 execute	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 allow	VBP	_ <O>
 the	DT	_ <O>
@@ -52,7 +53,8 @@ player	NN	_ <O>
 in	IN	_ <O>
 battle	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 game	NN	_ <O>
 has	VBZ	_ <O>
@@ -109,7 +111,8 @@ sequel	NN	_ <O>
 or	CC	_ <O>
 update	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 possible	JJ	<I-CUE>
@@ -135,4 +138,5 @@ country	NN	_ <O>
 of	IN	_ <O>
 origin	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

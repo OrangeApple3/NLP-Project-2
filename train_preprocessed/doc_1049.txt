@@ -17,7 +17,8 @@ in	IN	_ <O>
 machine	NN	_ <O>
 design	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 boring	JJ	_ <O>
 operation	NN	_ <O>
@@ -42,7 +43,8 @@ the	DT	_ <O>
 blocks	NNS	_ <O>
 precisely	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 meant	VBD	_ <O>
 that	IN	_ <O>
@@ -65,7 +67,8 @@ working	VBG	_ <O>
 on	IN	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 several	JJ	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -74,7 +77,8 @@ had	VBD	_ <O>
 cone	NN	_ <O>
 clutches	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Brunel	NNP	_ <O>
 used	VBD	_ <O>
 detachable	JJ	_ <O>
@@ -95,7 +99,8 @@ general	JJ	_ <O>
 purpose	NN	_ <O>
 lathes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Expanding	VBG	_ <O>
 collet	NN	_ <O>
 chucks	NNS	_ <O>
@@ -115,7 +120,8 @@ during	IN	_ <O>
 certain	JJ	_ <O>
 operations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Two	CD	_ <O>
 -	HYPH	_ <O>
 jaw	NN	_ <O>
@@ -127,7 +133,8 @@ on	IN	_ <O>
 some	DT	_ <O>
 machines	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 were	VBD	_ <O>
 precursors	NNS	_ <O>
@@ -142,7 +149,8 @@ on	IN	_ <O>
 lathes	NNS	_ <O>
 today	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 morticing	NN	_ <O>
 machines	NNS	_ <O>
@@ -158,7 +166,8 @@ operation	NN	_ <O>
 was	VBD	_ <O>
 finished	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Interchangeability	NN	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -178,7 +187,8 @@ a	DT	_ <O>
 particular	JJ	_ <O>
 shell	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 work	NN	_ <O>
 -	HYPH	_ <O>
@@ -200,7 +210,8 @@ block	NN	_ <O>
 sizes	NNS	_ <O>
 demanded	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 method	NN	_ <O>
 of	IN	_ <O>
@@ -228,4 +239,5 @@ imported	VBN	_ <O>
 from	IN	_ <O>
 America	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

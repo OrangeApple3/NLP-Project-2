@@ -16,7 +16,8 @@ for	IN	_ <O>
 several	JJ	<B-CUE>
 reasons	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 can	MD	_ <O>
 result	VB	_ <O>
@@ -28,7 +29,8 @@ becoming	VBG	_ <O>
 generally	RB	_ <O>
 irritable	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 child	NN	_ <O>
 who	WP	_ <O>
@@ -82,7 +84,8 @@ learn	VB	_ <O>
 sign	JJ	_ <O>
 language	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 child	NN	_ <O>
 who	WP	_ <O>
@@ -133,4 +136,5 @@ having	VBG	_ <O>
 normal	JJ	_ <O>
 hearing	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

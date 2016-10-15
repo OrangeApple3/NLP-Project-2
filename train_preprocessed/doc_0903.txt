@@ -15,7 +15,8 @@ on	IN	_ <O>
 November	NNP	_ <O>
 1975	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	<B-CUE>
 is	VBZ	<I-CUE>
 rumored	VBN	<I-CUE>
@@ -32,4 +33,5 @@ British	JJ	_ <O>
 Government	NNP	_ <O>
 operation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

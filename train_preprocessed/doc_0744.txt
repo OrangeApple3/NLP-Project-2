@@ -43,7 +43,8 @@ birth	NN	_ <O>
 of	IN	_ <O>
 Jesus	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 symbolic	JJ	_ <O>
 issue	NN	_ <O>
@@ -77,7 +78,8 @@ Christ	NNP	_ <O>
 from	IN	_ <O>
 Christmas	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 abbreviation	NN	_ <O>
 originated	VBD	_ <O>
@@ -96,4 +98,5 @@ abbreviation	NN	_ <O>
 of	IN	_ <O>
 Christ	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

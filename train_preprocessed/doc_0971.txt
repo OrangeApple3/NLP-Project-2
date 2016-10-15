@@ -47,7 +47,8 @@ exist	VBP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 kernel	NN	_ <O>
 of	IN	_ <O>
@@ -70,7 +71,8 @@ and	CC	_ <O>
 third	JJ	_ <O>
 centuries	NNS	_ <O>
 BC.	XX	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 may	MD	_ <O>
 be	VB	_ <O>
@@ -82,4 +84,5 @@ the	DT	_ <O>
 Buddha	NNP	_ <O>
 himself	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

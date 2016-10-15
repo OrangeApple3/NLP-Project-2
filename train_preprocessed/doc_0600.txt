@@ -19,7 +19,8 @@ Albany	NNP	_ <O>
 New	NNP	_ <O>
 York	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 has	VBZ	_ <O>
 been	VBN	_ <O>
@@ -38,7 +39,8 @@ made	VBN	_ <O>
 in	IN	_ <O>
 1992	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Seven	CD	_ <O>
 spans	VBZ	_ <O>
 are	VBP	<B-CUE>
@@ -55,7 +57,8 @@ and	CC	_ <O>
 concrete	JJ	_ <O>
 decks	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 other	JJ	_ <O>
 three	CD	_ <O>
@@ -72,4 +75,5 @@ by	IN	_ <O>
 plate	NN	_ <O>
 girders	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

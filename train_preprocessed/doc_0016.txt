@@ -22,7 +22,8 @@ potential	JJ	_ <O>
 science	NN	_ <O>
 targets	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 MARDI	NNP	_ <O>
 was	VBD	_ <O>
 built	VBN	_ <O>
@@ -47,7 +48,8 @@ land	VB	_ <O>
 on	IN	_ <O>
 Mars	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 would	MD	_ <O>
 have	VB	_ <O>
@@ -69,7 +71,8 @@ other	JJ	_ <O>
 space	NN	_ <O>
 cameras	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 had	VBD	_ <O>
 originally	RB	_ <O>
@@ -113,4 +116,5 @@ Phoenix	NNP	_ <O>
 '	''	_ <O>
 lander	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

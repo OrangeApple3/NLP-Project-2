@@ -12,7 +12,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 mountains	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	_ <O>
 farm	NN	_ <O>
 workers	NNS	_ <O>
@@ -40,7 +41,8 @@ Ottoman	NNP	_ <O>
 owned	VBN	_ <O>
 farms	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 remarkable	JJ	_ <O>
@@ -75,7 +77,8 @@ Megleno	NNP	_ <O>
 -	HYPH	_ <O>
 Romanian	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Researcher	NNP	_ <O>
 Maria	NNP	_ <O>
 Papageorgiou	NNP	_ <O>
@@ -106,4 +109,5 @@ dialect	NN	_ <O>
 as	IN	_ <O>
 tales	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

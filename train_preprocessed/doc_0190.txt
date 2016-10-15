@@ -9,7 +9,8 @@ the	DT	<B-CUE>
 others	NNS	<I-CUE>
 refused	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 most	RBS	_ <O>
 known	VBN	_ <O>
@@ -33,7 +34,8 @@ Gronkiewicz	NNP	_ <O>
 -	HYPH	_ <O>
 Waltz	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Polish	JJ	<B-CUE>
 legal	JJ	<I-CUE>
 experts	NNS	<I-CUE>
@@ -65,7 +67,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 law	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 Tuesday	NNP	_ <O>
 ,	,	_ <O>
@@ -104,4 +107,5 @@ other	JJ	<I-CUE>
 public	JJ	<I-CUE>
 officials	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

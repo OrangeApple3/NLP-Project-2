@@ -15,7 +15,8 @@ has	VBZ	_ <O>
 ever	RB	_ <O>
 happened	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 World	NNP	_ <O>
 War	NNP	_ <O>
@@ -38,7 +39,8 @@ supply	NN	_ <O>
 of	IN	_ <O>
 rubber	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 was	VBD	_ <O>
 needed	VBN	_ <O>
@@ -63,7 +65,8 @@ and	CC	_ <O>
 even	RB	_ <O>
 bombers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	TO	_ <O>
 help	VB	_ <O>
 combat	VB	_ <O>
@@ -95,7 +98,8 @@ rubber	NN	_ <O>
 rain	NN	_ <O>
 coats	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 All	DT	_ <O>
 rubber	NN	_ <O>
 made	VBN	_ <O>
@@ -117,7 +121,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 war	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 in	IN	_ <O>
 response	NN	_ <O>
@@ -136,4 +141,5 @@ synthetic	JJ	_ <O>
 rubber	NN	_ <O>
 compound	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

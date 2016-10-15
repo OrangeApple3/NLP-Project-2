@@ -31,7 +31,8 @@ pure	JJ	_ <O>
 cinema	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Thus	RB	_ <O>
 ,	,	_ <O>
 despite	IN	_ <O>
@@ -78,7 +79,8 @@ the	DT	_ <O>
 Prime	NNP	_ <O>
 Minister	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Thus	RB	_ <O>
 ,	,	_ <O>
 only	RB	_ <O>
@@ -91,7 +93,8 @@ attended	VBD	_ <O>
 the	DT	_ <O>
 show	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 some	DT	<B-CUE>
 were	VBD	_ <O>
@@ -120,4 +123,5 @@ invading	VBG	_ <O>
 the	DT	_ <O>
 screen	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

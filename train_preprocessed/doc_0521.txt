@@ -24,7 +24,8 @@ husband	NN	_ <O>
 ,	,	_ <O>
 Otto	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 She	PRP	_ <O>
 visited	VBD	_ <O>
 contemporary	JJ	_ <O>
@@ -42,7 +43,8 @@ of	IN	_ <O>
 Paul	NNP	_ <O>
 Cézanne	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Fauve	NNP	_ <O>
 influences	NNS	_ <O>
 may	MD	_ <O>
@@ -53,7 +55,8 @@ such	JJ	_ <O>
 works	NNS	_ <O>
 as	IN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 influence	NN	_ <O>
 by	IN	_ <O>
@@ -94,4 +97,5 @@ Peat	NN	_ <O>
 Cutters	NNPS	_ <O>
 '	POS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

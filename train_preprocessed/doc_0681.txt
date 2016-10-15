@@ -30,7 +30,8 @@ federal	JJ	_ <O>
 habeas	NNS	_ <O>
 petition	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Court	NNP	_ <O>
 ruled	VBD	_ <O>
@@ -63,7 +64,8 @@ execution	NN	_ <O>
 was	VBD	_ <O>
 imminent	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 "	``	_ <O>
 An	DT	_ <O>
 empty	JJ	_ <O>
@@ -96,7 +98,8 @@ state	NN	_ <O>
 remedies	NNS	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Accordingly	RB	_ <O>
 ,	,	_ <O>
 Panetti	NNP	_ <O>
@@ -128,4 +131,5 @@ Panetti	NNP	_ <O>
 's	POS	_ <O>
 appeal	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -27,7 +27,8 @@ the	DT	_ <O>
 Amateur	NNP	_ <O>
 Draft	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Lo	NNP	_ <O>
 Duca	NNP	_ <O>
 drew	VBD	_ <O>
@@ -68,7 +69,8 @@ Italian	JJ	_ <O>
 American	JJ	_ <O>
 ancestry	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 the	DT	_ <O>
 other	JJ	_ <O>
@@ -96,7 +98,8 @@ power	NN	_ <O>
 hitting	VBG	_ <O>
 Piazza	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Lo	NNP	_ <O>
 Duca	NNP	_ <O>
 would	MD	_ <O>
@@ -133,4 +136,5 @@ in	IN	_ <O>
 recent	JJ	_ <O>
 memory	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

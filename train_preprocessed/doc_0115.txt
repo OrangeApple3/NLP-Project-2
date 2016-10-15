@@ -17,7 +17,8 @@ repaired	VBN	_ <O>
 many	JJ	<B-CUE>
 times	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 speculate	VB	<B-CUE>
 that	IN	_ <O>
@@ -45,7 +46,8 @@ for	IN	_ <O>
 another	DT	_ <O>
 country	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 this	DT	_ <O>
 he	PRP	_ <O>
@@ -70,7 +72,8 @@ number	NN	_ <O>
 of	IN	_ <O>
 years	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 17th	JJ	_ <O>
@@ -95,4 +98,5 @@ in	IN	_ <O>
 -	SYM	_ <O>
 1866	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

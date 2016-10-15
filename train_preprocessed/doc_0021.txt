@@ -67,7 +67,8 @@ resigning	VBG	_ <O>
 the	DT	_ <O>
 presidency	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 reality	NN	_ <O>
 ,	,	_ <O>
@@ -80,7 +81,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 rumours	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Critics	NNS	<B-CUE>
 questioned	VBD	<B-CUE>
 why	WRB	_ <O>
@@ -101,7 +103,8 @@ circles	NNS	<I-CUE>
 had	VBD	_ <O>
 heard	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hillery	NNP	_ <O>
 however	RB	_ <O>
 defended	VBD	_ <O>
@@ -146,4 +149,5 @@ of	IN	_ <O>
 a	DT	_ <O>
 denial	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -45,7 +45,8 @@ break	VB	_ <O>
 up	RP	_ <O>
 demonstrations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Hermes	NNP	_ <O>
 Rafael	NNP	_ <O>
 Saguier	NNP	_ <O>
@@ -69,7 +70,8 @@ charges	NNS	_ <O>
 of	IN	_ <O>
 sedition	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 early	JJ	_ <O>
 February	NNP	_ <O>
@@ -89,7 +91,8 @@ in	IN	_ <O>
 Coronel	NNP	_ <O>
 Oviedo	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Forty	CD	_ <O>
 -	HYPH	_ <O>
 eight	CD	_ <O>
@@ -111,4 +114,5 @@ under	IN	_ <O>
 house	NN	_ <O>
 arrest	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

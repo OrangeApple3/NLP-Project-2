@@ -10,7 +10,8 @@ body	NN	_ <O>
 custody	NN	_ <O>
 hearing	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Judge	NNP	_ <O>
 Seidlin	NNP	_ <O>
 was	VBD	_ <O>
@@ -77,7 +78,8 @@ Judge	NNP	_ <O>
 Judy	NNP	_ <O>
 's	POS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 judgment	NN	_ <O>
 was	VBD	_ <O>
@@ -116,4 +118,5 @@ conduct	NN	_ <O>
 was	VBD	_ <O>
 genuine	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

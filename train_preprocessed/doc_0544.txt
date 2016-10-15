@@ -35,7 +35,8 @@ Athena	NNP	_ <O>
 's	POS	_ <O>
 soldiers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 most	RBS	<B-CUE>
 -	HYPH	<I-CUE>
@@ -58,7 +59,8 @@ in	IN	_ <O>
 a	DT	_ <O>
 second	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Seiya	NNP	_ <O>
 starts	VBZ	_ <O>
 this	DT	_ <O>
@@ -80,7 +82,8 @@ a	DT	_ <O>
 few	JJ	_ <O>
 seconds	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 most	RBS	<B-CUE>
 powerful	JJ	<I-CUE>
@@ -115,4 +118,5 @@ into	IN	_ <O>
 the	DT	_ <O>
 ground	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

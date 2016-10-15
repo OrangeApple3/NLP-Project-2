@@ -22,7 +22,8 @@ Alabama	NNP	_ <O>
 United	NNP	_ <O>
 States	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 were	VBD	_ <O>
 the	DT	_ <O>
@@ -47,7 +48,8 @@ of	IN	_ <O>
 all	DT	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 band	NN	_ <O>
 is	VBZ	<B-CUE>
@@ -82,4 +84,5 @@ top	JJ	_ <O>
 country	NN	_ <O>
 groups	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

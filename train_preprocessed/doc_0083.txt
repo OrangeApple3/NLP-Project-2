@@ -70,7 +70,8 @@ Mounted	NNP	_ <O>
 Riflemen	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 siege	NN	_ <O>
 is	VBZ	<B-CUE>
@@ -84,7 +85,8 @@ Moorosi	NNP	_ <O>
 Rebellion	NNP	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 issue	NN	_ <O>
 that	WDT	_ <O>
@@ -100,7 +102,8 @@ the	DT	_ <O>
 Herschel	NNP	_ <O>
 area	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 aftermath	NN	_ <O>
@@ -134,4 +137,5 @@ the	DT	_ <O>
 colonial	JJ	_ <O>
 powers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

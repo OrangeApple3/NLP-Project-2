@@ -7,7 +7,8 @@ is	VBZ	_ <O>
 approximately	RB	_ <O>
 34,000	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pohnpei	NNP	_ <O>
 is	VBZ	_ <O>
 more	RBR	_ <O>
@@ -20,7 +21,8 @@ island	NN	_ <O>
 in	IN	_ <O>
 the	DT	_ <O>
 FSM.	NNP	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 largely	RB	_ <O>
@@ -54,7 +56,8 @@ and	CC	_ <O>
 cultural	JJ	_ <O>
 origins	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 indigenous	JJ	_ <O>
 makeup	NN	_ <O>
@@ -75,4 +78,5 @@ multiple	JJ	_ <O>
 regional	JJ	_ <O>
 ethnicities	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

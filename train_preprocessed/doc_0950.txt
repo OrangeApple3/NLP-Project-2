@@ -29,7 +29,8 @@ contributing	VBG	_ <O>
 anything	NN	_ <O>
 back	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Transgaming	VBG	_ <O>
 obtained	VBD	_ <O>
 the	DT	_ <O>
@@ -63,7 +64,8 @@ published	VBD	_ <O>
 their	PRP$	_ <O>
 software	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Transgaming	NN	_ <O>
 does	VBZ	_ <O>
 release	VB	_ <O>
@@ -90,7 +92,8 @@ not	RB	_ <O>
 free	JJ	_ <O>
 software	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Cedega	NN	_ <O>
 includes	VBZ	_ <O>
 licensed	VBD	_ <O>
@@ -125,4 +128,5 @@ not	RB	_ <O>
 to	TO	_ <O>
 disclose	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

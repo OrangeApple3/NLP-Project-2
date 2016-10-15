@@ -19,7 +19,8 @@ criticized	VBN	<B-CUE>
 as	IN	_ <O>
 racist	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Williams	NNP	_ <O>
 defended	VBD	_ <O>
 the	DT	_ <O>
@@ -32,7 +33,8 @@ out	IN	_ <O>
 of	IN	_ <O>
 context	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 an	DT	_ <O>
 article	NN	_ <O>
@@ -76,4 +78,5 @@ African	JJ	_ <O>
 American	JJ	_ <O>
 youth	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

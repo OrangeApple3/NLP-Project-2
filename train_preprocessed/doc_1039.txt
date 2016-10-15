@@ -14,7 +14,8 @@ attempts	NNS	_ <O>
 to	TO	_ <O>
 monopolize	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Businesses	NNS	_ <O>
 with	IN	_ <O>
 dominant	JJ	_ <O>
@@ -29,7 +30,8 @@ to	IN	_ <O>
 antitrust	JJ	_ <O>
 claims	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 because	IN	_ <O>
@@ -75,7 +77,8 @@ predatory	NN	_ <O>
 pricing	NN	_ <O>
 theory	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 If	IN	_ <O>
 there	EX	<B-CUE>
 is	VBZ	<I-CUE>
@@ -111,4 +114,5 @@ claim	NN	_ <O>
 would	MD	<B-CUE>
 fail	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

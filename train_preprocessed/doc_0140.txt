@@ -49,4 +49,5 @@ for	IN	_ <O>
 his	PRP$	_ <O>
 writing	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

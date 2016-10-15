@@ -54,7 +54,8 @@ the	DT	_ <O>
 same	JJ	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 's	VBZ	<I-CUE>
 been	VBN	<I-CUE>
@@ -99,4 +100,5 @@ discrimination	NN	_ <O>
 became	VBD	_ <O>
 illegal	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

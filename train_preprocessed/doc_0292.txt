@@ -15,7 +15,8 @@ was	VBD	_ <O>
 in	IN	_ <O>
 interviews	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1996	CD	_ <O>
 ,	,	_ <O>
@@ -47,7 +48,8 @@ most	RBS	_ <O>
 promising	JJ	_ <O>
 work	NN	_ <O>
 ?	.	_ <O>
- <O>
+
+NULL
 Ginsberg	NNP	_ <O>
 responded	VBD	_ <O>
 :	:	_ <O>
@@ -71,7 +73,8 @@ deal	NN	_ <O>
 of	IN	_ <O>
 empathy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 All	DT	_ <O>
 of	IN	_ <O>
 these	DT	_ <O>
@@ -85,7 +88,8 @@ passed	VBN	_ <O>
 through	IN	_ <O>
 Naropa	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 met	VBD	_ <O>
 Neal	NNP	_ <O>
@@ -100,7 +104,8 @@ of	IN	_ <O>
 his	PRP$	_ <O>
 energy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 I	PRP	_ <O>
 've	VB	_ <O>
 read	VBN	_ <O>
@@ -124,7 +129,8 @@ New	NNP	_ <O>
 Brunswick	NNP	_ <O>
 ,	,	_ <O>
 NJ.	NNP	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 family	NN	_ <O>
 comes	VBZ	_ <O>
@@ -160,7 +166,8 @@ a	DT	_ <O>
 black	JJ	_ <O>
 lesbian	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Paul	NNP	_ <O>
 Beatty	NNP	_ <O>
 is	VBZ	_ <O>
@@ -183,4 +190,5 @@ be	VB	_ <O>
 bop	NN	_ <O>
 sound	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

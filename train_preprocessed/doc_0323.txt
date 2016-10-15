@@ -20,7 +20,8 @@ the	DT	_ <O>
 United	NNP	_ <O>
 States	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Instead	RB	_ <O>
 of	IN	_ <O>
 throwing	VBG	_ <O>
@@ -51,7 +52,8 @@ Year	NNP	_ <O>
 Eve	NNP	_ <O>
 celebration	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 at	IN	_ <O>
@@ -71,7 +73,8 @@ upstate	JJ	_ <O>
 New	NNP	_ <O>
 York	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 65,000	CD	_ <O>
 people	NNS	_ <O>
 attended	VBD	_ <O>
@@ -86,7 +89,8 @@ over	IN	_ <O>
 two	CD	_ <O>
 days	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 number	NN	_ <O>
 of	IN	_ <O>
@@ -113,4 +117,5 @@ throughout	IN	_ <O>
 the	DT	_ <O>
 weekend	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

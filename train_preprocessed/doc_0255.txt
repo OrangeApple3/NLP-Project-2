@@ -8,7 +8,8 @@ from	IN	_ <O>
 all	DT	<B-CUE>
 directions	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 internet	NN	<I-CUE>
 sites	NNS	<I-CUE>
@@ -41,7 +42,8 @@ effective	JJ	_ <O>
 mathematics	NN	_ <O>
 program	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 believe	VB	_ <O>
 that	IN	_ <O>
@@ -66,4 +68,5 @@ should	MD	_ <O>
 be	VB	_ <O>
 abandoned	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

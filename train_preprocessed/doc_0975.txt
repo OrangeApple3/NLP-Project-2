@@ -21,7 +21,8 @@ preparing	VBG	_ <O>
 worship	NN	_ <O>
 services	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 position	NN	_ <O>
 is	VBZ	_ <O>
@@ -44,7 +45,8 @@ the	DT	_ <O>
 Anglican	NNP	_ <O>
 Communion	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 precentor	NN	_ <O>
 of	IN	_ <O>
@@ -77,7 +79,8 @@ choral	JJ	_ <O>
 singing	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 some	DT	<B-CUE>
 cathedrals	NNS	<I-CUE>
@@ -107,4 +110,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 Chapter	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -46,7 +46,8 @@ usually	RB	_ <O>
 hide	VB	_ <O>
 glue	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 "	``	_ <O>
 arms	NNS	_ <O>
@@ -61,7 +62,8 @@ cross	VB	_ <O>
 each	DT	_ <O>
 other	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 finished	JJ	_ <O>
 bow	NN	_ <O>
@@ -87,7 +89,8 @@ keep	VB	_ <O>
 out	RP	_ <O>
 moisture	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Traditionally	RB	<B-CUE>
 ,	,	_ <O>
 ox	JJ	_ <O>
@@ -111,4 +114,5 @@ leading	VBG	_ <O>
 to	IN	_ <O>
 spoilage	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

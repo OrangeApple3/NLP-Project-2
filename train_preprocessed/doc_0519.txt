@@ -36,7 +36,8 @@ to	TO	_ <O>
 be	VB	_ <O>
 displayed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Defenders	NNS	<B-CUE>
 of	IN	<I-CUE>
 the	DT	<I-CUE>
@@ -75,7 +76,8 @@ thus	RB	_ <O>
 not	RB	_ <O>
 allowed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Such	PDT	_ <O>
 a	DT	_ <O>
 policy	NN	_ <O>
@@ -101,4 +103,5 @@ anti	JJ	_ <O>
 Christian	JJ	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

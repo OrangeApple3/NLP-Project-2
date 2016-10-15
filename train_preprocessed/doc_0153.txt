@@ -9,7 +9,8 @@ known	VBN	_ <O>
 as	IN	_ <O>
 deductivism	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 same	JJ	_ <O>
 is	VBZ	_ <O>
@@ -23,7 +24,8 @@ other	JJ	_ <O>
 mathematical	JJ	_ <O>
 statements	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 usually	RB	<I-CUE>
@@ -42,7 +44,8 @@ the	DT	_ <O>
 game	NN	_ <O>
 hold	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 formalists	NNS	<I-CUE>
 would	MD	_ <O>
@@ -71,4 +74,5 @@ areas	NNS	_ <O>
 of	IN	_ <O>
 mathematics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

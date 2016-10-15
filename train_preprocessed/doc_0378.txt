@@ -14,7 +14,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 population	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Peasant	NN	_ <O>
 societies	NNS	_ <O>
 often	RB	_ <O>
@@ -25,7 +26,8 @@ social	JJ	_ <O>
 support	NN	_ <O>
 networks	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Especially	RB	_ <O>
 in	IN	_ <O>
 harder	JJR	_ <O>
@@ -55,7 +57,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 community	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Peasants	NNS	_ <O>
 usually	RB	_ <O>
 only	RB	_ <O>
@@ -69,4 +72,5 @@ two	CD	_ <O>
 at	IN	_ <O>
 most	JJS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

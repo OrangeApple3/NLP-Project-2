@@ -41,7 +41,8 @@ or	CC	_ <O>
 fewer	JJR	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 many	JJ	_ <O>
 years	NNS	_ <O>
@@ -87,7 +88,8 @@ Chinese	JJ	_ <O>
 was	VBD	_ <O>
 minimal	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 PRC	NNP	_ <O>
 issues	NNS	_ <O>
 were	VBD	_ <O>
@@ -96,7 +98,8 @@ considered	VBN	_ <O>
 wallpaper	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 always	RB	_ <O>
 ,	,	_ <O>
@@ -123,4 +126,5 @@ risen	VBN	_ <O>
 in	IN	_ <O>
 price	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

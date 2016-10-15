@@ -10,7 +10,8 @@ the	DT	_ <O>
 Szczecin	NNP	_ <O>
 Lagoon	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 From	IN	_ <O>
 there	RB	_ <O>
 it	PRP	_ <O>
@@ -43,4 +44,5 @@ the	DT	_ <O>
 Baltic	NNP	_ <O>
 Sea	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -6,7 +6,8 @@ Upbringing	NNP	_ <O>
 by	IN	_ <O>
 Cooperation	NNP	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 higher	JJR	_ <O>
 level	NN	_ <O>
@@ -28,7 +29,8 @@ the	DT	_ <O>
 common	JJ	_ <O>
 goal	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 common	JJ	_ <O>
 goal	NN	_ <O>
@@ -38,7 +40,8 @@ a	DT	_ <O>
 challenging	JJ	_ <O>
 project	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 some	DT	<B-CUE>
 popular	JJ	<I-CUE>
@@ -55,7 +58,8 @@ do	VB	_ <O>
 with	IN	_ <O>
 parenting	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 also	RB	_ <O>
 states	VBZ	_ <O>
@@ -74,4 +78,5 @@ two	CD	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

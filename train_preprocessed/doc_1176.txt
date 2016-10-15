@@ -33,7 +33,8 @@ heroin	NN	_ <O>
 codeine	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Methadone	NN	_ <O>
 does	VBZ	_ <O>
 not	RB	_ <O>
@@ -56,7 +57,8 @@ of	IN	_ <O>
 opioid	JJ	_ <O>
 withdrawal	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Therefore	RB	_ <O>
 ,	,	_ <O>
 harm	NN	_ <O>
@@ -87,7 +89,8 @@ and	CC	_ <O>
 healthy	JJ	_ <O>
 lifestyle	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Critics	NNS	<B-CUE>
 of	IN	<I-CUE>
 methadone	NN	<I-CUE>
@@ -113,7 +116,8 @@ does	VBZ	_ <O>
 not	RB	_ <O>
 work	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	<B-CUE>
 is	VBZ	<I-CUE>
 an	DT	<I-CUE>
@@ -140,7 +144,8 @@ regulated	VBN	_ <O>
 substitute	NN	_ <O>
 drug	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 could	MD	_ <O>
 potentially	RB	_ <O>
@@ -165,7 +170,8 @@ pursue	VB	_ <O>
 further	JJ	_ <O>
 education	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 are	VBP	_ <O>
 the	DT	_ <O>
@@ -191,7 +197,8 @@ members	NNS	_ <O>
 of	IN	_ <O>
 society	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Harm	NN	_ <O>
 reduction	NN	_ <O>
 is	VBZ	_ <O>
@@ -243,7 +250,8 @@ the	DT	_ <O>
 person	NN	_ <O>
 wants	VBZ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 for	IN	_ <O>
@@ -277,7 +285,8 @@ their	PRP$	_ <O>
 stated	VBN	_ <O>
 goals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 UK	NNP	_ <O>
@@ -312,4 +321,5 @@ underground	JJ	_ <O>
 street	NN	_ <O>
 market	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -19,7 +19,8 @@ Hoysala	NNP	_ <O>
 kingdom	NN	_ <O>
 itself	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 challenged	VBN	_ <O>
 Hoysalas	NNP	_ <O>
@@ -51,7 +52,8 @@ at	IN	_ <O>
 Srirangam	NNP	_ <O>
 also	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 first	RB	_ <O>
 vanquished	VBD	_ <O>
@@ -82,7 +84,8 @@ of	IN	_ <O>
 their	PRP$	_ <O>
 commanders	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Though	IN	_ <O>
 Rajendra	NNP	_ <O>
 III	NNP	_ <O>
@@ -127,4 +130,5 @@ by	IN	_ <O>
 marital	JJ	_ <O>
 relations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

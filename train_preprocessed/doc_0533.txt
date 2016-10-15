@@ -12,7 +12,8 @@ in	IN	_ <O>
 Makati	NNP	_ <O>
 City	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Another	DT	_ <O>
 incident	NN	_ <O>
 took	VBD	_ <O>
@@ -38,7 +39,8 @@ attacked	VBD	_ <O>
 the	DT	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 another	DT	_ <O>
 incident	NN	_ <O>
@@ -56,7 +58,8 @@ criminals	NNS	<I-CUE>
 captured	VBN	_ <O>
 people	NNS	<B-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Moy	NNP	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -77,4 +80,5 @@ attacking	VBG	_ <O>
 the	DT	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -19,7 +19,8 @@ for	IN	_ <O>
 these	DT	_ <O>
 birds	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 PolyOz	NNP	_ <O>
 states	NNS	_ <O>
 in	IN	_ <O>
@@ -38,7 +39,8 @@ mascot	NN	_ <O>
 or	CC	_ <O>
 symbol	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Punning	VBG	_ <O>
 on	IN	_ <O>
 '	``	_ <O>
@@ -62,7 +64,8 @@ mascot	NN	_ <O>
 or	CC	_ <O>
 symbol	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 2003	CD	_ <O>
 in	IN	_ <O>
@@ -85,4 +88,5 @@ and	CC	_ <O>
 support	NN	_ <O>
 groups	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

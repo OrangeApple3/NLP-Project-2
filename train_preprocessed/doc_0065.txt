@@ -18,7 +18,8 @@ remains	VBZ	_ <O>
 in	IN	_ <O>
 dispute	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 men	NNS	_ <O>
 among	IN	_ <O>
@@ -51,7 +52,8 @@ idea	NN	_ <O>
 is	VBZ	_ <O>
 concerned	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 these	DT	_ <O>
 differences	NNS	_ <O>
@@ -83,7 +85,8 @@ care	NN	_ <O>
 of	IN	_ <O>
 itself	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 are	VBP	_ <O>
 content	JJ	_ <O>
@@ -111,4 +114,5 @@ Small	JJ	_ <O>
 412	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

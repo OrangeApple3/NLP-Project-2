@@ -12,7 +12,8 @@ objectification	NN	_ <O>
 of	IN	_ <O>
 women	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 general	JJ	_ <O>
 environment	NN	_ <O>
@@ -31,7 +32,8 @@ demeaning	JJ	_ <O>
 to	IN	_ <O>
 women	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 restaurant	NN	_ <O>
 hires	VBZ	_ <O>
@@ -50,7 +52,8 @@ Hooters	NNP	_ <O>
 Girls	NNP	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Several	JJ	_ <O>
 discrimination	NN	_ <O>
 lawsuits	NNS	_ <O>
@@ -97,7 +100,8 @@ Hooters	NNP	_ <O>
 Girl	NNP	_ <O>
 uniform	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Men	NNS	_ <O>
 do	VBP	_ <O>
 find	VB	_ <O>
@@ -124,4 +128,5 @@ and	CC	_ <O>
 similar	JJ	_ <O>
 garb	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

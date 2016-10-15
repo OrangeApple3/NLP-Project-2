@@ -20,7 +20,8 @@ apparently	RB	_ <O>
 aware	JJ	_ <O>
 of	IN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 sound	JJ	_ <O>
 ,	,	_ <O>
@@ -37,7 +38,8 @@ form	NN	_ <O>
 of	IN	_ <O>
 matter	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 First	RB	_ <O>
 ,	,	_ <O>
 it	PRP	<B-CUE>
@@ -70,7 +72,8 @@ vibrate	VB	_ <O>
 producing	VBG	_ <O>
 sound	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Second	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -85,4 +88,5 @@ ships	NNS	_ <O>
 sensor	NN	_ <O>
 systems	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

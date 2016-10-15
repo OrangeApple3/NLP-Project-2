@@ -11,7 +11,8 @@ variety	NN	_ <O>
 of	IN	_ <O>
 reasons	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 may	MD	_ <O>
 desire	VB	_ <O>
@@ -50,7 +51,8 @@ their	PRP$	_ <O>
 own	JJ	_ <O>
 laptops	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 wireless	JJ	<I-CUE>
 networking	NN	<I-CUE>
@@ -72,7 +74,8 @@ their	PRP$	_ <O>
 network	NN	_ <O>
 unsecured	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Given	VBN	_ <O>
 the	DT	_ <O>
 rarity	NN	_ <O>
@@ -120,4 +123,5 @@ protect	VB	_ <O>
 their	PRP$	_ <O>
 network	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

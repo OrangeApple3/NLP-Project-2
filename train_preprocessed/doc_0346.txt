@@ -22,7 +22,8 @@ involved	JJ	_ <O>
 jet	NN	_ <O>
 fuel	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Though	IN	_ <O>
 fireproofing	NN	_ <O>
 had	VBD	_ <O>
@@ -50,7 +51,8 @@ before	IN	_ <O>
 being	VBG	_ <O>
 extinguished	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Early	JJ	_ <O>
 tests	NNS	_ <O>
 conducted	VBN	_ <O>
@@ -71,4 +73,5 @@ than	IN	_ <O>
 design	NN	_ <O>
 requirements	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

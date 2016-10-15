@@ -14,7 +14,8 @@ many	JJ	_ <O>
 large	JJ	_ <O>
 theatres	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 trap	NN	_ <O>
 room	NN	_ <O>
@@ -51,7 +52,8 @@ the	DT	_ <O>
 name	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 usually	RB	_ <O>
@@ -64,7 +66,8 @@ a	DT	_ <O>
 storage	NN	_ <O>
 area	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 often	RB	_ <O>
@@ -77,4 +80,5 @@ for	IN	_ <O>
 a	DT	_ <O>
 crossover	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

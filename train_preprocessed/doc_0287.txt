@@ -12,7 +12,8 @@ and	CC	_ <O>
 kept	VBD	_ <O>
 pigeons	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -38,7 +39,8 @@ squab	JJ	_ <O>
 meat	NN	_ <O>
 arose	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Ten	CD	_ <O>
 pairs	NNS	_ <O>
 of	IN	_ <O>
@@ -58,7 +60,8 @@ the	DT	_ <O>
 pigeon	NN	_ <O>
 keepers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 a	DT	_ <O>
 greater	JJR	_ <O>
@@ -104,7 +107,8 @@ by	IN	_ <O>
 their	PRP$	_ <O>
 father	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Establishing	VBG	_ <O>
 two	CD	_ <O>
 breeding	NN	_ <O>
@@ -136,4 +140,5 @@ parental	JJ	_ <O>
 performance	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -36,7 +36,8 @@ the	DT	_ <O>
 elite	JJ	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 populist	JJ	_ <O>
 appeal	NN	_ <O>
@@ -66,7 +67,8 @@ and	CC	_ <O>
 regional	JJ	_ <O>
 ones	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Populism	NN	_ <O>
 may	MD	_ <O>
 involve	VB	_ <O>
@@ -108,7 +110,8 @@ the	DT	_ <O>
 existing	VBG	_ <O>
 regime	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Today	NN	_ <O>
 the	DT	_ <O>
 term	NN	_ <O>
@@ -167,4 +170,5 @@ in	IN	_ <O>
 Latin	NNP	_ <O>
 America	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

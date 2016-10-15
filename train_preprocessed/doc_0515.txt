@@ -27,7 +27,8 @@ other	JJ	_ <O>
 western	JJ	_ <O>
 states	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 supports	VBZ	_ <O>
 many	JJ	<B-CUE>
@@ -43,7 +44,8 @@ socialist	JJ	<I-CUE>
 )	-RRB-	<I-CUE>
 ideas	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 has	VBZ	_ <O>
 said	VBN	_ <O>
@@ -77,7 +79,8 @@ socialism	NN	_ <O>
 not	RB	_ <O>
 capitalism	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Chomsky	NNP	_ <O>
 was	VBD	_ <O>
 also	RB	_ <O>
@@ -89,7 +92,8 @@ practiced	VBD	_ <O>
 in	IN	_ <O>
 Vietnam	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 a	DT	_ <O>
 speech	NN	_ <O>
@@ -149,4 +153,5 @@ socialist	JJ	_ <O>
 society	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

@@ -34,7 +34,8 @@ individualist	NN	_ <O>
 anarchism	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1844	CD	_ <O>
 ,	,	_ <O>
@@ -66,7 +67,8 @@ individualist	NN	_ <O>
 anarchism	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Stirner	NNP	_ <O>
 proposes	VBZ	_ <O>
 that	IN	_ <O>
@@ -122,4 +124,5 @@ its	PRP$	_ <O>
 reality	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

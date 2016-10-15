@@ -24,7 +24,8 @@ border	NN	_ <O>
 in	IN	_ <O>
 1916	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 World	NNP	_ <O>
 War	NNP	_ <O>
@@ -58,4 +59,5 @@ the	DT	_ <O>
 American	NNP	_ <O>
 Legion	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

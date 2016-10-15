@@ -46,7 +46,8 @@ backlands	NNS	_ <O>
 sertao	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 From	IN	_ <O>
 then	RB	_ <O>
 on	IN	_ <O>
@@ -67,7 +68,8 @@ and	CC	_ <O>
 more	RBR	_ <O>
 popular	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 singing	NN	_ <O>
 of	IN	_ <O>
@@ -84,7 +86,8 @@ than	IN	_ <O>
 one	CD	_ <O>
 .	.	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 On	IN	_ <O>
 his	PRP$	_ <O>
 way	NN	_ <O>
@@ -101,4 +104,5 @@ poet	NN	_ <O>
 Juvenal	NNP	_ <O>
 Galeno	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

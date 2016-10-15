@@ -29,7 +29,8 @@ several	JJ	_ <O>
 hundred	CD	_ <O>
 micrometers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Effect	NNP	_ <O>
 pigments	NNS	_ <O>
 ,	,	_ <O>
@@ -63,7 +64,8 @@ platelet	NN	_ <O>
 like	JJ	_ <O>
 particles	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 in	IN	_ <O>
 powder	NN	_ <O>
@@ -91,7 +93,8 @@ effects	NNS	_ <O>
 are	VBP	_ <O>
 achievable	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Reflection	NN	_ <O>
 ,	,	_ <O>
 multiple	JJ	_ <O>
@@ -122,4 +125,5 @@ can	MD	_ <O>
 be	VB	_ <O>
 different	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

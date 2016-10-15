@@ -27,7 +27,8 @@ and	CC	_ <O>
 pantograph	NN	_ <O>
 limitations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 important	JJ	_ <O>
@@ -69,7 +70,8 @@ high	JJ	_ <O>
 -	HYPH	_ <O>
 speeds	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Based	VBN	_ <O>
 on	IN	_ <O>
 current	JJ	_ <O>
@@ -90,7 +92,8 @@ by	IN	_ <O>
 maglev	NN	_ <O>
 trains	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 two	CD	_ <O>
 most	RBS	_ <O>
@@ -129,4 +132,5 @@ at	IN	_ <O>
 581	CD	_ <O>
 km/h	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

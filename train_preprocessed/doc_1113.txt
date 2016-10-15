@@ -17,7 +17,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 tips	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Due	IN	_ <O>
 to	IN	_ <O>
 their	PRP$	_ <O>
@@ -49,7 +50,8 @@ is	VBZ	_ <O>
 not	RB	_ <O>
 rounded	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 many	JJ	<B-CUE>
@@ -67,7 +69,8 @@ structure	NN	_ <O>
 and	CC	_ <O>
 colors	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 ideal	JJ	_ <O>
 weight	NN	_ <O>
@@ -75,4 +78,5 @@ is	VBZ	_ <O>
 6	CD	_ <O>
 pounds	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

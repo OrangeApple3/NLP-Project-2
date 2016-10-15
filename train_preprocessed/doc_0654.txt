@@ -20,7 +20,8 @@ unequal	JJ	_ <O>
 resource	NN	_ <O>
 distribution	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Japan	NNP	_ <O>
 imports	VBZ	_ <O>
 much	RB	_ <O>
@@ -45,7 +46,8 @@ high	JJ	_ <O>
 tech	NN	_ <O>
 workforce	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Continuing	VBG	_ <O>
 the	DT	_ <O>
 example	NN	_ <O>
@@ -94,7 +96,8 @@ from	IN	_ <O>
 another	DT	_ <O>
 state	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Trade	NN	_ <O>
 also	RB	_ <O>
 allows	VBZ	_ <O>
@@ -116,7 +119,8 @@ of	IN	_ <O>
 those	DT	_ <O>
 nations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 would	MD	<I-CUE>
 be	VB	<I-CUE>
@@ -136,7 +140,8 @@ for	IN	_ <O>
 a	DT	_ <O>
 war	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Finally	RB	_ <O>
 ,	,	_ <O>
 increased	VBD	_ <O>
@@ -171,4 +176,5 @@ become	VBP	_ <O>
 less	RBR	_ <O>
 evident	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

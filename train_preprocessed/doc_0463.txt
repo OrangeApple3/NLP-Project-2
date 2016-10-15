@@ -17,7 +17,8 @@ Griffin	NNP	_ <O>
 and	CC	_ <O>
 Holland	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 ONF	NNP	_ <O>
 had	VBD	_ <O>
@@ -40,7 +41,8 @@ International	NNP	_ <O>
 Movement	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 their	PRP$	_ <O>
 part	NN	_ <O>
@@ -66,7 +68,8 @@ many	JJ	<B-CUE>
 problems	NNS	<I-CUE>
 .	.	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 late	JJ	_ <O>
 1989	CD	_ <O>
@@ -95,4 +98,5 @@ UK	NNP	_ <O>
 in	IN	_ <O>
 1990	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

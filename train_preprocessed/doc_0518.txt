@@ -4,7 +4,8 @@ pocket	NN	_ <O>
 universes	NNS	_ <O>
 include	VBP	_ <O>
 :	:	_ <O>
- <O>
+
+NULL
 Pocket	NNP	_ <O>
 Realities	NNPS	_ <O>
 are	VBP	_ <O>
@@ -84,7 +85,8 @@ Heroes	NNPS	_ <O>
 Reborn	NNP	_ <O>
 sphere	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 container	NN	_ <O>
 in	IN	_ <O>
@@ -99,7 +101,8 @@ items	NNS	_ <O>
 in	IN	_ <O>
 Dead	NNP	_ <O>
 Souls	NNP	_ <O>
- <O>
+
+NULL
 All	DT	_ <O>
 variations	NNS	_ <O>
 of	IN	_ <O>
@@ -115,7 +118,8 @@ manga	NN	_ <O>
 and	CC	_ <O>
 anime	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Room	NNP	_ <O>
 of	IN	_ <O>
@@ -134,7 +138,8 @@ Harry	NNP	_ <O>
 Potter	NNP	_ <O>
 '	POS	_ <O>
 series	NN	_ <O>
- <O>
+
+NULL
 Bags	NNS	_ <O>
 of	IN	_ <O>
 holding	VBG	_ <O>
@@ -156,13 +161,15 @@ in	IN	_ <O>
 some	DT	_ <O>
 cases	NNS	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 Demiplanes	NNS	_ <O>
 in	IN	_ <O>
 the	DT	_ <O>
 D&D	NNP	_ <O>
 cosmology	NN	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 interior	NN	_ <O>
 of	IN	_ <O>
@@ -185,7 +192,8 @@ Doctor	NNP	_ <O>
 's	POS	_ <O>
 coat	NN	_ <O>
 )	-RRB-	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Tesseracted	NNP	_ <O>
 Volume	NN	_ <O>
@@ -200,7 +208,8 @@ the	DT	_ <O>
 Fantastic	NNP	_ <O>
 Four	NNP	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 '	``	_ <O>
 Land	NNP	_ <O>
@@ -208,7 +217,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 Lost	NNP	_ <O>
 '	''	_ <O>
- <O>
+
+NULL
 Hammerspace	NNP	_ <O>
 ,	,	_ <O>
 a	DT	_ <O>
@@ -234,7 +244,8 @@ of	IN	_ <O>
 nowhere	RB	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 853rd	JJ	_ <O>
@@ -272,7 +283,8 @@ surfaces	NNS	_ <O>
 almost	RB	_ <O>
 untouched	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Photon	NNP	_ <O>
 Nanotrance	NNP	_ <O>
 technology	NN	_ <O>
@@ -281,7 +293,8 @@ in	IN	_ <O>
 Phantasy	NNP	_ <O>
 Star	NNP	_ <O>
 Universe	NNP	_ <O>
- <O>
+
+NULL
 Omnyou	NNP	_ <O>
 Mystics	NNP	_ <O>
 from	IN	_ <O>
@@ -310,7 +323,8 @@ happened	VBN	_ <O>
 to	IN	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 D'ni	NNP	_ <O>
 used	VBD	_ <O>
@@ -328,7 +342,8 @@ industry	NN	_ <O>
 ,	,	_ <O>
 ex	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 final	JJ	_ <O>
@@ -394,7 +409,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 system	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 surfaces	NNS	_ <O>
 of	IN	_ <O>
@@ -407,7 +423,8 @@ game	NN	_ <O>
 Kingdom	NNP	_ <O>
 Hearts	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Terranigma	NNP	_ <O>
 features	VBZ	_ <O>
 a	DT	_ <O>
@@ -437,7 +454,8 @@ screen	NN	_ <O>
 and	CC	_ <O>
 study	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 videogame	NN	_ <O>
@@ -451,7 +469,8 @@ own	JJ	_ <O>
 pocket	NN	_ <O>
 universe	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 Superman	NNP	_ <O>
 continuity	NN	_ <O>
@@ -466,7 +485,8 @@ a	DT	_ <O>
 pocket	NN	_ <O>
 dimension	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 '	``	_ <O>
@@ -511,7 +531,8 @@ pocket	NN	_ <O>
 dimension	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 '	``	_ <O>
@@ -555,7 +576,8 @@ of	IN	_ <O>
 outer	JJ	_ <O>
 space	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 construct	NN	_ <O>
 of	IN	_ <O>
@@ -622,4 +644,5 @@ the	DT	_ <O>
 Outside	NNP	_ <O>
 World	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

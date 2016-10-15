@@ -32,7 +32,8 @@ the	DT	_ <O>
 Cuban	JJ	_ <O>
 leader	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Castro	NNP	_ <O>
 returned	VBD	_ <O>
 to	IN	_ <O>
@@ -80,7 +81,8 @@ in	IN	_ <O>
 New	NNP	_ <O>
 York	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Summary	JJ	_ <O>
 executions	NNS	_ <O>
 of	IN	_ <O>
@@ -146,4 +148,5 @@ the	DT	_ <O>
 new	JJ	_ <O>
 government	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

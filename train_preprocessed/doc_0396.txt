@@ -14,7 +14,8 @@ sleeping	VBG	_ <O>
 land	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Another	DT	_ <O>
 version	NN	_ <O>
 is	VBZ	_ <O>
@@ -39,7 +40,8 @@ to	IN	_ <O>
 Siberian	NNP	_ <O>
 Tatars	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Dr.	NNP	_ <O>
 Pamela	NNP	_ <O>
 Kyle	NNP	_ <O>
@@ -63,7 +65,8 @@ after	IN	_ <O>
 the	DT	_ <O>
 Sibe/Xibe	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Shaman	NNP	_ <O>
 Akkanat	NNP	_ <O>
 ,	,	_ <O>
@@ -107,7 +110,8 @@ the	DT	_ <O>
 Sibirga	NNP	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 modern	JJ	_ <O>
 meaning	NN	_ <O>
@@ -125,4 +129,5 @@ of	IN	_ <O>
 Siberia	NNP	_ <O>
 Khanate	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -48,7 +48,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 charge	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Because	IN	_ <O>
 there	EX	_ <O>
 were	VBD	_ <O>
@@ -89,7 +90,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 case	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Amid	IN	_ <O>
 resolutions	NNS	_ <O>
 urging	VBG	_ <O>
@@ -158,7 +160,8 @@ a	DT	_ <O>
 conclusion	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 those	DT	_ <O>
 games	NNS	_ <O>
@@ -182,4 +185,5 @@ rebounds	NNS	_ <O>
 per	IN	_ <O>
 game	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

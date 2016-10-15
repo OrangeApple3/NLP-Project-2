@@ -26,7 +26,8 @@ techno	NN	_ <O>
 in	IN	_ <O>
 Europe	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Access	NN	_ <O>
 58	CD	_ <O>
 tunes	NNS	_ <O>
@@ -76,7 +77,8 @@ just	RB	_ <O>
 a	DT	_ <O>
 few	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Access	NN	_ <O>
 58	CD	_ <O>
 remixers	NNS	_ <O>
@@ -116,7 +118,8 @@ Williams	NNP	_ <O>
 and	CC	_ <O>
 others	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Access	NN	_ <O>
 58	CD	_ <O>
 were	VBD	_ <O>
@@ -153,4 +156,5 @@ London	NNP	_ <O>
 ,	,	_ <O>
 England	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

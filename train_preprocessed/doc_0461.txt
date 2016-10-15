@@ -30,7 +30,8 @@ at	IN	_ <O>
 its	PRP$	_ <O>
 founding	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Ein	NNP	_ <O>
 Harod	NNP	_ <O>
 ,	,	_ <O>
@@ -45,4 +46,5 @@ with	IN	_ <O>
 215	CD	_ <O>
 members	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

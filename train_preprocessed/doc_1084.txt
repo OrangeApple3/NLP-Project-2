@@ -30,7 +30,8 @@ and	CC	_ <O>
 often	RB	_ <O>
 drooping	VBG	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 characteristic	NN	_ <O>
 of	IN	_ <O>
@@ -71,7 +72,8 @@ or	CC	_ <O>
 other	JJ	_ <O>
 damage	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 fact	NN	_ <O>
 ,	,	_ <O>
@@ -90,7 +92,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 world	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 cones	NNS	_ <O>
 are	VBP	_ <O>
@@ -118,4 +121,5 @@ serotinous	JJ	_ <O>
 cones	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

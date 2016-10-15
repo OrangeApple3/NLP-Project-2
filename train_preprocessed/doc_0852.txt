@@ -24,7 +24,8 @@ by	IN	_ <O>
 African	JJ	_ <O>
 Americans	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Because	IN	_ <O>
 Jones	NNP	_ <O>
 believed	VBD	_ <O>
@@ -54,7 +55,8 @@ African	JJ	<I-CUE>
 American	JJ	<I-CUE>
 artists	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 current	JJ	_ <O>
 collection	NN	_ <O>
@@ -85,7 +87,8 @@ African	JJ	_ <O>
 American	JJ	_ <O>
 artists	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 almost	RB	_ <O>
 two	CD	_ <O>
@@ -119,4 +122,5 @@ twenty	CD	_ <O>
 first	JJ	_ <O>
 centuries	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -32,7 +32,8 @@ them	PRP	_ <O>
 very	RB	_ <O>
 often	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 I	PRP	<B-CUE>
 advise	VBP	<I-CUE>
@@ -47,7 +48,8 @@ FireKing83	NNP	_ <O>
 on	IN	_ <O>
 Olympus	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 meeting	VBG	_ <O>
 him	PRP	_ <O>
@@ -70,4 +72,5 @@ male	JJ	_ <O>
 anus	NN	_ <O>
 's	POS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -9,7 +9,8 @@ the	DT	_ <O>
 Holy	NNP	_ <O>
 Land	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 number	NN	_ <O>
 of	IN	_ <O>
@@ -30,7 +31,8 @@ of	IN	_ <O>
 St.	NNP	_ <O>
 Augustine	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 were	VBD	_ <O>
 approved	VBN	_ <O>
@@ -58,7 +60,8 @@ Congregation	NNP	_ <O>
 was	VBD	_ <O>
 formed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 By	IN	<B-CUE>
 common	JJ	<I-CUE>
 consent	NN	<I-CUE>
@@ -69,4 +72,5 @@ been	VBN	_ <O>
 called	VBN	_ <O>
 Blessed	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

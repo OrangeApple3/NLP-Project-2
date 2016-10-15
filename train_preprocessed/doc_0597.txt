@@ -14,7 +14,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 Bible	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 She	PRP	_ <O>
 is	VBZ	_ <O>
 associated	VBN	_ <O>
@@ -57,4 +58,5 @@ and	CC	_ <O>
 ten	CC	_ <O>
 horns	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

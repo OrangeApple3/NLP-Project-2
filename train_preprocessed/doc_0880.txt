@@ -11,14 +11,16 @@ rich	JJ	_ <O>
 and	CC	_ <O>
 colorful	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Russians	NNPS	_ <O>
 have	VBP	_ <O>
 a	DT	_ <O>
 rich	JJ	_ <O>
 cuisine	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Russian	JJ	_ <O>
 art	NN	_ <O>
 is	VBZ	<B-CUE>
@@ -32,7 +34,8 @@ interesting	JJ	_ <O>
 and	CC	_ <O>
 unique	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Russians	NNPS	_ <O>
 are	VBP	<B-CUE>
 also	RB	<I-CUE>
@@ -43,7 +46,8 @@ sense	NN	_ <O>
 of	IN	_ <O>
 humour	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Russian	JJ	_ <O>
 literature	NN	_ <O>
 was	VBD	_ <O>
@@ -53,7 +57,8 @@ to	IN	_ <O>
 world	NN	_ <O>
 literature	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Russians	NNPS	_ <O>
 also	RB	_ <O>
 gave	VBD	_ <O>
@@ -66,4 +71,5 @@ very	RB	<I-CUE>
 famous	JJ	<I-CUE>
 composers	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

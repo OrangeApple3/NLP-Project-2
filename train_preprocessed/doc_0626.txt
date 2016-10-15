@@ -14,7 +14,8 @@ concept	NN	_ <O>
 Lamborghini	NNP	_ <O>
 Portofino	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Portofino	NNP	_ <O>
 was	VBD	<B-CUE>
@@ -49,7 +50,8 @@ cab	NN	_ <O>
 forward	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 cab	NN	_ <O>
 -	HYPH	_ <O>
@@ -70,7 +72,8 @@ relatively	RB	_ <O>
 short	JJ	_ <O>
 overhangs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 wheels	NNS	_ <O>
 where	WRB	_ <O>
@@ -96,4 +99,5 @@ of	IN	_ <O>
 the	DT	_ <O>
 time	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

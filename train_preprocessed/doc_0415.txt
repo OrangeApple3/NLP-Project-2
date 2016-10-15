@@ -61,7 +61,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 year	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 George	NNP	_ <O>
 Padmore	NNP	_ <O>
 ,	,	_ <O>
@@ -95,7 +96,8 @@ to	TO	_ <O>
 attend	VB	_ <O>
 himself	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 Jamaican	JJ	_ <O>
 newspaper	NN	_ <O>
@@ -131,7 +133,8 @@ of	IN	_ <O>
 Parliament	NNP	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 real	JJ	_ <O>
 attraction	NN	_ <O>
@@ -155,4 +158,5 @@ of	IN	<I-CUE>
 his	PRP$	<I-CUE>
 friends	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

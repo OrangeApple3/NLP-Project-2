@@ -13,7 +13,8 @@ several	JJ	_ <O>
 nations	NNS	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Two	CD	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -25,7 +26,8 @@ Rada	NNP	_ <O>
 and	CC	_ <O>
 Petwo	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Rada	NNP	_ <O>
 loa	VBZ	_ <O>
@@ -52,7 +54,8 @@ former	JJ	_ <O>
 Dahomean	NNP	_ <O>
 empire	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 scholars	NNS	<I-CUE>
 believe	VB	_ <O>
@@ -81,4 +84,5 @@ ships	NNS	_ <O>
 were	VBD	_ <O>
 launched	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

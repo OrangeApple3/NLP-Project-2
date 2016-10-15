@@ -44,7 +44,8 @@ differentiated	JJ	_ <O>
 than	IN	_ <O>
 itself	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Also	RB	_ <O>
 known	VBN	_ <O>
 as	IN	_ <O>
@@ -89,7 +90,8 @@ well	RB	_ <O>
 as	IN	_ <O>
 adults	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 a	DT	_ <O>
 result	NN	_ <O>
@@ -106,7 +108,8 @@ cell	NN	_ <O>
 a	DT	_ <O>
 misnomer	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pluripotent	JJ	_ <O>
 adult	NN	_ <O>
 stem	NN	_ <O>
@@ -132,7 +135,8 @@ umbilical	JJ	_ <O>
 cord	NN	_ <O>
 blood	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Most	RBS	<B-CUE>
 adult	JJ	<I-CUE>
 stem	NN	<I-CUE>
@@ -172,4 +176,5 @@ etc	FW	_ <O>
 .	.	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

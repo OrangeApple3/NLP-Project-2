@@ -23,7 +23,8 @@ with	IN	_ <O>
 six	CD	_ <O>
 students	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 had	VBD	_ <O>
 a	DT	_ <O>
@@ -41,4 +42,5 @@ on	IN	_ <O>
 American	JJ	_ <O>
 soil	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

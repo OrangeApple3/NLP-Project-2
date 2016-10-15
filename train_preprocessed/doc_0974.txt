@@ -35,7 +35,8 @@ deus	NN	_ <O>
 ex	NN	_ <O>
 machina	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Parker	NNP	_ <O>
 said	VBD	_ <O>
 of	IN	_ <O>
@@ -71,7 +72,8 @@ this	DT	_ <O>
 one	NN	_ <O>
 ?	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Parker	NNP	_ <O>
 said	VBD	_ <O>
 ,	,	_ <O>
@@ -125,7 +127,8 @@ back	RB	_ <O>
 for	IN	_ <O>
 Thanksgiving	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 But	CC	_ <O>
 we	PRP	_ <O>
 were	VBD	_ <O>
@@ -138,4 +141,5 @@ loved	VBD	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

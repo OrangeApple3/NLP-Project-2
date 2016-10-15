@@ -38,4 +38,5 @@ an	DT	_ <O>
 irreversible	JJ	_ <O>
 manner	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

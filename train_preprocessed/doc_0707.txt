@@ -16,7 +16,8 @@ demanding	VBG	_ <O>
 faster	JJR	_ <O>
 results	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -67,7 +68,8 @@ a	DT	_ <O>
 motorcycle	NN	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 his	PRP$	_ <O>
@@ -124,7 +126,8 @@ his	PRP$	_ <O>
 sparring	VBG	_ <O>
 partner	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Vehicles	NNS	_ <O>
 such	JJ	_ <O>
 as	IN	_ <O>
@@ -146,4 +149,5 @@ and	CC	_ <O>
 other	JJ	_ <O>
 objects	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

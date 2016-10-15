@@ -24,7 +24,8 @@ and	CC	_ <O>
 unemployment	NN	_ <O>
 benefits	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Icelanders	NNS	_ <O>
 also	RB	_ <O>
 have	VBP	_ <O>
@@ -35,7 +36,8 @@ healthcare	NN	_ <O>
 and	CC	_ <O>
 education	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 means	VBZ	_ <O>
 that	IN	_ <O>
@@ -50,7 +52,8 @@ other	JJ	_ <O>
 Nordic	JJ	_ <O>
 countries	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Ministry	NNP	_ <O>
 of	IN	_ <O>
@@ -60,7 +63,8 @@ the	DT	_ <O>
 healthcare	NN	_ <O>
 system	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Ministry	NNP	_ <O>
 of	IN	_ <O>
@@ -89,7 +93,8 @@ National	NNP	_ <O>
 Curriculum	NNP	_ <O>
 Guidelines	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -109,4 +114,5 @@ by	IN	_ <O>
 the	DT	_ <O>
 municipalities	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

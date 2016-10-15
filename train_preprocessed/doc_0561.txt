@@ -14,7 +14,8 @@ at	IN	_ <O>
 Lionsgate	NNP	_ <O>
 Entertainment	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 was	VBD	_ <O>
 assigned	VBN	_ <O>
@@ -33,7 +34,8 @@ the	DT	_ <O>
 prior	JJ	_ <O>
 year	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Upon	IN	_ <O>
 appointment	NN	_ <O>
 ,	,	_ <O>
@@ -56,4 +58,5 @@ is	VBZ	_ <O>
 becoming	VBG	_ <O>
 today	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

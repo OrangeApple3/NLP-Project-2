@@ -52,7 +52,8 @@ allied	VBD	_ <O>
 social	JJ	_ <O>
 movements	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 so	RB	_ <O>
 called	VBN	_ <O>
@@ -92,7 +93,8 @@ reunification	NN	_ <O>
 with	IN	_ <O>
 China	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	<B-CUE>
 few	JJ	<I-CUE>
 stations	NNS	<I-CUE>
@@ -130,7 +132,8 @@ the	DT	_ <O>
 Nationalist	NNP	_ <O>
 Party	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 With	IN	_ <O>
 the	DT	_ <O>
 DPP	NNP	_ <O>
@@ -174,4 +177,5 @@ pro	JJ	_ <O>
 -	HYPH	_ <O>
 government	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

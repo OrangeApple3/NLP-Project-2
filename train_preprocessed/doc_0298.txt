@@ -19,7 +19,8 @@ in	IN	_ <O>
 several	JJ	<B-CUE>
 areas	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Postage	NN	_ <O>
 stamps	NNS	_ <O>
 are	VBP	_ <O>
@@ -48,7 +49,8 @@ stamp	NN	_ <O>
 separation	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Perforations	NNS	_ <O>
 on	IN	_ <O>
 stamps	NNS	_ <O>
@@ -73,7 +75,8 @@ have	VBP	_ <O>
 smaller	JJR	_ <O>
 holes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 common	JJ	_ <O>
@@ -94,4 +97,5 @@ out	RP	_ <O>
 individual	JJ	_ <O>
 pages	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

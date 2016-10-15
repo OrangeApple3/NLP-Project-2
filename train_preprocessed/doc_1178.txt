@@ -31,7 +31,8 @@ named	VBN	_ <O>
 Tom	NNP	_ <O>
 Harris	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Seeming	VBG	_ <O>
 to	TO	_ <O>
 have	VB	_ <O>
@@ -88,7 +89,8 @@ embattled	JJ	_ <O>
 Christian	JJ	_ <O>
 school	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Caught	VBN	_ <O>
 in	IN	_ <O>
 the	DT	_ <O>
@@ -158,7 +160,8 @@ she	PRP	_ <O>
 bargained	VBD	_ <O>
 for	IN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Before	IN	_ <O>
 the	DT	_ <O>
 paths	NNS	_ <O>
@@ -222,4 +225,5 @@ of	IN	_ <O>
 religion	NN	_ <O>
 everywhere	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

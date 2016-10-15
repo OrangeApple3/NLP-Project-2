@@ -19,7 +19,8 @@ combinations	NNS	_ <O>
 and	CC	_ <O>
 sizes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Of	IN	_ <O>
 particular	JJ	_ <O>
 note	NN	_ <O>
@@ -34,7 +35,8 @@ by	IN	_ <O>
 many	JJ	<B-CUE>
 manufacturers	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Metallic	NNP	_ <O>
 (	-LRB-	_ <O>
 shiny	JJ	_ <O>
@@ -68,7 +70,8 @@ at	IN	_ <O>
 sporting	NN	_ <O>
 events	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 spectator	NN	_ <O>
 poms	NNS	_ <O>
@@ -80,4 +83,5 @@ or	CC	_ <O>
 Spirit	NNP	_ <O>
 poms	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

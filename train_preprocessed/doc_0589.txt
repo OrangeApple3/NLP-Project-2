@@ -16,7 +16,8 @@ in	IN	_ <O>
 World	NNP	_ <O>
 War	NNP	_ <O>
 II.	NNP	_ <O>
- <O>
+
+NULL
 Designed	VBN	_ <O>
 as	IN	_ <O>
 a	DT	_ <O>
@@ -48,7 +49,8 @@ and	CC	_ <O>
 French	JJ	_ <O>
 campaigns	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 By	IN	_ <O>
 the	DT	_ <O>
 end	NN	_ <O>
@@ -82,7 +84,8 @@ other	JJ	_ <O>
 armored	JJ	_ <O>
 vehicles	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1934	CD	_ <O>
 ,	,	_ <O>
@@ -104,7 +107,8 @@ were	VBD	_ <O>
 becoming	VBG	_ <O>
 apparent	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Production	NN	_ <O>
 began	VBD	_ <O>
 in	IN	_ <O>
@@ -127,4 +131,5 @@ to	TO	_ <O>
 be	VB	_ <O>
 delivered	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -32,7 +32,8 @@ drummer	NN	_ <O>
 John	NNP	_ <O>
 Murphy	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 played	VBD	_ <O>
 in	IN	_ <O>
@@ -49,4 +50,5 @@ little	JJ	_ <O>
 band	NN	_ <O>
 scene	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

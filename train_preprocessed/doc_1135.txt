@@ -18,7 +18,8 @@ Havilland	NNP	_ <O>
 Sea	NNP	_ <O>
 Vixen	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 remained	VBD	_ <O>
 in	IN	_ <O>
@@ -34,4 +35,5 @@ Lightning	NN	_ <O>
 in	IN	_ <O>
 1988	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

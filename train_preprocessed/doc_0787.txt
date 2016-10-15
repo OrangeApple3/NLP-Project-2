@@ -47,7 +47,8 @@ and	CC	_ <O>
 Drug	NNP	_ <O>
 Administration	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 ingredient	NN	_ <O>
 in	IN	_ <O>
@@ -67,7 +68,8 @@ beverage	NN	_ <O>
 's	POS	_ <O>
 sweetness	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 people	NNS	<I-CUE>
 claim	NN	_ <O>
@@ -95,4 +97,5 @@ aspartame	NN	_ <O>
 alone	RB	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

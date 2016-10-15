@@ -22,7 +22,8 @@ which	WDT	_ <O>
 they	PRP	_ <O>
 operate	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 computers	NNS	_ <O>
 became	VBD	_ <O>
@@ -102,7 +103,8 @@ and	CC	_ <O>
 so	RB	_ <O>
 forth	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Basically	RB	_ <O>
 ,	,	_ <O>
 any	DT	_ <O>
@@ -128,7 +130,8 @@ to	IN	_ <O>
 as	IN	_ <O>
 plaintext	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 may	MD	_ <O>
 not	RB	_ <O>
@@ -150,4 +153,5 @@ not	RB	_ <O>
 plain	JJ	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -25,7 +25,8 @@ golden	JJ	_ <O>
 rule	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 based	VBN	_ <O>
 upon	IN	_ <O>
@@ -64,7 +65,8 @@ eigenstate	JJ	_ <O>
 to	IN	_ <O>
 another	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 also	RB	_ <O>
@@ -111,7 +113,8 @@ and	CC	_ <O>
 neutron	NN	_ <O>
 stars	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Nonetheless	RB	_ <O>
 ,	,	_ <O>
 the	DT	_ <O>
@@ -132,4 +135,5 @@ many	JJ	_ <O>
 introductory	JJ	_ <O>
 textbooks	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

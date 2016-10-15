@@ -15,7 +15,8 @@ first	JJ	_ <O>
 major	JJ	_ <O>
 work	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 it	PRP	_ <O>
 he	PRP	_ <O>
@@ -37,7 +38,8 @@ were	VBD	_ <O>
 beasts	NNS	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 most	RBS	<B-CUE>
 comprehensive	JJ	<I-CUE>
@@ -60,7 +62,8 @@ of	IN	_ <O>
 Faith	NNP	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 it	PRP	_ <O>
 he	PRP	_ <O>
@@ -82,4 +85,5 @@ the	DT	_ <O>
 only	JJ	_ <O>
 head	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

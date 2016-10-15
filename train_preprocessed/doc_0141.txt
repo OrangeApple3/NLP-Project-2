@@ -16,7 +16,8 @@ Gallo	NNP	<I-CUE>
 Roman	NNP	<I-CUE>
 villas	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 One	CD	<B-CUE>
 of	IN	<I-CUE>
 the	DT	<I-CUE>
@@ -42,7 +43,8 @@ west	NN	_ <O>
 of	IN	_ <O>
 Dieppe	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 archaeologists	NNS	_ <O>
 found	VBD	_ <O>
@@ -58,7 +60,8 @@ a	DT	_ <O>
 square	JJ	_ <O>
 court	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	IN	_ <O>
 the	DT	_ <O>
 north	NN	_ <O>
@@ -73,4 +76,5 @@ heated	VBN	_ <O>
 by	IN	_ <O>
 hypocausts	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -12,7 +12,8 @@ New	NNP	_ <O>
 York	NNP	_ <O>
 City	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 M.I.A.	NN	_ <O>
 appears	VBZ	_ <O>
 as	IN	_ <O>
@@ -30,7 +31,8 @@ other	JJ	_ <O>
 New	NNP	_ <O>
 Yorkers	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 the	DT	_ <O>
 sound	NN	_ <O>
@@ -51,7 +53,8 @@ restaurant	NN	_ <O>
 signs	NNS	_ <O>
 appear	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 She	PRP	_ <O>
 can	MD	_ <O>
 be	VB	_ <O>
@@ -73,4 +76,5 @@ the	DT	_ <O>
 music	NN	_ <O>
 video	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -34,4 +34,5 @@ January	NNP	_ <O>
 ,	,	_ <O>
 2005	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

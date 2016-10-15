@@ -63,7 +63,8 @@ final	JJ	_ <O>
 third	NN	_ <O>
 converted	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	TO	_ <O>
 meet	VB	_ <O>
 the	DT	_ <O>
@@ -103,7 +104,8 @@ and	CC	_ <O>
 lower	JJR	_ <O>
 taxes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 this	DT	_ <O>
 did	VBD	_ <O>
@@ -142,7 +144,8 @@ and	CC	_ <O>
 Islam	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	TO	_ <O>
 try	VB	_ <O>
 to	TO	_ <O>
@@ -157,7 +160,8 @@ incentives	NNS	_ <O>
 were	VBD	<B-CUE>
 given	VBN	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Members	NNS	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>
@@ -198,7 +202,8 @@ Croat	NNP	_ <O>
 Orthodox	NNP	_ <O>
 Church	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Still	RB	_ <O>
 ,	,	_ <O>
 converts	NNS	_ <O>
@@ -210,4 +215,5 @@ Church	NNP	_ <O>
 were	VBD	_ <O>
 few	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

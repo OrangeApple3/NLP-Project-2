@@ -15,7 +15,8 @@ crossed	VBD	_ <O>
 the	DT	_ <O>
 ferry	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 19th	JJ	_ <O>
@@ -48,7 +49,8 @@ during	IN	_ <O>
 the	DT	_ <O>
 Summer	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Fr	NNP	_ <O>
 .	.	_ <O>
 T.R.	NNP	_ <O>
@@ -74,7 +76,8 @@ the	DT	_ <O>
 summer	NN	_ <O>
 season	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 other	JJ	_ <O>
 Baths	NNP	_ <O>
@@ -104,4 +107,5 @@ facility	NN	_ <O>
 near	IN	_ <O>
 Blarney	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

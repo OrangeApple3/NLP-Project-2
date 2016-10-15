@@ -55,7 +55,8 @@ of	IN	_ <O>
 certain	JJ	_ <O>
 substances	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 form	NN	_ <O>
 of	IN	_ <O>
@@ -90,7 +91,8 @@ on	IN	_ <O>
 Terrorism	NNP	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 word	NN	_ <O>
 "	``	_ <O>
@@ -122,4 +124,5 @@ tactics	NNS	_ <O>
 are	VBP	_ <O>
 effective	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

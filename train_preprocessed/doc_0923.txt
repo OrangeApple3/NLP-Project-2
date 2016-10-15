@@ -63,7 +63,8 @@ the	DT	_ <O>
 first	JJ	_ <O>
 place	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 With	IN	_ <O>
 his	PRP$	_ <O>
 dreadlocks	NNS	_ <O>
@@ -84,7 +85,8 @@ sheep	NNS	_ <O>
 clothing	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Christafari	NNP	_ <O>
 's	POS	_ <O>
 claim	NN	_ <O>
@@ -137,7 +139,8 @@ word	NN	_ <O>
 of	IN	_ <O>
 God	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 dislike	VBP	_ <O>
 the	DT	_ <O>
@@ -152,7 +155,8 @@ in	IN	_ <O>
 occult	NN	_ <O>
 practice	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Mohr	NNP	_ <O>
 's	POS	_ <O>
 claim	NN	_ <O>
@@ -176,4 +180,5 @@ rejects	VBZ	_ <O>
 cocaine	NN	_ <O>
 use	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -9,7 +9,8 @@ and	CC	_ <O>
 Girl	NNP	_ <O>
 Guiding	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	_ <O>
 Scout	NN	_ <O>
 and	CC	_ <O>
@@ -30,7 +31,8 @@ small	JJ	_ <O>
 and	CC	_ <O>
 large	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 camp	NN	_ <O>
 ,	,	_ <O>
@@ -54,7 +56,8 @@ decorative	JJ	_ <O>
 camp	NN	_ <O>
 gateways	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Pioneering	NN	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -75,4 +78,5 @@ the	DT	_ <O>
 1920s	NNS	_ <O>
 and	CC	_ <O>
 1930s	NNS	_ <O>
- <O>
+
+NULL

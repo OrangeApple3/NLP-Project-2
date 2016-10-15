@@ -25,7 +25,8 @@ based	VBN	_ <O>
 NW	NNP	_ <O>
 Natural	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 '	``	_ <O>
 The	DT	_ <O>
 corporate	JJ	_ <O>
@@ -76,7 +77,8 @@ rapidly	RB	_ <O>
 declining	VBG	_ <O>
 stock	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 Ken	NNP	_ <O>
@@ -131,7 +133,8 @@ PGE	NNP	_ <O>
 corporate	JJ	_ <O>
 offices	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 addition	NN	_ <O>
 Tim	NNP	_ <O>
@@ -189,4 +192,5 @@ California	NNP	_ <O>
 Electricity	NNP	_ <O>
 Crisis	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

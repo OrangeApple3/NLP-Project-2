@@ -22,7 +22,8 @@ for	IN	_ <O>
 that	DT	_ <O>
 trait	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Thus	RB	_ <O>
 ,	,	_ <O>
 a	DT	_ <O>
@@ -68,7 +69,8 @@ the	DT	_ <O>
 blue	JJ	_ <O>
 trait	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Beyond	IN	_ <O>
 the	DT	_ <O>
 base	NN	_ <O>
@@ -89,7 +91,8 @@ any	DT	_ <O>
 other	JJ	_ <O>
 mutation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 with	IN	_ <O>
 the	DT	_ <O>
@@ -125,7 +128,8 @@ for	IN	_ <O>
 that	DT	_ <O>
 trait	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Sex	NN	_ <O>
 -	HYPH	_ <O>
 linked	VBN	_ <O>
@@ -154,7 +158,8 @@ of	IN	_ <O>
 a	DT	_ <O>
 bird	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 These	DT	_ <O>
 genes	NNS	_ <O>
 are	VBP	_ <O>
@@ -174,4 +179,5 @@ Y	NN	_ <O>
 ”	-RRB-	_ <O>
 genes	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

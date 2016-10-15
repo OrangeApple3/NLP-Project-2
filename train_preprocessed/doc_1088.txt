@@ -44,7 +44,8 @@ de	FW	_ <O>
 feriados	FW	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 claim	NN	_ <O>
 that	IN	_ <O>
@@ -62,7 +63,8 @@ the	DT	_ <O>
 English	JJ	_ <O>
 language	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 2007	CD	_ <O>
 ,	,	_ <O>
@@ -99,4 +101,5 @@ a	DT	_ <O>
 printing	VBG	_ <O>
 mistake	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

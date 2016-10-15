@@ -16,7 +16,8 @@ flag	NN	_ <O>
 in	IN	_ <O>
 routines	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 performing	VBG	_ <O>
 art	NN	_ <O>
@@ -33,7 +34,8 @@ various	JJ	<B-CUE>
 school	NN	<I-CUE>
 districts	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Although	IN	_ <O>
 pep	JJ	_ <O>
 flags	NNS	_ <O>
@@ -61,7 +63,8 @@ and	CC	_ <O>
 more	JJR	_ <O>
 popularity	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 particular	JJ	_ <O>
 style	NN	_ <O>
@@ -102,7 +105,8 @@ Ohio	NNP	_ <O>
 and	CC	_ <O>
 Wisconsin	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Twirling	NNP	_ <O>
 has	VBZ	_ <O>
 also	RB	_ <O>
@@ -127,7 +131,8 @@ the	DT	_ <O>
 United	NNP	_ <O>
 Kingdom	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Depending	VBG	_ <O>
 on	IN	_ <O>
 the	DT	_ <O>
@@ -155,7 +160,8 @@ majorettes	NNS	_ <O>
 or	CC	_ <O>
 precision/prop	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Usually	RB	_ <O>
 ,	,	_ <O>
 pep	NN	_ <O>
@@ -192,7 +198,8 @@ flags	NNS	_ <O>
 '	''	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 much	JJ	_ <O>
@@ -222,7 +229,8 @@ and	CC	_ <O>
 good	JJ	_ <O>
 sportmanship	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Many	JJ	<B-CUE>
 flag	NN	<I-CUE>
 routines	NNS	<I-CUE>
@@ -263,4 +271,5 @@ as	IN	_ <O>
 exchanges	NNS	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

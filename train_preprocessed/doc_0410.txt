@@ -19,7 +19,8 @@ the	DT	_ <O>
 residency	NN	_ <O>
 requirement	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Lawful	NNP	_ <O>
 Permanent	NNP	_ <O>
 Residents	NNS	_ <O>
@@ -84,7 +85,8 @@ federal	JJ	_ <O>
 government	NN	_ <O>
 jobs	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Permanent	JJ	_ <O>
 residents	NNS	_ <O>
 who	WP	_ <O>
@@ -104,7 +106,8 @@ like	IN	_ <O>
 U.S.	NNP	_ <O>
 citizens	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Certain	JJ	<B-CUE>
 conditions	NNS	<I-CUE>
 that	WDT	_ <O>
@@ -123,4 +126,5 @@ to	IN	_ <O>
 U.S.	NNP	_ <O>
 citizens	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

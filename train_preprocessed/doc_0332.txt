@@ -38,7 +38,8 @@ Jerzy	NNP	_ <O>
 Hewel	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Because	IN	_ <O>
 the	DT	_ <O>
 Sejm	NNP	_ <O>
@@ -75,7 +76,8 @@ created	VBN	_ <O>
 at	IN	_ <O>
 all	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 gave	VBD	_ <O>
 to	IN	_ <O>
@@ -96,7 +98,8 @@ small	JJ	_ <O>
 caliber	NN	_ <O>
 cannons	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Additionally	RB	_ <O>
 the	DT	_ <O>
 king	NN	_ <O>
@@ -146,4 +149,5 @@ serious	JJ	_ <O>
 repair	NN	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

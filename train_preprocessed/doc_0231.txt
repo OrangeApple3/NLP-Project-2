@@ -20,7 +20,8 @@ deprived	VBN	_ <O>
 of	IN	_ <O>
 shelter	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 person	NN	_ <O>
 who	WP	_ <O>
@@ -38,7 +39,8 @@ deprived	VBN	_ <O>
 of	IN	_ <O>
 education	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 person	NN	_ <O>
 who	WP	_ <O>
@@ -59,7 +61,8 @@ deprived	VBN	_ <O>
 of	IN	_ <O>
 information	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 All	DT	_ <O>
 people	NNS	_ <O>
 who	WP	_ <O>
@@ -96,4 +99,5 @@ in	IN	_ <O>
 absolute	JJ	_ <O>
 poverty	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

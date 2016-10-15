@@ -33,7 +33,8 @@ on	IN	_ <O>
 weekday	NN	_ <O>
 afternoons	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 is	VBZ	_ <O>
 the	DT	_ <O>
@@ -59,4 +60,5 @@ and	CC	_ <O>
 business	NN	_ <O>
 coverage	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

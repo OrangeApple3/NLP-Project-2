@@ -37,7 +37,8 @@ large	JJ	_ <O>
 audience	NN	_ <O>
 assembled	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 tore	VBD	_ <O>
 down	RP	_ <O>
@@ -89,7 +90,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 ground	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Leaving	VBG	_ <O>
 me	PRP	_ <O>
 thus	RB	_ <O>
@@ -124,7 +126,8 @@ of	IN	_ <O>
 them	PRP	_ <O>
 resided	VBD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 I	PRP	_ <O>
 have	VBP	_ <O>
 lately	RB	_ <O>
@@ -200,4 +203,5 @@ me	PRP	_ <O>
 so	RB	_ <O>
 kindly	RB	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

@@ -13,7 +13,8 @@ on	IN	_ <O>
 two	CD	_ <O>
 grounds	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Firstly	RB	_ <O>
 ,	,	_ <O>
 it	PRP	_ <O>
@@ -46,7 +47,8 @@ recordings	NNS	_ <O>
 and	CC	_ <O>
 films	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 other	JJ	_ <O>
 words	NNS	_ <O>
@@ -75,7 +77,8 @@ photograph	NN	_ <O>
 being	VBG	_ <O>
 taken	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 is	VBZ	<I-CUE>
 argued	VBN	<I-CUE>
@@ -103,7 +106,8 @@ rather	RB	_ <O>
 than	IN	_ <O>
 creation	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -125,7 +129,8 @@ art	NN	_ <O>
 of	IN	_ <O>
 inclusion	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Secondly	RB	_ <O>
 ,	,	_ <O>
 it	PRP	<B-CUE>
@@ -144,7 +149,8 @@ to	IN	_ <O>
 bizarre	JJ	_ <O>
 results	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -185,7 +191,8 @@ recreate	VB	_ <O>
 the	DT	_ <O>
 photograph	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Similarly	RB	_ <O>
 ,	,	_ <O>
 it	PRP	<B-CUE>
@@ -232,7 +239,8 @@ a	DT	_ <O>
 similar	JJ	_ <O>
 pose	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 That	DT	_ <O>
 said	VBD	_ <O>
 ,	,	_ <O>
@@ -248,7 +256,8 @@ is	VBZ	_ <O>
 very	RB	_ <O>
 low	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -281,7 +290,8 @@ subsisted	VBD	_ <O>
 in	IN	_ <O>
 it	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Essentially	RB	_ <O>
 ,	,	_ <O>
 by	IN	_ <O>
@@ -322,4 +332,5 @@ deserving	VBG	_ <O>
 of	IN	_ <O>
 protection	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

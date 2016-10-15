@@ -22,7 +22,8 @@ is	VBZ	_ <O>
 not	RB	_ <O>
 clear	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Referring	VBG	_ <O>
 to	IN	_ <O>
 the	DT	_ <O>
@@ -77,7 +78,8 @@ n't	RB	_ <O>
 relevant	JJ	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Addressing	VBG	_ <O>
 a	DT	_ <O>
 specific	JJ	_ <O>
@@ -146,7 +148,8 @@ Institute	NNP	_ <O>
 's	POS	_ <O>
 list	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 's	VBZ	_ <O>
 like	IN	_ <O>
@@ -177,4 +180,5 @@ does	VBZ	_ <O>
 n't	RB	_ <O>
 exist	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

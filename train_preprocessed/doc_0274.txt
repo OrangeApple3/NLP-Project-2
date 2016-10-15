@@ -12,4 +12,5 @@ for	IN	_ <O>
 Real	NNP	_ <O>
 Madrid	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

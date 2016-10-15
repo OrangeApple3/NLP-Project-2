@@ -29,7 +29,8 @@ m	LS	_ <O>
 )	-RRB-	_ <O>
 sections	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 pipe	NN	_ <O>
 segments	NNS	_ <O>
@@ -60,7 +61,8 @@ from	IN	_ <O>
 vitrified	JJ	_ <O>
 clay	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Roots	NNS	_ <O>
 from	IN	_ <O>
 trees	NNS	_ <O>
@@ -92,7 +94,8 @@ corroded	VBN	_ <O>
 cast	NN	_ <O>
 iron	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Eventually	RB	_ <O>
 a	DT	_ <O>
 root	NN	_ <O>
@@ -128,4 +131,5 @@ a	DT	_ <O>
 rooticide	NN	_ <O>
 '	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

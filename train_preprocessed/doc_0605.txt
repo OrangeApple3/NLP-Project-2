@@ -10,4 +10,5 @@ affected	VBN	_ <O>
 comic	JJ	_ <O>
 strips	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

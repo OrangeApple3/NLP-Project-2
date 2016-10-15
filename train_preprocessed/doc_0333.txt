@@ -20,7 +20,8 @@ Native	JJ	_ <O>
 American	JJ	_ <O>
 languages	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 confusion	NN	_ <O>
 prompted	VBD	_ <O>
@@ -77,7 +78,8 @@ Oto	NNP	_ <O>
 Manguean	NNP	_ <O>
 languages	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 indigenous	JJ	<I-CUE>
 communities	NNS	<I-CUE>
@@ -108,7 +110,8 @@ used	VBN	_ <O>
 about	IN	_ <O>
 them	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Below	RB	_ <O>
 is	VBZ	_ <O>
 a	DT	_ <O>
@@ -143,4 +146,5 @@ and	CC	<I-CUE>
 governmental	JJ	<I-CUE>
 publications	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

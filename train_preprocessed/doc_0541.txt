@@ -23,7 +23,8 @@ to	IN	_ <O>
 the	DT	_ <O>
 monarchy	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 repeal	NN	_ <O>
 of	IN	_ <O>
@@ -37,7 +38,8 @@ on	IN	_ <O>
 November	NNP	_ <O>
 2006	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 ,	,	_ <O>
 martial	JJ	_ <O>
@@ -51,7 +53,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 country	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 approval	NN	_ <O>
 of	IN	_ <O>
@@ -73,7 +76,8 @@ to	IN	_ <O>
 three	CD	_ <O>
 years	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 establishment	NN	_ <O>
 of	IN	_ <O>
@@ -92,7 +96,8 @@ anti	JJ	_ <O>
 junta	NN	_ <O>
 protests	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 General	NNP	_ <O>
 Saprang	NNP	_ <O>
 Kallayanamit	NNP	_ <O>
@@ -112,7 +117,8 @@ of	IN	_ <O>
 the	DT	_ <O>
 force	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Arresting	VBG	_ <O>
 26	CD	_ <O>
 Bo	NNP	_ <O>
@@ -129,7 +135,8 @@ a	DT	_ <O>
 major	JJ	_ <O>
 fire	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 protestors	NNS	_ <O>
 were	VBD	_ <O>
@@ -147,7 +154,8 @@ than	IN	_ <O>
 10	CD	_ <O>
 people	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 later	RB	_ <O>
 refused	VBD	_ <O>
@@ -161,7 +169,8 @@ had	VBD	_ <O>
 earlier	RBR	_ <O>
 made	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Censorship	NN	_ <O>
 of	IN	_ <O>
 all	DT	_ <O>
@@ -172,7 +181,8 @@ Shinawatra	NNP	_ <O>
 from	IN	_ <O>
 television	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 torture	NN	_ <O>
 of	IN	_ <O>
@@ -185,4 +195,5 @@ in	IN	_ <O>
 the	DT	_ <O>
 South	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

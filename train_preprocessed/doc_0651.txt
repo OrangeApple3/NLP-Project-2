@@ -10,7 +10,8 @@ group	NN	_ <O>
 in	IN	_ <O>
 Europe	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Estimates	NNS	_ <O>
 vary	VBP	_ <O>
 depending	VBG	_ <O>
@@ -41,7 +42,8 @@ of	IN	_ <O>
 Poland	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 almost	RB	_ <O>
@@ -52,7 +54,8 @@ in	IN	_ <O>
 Poland	NNP	_ <O>
 alone	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 There	EX	_ <O>
 are	VBP	_ <O>
 some	DT	_ <O>
@@ -68,4 +71,5 @@ Moldova	NNP	_ <O>
 and	CC	_ <O>
 Latvia	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

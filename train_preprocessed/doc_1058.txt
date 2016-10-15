@@ -28,7 +28,8 @@ formed	VBN	_ <O>
 in	IN	_ <O>
 1972	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 were	VBD	_ <O>
 known	VBN	_ <O>
@@ -42,7 +43,8 @@ and	CC	_ <O>
 Communist	JJ	_ <O>
 lyrics	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Their	PRP$	_ <O>
 singer	NN	_ <O>
 was	VBD	_ <O>
@@ -52,4 +54,5 @@ born	VBN	_ <O>
 Demetrio	NNP	_ <O>
 Stratos	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -33,7 +33,8 @@ of	IN	_ <O>
 carnivorous	JJ	_ <O>
 mammals	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 Mustelidae	NNP	_ <O>
 is	VBZ	_ <O>
@@ -71,4 +72,5 @@ poorly	RB	<I-CUE>
 differentiated	VBN	<I-CUE>
 taxa	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

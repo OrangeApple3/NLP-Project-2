@@ -63,7 +63,8 @@ ng/mL	NN	_ <O>
 )	-RRB-	_ <O>
 urine	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Another	DT	_ <O>
 article	NN	_ <O>
 in	IN	_ <O>
@@ -92,7 +93,8 @@ as	IN	_ <O>
 251	CD	_ <O>
 µg/g	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 both	DT	_ <O>
 studies	NNS	_ <O>
@@ -107,7 +109,8 @@ in	IN	_ <O>
 smaller	JJR	_ <O>
 concentrations	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Therefore	RB	_ <O>
 it	PRP	_ <O>
 is	VBZ	_ <O>
@@ -131,4 +134,5 @@ and	CC	_ <O>
 quantity	NN	_ <O>
 ingested	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

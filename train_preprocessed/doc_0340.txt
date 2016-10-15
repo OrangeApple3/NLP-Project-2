@@ -17,7 +17,8 @@ available	JJ	_ <O>
 in	IN	_ <O>
 Home	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Users	NNS	_ <O>
 can	MD	_ <O>
 access	VB	_ <O>
@@ -41,7 +42,8 @@ user	NN	_ <O>
 personal	JJ	_ <O>
 apartment	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 may	MD	_ <O>
 customise	VB	_ <O>
@@ -65,7 +67,8 @@ and	CC	_ <O>
 facial	JJ	_ <O>
 structure	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 may	MD	_ <O>
 also	RB	_ <O>
@@ -114,4 +117,5 @@ support	VBP	_ <O>
 Home	NN	_ <O>
 rewards	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

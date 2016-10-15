@@ -11,7 +11,8 @@ from	IN	_ <O>
 some	DT	<B-CUE>
 reviewers	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 many	JJ	<B-CUE>
 of	IN	<I-CUE>
@@ -45,7 +46,8 @@ benefit	NN	_ <O>
 of	IN	_ <O>
 hindsight	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 result	NN	_ <O>
 is	VBZ	_ <O>
@@ -63,7 +65,8 @@ of	IN	_ <O>
 events	NNS	_ <O>
 reveal	VBP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 describe	VB	_ <O>
 it	PRP	_ <O>
@@ -88,4 +91,5 @@ New	NNP	<I-CUE>
 Zealand	NNP	<I-CUE>
 histories	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

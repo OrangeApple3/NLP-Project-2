@@ -28,7 +28,8 @@ design	VB	_ <O>
 and	CC	_ <O>
 construct	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 new	JJ	_ <O>
 movement	NN	_ <O>
@@ -61,7 +62,8 @@ elements	NNS	_ <O>
 from	IN	_ <O>
 Angkor	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 most	RBS	_ <O>
 prominent	JJ	_ <O>
@@ -83,7 +85,8 @@ himself	PRP	_ <O>
 in	IN	_ <O>
 1956	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Molyvann	NNP	_ <O>
 created	VBD	_ <O>
 landmark	JJ	_ <O>
@@ -124,4 +127,5 @@ National	NNP	_ <O>
 Sports	NNPS	_ <O>
 Centre	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

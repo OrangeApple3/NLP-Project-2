@@ -45,7 +45,8 @@ of	IN	_ <O>
 Natural	NNP	_ <O>
 Resources	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 injunction	NN	_ <O>
 being	VBG	_ <O>
@@ -75,7 +76,8 @@ in	IN	_ <O>
 the	DT	_ <O>
 state	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 suit	NN	_ <O>
 alleges	VBZ	_ <O>
@@ -138,7 +140,8 @@ issuing	VBG	_ <O>
 routine	NN	_ <O>
 permits	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 Declaration	NNP	_ <O>
 by	IN	_ <O>
@@ -193,4 +196,5 @@ Constitution	NNP	_ <O>
 itself	PRP	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

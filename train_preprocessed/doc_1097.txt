@@ -17,7 +17,8 @@ and	CC	_ <O>
 total	JJ	_ <O>
 inappropriateness	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 prophetically	RB	_ <O>
 often	RB	_ <O>
@@ -68,7 +69,8 @@ women	NNS	_ <O>
 basketball	NN	_ <O>
 team	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 criticized	VBD	_ <O>
 the	DT	_ <O>
@@ -115,7 +117,8 @@ crossed	VBD	_ <O>
 the	DT	_ <O>
 line	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 same	JJ	_ <O>
@@ -138,4 +141,5 @@ ho	NNP	_ <O>
 "	''	_ <O>
 comment	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

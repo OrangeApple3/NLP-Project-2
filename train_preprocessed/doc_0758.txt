@@ -25,4 +25,5 @@ Mayor	NNP	_ <O>
 Dorothy	NNP	_ <O>
 Sholes	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

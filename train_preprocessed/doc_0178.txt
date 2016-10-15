@@ -20,7 +20,8 @@ Potemayo	NNP	_ <O>
 in	IN	_ <O>
 appearance	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 name	NN	_ <O>
 Guchuko	NNP	_ <O>
@@ -59,7 +60,8 @@ names	NNS	_ <O>
 in	IN	_ <O>
 Japan	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Since	IN	_ <O>
 it	PRP	_ <O>
 was	VBD	_ <O>
@@ -123,7 +125,8 @@ of	IN	_ <O>
 her	PRP$	_ <O>
 head	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 She	PRP	_ <O>
 has	VBZ	_ <O>
 a	DT	_ <O>
@@ -170,4 +173,5 @@ of	IN	_ <O>
 her	PRP$	_ <O>
 house	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

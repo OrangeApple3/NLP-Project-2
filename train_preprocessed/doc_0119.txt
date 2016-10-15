@@ -31,7 +31,8 @@ for	IN	_ <O>
 that	DT	_ <O>
 company	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 is	VBZ	_ <O>
 as	RB	_ <O>
@@ -62,7 +63,8 @@ acting	NN	_ <O>
 at	RB	_ <O>
 all	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 He	PRP	_ <O>
 is	VBZ	_ <O>
 clearly	RB	_ <O>
@@ -89,7 +91,8 @@ go	VB	_ <O>
 to	TO	_ <O>
 prove	VB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 His	PRP$	_ <O>
 low	JJ	_ <O>
 -	HYPH	_ <O>
@@ -118,4 +121,5 @@ case	NN	_ <O>
 in	IN	_ <O>
 point	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -26,7 +26,8 @@ the	DT	_ <O>
 soul	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 little	JJ	_ <O>
 knowledge	NN	_ <O>
@@ -44,7 +45,8 @@ Allah	NNP	_ <O>
 SWT	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 However	RB	_ <O>
 even	RB	_ <O>
 the	DT	_ <O>
@@ -72,7 +74,8 @@ the	DT	_ <O>
 Soul	NNP	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 According	VBG	_ <O>
 to	IN	_ <O>
 few	JJ	_ <O>
@@ -107,7 +110,8 @@ soul	NN	_ <O>
 into	IN	_ <O>
 him	PRP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 intangible	JJ	_ <O>
 part	NN	_ <O>
@@ -153,7 +157,8 @@ a	DT	_ <O>
 righteous	JJ	_ <O>
 life	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 (	-LRB-	_ <O>
 to	TO	_ <O>
 be	VB	_ <O>
@@ -209,7 +214,8 @@ and	CC	<I-CUE>
 philosophies	NNS	<I-CUE>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 At	IN	_ <O>
 death	NN	_ <O>
 the	DT	_ <O>
@@ -279,4 +285,5 @@ Qur’an	NNP	_ <O>
 39:20	CD	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

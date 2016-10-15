@@ -25,7 +25,8 @@ to	IN	_ <O>
 fine	JJ	_ <O>
 jewelry	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	_ <O>
 produced	VBD	_ <O>
 some	DT	<B-CUE>
@@ -38,7 +39,8 @@ from	IN	_ <O>
 until	IN	_ <O>
 1917	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 1900	CD	_ <O>
 his	PRP$	_ <O>
@@ -54,7 +56,8 @@ Fair	NNP	_ <O>
 in	IN	_ <O>
 Paris	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 As	IN	_ <O>
 Carl	NNP	_ <O>
 Fabergé	NNP	_ <O>
@@ -79,7 +82,8 @@ without	IN	_ <O>
 competing	VBG	_ <O>
 )	-RRB-	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Additionally	RB	_ <O>
 ,	,	_ <O>
 Carl	NNP	_ <O>
@@ -105,7 +109,8 @@ Legion	NNP	_ <O>
 of	IN	_ <O>
 Honour	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Commercially	RB	_ <O>
 the	DT	_ <O>
 exposition	NN	_ <O>
@@ -124,4 +129,5 @@ orders	NNS	<I-CUE>
 and	CC	<I-CUE>
 clients	NNS	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

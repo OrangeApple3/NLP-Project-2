@@ -4,7 +4,8 @@ Speculation	NN	_ <O>
 in	IN	_ <O>
 later	JJ	_ <O>
 years	NNS	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 medical	JJ	_ <O>
 mishap	NN	_ <O>
@@ -18,7 +19,8 @@ Eden	NNP	_ <O>
 life	NN	_ <O>
 forever	RB	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 an	DT	_ <O>
 operation	NN	_ <O>
@@ -37,7 +39,8 @@ his	PRP$	_ <O>
 bile	NN	_ <O>
 duct	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 blunder	NN	_ <O>
 made	VBD	_ <O>
@@ -54,7 +57,8 @@ pain	NN	_ <O>
 and	CC	_ <O>
 fevers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 To	TO	_ <O>
 overcome	VB	_ <O>
 this	DT	_ <O>
@@ -71,7 +75,8 @@ the	DT	_ <O>
 -	HYPH	_ <O>
 Benzedrine	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Regarded	VBN	_ <O>
 by	IN	_ <O>
 doctors	NNS	_ <O>
@@ -101,7 +106,8 @@ now	RB	_ <O>
 call	VBP	_ <O>
 speed	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 During	IN	_ <O>
 this	DT	_ <O>
 time	NN	_ <O>
@@ -116,7 +122,8 @@ very	RB	_ <O>
 casual	JJ	_ <O>
 way	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 has	VBZ	<I-CUE>
 been	VBN	<I-CUE>
@@ -146,4 +153,5 @@ the	DT	_ <O>
 Suez	NNP	_ <O>
 Crisis	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

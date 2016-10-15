@@ -12,4 +12,5 @@ vice	NN	_ <O>
 presidential	JJ	_ <O>
 nomination	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

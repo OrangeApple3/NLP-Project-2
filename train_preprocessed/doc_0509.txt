@@ -13,7 +13,8 @@ strengths	NNS	_ <O>
 and	CC	_ <O>
 weaknesses	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 first	JJ	_ <O>
 species	NNS	_ <O>
@@ -63,7 +64,8 @@ with	IN	_ <O>
 fewer	JJR	_ <O>
 numbers	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 White	NNP	_ <O>
 Pikmin	NNP	_ <O>
 are	VBP	_ <O>
@@ -89,7 +91,8 @@ than	IN	_ <O>
 other	JJ	_ <O>
 Pikmin	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 only	JJ	_ <O>
 way	NN	_ <O>
@@ -111,4 +114,5 @@ with	IN	_ <O>
 Candypop	NNP	_ <O>
 Buds	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

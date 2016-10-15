@@ -25,7 +25,8 @@ the	DT	_ <O>
 root	NN	_ <O>
 user	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Running	VBG	_ <O>
 as	IN	_ <O>
 root	NN	_ <O>
@@ -58,7 +59,8 @@ a	DT	_ <O>
 higher	JJR	_ <O>
 port	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 For	IN	_ <O>
 example	NN	_ <O>
 ,	,	_ <O>
@@ -83,7 +85,8 @@ restricted	VBN	_ <O>
 port	NN	_ <O>
 80	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 port	NN	_ <O>
 may	MD	_ <O>
@@ -104,4 +107,5 @@ protocol	NN	_ <O>
 or	CC	_ <O>
 both	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

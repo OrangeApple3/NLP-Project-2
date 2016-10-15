@@ -30,7 +30,8 @@ to	TO	_ <O>
 magnetic	JJ	_ <O>
 mirrors	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 common	JJ	_ <O>
 with	IN	_ <O>
@@ -74,7 +75,8 @@ the	DT	_ <O>
 electron	NN	_ <O>
 energies	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 In	IN	_ <O>
 some	DT	<B-CUE>
 mirror	NN	<I-CUE>
@@ -103,7 +105,8 @@ of	IN	_ <O>
 a	DT	_ <O>
 polywell	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 The	DT	_ <O>
 magnetic	JJ	_ <O>
 field	NN	_ <O>
@@ -136,4 +139,5 @@ such	PDT	_ <O>
 a	DT	_ <O>
 field	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

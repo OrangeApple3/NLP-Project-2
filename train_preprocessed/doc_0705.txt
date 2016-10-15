@@ -33,7 +33,8 @@ Master	NNP	_ <O>
 's	POS	_ <O>
 levels	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Southeastern	NNP	_ <O>
 has	VBZ	_ <O>
 been	VBN	_ <O>
@@ -49,4 +50,5 @@ Schools	NNP	_ <O>
 since	IN	_ <O>
 1946	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

@@ -44,7 +44,8 @@ Rights	NNPS	_ <O>
 ,	,	_ <O>
 or	CC	_ <O>
 TaBOR.	NNP	_ <O>
- <O>
+
+NULL
 Among	IN	_ <O>
 the	DT	_ <O>
 paid	VBN	_ <O>
@@ -66,7 +67,8 @@ on	IN	_ <O>
 the	DT	_ <O>
 drive	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Jacob	NNP	_ <O>
 claims	VBZ	_ <O>
 the	DT	_ <O>
@@ -89,7 +91,8 @@ Secretary	NNP	_ <O>
 of	IN	_ <O>
 State	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 conviction	NN	_ <O>
 would	MD	_ <O>
@@ -113,7 +116,8 @@ years	NNS	_ <O>
 in	IN	_ <O>
 prison	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Jacob	NNP	_ <O>
 was	VBD	_ <O>
 indicted	VBN	_ <O>
@@ -130,7 +134,8 @@ pleaded	VBD	_ <O>
 not	RB	_ <O>
 guilty	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 website—FreePaulJacob.com—was	NNP	_ <O>
 put	VBN	_ <O>
@@ -140,4 +145,5 @@ Jacob	NNP	_ <O>
 's	POS	_ <O>
 defense	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

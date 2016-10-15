@@ -12,7 +12,8 @@ about	IN	_ <O>
 his	PRP$	_ <O>
 sexuality	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Casting	VBG	_ <O>
 himself	PRP	_ <O>
 in	IN	_ <O>
@@ -38,7 +39,8 @@ being	VBG	_ <O>
 a	DT	_ <O>
 sodomite	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 was	VBD	_ <O>
 almost	RB	<B-CUE>
@@ -69,7 +71,8 @@ adversary	NN	_ <O>
 's	POS	_ <O>
 character	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Venetians	NNPS	_ <O>
 -	:	_ <O>
 who	WP	_ <O>
@@ -89,4 +92,5 @@ the	DT	<B-CUE>
 most	RBS	<I-CUE>
 vocal	JJ	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL

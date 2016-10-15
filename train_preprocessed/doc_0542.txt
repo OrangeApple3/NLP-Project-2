@@ -15,7 +15,8 @@ on	IN	_ <O>
 a	DT	_ <O>
 lake	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 People	NNS	_ <O>
 wishing	VBG	_ <O>
 to	TO	_ <O>
@@ -40,7 +41,8 @@ one	CD	_ <O>
 becomes	VBZ	_ <O>
 available	JJ	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 may	MD	_ <O>
 result	VB	_ <O>
@@ -59,7 +61,8 @@ sunny	JJ	_ <O>
 French	JJ	_ <O>
 day	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 They	PRP	_ <O>
 have	VBP	_ <O>
 obtained	VBN	_ <O>
@@ -87,4 +90,5 @@ on	IN	_ <O>
 their	PRP$	_ <O>
 faces	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

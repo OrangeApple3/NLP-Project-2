@@ -22,7 +22,8 @@ syndrome	NN	_ <O>
 were	VBD	_ <O>
 terminated	VBN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 is	VBZ	_ <O>
 similar	JJ	_ <O>
@@ -42,7 +43,8 @@ the	DT	_ <O>
 ethical	JJ	_ <O>
 ramifications	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Conservative	JJ	_ <O>
 commentator	NN	_ <O>
 George	NNP	_ <O>
@@ -59,7 +61,8 @@ the	DT	_ <O>
 abortion	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Lord	NNP	_ <O>
 Brian	NNP	_ <O>
 Rix	NNP	_ <O>
@@ -119,7 +122,8 @@ teaching	NN	_ <O>
 hospital	NN	_ <O>
 "	''	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 David	NNP	_ <O>
 Mortimer	NNP	_ <O>
 has	VBZ	_ <O>
@@ -149,7 +153,8 @@ bean	NN	_ <O>
 counters	NNS	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL
 Some	DT	<B-CUE>
 members	NNS	<I-CUE>
 of	IN	<I-CUE>
@@ -180,4 +185,5 @@ and	CC	_ <O>
 goals	NNS	_ <O>
 .	.	_ <O>
 "	''	_ <O>
- <O>
+
+NULL

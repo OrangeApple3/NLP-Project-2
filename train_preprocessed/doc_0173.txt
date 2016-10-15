@@ -14,7 +14,8 @@ in	IN	_ <O>
 a	DT	_ <O>
 row	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 By	IN	_ <O>
 the	DT	_ <O>
 time	NN	_ <O>
@@ -48,7 +49,8 @@ next	JJ	_ <O>
 exam	NN	_ <O>
 attempt	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 This	DT	_ <O>
 was	VBD	_ <O>
 Phan	NNP	_ <O>
@@ -75,7 +77,8 @@ around	IN	_ <O>
 the	DT	_ <O>
 world	NN	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 After	IN	_ <O>
 returning	VBG	_ <O>
 back	RB	_ <O>
@@ -97,4 +100,5 @@ highest	JJS	_ <O>
 possible	JJ	_ <O>
 honors	NNS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

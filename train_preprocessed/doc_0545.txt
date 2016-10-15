@@ -38,7 +38,8 @@ election	NN	_ <O>
 ,	,	_ <O>
 1983	CD	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 It	PRP	<B-CUE>
 has	VBZ	<I-CUE>
 been	VBN	<I-CUE>
@@ -64,4 +65,5 @@ publicly	RB	_ <O>
 denied	VBN	_ <O>
 this	DT	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

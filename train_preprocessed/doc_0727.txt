@@ -13,4 +13,5 @@ state	NN	_ <O>
 of	IN	_ <O>
 Senegal	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL

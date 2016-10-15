@@ -25,7 +25,8 @@ the	DT	<B-CUE>
 most	RBS	<I-CUE>
 illustrious	JJ	<I-CUE>
 .	.	_ <O>
- <O>
+
+NULL
 Generations	NNS	_ <O>
 of	IN	_ <O>
 Pemmasani	NNP	_ <O>
@@ -39,7 +40,8 @@ of	IN	_ <O>
 Vijayanagar	NNP	_ <O>
 Empire	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 Proudha	NNP	_ <O>
 Devaraya	NNP	_ <O>
 gifted	VBD	_ <O>
@@ -63,7 +65,8 @@ battle	NN	_ <O>
 with	IN	_ <O>
 Muslims	NNPS	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
 A	DT	_ <O>
 branch	NN	_ <O>
 of	IN	_ <O>
@@ -94,4 +97,5 @@ the	DT	_ <O>
 Musunuri	NNP	_ <O>
 Nayaks	NNP	_ <O>
 .	.	_ <O>
- <O>
+
+NULL
