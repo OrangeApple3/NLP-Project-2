@@ -17,7 +17,7 @@ def compute_emission_probabilities(smoothed=False):
                 cue_counts[cue] += 1
                 # Emission count format example : {('students', '<B-CUE>'):3}
                 emission_counts[(line.split("\t")[0], cue)] += 1
-            else:
+            elif "NULL" not in line:
                 cue_counts["<O>"] += 1
                 emission_counts[(line.split("\t")[0], "<O>")] += 1
     for word, tag in emission_counts.iterkeys():
