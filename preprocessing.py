@@ -42,6 +42,7 @@ def preprocess():
             else:
                 preprocessed_data.write(line + " <O>\n")
                 beginning = True
+        data.close()
         
 
 def get_uncertain_phrases():
