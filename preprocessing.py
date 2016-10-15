@@ -2,21 +2,9 @@ import os
 from sets import Set
 import csv
 
-
-# This is currently unused, but was used before to hardcode a list of uncertain phrases for the baseline model
-uncertain_phrases = ['probably',
-                     'maybe',
-                     'should',
-                     'could',
-                     'perhaps',
-                     'likely',
-                     'almost',
-                     'generally',
-                     'questionable',
-                     'may',
-                     'potentially',
-                     'reportedly']
-
+# Note to the graders: To save computation, I generated a separate directory of preprocessed training documents. Several functions
+# in this file will not work without it. To replicate this, create a directory within the NLP-Project-2 directory called
+# 'train_preprocessed' and run the preprocess function within this module
 
 def has_cue(line):
     # Used for preprocessing - determines if a line has a CUE, returns None if not
