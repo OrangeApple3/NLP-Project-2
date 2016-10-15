@@ -127,5 +127,6 @@ def uncertainty_sentence_csv():
         writer.writerow(['SENTENCE-public', public_ids])
         writer.writerow(['SENTENCE-private', private_ids])
 
-preprocess()
+if __name__ == "__main__":
+    preprocess()
 
