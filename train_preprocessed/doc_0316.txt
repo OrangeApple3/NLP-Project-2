@@ -1,3 +1,4 @@
+NULL
 Rouse	NNP	_ <O>
 is	VBZ	<B-CUE>
 commonly	RB	<I-CUE>

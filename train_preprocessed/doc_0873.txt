@@ -1,3 +1,4 @@
+NULL
 Cognates	NNS	_ <O>
 of	IN	_ <O>
 the	DT	_ <O>

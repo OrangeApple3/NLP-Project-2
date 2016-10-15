@@ -1,3 +1,4 @@
+NULL
 A	DT	<B-CUE>
 few	JJ	<I-CUE>
 people	NNS	<I-CUE>

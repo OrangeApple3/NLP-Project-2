@@ -1,3 +1,4 @@
+NULL
 Max	NNP	_ <O>
 Stirner	NNP	_ <O>
 was	VBD	_ <O>

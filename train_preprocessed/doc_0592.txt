@@ -1,3 +1,4 @@
+NULL
 Although	IN	_ <O>
 some	DT	<B-CUE>
 lipid	NN	<I-CUE>

@@ -1,3 +1,4 @@
+NULL
 Fosshaug	NNP	_ <O>
 played	VBD	_ <O>
 in	RP	_ <O>

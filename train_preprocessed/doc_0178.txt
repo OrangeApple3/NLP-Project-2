@@ -1,3 +1,4 @@
+NULL
 ::Guchuko	NN	_ <O>
 is	VBZ	_ <O>
 another	DT	_ <O>

@@ -1,3 +1,4 @@
+NULL
 A	DT	_ <O>
 Pigovian	JJ	_ <O>
 tax	NN	_ <O>

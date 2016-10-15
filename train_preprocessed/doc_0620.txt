@@ -1,3 +1,4 @@
+NULL
 Some	DT	<B-CUE>
 believe	VB	_ <O>
 that	IN	_ <O>

@@ -1,3 +1,4 @@
+NULL
 Many	JJ	<B-CUE>
 people	NNS	<I-CUE>
 who	WP	_ <O>

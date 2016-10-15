@@ -1,3 +1,4 @@
+NULL
 Haitian	JJ	_ <O>
 spirits	NNS	_ <O>
 ,	,	_ <O>

@@ -1,3 +1,4 @@
+NULL
 The	DT	_ <O>
 user	NN	_ <O>
 can	MD	_ <O>

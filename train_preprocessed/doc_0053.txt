@@ -1,3 +1,4 @@
+NULL
 Some	DT	<B-CUE>
 scholars	NNS	<I-CUE>
 have	VBP	<B-CUE>

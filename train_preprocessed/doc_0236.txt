@@ -1,3 +1,4 @@
+NULL
 Some	DT	<B-CUE>
 people	NNS	<I-CUE>
 contend	VB	_ <O>

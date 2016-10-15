@@ -1,3 +1,4 @@
+NULL
 Before	IN	_ <O>
 World	NNP	_ <O>
 War	NNP	_ <O>

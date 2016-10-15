@@ -1,3 +1,4 @@
+NULL
 R&B	NN	_ <O>
 singer	NN	_ <O>
 -	HYPH	_ <O>

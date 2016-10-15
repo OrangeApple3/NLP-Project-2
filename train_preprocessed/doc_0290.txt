@@ -1,3 +1,4 @@
+NULL
 Taiwan	NNP	_ <O>
 ’s	POS	_ <O>
 sovereignty	NN	_ <O>

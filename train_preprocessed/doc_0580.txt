@@ -1,3 +1,4 @@
+NULL
 The	DT	_ <O>
 prime	JJ	_ <O>
 minister	NN	_ <O>

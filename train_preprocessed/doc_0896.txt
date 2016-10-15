@@ -1,3 +1,4 @@
+NULL
 Edged	VBN	_ <O>
 weapons	NNS	_ <O>
 with	IN	_ <O>

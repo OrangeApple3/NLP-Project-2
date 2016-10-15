@@ -1,3 +1,4 @@
+NULL
 Network	NNP	_ <O>
 owners	NNS	_ <O>
 leave	VBP	_ <O>

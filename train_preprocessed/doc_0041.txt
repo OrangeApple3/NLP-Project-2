@@ -1,3 +1,4 @@
+NULL
 Bushnell	NNP	_ <O>
 decided	VBD	_ <O>
 to	TO	_ <O>

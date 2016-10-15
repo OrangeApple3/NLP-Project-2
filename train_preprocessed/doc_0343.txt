@@ -1,3 +1,4 @@
+NULL
 Peace	NN	_ <O>
 talks	NNS	_ <O>
 between	IN	_ <O>

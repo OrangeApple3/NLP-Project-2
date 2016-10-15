@@ -1,3 +1,4 @@
+NULL
 Moon	NNP	_ <O>
 's	POS	_ <O>
 works	NNS	_ <O>

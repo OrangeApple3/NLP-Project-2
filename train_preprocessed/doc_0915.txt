@@ -1,3 +1,4 @@
+NULL
 Nothing	NN	_ <O>
 is	VBZ	_ <O>
 said	VBN	_ <O>

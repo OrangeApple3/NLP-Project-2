@@ -1,3 +1,4 @@
+NULL
 A	DT	_ <O>
 common	JJ	_ <O>
 password	NN	_ <O>

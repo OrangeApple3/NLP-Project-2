@@ -1,3 +1,4 @@
+NULL
 Major	JJ	_ <O>
 leagues=1998	NN	_ <O>
 -	HYPH	_ <O>

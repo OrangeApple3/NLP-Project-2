@@ -1,3 +1,4 @@
+NULL
 Inquiry	NNP	_ <O>
 -	HYPH	_ <O>
 based	VBN	_ <O>

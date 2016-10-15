@@ -1,3 +1,4 @@
+NULL
 Prime	NNP	_ <O>
 Minister	NNP	_ <O>
 Gough	NNP	_ <O>

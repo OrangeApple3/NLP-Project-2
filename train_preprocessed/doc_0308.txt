@@ -1,3 +1,4 @@
+NULL
 Most	JJS	_ <O>
 stamps	NNS	_ <O>
 collected	VBN	_ <O>

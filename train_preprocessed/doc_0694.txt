@@ -1,3 +1,4 @@
+NULL
 Though	IN	_ <O>
 the	DT	_ <O>
 comic	NN	_ <O>

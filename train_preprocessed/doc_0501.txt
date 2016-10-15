@@ -1,3 +1,4 @@
+NULL
 Left	JJ	_ <O>
 -	HYPH	_ <O>
 wing	NN	_ <O>

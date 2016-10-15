@@ -1,3 +1,4 @@
+NULL
 After	IN	_ <O>
 some	DT	_ <O>
 investigating	VBG	_ <O>

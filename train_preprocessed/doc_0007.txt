@@ -1,3 +1,4 @@
+NULL
 With	IN	_ <O>
 the	DT	_ <O>
 outbreak	NN	_ <O>

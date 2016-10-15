@@ -1,3 +1,4 @@
+NULL
 Violet	NN	_ <O>
 power	NN	_ <O>
 rings	NNS	_ <O>

@@ -1,3 +1,4 @@
+NULL
 Other	JJ	<B-CUE>
 parties	NNS	<I-CUE>
 insist	VB	_ <O>

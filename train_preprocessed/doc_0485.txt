@@ -1,3 +1,4 @@
+NULL
 In	IN	_ <O>
 recent	JJ	_ <O>
 years	NNS	_ <O>

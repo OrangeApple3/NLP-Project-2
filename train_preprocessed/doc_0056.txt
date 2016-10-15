@@ -1,3 +1,4 @@
+NULL
 King	NN	_ <O>
 is	VBZ	<B-CUE>
 frequently	RB	<I-CUE>

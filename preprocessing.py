@@ -20,6 +20,7 @@ def preprocess():
     for file in os.listdir(os.getcwd() + "/train"):
         data = open(os.getcwd() + "/train/" + file, 'r+')
         preprocessed_data = open(os.getcwd() + "/train_preprocessed/" + file, 'w+')
+        preprocessed_data.write("NULL\n")
         cue = None
         beginning = True
         for line in data:
@@ -37,7 +38,7 @@ def preprocess():
             else:
                 preprocessed_data.write(line + " <O>\n")
                 beginning = True
-
+        
 
 def get_uncertain_phrases():
     # Returns a list of uncertain strings from the preprocessed data
@@ -121,4 +122,5 @@ def uncertainty_sentence_csv():
         writer.writerow(['SENTENCE-public', public_ids])
         writer.writerow(['SENTENCE-private', private_ids])
 
-uncertainty_sentence_csv()
+preprocess()
+

@@ -1,3 +1,4 @@
+NULL
 This	DT	_ <O>
 windstorm	NN	_ <O>
 killed	VBD	_ <O>

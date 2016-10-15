@@ -1,3 +1,4 @@
+NULL
 A	DT	_ <O>
 few	JJ	_ <O>
 months	NNS	_ <O>

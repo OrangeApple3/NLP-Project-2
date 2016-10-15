@@ -1,3 +1,4 @@
+NULL
 Outside	IN	_ <O>
 the	DT	_ <O>
 Faroes	NNP	_ <O>

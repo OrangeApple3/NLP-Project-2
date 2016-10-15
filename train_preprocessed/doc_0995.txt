@@ -1,3 +1,4 @@
+NULL
 Many	JJ	<B-CUE>
 scholars	NNS	<I-CUE>
 believe	VBP	_ <O>

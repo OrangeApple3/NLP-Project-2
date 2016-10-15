@@ -1,3 +1,4 @@
+NULL
 John	NNP	_ <O>
 proved	VBD	_ <O>
 to	TO	_ <O>

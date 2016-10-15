@@ -1,3 +1,4 @@
+NULL
 Oil	NN	_ <O>
 spills	NNS	_ <O>
 in	IN	_ <O>

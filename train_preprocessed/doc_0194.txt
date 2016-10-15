@@ -1,3 +1,4 @@
+NULL
 Muller	NNP	_ <O>
 went	VBD	_ <O>
 to	IN	_ <O>

@@ -1,3 +1,4 @@
+NULL
 A	DT	_ <O>
 heated	JJ	_ <O>
 controversy	NN	_ <O>

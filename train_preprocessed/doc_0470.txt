@@ -1,3 +1,4 @@
+NULL
 Economic	JJ	_ <O>
 activity	NN	_ <O>
 that	WDT	_ <O>

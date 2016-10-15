@@ -1,3 +1,4 @@
+NULL
 Trap	NN	_ <O>
 room	NN	_ <O>
 :	:	_ <O>

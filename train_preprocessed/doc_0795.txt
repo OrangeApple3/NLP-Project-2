@@ -1,3 +1,4 @@
+NULL
 A	DT	_ <O>
 '	``	_ <O>
 panhandle	NN	_ <O>

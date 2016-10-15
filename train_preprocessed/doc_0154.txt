@@ -1,3 +1,4 @@
+NULL
 Lattisaw	NNP	_ <O>
 and	CC	_ <O>
 Gill	NNP	_ <O>

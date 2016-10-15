@@ -1,3 +1,4 @@
+NULL
 Vietnam	NNP	_ <O>
 afterward	RB	_ <O>
 forced	VBD	_ <O>

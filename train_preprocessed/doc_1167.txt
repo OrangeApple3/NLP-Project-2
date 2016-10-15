@@ -1,3 +1,4 @@
+NULL
 Before	IN	_ <O>
 the	DT	_ <O>
 arrival	NN	_ <O>

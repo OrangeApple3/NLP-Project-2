@@ -1,3 +1,4 @@
+NULL
 Harm	NN	<B-CUE>
 reductionists	VBZ	<I-CUE>
 contend	VBP	_ <O>

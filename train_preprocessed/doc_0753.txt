@@ -1,3 +1,4 @@
+NULL
 Some	DT	<B-CUE>
 Lutherans	NNPS	<I-CUE>
 have	VBP	_ <O>

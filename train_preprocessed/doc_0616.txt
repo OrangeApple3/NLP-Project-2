@@ -1,3 +1,4 @@
+NULL
 Ken	NNP	_ <O>
 Thompson	NNP	_ <O>
 publishes	VBZ	_ <O>

@@ -1,3 +1,4 @@
+NULL
 A	DT	_ <O>
 deconstructionist	NN	_ <O>
 critique	NN	_ <O>

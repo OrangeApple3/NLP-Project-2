@@ -1,3 +1,4 @@
+NULL
 During	IN	_ <O>
 colonial	JJ	_ <O>
 times	NNS	_ <O>

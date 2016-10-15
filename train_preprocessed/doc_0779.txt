@@ -1,3 +1,4 @@
+NULL
 While	IN	_ <O>
 every	DT	_ <O>
 town	NN	_ <O>

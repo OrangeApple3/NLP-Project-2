@@ -1,3 +1,4 @@
+NULL
 Many	JJ	<B-CUE>
 believe	VB	_ <O>
 the	DT	_ <O>

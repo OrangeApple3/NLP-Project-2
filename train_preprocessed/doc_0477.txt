@@ -1,3 +1,4 @@
+NULL
 Therapeutic	JJ	_ <O>
 use	NN	_ <O>
 of	IN	_ <O>

@@ -1,3 +1,4 @@
+NULL
 Permanent	JJ	_ <O>
 makeup	NN	_ <O>
 is	VBZ	_ <O>

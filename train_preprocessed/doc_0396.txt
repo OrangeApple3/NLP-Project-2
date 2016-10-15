@@ -1,3 +1,4 @@
+NULL
 Some	DT	<B-CUE>
 sources	NNS	<I-CUE>
 say	VB	_ <O>

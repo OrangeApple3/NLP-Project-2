@@ -1,3 +1,4 @@
+NULL
 A	DT	_ <O>
 referendum	NN	_ <O>
 must	MD	_ <O>

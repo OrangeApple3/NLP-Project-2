@@ -1,3 +1,4 @@
+NULL
 Typical	JJ	_ <O>
 nightlife	NN	_ <O>
 available	JJ	_ <O>

@@ -1,3 +1,4 @@
+NULL
 It	PRP	_ <O>
 began	VBD	_ <O>
 as	IN	_ <O>

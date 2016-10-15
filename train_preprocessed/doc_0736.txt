@@ -1,3 +1,4 @@
+NULL
 He	PRP	_ <O>
 criticized	VBD	_ <O>
 the	DT	_ <O>

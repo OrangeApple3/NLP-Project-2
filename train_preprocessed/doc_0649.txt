@@ -1,3 +1,4 @@
+NULL
 If	IN	_ <O>
 the	DT	_ <O>
 pawnshop	NN	_ <O>

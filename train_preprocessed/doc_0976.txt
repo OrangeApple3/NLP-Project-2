@@ -1,3 +1,4 @@
+NULL
 Flexible	JJ	_ <O>
 compression	NN	_ <O>
 rings	NNS	_ <O>

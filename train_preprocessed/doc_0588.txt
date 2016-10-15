@@ -1,3 +1,4 @@
+NULL
 Persian	JJ	_ <O>
 nouns	NNS	_ <O>
 mark	VBP	_ <O>

@@ -1,3 +1,4 @@
+NULL
 Pinball	NNP	_ <O>
 2000	CD	_ <O>
 uses	VBZ	_ <O>

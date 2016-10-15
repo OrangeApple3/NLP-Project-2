@@ -1,3 +1,4 @@
+NULL
 Post	NNP	_ <O>
 -	HYPH	_ <O>
 Zionism	NNP	_ <O>

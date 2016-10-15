@@ -1,3 +1,4 @@
+NULL
 Fires	NNS	_ <O>
 have	VBP	_ <O>
 burned	VBN	_ <O>

@@ -1,3 +1,4 @@
+NULL
 Critics	NNS	<B-CUE>
 of	IN	<I-CUE>
 Social	NNP	<I-CUE>

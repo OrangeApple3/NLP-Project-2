@@ -1,3 +1,4 @@
+NULL
 Huldrych	NNP	_ <O>
 Zwingli	NNP	_ <O>
 wrote	VBD	_ <O>

@@ -1,3 +1,4 @@
+NULL
 America	NNP	_ <O>
 ’s	NNP	_ <O>
 quarrel	NN	_ <O>

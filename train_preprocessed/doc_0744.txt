@@ -1,3 +1,4 @@
+NULL
 In	IN	_ <O>
 past	JJ	_ <O>
 centuries	NNS	_ <O>

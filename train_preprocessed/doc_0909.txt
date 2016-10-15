@@ -1,3 +1,4 @@
+NULL
 Railway	NNP	_ <O>
 Protection	NNP	_ <O>
 Force	NNP	_ <O>

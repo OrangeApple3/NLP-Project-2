@@ -1,3 +1,4 @@
+NULL
 Flip	VB	_ <O>
 -	HYPH	_ <O>
 flops	NNS	_ <O>

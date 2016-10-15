@@ -1,3 +1,4 @@
+NULL
 Phan	NNP	_ <O>
 failed	VBD	_ <O>
 the	DT	_ <O>

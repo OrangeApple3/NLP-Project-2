@@ -1,3 +1,4 @@
+NULL
 Fire	NN	_ <O>
 tests	NNS	_ <O>
 in	IN	_ <O>

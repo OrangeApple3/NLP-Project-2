@@ -1,3 +1,4 @@
+NULL
 In	IN	_ <O>
 plants	NNS	_ <O>
 infected	VBN	_ <O>

@@ -1,3 +1,4 @@
+NULL
 As	IN	_ <O>
 newspapers	NNS	_ <O>
 change	VBP	_ <O>

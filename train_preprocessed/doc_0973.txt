@@ -1,3 +1,4 @@
+NULL
 It	PRP	<B-CUE>
 had	VBD	<I-CUE>
 been	VBN	<I-CUE>

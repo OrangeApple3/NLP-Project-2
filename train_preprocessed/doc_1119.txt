@@ -1,3 +1,4 @@
+NULL
 Arabic	JJ	_ <O>
 "	``	_ <O>
 five	CD	_ <O>

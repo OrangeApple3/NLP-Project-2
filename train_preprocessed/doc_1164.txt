@@ -1,3 +1,4 @@
+NULL
 A	DT	_ <O>
 new	JJ	_ <O>
 golden	JJ	_ <O>

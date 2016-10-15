@@ -1,3 +1,4 @@
+NULL
 Nintendo	NNP	_ <O>
 packed	VBD	_ <O>
 its	PRP$	_ <O>

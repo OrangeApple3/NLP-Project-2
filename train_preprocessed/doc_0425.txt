@@ -1,3 +1,4 @@
+NULL
 C.S.	NNP	_ <O>
 Peirce	NNP	_ <O>
 considered	VBD	_ <O>

@@ -1,3 +1,4 @@
+NULL
 Iceland	NNP	_ <O>
 has	VBZ	_ <O>
 a	DT	_ <O>

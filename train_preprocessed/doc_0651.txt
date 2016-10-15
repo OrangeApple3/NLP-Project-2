@@ -1,3 +1,4 @@
+NULL
 Polish	JJ	_ <O>
 people	NNS	_ <O>
 are	VBP	_ <O>

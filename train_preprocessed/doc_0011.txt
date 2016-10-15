@@ -1,3 +1,4 @@
+NULL
 After	IN	_ <O>
 the	DT	_ <O>
 War	NNP	_ <O>

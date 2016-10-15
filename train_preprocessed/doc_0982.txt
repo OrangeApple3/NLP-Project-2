@@ -1,3 +1,4 @@
+NULL
 Through	IN	_ <O>
 this	DT	_ <O>
 decree	NN	_ <O>

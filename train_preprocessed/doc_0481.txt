@@ -1,3 +1,4 @@
+NULL
 KOH	NNP	_ <O>
 attracts	VBZ	_ <O>
 numerous	JJ	_ <O>

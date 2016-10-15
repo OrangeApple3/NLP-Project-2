@@ -1,3 +1,4 @@
+NULL
 Shi`a	NNP	_ <O>
 Islam	NNP	_ <O>
 is	VBZ	_ <O>

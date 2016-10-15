@@ -1,3 +1,4 @@
+NULL
 David	NNP	_ <O>
 Mason	NNP	_ <O>
 is	VBZ	_ <O>

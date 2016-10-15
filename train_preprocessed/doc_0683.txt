@@ -1,3 +1,4 @@
+NULL
 Bellingham	NNP	_ <O>
 is	VBZ	_ <O>
 home	NN	_ <O>

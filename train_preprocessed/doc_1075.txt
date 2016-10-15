@@ -1,3 +1,4 @@
+NULL
 Some	DT	<B-CUE>
 say	VB	_ <O>
 it	PRP	_ <O>

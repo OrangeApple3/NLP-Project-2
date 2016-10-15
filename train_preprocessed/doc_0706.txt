@@ -1,3 +1,4 @@
+NULL
 A	DT	_ <O>
 parable	NN	_ <O>
 is	VBZ	_ <O>

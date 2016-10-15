@@ -1,3 +1,4 @@
+NULL
 Laurent	NNP	_ <O>
 Gbagbo	NNP	_ <O>
 took	VBD	_ <O>

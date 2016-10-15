@@ -1,3 +1,4 @@
+NULL
 Local	JJ	_ <O>
 injection	NN	_ <O>
 of	IN	_ <O>

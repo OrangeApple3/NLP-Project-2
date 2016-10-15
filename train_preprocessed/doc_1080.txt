@@ -1,3 +1,4 @@
+NULL
 Albino	JJ	_ <O>
 squirrels	NNS	_ <O>
 are	VBP	<B-CUE>

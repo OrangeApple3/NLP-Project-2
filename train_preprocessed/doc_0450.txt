@@ -1,3 +1,4 @@
+NULL
 New	RB	<B-CUE>
 scientific	JJ	<I-CUE>
 tests	NNS	<I-CUE>

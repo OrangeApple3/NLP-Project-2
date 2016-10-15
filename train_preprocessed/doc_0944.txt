@@ -1,3 +1,4 @@
+NULL
 Yasser	NNP	_ <O>
 Arafat	NNP	_ <O>
 ,	,	_ <O>

@@ -1,3 +1,4 @@
+NULL
 Bush	NNP	_ <O>
 studied	VBD	_ <O>
 at	IN	_ <O>

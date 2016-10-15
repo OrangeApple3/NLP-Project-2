@@ -1,3 +1,4 @@
+NULL
 Some	DT	<B-CUE>
 gameplay	NN	<I-CUE>
 modes	NNS	_ <O>

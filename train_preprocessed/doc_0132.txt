@@ -1,3 +1,4 @@
+NULL
 Skeptics	NNS	<B-CUE>
 such	JJ	_ <O>
 as	IN	_ <O>

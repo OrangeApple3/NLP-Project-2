@@ -1,3 +1,4 @@
+NULL
 Power	NN	_ <O>
 cables	NNS	_ <O>
 may	MD	_ <O>

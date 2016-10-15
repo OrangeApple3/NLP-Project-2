@@ -1,3 +1,4 @@
+NULL
 While	IN	_ <O>
 also	RB	_ <O>
 chair	NN	_ <O>

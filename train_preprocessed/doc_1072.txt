@@ -1,3 +1,4 @@
+NULL
 A	DT	_ <O>
 2002	CD	_ <O>
 literature	NN	_ <O>

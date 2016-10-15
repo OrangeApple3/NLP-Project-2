@@ -1,3 +1,4 @@
+NULL
 Unlike	IN	_ <O>
 brown	JJ	_ <O>
 and	CC	_ <O>

@@ -1,3 +1,4 @@
+NULL
 A	DT	_ <O>
 typical	JJ	_ <O>
 example	NN	_ <O>

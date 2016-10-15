@@ -1,3 +1,4 @@
+NULL
 Whilst	NNP	_ <O>
 "	``	_ <O>
 Paganism	NNP	_ <O>

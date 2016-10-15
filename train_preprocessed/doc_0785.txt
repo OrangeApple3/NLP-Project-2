@@ -1,3 +1,4 @@
+NULL
 A	DT	_ <O>
 major	JJ	_ <O>
 risk	NN	_ <O>

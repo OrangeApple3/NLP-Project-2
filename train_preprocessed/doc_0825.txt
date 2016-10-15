@@ -1,3 +1,4 @@
+NULL
 An	DT	_ <O>
 Earthlike	JJ	_ <O>
 planet	NN	_ <O>

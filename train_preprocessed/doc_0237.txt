@@ -1,3 +1,4 @@
+NULL
 Spaulding	NNP	_ <O>
 High	NNP	_ <O>
 School	NNP	_ <O>

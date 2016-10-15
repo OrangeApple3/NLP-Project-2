@@ -1,3 +1,4 @@
+NULL
 After	IN	_ <O>
 leaving	VBG	_ <O>
 office	NN	_ <O>

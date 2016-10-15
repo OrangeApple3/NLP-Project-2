@@ -1,3 +1,4 @@
+NULL
 Strategy	NNP	_ <O>
 is	VBZ	<B-CUE>
 considered	VBN	<I-CUE>

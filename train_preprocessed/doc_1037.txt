@@ -1,3 +1,4 @@
+NULL
 During	IN	_ <O>
 the	DT	_ <O>
 1970s	NNS	_ <O>

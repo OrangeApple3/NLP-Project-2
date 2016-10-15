@@ -1,3 +1,4 @@
+NULL
 After	IN	_ <O>
 a	DT	_ <O>
 few	JJ	_ <O>

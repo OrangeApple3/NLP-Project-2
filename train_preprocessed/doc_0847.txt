@@ -1,3 +1,4 @@
+NULL
 Buchanan	NNP	_ <O>
 opposes	VBZ	_ <O>
 other	JJ	_ <O>

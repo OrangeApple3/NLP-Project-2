@@ -1,3 +1,4 @@
+NULL
 '	``	_ <O>
 Portrait	VB	_ <O>
 photography	NN	_ <O>

@@ -1,3 +1,4 @@
+NULL
 In	IN	_ <O>
 the	DT	_ <O>
 1990s	NNS	_ <O>

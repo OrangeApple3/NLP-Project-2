@@ -1,3 +1,4 @@
+NULL
 Although	IN	_ <O>
 more	JJR	_ <O>
 typical	JJ	_ <O>

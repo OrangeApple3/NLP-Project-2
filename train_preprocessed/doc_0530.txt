@@ -1,3 +1,4 @@
+NULL
 The	DT	_ <O>
 complete	JJ	_ <O>
 life	NN	_ <O>

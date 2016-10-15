@@ -1,3 +1,4 @@
+NULL
 A	DT	_ <O>
 danger	NN	_ <O>
 now	RB	_ <O>

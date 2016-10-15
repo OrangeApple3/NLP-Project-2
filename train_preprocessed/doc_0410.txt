@@ -1,3 +1,4 @@
+NULL
 Lawful	NNP	_ <O>
 Permanent	NNP	_ <O>
 Residents	NNS	_ <O>

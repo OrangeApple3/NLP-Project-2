@@ -1,3 +1,4 @@
+NULL
 National	JJ	<B-CUE>
 loyalties	NNS	<I-CUE>
 have	VBP	_ <O>

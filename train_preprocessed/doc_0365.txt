@@ -1,3 +1,4 @@
+NULL
 The	DT	_ <O>
 freedom	NN	_ <O>
 allowed	VBN	_ <O>

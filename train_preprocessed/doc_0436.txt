@@ -1,3 +1,4 @@
+NULL
 Paul	NNP	_ <O>
 Cuffee	NNP	_ <O>
 always	RB	_ <O>

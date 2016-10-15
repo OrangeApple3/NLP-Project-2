@@ -1,3 +1,4 @@
+NULL
 Some	DT	<B-CUE>
 monetary	JJ	<I-CUE>
 reformers	NNS	<I-CUE>

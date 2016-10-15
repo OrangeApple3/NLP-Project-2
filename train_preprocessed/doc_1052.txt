@@ -1,3 +1,4 @@
+NULL
 Initially	RB	_ <O>
 the	DT	_ <O>
 people	NNS	_ <O>

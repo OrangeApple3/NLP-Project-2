@@ -1,3 +1,4 @@
+NULL
 Some	DT	<B-CUE>
 have	VBP	_ <O>
 attempted	VBN	_ <O>

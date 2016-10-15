@@ -1,3 +1,4 @@
+NULL
 Pellagra	NN	_ <O>
 is	VBZ	_ <O>
 common	JJ	_ <O>

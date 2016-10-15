@@ -1,3 +1,4 @@
+NULL
 Poitín	NNP	_ <O>
 was	VBD	_ <O>
 generally	RB	<B-CUE>

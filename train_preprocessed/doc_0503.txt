@@ -1,3 +1,4 @@
+NULL
 Öljeitü	NNP	_ <O>
 ,	,	_ <O>
 Ghazan	NNP	_ <O>
