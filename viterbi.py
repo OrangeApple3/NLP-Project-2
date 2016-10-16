@@ -4,7 +4,7 @@ import os
 # We do not make an explicit assumption on whether to keep zero probabilities in
 # the dictionary or not. 
 
-# Precondition: entries of word_POS_list are all parameters of emission 
+# Precondition: entries of word_POS_list are parameters of emission 
 # probability
 # Return: highest (probability_of_tag_sequence, tag_sequence)
 def viterbi(emission_prob, transition_prob, word_POS_list):
