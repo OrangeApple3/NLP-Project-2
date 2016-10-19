@@ -58,3 +58,20 @@ def compute_transition_probabilities():
     for k in transitions_p.keys():
         trans_probability[(k[1],k[0])] = transitions_p[k]
     return trans_probability
+
+
+def test_transmission():
+    trans_probs = compute_transition_probabilities()
+    total_sum_null = sum(trans_probs[(state1, state2)] for state1, state2 in trans_probs if state2 == 'NULL')
+    total_sum_b = sum(trans_probs[(state1, state2)] for state1, state2 in trans_probs if state2 == '<B-CUE>')
+    total_sum_i = sum(trans_probs[(state1, state2)] for state1, state2 in trans_probs if state2 == '<I-CUE>')
+    total_sum_o = sum(trans_probs[(state1, state2)] for state1, state2 in trans_probs if state2 == '<O>')
+
+    print "total sum null {}".format(total_sum_null)
+    print "total_sum_b {}".format(total_sum_b)
+    print "total_sum_i {}".format(total_sum_i)
+    print "total_sum_o {}".format(total_sum_o)
+
+    for state1, state2 in trans_probs:
+        print "P({}|{}) = {}".format(state1, state2, trans_probs[(state1, state2)])
+    
