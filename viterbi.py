@@ -41,12 +41,18 @@ def viterbi(emission_prob, transition_prob, word_POS_list):
                     max_node_prob[curr_word-1][BIO[max_tag_tuple[1]]][1]
                     + [curr_BIO]
             )
+    for i in range(len(max_node_prob)):
+        print(max_node_prob[i])
     return(max(max_node_prob[-1], key=lambda t: t[0]))
 
 
 def main():
-    emission_probs, word_pos_list = compute_emission_probabilities()
+    emission_probs, _ =  compute_emission_probabilities()
+    word_pos_list=["that", "said", ",", "it", "is", "possible", "that", "the", 
+                   "threshold", "of", "originality", "is", "very", "low","."]
+    
     trans_probs = compute_transition_probabilities()
+    print(viterbi(emission_probs,trans_probs,word_pos_list))
 
 
 if __name__ == "__main__":
