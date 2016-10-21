@@ -75,3 +75,4 @@ def test_transmission():
     for state1, state2 in trans_probs:
         print "P({}|{}) = {}".format(state1, state2, trans_probs[(state1, state2)])
     
+test_transmission()

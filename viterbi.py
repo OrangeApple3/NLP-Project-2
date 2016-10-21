@@ -41,8 +41,9 @@ def viterbi(emission_prob, transition_prob, word_POS_list):
                     max_node_prob[curr_word-1][BIO[max_tag_tuple[1]]][1]
                     + [curr_BIO]
             )
-    for i in range(len(max_node_prob)):
-        print(max_node_prob[i])
+    #for i in range(len(max_node_prob)):
+    #    print(max_node_prob[i])
+    print max_node_prob[len(max_node_prob)-1]
     return(max(max_node_prob[-1], key=lambda t: t[0]))
 
 

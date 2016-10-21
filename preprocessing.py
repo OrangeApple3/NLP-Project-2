@@ -6,6 +6,9 @@ import csv
 # in this file will not work without it. To replicate this, create a directory within the NLP-Project-2 directory called
 # 'train_preprocessed' and run the preprocess function within this module
 
+DEBUG = True
+
+
 def has_cue(line):
     # Used for preprocessing - determines if a line has a CUE, returns None if not
     words = line.split("\t")
