@@ -1,5 +1,6 @@
 import os
 import sys
+from preprocessing import DEBUG
 
 # python transition.py 
 # trans_probability dictionary key ("<B-CUE>", "<I-CUE>") --> p(<B-CUE>|<I-CUE>)
@@ -74,5 +75,6 @@ def test_transmission():
 
     for state1, state2 in trans_probs:
         print "P({}|{}) = {}".format(state1, state2, trans_probs[(state1, state2)])
-    
-test_transmission()
+
+if DEBUG:
+    test_transmission()

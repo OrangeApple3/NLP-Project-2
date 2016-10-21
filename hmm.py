@@ -6,6 +6,7 @@ from preprocessing import has_cue, DEBUG
 
 CUES = ['<B-CUE>', '<I-CUE>', '<O>']
 
+
 def compute_emission_probabilities(smoothed=False):
     """
     Computes the emission probabilities over the training data.
@@ -43,6 +44,14 @@ def compute_emission_probabilities(smoothed=False):
         emission_probabilities[(word, tag)] = float(emission_counts[(word, tag)])/float(cue_counts[tag])
     return emission_probabilities, Set(word_pos_list)
 
+
+def compute_gt_count(count, word_counts_inc, word_counts_noninc):
+    if word_counts_inc != 0 and word_counts_noninc != 0:
+        return (count+1)*float(word_counts_inc)/float(word_counts_noninc)
+    else:
+        return (count+1)*float(1+word_counts_inc)/float(1+word_counts_noninc)
+
+    
 def smooth_counts(counts):
     smoothing_counts = Counter()
     for pair in counts:
@@ -51,14 +60,12 @@ def smooth_counts(counts):
         if count < 10:
             word_counts_inc = smoothing_counts[count+1]
             word_counts_noninc = smoothing_counts[count]
-            if word_counts_inc != 0 and word_counts_noninc != 0:
-                counts[pair] = (count+1)*float(word_counts_inc)/float(word_counts_noninc)
-            else:
-                counts[pair] = (count+1)*float(1+word_counts_inc)/float(1+word_counts_noninc)
-            for cue in CUES:
-                if counts[(pair[0], cue)] == 0:
-                    counts[(pair[0], cue)] = 1
+            counts[pair] = compute_gt_count(count, word_counts_inc, word_counts_noninc)
+            #for cue in CUES:
+            #    if counts[(pair[0], cue)] == 0:
+            #        counts[(pair[0], cue)] = compute_gt_count(0, word_counts_inc, word_counts_noninc)
     return counts
+
 
 def test_emissions():
     # Sanity checks

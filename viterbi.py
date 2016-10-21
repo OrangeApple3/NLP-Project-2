@@ -15,7 +15,7 @@ def viterbi(emission_prob, transition_prob, word_POS_list):
     max_node_prob = []
     max_node_prob.extend([(0,[]) for _ in range(3)] 
                          for _ in range(len(word_POS_list)))
-    
+
     for curr_BIO in BIO:
         e_prob = emission_prob.get((word_POS_list[0], curr_BIO),0)
         t_prob = transition_prob.get((curr_BIO, "NULL"),0)
@@ -48,9 +48,10 @@ def viterbi(emission_prob, transition_prob, word_POS_list):
 
 
 def main():
-    emission_probs, _ =  compute_emission_probabilities()
-    word_pos_list=["that", "said", ",", "it", "is", "possible", "that", "the", 
-                   "threshold", "of", "originality", "is", "very", "low","."]
+    emission_probs, _ =  compute_emission_probabilities(smoothed=False)
+    #word_pos_list=["that", "said", ",", "it", "is", "possible", "that", "the", 
+    #               "threshold", "of", "originality", "is", "very", "low","."]
+    word_pos_list=['here','we','are','in','some','strange','place']
     
     trans_probs = compute_transition_probabilities()
     print(viterbi(emission_probs,trans_probs,word_pos_list))
