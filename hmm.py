@@ -1,8 +1,9 @@
 import sys
 import os
 from collections import Counter
-from sets import Set
 from preprocessing import has_cue, DEBUG
+from transition import compute_transition_probabilities
+from viterbi import viterbi_algo, viterbi_again
 
 CUES = ['<B-CUE>', '<I-CUE>', '<O>']
 
@@ -16,7 +17,7 @@ def compute_emission_probabilities(smoothed=False):
     emission_counts = Counter()
     emission_probabilities = dict()
     cue_counts = Counter()
-    word_pos_list = []
+    
     for file in os.listdir(os.getcwd() + "/train_preprocessed"):
         data = open(os.getcwd() + "/train_preprocessed/{}".format(file), 'r+')
         for line in data:
@@ -27,12 +28,10 @@ def compute_emission_probabilities(smoothed=False):
                 cue_counts[cue] += 1
                 # Emission count format example : {('students', '<B-CUE>'):3}
                 emission_counts[(word, cue)] += 1
-                word_pos_list.append(word)
             # NULL state has no emission probabilities
             elif "NULL" not in line:
                 cue_counts["<O>"] += 1
                 emission_counts[(word, "<O>")] += 1
-                word_pos_list.append(word)
     if smoothed:
         emission_counts = smooth_counts(emission_counts)
         # Normalize cue counts with updated smoothed counts
@@ -42,7 +41,7 @@ def compute_emission_probabilities(smoothed=False):
             
     for word, tag in emission_counts.iterkeys():
         emission_probabilities[(word, tag)] = float(emission_counts[(word, tag)])/float(cue_counts[tag])
-    return emission_probabilities, Set(word_pos_list)
+    return emission_probabilities
 
 
 def compute_gt_count(count, word_counts_inc, word_counts_noninc):
@@ -69,8 +68,7 @@ def smooth_counts(counts):
 
 def test_emissions():
     # Sanity checks
-    emission_probs, word_pos_list = compute_emission_probabilities(smoothed=True)
-    print "Total number of distinct words: {}".format(len(word_pos_list))
+    emission_probs = compute_emission_probabilities(smoothed=True)
     sorted_probs = sorted(emission_probs, key=emission_probs.get, reverse=True)
 
     b_cue_probs = [pair for pair in sorted_probs if pair[1] == '<B-CUE>']
@@ -92,5 +90,54 @@ def test_emissions():
     if null_probs:
         print "Error: There should not be emission probabiities ont he NULL state"
 
+        
+def get_sentences(test_root_dir):
+    sentences = []
+    for file in os.listdir(test_root_dir):
+        curr_sentence = []
+        data = open(test_root_dir + file, 'r+')
+        for line in data:
+            if not line.strip():
+                sentences.append(curr_sentence)
+                curr_sentence = []
+                continue
+            else:
+                curr_sentence.append(line.split("\t")[0])
+    return sentences
+
+def phrase_label():
+    # Gets a list of public and private sentences from the test data
+    public_sentences = get_sentences(os.getcwd() + "/test-public/")
+    private_sentences = get_sentences(os.getcwd() + "/test-private/")
+    
+    public_tags = []
+    private_tags = []
+
+    public_uncertainty_spans = ""
+    private_uncertainty_spans = ""
+    
+    transition = compute_transition_probabilities()
+    emission = compute_emission_probabilities()
+
+    # Use Viterbi algorithm to determine appropriate cue tags/labels for each sentence
+    for sentence in public_sentences:
+        public_tags.append(viterbi_again(emission, transition, sentence))
+    for sentence in private_sentences:
+        private_tags.append(viterbi_again(emission, transition, sentence))
+
+    # Compute the uncertainty spans from the tagged sentences
+    public_count = 0
+    private_count = 0
+    for sentence in public_tags:
+        for tag in sentence:
+            public_count += 1
+    for sentence in private_tags:
+        for word in sentence:
+            private_count += 1
+            
+
+print phrase_label()
+    
+            
 if DEBUG:
     test_emissions()
