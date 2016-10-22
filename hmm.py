@@ -178,7 +178,7 @@ def test_emissions():
         print "Outside word '{}' has emission probability {}".format(o_probs[i][0], emission_probs[o_probs[i]])
 
     if null_probs:
-        print "Error: There should not be emission probabiities ont he NULL state"
+        print "Error: There should not be emission probabiities on the NULL state"
 
         
 def test_viterbi():

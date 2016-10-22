@@ -4,7 +4,7 @@ import os
 CUES = ['<B-CUE>', '<I-CUE>', '<O>']
 
 # Change this to change the training directory used for the HMM
-TRAINING_DIRECTORY = os.getcwd() + "/train_preprocessed_unk/"
+TRAINING_DIRECTORY = os.getcwd() + "/train_preprocessed_unk"
 
 # Setting this to True will apply Good-Turing smoothing to the emission counts
 SMOOTHED = True
