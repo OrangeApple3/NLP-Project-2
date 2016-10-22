@@ -1,0 +1,166 @@
+The	DT	_ <O>
+coin	NN	_ <O>
+almost	RB	_ <O>
+made	VBD	_ <O>
+a	DT	_ <O>
+return	NN	_ <O>
+in	IN	_ <O>
+1964	CD	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+Congress	NNP	_ <O>
+approved	VBD	_ <O>
+the	DT	_ <O>
+mintage	NN	_ <O>
+of	IN	_ <O>
+45	CD	_ <O>
+million	CD	_ <O>
+new	JJ	_ <O>
+silver	NN	_ <O>
+dollars	NNS	_ <O>
+to	TO	_ <O>
+fulfill	VB	_ <O>
+the	DT	_ <O>
+needs	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+booming	JJ	_ <O>
+casino	NN	_ <O>
+industry	NN	_ <O>
+in	IN	_ <O>
+Nevada	NNP	_ <O>
+..	.	_ <O>
+
+NULL
+But	CC	_ <O>
+under	IN	_ <O>
+pressure	NN	_ <O>
+from	IN	_ <O>
+some	DT	<B-CUE>
+members	NNS	<I-CUE>
+of	IN	_ <O>
+Congress	NNP	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+Western	JJ	_ <O>
+states	NNS	_ <O>
+,	,	_ <O>
+President	NNP	_ <O>
+Lyndon	NNP	_ <O>
+B.	NNP	_ <O>
+Johnson	NNP	_ <O>
+issued	VBD	_ <O>
+an	DT	_ <O>
+order	NN	_ <O>
+on	IN	_ <O>
+May	NNP	_ <O>
+15	CD	_ <O>
+,	,	_ <O>
+1965	CD	_ <O>
+to	TO	_ <O>
+resume	VB	_ <O>
+production	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Peace	NNP	_ <O>
+Dollar	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Although	IN	_ <O>
+rumors	NNS	<B-CUE>
+persist	VB	_ <O>
+that	IN	_ <O>
+some	DT	<B-CUE>
+examples	NNS	<I-CUE>
+still	RB	_ <O>
+survive	VBP	_ <O>
+,	,	_ <O>
+owning	VBG	_ <O>
+them	PRP	_ <O>
+is	VBZ	_ <O>
+illegal	JJ	_ <O>
+,	,	_ <O>
+making	VBG	_ <O>
+it	PRP	_ <O>
+unlikely	JJ	_ <O>
+that	IN	_ <O>
+anyone	NN	_ <O>
+who	WP	_ <O>
+does	VBZ	_ <O>
+own	VB	_ <O>
+one	NN	_ <O>
+will	MD	_ <O>
+ever	RB	_ <O>
+come	VB	_ <O>
+forth	RB	_ <O>
+publicly	RB	_ <O>
+.	.	_ <O>
+
+NULL
+But	CC	_ <O>
+under	IN	_ <O>
+pressure	NN	_ <O>
+from	IN	_ <O>
+some	DT	<B-CUE>
+members	NNS	<I-CUE>
+of	IN	_ <O>
+Congress	NNP	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+Western	JJ	_ <O>
+states	NNS	_ <O>
+,	,	_ <O>
+President	NNP	_ <O>
+Lyndon	NNP	_ <O>
+B.	NNP	_ <O>
+Johnson	NNP	_ <O>
+issued	VBD	_ <O>
+an	DT	_ <O>
+order	NN	_ <O>
+on	IN	_ <O>
+May	NNP	_ <O>
+15	CD	_ <O>
+,	,	_ <O>
+1965	CD	_ <O>
+to	TO	_ <O>
+resume	VB	_ <O>
+production	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Peace	NNP	_ <O>
+Dollar	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Although	IN	_ <O>
+rumors	NNS	<B-CUE>
+persist	VB	_ <O>
+that	IN	_ <O>
+some	DT	<B-CUE>
+examples	NNS	<I-CUE>
+still	RB	_ <O>
+survive	VBP	_ <O>
+,	,	_ <O>
+owning	VBG	_ <O>
+them	PRP	_ <O>
+is	VBZ	_ <O>
+illegal	JJ	_ <O>
+,	,	_ <O>
+making	VBG	_ <O>
+it	PRP	_ <O>
+unlikely	JJ	_ <O>
+that	IN	_ <O>
+anyone	NN	_ <O>
+who	WP	_ <O>
+does	VBZ	_ <O>
+own	VB	_ <O>
+one	NN	_ <O>
+will	MD	_ <O>
+ever	RB	_ <O>
+come	VB	_ <O>
+forth	RB	_ <O>
+publicly	RB	_ <O>
+.	.	_ <O>
+
+NULL

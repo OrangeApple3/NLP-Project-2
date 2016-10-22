@@ -1,0 +1,137 @@
+NULL
+'	''	_ <O>
+Paul	NNP	_ <O>
+Löwinger	NNP	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+November	NNP	_ <O>
+10	CD	_ <O>
+,	,	_ <O>
+1904	CD	_ <O>
+in	IN	_ <O>
+Tulln	NNP	_ <O>
+,	,	_ <O>
+Lower	NNP	_ <O>
+Austria	NNP	_ <O>
+;	:	_ <O>
+†	CC	_ <O>
+December	NNP	_ <O>
+17	CD	_ <O>
+,	,	_ <O>
+1988	CD	_ <O>
+in	IN	_ <O>
+Vienna	NNP	_ <O>
+)	-RRB-	_ <O>
+was	VBD	_ <O>
+an	DT	_ <O>
+Austrian	JJ	_ <O>
+actor	NN	_ <O>
+,	,	_ <O>
+theatre	NN	_ <O>
+manager	NN	_ <O>
+and	CC	_ <O>
+writer	NN	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+plays	NNS	_ <O>
+were	VBD	_ <O>
+often	RB	_ <O>
+broadcast	VBN	_ <O>
+on	IN	_ <O>
+television	NN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+also	RB	_ <O>
+took	VBD	_ <O>
+part	NN	_ <O>
+in	IN	_ <O>
+numerous	JJ	_ <O>
+German	JJ	_ <O>
+and	CC	_ <O>
+Austrian	JJ	_ <O>
+films	NNS	_ <O>
+like	IN	_ <O>
+"	``	_ <O>
+Zyankali	NNP	_ <O>
+"	''	_ <O>
+(	-LRB-	_ <O>
+1947	CD	_ <O>
+)	-RRB-	_ <O>
+or	CC	_ <O>
+"	``	_ <O>
+Kaiserball	NNP	_ <O>
+"	''	_ <O>
+(	-LRB-	_ <O>
+1956	CD	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+so	RB	_ <O>
+he	PRP	_ <O>
+became	VBD	_ <O>
+international	JJ	_ <O>
+popular	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+1938	CD	_ <O>
+they	PRP	_ <O>
+were	VBD	_ <O>
+probably	RB	<B-CUE>
+the	DT	_ <O>
+first	JJ	_ <O>
+theatre	NN	_ <O>
+ensemble	NN	_ <O>
+which	WDT	_ <O>
+performed	VBD	_ <O>
+in	IN	_ <O>
+front	NN	_ <O>
+of	IN	_ <O>
+television	NN	_ <O>
+cameras	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Löwinger	NNP	_ <O>
+wrote	VBD	_ <O>
+numerous	JJ	<B-CUE>
+comedies	NNS	<I-CUE>
+and	CC	_ <O>
+well	RB	<B-CUE>
+known	VBN	<I-CUE>
+plays	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+1938	CD	_ <O>
+they	PRP	_ <O>
+were	VBD	_ <O>
+probably	RB	<B-CUE>
+the	DT	_ <O>
+first	JJ	_ <O>
+theatre	NN	_ <O>
+ensemble	NN	_ <O>
+which	WDT	_ <O>
+performed	VBD	_ <O>
+in	IN	_ <O>
+front	NN	_ <O>
+of	IN	_ <O>
+television	NN	_ <O>
+cameras	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Löwinger	NNP	_ <O>
+wrote	VBD	_ <O>
+numerous	JJ	<B-CUE>
+comedies	NNS	<I-CUE>
+and	CC	_ <O>
+well	RB	<B-CUE>
+known	VBN	<I-CUE>
+plays	NNS	_ <O>
+.	.	_ <O>
+
+NULL

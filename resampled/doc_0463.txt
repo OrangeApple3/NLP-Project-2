@@ -1,0 +1,129 @@
+NULL
+There	EX	_ <O>
+was	VBD	_ <O>
+another	DT	_ <O>
+schism	NN	_ <O>
+in	IN	_ <O>
+1989	CD	_ <O>
+when	WRB	_ <O>
+Harrington	NNP	_ <O>
+and	CC	_ <O>
+Graham	NNP	_ <O>
+Williamson	NNP	_ <O>
+parted	VBD	_ <O>
+company	NN	_ <O>
+with	IN	_ <O>
+Griffin	NNP	_ <O>
+and	CC	_ <O>
+Holland	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+ONF	NNP	_ <O>
+had	VBD	_ <O>
+opened	VBN	_ <O>
+dialogue	NN	_ <O>
+with	IN	_ <O>
+groups	NNS	_ <O>
+like	IN	_ <O>
+the	DT	_ <O>
+Nation	NNP	_ <O>
+of	IN	_ <O>
+Islam	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Pan	NNP	_ <O>
+-	HYPH	_ <O>
+Afrikan	NNP	_ <O>
+International	NNP	_ <O>
+Movement	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+late	JJ	_ <O>
+1989	CD	_ <O>
+Harrington	NNP	_ <O>
+voted	VBD	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+disbandment	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Official	NNP	_ <O>
+National	NNP	_ <O>
+Front	NNP	_ <O>
+and	CC	_ <O>
+joined	VBD	_ <O>
+with	IN	_ <O>
+others	NNS	_ <O>
+to	TO	_ <O>
+form	VB	_ <O>
+the	DT	_ <O>
+Third	NNP	_ <O>
+Way	NNP	_ <O>
+(	-LRB-	_ <O>
+UK	NNP	_ <O>
+)	-RRB-	_ <O>
+in	IN	_ <O>
+1990	CD	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+their	PRP$	_ <O>
+part	NN	_ <O>
+,	,	_ <O>
+Griffin	NNP	_ <O>
+and	CC	_ <O>
+Holland	NNP	_ <O>
+claimed	VBD	_ <O>
+that	IN	_ <O>
+Harrington	NNP	_ <O>
+'s	POS	_ <O>
+refusal	NN	_ <O>
+to	TO	_ <O>
+condemn	VB	_ <O>
+the	DT	_ <O>
+IRA	NNP	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+the	DT	_ <O>
+cause	NN	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+problems	NNS	<I-CUE>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL
+For	IN	_ <O>
+their	PRP$	_ <O>
+part	NN	_ <O>
+,	,	_ <O>
+Griffin	NNP	_ <O>
+and	CC	_ <O>
+Holland	NNP	_ <O>
+claimed	VBD	_ <O>
+that	IN	_ <O>
+Harrington	NNP	_ <O>
+'s	POS	_ <O>
+refusal	NN	_ <O>
+to	TO	_ <O>
+condemn	VB	_ <O>
+the	DT	_ <O>
+IRA	NNP	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+the	DT	_ <O>
+cause	NN	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+problems	NNS	<I-CUE>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL

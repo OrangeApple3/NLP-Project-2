@@ -1,0 +1,56 @@
+NULL
+Minority	NN	_ <O>
+ethnic	JJ	_ <O>
+groups	NNS	_ <O>
+(	-LRB-	_ <O>
+including	VBG	_ <O>
+those	DT	_ <O>
+in	IN	_ <O>
+white	JJ	_ <O>
+ethnic	JJ	_ <O>
+groups	NNS	_ <O>
+who	WP	_ <O>
+did	VBD	_ <O>
+not	RB	_ <O>
+classify	VB	_ <O>
+themselves	PRP	_ <O>
+as	IN	_ <O>
+British	NNP	_ <O>
+)	-RRB-	_ <O>
+represent	VBP	_ <O>
+4.0	CD	_ <O>
+%	NN	_ <O>
+of	IN	_ <O>
+Poole	NNP	_ <O>
+’s	NNP	_ <O>
+population	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+next	RB	_ <O>
+-	HYPH	_ <O>
+largest	JJS	_ <O>
+sector	NN	_ <O>
+is	VBZ	_ <O>
+those	DT	_ <O>
+with	IN	_ <O>
+no	DT	_ <O>
+religion	NN	_ <O>
+,	,	_ <O>
+at	IN	_ <O>
+almost	RB	_ <O>
+16.23	CD	_ <O>
+%	NN	_ <O>
+,	,	_ <O>
+also	RB	_ <O>
+above	IN	_ <O>
+the	DT	_ <O>
+UK	NNP	_ <O>
+average	NN	_ <O>
+of	IN	_ <O>
+15.5	CD	_ <O>
+%	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,100 @@
+One	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+major	JJ	_ <O>
+technical	JJ	_ <O>
+innovations	NNS	_ <O>
+that	WDT	_ <O>
+helped	VBD	_ <O>
+to	TO	_ <O>
+create	VB	_ <O>
+the	DT	_ <O>
+sound	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+modern	JJ	_ <O>
+piano	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+strong	JJ	_ <O>
+iron	NN	_ <O>
+frame	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+increased	VBN	_ <O>
+structural	JJ	_ <O>
+integrity	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+iron	NN	_ <O>
+frame	NN	_ <O>
+allowed	VBD	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+thicker	JJR	_ <O>
+,	,	_ <O>
+tenser	JJR	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+more	RBR	_ <O>
+numerous	JJ	_ <O>
+strings	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Composite	NNP	_ <O>
+forged	VBD	_ <O>
+metal	NN	_ <O>
+frames	NNS	_ <O>
+were	VBD	_ <O>
+preferred	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+European	JJ	<I-CUE>
+makers	NNS	<I-CUE>
+until	IN	_ <O>
+the	DT	_ <O>
+American	JJ	_ <O>
+system	NN	_ <O>
+was	VBD	_ <O>
+fully	RB	_ <O>
+adopted	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+20th	JJ	_ <O>
+century	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Composite	NNP	_ <O>
+forged	VBD	_ <O>
+metal	NN	_ <O>
+frames	NNS	_ <O>
+were	VBD	_ <O>
+preferred	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+European	JJ	<I-CUE>
+makers	NNS	<I-CUE>
+until	IN	_ <O>
+the	DT	_ <O>
+American	JJ	_ <O>
+system	NN	_ <O>
+was	VBD	_ <O>
+fully	RB	_ <O>
+adopted	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+20th	JJ	_ <O>
+century	NN	_ <O>
+.	.	_ <O>
+
+NULL

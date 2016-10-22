@@ -1,0 +1,165 @@
+NULL
+The	DT	_ <O>
+town	NN	_ <O>
+manages	VBZ	_ <O>
+to	TO	_ <O>
+hold	VB	_ <O>
+a	DT	<B-CUE>
+few	JJ	<I-CUE>
+historical	JJ	<I-CUE>
+places	NNS	<I-CUE>
+of	IN	<I-CUE>
+interest	NN	<I-CUE>
+.	.	_ <O>
+
+NULL
+These	DT	_ <O>
+include	VBP	_ <O>
+courtyards	NNS	_ <O>
+of	IN	_ <O>
+kings	NNS	_ <O>
+and	CC	_ <O>
+a	DT	<B-CUE>
+few	JJ	<I-CUE>
+palaces	NNS	<I-CUE>
+that	WDT	_ <O>
+are	VBP	_ <O>
+fondly	RB	_ <O>
+called	VBN	_ <O>
+'	``	_ <O>
+Devidi	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	<B-CUE>
+few	JJ	<I-CUE>
+sprawling	JJ	<I-CUE>
+grounds	NNS	<I-CUE>
+are	VBP	_ <O>
+available	JJ	_ <O>
+for	IN	_ <O>
+sport	NN	_ <O>
+officianados	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+common	JJ	_ <O>
+sight	NN	_ <O>
+to	TO	_ <O>
+see	VB	_ <O>
+a	DT	_ <O>
+crowd	NN	_ <O>
+of	IN	_ <O>
+people	NNS	_ <O>
+trying	VBG	_ <O>
+to	TO	_ <O>
+showcase	VB	_ <O>
+their	PRP$	_ <O>
+cricketing	VBG	_ <O>
+spirit	NN	_ <O>
+in	IN	_ <O>
+multiple	JJ	_ <O>
+places	NNS	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+town	NN	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+a	DT	<B-CUE>
+few	JJ	<I-CUE>
+cinemas	NNS	<I-CUE>
+,	,	<I-CUE>
+theatres	NNS	<I-CUE>
+and	CC	<I-CUE>
+restaurants	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+town	NN	_ <O>
+manages	VBZ	_ <O>
+to	TO	_ <O>
+hold	VB	_ <O>
+a	DT	<B-CUE>
+few	JJ	<I-CUE>
+historical	JJ	<I-CUE>
+places	NNS	<I-CUE>
+of	IN	<I-CUE>
+interest	NN	<I-CUE>
+.	.	_ <O>
+
+NULL
+These	DT	_ <O>
+include	VBP	_ <O>
+courtyards	NNS	_ <O>
+of	IN	_ <O>
+kings	NNS	_ <O>
+and	CC	_ <O>
+a	DT	<B-CUE>
+few	JJ	<I-CUE>
+palaces	NNS	<I-CUE>
+that	WDT	_ <O>
+are	VBP	_ <O>
+fondly	RB	_ <O>
+called	VBN	_ <O>
+'	``	_ <O>
+Devidi	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	<B-CUE>
+few	JJ	<I-CUE>
+sprawling	JJ	<I-CUE>
+grounds	NNS	<I-CUE>
+are	VBP	_ <O>
+available	JJ	_ <O>
+for	IN	_ <O>
+sport	NN	_ <O>
+officianados	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+common	JJ	_ <O>
+sight	NN	_ <O>
+to	TO	_ <O>
+see	VB	_ <O>
+a	DT	_ <O>
+crowd	NN	_ <O>
+of	IN	_ <O>
+people	NNS	_ <O>
+trying	VBG	_ <O>
+to	TO	_ <O>
+showcase	VB	_ <O>
+their	PRP$	_ <O>
+cricketing	VBG	_ <O>
+spirit	NN	_ <O>
+in	IN	_ <O>
+multiple	JJ	_ <O>
+places	NNS	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+town	NN	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+a	DT	<B-CUE>
+few	JJ	<I-CUE>
+cinemas	NNS	<I-CUE>
+,	,	<I-CUE>
+theatres	NNS	<I-CUE>
+and	CC	<I-CUE>
+restaurants	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

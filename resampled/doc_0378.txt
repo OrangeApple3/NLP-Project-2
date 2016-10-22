@@ -1,0 +1,61 @@
+Peasant	NN	_ <O>
+societies	NNS	_ <O>
+often	RB	_ <O>
+had	VBD	_ <O>
+well	RB	_ <O>
+developed	VBN	_ <O>
+social	JJ	_ <O>
+support	NN	_ <O>
+networks	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Peasants	NNS	_ <O>
+usually	RB	_ <O>
+only	RB	_ <O>
+had	VBD	_ <O>
+one	CD	_ <O>
+set	NN	_ <O>
+of	IN	_ <O>
+clothing	NN	_ <O>
+,	,	_ <O>
+two	CD	_ <O>
+at	IN	_ <O>
+most	JJS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+many	JJ	<B-CUE>
+pre	JJ	<I-CUE>
+-	HYPH	<I-CUE>
+industrial	JJ	<I-CUE>
+societies	NNS	<I-CUE>
+,	,	_ <O>
+peasants	NNS	_ <O>
+comprised	VBD	_ <O>
+the	DT	_ <O>
+bulk	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+population	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+many	JJ	<B-CUE>
+pre	JJ	<I-CUE>
+-	HYPH	<I-CUE>
+industrial	JJ	<I-CUE>
+societies	NNS	<I-CUE>
+,	,	_ <O>
+peasants	NNS	_ <O>
+comprised	VBD	_ <O>
+the	DT	_ <O>
+bulk	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+population	NN	_ <O>
+.	.	_ <O>
+
+NULL

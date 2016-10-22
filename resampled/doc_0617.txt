@@ -1,0 +1,162 @@
+NULL
+For	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+trader	NN	_ <O>
+may	MD	_ <O>
+use	VB	_ <O>
+3	CD	_ <O>
+day	NN	_ <O>
+trades	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+then	RB	_ <O>
+enter	VB	_ <O>
+a	DT	_ <O>
+4th	JJ	_ <O>
+position	NN	_ <O>
+to	TO	_ <O>
+hold	VB	_ <O>
+overnight	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+other	JJ	_ <O>
+choice	NN	_ <O>
+would	MD	_ <O>
+be	VB	_ <O>
+to	TO	_ <O>
+close	VB	_ <O>
+the	DT	_ <O>
+position	NN	_ <O>
+,	,	_ <O>
+protecting	VBG	_ <O>
+his	PRP$	_ <O>
+capital	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+(	-LRB-	_ <O>
+perhaps	RB	<B-CUE>
+inappropriately	RB	_ <O>
+)	-RRB-	_ <O>
+fall	NN	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+rule	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+this	DT	_ <O>
+would	MD	_ <O>
+now	RB	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+4th	JJ	_ <O>
+day	NN	_ <O>
+trade	NN	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+period	NN	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+the	DT	_ <O>
+trader	NN	_ <O>
+was	VBD	_ <O>
+aware	JJ	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+well	RB	<B-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+rule	NN	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+would	MD	_ <O>
+not	RB	_ <O>
+open	VB	_ <O>
+the	DT	_ <O>
+4th	JJ	_ <O>
+position	NN	_ <O>
+unless	IN	_ <O>
+he	PRP	_ <O>
+intended	VBD	_ <O>
+to	TO	_ <O>
+hold	VB	_ <O>
+it	PRP	_ <O>
+overnight	RB	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+other	JJ	_ <O>
+choice	NN	_ <O>
+would	MD	_ <O>
+be	VB	_ <O>
+to	TO	_ <O>
+close	VB	_ <O>
+the	DT	_ <O>
+position	NN	_ <O>
+,	,	_ <O>
+protecting	VBG	_ <O>
+his	PRP$	_ <O>
+capital	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+(	-LRB-	_ <O>
+perhaps	RB	<B-CUE>
+inappropriately	RB	_ <O>
+)	-RRB-	_ <O>
+fall	NN	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+rule	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+this	DT	_ <O>
+would	MD	_ <O>
+now	RB	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+4th	JJ	_ <O>
+day	NN	_ <O>
+trade	NN	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+period	NN	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+the	DT	_ <O>
+trader	NN	_ <O>
+was	VBD	_ <O>
+aware	JJ	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+well	RB	<B-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+rule	NN	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+would	MD	_ <O>
+not	RB	_ <O>
+open	VB	_ <O>
+the	DT	_ <O>
+4th	JJ	_ <O>
+position	NN	_ <O>
+unless	IN	_ <O>
+he	PRP	_ <O>
+intended	VBD	_ <O>
+to	TO	_ <O>
+hold	VB	_ <O>
+it	PRP	_ <O>
+overnight	RB	_ <O>
+.	.	_ <O>
+
+NULL

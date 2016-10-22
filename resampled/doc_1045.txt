@@ -1,0 +1,102 @@
+NULL
+Sometimes	RB	_ <O>
+the	DT	_ <O>
+showman	NN	_ <O>
+would	MD	_ <O>
+perform	VB	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+crowd	NN	_ <O>
+with	IN	_ <O>
+puppets	NNS	_ <O>
+or	CC	_ <O>
+pictures	NNS	_ <O>
+outside	IN	_ <O>
+the	DT	_ <O>
+box	NN	_ <O>
+and	CC	_ <O>
+then	RB	_ <O>
+charge	VB	_ <O>
+people	NNS	_ <O>
+extra	JJ	_ <O>
+to	TO	_ <O>
+look	VB	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+holes	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+box	NN	_ <O>
+had	VBD	_ <O>
+six	CD	_ <O>
+holes	NNS	_ <O>
+through	IN	_ <O>
+which	WDT	_ <O>
+people	NNS	_ <O>
+could	MD	_ <O>
+see	VB	_ <O>
+scenes	NNS	_ <O>
+backlit	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+central	JJ	_ <O>
+candle	NN	_ <O>
+.	.	_ <O>
+
+NULL
+19th	JJ	_ <O>
+century	NN	_ <O>
+Chinese	JJ	_ <O>
+peep	NN	_ <O>
+shows	NNS	_ <O>
+were	VBD	_ <O>
+known	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+names	NNS	<I-CUE>
+including	VBG	_ <O>
+'	''	_ <O>
+la	FW	_ <O>
+yang	FW	_ <O>
+p'ien	FW	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+"	``	_ <O>
+pulling	VBG	_ <O>
+foreign	JJ	_ <O>
+picture	NN	_ <O>
+cards	NNS	_ <O>
+"	''	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+19th	JJ	_ <O>
+century	NN	_ <O>
+Chinese	JJ	_ <O>
+peep	NN	_ <O>
+shows	NNS	_ <O>
+were	VBD	_ <O>
+known	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+names	NNS	<I-CUE>
+including	VBG	_ <O>
+'	''	_ <O>
+la	FW	_ <O>
+yang	FW	_ <O>
+p'ien	FW	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+"	``	_ <O>
+pulling	VBG	_ <O>
+foreign	JJ	_ <O>
+picture	NN	_ <O>
+cards	NNS	_ <O>
+"	''	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

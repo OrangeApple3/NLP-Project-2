@@ -1,0 +1,43 @@
+He	PRP	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+featured	VBN	_ <O>
+in	IN	_ <O>
+'	``	_ <O>
+JAZZIZ	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+Smooth&Soul	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+Smooth	VB	_ <O>
+Jazz	NNP	_ <O>
+News	NNP	_ <O>
+'	''	_ <O>
+and	CC	_ <O>
+his	PRP$	_ <O>
+music	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+aired	VBN	_ <O>
+worldwide	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Patrick	NNP	_ <O>
+'s	POS	_ <O>
+blues/rock	NN	_ <O>
+release	NN	_ <O>
+"	``	_ <O>
+New	NNP	_ <O>
+York	NNP	_ <O>
+Blues	NNP	_ <O>
+"	''	_ <O>
+was	VBD	_ <O>
+featured	VBN	_ <O>
+worldwide	RB	_ <O>
+!	.	_ <O>
+
+NULL

@@ -1,0 +1,127 @@
+Inside	IN	_ <O>
+Conseco	NNP	_ <O>
+Fieldhouse	NNP	_ <O>
+during	IN	_ <O>
+an	DT	_ <O>
+Indiana	NNP	_ <O>
+Pacers	NNPS	_ <O>
+preseason	NN	_ <O>
+game	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+designed	VBN	_ <O>
+after	IN	_ <O>
+Hinkle	NNP	_ <O>
+Fieldhouse	NNP	_ <O>
+at	IN	_ <O>
+Butler	NNP	_ <O>
+University	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+great	JJ	_ <O>
+fieldhouses	NNS	_ <O>
+that	WDT	_ <O>
+covered	VBD	_ <O>
+the	DT	_ <O>
+state	NN	_ <O>
+of	IN	_ <O>
+Indiana	NNP	_ <O>
+with	IN	_ <O>
+standing	VBG	_ <O>
+room	NN	_ <O>
+only	RB	_ <O>
+crowds	NNS	_ <O>
+on	IN	_ <O>
+Friday	NNP	_ <O>
+nights	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+formative	JJ	_ <O>
+years	NNS	_ <O>
+of	IN	_ <O>
+high	JJ	_ <O>
+school	NN	_ <O>
+basketball	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Conseco	NNP	_ <O>
+Fieldhouse	NNP	_ <O>
+has	VBZ	_ <O>
+received	VBN	_ <O>
+widespread	JJ	<B-CUE>
+acclaim	NN	_ <O>
+as	IN	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+finest	JJS	<I-CUE>
+facilities	NNS	_ <O>
+in	IN	_ <O>
+all	DT	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+sports	NNS	_ <O>
+world	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+fieldhouse	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+veritable	JJ	<B-CUE>
+museum	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+rich	JJ	_ <O>
+heritige	NN	_ <O>
+that	WDT	_ <O>
+is	VBZ	_ <O>
+Indiana	NNP	_ <O>
+basketball	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Conseco	NNP	_ <O>
+Fieldhouse	NNP	_ <O>
+has	VBZ	_ <O>
+received	VBN	_ <O>
+widespread	JJ	<B-CUE>
+acclaim	NN	_ <O>
+as	IN	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+finest	JJS	<I-CUE>
+facilities	NNS	_ <O>
+in	IN	_ <O>
+all	DT	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+sports	NNS	_ <O>
+world	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+fieldhouse	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+veritable	JJ	<B-CUE>
+museum	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+rich	JJ	_ <O>
+heritige	NN	_ <O>
+that	WDT	_ <O>
+is	VBZ	_ <O>
+Indiana	NNP	_ <O>
+basketball	NN	_ <O>
+.	.	_ <O>
+
+NULL

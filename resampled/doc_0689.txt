@@ -1,0 +1,100 @@
+NULL
+Jacob	NNP	_ <O>
+claims	VBZ	_ <O>
+the	DT	_ <O>
+petition	NN	_ <O>
+'s	POS	_ <O>
+organizers	NNS	_ <O>
+had	VBD	_ <O>
+sought	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+received	VBD	_ <O>
+,	,	_ <O>
+approval	NN	_ <O>
+for	IN	_ <O>
+this	DT	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+Oklahoma	NNP	_ <O>
+Secretary	NNP	_ <O>
+of	IN	_ <O>
+State	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Jacob	NNP	_ <O>
+was	VBD	_ <O>
+indicted	VBN	_ <O>
+with	IN	_ <O>
+two	CD	_ <O>
+others	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+case	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+each	DT	_ <O>
+pleaded	VBD	_ <O>
+not	RB	_ <O>
+guilty	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+website—FreePaulJacob.com—was	NNP	_ <O>
+put	VBN	_ <O>
+up	RP	_ <O>
+in	IN	_ <O>
+Jacob	NNP	_ <O>
+'s	POS	_ <O>
+defense	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Among	IN	_ <O>
+the	DT	_ <O>
+paid	VBN	_ <O>
+petitioners	NNS	_ <O>
+used	VBN	_ <O>
+were	VBD	_ <O>
+some	DT	<B-CUE>
+that	WDT	_ <O>
+had	VBD	_ <O>
+come	VBN	_ <O>
+to	IN	_ <O>
+Oklahoma	NNP	_ <O>
+from	IN	_ <O>
+other	JJ	_ <O>
+states	NNS	_ <O>
+to	TO	_ <O>
+work	VB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+drive	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Among	IN	_ <O>
+the	DT	_ <O>
+paid	VBN	_ <O>
+petitioners	NNS	_ <O>
+used	VBN	_ <O>
+were	VBD	_ <O>
+some	DT	<B-CUE>
+that	WDT	_ <O>
+had	VBD	_ <O>
+come	VBN	_ <O>
+to	IN	_ <O>
+Oklahoma	NNP	_ <O>
+from	IN	_ <O>
+other	JJ	_ <O>
+states	NNS	_ <O>
+to	TO	_ <O>
+work	VB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+drive	NN	_ <O>
+.	.	_ <O>
+
+NULL

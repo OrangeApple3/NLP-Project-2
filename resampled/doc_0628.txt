@@ -1,0 +1,157 @@
+NULL
+During	IN	_ <O>
+battles	NNS	_ <O>
+,	,	_ <O>
+western	JJ	_ <O>
+forces	NNS	_ <O>
+were	VBD	_ <O>
+usually	RB	_ <O>
+incapable	JJ	_ <O>
+of	IN	_ <O>
+correctly	RB	_ <O>
+estimating	VBG	_ <O>
+the	DT	_ <O>
+strength	NN	_ <O>
+of	IN	_ <O>
+PVA	NNP	_ <O>
+forces	NNS	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+greatly	RB	_ <O>
+exaggerated	VBD	_ <O>
+the	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+attacking	VBG	_ <O>
+PVAs	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+taking	VBG	_ <O>
+a	DT	_ <O>
+PVA	NNP	_ <O>
+regiment	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+PVA	NNP	_ <O>
+division	NN	_ <O>
+.	.	_ <O>
+
+NULL
+At	IN	_ <O>
+various	JJ	_ <O>
+stages	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Korean	JJ	_ <O>
+war	NN	_ <O>
+,	,	_ <O>
+PVA	NNP	_ <O>
+never	RB	_ <O>
+had	VBD	_ <O>
+a	DT	_ <O>
+commanding	JJ	_ <O>
+numerical	JJ	_ <O>
+superiority	NN	_ <O>
+against	IN	_ <O>
+UN	NNP	_ <O>
+forces	NNS	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+fact	NN	_ <O>
+,	,	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+4th	JJ	_ <O>
+campaign	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+greatly	RB	_ <O>
+outnumbered	VBN	_ <O>
+by	IN	_ <O>
+UN	NNP	_ <O>
+(	-LRB-	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+always	RB	_ <O>
+outgunned	VBN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+yet	CC	_ <O>
+it	PRP	_ <O>
+could	MD	_ <O>
+still	RB	_ <O>
+outmaneuver	VB	_ <O>
+UN	NNP	_ <O>
+forces	NNS	_ <O>
+and	CC	_ <O>
+even	RB	_ <O>
+managed	VBD	_ <O>
+to	TO	_ <O>
+counter	VB	_ <O>
+attack	NN	_ <O>
+at	IN	_ <O>
+X	NNP	_ <O>
+Corps	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+some	DT	<B-CUE>
+military	JJ	<I-CUE>
+analysts	NNS	<I-CUE>
+pointed	VBD	_ <O>
+out	RP	_ <O>
+,	,	_ <O>
+PLA	NNP	_ <O>
+rarely	RB	_ <O>
+use	VBP	_ <O>
+dense	JJ	_ <O>
+formation	NN	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+attacks	NNS	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+seeks	VBZ	_ <O>
+to	TO	_ <O>
+inflict	VB	_ <O>
+maximum	JJ	_ <O>
+damage	NN	_ <O>
+with	IN	_ <O>
+minimum	JJ	_ <O>
+casualty	NN	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+some	DT	<B-CUE>
+military	JJ	<I-CUE>
+analysts	NNS	<I-CUE>
+pointed	VBD	_ <O>
+out	RP	_ <O>
+,	,	_ <O>
+PLA	NNP	_ <O>
+rarely	RB	_ <O>
+use	VBP	_ <O>
+dense	JJ	_ <O>
+formation	NN	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+attacks	NNS	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+seeks	VBZ	_ <O>
+to	TO	_ <O>
+inflict	VB	_ <O>
+maximum	JJ	_ <O>
+damage	NN	_ <O>
+with	IN	_ <O>
+minimum	JJ	_ <O>
+casualty	NN	_ <O>
+.	.	_ <O>
+
+NULL

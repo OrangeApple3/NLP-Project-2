@@ -1,0 +1,240 @@
+President	NNP	_ <O>
+George	NNP	_ <O>
+W.	NNP	_ <O>
+Bush	NNP	_ <O>
+and	CC	_ <O>
+First	NNP	_ <O>
+Lady	NNP	_ <O>
+Laura	NNP	_ <O>
+Bush	NNP	_ <O>
+approach	VB	_ <O>
+Chinese	JJ	_ <O>
+President	NNP	_ <O>
+Hu	NNP	_ <O>
+Jintao	NNP	_ <O>
+and	CC	_ <O>
+his	PRP$	_ <O>
+wife	NN	_ <O>
+in	IN	_ <O>
+Beijing	NNP	_ <O>
+during	IN	_ <O>
+an	DT	_ <O>
+official	JJ	_ <O>
+state	NN	_ <O>
+visit	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Bush	NNP	_ <O>
+presidency	NN	_ <O>
+has	VBZ	_ <O>
+also	RB	_ <O>
+been	VBN	_ <O>
+marked	VBN	_ <O>
+by	IN	_ <O>
+diplomatic	JJ	_ <O>
+tensions	NNS	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+People	NNPS	_ <O>
+'s	POS	_ <O>
+Republic	NNP	_ <O>
+of	IN	_ <O>
+China	NNP	_ <O>
+and	CC	_ <O>
+North	NNP	_ <O>
+Korea	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+latter	NN	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+admitted	VBD	_ <O>
+in	IN	_ <O>
+2003	CD	_ <O>
+to	IN	_ <O>
+having	VBG	_ <O>
+been	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+process	NN	_ <O>
+of	IN	_ <O>
+building	VBG	_ <O>
+nuclear	JJ	_ <O>
+weapons	NNS	_ <O>
+and	CC	_ <O>
+threatened	VBD	_ <O>
+to	TO	_ <O>
+use	VB	_ <O>
+them	PRP	_ <O>
+if	IN	_ <O>
+provoked	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+U.S.	NNP	_ <O>
+
+NULL
+Bush	NNP	_ <O>
+made	VBD	_ <O>
+his	PRP$	_ <O>
+first	JJ	_ <O>
+visit	NN	_ <O>
+to	IN	_ <O>
+Europe	NNP	_ <O>
+in	IN	_ <O>
+June	NNP	_ <O>
+2001	CD	_ <O>
+,	,	_ <O>
+having	VBG	_ <O>
+never	RB	_ <O>
+traveled	VBD	_ <O>
+there	RB	_ <O>
+prior	RB	_ <O>
+to	IN	_ <O>
+winning	VBG	_ <O>
+the	DT	_ <O>
+presidency	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Bush	NNP	_ <O>
+came	VBD	<B-CUE>
+under	IN	<I-CUE>
+criticism	NN	<I-CUE>
+from	IN	_ <O>
+European	JJ	<B-CUE>
+leaders	NNS	<I-CUE>
+for	IN	_ <O>
+his	PRP$	_ <O>
+rejection	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Kyoto	NNP	_ <O>
+Protocol	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+aimed	VBN	_ <O>
+at	IN	_ <O>
+reducing	VBG	_ <O>
+carbon	NN	_ <O>
+dioxide	NN	_ <O>
+emissions	NNS	_ <O>
+that	WDT	_ <O>
+contribute	VBP	_ <O>
+to	IN	_ <O>
+global	JJ	_ <O>
+warming	NN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+has	VBZ	<B-CUE>
+asserted	VBN	<I-CUE>
+,	,	_ <O>
+for	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+Kyoto	NNP	_ <O>
+Protocol	NNP	_ <O>
+is	VBZ	_ <O>
+"	``	_ <O>
+unfair	JJ	_ <O>
+and	CC	_ <O>
+ineffective	JJ	_ <O>
+"	''	_ <O>
+because	IN	_ <O>
+it	PRP	_ <O>
+would	MD	_ <O>
+exempt	VB	_ <O>
+80	CD	_ <O>
+percent	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+cause	VB	_ <O>
+serious	JJ	_ <O>
+harm	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+U.S.	NNP	_ <O>
+economy	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+Bush	NNP	_ <O>
+came	VBD	<B-CUE>
+under	IN	<I-CUE>
+criticism	NN	<I-CUE>
+from	IN	_ <O>
+European	JJ	<B-CUE>
+leaders	NNS	<I-CUE>
+for	IN	_ <O>
+his	PRP$	_ <O>
+rejection	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Kyoto	NNP	_ <O>
+Protocol	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+aimed	VBN	_ <O>
+at	IN	_ <O>
+reducing	VBG	_ <O>
+carbon	NN	_ <O>
+dioxide	NN	_ <O>
+emissions	NNS	_ <O>
+that	WDT	_ <O>
+contribute	VBP	_ <O>
+to	IN	_ <O>
+global	JJ	_ <O>
+warming	NN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+has	VBZ	<B-CUE>
+asserted	VBN	<I-CUE>
+,	,	_ <O>
+for	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+Kyoto	NNP	_ <O>
+Protocol	NNP	_ <O>
+is	VBZ	_ <O>
+"	``	_ <O>
+unfair	JJ	_ <O>
+and	CC	_ <O>
+ineffective	JJ	_ <O>
+"	''	_ <O>
+because	IN	_ <O>
+it	PRP	_ <O>
+would	MD	_ <O>
+exempt	VB	_ <O>
+80	CD	_ <O>
+percent	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+cause	VB	_ <O>
+serious	JJ	_ <O>
+harm	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+U.S.	NNP	_ <O>
+economy	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL

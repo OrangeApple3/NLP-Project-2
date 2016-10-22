@@ -1,0 +1,136 @@
+For	IN	_ <O>
+this	DT	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+affirmations	NNS	_ <O>
+,	,	_ <O>
+listen	VB	_ <O>
+to	IN	_ <O>
+In	IN	_ <O>
+Conversations	NNPS	_ <O>
+with	IN	_ <O>
+Eamon	NNP	_ <O>
+Dunphy	NNP	_ <O>
+,	,	_ <O>
+RTÉ	NNP	_ <O>
+Radio	NNP	_ <O>
+1	CD	_ <O>
+,	,	_ <O>
+8	CD	_ <O>
+September	NNP	_ <O>
+2007	CD	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+others	NNS	<I-CUE>
+who	WP	_ <O>
+had	VBD	_ <O>
+come	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+USI	NNP	_ <O>
+via	IN	_ <O>
+the	DT	_ <O>
+trade	NN	_ <O>
+union	NN	_ <O>
+movement	NN	_ <O>
+were	VBD	_ <O>
+seen	VBN	_ <O>
+as	IN	_ <O>
+wanting	VBG	_ <O>
+to	TO	_ <O>
+bring	VB	_ <O>
+the	DT	_ <O>
+party	NN	_ <O>
+more	JJR	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+right	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+1992	CD	_ <O>
+Rabbitte	NNP	_ <O>
+played	VBD	_ <O>
+a	DT	_ <O>
+prominent	JJ	_ <O>
+role	NN	_ <O>
+with	IN	_ <O>
+Proinsias	NNP	_ <O>
+De	NNP	_ <O>
+Rossa	NNP	_ <O>
+in	IN	_ <O>
+an	DT	_ <O>
+attempt	NN	_ <O>
+to	TO	_ <O>
+jettison	VB	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+its	PRP$	<I-CUE>
+more	RBR	<I-CUE>
+hard	JJ	<I-CUE>
+left	VBN	<I-CUE>
+positions	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+others	NNS	<I-CUE>
+who	WP	_ <O>
+had	VBD	_ <O>
+come	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+USI	NNP	_ <O>
+via	IN	_ <O>
+the	DT	_ <O>
+trade	NN	_ <O>
+union	NN	_ <O>
+movement	NN	_ <O>
+were	VBD	_ <O>
+seen	VBN	_ <O>
+as	IN	_ <O>
+wanting	VBG	_ <O>
+to	TO	_ <O>
+bring	VB	_ <O>
+the	DT	_ <O>
+party	NN	_ <O>
+more	JJR	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+right	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+1992	CD	_ <O>
+Rabbitte	NNP	_ <O>
+played	VBD	_ <O>
+a	DT	_ <O>
+prominent	JJ	_ <O>
+role	NN	_ <O>
+with	IN	_ <O>
+Proinsias	NNP	_ <O>
+De	NNP	_ <O>
+Rossa	NNP	_ <O>
+in	IN	_ <O>
+an	DT	_ <O>
+attempt	NN	_ <O>
+to	TO	_ <O>
+jettison	VB	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+its	PRP$	<I-CUE>
+more	RBR	<I-CUE>
+hard	JJ	<I-CUE>
+left	VBN	<I-CUE>
+positions	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

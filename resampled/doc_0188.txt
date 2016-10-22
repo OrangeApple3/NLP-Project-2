@@ -1,0 +1,76 @@
+'	''	_ <O>
+Part	NN	_ <O>
+2	CD	_ <O>
+Upbringing	NNP	_ <O>
+by	IN	_ <O>
+Cooperation	NNP	_ <O>
+'	''	_ <O>
+
+NULL
+This	DT	_ <O>
+common	JJ	_ <O>
+goal	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+challenging	JJ	_ <O>
+project	NN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+also	RB	_ <O>
+states	VBZ	_ <O>
+that	IN	_ <O>
+"	``	_ <O>
+no	DT	_ <O>
+one	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+outside	NN	_ <O>
+can	MD	_ <O>
+improve	VB	_ <O>
+relationships	NNS	_ <O>
+between	IN	_ <O>
+two	CD	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+However	RB	_ <O>
+some	DT	<B-CUE>
+popular	JJ	<I-CUE>
+parental	JJ	<I-CUE>
+discussions	NNS	<I-CUE>
+about	IN	<I-CUE>
+money	NN	<I-CUE>
+and	CC	<I-CUE>
+things	NNS	<I-CUE>
+have	VBP	_ <O>
+nothing	NN	_ <O>
+to	TO	_ <O>
+do	VB	_ <O>
+with	IN	_ <O>
+parenting	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+some	DT	<B-CUE>
+popular	JJ	<I-CUE>
+parental	JJ	<I-CUE>
+discussions	NNS	<I-CUE>
+about	IN	<I-CUE>
+money	NN	<I-CUE>
+and	CC	<I-CUE>
+things	NNS	<I-CUE>
+have	VBP	_ <O>
+nothing	NN	_ <O>
+to	TO	_ <O>
+do	VB	_ <O>
+with	IN	_ <O>
+parenting	NN	_ <O>
+.	.	_ <O>
+
+NULL

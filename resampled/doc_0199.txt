@@ -1,0 +1,131 @@
+Citizen	NN	_ <O>
+journalism	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+increase	NN	_ <O>
+in	IN	_ <O>
+user	NN	_ <O>
+contribution	NN	_ <O>
+and	CC	_ <O>
+submission	NN	_ <O>
+of	IN	_ <O>
+amateur	NN	_ <O>
+photos	NNS	_ <O>
+to	IN	_ <O>
+news	NN	_ <O>
+sites	NNS	_ <O>
+is	VBZ	_ <O>
+becoming	VBG	_ <O>
+more	RBR	_ <O>
+widespread	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+introduction	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+35	CD	_ <O>
+mm	NN	_ <O>
+Leica	NNP	_ <O>
+camera	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1930	CD	_ <O>
+’s	NN	_ <O>
+made	VBD	_ <O>
+it	PRP	_ <O>
+possible	JJ	_ <O>
+for	IN	_ <O>
+photographers	NNS	_ <O>
+to	TO	_ <O>
+move	VB	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+action	NN	_ <O>
+,	,	_ <O>
+taking	VBG	_ <O>
+shots	NNS	_ <O>
+of	IN	_ <O>
+events	NNS	_ <O>
+as	IN	_ <O>
+they	PRP	_ <O>
+were	VBD	_ <O>
+unfolding	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+is	VBZ	_ <O>
+some	DT	<B-CUE>
+concern	NN	<I-CUE>
+by	IN	_ <O>
+news	NN	<B-CUE>
+photographers	NNS	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+profession	NN	_ <O>
+of	IN	_ <O>
+photojournalism	NN	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+known	VBN	_ <O>
+today	NN	_ <O>
+could	MD	_ <O>
+change	VB	_ <O>
+to	IN	_ <O>
+such	PDT	_ <O>
+a	DT	_ <O>
+degree	NN	_ <O>
+that	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+unrecognizable	JJ	_ <O>
+as	IN	_ <O>
+image	NN	_ <O>
+-	HYPH	_ <O>
+capturing	VBG	_ <O>
+technology	NN	_ <O>
+naturally	RB	_ <O>
+progresses	VBZ	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+is	VBZ	_ <O>
+some	DT	<B-CUE>
+concern	NN	<I-CUE>
+by	IN	_ <O>
+news	NN	<B-CUE>
+photographers	NNS	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+profession	NN	_ <O>
+of	IN	_ <O>
+photojournalism	NN	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+known	VBN	_ <O>
+today	NN	_ <O>
+could	MD	_ <O>
+change	VB	_ <O>
+to	IN	_ <O>
+such	PDT	_ <O>
+a	DT	_ <O>
+degree	NN	_ <O>
+that	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+unrecognizable	JJ	_ <O>
+as	IN	_ <O>
+image	NN	_ <O>
+-	HYPH	_ <O>
+capturing	VBG	_ <O>
+technology	NN	_ <O>
+naturally	RB	_ <O>
+progresses	VBZ	_ <O>
+.	.	_ <O>
+
+NULL

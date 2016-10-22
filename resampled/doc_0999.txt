@@ -1,0 +1,34 @@
+Hymenopteran	NNP	_ <O>
+parasitoids	NNS	_ <O>
+often	RB	_ <O>
+have	VBP	_ <O>
+fascinating	JJ	_ <O>
+life	NN	_ <O>
+histories	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+search	VBP	_ <O>
+the	DT	_ <O>
+caterpillar	NN	_ <O>
+'s	POS	_ <O>
+body	NN	_ <O>
+cavity	NN	_ <O>
+for	IN	_ <O>
+other	JJ	_ <O>
+parasitoid	JJ	_ <O>
+larva	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+these	DT	_ <O>
+they	PRP	_ <O>
+attack	VBP	_ <O>
+and	CC	_ <O>
+feed	VBP	_ <O>
+on	RP	_ <O>
+.	.	_ <O>
+
+NULL

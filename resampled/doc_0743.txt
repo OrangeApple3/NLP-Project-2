@@ -1,0 +1,129 @@
+NULL
+Wake	VBP	_ <O>
+turbulence	NN	_ <O>
+created	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+passage	NN	_ <O>
+of	IN	_ <O>
+other	JJ	_ <O>
+aircraft	NN	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+aircraft	NN	_ <O>
+that	WDT	_ <O>
+are	VBP	_ <O>
+heavy	JJ	_ <O>
+,	,	_ <O>
+aerodynamically	RB	_ <O>
+clean	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+slow	VB	_ <O>
+pose	VB	_ <O>
+another	DT	_ <O>
+significant	JJ	_ <O>
+hazard	NN	_ <O>
+.	.	_ <O>
+
+NULL
+And	CC	_ <O>
+since	IN	_ <O>
+the	DT	_ <O>
+slow	RB	_ <O>
+-	HYPH	_ <O>
+moving	VBG	_ <O>
+powered	JJ	_ <O>
+parachute	NN	_ <O>
+(	-LRB-	_ <O>
+like	IN	_ <O>
+the	DT	_ <O>
+helicopter	NN	_ <O>
+)	-RRB-	_ <O>
+is	VBZ	_ <O>
+particularly	RB	_ <O>
+well	RB	_ <O>
+equipped	JJ	_ <O>
+to	TO	_ <O>
+fly	VB	_ <O>
+safely	RB	_ <O>
+near	IN	_ <O>
+the	DT	_ <O>
+ground	NN	_ <O>
+,	,	_ <O>
+special	JJ	_ <O>
+care	NN	_ <O>
+must	MD	_ <O>
+be	VB	_ <O>
+taken	VBN	_ <O>
+to	TO	_ <O>
+avoid	VB	_ <O>
+power	NN	_ <O>
+lines	NNS	_ <O>
+,	,	_ <O>
+trees	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+low	JJ	_ <O>
+-	HYPH	_ <O>
+level	NN	_ <O>
+terrain	NN	_ <O>
+obstacles	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Forced	JJ	_ <O>
+landings	NNS	_ <O>
+in	IN	_ <O>
+water	NN	_ <O>
+are	VBP	_ <O>
+extremely	RB	<B-CUE>
+dangerous	JJ	<I-CUE>
+,	,	_ <O>
+for	IN	_ <O>
+pilot	NN	_ <O>
+and/or	CC	_ <O>
+passenger	NN	_ <O>
+may	MD	<B-CUE>
+become	VB	_ <O>
+entangled	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+parachute	NN	_ <O>
+lines	NNS	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+sinking	VBG	_ <O>
+powered	VBN	_ <O>
+parachute	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Forced	JJ	_ <O>
+landings	NNS	_ <O>
+in	IN	_ <O>
+water	NN	_ <O>
+are	VBP	_ <O>
+extremely	RB	<B-CUE>
+dangerous	JJ	<I-CUE>
+,	,	_ <O>
+for	IN	_ <O>
+pilot	NN	_ <O>
+and/or	CC	_ <O>
+passenger	NN	_ <O>
+may	MD	<B-CUE>
+become	VB	_ <O>
+entangled	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+parachute	NN	_ <O>
+lines	NNS	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+sinking	VBG	_ <O>
+powered	VBN	_ <O>
+parachute	NN	_ <O>
+.	.	_ <O>
+
+NULL

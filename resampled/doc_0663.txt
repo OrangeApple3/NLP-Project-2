@@ -1,0 +1,120 @@
+A	DT	_ <O>
+few	JJ	_ <O>
+months	NNS	_ <O>
+later	RB	_ <O>
+in	IN	_ <O>
+December	NNP	_ <O>
+of	IN	_ <O>
+415	CD	_ <O>
+,	,	_ <O>
+another	DT	_ <O>
+synod	NN	_ <O>
+in	IN	_ <O>
+Diospolis	NNP	_ <O>
+(	-LRB-	_ <O>
+Lydda	NNP	_ <O>
+)	-RRB-	_ <O>
+under	IN	_ <O>
+a	DT	_ <O>
+Cesarean	JJ	_ <O>
+bishop	NN	_ <O>
+was	VBD	_ <O>
+called	VBN	_ <O>
+by	IN	_ <O>
+two	CD	_ <O>
+deposed	VBN	_ <O>
+bishops	NNS	_ <O>
+who	WP	_ <O>
+came	VBD	_ <O>
+to	IN	_ <O>
+Palestine	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Pelagius	NNP	_ <O>
+explained	VBD	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+synod	NN	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+did	VBD	_ <O>
+believe	VB	_ <O>
+God	NNP	_ <O>
+was	VBD	_ <O>
+necessary	JJ	_ <O>
+for	IN	_ <O>
+salvation	NN	_ <O>
+because	IN	_ <O>
+every	DT	_ <O>
+human	NN	_ <O>
+is	VBZ	_ <O>
+created	VBN	_ <O>
+by	IN	_ <O>
+God	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+also	RB	_ <O>
+showed	VBD	_ <O>
+letters	NNS	_ <O>
+of	IN	_ <O>
+recommendation	NN	_ <O>
+by	IN	_ <O>
+other	JJ	_ <O>
+authoritative	JJ	_ <O>
+figures	NNS	_ <O>
+including	VBG	_ <O>
+Augustine	NNP	_ <O>
+himself	PRP	_ <O>
+who	WP	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+all	PDT	_ <O>
+their	PRP$	_ <O>
+disagreements	NNS	_ <O>
+,	,	_ <O>
+thought	VBD	_ <O>
+highly	RB	_ <O>
+of	IN	_ <O>
+Pelagius	NNP	_ <O>
+'	POS	_ <O>
+character	NN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+also	RB	_ <O>
+claimed	VBD	_ <O>
+that	IN	_ <O>
+many	JJ	<B-CUE>
+works	NNS	<I-CUE>
+of	IN	<I-CUE>
+Celestius	NNP	<I-CUE>
+did	VBD	_ <O>
+not	RB	_ <O>
+represent	VB	_ <O>
+his	PRP$	_ <O>
+own	JJ	_ <O>
+views	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+also	RB	_ <O>
+claimed	VBD	_ <O>
+that	IN	_ <O>
+many	JJ	<B-CUE>
+works	NNS	<I-CUE>
+of	IN	<I-CUE>
+Celestius	NNP	<I-CUE>
+did	VBD	_ <O>
+not	RB	_ <O>
+represent	VB	_ <O>
+his	PRP$	_ <O>
+own	JJ	_ <O>
+views	NNS	_ <O>
+.	.	_ <O>
+
+NULL

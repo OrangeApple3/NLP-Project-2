@@ -1,0 +1,74 @@
+NULL
+When	WRB	_ <O>
+the	DT	_ <O>
+chicks	NNS	_ <O>
+hatch	VBP	_ <O>
+many	JJ	_ <O>
+areas	NNS	_ <O>
+will	MD	_ <O>
+put	VB	_ <O>
+up	RP	_ <O>
+snow	NN	_ <O>
+fencing	VBG	_ <O>
+to	TO	_ <O>
+restrict	VB	_ <O>
+driving	NN	_ <O>
+and	CC	_ <O>
+pets	NNS	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+safety	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+chicks	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+threats	NNS	_ <O>
+to	IN	_ <O>
+nests	NNS	_ <O>
+include	VBP	_ <O>
+predators	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+crows	NNS	_ <O>
+,	,	_ <O>
+cats	NNS	_ <O>
+,	,	_ <O>
+racoons	NNS	_ <O>
+,	,	_ <O>
+fox	NN	_ <O>
+and	CC	_ <O>
+various	JJ	_ <O>
+other	JJ	_ <O>
+animals	NNS	_ <O>
+to	IN	_ <O>
+less	JJR	_ <O>
+extents	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+a	DT	_ <O>
+precaution	NN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+best	JJS	_ <O>
+to	TO	_ <O>
+stay	VB	_ <O>
+away	RB	_ <O>
+from	IN	_ <O>
+any	DT	_ <O>
+bird	NN	_ <O>
+that	WDT	_ <O>
+appears	VBZ	_ <O>
+distressed	JJ	_ <O>
+to	TO	_ <O>
+prevent	VB	_ <O>
+any	DT	_ <O>
+unintended	JJ	_ <O>
+consequences	NNS	_ <O>
+.	.	_ <O>
+
+NULL

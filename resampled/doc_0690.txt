@@ -1,0 +1,76 @@
+NULL
+People	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+discussing	VBG	_ <O>
+the	DT	_ <O>
+question	NN	_ <O>
+of	IN	_ <O>
+human	JJ	_ <O>
+happiness	NN	_ <O>
+since	IN	_ <O>
+at	RB	_ <O>
+least	JJS	_ <O>
+Ancient	NNP	_ <O>
+Greece	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+Positive	JJ	_ <O>
+psychology	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+relatively	RB	<B-CUE>
+young	JJ	_ <O>
+branch	NN	_ <O>
+of	IN	_ <O>
+psychology	NN	_ <O>
+that	IN	_ <O>
+"	``	_ <O>
+studies	NNS	_ <O>
+the	DT	_ <O>
+strengths	NNS	_ <O>
+and	CC	_ <O>
+virtues	NNS	_ <O>
+that	WDT	_ <O>
+enable	VBP	_ <O>
+individuals	NNS	_ <O>
+and	CC	_ <O>
+communities	NNS	_ <O>
+to	TO	_ <O>
+thrive	VB	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+'	``	_ <O>
+Positive	JJ	_ <O>
+psychology	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+relatively	RB	<B-CUE>
+young	JJ	_ <O>
+branch	NN	_ <O>
+of	IN	_ <O>
+psychology	NN	_ <O>
+that	IN	_ <O>
+"	``	_ <O>
+studies	NNS	_ <O>
+the	DT	_ <O>
+strengths	NNS	_ <O>
+and	CC	_ <O>
+virtues	NNS	_ <O>
+that	WDT	_ <O>
+enable	VBP	_ <O>
+individuals	NNS	_ <O>
+and	CC	_ <O>
+communities	NNS	_ <O>
+to	TO	_ <O>
+thrive	VB	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

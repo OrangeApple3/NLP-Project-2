@@ -1,0 +1,120 @@
+One	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Jimmy	NNP	_ <O>
+Lewis	NNP	_ <O>
+songs	NNS	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+novelty	NN	_ <O>
+track	NN	_ <O>
+which	WDT	_ <O>
+twisted	VBD	_ <O>
+the	DT	_ <O>
+common	JJ	_ <O>
+complaint	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+wife	NN	_ <O>
+keeping	VBG	_ <O>
+her	PRP$	_ <O>
+man	NN	_ <O>
+faithful	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+music	NN	_ <O>
+video	NN	_ <O>
+to	IN	_ <O>
+"	``	_ <O>
+Bill	NNP	_ <O>
+"	''	_ <O>
+also	RB	_ <O>
+became	VBD	_ <O>
+popular	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Released	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+single	JJ	_ <O>
+the	DT	_ <O>
+song	NN	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+Bill	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+initially	RB	_ <O>
+just	RB	_ <O>
+to	IN	_ <O>
+blues	NNS	_ <O>
+radio	NN	_ <O>
+stations	NNS	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+also	RB	_ <O>
+began	VBD	_ <O>
+getting	VBG	_ <O>
+airplay	NN	_ <O>
+on	IN	_ <O>
+Urban	NNP	_ <O>
+contemporary	JJ	_ <O>
+radio	NN	_ <O>
+and	CC	_ <O>
+soon	RB	_ <O>
+gained	VBD	_ <O>
+most	RBS	_ <O>
+-	HYPH	_ <O>
+requested	VBN	_ <O>
+status	NN	_ <O>
+at	IN	_ <O>
+several	JJ	<B-CUE>
+larger	JJR	<I-CUE>
+stations	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Released	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+single	JJ	_ <O>
+the	DT	_ <O>
+song	NN	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+Bill	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+initially	RB	_ <O>
+just	RB	_ <O>
+to	IN	_ <O>
+blues	NNS	_ <O>
+radio	NN	_ <O>
+stations	NNS	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+also	RB	_ <O>
+began	VBD	_ <O>
+getting	VBG	_ <O>
+airplay	NN	_ <O>
+on	IN	_ <O>
+Urban	NNP	_ <O>
+contemporary	JJ	_ <O>
+radio	NN	_ <O>
+and	CC	_ <O>
+soon	RB	_ <O>
+gained	VBD	_ <O>
+most	RBS	_ <O>
+-	HYPH	_ <O>
+requested	VBN	_ <O>
+status	NN	_ <O>
+at	IN	_ <O>
+several	JJ	<B-CUE>
+larger	JJR	<I-CUE>
+stations	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

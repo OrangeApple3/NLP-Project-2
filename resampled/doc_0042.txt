@@ -1,0 +1,22 @@
+NULL
+In	IN	_ <O>
+1972	CD	_ <O>
+the	DT	_ <O>
+American	NNP	_ <O>
+Academy	NNP	_ <O>
+of	IN	_ <O>
+Arts	NNPS	_ <O>
+and	CC	_ <O>
+Letters	NNPS	_ <O>
+admitted	VBD	_ <O>
+Nivola	NNP	_ <O>
+as	IN	_ <O>
+its	PRP$	_ <O>
+first	JJ	_ <O>
+non	NN	_ <O>
+-	HYPH	_ <O>
+American	JJ	_ <O>
+member	NN	_ <O>
+.	.	_ <O>
+
+NULL

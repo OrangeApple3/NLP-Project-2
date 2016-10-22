@@ -1,0 +1,87 @@
+NULL
+Wellstone	NN	_ <O>
+saw	VBD	_ <O>
+McCain	NNP	_ <O>
+-	HYPH	_ <O>
+Feingold	NNP	_ <O>
+'s	POS	_ <O>
+protection	NN	_ <O>
+of	IN	_ <O>
+"	``	_ <O>
+advocacy	NN	_ <O>
+"	''	_ <O>
+groups	NNS	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+loophole	NN	_ <O>
+"	''	_ <O>
+allowing	VBG	_ <O>
+"	``	_ <O>
+special	JJ	_ <O>
+interests	NNS	_ <O>
+"	''	_ <O>
+to	TO	_ <O>
+run	VB	_ <O>
+last	JJ	_ <O>
+-	HYPH	_ <O>
+minute	NN	_ <O>
+election	NN	_ <O>
+ads	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+(	-LRB-	_ <O>
+Since	IN	_ <O>
+corporate	JJ	_ <O>
+and	CC	_ <O>
+union	NN	_ <O>
+money	NN	_ <O>
+was	VBD	_ <O>
+already	RB	_ <O>
+banished	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+bill	NN	_ <O>
+,	,	_ <O>
+Wellstone	NNP	_ <O>
+was	VBD	_ <O>
+presumably	RB	<B-CUE>
+worried	VBN	_ <O>
+mainly	RB	_ <O>
+about	IN	_ <O>
+money	NN	_ <O>
+from	IN	_ <O>
+rich	JJ	_ <O>
+individuals	NNS	_ <O>
+.	.	_ <O>
+)	-RRB-	_ <O>
+
+NULL
+(	-LRB-	_ <O>
+Since	IN	_ <O>
+corporate	JJ	_ <O>
+and	CC	_ <O>
+union	NN	_ <O>
+money	NN	_ <O>
+was	VBD	_ <O>
+already	RB	_ <O>
+banished	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+bill	NN	_ <O>
+,	,	_ <O>
+Wellstone	NNP	_ <O>
+was	VBD	_ <O>
+presumably	RB	<B-CUE>
+worried	VBN	_ <O>
+mainly	RB	_ <O>
+about	IN	_ <O>
+money	NN	_ <O>
+from	IN	_ <O>
+rich	JJ	_ <O>
+individuals	NNS	_ <O>
+.	.	_ <O>
+)	-RRB-	_ <O>
+
+NULL

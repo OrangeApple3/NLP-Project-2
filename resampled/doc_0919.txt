@@ -1,0 +1,143 @@
+Also	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+vicinity	NN	_ <O>
+are	VBP	_ <O>
+manufacturers	NNS	_ <O>
+of	IN	_ <O>
+pallets	NNS	_ <O>
+,	,	_ <O>
+caskets	NNS	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+wood	NN	_ <O>
+products	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+such	JJ	_ <O>
+dairying	NN	_ <O>
+and	CC	_ <O>
+meat	NN	_ <O>
+,	,	_ <O>
+fruit	NN	_ <O>
+and	CC	_ <O>
+vegetable	NN	_ <O>
+processing	NN	_ <O>
+and	CC	_ <O>
+storage	NN	_ <O>
+are	VBP	_ <O>
+relatively	RB	<B-CUE>
+common	JJ	<I-CUE>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+light	JJ	_ <O>
+industrial	JJ	_ <O>
+park	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+town	NN	_ <O>
+which	WDT	_ <O>
+has	VBZ	_ <O>
+several	JJ	<B-CUE>
+modest	JJ	<I-CUE>
+manufacturing	NN	<I-CUE>
+businesses	NNS	<I-CUE>
+making	VBG	_ <O>
+goods	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+refrigeration	NN	_ <O>
+products	NNS	_ <O>
+and	CC	_ <O>
+filtered	VBD	_ <O>
+bottled	JJ	_ <O>
+water	NN	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+numerous	JJ	<B-CUE>
+quarrying	VBG	<I-CUE>
+operations	NNS	<I-CUE>
+located	VBN	_ <O>
+nearby	RB	_ <O>
+which	WDT	_ <O>
+support	VBP	_ <O>
+this	DT	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+similar	JJ	_ <O>
+plants	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+such	JJ	_ <O>
+dairying	NN	_ <O>
+and	CC	_ <O>
+meat	NN	_ <O>
+,	,	_ <O>
+fruit	NN	_ <O>
+and	CC	_ <O>
+vegetable	NN	_ <O>
+processing	NN	_ <O>
+and	CC	_ <O>
+storage	NN	_ <O>
+are	VBP	_ <O>
+relatively	RB	<B-CUE>
+common	JJ	<I-CUE>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+light	JJ	_ <O>
+industrial	JJ	_ <O>
+park	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+town	NN	_ <O>
+which	WDT	_ <O>
+has	VBZ	_ <O>
+several	JJ	<B-CUE>
+modest	JJ	<I-CUE>
+manufacturing	NN	<I-CUE>
+businesses	NNS	<I-CUE>
+making	VBG	_ <O>
+goods	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+refrigeration	NN	_ <O>
+products	NNS	_ <O>
+and	CC	_ <O>
+filtered	VBD	_ <O>
+bottled	JJ	_ <O>
+water	NN	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+numerous	JJ	<B-CUE>
+quarrying	VBG	<I-CUE>
+operations	NNS	<I-CUE>
+located	VBN	_ <O>
+nearby	RB	_ <O>
+which	WDT	_ <O>
+support	VBP	_ <O>
+this	DT	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+similar	JJ	_ <O>
+plants	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,204 @@
+The	DT	_ <O>
+very	RB	_ <O>
+last	JJ	_ <O>
+papal	JJ	_ <O>
+shot	NN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+Porta	NNP	_ <O>
+Pia	NNP	_ <O>
+was	VBD	_ <O>
+fired	VBN	_ <O>
+by	IN	_ <O>
+an	DT	_ <O>
+Jesuit	NNP	_ <O>
+Austrian	JJ	_ <O>
+alumnus	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Stella	NNP	_ <O>
+Matutina	NNP	_ <O>
+(	-LRB-	_ <O>
+Jesuit	NNP	_ <O>
+School	NNP	_ <O>
+)	-RRB-	_ <O>
+
+NULL
+Pius	NNP	_ <O>
+IX	NNP	_ <O>
+was	VBD	_ <O>
+lampooned	VBN	_ <O>
+by	IN	_ <O>
+reference	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Italian	JJ	_ <O>
+version	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+name	NN	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+Pio	NNP	_ <O>
+Nono	NNP	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+Pio	NNP	_ <O>
+No	NNP	_ <O>
+No	UH	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+occasional	JJ	_ <O>
+mood	NN	_ <O>
+changes	NNS	_ <O>
+and	CC	_ <O>
+emotional	JJ	_ <O>
+outbursts	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+interpreted	VBN	_ <O>
+as	IN	_ <O>
+symptoms	NNS	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+epilepsy	NN	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+his	PRP$	_ <O>
+stay	NN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+Kingdom	NNP	_ <O>
+of	IN	_ <O>
+Two	CD	_ <O>
+Sicilies	NNPS	_ <O>
+,	,	_ <O>
+on	IN	_ <O>
+8	CD	_ <O>
+September	NNP	_ <O>
+1849	CD	_ <O>
+,	,	_ <O>
+Pope	NNP	_ <O>
+Pius	NNP	_ <O>
+IX	NNP	_ <O>
+had	VBD	_ <O>
+the	DT	_ <O>
+experience	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+train	NN	_ <O>
+trip	NN	_ <O>
+from	IN	_ <O>
+Portici	NNP	_ <O>
+to	IN	_ <O>
+Pagani	NNP	_ <O>
+,	,	_ <O>
+so	CC	_ <O>
+he	PRP	_ <O>
+became	VBD	_ <O>
+enthusiastic	JJ	_ <O>
+about	IN	_ <O>
+this	DT	_ <O>
+modern	JJ	_ <O>
+invention	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+houses	NNS	_ <O>
+along	IN	_ <O>
+the	DT	_ <O>
+streets	NNS	_ <O>
+were	VBD	_ <O>
+illuminated	VBN	_ <O>
+with	IN	_ <O>
+torches	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+people	NNS	_ <O>
+threw	VBD	_ <O>
+flowers	NNS	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+window	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+horse	NN	_ <O>
+-	HYPH	_ <O>
+drawn	VBN	_ <O>
+carriage	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Pope	NNP	_ <O>
+went	VBD	_ <O>
+several	JJ	<B-CUE>
+times	NNS	<I-CUE>
+to	IN	_ <O>
+the	DT	_ <O>
+balcony	NN	_ <O>
+to	TO	_ <O>
+give	VB	_ <O>
+his	PRP$	_ <O>
+blessing	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Following	VBG	_ <O>
+this	DT	_ <O>
+the	DT	_ <O>
+Quirinal	NNP	_ <O>
+was	VBD	_ <O>
+covered	VBN	_ <O>
+by	IN	_ <O>
+canon	NN	_ <O>
+fire	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+caused	VBD	_ <O>
+several	JJ	<B-CUE>
+deaths	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Pope	NNP	_ <O>
+went	VBD	_ <O>
+several	JJ	<B-CUE>
+times	NNS	<I-CUE>
+to	IN	_ <O>
+the	DT	_ <O>
+balcony	NN	_ <O>
+to	TO	_ <O>
+give	VB	_ <O>
+his	PRP$	_ <O>
+blessing	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Following	VBG	_ <O>
+this	DT	_ <O>
+the	DT	_ <O>
+Quirinal	NNP	_ <O>
+was	VBD	_ <O>
+covered	VBN	_ <O>
+by	IN	_ <O>
+canon	NN	_ <O>
+fire	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+caused	VBD	_ <O>
+several	JJ	<B-CUE>
+deaths	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

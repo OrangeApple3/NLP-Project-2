@@ -1,0 +1,123 @@
+Swords	NNS	_ <O>
+were	VBD	_ <O>
+kept	VBN	_ <O>
+in	IN	_ <O>
+sheaths	NNS	_ <O>
+,	,	_ <O>
+some	DT	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+,	,	_ <O>
+depending	VBG	_ <O>
+on	IN	_ <O>
+status	NN	_ <O>
+,	,	_ <O>
+were	VBD	_ <O>
+very	RB	_ <O>
+ornate	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Round	JJ	_ <O>
+wooden	JJ	_ <O>
+shields	NNS	_ <O>
+had	VBD	_ <O>
+iron	NN	_ <O>
+umbos	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+middle	NN	_ <O>
+,	,	_ <O>
+usually	RB	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+thorn	NN	_ <O>
+for	IN	_ <O>
+piercing	VBG	_ <O>
+the	DT	_ <O>
+enemy	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Numerous	JJ	_ <O>
+Przeworsk	NNP	_ <O>
+culture	NN	_ <O>
+objects	VBZ	_ <O>
+including	VBG	_ <O>
+spurs	NNS	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+unique	JJ	_ <O>
+silver	NN	_ <O>
+belt	NN	_ <O>
+buckle	NN	_ <O>
+were	VBD	_ <O>
+recovered	VBN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+Aleksandrowice	NNP	_ <O>
+,	,	_ <O>
+Kraków	NNP	_ <O>
+County	NNP	_ <O>
+settlement	NN	_ <O>
+area	NN	_ <O>
+;	:	_ <O>
+some	DT	<B-CUE>
+relics	NNS	<I-CUE>
+there	EX	_ <O>
+are	VBP	_ <O>
+dated	VBN	_ <O>
+possibly	RB	<B-CUE>
+as	RB	_ <O>
+late	RB	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+half	NN	_ <O>
+of	IN	_ <O>
+6th	JJ	_ <O>
+century	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Numerous	JJ	_ <O>
+Przeworsk	NNP	_ <O>
+culture	NN	_ <O>
+objects	VBZ	_ <O>
+including	VBG	_ <O>
+spurs	NNS	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+unique	JJ	_ <O>
+silver	NN	_ <O>
+belt	NN	_ <O>
+buckle	NN	_ <O>
+were	VBD	_ <O>
+recovered	VBN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+Aleksandrowice	NNP	_ <O>
+,	,	_ <O>
+Kraków	NNP	_ <O>
+County	NNP	_ <O>
+settlement	NN	_ <O>
+area	NN	_ <O>
+;	:	_ <O>
+some	DT	<B-CUE>
+relics	NNS	<I-CUE>
+there	EX	_ <O>
+are	VBP	_ <O>
+dated	VBN	_ <O>
+possibly	RB	<B-CUE>
+as	RB	_ <O>
+late	RB	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+half	NN	_ <O>
+of	IN	_ <O>
+6th	JJ	_ <O>
+century	NN	_ <O>
+.	.	_ <O>
+
+NULL

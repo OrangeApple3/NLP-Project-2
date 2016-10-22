@@ -1,0 +1,52 @@
+The	DT	_ <O>
+nomenclature	NN	_ <O>
+associated	VBN	_ <O>
+with	IN	_ <O>
+titles	NNS	_ <O>
+arising	VBG	_ <O>
+from	IN	_ <O>
+postgraduate	JJ	_ <O>
+research	NN	_ <O>
+vary	VBP	_ <O>
+from	IN	_ <O>
+one	CD	_ <O>
+institution	NN	_ <O>
+to	IN	_ <O>
+another	DT	_ <O>
+and	CC	_ <O>
+one	CD	_ <O>
+country	NN	_ <O>
+to	IN	_ <O>
+another	DT	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+at	IN	_ <O>
+Bachelor	NNP	_ <O>
+'s	POS	_ <O>
+level	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+would	MD	_ <O>
+be	VB	_ <O>
+common	JJ	_ <O>
+to	TO	_ <O>
+receive	VB	_ <O>
+a	DT	_ <O>
+BSc(Chemistry	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+some	DT	_ <O>
+exceptions	NNS	_ <O>
+to	IN	_ <O>
+this	DT	_ <O>
+.	.	_ <O>
+
+NULL

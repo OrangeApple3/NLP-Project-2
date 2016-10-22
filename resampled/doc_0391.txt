@@ -1,0 +1,193 @@
+NULL
+An	DT	_ <O>
+earring	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+left	JJ	_ <O>
+ear	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+left	JJ	_ <O>
+pants	NNS	_ <O>
+leg	NN	_ <O>
+rolled	VBD	_ <O>
+up	RP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+cap	NN	_ <O>
+tilted	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+left	NN	_ <O>
+may	MD	_ <O>
+all	DT	_ <O>
+indicate	VB	_ <O>
+affiliation	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+alliance	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+People	JJ	_ <O>
+Nation	NNP	_ <O>
+alliance	NN	_ <O>
+in	IN	_ <O>
+most	JJS	_ <O>
+instances	NNS	_ <O>
+utilizes	VBZ	_ <O>
+a	DT	_ <O>
+five	CD	_ <O>
+-	HYPH	_ <O>
+pointed	VBN	_ <O>
+star	NN	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+gang	NN	_ <O>
+graffiti	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+five	CD	_ <O>
+-	HYPH	_ <O>
+pointed	VBN	_ <O>
+star	NN	_ <O>
+has	VBZ	_ <O>
+its	PRP$	_ <O>
+origins	NNS	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+Black	NNP	_ <O>
+Stone	NNP	_ <O>
+Rangers/Black	NNP	_ <O>
+P.	NNP	_ <O>
+Stone	NNP	_ <O>
+Ranger	NNP	_ <O>
+Nation	NNP	_ <O>
+,	,	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+larger	JJR	_ <O>
+street	NN	_ <O>
+gangs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+terms	NNS	<I-CUE>
+referring	VBG	_ <O>
+to	IN	_ <O>
+fives	NNS	_ <O>
+over	IN	_ <O>
+sixes	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+five	CD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+sky	NN	_ <O>
+,	,	_ <O>
+six	CD	_ <O>
+must	MD	_ <O>
+die	VB	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+also	RB	_ <O>
+"	``	_ <O>
+5	CD	_ <O>
+poppin	NN	_ <O>
+,	,	_ <O>
+6	CD	_ <O>
+droppin	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+Certain	JJ	<B-CUE>
+terms	NNS	<I-CUE>
+are	VBP	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+People	NNPS	_ <O>
+Nation	NNP	_ <O>
+alliance	NN	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+all	DT	_ <O>
+is	VBZ	_ <O>
+well	RB	_ <O>
+"	''	_ <O>
+when	WRB	_ <O>
+greeting	VBG	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+terms	NNS	<I-CUE>
+referring	VBG	_ <O>
+to	IN	_ <O>
+fives	NNS	_ <O>
+over	IN	_ <O>
+sixes	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+five	CD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+sky	NN	_ <O>
+,	,	_ <O>
+six	CD	_ <O>
+must	MD	_ <O>
+die	VB	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+also	RB	_ <O>
+"	``	_ <O>
+5	CD	_ <O>
+poppin	NN	_ <O>
+,	,	_ <O>
+6	CD	_ <O>
+droppin	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+Certain	JJ	<B-CUE>
+terms	NNS	<I-CUE>
+are	VBP	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+People	NNPS	_ <O>
+Nation	NNP	_ <O>
+alliance	NN	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+all	DT	_ <O>
+is	VBZ	_ <O>
+well	RB	_ <O>
+"	''	_ <O>
+when	WRB	_ <O>
+greeting	VBG	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+.	.	_ <O>
+
+NULL

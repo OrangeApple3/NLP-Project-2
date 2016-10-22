@@ -1,0 +1,23 @@
+Cairo	NNP	_ <O>
+was	VBD	_ <O>
+founded	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Cairo	NNP	_ <O>
+City	NNP	_ <O>
+&	CC	_ <O>
+Canal	NNP	_ <O>
+Company	NNP	_ <O>
+in	IN	_ <O>
+1837	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+incorporated	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+city	NN	_ <O>
+in	IN	_ <O>
+1858	CD	_ <O>
+.	.	_ <O>
+
+NULL

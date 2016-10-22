@@ -1,0 +1,133 @@
+The	DT	_ <O>
+relationship	NN	_ <O>
+between	IN	_ <O>
+government	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+governed	VBN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+fiduciary	JJ	_ <O>
+one	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Yet	RB	_ <O>
+rules	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Sovereign	NNP	_ <O>
+Immunity	NNP	_ <O>
+or	CC	_ <O>
+Crown	NNP	_ <O>
+and	CC	_ <O>
+Judicial	NNP	_ <O>
+Immunity	NNP	_ <O>
+are	VBP	_ <O>
+now	RB	_ <O>
+being	VBG	_ <O>
+targeted	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+very	RB	_ <O>
+the	DT	_ <O>
+tools	NNS	_ <O>
+of	IN	_ <O>
+oppression	NN	_ <O>
+that	WDT	_ <O>
+are	VBP	_ <O>
+preventing	VBG	_ <O>
+those	DT	_ <O>
+being	VBG	_ <O>
+abused	VBN	_ <O>
+from	IN	_ <O>
+taking	VBG	_ <O>
+action	NN	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+person	NN	_ <O>
+controlling	VBG	_ <O>
+the	DT	_ <O>
+laws	NNS	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+country	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Originating	VBG	_ <O>
+from	IN	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+Courts	NNPS	_ <O>
+of	IN	_ <O>
+Equity	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+fiduciary	JJ	_ <O>
+concept	NN	_ <O>
+was	VBD	_ <O>
+partly	RB	_ <O>
+designed	VBN	_ <O>
+to	TO	_ <O>
+prevent	VB	_ <O>
+those	DT	_ <O>
+holding	VBG	_ <O>
+positions	NNS	_ <O>
+of	IN	_ <O>
+power	NN	_ <O>
+from	IN	_ <O>
+abusing	VBG	_ <O>
+their	PRP$	_ <O>
+authority	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+widely	RB	<I-CUE>
+agreed	VBN	<I-CUE>
+that	IN	_ <O>
+government	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+'	``	_ <O>
+trust	NN	_ <O>
+structure	NN	_ <O>
+'	''	_ <O>
+created	VBN	_ <O>
+by	IN	_ <O>
+people	NNS	_ <O>
+to	TO	_ <O>
+manage	VB	_ <O>
+the	DT	_ <O>
+needs	NNS	_ <O>
+of	IN	_ <O>
+society	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+widely	RB	<I-CUE>
+agreed	VBN	<I-CUE>
+that	IN	_ <O>
+government	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+'	``	_ <O>
+trust	NN	_ <O>
+structure	NN	_ <O>
+'	''	_ <O>
+created	VBN	_ <O>
+by	IN	_ <O>
+people	NNS	_ <O>
+to	TO	_ <O>
+manage	VB	_ <O>
+the	DT	_ <O>
+needs	NNS	_ <O>
+of	IN	_ <O>
+society	NN	_ <O>
+.	.	_ <O>
+
+NULL

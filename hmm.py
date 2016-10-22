@@ -4,11 +4,15 @@ from collections import Counter
 from preprocessing import has_cue, DEBUG
 from transition import compute_transition_probabilities
 from viterbi import viterbi, viterbi_again
+from sklearn.metrics import f1_score
+
 
 CUES = ['<B-CUE>', '<I-CUE>', '<O>']
+TRAINING_DIRECTORY = "/train_preprocessed_unk"
+SMOOTHED = True
 
 
-def compute_emission_probabilities(directory="/train_preprocessed", smoothed=False):
+def compute_emission_probabilities(directory=TRAINING_DIRECTORY, smoothed=SMOOTHED):
     """
     Computes the emission probabilities over the training data.
     Emission prob. key/value example: ("table", "<B-CUE") : 0.015.
@@ -80,6 +84,7 @@ def get_sentences(test_root_dir):
                 curr_sentence.append(line.split("\t")[0])
     return sentences
 
+
 def phrase_label():
     # Gets a list of public and private sentences from the test data
     public_sentences = get_sentences(os.getcwd() + "/test-public/")
@@ -129,9 +134,20 @@ def phrase_label():
     return public_uncertainty_spans
             
 
+def compute_F1_score(pred_tags, actual_tags):
+    """
+    Computes the F1 score between the predicted tags and the actual tags.
+    Both inputs are assumed to be a list of lists of tags, where each sub-list corresponds
+    to a sentence.
+    """
+    predictions = sum(pred_tags, [])
+    actual = sum(actual_tags, [])
+    return f1_score(predictions, actual)
+
+    
 def test_emissions():
     # Sanity checks
-    emission_probs = compute_emission_probabilities(smoothed=True)
+    emission_probs = compute_emission_probabilities(directory=TRAINING_DIRECTORY)
     sorted_probs = sorted(emission_probs, key=emission_probs.get, reverse=True)
 
     b_cue_probs = [pair for pair in sorted_probs if pair[1] == '<B-CUE>']
@@ -143,7 +159,7 @@ def test_emissions():
     print "Total B emission probs is " + str(sum(emission_probs[pair] for pair in b_cue_probs))
     print "Total I emission probs is " + str(sum(emission_probs[pair] for pair in emission_probs if pair[1] == '<I-CUE>'))
     print "Total O emission probs is " + str(sum(emission_probs[pair] for pair in emission_probs if pair[1] == '<O>'))
-
+    
     print "Top five most common beginning cue words"
     for i in range(5):
         print "Beginning cue '{}' has emission probability {}".format(b_cue_probs[i][0], emission_probs[b_cue_probs[i]])
@@ -153,15 +169,20 @@ def test_emissions():
     if null_probs:
         print "Error: There should not be emission probabiities ont he NULL state"
 
+        
 def test_viterbi():
     word_pos_list = ['hi','there','i','am','several','turnips']
     transition = compute_transition_probabilities()
-    emission = compute_emission_probabilities()
-    print viterbi_again(emission, transition, word_pos_list)
+    emission = compute_emission_probabilities(directory=TRAINING_DIRECTORY)
+    print viterbi(emission, transition, word_pos_list)
     
-            
-if DEBUG:
-    test_emissions()
-    test_viterbi()
 
-print phrase_label()
+def main():
+    if DEBUG:
+        test_emissions()
+        test_viterbi()
+
+        
+if __name__ == '__main__':
+    main()
+

@@ -1,0 +1,70 @@
+The	DT	_ <O>
+updates	NNS	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+acquired	VBN	_ <O>
+in	IN	_ <O>
+several	JJ	_ <O>
+ways	NNS	_ <O>
+:	:	_ <O>
+
+NULL
+If	IN	_ <O>
+the	DT	_ <O>
+PlayStation	NNP	_ <O>
+3	CD	_ <O>
+has	VBZ	_ <O>
+an	DT	_ <O>
+active	JJ	_ <O>
+Internet	NN	_ <O>
+connection	NN	_ <O>
+,	,	_ <O>
+updates	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+downloaded	VBN	_ <O>
+directly	RB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+PlayStation	NNP	_ <O>
+Network	NNP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+PS3	NNP	_ <O>
+and	CC	_ <O>
+subsequently	RB	_ <O>
+installed	VBD	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+game	NN	_ <O>
+requiring	VBG	_ <O>
+the	DT	_ <O>
+update	NN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+run	VB	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+so	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+software	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+installed	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+disc	NN	_ <O>
+.	.	_ <O>
+
+NULL

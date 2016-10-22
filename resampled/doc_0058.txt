@@ -1,0 +1,156 @@
+However	RB	_ <O>
+,	,	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+population	NN	_ <O>
+influx	NN	_ <O>
+resided	VBD	_ <O>
+in	IN	_ <O>
+Richland	NNP	_ <O>
+and	CC	_ <O>
+Kennewick	NNP	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+Pasco	NNP	_ <O>
+remained	VBD	_ <O>
+primarily	RB	_ <O>
+driven	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+agricultural	JJ	_ <O>
+industry	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+less	JJR	_ <O>
+degree	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+NP	NNP	_ <O>
+Pasco	NNP	_ <O>
+rail	NN	_ <O>
+yards	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+the	DT	_ <O>
+end	NN	_ <O>
+of	IN	_ <O>
+World	NNP	_ <O>
+War	NNP	_ <O>
+II	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+entire	JJ	_ <O>
+region	NN	_ <O>
+went	VBD	_ <O>
+through	IN	_ <O>
+several	JJ	_ <O>
+"	``	_ <O>
+boom	NN	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+bust	NN	_ <O>
+"	''	_ <O>
+periods	NNS	_ <O>
+,	,	_ <O>
+cycling	NN	_ <O>
+approximately	RB	_ <O>
+every	DT	_ <O>
+10	CD	_ <O>
+years	NNS	_ <O>
+and	CC	_ <O>
+heavily	RB	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+available	JJ	_ <O>
+government	NN	_ <O>
+funding	VBG	_ <O>
+for	IN	_ <O>
+Hanford	NNP	_ <O>
+-	HYPH	_ <O>
+related	VBN	_ <O>
+work	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Due	IN	_ <O>
+to	IN	_ <O>
+its	PRP$	_ <O>
+higher	JJR	_ <O>
+poverty	NN	_ <O>
+level	NN	_ <O>
+,	,	_ <O>
+Pasco	NNP	_ <O>
+was	VBD	<B-CUE>
+seen	VBN	<I-CUE>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+as	IN	_ <O>
+the	DT	<B-CUE>
+least	JJS	<I-CUE>
+desirable	JJ	<I-CUE>
+of	IN	_ <O>
+the	DT	_ <O>
+three	CD	_ <O>
+cities	NNS	_ <O>
+and	CC	_ <O>
+over	IN	_ <O>
+time	NN	_ <O>
+became	VBD	_ <O>
+the	DT	_ <O>
+smallest	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Tri	NNP	_ <O>
+-	HYPH	_ <O>
+Cities	NNP	_ <O>
+in	IN	_ <O>
+terms	NNS	_ <O>
+of	IN	_ <O>
+population	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Due	IN	_ <O>
+to	IN	_ <O>
+its	PRP$	_ <O>
+higher	JJR	_ <O>
+poverty	NN	_ <O>
+level	NN	_ <O>
+,	,	_ <O>
+Pasco	NNP	_ <O>
+was	VBD	<B-CUE>
+seen	VBN	<I-CUE>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+as	IN	_ <O>
+the	DT	<B-CUE>
+least	JJS	<I-CUE>
+desirable	JJ	<I-CUE>
+of	IN	_ <O>
+the	DT	_ <O>
+three	CD	_ <O>
+cities	NNS	_ <O>
+and	CC	_ <O>
+over	IN	_ <O>
+time	NN	_ <O>
+became	VBD	_ <O>
+the	DT	_ <O>
+smallest	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Tri	NNP	_ <O>
+-	HYPH	_ <O>
+Cities	NNP	_ <O>
+in	IN	_ <O>
+terms	NNS	_ <O>
+of	IN	_ <O>
+population	NN	_ <O>
+.	.	_ <O>
+
+NULL

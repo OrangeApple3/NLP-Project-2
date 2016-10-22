@@ -1,0 +1,123 @@
+NULL
+Such	JJ	_ <O>
+films	NNS	_ <O>
+consist	VBP	_ <O>
+basically	RB	_ <O>
+of	IN	_ <O>
+continuous	JJ	_ <O>
+,	,	_ <O>
+non	JJ	_ <O>
+-	,	_ <O>
+pigmented	JJ	_ <O>
+inorganic	JJ	_ <O>
+or	CC	_ <O>
+organic	JJ	_ <O>
+polymeric	JJ	_ <O>
+materials	NNS	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+manufactured	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+thickness	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+to	IN	_ <O>
+several	JJ	_ <O>
+hundred	CD	_ <O>
+micrometers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Reflection	NN	_ <O>
+,	,	_ <O>
+multiple	JJ	_ <O>
+reflection	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+interference	NN	_ <O>
+is	VBZ	_ <O>
+here	RB	_ <O>
+likewise	RB	_ <O>
+possible	JJ	_ <O>
+,	,	_ <O>
+also	RB	_ <O>
+under	IN	_ <O>
+circumstances	NNS	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+particles	NNS	_ <O>
+are	VBP	_ <O>
+partly	RB	_ <O>
+disoriented	VBN	_ <O>
+,	,	_ <O>
+only	RB	_ <O>
+the	DT	_ <O>
+achieved	VBN	_ <O>
+effects	NNS	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+different	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Also	RB	_ <O>
+in	IN	_ <O>
+powder	NN	_ <O>
+coating	NN	_ <O>
+applications	NNS	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+an	DT	_ <O>
+optimal	JJ	_ <O>
+orientation	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+pigment	NN	_ <O>
+platelets	NNS	_ <O>
+is	VBZ	_ <O>
+difficult	JJ	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+cases	NNS	<I-CUE>
+,	,	_ <O>
+strong	JJ	_ <O>
+lustrous	JJ	_ <O>
+color	NN	_ <O>
+effects	NNS	_ <O>
+are	VBP	_ <O>
+achievable	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Also	RB	_ <O>
+in	IN	_ <O>
+powder	NN	_ <O>
+coating	NN	_ <O>
+applications	NNS	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+an	DT	_ <O>
+optimal	JJ	_ <O>
+orientation	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+pigment	NN	_ <O>
+platelets	NNS	_ <O>
+is	VBZ	_ <O>
+difficult	JJ	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+cases	NNS	<I-CUE>
+,	,	_ <O>
+strong	JJ	_ <O>
+lustrous	JJ	_ <O>
+color	NN	_ <O>
+effects	NNS	_ <O>
+are	VBP	_ <O>
+achievable	JJ	_ <O>
+.	.	_ <O>
+
+NULL

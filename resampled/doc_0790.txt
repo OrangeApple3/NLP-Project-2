@@ -1,0 +1,59 @@
+NULL
+Williams	NNP	_ <O>
+defended	VBD	_ <O>
+the	DT	_ <O>
+comments	NNS	_ <O>
+as	RB	_ <O>
+sarcastic	JJ	_ <O>
+and	CC	_ <O>
+taken	VBN	_ <O>
+out	IN	_ <O>
+of	IN	_ <O>
+context	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Williams	NNP	_ <O>
+participated	VBD	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+2007	CD	_ <O>
+conversation	NN	_ <O>
+with	IN	_ <O>
+Fox	NNP	_ <O>
+'s	POS	_ <O>
+Bill	NNP	_ <O>
+O'Reilly	NNP	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+O'Reilly	NNP	_ <O>
+made	VBD	_ <O>
+comments	NNS	_ <O>
+criticized	VBN	<B-CUE>
+as	IN	_ <O>
+racist	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Williams	NNP	_ <O>
+participated	VBD	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+2007	CD	_ <O>
+conversation	NN	_ <O>
+with	IN	_ <O>
+Fox	NNP	_ <O>
+'s	POS	_ <O>
+Bill	NNP	_ <O>
+O'Reilly	NNP	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+O'Reilly	NNP	_ <O>
+made	VBD	_ <O>
+comments	NNS	_ <O>
+criticized	VBN	<B-CUE>
+as	IN	_ <O>
+racist	NN	_ <O>
+.	.	_ <O>
+
+NULL

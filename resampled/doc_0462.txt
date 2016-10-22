@@ -1,0 +1,85 @@
+NULL
+The	DT	_ <O>
+county	NN	_ <O>
+has	VBZ	_ <O>
+more	JJR	_ <O>
+covered	JJ	_ <O>
+bridges	NNS	_ <O>
+than	IN	_ <O>
+any	DT	_ <O>
+other	JJ	_ <O>
+county	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+several	JJ	<B-CUE>
+reasons	NNS	<I-CUE>
+,	,	_ <O>
+mainly	RB	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+numerous	JJ	_ <O>
+streams	NNS	_ <O>
+and	CC	_ <O>
+creeks	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+county	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+having	VBG	_ <O>
+the	DT	_ <O>
+natural	JJ	_ <O>
+resources	NNS	_ <O>
+and	CC	_ <O>
+designers	NNS	_ <O>
+to	TO	_ <O>
+build	VB	_ <O>
+the	DT	_ <O>
+bridges	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+several	JJ	<B-CUE>
+reasons	NNS	<I-CUE>
+,	,	_ <O>
+mainly	RB	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+numerous	JJ	_ <O>
+streams	NNS	_ <O>
+and	CC	_ <O>
+creeks	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+county	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+having	VBG	_ <O>
+the	DT	_ <O>
+natural	JJ	_ <O>
+resources	NNS	_ <O>
+and	CC	_ <O>
+designers	NNS	_ <O>
+to	TO	_ <O>
+build	VB	_ <O>
+the	DT	_ <O>
+bridges	NNS	_ <O>
+.	.	_ <O>
+
+NULL

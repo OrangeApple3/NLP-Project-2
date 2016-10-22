@@ -1,0 +1,341 @@
+NULL
+In	IN	_ <O>
+2001	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+US	NNP	_ <O>
+Supreme	NNP	_ <O>
+Court	NNP	_ <O>
+declined	VBD	_ <O>
+to	TO	_ <O>
+hear	VB	_ <O>
+arguments	NNS	_ <O>
+in	IN	_ <O>
+Ganulin	NNP	_ <O>
+v.	IN	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+,	,	_ <O>
+thus	RB	_ <O>
+upholding	VBG	_ <O>
+a	DT	_ <O>
+lower	JJR	_ <O>
+-	HYPH	_ <O>
+court	NN	_ <O>
+ruling	NN	_ <O>
+that	IN	_ <O>
+observing	VBG	_ <O>
+a	DT	_ <O>
+day	NN	_ <O>
+off	RB	_ <O>
+on	IN	_ <O>
+that	DT	_ <O>
+day	NN	_ <O>
+serves	VBZ	_ <O>
+a	DT	_ <O>
+legitimate	JJ	_ <O>
+secular	JJ	_ <O>
+interest	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Since	IN	_ <O>
+1999	CD	_ <O>
+,	,	_ <O>
+various	JJ	<B-CUE>
+people	NNS	<I-CUE>
+of	IN	<I-CUE>
+different	JJ	<I-CUE>
+backgrounds	NNS	<I-CUE>
+and	CC	<I-CUE>
+positions	NNS	<I-CUE>
+have	VBP	_ <O>
+claimed	VBN	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+active	JJ	_ <O>
+ongoing	JJ	_ <O>
+censorship	NN	_ <O>
+campaign	NN	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+"	``	_ <O>
+Christmas	NNP	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+celebration	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+holiday	NN	_ <O>
+itself	PRP	_ <O>
+in	IN	_ <O>
+Western	JJ	_ <O>
+society	NN	_ <O>
+,	,	_ <O>
+particularly	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Contrary	JJ	_ <O>
+to	IN	_ <O>
+popular	JJ	<B-CUE>
+belief	NN	<I-CUE>
+,	,	_ <O>
+those	DT	_ <O>
+campaigning	VBG	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+censorship	NN	_ <O>
+"	''	_ <O>
+of	IN	_ <O>
+Christmas	NNP	_ <O>
+include	VBP	_ <O>
+not	RB	_ <O>
+only	RB	_ <O>
+Christians	NNPS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+atheists	NNS	_ <O>
+,	,	_ <O>
+Muslims	NNPS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Jews	NNPS	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+people	NNS	<I-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+concerted	JJ	_ <O>
+effort	NN	_ <O>
+to	TO	_ <O>
+remove	VB	_ <O>
+any	DT	_ <O>
+mention	NN	_ <O>
+of	IN	_ <O>
+Christmas	NNP	_ <O>
+in	IN	_ <O>
+public	JJ	_ <O>
+advertising	NN	_ <O>
+,	,	_ <O>
+government	NN	_ <O>
+,	,	_ <O>
+public	JJ	_ <O>
+schools	NNS	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+in	IN	_ <O>
+general	JJ	_ <O>
+conversation	NN	_ <O>
+with	IN	_ <O>
+strangers	NNS	_ <O>
+at	IN	_ <O>
+Christmastime	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+also	RB	_ <O>
+claim	VBP	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+perceived	VBN	_ <O>
+censorship	NN	_ <O>
+also	RB	_ <O>
+extends	VBZ	_ <O>
+to	IN	_ <O>
+Easter	NNP	_ <O>
+and	CC	_ <O>
+Good	NNP	_ <O>
+Friday	NNP	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+euphemisms	NNS	_ <O>
+are	VBP	_ <O>
+sometimes	RB	_ <O>
+used	VBN	_ <O>
+to	TO	_ <O>
+avoid	VB	_ <O>
+mentioning	VBG	_ <O>
+these	DT	_ <O>
+holidays	NNS	_ <O>
+by	IN	_ <O>
+name	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Since	IN	_ <O>
+1999	CD	_ <O>
+,	,	_ <O>
+various	JJ	<B-CUE>
+people	NNS	<I-CUE>
+of	IN	<I-CUE>
+different	JJ	<I-CUE>
+backgrounds	NNS	<I-CUE>
+and	CC	<I-CUE>
+positions	NNS	<I-CUE>
+have	VBP	_ <O>
+claimed	VBN	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+active	JJ	_ <O>
+ongoing	JJ	_ <O>
+censorship	NN	_ <O>
+campaign	NN	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+"	``	_ <O>
+Christmas	NNP	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+celebration	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+holiday	NN	_ <O>
+itself	PRP	_ <O>
+in	IN	_ <O>
+Western	JJ	_ <O>
+society	NN	_ <O>
+,	,	_ <O>
+particularly	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Contrary	JJ	_ <O>
+to	IN	_ <O>
+popular	JJ	<B-CUE>
+belief	NN	<I-CUE>
+,	,	_ <O>
+those	DT	_ <O>
+campaigning	VBG	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+censorship	NN	_ <O>
+"	''	_ <O>
+of	IN	_ <O>
+Christmas	NNP	_ <O>
+include	VBP	_ <O>
+not	RB	_ <O>
+only	RB	_ <O>
+Christians	NNPS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+atheists	NNS	_ <O>
+,	,	_ <O>
+Muslims	NNPS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Jews	NNPS	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+people	NNS	<I-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+concerted	JJ	_ <O>
+effort	NN	_ <O>
+to	TO	_ <O>
+remove	VB	_ <O>
+any	DT	_ <O>
+mention	NN	_ <O>
+of	IN	_ <O>
+Christmas	NNP	_ <O>
+in	IN	_ <O>
+public	JJ	_ <O>
+advertising	NN	_ <O>
+,	,	_ <O>
+government	NN	_ <O>
+,	,	_ <O>
+public	JJ	_ <O>
+schools	NNS	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+in	IN	_ <O>
+general	JJ	_ <O>
+conversation	NN	_ <O>
+with	IN	_ <O>
+strangers	NNS	_ <O>
+at	IN	_ <O>
+Christmastime	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+also	RB	_ <O>
+claim	VBP	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+perceived	VBN	_ <O>
+censorship	NN	_ <O>
+also	RB	_ <O>
+extends	VBZ	_ <O>
+to	IN	_ <O>
+Easter	NNP	_ <O>
+and	CC	_ <O>
+Good	NNP	_ <O>
+Friday	NNP	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+euphemisms	NNS	_ <O>
+are	VBP	_ <O>
+sometimes	RB	_ <O>
+used	VBN	_ <O>
+to	TO	_ <O>
+avoid	VB	_ <O>
+mentioning	VBG	_ <O>
+these	DT	_ <O>
+holidays	NNS	_ <O>
+by	IN	_ <O>
+name	NN	_ <O>
+.	.	_ <O>
+
+NULL

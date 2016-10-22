@@ -1,0 +1,149 @@
+Although	IN	_ <O>
+the	DT	_ <O>
+House	NNP	_ <O>
+of	IN	_ <O>
+Fabergé	NNP	_ <O>
+is	VBZ	_ <O>
+famed	VBN	_ <O>
+for	IN	_ <O>
+its	PRP$	_ <O>
+Imperial	NNP	_ <O>
+Easter	NNP	_ <O>
+Eggs	NNP	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+made	VBD	_ <O>
+many	JJ	_ <O>
+more	JJR	_ <O>
+objects	NNS	_ <O>
+ranging	VBG	_ <O>
+from	IN	_ <O>
+silver	NN	_ <O>
+tableware	NN	_ <O>
+to	IN	_ <O>
+fine	JJ	_ <O>
+jewelry	NN	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+Carl	NNP	_ <O>
+Fabergé	NNP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+member	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Jury	NNP	_ <O>
+the	DT	_ <O>
+House	NNP	_ <O>
+of	IN	_ <O>
+Fabergé	NNP	_ <O>
+therefore	RB	_ <O>
+exhibited	VBD	_ <O>
+'	''	_ <O>
+hors	NNS	_ <O>
+concours	NNS	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+without	IN	_ <O>
+competing	VBG	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Additionally	RB	_ <O>
+,	,	_ <O>
+Carl	NNP	_ <O>
+Fabergé	NNP	_ <O>
+was	VBD	_ <O>
+decorated	VBN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+prestigious	JJ	_ <O>
+of	IN	_ <O>
+French	JJ	_ <O>
+awards	NNS	_ <O>
+–	:	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+appointed	VBN	_ <O>
+a	DT	_ <O>
+Knight	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Legion	NNP	_ <O>
+of	IN	_ <O>
+Honour	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+produced	VBD	_ <O>
+some	DT	<B-CUE>
+150,000	CD	<I-CUE>
+to	TO	<I-CUE>
+200,000	CD	<I-CUE>
+objects	NNS	<I-CUE>
+from	IN	_ <O>
+1882	CD	_ <O>
+until	IN	_ <O>
+1917	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Commercially	RB	_ <O>
+the	DT	_ <O>
+exposition	NN	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+great	JJ	_ <O>
+success	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+firm	NN	_ <O>
+acquired	VBD	_ <O>
+a	DT	<B-CUE>
+great	JJ	<I-CUE>
+many	JJ	<I-CUE>
+orders	NNS	<I-CUE>
+and	CC	<I-CUE>
+clients	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+produced	VBD	_ <O>
+some	DT	<B-CUE>
+150,000	CD	<I-CUE>
+to	TO	<I-CUE>
+200,000	CD	<I-CUE>
+objects	NNS	<I-CUE>
+from	IN	_ <O>
+1882	CD	_ <O>
+until	IN	_ <O>
+1917	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Commercially	RB	_ <O>
+the	DT	_ <O>
+exposition	NN	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+great	JJ	_ <O>
+success	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+firm	NN	_ <O>
+acquired	VBD	_ <O>
+a	DT	<B-CUE>
+great	JJ	<I-CUE>
+many	JJ	<I-CUE>
+orders	NNS	<I-CUE>
+and	CC	<I-CUE>
+clients	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

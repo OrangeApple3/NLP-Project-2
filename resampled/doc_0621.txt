@@ -1,0 +1,26 @@
+NULL
+Leghemoglobin	NNP	_ <O>
+buffers	VBZ	_ <O>
+the	DT	_ <O>
+concentration	NN	_ <O>
+of	IN	_ <O>
+free	JJ	_ <O>
+oxygen	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+cytoplasm	NN	_ <O>
+of	IN	_ <O>
+infected	JJ	_ <O>
+plant	NN	_ <O>
+cells	NNS	_ <O>
+to	TO	_ <O>
+ensure	VB	_ <O>
+the	DT	_ <O>
+proper	JJ	_ <O>
+function	NN	_ <O>
+of	IN	_ <O>
+root	NN	_ <O>
+nodules	NNS	_ <O>
+.	.	_ <O>
+
+NULL

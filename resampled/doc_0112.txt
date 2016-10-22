@@ -1,0 +1,204 @@
+NULL
+A	DT	_ <O>
+local	JJ	_ <O>
+chemist	NN	_ <O>
+examined	VBD	_ <O>
+the	DT	_ <O>
+windows	NNS	_ <O>
+and	CC	_ <O>
+suggested	VBD	_ <O>
+the	DT	_ <O>
+stain	NN	_ <O>
+was	VBD	_ <O>
+produced	VBN	_ <O>
+by	IN	_ <O>
+water	NN	_ <O>
+deposits	NNS	_ <O>
+combined	VBN	_ <O>
+with	IN	_ <O>
+weathering	NN	_ <O>
+,	,	_ <O>
+yielding	VBG	_ <O>
+a	DT	_ <O>
+chemical	JJ	_ <O>
+reaction	NN	_ <O>
+like	IN	_ <O>
+that	DT	_ <O>
+often	RB	_ <O>
+seen	VBN	_ <O>
+on	IN	_ <O>
+old	JJ	_ <O>
+bottles	NNS	_ <O>
+,	,	_ <O>
+perhaps	RB	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+action	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+water	NN	_ <O>
+sprinkler	NN	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+typical	JJ	_ <O>
+example	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+Clearwater	NNP	_ <O>
+Virgin	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+an	DT	_ <O>
+image	NN	_ <O>
+of	IN	_ <O>
+Mary	NNP	_ <O>
+was	VBD	<B-CUE>
+reported	VBN	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+appeared	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+glass	NN	_ <O>
+façade	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+finance	NN	_ <O>
+building	NN	_ <O>
+in	IN	_ <O>
+Clearwater	NNP	_ <O>
+,	,	_ <O>
+Florida	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+attracted	VBD	_ <O>
+widespread	JJ	<B-CUE>
+media	NN	_ <O>
+attention	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Images	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Virgin	NNP	_ <O>
+have	VBP	<B-CUE>
+also	RB	<I-CUE>
+been	VBN	<I-CUE>
+reported	VBN	<I-CUE>
+on	IN	_ <O>
+a	DT	_ <O>
+rock	NN	_ <O>
+in	IN	_ <O>
+Ghana	NNP	_ <O>
+,	,	_ <O>
+an	DT	_ <O>
+underpass	NN	_ <O>
+in	IN	_ <O>
+Chicago	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+lump	NN	_ <O>
+of	IN	_ <O>
+firewood	NN	_ <O>
+in	IN	_ <O>
+Janesville	NNP	_ <O>
+,	,	_ <O>
+Wisconsin	NNP	_ <O>
+;	:	_ <O>
+a	DT	_ <O>
+chocolate	NN	_ <O>
+factory	NN	_ <O>
+in	IN	_ <O>
+Fountain	NNP	_ <O>
+Valley	NNP	_ <O>
+,	,	_ <O>
+California	NNP	_ <O>
+;	:	_ <O>
+
+NULL
+A	DT	_ <O>
+typical	JJ	_ <O>
+example	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+Clearwater	NNP	_ <O>
+Virgin	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+an	DT	_ <O>
+image	NN	_ <O>
+of	IN	_ <O>
+Mary	NNP	_ <O>
+was	VBD	<B-CUE>
+reported	VBN	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+appeared	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+glass	NN	_ <O>
+façade	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+finance	NN	_ <O>
+building	NN	_ <O>
+in	IN	_ <O>
+Clearwater	NNP	_ <O>
+,	,	_ <O>
+Florida	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+attracted	VBD	_ <O>
+widespread	JJ	<B-CUE>
+media	NN	_ <O>
+attention	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Images	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Virgin	NNP	_ <O>
+have	VBP	<B-CUE>
+also	RB	<I-CUE>
+been	VBN	<I-CUE>
+reported	VBN	<I-CUE>
+on	IN	_ <O>
+a	DT	_ <O>
+rock	NN	_ <O>
+in	IN	_ <O>
+Ghana	NNP	_ <O>
+,	,	_ <O>
+an	DT	_ <O>
+underpass	NN	_ <O>
+in	IN	_ <O>
+Chicago	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+lump	NN	_ <O>
+of	IN	_ <O>
+firewood	NN	_ <O>
+in	IN	_ <O>
+Janesville	NNP	_ <O>
+,	,	_ <O>
+Wisconsin	NNP	_ <O>
+;	:	_ <O>
+a	DT	_ <O>
+chocolate	NN	_ <O>
+factory	NN	_ <O>
+in	IN	_ <O>
+Fountain	NNP	_ <O>
+Valley	NNP	_ <O>
+,	,	_ <O>
+California	NNP	_ <O>
+;	:	_ <O>
+
+NULL

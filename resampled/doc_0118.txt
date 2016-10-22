@@ -1,0 +1,165 @@
+NULL
+Access	NN	_ <O>
+to	IN	_ <O>
+physical	JJ	_ <O>
+system	NN	_ <O>
+resources	NNS	_ <O>
+(	-LRB-	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+network	NN	_ <O>
+access	NN	_ <O>
+,	,	_ <O>
+display	NN	_ <O>
+,	,	_ <O>
+keyboard	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+disk	NN	_ <O>
+storage	NN	_ <O>
+)	-RRB-	_ <O>
+is	VBZ	_ <O>
+generally	RB	_ <O>
+managed	VBN	_ <O>
+at	IN	_ <O>
+a	DT	_ <O>
+more	RBR	_ <O>
+restrictive	JJ	_ <O>
+level	NN	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+processor	NN	_ <O>
+and	CC	_ <O>
+system	NN	_ <O>
+-	HYPH	_ <O>
+memory	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Guests	NNS	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+restricted	VBN	_ <O>
+from	IN	_ <O>
+accessing	VBG	_ <O>
+specific	JJ	_ <O>
+peripheral	JJ	_ <O>
+devices	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+limited	VBN	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+subset	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+device	NN	_ <O>
+'s	POS	_ <O>
+native	JJ	_ <O>
+capabilities	NNS	_ <O>
+,	,	_ <O>
+depending	VBG	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+hardware	NN	_ <O>
+access	NN	_ <O>
+policy	NN	_ <O>
+implemented	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+virtualization	NN	_ <O>
+host	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+guest	NN	_ <O>
+software	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+limited	JJ	_ <O>
+to	IN	_ <O>
+user	NN	_ <O>
+applications	NNS	_ <O>
+;	:	_ <O>
+many	JJ	<B-CUE>
+hosts	NNS	<I-CUE>
+allow	VB	_ <O>
+the	DT	_ <O>
+execution	NN	_ <O>
+of	IN	_ <O>
+complete	JJ	_ <O>
+operating	NN	_ <O>
+systems	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+guest	NN	_ <O>
+software	NN	_ <O>
+executes	VBZ	_ <O>
+as	IN	_ <O>
+if	IN	_ <O>
+it	PRP	_ <O>
+were	VBD	_ <O>
+running	VBG	_ <O>
+directly	RB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+physical	JJ	_ <O>
+hardware	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+several	JJ	<B-CUE>
+notable	JJ	<I-CUE>
+caveats	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+guest	NN	_ <O>
+software	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+limited	JJ	_ <O>
+to	IN	_ <O>
+user	NN	_ <O>
+applications	NNS	_ <O>
+;	:	_ <O>
+many	JJ	<B-CUE>
+hosts	NNS	<I-CUE>
+allow	VB	_ <O>
+the	DT	_ <O>
+execution	NN	_ <O>
+of	IN	_ <O>
+complete	JJ	_ <O>
+operating	NN	_ <O>
+systems	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+guest	NN	_ <O>
+software	NN	_ <O>
+executes	VBZ	_ <O>
+as	IN	_ <O>
+if	IN	_ <O>
+it	PRP	_ <O>
+were	VBD	_ <O>
+running	VBG	_ <O>
+directly	RB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+physical	JJ	_ <O>
+hardware	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+several	JJ	<B-CUE>
+notable	JJ	<I-CUE>
+caveats	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

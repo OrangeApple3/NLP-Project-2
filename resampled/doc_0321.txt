@@ -1,0 +1,20 @@
+The	DT	_ <O>
+motto	NN	_ <O>
+of	IN	_ <O>
+Clackmannanshire	NNP	_ <O>
+is	VBZ	_ <O>
+"	``	_ <O>
+Look	VB	_ <O>
+Aboot	NNP	_ <O>
+Ye	NNP	_ <O>
+"	''	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+Circumspice	NNP	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+Latin	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

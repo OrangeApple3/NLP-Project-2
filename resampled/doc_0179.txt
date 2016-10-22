@@ -1,0 +1,94 @@
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+'	``	_ <O>
+The	DT	_ <O>
+Unknown	JJ	_ <O>
+Soldier	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+novel	NN	_ <O>
+by	IN	_ <O>
+Väinö	NNP	_ <O>
+Linna	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+film	NN	_ <O>
+was	VBD	_ <O>
+and	CC	_ <O>
+remains	VBZ	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+successful	JJ	_ <O>
+movie	NN	_ <O>
+ever	RB	_ <O>
+in	IN	_ <O>
+Finland	NNP	_ <O>
+;	:	_ <O>
+about	RB	_ <O>
+2.8	CD	_ <O>
+million	CD	_ <O>
+people	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+half	PDT	_ <O>
+the	DT	_ <O>
+Finnish	JJ	_ <O>
+population	NN	_ <O>
+,	,	_ <O>
+saw	VBD	_ <O>
+it	PRP	_ <O>
+in	IN	_ <O>
+theaters	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+1985	CD	_ <O>
+Rauni	NNP	_ <O>
+Mollberg	NNP	_ <O>
+directed	VBD	_ <O>
+a	DT	_ <O>
+new	JJ	_ <O>
+version	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+film	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Its	PRP$	_ <O>
+portrayal	NN	_ <O>
+of	IN	_ <O>
+Linna	NNP	_ <O>
+'s	POS	_ <O>
+characters	NNS	_ <O>
+is	VBZ	<B-CUE>
+widely	RB	<I-CUE>
+accepted	VBN	<I-CUE>
+as	IN	_ <O>
+canonical	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Its	PRP$	_ <O>
+portrayal	NN	_ <O>
+of	IN	_ <O>
+Linna	NNP	_ <O>
+'s	POS	_ <O>
+characters	NNS	_ <O>
+is	VBZ	<B-CUE>
+widely	RB	<I-CUE>
+accepted	VBN	<I-CUE>
+as	IN	_ <O>
+canonical	JJ	_ <O>
+.	.	_ <O>
+
+NULL

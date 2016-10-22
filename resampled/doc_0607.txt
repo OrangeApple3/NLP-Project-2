@@ -1,0 +1,50 @@
+NULL
+Nick	NNP	_ <O>
+had	VBD	_ <O>
+led	VBN	_ <O>
+them	PRP	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+place	NN	_ <O>
+where	WRB	_ <O>
+he	PRP	_ <O>
+had	VBD	_ <O>
+led	VBN	_ <O>
+many	JJ	_ <O>
+people	NNS	_ <O>
+who	WP	_ <O>
+were	VBD	_ <O>
+lost	JJ	_ <O>
+and	CC	_ <O>
+homeless	JJ	_ <O>
+or	CC	_ <O>
+poor	JJ	_ <O>
+or	CC	_ <O>
+down	RB	_ <O>
+on	IN	_ <O>
+their	PRP$	_ <O>
+luck	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Nick	NNP	_ <O>
+turned	VBD	_ <O>
+them	PRP	_ <O>
+over	RP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+others	NNS	_ <O>
+staying	VBG	_ <O>
+there	RB	_ <O>
+and	CC	_ <O>
+asked	VBD	_ <O>
+them	PRP	_ <O>
+to	TO	_ <O>
+watch	VB	_ <O>
+over	IN	_ <O>
+Beth	NNP	_ <O>
+and	CC	_ <O>
+Phillip	NNP	_ <O>
+.	.	_ <O>
+
+NULL

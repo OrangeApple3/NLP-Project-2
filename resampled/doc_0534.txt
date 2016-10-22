@@ -1,0 +1,19 @@
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+named	VBN	_ <O>
+for	IN	_ <O>
+Thomas	NNP	_ <O>
+Hay	NNP	_ <O>
+,	,	_ <O>
+Viscount	NNP	_ <O>
+Dupplin	NNP	_ <O>
+,	,	_ <O>
+later	RB	_ <O>
+9th	NNP	_ <O>
+Earl	NNP	_ <O>
+of	IN	_ <O>
+Kinnoull	NNP	_ <O>
+.	.	_ <O>
+
+NULL

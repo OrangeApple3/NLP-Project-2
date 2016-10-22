@@ -1,0 +1,44 @@
+After	IN	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+minutes	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+enemy	NN	_ <O>
+launched	VBD	_ <O>
+a	DT	_ <O>
+counter	JJ	_ <O>
+attack	NN	_ <O>
+against	IN	_ <O>
+Platoon	NNP	_ <O>
+8	CD	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+this	DT	_ <O>
+position	NN	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+and	CC	_ <O>
+his	PRP$	_ <O>
+group	NN	_ <O>
+exchanged	VBD	_ <O>
+fire	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+enemy	NN	_ <O>
+,	,	_ <O>
+successfully	RB	_ <O>
+killing	VBG	_ <O>
+another	DT	_ <O>
+and	CC	_ <O>
+wounding	VBG	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+enemy	NN	_ <O>
+.	.	_ <O>
+
+NULL

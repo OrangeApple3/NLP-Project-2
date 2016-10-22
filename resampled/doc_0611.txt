@@ -1,0 +1,127 @@
+NULL
+The	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+religious	JJ	_ <O>
+increasing	NN	_ <O>
+,	,	_ <O>
+Peter	NNP	_ <O>
+gave	VBD	_ <O>
+them	PRP	_ <O>
+some	DT	<B-CUE>
+statutes	NNS	<I-CUE>
+grounded	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+rule	NN	_ <O>
+of	IN	_ <O>
+St.	NNP	_ <O>
+Augustine	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+These	DT	_ <O>
+were	VBD	_ <O>
+approved	VBN	_ <O>
+by	IN	_ <O>
+pope	NN	_ <O>
+Paschal	NNP	_ <O>
+II	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+having	VBG	_ <O>
+afterwards	RB	_ <O>
+been	VBN	_ <O>
+adopted	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+communities	NNS	<I-CUE>
+of	IN	_ <O>
+Canons	NNP	_ <O>
+Regular	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Portuensis	NNP	_ <O>
+Congregation	NNP	_ <O>
+was	VBD	_ <O>
+formed	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+By	IN	<B-CUE>
+common	JJ	<I-CUE>
+consent	NN	<I-CUE>
+Peter	NNP	_ <O>
+has	VBZ	_ <O>
+always	RB	_ <O>
+been	VBN	_ <O>
+called	VBN	_ <O>
+Blessed	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+religious	JJ	_ <O>
+increasing	NN	_ <O>
+,	,	_ <O>
+Peter	NNP	_ <O>
+gave	VBD	_ <O>
+them	PRP	_ <O>
+some	DT	<B-CUE>
+statutes	NNS	<I-CUE>
+grounded	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+rule	NN	_ <O>
+of	IN	_ <O>
+St.	NNP	_ <O>
+Augustine	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+These	DT	_ <O>
+were	VBD	_ <O>
+approved	VBN	_ <O>
+by	IN	_ <O>
+pope	NN	_ <O>
+Paschal	NNP	_ <O>
+II	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+having	VBG	_ <O>
+afterwards	RB	_ <O>
+been	VBN	_ <O>
+adopted	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+communities	NNS	<I-CUE>
+of	IN	_ <O>
+Canons	NNP	_ <O>
+Regular	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Portuensis	NNP	_ <O>
+Congregation	NNP	_ <O>
+was	VBD	_ <O>
+formed	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+By	IN	<B-CUE>
+common	JJ	<I-CUE>
+consent	NN	<I-CUE>
+Peter	NNP	_ <O>
+has	VBZ	_ <O>
+always	RB	_ <O>
+been	VBN	_ <O>
+called	VBN	_ <O>
+Blessed	VBN	_ <O>
+.	.	_ <O>
+
+NULL

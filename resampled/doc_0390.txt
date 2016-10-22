@@ -1,0 +1,43 @@
+NULL
+India	NNP	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+multi	JJ	_ <O>
+-	HYPH	_ <O>
+party	NN	_ <O>
+system	NN	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+national	JJ	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+regional	JJ	_ <O>
+parties	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+a	DT	_ <O>
+party	NN	_ <O>
+represents	VBZ	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+4	CD	_ <O>
+states	NNS	_ <O>
+then	RB	_ <O>
+such	JJ	_ <O>
+parties	NNS	_ <O>
+are	VBP	_ <O>
+considered	VBN	_ <O>
+as	IN	_ <O>
+national	JJ	_ <O>
+parties	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,161 @@
+NULL
+During	IN	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+civil	JJ	_ <O>
+war	NN	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+was	VBD	_ <O>
+unable	JJ	_ <O>
+to	TO	_ <O>
+exercise	VB	_ <O>
+effective	JJ	_ <O>
+control	NN	_ <O>
+outside	IN	_ <O>
+of	IN	_ <O>
+urban	JJ	_ <O>
+areas	NNS	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+which	WDT	<I-CUE>
+were	VBD	_ <O>
+cut	VBN	_ <O>
+off	RP	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+capital	NN	_ <O>
+.	.	_ <O>
+
+NULL
+An	DT	_ <O>
+estimated	VBN	_ <O>
+one	CD	_ <O>
+million	CD	_ <O>
+Mozambicans	NNPS	_ <O>
+perished	VBN	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+civil	JJ	_ <O>
+war	NN	_ <O>
+,	,	_ <O>
+1.7	CD	_ <O>
+million	CD	_ <O>
+took	VBD	_ <O>
+refuge	NN	_ <O>
+in	IN	_ <O>
+neighboring	NN	_ <O>
+states	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+several	JJ	<B-CUE>
+million	CD	<I-CUE>
+more	JJR	<I-CUE>
+were	VBD	_ <O>
+internally	RB	_ <O>
+displaced	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+death	NN	_ <O>
+,	,	_ <O>
+along	IN	_ <O>
+with	IN	_ <O>
+several	JJ	<B-CUE>
+advisers	NNS	<I-CUE>
+,	,	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+suspicious	JJ	_ <O>
+plane	NN	_ <O>
+crash	NN	_ <O>
+in	IN	_ <O>
+1986	CD	_ <O>
+interrupted	VBD	_ <O>
+progress	NN	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+civil	JJ	_ <O>
+war	NN	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+was	VBD	_ <O>
+unable	JJ	_ <O>
+to	TO	_ <O>
+exercise	VB	_ <O>
+effective	JJ	_ <O>
+control	NN	_ <O>
+outside	IN	_ <O>
+of	IN	_ <O>
+urban	JJ	_ <O>
+areas	NNS	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+which	WDT	<I-CUE>
+were	VBD	_ <O>
+cut	VBN	_ <O>
+off	RP	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+capital	NN	_ <O>
+.	.	_ <O>
+
+NULL
+An	DT	_ <O>
+estimated	VBN	_ <O>
+one	CD	_ <O>
+million	CD	_ <O>
+Mozambicans	NNPS	_ <O>
+perished	VBN	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+civil	JJ	_ <O>
+war	NN	_ <O>
+,	,	_ <O>
+1.7	CD	_ <O>
+million	CD	_ <O>
+took	VBD	_ <O>
+refuge	NN	_ <O>
+in	IN	_ <O>
+neighboring	NN	_ <O>
+states	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+several	JJ	<B-CUE>
+million	CD	<I-CUE>
+more	JJR	<I-CUE>
+were	VBD	_ <O>
+internally	RB	_ <O>
+displaced	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+death	NN	_ <O>
+,	,	_ <O>
+along	IN	_ <O>
+with	IN	_ <O>
+several	JJ	<B-CUE>
+advisers	NNS	<I-CUE>
+,	,	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+suspicious	JJ	_ <O>
+plane	NN	_ <O>
+crash	NN	_ <O>
+in	IN	_ <O>
+1986	CD	_ <O>
+interrupted	VBD	_ <O>
+progress	NN	_ <O>
+.	.	_ <O>
+
+NULL

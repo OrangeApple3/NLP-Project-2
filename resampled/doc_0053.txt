@@ -1,0 +1,134 @@
+The	DT	_ <O>
+results	NNS	_ <O>
+thus	RB	_ <O>
+became	VBD	_ <O>
+indirectly	RB	_ <O>
+known	VBN	_ <O>
+in	IN	_ <O>
+Europe	NNP	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+end	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+12th	JJ	_ <O>
+century	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+the	DT	_ <O>
+text	NN	_ <O>
+itself	PRP	_ <O>
+was	VBD	_ <O>
+not	RB	_ <O>
+introduced	VBN	_ <O>
+until	IN	_ <O>
+much	RB	_ <O>
+later	RB	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Mughal	NNP	_ <O>
+emperor	NN	_ <O>
+Akbar	NNP	_ <O>
+commissioned	VBD	_ <O>
+a	DT	_ <O>
+famous	JJ	_ <O>
+Persian	NNP	_ <O>
+translation	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Lilvati	NNP	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+1587	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+scholars	NNS	<I-CUE>
+have	VBP	<B-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+Bhaskara	NNP	_ <O>
+'s	POS	_ <O>
+work	NN	_ <O>
+influenced	VBN	_ <O>
+later	JJ	_ <O>
+developments	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Middle	NNP	_ <O>
+East	NNP	_ <O>
+and	CC	_ <O>
+Europe	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+work	NN	_ <O>
+was	VBD	_ <O>
+perhaps	RB	<B-CUE>
+known	VBN	_ <O>
+to	IN	_ <O>
+Islamic	JJ	_ <O>
+mathematicians	NNS	_ <O>
+as	RB	_ <O>
+soon	RB	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+written	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+influenced	VBD	_ <O>
+their	PRP$	_ <O>
+subsequent	JJ	_ <O>
+writings	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+scholars	NNS	<I-CUE>
+have	VBP	<B-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+Bhaskara	NNP	_ <O>
+'s	POS	_ <O>
+work	NN	_ <O>
+influenced	VBN	_ <O>
+later	JJ	_ <O>
+developments	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Middle	NNP	_ <O>
+East	NNP	_ <O>
+and	CC	_ <O>
+Europe	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+work	NN	_ <O>
+was	VBD	_ <O>
+perhaps	RB	<B-CUE>
+known	VBN	_ <O>
+to	IN	_ <O>
+Islamic	JJ	_ <O>
+mathematicians	NNS	_ <O>
+as	RB	_ <O>
+soon	RB	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+written	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+influenced	VBD	_ <O>
+their	PRP$	_ <O>
+subsequent	JJ	_ <O>
+writings	NNS	_ <O>
+.	.	_ <O>
+
+NULL

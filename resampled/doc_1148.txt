@@ -1,0 +1,145 @@
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+said	VBN	<I-CUE>
+that	IN	_ <O>
+he	PRP	_ <O>
+learned	VBD	_ <O>
+the	DT	_ <O>
+art	NN	_ <O>
+in	IN	_ <O>
+Bukhara	NNP	_ <O>
+and	CC	_ <O>
+taught	VBD	_ <O>
+it	PRP	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+sons	NNS	_ <O>
+Edhem	NNP	_ <O>
+and	CC	_ <O>
+Salih	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Based	VBN	_ <O>
+upon	IN	_ <O>
+this	DT	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+Turkish	JJ	<I-CUE>
+marblers	NNS	<I-CUE>
+have	VBP	_ <O>
+stated	VBN	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+art	NN	_ <O>
+was	VBD	_ <O>
+perpetuated	VBN	_ <O>
+by	IN	_ <O>
+Sufis	NNP	_ <O>
+for	IN	_ <O>
+centuries	NNS	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+evidence	NN	<B-CUE>
+for	IN	<I-CUE>
+this	DT	<I-CUE>
+claim	NN	<I-CUE>
+is	VBZ	<I-CUE>
+has	VBZ	<I-CUE>
+never	RB	<I-CUE>
+been	VBN	<I-CUE>
+concretely	RB	<I-CUE>
+established	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+said	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+papers	NNS	_ <O>
+were	VBD	_ <O>
+tied	VBN	_ <O>
+into	IN	_ <O>
+bundles	NNS	_ <O>
+and	CC	_ <O>
+sold	VBN	_ <O>
+by	IN	_ <O>
+weight	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+said	VBN	<I-CUE>
+that	IN	_ <O>
+he	PRP	_ <O>
+learned	VBD	_ <O>
+the	DT	_ <O>
+art	NN	_ <O>
+in	IN	_ <O>
+Bukhara	NNP	_ <O>
+and	CC	_ <O>
+taught	VBD	_ <O>
+it	PRP	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+sons	NNS	_ <O>
+Edhem	NNP	_ <O>
+and	CC	_ <O>
+Salih	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Based	VBN	_ <O>
+upon	IN	_ <O>
+this	DT	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+Turkish	JJ	<I-CUE>
+marblers	NNS	<I-CUE>
+have	VBP	_ <O>
+stated	VBN	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+art	NN	_ <O>
+was	VBD	_ <O>
+perpetuated	VBN	_ <O>
+by	IN	_ <O>
+Sufis	NNP	_ <O>
+for	IN	_ <O>
+centuries	NNS	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+evidence	NN	<B-CUE>
+for	IN	<I-CUE>
+this	DT	<I-CUE>
+claim	NN	<I-CUE>
+is	VBZ	<I-CUE>
+has	VBZ	<I-CUE>
+never	RB	<I-CUE>
+been	VBN	<I-CUE>
+concretely	RB	<I-CUE>
+established	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+said	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+papers	NNS	_ <O>
+were	VBD	_ <O>
+tied	VBN	_ <O>
+into	IN	_ <O>
+bundles	NNS	_ <O>
+and	CC	_ <O>
+sold	VBN	_ <O>
+by	IN	_ <O>
+weight	NN	_ <O>
+.	.	_ <O>
+
+NULL

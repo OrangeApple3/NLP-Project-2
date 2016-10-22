@@ -1,0 +1,32 @@
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+founded	VBN	_ <O>
+in	IN	_ <O>
+1572	CD	_ <O>
+under	IN	_ <O>
+a	DT	_ <O>
+Royal	NNP	_ <O>
+Charter	NNP	_ <O>
+granted	VBN	_ <O>
+by	IN	_ <O>
+Elizabeth	NNP	_ <O>
+I	NNP	_ <O>
+of	IN	_ <O>
+England	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Lyon	NNP	_ <O>
+was	VBD	_ <O>
+particularly	RB	_ <O>
+insistent	JJ	_ <O>
+about	IN	_ <O>
+keeping	VBG	_ <O>
+Harrow	NNP	_ <O>
+single	JJ	_ <O>
+-	HYPH	_ <O>
+sex	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,151 @@
+It	PRP	_ <O>
+was	VBD	_ <O>
+of	IN	_ <O>
+such	JJ	_ <O>
+magnitude	NN	_ <O>
+that	WDT	_ <O>
+several	JJ	_ <O>
+hundred	CD	_ <O>
+year	NN	_ <O>
+old	JJ	_ <O>
+cypress	NN	_ <O>
+trees	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+local	JJ	_ <O>
+cemetery	NN	_ <O>
+were	VBD	_ <O>
+uprooted	VBN	_ <O>
+and	CC	_ <O>
+fell	VBD	_ <O>
+on	IN	_ <O>
+surrounding	VBG	_ <O>
+tombstones	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+swimming	NN	_ <O>
+pool	NN	_ <O>
+was	VBD	_ <O>
+crowded	VBN	_ <O>
+with	IN	_ <O>
+people	NNS	_ <O>
+(	-LRB-	_ <O>
+minutes	NNS	_ <O>
+before	IN	_ <O>
+the	DT	_ <O>
+thermometer	NN	_ <O>
+marked	VBD	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+40	CD	_ <O>
+°C	NNS	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+there	EX	_ <O>
+was	VBD	_ <O>
+mass	NN	_ <O>
+panic	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Coincidentally	RB	_ <O>
+,	,	_ <O>
+another	DT	_ <O>
+August	NNP	_ <O>
+12	CD	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+in	IN	_ <O>
+2007	CD	_ <O>
+an	DT	_ <O>
+earthquake	NN	_ <O>
+(	-LRB-	_ <O>
+magnitude	NN	_ <O>
+5.1	CD	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+Richter	NNP	_ <O>
+scale	NN	_ <O>
+)	-RRB-	_ <O>
+with	IN	_ <O>
+its	PRP$	_ <O>
+epicenter	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+municipality	NN	_ <O>
+of	IN	_ <O>
+Pedro	NNP	_ <O>
+Munoz	NNP	_ <O>
+shook	VBD	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Iberian	NNP	_ <O>
+peninsula	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+fact	NN	_ <O>
+,	,	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+its	PRP$	_ <O>
+streets	NNS	_ <O>
+refers	VBZ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+(	-LRB-	_ <O>
+street	NN	_ <O>
+Agreement	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+event	NN	_ <O>
+related	VBN	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+academic	JJ	<I-CUE>
+books	NNS	<I-CUE>
+on	IN	_ <O>
+the	DT	_ <O>
+topic	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+fact	NN	_ <O>
+,	,	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+its	PRP$	_ <O>
+streets	NNS	_ <O>
+refers	VBZ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+(	-LRB-	_ <O>
+street	NN	_ <O>
+Agreement	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+event	NN	_ <O>
+related	VBN	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+academic	JJ	<I-CUE>
+books	NNS	<I-CUE>
+on	IN	_ <O>
+the	DT	_ <O>
+topic	NN	_ <O>
+.	.	_ <O>
+
+NULL

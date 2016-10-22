@@ -1,0 +1,78 @@
+Hypertensive	JJ	_ <O>
+crisis	NN	_ <O>
+may	MD	_ <O>
+result	VB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+overconsumption	NN	_ <O>
+of	IN	_ <O>
+tyramine	NN	_ <O>
+-	HYPH	_ <O>
+containing	VBG	_ <O>
+foods	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Serotonin	NNP	_ <O>
+syndrome	NN	_ <O>
+may	MD	_ <O>
+result	VB	_ <O>
+from	IN	_ <O>
+an	DT	_ <O>
+interaction	NN	_ <O>
+with	IN	_ <O>
+certain	JJ	_ <O>
+drugs	NNS	_ <O>
+which	WDT	_ <O>
+increase	VBP	_ <O>
+serotonin	NN	_ <O>
+activity	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Several	JJ	_ <O>
+deaths	NNS	_ <O>
+have	VBP	<B-CUE>
+been	VBN	<I-CUE>
+reported	VBN	<I-CUE>
+due	JJ	_ <O>
+to	IN	_ <O>
+drug	NN	_ <O>
+interaction	NN	_ <O>
+-	HYPH	_ <O>
+related	VBN	_ <O>
+serotonin	NN	_ <O>
+syndrome	NN	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+case	NN	_ <O>
+of	IN	_ <O>
+Libby	NNP	_ <O>
+Zion	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Several	JJ	_ <O>
+deaths	NNS	_ <O>
+have	VBP	<B-CUE>
+been	VBN	<I-CUE>
+reported	VBN	<I-CUE>
+due	JJ	_ <O>
+to	IN	_ <O>
+drug	NN	_ <O>
+interaction	NN	_ <O>
+-	HYPH	_ <O>
+related	VBN	_ <O>
+serotonin	NN	_ <O>
+syndrome	NN	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+case	NN	_ <O>
+of	IN	_ <O>
+Libby	NNP	_ <O>
+Zion	NNP	_ <O>
+.	.	_ <O>
+
+NULL

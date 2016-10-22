@@ -1,0 +1,27 @@
+In	IN	_ <O>
+the	DT	_ <O>
+Orthodox	NNP	_ <O>
+Church	NNP	_ <O>
+,	,	_ <O>
+Mary	NNP	_ <O>
+Magdalene	NNP	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+celebrated	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+penitent	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+rather	RB	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+woman	NN	_ <O>
+who	WP	_ <O>
+lived	VBD	_ <O>
+a	DT	_ <O>
+virtuous	JJ	_ <O>
+life	NN	_ <O>
+.	.	_ <O>
+
+NULL

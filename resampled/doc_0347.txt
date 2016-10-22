@@ -1,0 +1,162 @@
+In	IN	_ <O>
+American	JJ	_ <O>
+English	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+pantyhose	NN	_ <O>
+refers	VBZ	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+garment	NN	_ <O>
+traditionally	RB	_ <O>
+worn	VBN	_ <O>
+by	IN	_ <O>
+women	NNS	_ <O>
+,	,	_ <O>
+at	IN	_ <O>
+least	JJS	_ <O>
+since	IN	_ <O>
+their	PRP$	_ <O>
+introduction	NN	_ <O>
+in	IN	_ <O>
+1959	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Now	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+sight	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+man	NN	_ <O>
+wearing	VBG	_ <O>
+pantyhose	NN	_ <O>
+or	CC	_ <O>
+opaque	JJ	_ <O>
+tights	NNS	_ <O>
+on	IN	_ <O>
+any	DT	_ <O>
+major	JJ	_ <O>
+city	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+U.S.	NNP	_ <O>
+attracts	VBZ	_ <O>
+barely	RB	_ <O>
+even	RB	_ <O>
+a	DT	_ <O>
+second	JJ	_ <O>
+glance	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+manufacturers	NNS	<I-CUE>
+also	RB	_ <O>
+produce	VBP	_ <O>
+'	''	_ <O>
+pantyhose	NN	_ <O>
+for	IN	_ <O>
+men	NNS	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+or	CC	_ <O>
+male	JJ	_ <O>
+pantyhose	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+men	NNS	_ <O>
+'s	POS	_ <O>
+legwear	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Being	VBG	_ <O>
+so	RB	_ <O>
+strongly	RB	_ <O>
+associated	VBN	_ <O>
+with	IN	_ <O>
+women	NNS	_ <O>
+'s	POS	_ <O>
+clothing	NN	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+people	NNS	<I-CUE>
+'s	POS	<I-CUE>
+minds	NNS	<I-CUE>
+,	,	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+at	IN	_ <O>
+first	RB	_ <O>
+difficult	JJ	_ <O>
+to	TO	_ <O>
+overcome	VB	_ <O>
+societal	JJ	_ <O>
+obstacles	NNS	_ <O>
+to	IN	_ <O>
+men	NNS	_ <O>
+wearing	VBG	_ <O>
+pantyhose	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+manufacturers	NNS	<I-CUE>
+also	RB	_ <O>
+produce	VBP	_ <O>
+'	''	_ <O>
+pantyhose	NN	_ <O>
+for	IN	_ <O>
+men	NNS	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+or	CC	_ <O>
+male	JJ	_ <O>
+pantyhose	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+men	NNS	_ <O>
+'s	POS	_ <O>
+legwear	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Being	VBG	_ <O>
+so	RB	_ <O>
+strongly	RB	_ <O>
+associated	VBN	_ <O>
+with	IN	_ <O>
+women	NNS	_ <O>
+'s	POS	_ <O>
+clothing	NN	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+people	NNS	<I-CUE>
+'s	POS	<I-CUE>
+minds	NNS	<I-CUE>
+,	,	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+at	IN	_ <O>
+first	RB	_ <O>
+difficult	JJ	_ <O>
+to	TO	_ <O>
+overcome	VB	_ <O>
+societal	JJ	_ <O>
+obstacles	NNS	_ <O>
+to	IN	_ <O>
+men	NNS	_ <O>
+wearing	VBG	_ <O>
+pantyhose	NN	_ <O>
+.	.	_ <O>
+
+NULL

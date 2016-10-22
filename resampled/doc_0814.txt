@@ -1,0 +1,116 @@
+Grant	NNP	_ <O>
+believed	VBD	_ <O>
+a	DT	_ <O>
+worldwide	JJ	_ <O>
+slump	NN	_ <O>
+would	MD	_ <O>
+arise	VB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+fall	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+stock	NN	_ <O>
+markets	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Here	RB	_ <O>
+was	VBD	_ <O>
+first	RB	_ <O>
+clearly	RB	_ <O>
+delineated	VBN	_ <O>
+the	DT	_ <O>
+dividing	VBG	_ <O>
+line	NN	_ <O>
+that	WDT	_ <O>
+was	VBD	_ <O>
+drawn	VBN	_ <O>
+between	IN	_ <O>
+the	DT	_ <O>
+supporters	NNS	_ <O>
+of	IN	_ <O>
+Grant	NNP	_ <O>
+and	CC	_ <O>
+Taaffe	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+"	``	_ <O>
+From	IN	_ <O>
+a	DT	_ <O>
+capitalist	JJ	_ <O>
+point	NN	_ <O>
+of	IN	_ <O>
+view	NN	_ <O>
+at	IN	_ <O>
+best	JJS	_ <O>
+this	DT	_ <O>
+will	MD	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+worst	JJS	_ <O>
+post	NN	_ <O>
+-	HYPH	_ <O>
+war	NN	_ <O>
+slump	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+possible	JJ	<I-CUE>
+that	IN	_ <O>
+it	PRP	_ <O>
+will	MD	_ <O>
+be	VB	_ <O>
+worse	JJR	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+slump	NN	_ <O>
+of	IN	_ <O>
+1929	CD	_ <O>
+-	SYM	_ <O>
+33	CD	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+"	``	_ <O>
+From	IN	_ <O>
+a	DT	_ <O>
+capitalist	JJ	_ <O>
+point	NN	_ <O>
+of	IN	_ <O>
+view	NN	_ <O>
+at	IN	_ <O>
+best	JJS	_ <O>
+this	DT	_ <O>
+will	MD	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+worst	JJS	_ <O>
+post	NN	_ <O>
+-	HYPH	_ <O>
+war	NN	_ <O>
+slump	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+possible	JJ	<I-CUE>
+that	IN	_ <O>
+it	PRP	_ <O>
+will	MD	_ <O>
+be	VB	_ <O>
+worse	JJR	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+slump	NN	_ <O>
+of	IN	_ <O>
+1929	CD	_ <O>
+-	SYM	_ <O>
+33	CD	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,91 @@
+NULL
+Proximities	NNS	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+obtained	VBN	_ <O>
+from	IN	_ <O>
+similarities	NNS	_ <O>
+,	,	_ <O>
+correlations	NNS	_ <O>
+,	,	_ <O>
+distances	NNS	_ <O>
+,	,	_ <O>
+conditional	JJ	_ <O>
+probabilities	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+any	DT	_ <O>
+other	JJ	_ <O>
+measure	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+relationships	NNS	_ <O>
+among	IN	_ <O>
+entities	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+if	IN	_ <O>
+the	DT	_ <O>
+proximities	NNS	_ <O>
+are	VBP	_ <O>
+similarities	NNS	_ <O>
+,	,	_ <O>
+links	NNS	_ <O>
+will	MD	_ <O>
+generally	RB	_ <O>
+connect	VB	_ <O>
+nodes	NNS	_ <O>
+of	IN	_ <O>
+high	JJ	_ <O>
+similarity	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+entities	NNS	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+concepts	NNS	<B-CUE>
+of	IN	<I-CUE>
+some	DT	<I-CUE>
+sort	NN	<I-CUE>
+,	,	_ <O>
+but	CC	_ <O>
+they	PRP	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+anything	NN	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+pattern	NN	_ <O>
+of	IN	_ <O>
+relationships	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+entities	NNS	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+concepts	NNS	<B-CUE>
+of	IN	<I-CUE>
+some	DT	<I-CUE>
+sort	NN	<I-CUE>
+,	,	_ <O>
+but	CC	_ <O>
+they	PRP	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+anything	NN	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+pattern	NN	_ <O>
+of	IN	_ <O>
+relationships	NNS	_ <O>
+.	.	_ <O>
+
+NULL

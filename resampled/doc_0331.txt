@@ -1,0 +1,232 @@
+Osteen	NNP	_ <O>
+married	VBD	_ <O>
+Victoria	NNP	_ <O>
+L.	NNP	_ <O>
+Iloff	NNP	_ <O>
+on	IN	_ <O>
+4	CD	_ <O>
+April	NNP	_ <O>
+,	,	_ <O>
+1987	CD	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+have	VBP	_ <O>
+two	CD	_ <O>
+children	NNS	_ <O>
+,	,	_ <O>
+Jonathan	NNP	_ <O>
+and	CC	_ <O>
+Alexandra	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Joel	NNP	_ <O>
+,	,	_ <O>
+son	NN	_ <O>
+of	IN	_ <O>
+John	NNP	_ <O>
+and	CC	_ <O>
+Dodie	NNP	_ <O>
+Osteen	NNP	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+six	CD	_ <O>
+children	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Joel	NNP	_ <O>
+'s	POS	_ <O>
+half	JJ	_ <O>
+-	HYPH	_ <O>
+brother	NN	_ <O>
+,	,	_ <O>
+Justin	NNP	_ <O>
+,	,	_ <O>
+does	VBZ	_ <O>
+missionary	NN	_ <O>
+work	VB	_ <O>
+out	IN	_ <O>
+of	IN	_ <O>
+New	NNP	_ <O>
+York	NNP	_ <O>
+,	,	_ <O>
+Mathieu	NNP	_ <O>
+is	VBZ	_ <O>
+his	PRP$	_ <O>
+father	NN	_ <O>
+'s	POS	_ <O>
+son	NN	_ <O>
+from	IN	_ <O>
+his	PRP$	_ <O>
+first	JJ	_ <O>
+marriage	NN	_ <O>
+which	WDT	_ <O>
+ended	VBD	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+divorce	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Osteen	NNP	_ <O>
+'s	POS	_ <O>
+father	NN	_ <O>
+developed	VBD	_ <O>
+Lakewood	NNP	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+body	NN	_ <O>
+of	IN	_ <O>
+approximately	RB	_ <O>
+6,000	CD	_ <O>
+members	NNS	_ <O>
+with	IN	_ <O>
+an	DT	_ <O>
+active	JJ	_ <O>
+television	NN	_ <O>
+ministry	NN	_ <O>
+,	,	_ <O>
+crusades	NNS	_ <O>
+,	,	_ <O>
+conferences	NNS	_ <O>
+,	,	_ <O>
+missionary	JJ	_ <O>
+support	NN	_ <O>
+and	CC	_ <O>
+food	NN	_ <O>
+distribution	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Joel	NNP	_ <O>
+attended	VBD	_ <O>
+Oral	NNP	_ <O>
+Roberts	NNP	_ <O>
+University	NNP	_ <O>
+in	IN	_ <O>
+Oklahoma	NNP	_ <O>
+but	CC	_ <O>
+dropped	VBD	_ <O>
+out	RP	_ <O>
+.	.	_ <O>
+
+NULL
+Nonetheless	RB	_ <O>
+,	,	_ <O>
+just	RB	_ <O>
+recently	RB	_ <O>
+in	IN	_ <O>
+2007	CD	_ <O>
+,	,	_ <O>
+Mr.	NNP	_ <O>
+Osteen	NNP	_ <O>
+received	VBD	_ <O>
+an	DT	_ <O>
+honorary	JJ	_ <O>
+doctorate	NN	_ <O>
+degree	NN	_ <O>
+,	,	_ <O>
+Ph	NNP	_ <O>
+.	.	_ <O>
+D.	NNP	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+Board	NNP	_ <O>
+University	NNP	_ <O>
+of	IN	_ <O>
+Alternative	NNP	_ <O>
+Medicines	NNP	_ <O>
+located	VBN	_ <O>
+in	IN	_ <O>
+Boston	NNP	_ <O>
+Massachusetts	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Joel	NNP	_ <O>
+was	VBD	_ <O>
+recognized	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Board	NNP	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+ministry	NN	_ <O>
+work	NN	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+much	RB	<B-CUE>
+noted	VBD	<I-CUE>
+generous	JJ	<B-CUE>
+help	NN	_ <O>
+to	IN	_ <O>
+people	NNS	_ <O>
+in	IN	_ <O>
+need	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+steadfast	JJ	<B-CUE>
+commitment	NN	_ <O>
+in	IN	_ <O>
+helping	VBG	_ <O>
+millions	NNS	_ <O>
+of	IN	_ <O>
+people	NNS	_ <O>
+through	IN	_ <O>
+his	PRP$	_ <O>
+best	JJS	_ <O>
+seller	NN	_ <O>
+books	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Joel	NNP	_ <O>
+was	VBD	_ <O>
+recognized	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Board	NNP	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+ministry	NN	_ <O>
+work	NN	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+much	RB	<B-CUE>
+noted	VBD	<I-CUE>
+generous	JJ	<B-CUE>
+help	NN	_ <O>
+to	IN	_ <O>
+people	NNS	_ <O>
+in	IN	_ <O>
+need	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+steadfast	JJ	<B-CUE>
+commitment	NN	_ <O>
+in	IN	_ <O>
+helping	VBG	_ <O>
+millions	NNS	_ <O>
+of	IN	_ <O>
+people	NNS	_ <O>
+through	IN	_ <O>
+his	PRP$	_ <O>
+best	JJS	_ <O>
+seller	NN	_ <O>
+books	NNS	_ <O>
+.	.	_ <O>
+
+NULL

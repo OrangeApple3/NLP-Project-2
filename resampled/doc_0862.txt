@@ -1,0 +1,100 @@
+The	DT	_ <O>
+television	NN	_ <O>
+sitcom	NN	_ <O>
+'	``	_ <O>
+Sex	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+City	NNP	_ <O>
+'	POS	_ <O>
+focused	VBD	_ <O>
+further	RBR	_ <O>
+on	IN	_ <O>
+casual	JJ	_ <O>
+sexual	JJ	_ <O>
+relationships	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+intent	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+casual	JJ	_ <O>
+relationship	NN	_ <O>
+can	MD	_ <O>
+vary	VB	_ <O>
+:	:	_ <O>
+sometimes	RB	_ <O>
+to	TO	_ <O>
+relieve	VB	_ <O>
+sexual	JJ	_ <O>
+frustrations	NNS	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+times	NNS	_ <O>
+simply	RB	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+friendship	NN	_ <O>
+or	CC	_ <O>
+part	NN	_ <O>
+-	HYPH	_ <O>
+time	NN	_ <O>
+relationship	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+includes	VBZ	_ <O>
+sexual	JJ	_ <O>
+activity	NN	_ <O>
+when	WRB	_ <O>
+wished	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+not	RB	_ <O>
+always	RB	_ <O>
+synonymous	JJ	_ <O>
+with	IN	_ <O>
+casual	JJ	_ <O>
+sex	NN	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+it	PRP	_ <O>
+might	MD	_ <O>
+even	RB	_ <O>
+not	RB	_ <O>
+include	VB	_ <O>
+sex	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+people	NNS	<I-CUE>
+prefer	VBP	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+"	``	_ <O>
+lovers	NNS	_ <O>
+without	IN	_ <O>
+commitment	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+people	NNS	<I-CUE>
+prefer	VBP	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+"	``	_ <O>
+lovers	NNS	_ <O>
+without	IN	_ <O>
+commitment	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL

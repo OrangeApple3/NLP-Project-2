@@ -1,0 +1,254 @@
+NULL
+The	DT	_ <O>
+conversation	NN	_ <O>
+among	IN	_ <O>
+proponents	NNS	_ <O>
+also	RB	_ <O>
+often	RB	_ <O>
+disregards	VBZ	_ <O>
+macroeconomic	JJ	_ <O>
+factors	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+incentives	NNS	_ <O>
+for	IN	_ <O>
+American	JJ	_ <O>
+companies	NNS	_ <O>
+to	TO	_ <O>
+produce	VB	_ <O>
+in	IN	_ <O>
+other	JJ	_ <O>
+nations	NNS	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+offer	VBP	_ <O>
+access	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+3	CD	_ <O>
+of	IN	_ <O>
+global	JJ	_ <O>
+demand	NN	_ <O>
+and	CC	_ <O>
+an	DT	_ <O>
+estimated	VBN	_ <O>
+97	CD	_ <O>
+%	NN	_ <O>
+of	IN	_ <O>
+global	JJ	_ <O>
+fossil	NN	_ <O>
+fuel	NN	_ <O>
+reserves	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Though	IN	_ <O>
+many	JJ	<B-CUE>
+American	JJ	<I-CUE>
+politicians	NNS	<I-CUE>
+have	VBP	_ <O>
+recently	RB	_ <O>
+spoken	VBN	_ <O>
+out	RP	_ <O>
+in	IN	_ <O>
+favor	NN	_ <O>
+of	IN	_ <O>
+working	VBG	_ <O>
+toward	IN	_ <O>
+energy	NN	_ <O>
+independence	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+discussion	NN	_ <O>
+among	IN	_ <O>
+proponents	NNS	_ <O>
+often	RB	_ <O>
+overlooks	VBZ	_ <O>
+the	DT	_ <O>
+trade	NN	_ <O>
+implications	NNS	_ <O>
+,	,	_ <O>
+focusing	VBG	_ <O>
+more	RBR	_ <O>
+on	IN	_ <O>
+means	NNS	_ <O>
+and	CC	_ <O>
+ends	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+rarely	RB	<I-CUE>
+discussed	VBN	<I-CUE>
+whether	IN	_ <O>
+the	DT	_ <O>
+effort	NN	_ <O>
+would	MD	_ <O>
+be	VB	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+net	JJ	_ <O>
+neutral/net	NN	_ <O>
+exporter	NN	_ <O>
+of	IN	_ <O>
+energy	NN	_ <O>
+,	,	_ <O>
+wherein	WRB	_ <O>
+the	DT	_ <O>
+U.S.	NNP	_ <O>
+would	MD	_ <O>
+produce	VB	_ <O>
+and	CC	_ <O>
+consume	VB	_ <O>
+equivalent	JJ	_ <O>
+or	CC	_ <O>
+less	JJR	_ <O>
+energy	NN	_ <O>
+than	IN	_ <O>
+it	PRP	_ <O>
+produces	VBZ	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+instead	RB	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+completely	RB	_ <O>
+self	NN	_ <O>
+-	HYPH	_ <O>
+feeding	NN	_ <O>
+,	,	_ <O>
+wherein	WRB	_ <O>
+U.S.	NNP	_ <O>
+consumers	NNS	_ <O>
+would	MD	_ <O>
+purchase	VB	_ <O>
+energy	NN	_ <O>
+solely	RB	_ <O>
+from	IN	_ <O>
+U.S.	NNP	_ <O>
+producers	NNS	_ <O>
+,	,	_ <O>
+enforced	VBN	_ <O>
+by	IN	_ <O>
+wide	JJ	_ <O>
+embargos/autarkies	NNS	_ <O>
+or	CC	_ <O>
+tariffs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Though	IN	_ <O>
+many	JJ	<B-CUE>
+American	JJ	<I-CUE>
+politicians	NNS	<I-CUE>
+have	VBP	_ <O>
+recently	RB	_ <O>
+spoken	VBN	_ <O>
+out	RP	_ <O>
+in	IN	_ <O>
+favor	NN	_ <O>
+of	IN	_ <O>
+working	VBG	_ <O>
+toward	IN	_ <O>
+energy	NN	_ <O>
+independence	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+discussion	NN	_ <O>
+among	IN	_ <O>
+proponents	NNS	_ <O>
+often	RB	_ <O>
+overlooks	VBZ	_ <O>
+the	DT	_ <O>
+trade	NN	_ <O>
+implications	NNS	_ <O>
+,	,	_ <O>
+focusing	VBG	_ <O>
+more	RBR	_ <O>
+on	IN	_ <O>
+means	NNS	_ <O>
+and	CC	_ <O>
+ends	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+rarely	RB	<I-CUE>
+discussed	VBN	<I-CUE>
+whether	IN	_ <O>
+the	DT	_ <O>
+effort	NN	_ <O>
+would	MD	_ <O>
+be	VB	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+net	JJ	_ <O>
+neutral/net	NN	_ <O>
+exporter	NN	_ <O>
+of	IN	_ <O>
+energy	NN	_ <O>
+,	,	_ <O>
+wherein	WRB	_ <O>
+the	DT	_ <O>
+U.S.	NNP	_ <O>
+would	MD	_ <O>
+produce	VB	_ <O>
+and	CC	_ <O>
+consume	VB	_ <O>
+equivalent	JJ	_ <O>
+or	CC	_ <O>
+less	JJR	_ <O>
+energy	NN	_ <O>
+than	IN	_ <O>
+it	PRP	_ <O>
+produces	VBZ	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+instead	RB	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+completely	RB	_ <O>
+self	NN	_ <O>
+-	HYPH	_ <O>
+feeding	NN	_ <O>
+,	,	_ <O>
+wherein	WRB	_ <O>
+U.S.	NNP	_ <O>
+consumers	NNS	_ <O>
+would	MD	_ <O>
+purchase	VB	_ <O>
+energy	NN	_ <O>
+solely	RB	_ <O>
+from	IN	_ <O>
+U.S.	NNP	_ <O>
+producers	NNS	_ <O>
+,	,	_ <O>
+enforced	VBN	_ <O>
+by	IN	_ <O>
+wide	JJ	_ <O>
+embargos/autarkies	NNS	_ <O>
+or	CC	_ <O>
+tariffs	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,185 @@
+Because	IN	_ <O>
+student	NN	_ <O>
+mentors	NNS	_ <O>
+are	VBP	_ <O>
+closer	JJR	_ <O>
+in	IN	_ <O>
+age	NN	_ <O>
+,	,	_ <O>
+knowledge	NN	_ <O>
+,	,	_ <O>
+authority	NN	_ <O>
+and	CC	_ <O>
+cognitive	JJ	_ <O>
+development	NN	_ <O>
+than	IN	_ <O>
+adult	JJ	_ <O>
+mentors	NNS	_ <O>
+,	,	_ <O>
+mentorees	NNS	_ <O>
+often	RB	_ <O>
+feel	VBP	_ <O>
+freer	JJR	_ <O>
+to	TO	_ <O>
+express	VB	_ <O>
+ideas	NNS	_ <O>
+,	,	_ <O>
+ask	VB	_ <O>
+questions	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+take	VB	_ <O>
+risks	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+general	JJ	_ <O>
+,	,	_ <O>
+cross	VB	_ <O>
+-	HYPH	_ <O>
+age	NN	_ <O>
+mentoring	NN	_ <O>
+programs	NNS	_ <O>
+can	MD	_ <O>
+involve	VB	_ <O>
+a	DT	_ <O>
+tutoring	NN	_ <O>
+or	CC	_ <O>
+teaching	NN	_ <O>
+component	NN	_ <O>
+,	,	_ <O>
+personal	JJ	_ <O>
+mentorship	NN	_ <O>
+and	CC	_ <O>
+guidance	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+both	CC	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+maintains	VBZ	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+advantages	NNS	<I-CUE>
+inherent	JJ	_ <O>
+in	IN	_ <O>
+other	JJ	_ <O>
+forms	NNS	_ <O>
+of	IN	_ <O>
+peer	NN	_ <O>
+mentorship	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+specific	JJ	_ <O>
+benefits	NNS	_ <O>
+of	IN	_ <O>
+cross	NN	_ <O>
+-	HYPH	_ <O>
+age	NN	_ <O>
+mentoring/tutoring	NN	_ <O>
+are	VBP	_ <O>
+numerous	JJ	<B-CUE>
+,	,	_ <O>
+and	CC	_ <O>
+are	VBP	_ <O>
+briefly	RB	_ <O>
+described	VBN	_ <O>
+here	RB	_ <O>
+in	IN	_ <O>
+three	CD	_ <O>
+main	JJ	_ <O>
+categories	NNS	_ <O>
+:	:	_ <O>
+increased	VBD	_ <O>
+academic	JJ	_ <O>
+achievement	NN	_ <O>
+,	,	_ <O>
+improved	VBD	_ <O>
+interpersonal	JJ	_ <O>
+skills	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+personal	JJ	_ <O>
+development	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+general	JJ	_ <O>
+,	,	_ <O>
+cross	VB	_ <O>
+-	HYPH	_ <O>
+age	NN	_ <O>
+mentoring	NN	_ <O>
+programs	NNS	_ <O>
+can	MD	_ <O>
+involve	VB	_ <O>
+a	DT	_ <O>
+tutoring	NN	_ <O>
+or	CC	_ <O>
+teaching	NN	_ <O>
+component	NN	_ <O>
+,	,	_ <O>
+personal	JJ	_ <O>
+mentorship	NN	_ <O>
+and	CC	_ <O>
+guidance	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+both	CC	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+maintains	VBZ	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+advantages	NNS	<I-CUE>
+inherent	JJ	_ <O>
+in	IN	_ <O>
+other	JJ	_ <O>
+forms	NNS	_ <O>
+of	IN	_ <O>
+peer	NN	_ <O>
+mentorship	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+specific	JJ	_ <O>
+benefits	NNS	_ <O>
+of	IN	_ <O>
+cross	NN	_ <O>
+-	HYPH	_ <O>
+age	NN	_ <O>
+mentoring/tutoring	NN	_ <O>
+are	VBP	_ <O>
+numerous	JJ	<B-CUE>
+,	,	_ <O>
+and	CC	_ <O>
+are	VBP	_ <O>
+briefly	RB	_ <O>
+described	VBN	_ <O>
+here	RB	_ <O>
+in	IN	_ <O>
+three	CD	_ <O>
+main	JJ	_ <O>
+categories	NNS	_ <O>
+:	:	_ <O>
+increased	VBD	_ <O>
+academic	JJ	_ <O>
+achievement	NN	_ <O>
+,	,	_ <O>
+improved	VBD	_ <O>
+interpersonal	JJ	_ <O>
+skills	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+personal	JJ	_ <O>
+development	NN	_ <O>
+.	.	_ <O>
+
+NULL

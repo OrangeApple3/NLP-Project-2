@@ -1,0 +1,52 @@
+NULL
+Treating	VBG	_ <O>
+only	RB	_ <O>
+the	DT	_ <O>
+symptoms	NNS	_ <O>
+of	IN	_ <O>
+cancer	NN	_ <O>
+may	MD	_ <O>
+make	VB	_ <O>
+the	DT	_ <O>
+victim	NN	_ <O>
+more	RBR	_ <O>
+comfortable	JJ	_ <O>
+at	IN	_ <O>
+first	RB	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+eventually	RB	_ <O>
+he	PRP	_ <O>
+dies	VBZ	_ <O>
+-	:	_ <O>
+often	RB	_ <O>
+horribly	RB	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+operation	NN	_ <O>
+will	MD	_ <O>
+demand	VB	_ <O>
+many	JJ	<B-CUE>
+apparent	JJ	<I-CUE>
+brutal	JJ	<I-CUE>
+and	CC	<I-CUE>
+heartless	JJ	<I-CUE>
+decisions	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+operation	NN	_ <O>
+will	MD	_ <O>
+demand	VB	_ <O>
+many	JJ	<B-CUE>
+apparent	JJ	<I-CUE>
+brutal	JJ	<I-CUE>
+and	CC	<I-CUE>
+heartless	JJ	<I-CUE>
+decisions	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

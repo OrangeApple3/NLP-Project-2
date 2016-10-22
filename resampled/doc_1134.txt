@@ -1,0 +1,20 @@
+This	DT	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+example	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+hydrodynamic	JJ	_ <O>
+bearing	NN	_ <O>
+which	WDT	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+use	VB	_ <O>
+a	DT	_ <O>
+secondary	JJ	_ <O>
+bearing	NN	_ <O>
+for	IN	_ <O>
+start/stop	NN	_ <O>
+.	.	_ <O>
+
+NULL

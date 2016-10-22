@@ -1,0 +1,144 @@
+Port	JJ	_ <O>
+forwarding	NN	_ <O>
+is	VBZ	_ <O>
+commonly	RB	_ <O>
+done	VBN	_ <O>
+on	IN	_ <O>
+Unix	NNP	_ <O>
+computers	NNS	_ <O>
+where	WRB	_ <O>
+port	NN	_ <O>
+numbers	NNS	_ <O>
+numbered	VBN	_ <O>
+below	IN	_ <O>
+1024	CD	_ <O>
+can	MD	_ <O>
+only	RB	_ <O>
+be	VB	_ <O>
+accessed	VBN	_ <O>
+by	IN	_ <O>
+software	NN	_ <O>
+running	VBG	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+root	NN	_ <O>
+user	NN	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+web	NN	_ <O>
+server	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+listening	VBG	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+port	NN	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+8080	CD	_ <O>
+for	IN	_ <O>
+traffic	NN	_ <O>
+redirected	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+restricted	VBN	_ <O>
+port	NN	_ <O>
+80	CD	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+port	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+forwarded	VBN	_ <O>
+for	IN	_ <O>
+use	NN	_ <O>
+by	IN	_ <O>
+either	CC	_ <O>
+the	DT	_ <O>
+TCP	NNP	_ <O>
+protocol	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+UDP	NNP	_ <O>
+protocol	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+both	DT	_ <O>
+.	.	_ <O>
+
+NULL
+Running	VBG	_ <O>
+as	IN	_ <O>
+root	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+security	NN	_ <O>
+risk	NN	_ <O>
+,	,	_ <O>
+so	RB	_ <O>
+some	DT	<B-CUE>
+people	NNS	<I-CUE>
+use	NN	_ <O>
+port	NN	_ <O>
+forwarding	VBG	_ <O>
+to	TO	_ <O>
+redirect	VB	_ <O>
+incoming	JJ	_ <O>
+traffic	NN	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+low	JJ	_ <O>
+numbered	JJ	_ <O>
+port	NN	_ <O>
+to	TO	_ <O>
+software	VB	_ <O>
+listening	VBG	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+higher	JJR	_ <O>
+port	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Running	VBG	_ <O>
+as	IN	_ <O>
+root	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+security	NN	_ <O>
+risk	NN	_ <O>
+,	,	_ <O>
+so	RB	_ <O>
+some	DT	<B-CUE>
+people	NNS	<I-CUE>
+use	NN	_ <O>
+port	NN	_ <O>
+forwarding	VBG	_ <O>
+to	TO	_ <O>
+redirect	VB	_ <O>
+incoming	JJ	_ <O>
+traffic	NN	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+low	JJ	_ <O>
+numbered	JJ	_ <O>
+port	NN	_ <O>
+to	TO	_ <O>
+software	VB	_ <O>
+listening	VBG	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+higher	JJR	_ <O>
+port	NN	_ <O>
+.	.	_ <O>
+
+NULL

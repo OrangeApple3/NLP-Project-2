@@ -1,0 +1,194 @@
+NULL
+Permanent	JJ	_ <O>
+residents	NNS	_ <O>
+who	WP	_ <O>
+reside	VBP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+US	NNP	_ <O>
+must	MD	_ <O>
+pay	VB	_ <O>
+taxes	NNS	_ <O>
+on	IN	_ <O>
+their	PRP$	_ <O>
+worldwide	JJ	_ <O>
+income	NN	_ <O>
+,	,	_ <O>
+like	IN	_ <O>
+U.S.	NNP	_ <O>
+citizens	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Lawful	NNP	_ <O>
+Permanent	NNP	_ <O>
+Residents	NNS	_ <O>
+generally	RB	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+have	VB	_ <O>
+the	DT	_ <O>
+right	NN	_ <O>
+to	TO	_ <O>
+vote	VB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+right	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+elected	VBN	_ <O>
+in	IN	_ <O>
+federal	JJ	_ <O>
+and	CC	_ <O>
+state	NN	_ <O>
+elections	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+ability	NN	_ <O>
+to	TO	_ <O>
+bring	VB	_ <O>
+family	NN	_ <O>
+members	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+(	-LRB-	_ <O>
+permanent	JJ	_ <O>
+residents	NNS	_ <O>
+are	VBP	_ <O>
+allowed	VBN	_ <O>
+to	TO	_ <O>
+sponsor	VB	_ <O>
+certain	JJ	<B-CUE>
+family	NN	<I-CUE>
+members	NNS	<I-CUE>
+,	,	_ <O>
+but	CC	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+not	RB	_ <O>
+practical	JJ	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+long	JJ	_ <O>
+approval	NN	_ <O>
+delays	NNS	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+eligibility	NN	_ <O>
+for	IN	_ <O>
+federal	JJ	_ <O>
+government	NN	_ <O>
+jobs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Certain	JJ	<B-CUE>
+conditions	NNS	<I-CUE>
+that	WDT	_ <O>
+may	MD	_ <O>
+put	VB	_ <O>
+a	DT	_ <O>
+permanent	JJ	_ <O>
+resident	NN	_ <O>
+in	IN	_ <O>
+deportation	NN	_ <O>
+proceedings	NNS	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+apply	VB	_ <O>
+to	IN	_ <O>
+U.S.	NNP	_ <O>
+citizens	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Lawful	NNP	_ <O>
+Permanent	NNP	_ <O>
+Residents	NNS	_ <O>
+generally	RB	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+have	VB	_ <O>
+the	DT	_ <O>
+right	NN	_ <O>
+to	TO	_ <O>
+vote	VB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+right	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+elected	VBN	_ <O>
+in	IN	_ <O>
+federal	JJ	_ <O>
+and	CC	_ <O>
+state	NN	_ <O>
+elections	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+ability	NN	_ <O>
+to	TO	_ <O>
+bring	VB	_ <O>
+family	NN	_ <O>
+members	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+(	-LRB-	_ <O>
+permanent	JJ	_ <O>
+residents	NNS	_ <O>
+are	VBP	_ <O>
+allowed	VBN	_ <O>
+to	TO	_ <O>
+sponsor	VB	_ <O>
+certain	JJ	<B-CUE>
+family	NN	<I-CUE>
+members	NNS	<I-CUE>
+,	,	_ <O>
+but	CC	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+not	RB	_ <O>
+practical	JJ	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+long	JJ	_ <O>
+approval	NN	_ <O>
+delays	NNS	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+eligibility	NN	_ <O>
+for	IN	_ <O>
+federal	JJ	_ <O>
+government	NN	_ <O>
+jobs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Certain	JJ	<B-CUE>
+conditions	NNS	<I-CUE>
+that	WDT	_ <O>
+may	MD	_ <O>
+put	VB	_ <O>
+a	DT	_ <O>
+permanent	JJ	_ <O>
+resident	NN	_ <O>
+in	IN	_ <O>
+deportation	NN	_ <O>
+proceedings	NNS	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+apply	VB	_ <O>
+to	IN	_ <O>
+U.S.	NNP	_ <O>
+citizens	NNS	_ <O>
+.	.	_ <O>
+
+NULL

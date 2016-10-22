@@ -1,0 +1,159 @@
+NULL
+The	DT	_ <O>
+question	NN	_ <O>
+whether	IN	<B-CUE>
+popular	JJ	_ <O>
+culture	NN	_ <O>
+or	CC	_ <O>
+mass	NN	_ <O>
+culture	NN	_ <O>
+is	VBZ	_ <O>
+inherently	RB	_ <O>
+conservative	JJ	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+whether	IN	<B-CUE>
+it	PRP	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+subversive	JJ	_ <O>
+strategy	NN	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+,	,	_ <O>
+is	VBZ	<B-CUE>
+equally	RB	<I-CUE>
+hotly	RB	<I-CUE>
+debated	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+seems	VBZ	<I-CUE>
+widely	RB	<I-CUE>
+accepted	VBN	<I-CUE>
+that	IN	_ <O>
+popular	JJ	_ <O>
+culture	NN	_ <O>
+forms	NNS	_ <O>
+can	MD	_ <O>
+function	VB	_ <O>
+at	IN	_ <O>
+any	DT	_ <O>
+moment	NN	_ <O>
+as	IN	_ <O>
+anti	JJ	_ <O>
+-	:	_ <O>
+cultures	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+expressions	NNS	_ <O>
+of	IN	_ <O>
+social	JJ	_ <O>
+resentment	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+groups	NNS	<B-CUE>
+which	WDT	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+subordinated	VBN	_ <O>
+and	CC	_ <O>
+excluded	VBN	_ <O>
+by	IN	_ <O>
+today	NN	_ <O>
+'s	POS	_ <O>
+"	``	_ <O>
+civilized	JJ	_ <O>
+society	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+question	NN	_ <O>
+whether	IN	<B-CUE>
+popular	JJ	_ <O>
+culture	NN	_ <O>
+or	CC	_ <O>
+mass	NN	_ <O>
+culture	NN	_ <O>
+is	VBZ	_ <O>
+inherently	RB	_ <O>
+conservative	JJ	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+whether	IN	<B-CUE>
+it	PRP	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+subversive	JJ	_ <O>
+strategy	NN	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+,	,	_ <O>
+is	VBZ	<B-CUE>
+equally	RB	<I-CUE>
+hotly	RB	<I-CUE>
+debated	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+seems	VBZ	<I-CUE>
+widely	RB	<I-CUE>
+accepted	VBN	<I-CUE>
+that	IN	_ <O>
+popular	JJ	_ <O>
+culture	NN	_ <O>
+forms	NNS	_ <O>
+can	MD	_ <O>
+function	VB	_ <O>
+at	IN	_ <O>
+any	DT	_ <O>
+moment	NN	_ <O>
+as	IN	_ <O>
+anti	JJ	_ <O>
+-	:	_ <O>
+cultures	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+expressions	NNS	_ <O>
+of	IN	_ <O>
+social	JJ	_ <O>
+resentment	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+groups	NNS	<B-CUE>
+which	WDT	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+subordinated	VBN	_ <O>
+and	CC	_ <O>
+excluded	VBN	_ <O>
+by	IN	_ <O>
+today	NN	_ <O>
+'s	POS	_ <O>
+"	``	_ <O>
+civilized	JJ	_ <O>
+society	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL

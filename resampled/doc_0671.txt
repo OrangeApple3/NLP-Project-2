@@ -1,0 +1,190 @@
+Distinctions	NNS	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+geologic	JJ	_ <O>
+age	NN	_ <O>
+also	RB	_ <O>
+correspond	VBP	_ <O>
+to	IN	_ <O>
+physiographic	JJ	_ <O>
+distinctions	NNS	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+forms	NNS	_ <O>
+are	VBP	_ <O>
+so	RB	_ <O>
+recent	JJ	_ <O>
+as	IN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+first	JJ	_ <O>
+erosion	NN	_ <O>
+cycle	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+is	VBZ	_ <O>
+generally	RB	_ <O>
+the	DT	_ <O>
+case	NN	_ <O>
+with	IN	_ <O>
+sheets	NNS	_ <O>
+of	IN	_ <O>
+glacial	JJ	_ <O>
+drift	NN	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+maturely	RB	_ <O>
+dissected	VBN	_ <O>
+plateau	NN	_ <O>
+may	MD	_ <O>
+grade	VB	_ <O>
+without	IN	_ <O>
+a	DT	_ <O>
+break	NN	_ <O>
+from	IN	_ <O>
+rugged	JJ	_ <O>
+mountains	NNS	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+one	CD	_ <O>
+hand	NN	_ <O>
+to	TO	_ <O>
+mildly	RB	_ <O>
+rolling	VBG	_ <O>
+farm	NN	_ <O>
+lands	NNS	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+So	RB	_ <O>
+also	RB	_ <O>
+,	,	_ <O>
+forms	NNS	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+classified	VBN	_ <O>
+together	RB	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+superficially	RB	_ <O>
+similar	JJ	_ <O>
+;	:	_ <O>
+for	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+young	JJ	_ <O>
+coastal	JJ	_ <O>
+plain	NN	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+peneplain	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Generally	RB	<B-CUE>
+,	,	_ <O>
+forms	NNS	_ <O>
+which	WDT	_ <O>
+result	VBP	_ <O>
+from	IN	_ <O>
+similar	JJ	_ <O>
+histories	NNS	_ <O>
+are	VBP	_ <O>
+characterized	VBN	_ <O>
+by	IN	_ <O>
+certain	JJ	<B-CUE>
+similar	JJ	<I-CUE>
+features	NNS	<I-CUE>
+,	,	_ <O>
+and	CC	_ <O>
+differences	NNS	_ <O>
+in	IN	_ <O>
+history	NN	_ <O>
+result	NN	_ <O>
+in	IN	_ <O>
+corresponding	JJ	_ <O>
+differences	NNS	_ <O>
+of	IN	_ <O>
+form	NN	_ <O>
+,	,	_ <O>
+usually	RB	_ <O>
+resulting	VBG	_ <O>
+in	IN	_ <O>
+distinctive	JJ	_ <O>
+features	NNS	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+obvious	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+casual	JJ	_ <O>
+observer	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+not	RB	<B-CUE>
+always	RB	<I-CUE>
+the	DT	_ <O>
+case	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Generally	RB	<B-CUE>
+,	,	_ <O>
+forms	NNS	_ <O>
+which	WDT	_ <O>
+result	VBP	_ <O>
+from	IN	_ <O>
+similar	JJ	_ <O>
+histories	NNS	_ <O>
+are	VBP	_ <O>
+characterized	VBN	_ <O>
+by	IN	_ <O>
+certain	JJ	<B-CUE>
+similar	JJ	<I-CUE>
+features	NNS	<I-CUE>
+,	,	_ <O>
+and	CC	_ <O>
+differences	NNS	_ <O>
+in	IN	_ <O>
+history	NN	_ <O>
+result	NN	_ <O>
+in	IN	_ <O>
+corresponding	JJ	_ <O>
+differences	NNS	_ <O>
+of	IN	_ <O>
+form	NN	_ <O>
+,	,	_ <O>
+usually	RB	_ <O>
+resulting	VBG	_ <O>
+in	IN	_ <O>
+distinctive	JJ	_ <O>
+features	NNS	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+obvious	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+casual	JJ	_ <O>
+observer	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+not	RB	<B-CUE>
+always	RB	<I-CUE>
+the	DT	_ <O>
+case	NN	_ <O>
+.	.	_ <O>
+
+NULL

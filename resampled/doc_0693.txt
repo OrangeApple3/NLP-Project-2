@@ -1,0 +1,107 @@
+NULL
+PTV	NNP	_ <O>
+National	NNP	_ <O>
+viewers	NNS	_ <O>
+are	VBP	_ <O>
+comparatively	RB	_ <O>
+more	RBR	_ <O>
+as	IN	_ <O>
+its	PRP$	_ <O>
+transmissions	NNS	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+confined	VBN	_ <O>
+to	IN	_ <O>
+NWFP	NNP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+are	VBP	_ <O>
+watched	VBN	_ <O>
+in	IN	_ <O>
+whole	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+country	NN	_ <O>
+and	CC	_ <O>
+in	IN	_ <O>
+other	JJ	_ <O>
+countries	NNS	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+.	.	_ <O>
+
+NULL
+AVT	NNP	_ <O>
+Khyber	NNP	_ <O>
+is	VBZ	_ <O>
+watched	VBN	_ <O>
+in	IN	_ <O>
+Pakistan	NNP	_ <O>
+and	CC	_ <O>
+66	CD	_ <O>
+other	JJ	_ <O>
+countries	NNS	_ <O>
+around	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+Pakistan	NNP	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+watched	VBN	_ <O>
+in	IN	_ <O>
+NWFP	NNP	_ <O>
+,	,	_ <O>
+Balochistan	NNP	_ <O>
+and	CC	_ <O>
+Karachi	NNP	_ <O>
+whereas	VBP	_ <O>
+abroad	RB	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+watched	VBN	_ <O>
+in	IN	_ <O>
+Afghanistan	NNP	_ <O>
+,	,	_ <O>
+Middle	NNP	_ <O>
+East	NNP	_ <O>
+and	CC	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+European	JJ	<I-CUE>
+countries	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+Pakistan	NNP	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+watched	VBN	_ <O>
+in	IN	_ <O>
+NWFP	NNP	_ <O>
+,	,	_ <O>
+Balochistan	NNP	_ <O>
+and	CC	_ <O>
+Karachi	NNP	_ <O>
+whereas	VBP	_ <O>
+abroad	RB	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+watched	VBN	_ <O>
+in	IN	_ <O>
+Afghanistan	NNP	_ <O>
+,	,	_ <O>
+Middle	NNP	_ <O>
+East	NNP	_ <O>
+and	CC	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+European	JJ	<I-CUE>
+countries	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

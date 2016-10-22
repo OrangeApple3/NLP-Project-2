@@ -1,0 +1,101 @@
+NULL
+Wilson	NNP	_ <O>
+was	VBD	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+fiscal	JJ	_ <O>
+conservative	NN	_ <O>
+who	WP	_ <O>
+supported	VBD	_ <O>
+the	DT	_ <O>
+Proposition	NNP	_ <O>
+13	CD	_ <O>
+while	IN	_ <O>
+Brown	NNP	_ <O>
+opposed	VBD	_ <O>
+it	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+Finally	RB	_ <O>
+,	,	_ <O>
+President	NNP	_ <O>
+Ronald	NNP	_ <O>
+Reagan	NNP	_ <O>
+made	VBD	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+visits	NNS	_ <O>
+to	IN	_ <O>
+California	NNP	_ <O>
+late	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+race	NN	_ <O>
+to	TO	_ <O>
+campaign	NN	_ <O>
+for	IN	_ <O>
+Wilson	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+major	JJ	_ <O>
+factor	NN	_ <O>
+may	MD	<B-CUE>
+also	RB	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+a	DT	_ <O>
+late	JJ	_ <O>
+influx	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Armenian	JJ	_ <O>
+vote	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+California	NNP	_ <O>
+Governor	NNP	_ <O>
+'s	POS	_ <O>
+race	NN	_ <O>
+between	IN	_ <O>
+George	NNP	_ <O>
+Deukmejian	NNP	_ <O>
+and	CC	_ <O>
+Tom	NNP	_ <O>
+Bradley	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+major	JJ	_ <O>
+factor	NN	_ <O>
+may	MD	<B-CUE>
+also	RB	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+a	DT	_ <O>
+late	JJ	_ <O>
+influx	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Armenian	JJ	_ <O>
+vote	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+California	NNP	_ <O>
+Governor	NNP	_ <O>
+'s	POS	_ <O>
+race	NN	_ <O>
+between	IN	_ <O>
+George	NNP	_ <O>
+Deukmejian	NNP	_ <O>
+and	CC	_ <O>
+Tom	NNP	_ <O>
+Bradley	NNP	_ <O>
+.	.	_ <O>
+
+NULL

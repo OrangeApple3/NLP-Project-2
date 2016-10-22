@@ -1,0 +1,84 @@
+NULL
+Hydroquinone	NN	_ <O>
+can	MD	_ <O>
+also	RB	_ <O>
+be	VB	_ <O>
+toxic	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+human	JJ	_ <O>
+operator	NN	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+environment	NN	_ <O>
+;	:	_ <O>
+some	DT	_ <O>
+modern	JJ	_ <O>
+developers	NNS	_ <O>
+replace	VBP	_ <O>
+it	PRP	_ <O>
+with	IN	_ <O>
+ascorbic	JJ	_ <O>
+acid	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+vitamin	NN	_ <O>
+C.	NNP	_ <O>
+
+NULL
+This	DT	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+suffers	VBZ	_ <O>
+from	IN	_ <O>
+poor	JJ	_ <O>
+stability	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Recently	RB	_ <O>
+,	,	_ <O>
+claims	NNS	_ <O>
+for	IN	_ <O>
+practical	JJ	_ <O>
+methods	NNS	_ <O>
+to	TO	_ <O>
+improve	VB	_ <O>
+the	DT	_ <O>
+stability	NN	_ <O>
+of	IN	_ <O>
+ascorbate	NN	_ <O>
+developers	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+made	VBN	_ <O>
+by	IN	_ <O>
+several	JJ	<B-CUE>
+experimenters	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Recently	RB	_ <O>
+,	,	_ <O>
+claims	NNS	_ <O>
+for	IN	_ <O>
+practical	JJ	_ <O>
+methods	NNS	_ <O>
+to	TO	_ <O>
+improve	VB	_ <O>
+the	DT	_ <O>
+stability	NN	_ <O>
+of	IN	_ <O>
+ascorbate	NN	_ <O>
+developers	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+made	VBN	_ <O>
+by	IN	_ <O>
+several	JJ	<B-CUE>
+experimenters	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

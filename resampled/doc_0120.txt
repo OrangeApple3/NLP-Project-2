@@ -1,0 +1,89 @@
+The	DT	_ <O>
+line	NN	_ <O>
+opened	VBN	_ <O>
+in	IN	_ <O>
+1941	CD	_ <O>
+to	TO	_ <O>
+service	VB	_ <O>
+various	JJ	_ <O>
+World	NNP	_ <O>
+War	NNP	_ <O>
+II	NNP	_ <O>
+armaments	VBZ	_ <O>
+factories	NNS	_ <O>
+at	IN	_ <O>
+Penfield	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+the	DT	_ <O>
+war	NN	_ <O>
+years	NNS	_ <O>
+this	DT	_ <O>
+branch	NN	_ <O>
+line	NN	_ <O>
+was	VBD	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	_ <O>
+passenger	NN	_ <O>
+trains	NNS	_ <O>
+carrying	VBG	_ <O>
+workers	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+munitions	NNS	_ <O>
+factories	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+built	VBN	_ <O>
+for	IN	_ <O>
+industrial	JJ	_ <O>
+purposes	NNS	_ <O>
+,	,	_ <O>
+sidings	NNS	_ <O>
+branched	VBD	_ <O>
+off	RP	_ <O>
+both	DT	_ <O>
+the	DT	_ <O>
+Up	NNP	_ <O>
+and	CC	_ <O>
+Down	NNP	_ <O>
+tracks	NNS	_ <O>
+at	IN	_ <O>
+many	JJ	<B-CUE>
+locations	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+built	VBN	_ <O>
+for	IN	_ <O>
+industrial	JJ	_ <O>
+purposes	NNS	_ <O>
+,	,	_ <O>
+sidings	NNS	_ <O>
+branched	VBD	_ <O>
+off	RP	_ <O>
+both	DT	_ <O>
+the	DT	_ <O>
+Up	NNP	_ <O>
+and	CC	_ <O>
+Down	NNP	_ <O>
+tracks	NNS	_ <O>
+at	IN	_ <O>
+many	JJ	<B-CUE>
+locations	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

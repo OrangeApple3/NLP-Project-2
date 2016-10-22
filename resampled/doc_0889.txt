@@ -1,0 +1,226 @@
+NULL
+Below	IN	_ <O>
+the	DT	_ <O>
+ships	NNS	_ <O>
+are	VBP	_ <O>
+various	JJ	_ <O>
+miniature	JJ	_ <O>
+versions	NNS	_ <O>
+of	IN	_ <O>
+London	NNP	_ <O>
+'s	POS	_ <O>
+famous	JJ	_ <O>
+landmarks	NNS	_ <O>
+:	:	_ <O>
+St.	NNP	_ <O>
+Paul	NNP	_ <O>
+'s	POS	_ <O>
+Cathedral	NNP	_ <O>
+,	,	_ <O>
+Big	NNP	_ <O>
+Ben	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Tower	NNP	_ <O>
+Bridge	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+River	NNP	_ <O>
+Thames	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Then	RB	_ <O>
+,	,	_ <O>
+going	VBG	_ <O>
+past	IN	_ <O>
+"	``	_ <O>
+the	DT	_ <O>
+second	JJ	_ <O>
+star	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+right	NN	_ <O>
+and	CC	_ <O>
+straight	JJ	_ <O>
+on	IN	_ <O>
+'	''	_ <O>
+til	DT	_ <O>
+morning	NN	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+the	DT	_ <O>
+flying	VBG	_ <O>
+ships	NNS	_ <O>
+reach	VBP	_ <O>
+Neverland	NNP	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+guests	NNS	_ <O>
+go	VBP	_ <O>
+past	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+its	PRP$	<I-CUE>
+landmarks	NNS	<I-CUE>
+,	,	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+Indian	JJ	_ <O>
+village	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+glowing	JJ	_ <O>
+volcano	NN	_ <O>
+,	,	_ <O>
+Mermaid	NNP	_ <O>
+Lagoon	NNP	_ <O>
+and	CC	_ <O>
+Skull	NNP	_ <O>
+Rock	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+here	RB	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+guests	NNS	_ <O>
+encounter	VBP	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+Neverland	NNP	<I-CUE>
+'s	POS	<I-CUE>
+most	RBS	<I-CUE>
+famous	JJ	<I-CUE>
+residents	NNS	<I-CUE>
+,	,	_ <O>
+including	VBG	_ <O>
+Princess	NNP	_ <O>
+Tiger	NNP	_ <O>
+Lily	NNP	_ <O>
+,	,	_ <O>
+Mr.	NNP	_ <O>
+Smee	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Crocodile	NNP	_ <O>
+and	CC	_ <O>
+Peter	NNP	_ <O>
+'s	POS	_ <O>
+arch	NN	_ <O>
+rival	NN	_ <O>
+,	,	_ <O>
+Captain	NNP	_ <O>
+Hook	NNP	_ <O>
+(	-LRB-	_ <O>
+in	IN	_ <O>
+addition	NN	_ <O>
+to	IN	_ <O>
+Peter	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Darlings	NNPS	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Then	RB	_ <O>
+,	,	_ <O>
+going	VBG	_ <O>
+past	IN	_ <O>
+"	``	_ <O>
+the	DT	_ <O>
+second	JJ	_ <O>
+star	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+right	NN	_ <O>
+and	CC	_ <O>
+straight	JJ	_ <O>
+on	IN	_ <O>
+'	''	_ <O>
+til	DT	_ <O>
+morning	NN	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+the	DT	_ <O>
+flying	VBG	_ <O>
+ships	NNS	_ <O>
+reach	VBP	_ <O>
+Neverland	NNP	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+guests	NNS	_ <O>
+go	VBP	_ <O>
+past	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+its	PRP$	<I-CUE>
+landmarks	NNS	<I-CUE>
+,	,	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+Indian	JJ	_ <O>
+village	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+glowing	JJ	_ <O>
+volcano	NN	_ <O>
+,	,	_ <O>
+Mermaid	NNP	_ <O>
+Lagoon	NNP	_ <O>
+and	CC	_ <O>
+Skull	NNP	_ <O>
+Rock	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+here	RB	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+guests	NNS	_ <O>
+encounter	VBP	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+Neverland	NNP	<I-CUE>
+'s	POS	<I-CUE>
+most	RBS	<I-CUE>
+famous	JJ	<I-CUE>
+residents	NNS	<I-CUE>
+,	,	_ <O>
+including	VBG	_ <O>
+Princess	NNP	_ <O>
+Tiger	NNP	_ <O>
+Lily	NNP	_ <O>
+,	,	_ <O>
+Mr.	NNP	_ <O>
+Smee	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Crocodile	NNP	_ <O>
+and	CC	_ <O>
+Peter	NNP	_ <O>
+'s	POS	_ <O>
+arch	NN	_ <O>
+rival	NN	_ <O>
+,	,	_ <O>
+Captain	NNP	_ <O>
+Hook	NNP	_ <O>
+(	-LRB-	_ <O>
+in	IN	_ <O>
+addition	NN	_ <O>
+to	IN	_ <O>
+Peter	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Darlings	NNPS	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

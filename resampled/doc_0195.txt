@@ -1,0 +1,43 @@
+The	DT	_ <O>
+actions	NNS	_ <O>
+the	DT	_ <O>
+organization	NN	_ <O>
+actually	RB	_ <O>
+takes	VBZ	_ <O>
+may	MD	_ <O>
+often	RB	_ <O>
+vary	VB	_ <O>
+significantly	RB	_ <O>
+from	IN	_ <O>
+stated	JJ	_ <O>
+policy	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Implementing	VBG	_ <O>
+policy	NN	_ <O>
+may	MD	_ <O>
+have	VB	_ <O>
+unexpected	JJ	_ <O>
+results	NNS	_ <O>
+,	,	_ <O>
+stemming	VBG	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+policy	NN	_ <O>
+whose	WP$	_ <O>
+reach	NN	_ <O>
+extends	VBZ	_ <O>
+further	RBR	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+problem	NN	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+originally	RB	_ <O>
+crafted	VBN	_ <O>
+to	TO	_ <O>
+address	VB	_ <O>
+.	.	_ <O>
+
+NULL

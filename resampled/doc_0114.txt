@@ -1,0 +1,150 @@
+NULL
+Travel	NN	_ <O>
+between	IN	_ <O>
+these	DT	_ <O>
+"	``	_ <O>
+shadow	NN	_ <O>
+"	''	_ <O>
+universes	NNS	_ <O>
+is	VBZ	_ <O>
+only	RB	_ <O>
+possible	JJ	_ <O>
+by	IN	_ <O>
+beings	NNS	_ <O>
+descended	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+blood	NN	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+pantheon	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Those	DT	_ <O>
+"	``	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+blood	NN	_ <O>
+"	``	_ <O>
+can	MD	_ <O>
+walk	VB	_ <O>
+through	IN	_ <O>
+Shadow	NNP	_ <O>
+,	,	_ <O>
+imagining	VBG	_ <O>
+any	DT	_ <O>
+possible	JJ	_ <O>
+reality	NN	_ <O>
+and	CC	_ <O>
+then	RB	_ <O>
+walk	VB	_ <O>
+to	IN	_ <O>
+it	PRP	_ <O>
+,	,	_ <O>
+making	VBG	_ <O>
+their	PRP$	_ <O>
+environment	NN	_ <O>
+more	RBR	_ <O>
+similar	JJ	_ <O>
+to	IN	_ <O>
+their	PRP$	_ <O>
+desire	NN	_ <O>
+as	IN	_ <O>
+they	PRP	_ <O>
+go	VBP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+argued	VBN	<I-CUE>
+between	IN	_ <O>
+the	DT	_ <O>
+characters	NNS	_ <O>
+whether	IN	_ <O>
+these	DT	_ <O>
+"	``	_ <O>
+shadows	NNS	_ <O>
+"	''	_ <O>
+even	RB	_ <O>
+exist	VBP	_ <O>
+before	IN	_ <O>
+they	PRP	_ <O>
+'re	VBP	_ <O>
+imagined	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+member	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+royal	JJ	_ <O>
+family	NN	_ <O>
+of	IN	_ <O>
+Amber	NNP	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+if	IN	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+shadows	NNS	_ <O>
+"	''	_ <O>
+existence	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+seen	VBN	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+act	NN	_ <O>
+of	IN	_ <O>
+godlike	JJ	_ <O>
+creation	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+argued	VBN	<I-CUE>
+between	IN	_ <O>
+the	DT	_ <O>
+characters	NNS	_ <O>
+whether	IN	_ <O>
+these	DT	_ <O>
+"	``	_ <O>
+shadows	NNS	_ <O>
+"	''	_ <O>
+even	RB	_ <O>
+exist	VBP	_ <O>
+before	IN	_ <O>
+they	PRP	_ <O>
+'re	VBP	_ <O>
+imagined	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+member	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+royal	JJ	_ <O>
+family	NN	_ <O>
+of	IN	_ <O>
+Amber	NNP	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+if	IN	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+shadows	NNS	_ <O>
+"	''	_ <O>
+existence	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+seen	VBN	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+act	NN	_ <O>
+of	IN	_ <O>
+godlike	JJ	_ <O>
+creation	NN	_ <O>
+.	.	_ <O>
+
+NULL

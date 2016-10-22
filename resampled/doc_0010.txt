@@ -1,0 +1,29 @@
+NULL
+Clarke	NNP	_ <O>
+also	RB	_ <O>
+produced	VBD	_ <O>
+The	DT	_ <O>
+Bronx	NNP	_ <O>
+'s	POS	_ <O>
+self	NN	_ <O>
+-	HYPH	_ <O>
+titled	VBN	_ <O>
+album	NN	_ <O>
+released	VBN	_ <O>
+in	IN	_ <O>
+2003	CD	_ <O>
+and	CC	_ <O>
+Girlsplayboys	NNP	_ <O>
+debut	NN	_ <O>
+album	NN	_ <O>
+'	''	_ <O>
+From	IN	_ <O>
+Ritual	JJ	_ <O>
+to	IN	_ <O>
+Romance	NNP	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+2006	CD	_ <O>
+.	.	_ <O>
+
+NULL

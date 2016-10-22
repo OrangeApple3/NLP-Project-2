@@ -1,0 +1,71 @@
+On	IN	_ <O>
+2006	CD	_ <O>
+-	HYPH	_ <O>
+11	CD	_ <O>
+-	HYPH	_ <O>
+02	CD	_ <O>
+,	,	_ <O>
+Novell	NNP	_ <O>
+and	CC	_ <O>
+Microsoft	NNP	_ <O>
+announced	VBD	_ <O>
+a	DT	_ <O>
+joint	JJ	_ <O>
+patent	NN	_ <O>
+agreement	NN	_ <O>
+to	TO	_ <O>
+cover	VB	_ <O>
+their	PRP$	_ <O>
+respective	JJ	_ <O>
+products	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Leaders	NNS	_ <O>
+from	IN	_ <O>
+both	DT	_ <O>
+companies	NNS	_ <O>
+purportedly	RB	_ <O>
+hope	VBP	_ <O>
+this	DT	_ <O>
+will	MD	_ <O>
+lead	VB	_ <O>
+to	IN	_ <O>
+better	JJR	<B-CUE>
+compatibility	NN	_ <O>
+between	IN	_ <O>
+Microsoft	NNP	_ <O>
+Office	NNP	_ <O>
+and	CC	_ <O>
+OpenOffice.org	NNP	_ <O>
+and	CC	_ <O>
+better	JJR	<B-CUE>
+virtualization	NN	_ <O>
+techniques	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Leaders	NNS	_ <O>
+from	IN	_ <O>
+both	DT	_ <O>
+companies	NNS	_ <O>
+purportedly	RB	_ <O>
+hope	VBP	_ <O>
+this	DT	_ <O>
+will	MD	_ <O>
+lead	VB	_ <O>
+to	IN	_ <O>
+better	JJR	<B-CUE>
+compatibility	NN	_ <O>
+between	IN	_ <O>
+Microsoft	NNP	_ <O>
+Office	NNP	_ <O>
+and	CC	_ <O>
+OpenOffice.org	NNP	_ <O>
+and	CC	_ <O>
+better	JJR	<B-CUE>
+virtualization	NN	_ <O>
+techniques	NNS	_ <O>
+.	.	_ <O>
+
+NULL

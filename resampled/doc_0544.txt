@@ -1,0 +1,144 @@
+NULL
+Seiya	NNP	_ <O>
+starts	VBZ	_ <O>
+this	DT	_ <O>
+attack	NN	_ <O>
+at	IN	_ <O>
+Mach	NNP	_ <O>
+1	CD	_ <O>
+speed	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+later	RB	_ <O>
+develops	VBZ	_ <O>
+it	PRP	_ <O>
+to	TO	_ <O>
+achieve	VB	_ <O>
+lightspeed	NN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+seconds	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+most	RBS	<B-CUE>
+-	HYPH	<I-CUE>
+seen	VBN	<I-CUE>
+technique	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+which	WDT	_ <O>
+initially	RB	_ <O>
+allows	VBZ	_ <O>
+him	PRP	_ <O>
+to	TO	_ <O>
+send	VB	_ <O>
+a	DT	_ <O>
+large	JJ	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+punches	NNS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+second	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+most	RBS	<B-CUE>
+powerful	JJ	<I-CUE>
+technique	NN	_ <O>
+is	VBZ	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+he	PRP	_ <O>
+grabs	VBZ	_ <O>
+hold	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+opponent	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+back	NN	_ <O>
+,	,	_ <O>
+soars	VBD	_ <O>
+miles	NNS	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+air	NN	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+suicide	NN	_ <O>
+-	HYPH	_ <O>
+dives	VBZ	_ <O>
+head	NN	_ <O>
+-	HYPH	_ <O>
+first	RB	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+ground	NN	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+most	RBS	<B-CUE>
+-	HYPH	<I-CUE>
+seen	VBN	<I-CUE>
+technique	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+which	WDT	_ <O>
+initially	RB	_ <O>
+allows	VBZ	_ <O>
+him	PRP	_ <O>
+to	TO	_ <O>
+send	VB	_ <O>
+a	DT	_ <O>
+large	JJ	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+punches	NNS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+second	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+most	RBS	<B-CUE>
+powerful	JJ	<I-CUE>
+technique	NN	_ <O>
+is	VBZ	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+he	PRP	_ <O>
+grabs	VBZ	_ <O>
+hold	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+opponent	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+back	NN	_ <O>
+,	,	_ <O>
+soars	VBD	_ <O>
+miles	NNS	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+air	NN	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+suicide	NN	_ <O>
+-	HYPH	_ <O>
+dives	VBZ	_ <O>
+head	NN	_ <O>
+-	HYPH	_ <O>
+first	RB	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+ground	NN	_ <O>
+.	.	_ <O>
+
+NULL

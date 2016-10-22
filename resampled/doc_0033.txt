@@ -1,0 +1,196 @@
+NULL
+The	DT	_ <O>
+same	JJ	_ <O>
+phenomenon	NN	_ <O>
+occurs	VBZ	_ <O>
+in	IN	_ <O>
+many	JJ	_ <O>
+other	JJ	_ <O>
+languages	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Serbian	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Late	NNP	_ <O>
+Latin	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+ancestor	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+modern	JJ	_ <O>
+Romance	NNP	_ <O>
+languages	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Interestingly	RB	_ <O>
+,	,	_ <O>
+both	DT	_ <O>
+French	JJ	_ <O>
+and	CC	_ <O>
+Spanish	JJ	_ <O>
+acquired	VBN	_ <O>
+new	JJ	_ <O>
+initial	JJ	_ <O>
+[	-LRB-	_ <O>
+h	NN	_ <O>
+]	-RRB-	_ <O>
+in	IN	_ <O>
+mediaval	NN	_ <O>
+times	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+these	DT	_ <O>
+were	VBD	_ <O>
+later	RB	_ <O>
+lost	VBN	_ <O>
+in	IN	_ <O>
+both	CC	_ <O>
+languages	NNS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+second	JJ	_ <O>
+round	NN	_ <O>
+"	''	_ <O>
+of	IN	_ <O>
+h	NN	_ <O>
+-	HYPH	_ <O>
+dropping	NN	_ <O>
+(	-LRB-	_ <O>
+however	RB	_ <O>
+it	PRP	_ <O>
+should	MD	_ <O>
+be	VB	_ <O>
+noted	VBN	_ <O>
+that	IN	_ <O>
+some	DT	<B-CUE>
+dialects	NNS	<I-CUE>
+of	IN	<I-CUE>
+Spanish	JJ	<I-CUE>
+re	IN	_ <O>
+-	HYPH	_ <O>
+acquired	VBN	_ <O>
+/h/	NN	_ <O>
+from	IN	_ <O>
+Spanish	JJ	_ <O>
+/x/	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+known	VBN	_ <O>
+from	IN	_ <O>
+several	JJ	<B-CUE>
+Scandinavian	JJ	<I-CUE>
+dialects	NNS	<I-CUE>
+,	,	_ <O>
+for	IN	_ <O>
+instance	NN	_ <O>
+Älvdalsmal	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+dialect	NN	_ <O>
+of	IN	_ <O>
+Roslagen	NNP	_ <O>
+where	WRB	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+found	VBN	_ <O>
+already	RB	_ <O>
+in	IN	_ <O>
+Runic	NNP	_ <O>
+Swedish	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Interestingly	RB	_ <O>
+,	,	_ <O>
+both	DT	_ <O>
+French	JJ	_ <O>
+and	CC	_ <O>
+Spanish	JJ	_ <O>
+acquired	VBN	_ <O>
+new	JJ	_ <O>
+initial	JJ	_ <O>
+[	-LRB-	_ <O>
+h	NN	_ <O>
+]	-RRB-	_ <O>
+in	IN	_ <O>
+mediaval	NN	_ <O>
+times	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+these	DT	_ <O>
+were	VBD	_ <O>
+later	RB	_ <O>
+lost	VBN	_ <O>
+in	IN	_ <O>
+both	CC	_ <O>
+languages	NNS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+second	JJ	_ <O>
+round	NN	_ <O>
+"	''	_ <O>
+of	IN	_ <O>
+h	NN	_ <O>
+-	HYPH	_ <O>
+dropping	NN	_ <O>
+(	-LRB-	_ <O>
+however	RB	_ <O>
+it	PRP	_ <O>
+should	MD	_ <O>
+be	VB	_ <O>
+noted	VBN	_ <O>
+that	IN	_ <O>
+some	DT	<B-CUE>
+dialects	NNS	<I-CUE>
+of	IN	<I-CUE>
+Spanish	JJ	<I-CUE>
+re	IN	_ <O>
+-	HYPH	_ <O>
+acquired	VBN	_ <O>
+/h/	NN	_ <O>
+from	IN	_ <O>
+Spanish	JJ	_ <O>
+/x/	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+known	VBN	_ <O>
+from	IN	_ <O>
+several	JJ	<B-CUE>
+Scandinavian	JJ	<I-CUE>
+dialects	NNS	<I-CUE>
+,	,	_ <O>
+for	IN	_ <O>
+instance	NN	_ <O>
+Älvdalsmal	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+dialect	NN	_ <O>
+of	IN	_ <O>
+Roslagen	NNP	_ <O>
+where	WRB	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+found	VBN	_ <O>
+already	RB	_ <O>
+in	IN	_ <O>
+Runic	NNP	_ <O>
+Swedish	NNP	_ <O>
+.	.	_ <O>
+
+NULL

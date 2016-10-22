@@ -1,0 +1,103 @@
+NULL
+The	DT	_ <O>
+family	NN	_ <O>
+occurs	VBZ	_ <O>
+in	IN	_ <O>
+New	NNP	_ <O>
+Guinea	NNP	_ <O>
+,	,	_ <O>
+Australia	NNP	_ <O>
+and	CC	_ <O>
+numerous	JJ	_ <O>
+Pacific	NNP	_ <O>
+Islands	NNPS	_ <O>
+as	IN	_ <O>
+far	RB	_ <O>
+east	RB	_ <O>
+as	IN	_ <O>
+Samoa	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Within	IN	_ <O>
+the	DT	_ <O>
+family	NN	_ <O>
+the	DT	_ <O>
+species	NNS	_ <O>
+are	VBP	_ <O>
+known	VBN	_ <O>
+not	RB	_ <O>
+only	RB	_ <O>
+as	IN	_ <O>
+robins	NNS	_ <O>
+but	CC	_ <O>
+the	DT	_ <O>
+flycatchers	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+scrub	VB	_ <O>
+-	HYPH	_ <O>
+robins	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+however	RB	_ <O>
+unrelated	JJ	_ <O>
+to	IN	_ <O>
+Old	NNP	_ <O>
+World	NNP	_ <O>
+family	NN	_ <O>
+Muscicapidae	NNP	_ <O>
+(	-LRB-	_ <O>
+to	TO	_ <O>
+which	WDT	_ <O>
+other	JJ	<B-CUE>
+species	NNS	<I-CUE>
+with	IN	_ <O>
+such	JJ	_ <O>
+names	NNS	_ <O>
+belong	VBP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+the	DT	_ <O>
+monarch	NN	_ <O>
+flycatchers	NNS	_ <O>
+(	-LRB-	_ <O>
+Monarchidae	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+however	RB	_ <O>
+unrelated	JJ	_ <O>
+to	IN	_ <O>
+Old	NNP	_ <O>
+World	NNP	_ <O>
+family	NN	_ <O>
+Muscicapidae	NNP	_ <O>
+(	-LRB-	_ <O>
+to	TO	_ <O>
+which	WDT	_ <O>
+other	JJ	<B-CUE>
+species	NNS	<I-CUE>
+with	IN	_ <O>
+such	JJ	_ <O>
+names	NNS	_ <O>
+belong	VBP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+the	DT	_ <O>
+monarch	NN	_ <O>
+flycatchers	NNS	_ <O>
+(	-LRB-	_ <O>
+Monarchidae	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

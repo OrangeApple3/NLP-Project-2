@@ -1,0 +1,48 @@
+NULL
+Because	IN	_ <O>
+they	PRP	_ <O>
+believe	VBP	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+communicating	VBG	_ <O>
+directly	RB	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+controller	NN	_ <O>
+,	,	_ <O>
+any	DT	_ <O>
+drive	NN	_ <O>
+that	WDT	_ <O>
+holds	VBZ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+SATA	NNP	_ <O>
+standard	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+connected	VBN	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+port	NN	_ <O>
+multiplier	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+means	VBZ	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+full	JJ	_ <O>
+bandwidth	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+link	NN	_ <O>
+will	MD	_ <O>
+most	RBS	_ <O>
+likely	RB	_ <O>
+not	RB	_ <O>
+be	VB	_ <O>
+used	VBN	_ <O>
+.	.	_ <O>
+
+NULL

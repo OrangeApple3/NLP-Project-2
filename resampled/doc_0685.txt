@@ -1,0 +1,31 @@
+Pellagra	NN	_ <O>
+is	VBZ	_ <O>
+common	JJ	_ <O>
+in	IN	_ <O>
+Africa	NNP	_ <O>
+,	,	_ <O>
+Mexico	NNP	_ <O>
+,	,	_ <O>
+Indonesia	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+China	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+common	JJ	_ <O>
+amongst	IN	_ <O>
+prisoners	NNS	_ <O>
+of	IN	_ <O>
+Soviet	JJ	_ <O>
+labor	NN	_ <O>
+camps	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+infamous	JJ	_ <O>
+Gulag	NNP	_ <O>
+.	.	_ <O>
+
+NULL

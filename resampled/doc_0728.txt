@@ -1,0 +1,87 @@
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+married	VBN	_ <O>
+woman	NN	_ <O>
+usually	RB	_ <O>
+adopts	VBZ	_ <O>
+her	PRP$	_ <O>
+husband	NN	_ <O>
+'s	POS	_ <O>
+name	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+children	NNS	_ <O>
+usually	RB	_ <O>
+bear	VBP	_ <O>
+the	DT	_ <O>
+surname	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+father	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+possible	JJ	<B-CUE>
+,	,	_ <O>
+though	RB	_ <O>
+rare	JJ	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+husband	NN	_ <O>
+to	TO	_ <O>
+adopt	VB	_ <O>
+his	PRP$	_ <O>
+wife	NN	_ <O>
+'s	POS	_ <O>
+surname	NN	_ <O>
+or	CC	_ <O>
+to	TO	_ <O>
+add	VB	_ <O>
+his	PRP$	_ <O>
+wife	NN	_ <O>
+'s	POS	_ <O>
+surname	NN	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+family	NN	_ <O>
+name	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+possible	JJ	<B-CUE>
+,	,	_ <O>
+though	RB	_ <O>
+rare	JJ	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+husband	NN	_ <O>
+to	TO	_ <O>
+adopt	VB	_ <O>
+his	PRP$	_ <O>
+wife	NN	_ <O>
+'s	POS	_ <O>
+surname	NN	_ <O>
+or	CC	_ <O>
+to	TO	_ <O>
+add	VB	_ <O>
+his	PRP$	_ <O>
+wife	NN	_ <O>
+'s	POS	_ <O>
+surname	NN	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+family	NN	_ <O>
+name	NN	_ <O>
+.	.	_ <O>
+
+NULL

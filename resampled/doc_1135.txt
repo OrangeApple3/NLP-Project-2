@@ -1,0 +1,18 @@
+NULL
+It	PRP	_ <O>
+remained	VBD	_ <O>
+in	IN	_ <O>
+limited	JJ	_ <O>
+service	NN	_ <O>
+until	IN	_ <O>
+the	DT	_ <O>
+final	JJ	_ <O>
+retirement	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Lightning	NN	_ <O>
+in	IN	_ <O>
+1988	CD	_ <O>
+.	.	_ <O>
+
+NULL

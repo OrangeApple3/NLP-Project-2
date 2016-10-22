@@ -1,0 +1,46 @@
+Baker	NNP	_ <O>
+Bowl	NNP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+field	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Philadelphia	NNP	_ <O>
+Eagles	NNPS	_ <O>
+who	WP	_ <O>
+played	VBD	_ <O>
+home	NN	_ <O>
+games	NNS	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+stadium	NN	_ <O>
+from	IN	_ <O>
+1933	CD	_ <O>
+through	IN	_ <O>
+1935	CD	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+their	PRP$	_ <O>
+four	CD	_ <O>
+years	NNS	_ <O>
+at	IN	_ <O>
+Baker	NNP	_ <O>
+Bowl	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Eagles	NNPS	_ <O>
+had	VBD	_ <O>
+a	DT	_ <O>
+record	NN	_ <O>
+of	IN	_ <O>
+3	CD	_ <O>
+-	HYPH	_ <O>
+11	CD	_ <O>
+-	HYPH	_ <O>
+1	CD	_ <O>
+.	.	_ <O>
+
+NULL

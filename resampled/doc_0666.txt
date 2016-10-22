@@ -1,0 +1,265 @@
+NULL
+The	DT	_ <O>
+above	JJ	_ <O>
+channels	NNS	_ <O>
+formed	VBN	_ <O>
+by	IN	_ <O>
+polyphosphate	NN	_ <O>
+and	CC	_ <O>
+poly	NN	_ <O>
+-	HYPH	_ <O>
+b	NN	_ <O>
+-	:	_ <O>
+hydroxybutyrate	NN	_ <O>
+with	IN	_ <O>
+Ca2+	NNS	_ <O>
+are	VBP	_ <O>
+involved	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+transport	NN	_ <O>
+processes	NNS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+variety	NN	_ <O>
+of	IN	_ <O>
+organisms	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Previously	RB	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+was	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+either	RB	_ <O>
+as	IN	_ <O>
+“	.	_ <O>
+molecular	JJ	_ <O>
+fossil	NN	_ <O>
+”	NN	_ <O>
+or	CC	_ <O>
+as	IN	_ <O>
+only	RB	_ <O>
+a	DT	_ <O>
+phosphorus	NN	_ <O>
+and	CC	_ <O>
+energy	NN	_ <O>
+source	NN	_ <O>
+providing	VBG	_ <O>
+the	DT	_ <O>
+survival	NN	_ <O>
+of	IN	_ <O>
+microorganisms	NNS	_ <O>
+under	IN	_ <O>
+extreme	JJ	_ <O>
+conditions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+participate	VBP	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+regulatory	JJ	<I-CUE>
+mechanisms	NNS	<I-CUE>
+occurring	VBG	_ <O>
+in	IN	_ <O>
+bacteria	NNS	_ <O>
+:	:	_ <O>
+
+NULL
+They	PRP	_ <O>
+participate	VBP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+induction	NN	_ <O>
+of	IN	_ <O>
+rpoS	NNP	_ <O>
+,	,	_ <O>
+an	DT	_ <O>
+RNA	NN	_ <O>
+-	HYPH	_ <O>
+polymerase	NN	_ <O>
+subunit	NN	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+responsible	JJ	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+expression	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+large	JJ	_ <O>
+group	NN	_ <O>
+of	IN	_ <O>
+genes	NNS	_ <O>
+involved	VBN	_ <O>
+in	IN	_ <O>
+adjustments	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+stationary	JJ	_ <O>
+growth	NN	_ <O>
+phase	NN	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+stressful	JJ	<I-CUE>
+agents	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Polyphosphates	NNS	_ <O>
+are	VBP	_ <O>
+present	JJ	_ <O>
+in	IN	_ <O>
+animal	NN	_ <O>
+cells	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+there	EX	<B-CUE>
+are	VBP	<I-CUE>
+many	JJ	<I-CUE>
+data	NNS	<I-CUE>
+on	IN	_ <O>
+its	PRP$	_ <O>
+participation	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+regulatory	JJ	_ <O>
+processes	NNS	_ <O>
+during	IN	_ <O>
+development	NN	_ <O>
+and	CC	_ <O>
+cellular	JJ	_ <O>
+proliferation	NN	_ <O>
+and	CC	_ <O>
+differentiation	NN	_ <O>
+-	HYPH	_ <O>
+especially	RB	_ <O>
+in	IN	_ <O>
+bone	NN	_ <O>
+tissues	NNS	_ <O>
+and	CC	_ <O>
+brain	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Previously	RB	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+was	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+either	RB	_ <O>
+as	IN	_ <O>
+“	.	_ <O>
+molecular	JJ	_ <O>
+fossil	NN	_ <O>
+”	NN	_ <O>
+or	CC	_ <O>
+as	IN	_ <O>
+only	RB	_ <O>
+a	DT	_ <O>
+phosphorus	NN	_ <O>
+and	CC	_ <O>
+energy	NN	_ <O>
+source	NN	_ <O>
+providing	VBG	_ <O>
+the	DT	_ <O>
+survival	NN	_ <O>
+of	IN	_ <O>
+microorganisms	NNS	_ <O>
+under	IN	_ <O>
+extreme	JJ	_ <O>
+conditions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+participate	VBP	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+regulatory	JJ	<I-CUE>
+mechanisms	NNS	<I-CUE>
+occurring	VBG	_ <O>
+in	IN	_ <O>
+bacteria	NNS	_ <O>
+:	:	_ <O>
+
+NULL
+They	PRP	_ <O>
+participate	VBP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+induction	NN	_ <O>
+of	IN	_ <O>
+rpoS	NNP	_ <O>
+,	,	_ <O>
+an	DT	_ <O>
+RNA	NN	_ <O>
+-	HYPH	_ <O>
+polymerase	NN	_ <O>
+subunit	NN	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+responsible	JJ	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+expression	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+large	JJ	_ <O>
+group	NN	_ <O>
+of	IN	_ <O>
+genes	NNS	_ <O>
+involved	VBN	_ <O>
+in	IN	_ <O>
+adjustments	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+stationary	JJ	_ <O>
+growth	NN	_ <O>
+phase	NN	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+stressful	JJ	<I-CUE>
+agents	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Polyphosphates	NNS	_ <O>
+are	VBP	_ <O>
+present	JJ	_ <O>
+in	IN	_ <O>
+animal	NN	_ <O>
+cells	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+there	EX	<B-CUE>
+are	VBP	<I-CUE>
+many	JJ	<I-CUE>
+data	NNS	<I-CUE>
+on	IN	_ <O>
+its	PRP$	_ <O>
+participation	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+regulatory	JJ	_ <O>
+processes	NNS	_ <O>
+during	IN	_ <O>
+development	NN	_ <O>
+and	CC	_ <O>
+cellular	JJ	_ <O>
+proliferation	NN	_ <O>
+and	CC	_ <O>
+differentiation	NN	_ <O>
+-	HYPH	_ <O>
+especially	RB	_ <O>
+in	IN	_ <O>
+bone	NN	_ <O>
+tissues	NNS	_ <O>
+and	CC	_ <O>
+brain	NN	_ <O>
+.	.	_ <O>
+
+NULL

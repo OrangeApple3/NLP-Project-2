@@ -1,0 +1,176 @@
+NULL
+Access	NN	_ <O>
+58	CD	_ <O>
+remixers	NNS	_ <O>
+and	CC	_ <O>
+collaborators	NNS	_ <O>
+were	VBD	_ <O>
+Umek	NNP	_ <O>
+,	,	_ <O>
+Cari	NNP	_ <O>
+Lekebusch	NNP	_ <O>
+,	,	_ <O>
+The	DT	_ <O>
+Advent	NNP	_ <O>
+,	,	_ <O>
+Steve	NNP	_ <O>
+Stoll	NNP	_ <O>
+,	,	_ <O>
+Pacou	NNP	_ <O>
+,	,	_ <O>
+Jamie	NNP	_ <O>
+Anderson	NNP	_ <O>
+,	,	_ <O>
+Colin	NNP	_ <O>
+Dale	NNP	_ <O>
+,	,	_ <O>
+Trevor	NNP	_ <O>
+Rockcliffe	NNP	_ <O>
+,	,	_ <O>
+Marco	NNP	_ <O>
+Lenzi	NNP	_ <O>
+,	,	_ <O>
+Mark	NNP	_ <O>
+Broom	NNP	_ <O>
+,	,	_ <O>
+Mark	NNP	_ <O>
+Williams	NNP	_ <O>
+and	CC	_ <O>
+others	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Formed	VBN	_ <O>
+in	IN	_ <O>
+1997	CD	_ <O>
+by	IN	_ <O>
+Paulo	NNP	_ <O>
+Nascimento	NNP	_ <O>
+and	CC	_ <O>
+Phil	NNP	_ <O>
+Quenum	NNP	_ <O>
+,	,	_ <O>
+Access	NNP	_ <O>
+58	CD	_ <O>
+soon	RB	_ <O>
+established	VBD	_ <O>
+itself	PRP	_ <O>
+as	IN	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+powerful	JJ	<I-CUE>
+forces	NNS	_ <O>
+in	IN	_ <O>
+techno	NN	_ <O>
+in	IN	_ <O>
+Europe	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Access	NN	_ <O>
+58	CD	_ <O>
+were	VBD	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+(	-LRB-	_ <O>
+and	CC	_ <O>
+probably	RB	<B-CUE>
+the	DT	_ <O>
+only	JJ	_ <O>
+)	-RRB-	_ <O>
+artists	NNS	_ <O>
+to	TO	_ <O>
+perform	VB	_ <O>
+live	RB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+Colin	NNP	_ <O>
+Dale	NNP	_ <O>
+'s	POS	_ <O>
+legendary	JJ	_ <O>
+"	``	_ <O>
+Abstract	NNP	_ <O>
+Dance	NNP	_ <O>
+"	''	_ <O>
+weekly	JJ	_ <O>
+radio	NN	_ <O>
+program	NN	_ <O>
+on	IN	_ <O>
+Kiss	NNP	_ <O>
+FM	NNP	_ <O>
+in	IN	_ <O>
+London	NNP	_ <O>
+,	,	_ <O>
+England	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Formed	VBN	_ <O>
+in	IN	_ <O>
+1997	CD	_ <O>
+by	IN	_ <O>
+Paulo	NNP	_ <O>
+Nascimento	NNP	_ <O>
+and	CC	_ <O>
+Phil	NNP	_ <O>
+Quenum	NNP	_ <O>
+,	,	_ <O>
+Access	NNP	_ <O>
+58	CD	_ <O>
+soon	RB	_ <O>
+established	VBD	_ <O>
+itself	PRP	_ <O>
+as	IN	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+powerful	JJ	<I-CUE>
+forces	NNS	_ <O>
+in	IN	_ <O>
+techno	NN	_ <O>
+in	IN	_ <O>
+Europe	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Access	NN	_ <O>
+58	CD	_ <O>
+were	VBD	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+(	-LRB-	_ <O>
+and	CC	_ <O>
+probably	RB	<B-CUE>
+the	DT	_ <O>
+only	JJ	_ <O>
+)	-RRB-	_ <O>
+artists	NNS	_ <O>
+to	TO	_ <O>
+perform	VB	_ <O>
+live	RB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+Colin	NNP	_ <O>
+Dale	NNP	_ <O>
+'s	POS	_ <O>
+legendary	JJ	_ <O>
+"	``	_ <O>
+Abstract	NNP	_ <O>
+Dance	NNP	_ <O>
+"	''	_ <O>
+weekly	JJ	_ <O>
+radio	NN	_ <O>
+program	NN	_ <O>
+on	IN	_ <O>
+Kiss	NNP	_ <O>
+FM	NNP	_ <O>
+in	IN	_ <O>
+London	NNP	_ <O>
+,	,	_ <O>
+England	NNP	_ <O>
+.	.	_ <O>
+
+NULL

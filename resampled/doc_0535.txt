@@ -1,0 +1,243 @@
+NULL
+Morris	NNP	_ <O>
+and	CC	_ <O>
+Riley	NNP	_ <O>
+hail	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+area	NN	_ <O>
+in	IN	_ <O>
+Merseyside	NNP	_ <O>
+,	,	_ <O>
+shared	VBD	_ <O>
+a	DT	_ <O>
+room	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+army	NN	_ <O>
+and	CC	_ <O>
+were	VBD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+boxing	NN	_ <O>
+team	NN	_ <O>
+in	IN	_ <O>
+Germany	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+both	DT	_ <O>
+had	VBD	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+cancer	NN	_ <O>
+within	IN	_ <O>
+5	CD	_ <O>
+years	NNS	_ <O>
+of	IN	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+;	:	_ <O>
+the	DT	_ <O>
+chances	NNS	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+are	VBP	_ <O>
+around	RB	_ <O>
+560,000:1	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+still	RB	_ <O>
+baffles	VBZ	_ <O>
+leading	VBG	_ <O>
+cancer	NN	_ <O>
+experts	NNS	_ <O>
+today	NN	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+having	VBG	_ <O>
+two	CD	_ <O>
+types	NNS	_ <O>
+of	IN	_ <O>
+testicular	JJ	_ <O>
+cancer	NN	_ <O>
+he	PRP	_ <O>
+set	VBD	_ <O>
+up	RP	_ <O>
+the	DT	_ <O>
+UK	NNP	_ <O>
+'s	POS	_ <O>
+most	RBS	<B-CUE>
+famous	JJ	<I-CUE>
+testicular	JJ	_ <O>
+cancer	NN	_ <O>
+website	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+help	NN	_ <O>
+of	IN	_ <O>
+well	RB	<B-CUE>
+known	VBN	<I-CUE>
+musicians	NNS	_ <O>
+Steve	NNP	_ <O>
+White	NNP	_ <O>
+and	CC	_ <O>
+Paul	NNP	_ <O>
+Weller	NNP	_ <O>
+in	IN	_ <O>
+April	NNP	_ <O>
+2003	CD	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+this	DT	_ <O>
+time	NN	_ <O>
+Philly	NNP	_ <O>
+also	RB	_ <O>
+helped	VBD	_ <O>
+to	TO	_ <O>
+raise	VB	_ <O>
+awareness	NN	_ <O>
+of	IN	_ <O>
+testosterone	NN	_ <O>
+replacement	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+long	JJ	_ <O>
+-	HYPH	_ <O>
+time	NN	_ <O>
+campaigner	NN	_ <O>
+and	CC	_ <O>
+cancer	NN	_ <O>
+survivor	NN	_ <O>
+Nick	NNP	_ <O>
+O'Hara	NNP	_ <O>
+Smith	NNP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+men	NNS	_ <O>
+who	WP	_ <O>
+had	VBD	_ <O>
+lost	VBN	_ <O>
+a	DT	_ <O>
+testicle	NN	_ <O>
+or	CC	_ <O>
+testicles	NNS	_ <O>
+to	IN	_ <O>
+injury	NN	_ <O>
+or	CC	_ <O>
+cancer	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+subject	NN	_ <O>
+which	WDT	_ <O>
+had	VBD	<B-CUE>
+been	VBN	<I-CUE>
+widely	RB	<I-CUE>
+ignored	VBN	<I-CUE>
+until	IN	_ <O>
+Nick	NNP	_ <O>
+exerted	VBD	_ <O>
+pressure	NN	_ <O>
+on	IN	_ <O>
+health	NN	_ <O>
+authorities	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+having	VBG	_ <O>
+two	CD	_ <O>
+types	NNS	_ <O>
+of	IN	_ <O>
+testicular	JJ	_ <O>
+cancer	NN	_ <O>
+he	PRP	_ <O>
+set	VBD	_ <O>
+up	RP	_ <O>
+the	DT	_ <O>
+UK	NNP	_ <O>
+'s	POS	_ <O>
+most	RBS	<B-CUE>
+famous	JJ	<I-CUE>
+testicular	JJ	_ <O>
+cancer	NN	_ <O>
+website	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+help	NN	_ <O>
+of	IN	_ <O>
+well	RB	<B-CUE>
+known	VBN	<I-CUE>
+musicians	NNS	_ <O>
+Steve	NNP	_ <O>
+White	NNP	_ <O>
+and	CC	_ <O>
+Paul	NNP	_ <O>
+Weller	NNP	_ <O>
+in	IN	_ <O>
+April	NNP	_ <O>
+2003	CD	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+this	DT	_ <O>
+time	NN	_ <O>
+Philly	NNP	_ <O>
+also	RB	_ <O>
+helped	VBD	_ <O>
+to	TO	_ <O>
+raise	VB	_ <O>
+awareness	NN	_ <O>
+of	IN	_ <O>
+testosterone	NN	_ <O>
+replacement	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+long	JJ	_ <O>
+-	HYPH	_ <O>
+time	NN	_ <O>
+campaigner	NN	_ <O>
+and	CC	_ <O>
+cancer	NN	_ <O>
+survivor	NN	_ <O>
+Nick	NNP	_ <O>
+O'Hara	NNP	_ <O>
+Smith	NNP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+men	NNS	_ <O>
+who	WP	_ <O>
+had	VBD	_ <O>
+lost	VBN	_ <O>
+a	DT	_ <O>
+testicle	NN	_ <O>
+or	CC	_ <O>
+testicles	NNS	_ <O>
+to	IN	_ <O>
+injury	NN	_ <O>
+or	CC	_ <O>
+cancer	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+subject	NN	_ <O>
+which	WDT	_ <O>
+had	VBD	<B-CUE>
+been	VBN	<I-CUE>
+widely	RB	<I-CUE>
+ignored	VBN	<I-CUE>
+until	IN	_ <O>
+Nick	NNP	_ <O>
+exerted	VBD	_ <O>
+pressure	NN	_ <O>
+on	IN	_ <O>
+health	NN	_ <O>
+authorities	NNS	_ <O>
+.	.	_ <O>
+
+NULL

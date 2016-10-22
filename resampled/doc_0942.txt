@@ -1,0 +1,126 @@
+Like	IN	_ <O>
+Jews	NNPS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+earliest	JJS	_ <O>
+Muslims	NNPS	_ <O>
+prayed	VBD	_ <O>
+facing	VBG	_ <O>
+Jerusalem	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+According	VBG	_ <O>
+to	IN	_ <O>
+Islamic	JJ	_ <O>
+tradition	NN	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+Muhammad	NNP	_ <O>
+was	VBD	_ <O>
+praying	VBG	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Al	NNP	_ <O>
+-	HYPH	_ <O>
+Qiblatain	NNP	_ <O>
+mosque	NN	_ <O>
+(	-LRB-	_ <O>
+in	IN	_ <O>
+Medina	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+ordered	VBN	_ <O>
+by	IN	_ <O>
+God	NNP	_ <O>
+to	TO	_ <O>
+change	VB	_ <O>
+the	DT	_ <O>
+qibla	JJ	_ <O>
+direction	NN	_ <O>
+from	IN	_ <O>
+Jerusalem	NNP	_ <O>
+to	IN	_ <O>
+Mecca	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Kaaba	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Various	JJ	<B-CUE>
+theories	NNS	<I-CUE>
+are	VBP	_ <O>
+advanced	JJ	_ <O>
+as	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+reason	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+change	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+most	JJS	<B-CUE>
+historians	NNS	<I-CUE>
+find	VB	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+reluctance	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Jews	NNPS	_ <O>
+of	IN	_ <O>
+Medina	NNP	_ <O>
+to	TO	_ <O>
+convert	VB	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+religion	NN	_ <O>
+that	WDT	_ <O>
+prompted	VBD	_ <O>
+the	DT	_ <O>
+move	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Various	JJ	<B-CUE>
+theories	NNS	<I-CUE>
+are	VBP	_ <O>
+advanced	JJ	_ <O>
+as	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+reason	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+change	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+most	JJS	<B-CUE>
+historians	NNS	<I-CUE>
+find	VB	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+reluctance	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Jews	NNPS	_ <O>
+of	IN	_ <O>
+Medina	NNP	_ <O>
+to	TO	_ <O>
+convert	VB	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+religion	NN	_ <O>
+that	WDT	_ <O>
+prompted	VBD	_ <O>
+the	DT	_ <O>
+move	NN	_ <O>
+.	.	_ <O>
+
+NULL

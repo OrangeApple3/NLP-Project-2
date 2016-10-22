@@ -1,0 +1,124 @@
+Pederasty	NNP	_ <O>
+was	VBD	_ <O>
+constructed	VBN	_ <O>
+in	IN	_ <O>
+various	JJ	_ <O>
+ways	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+other	JJ	_ <O>
+areas	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Elis	NNP	_ <O>
+,	,	_ <O>
+boys	NNS	_ <O>
+were	VBD	_ <O>
+persuaded	VBN	_ <O>
+by	IN	_ <O>
+means	NNS	_ <O>
+of	IN	_ <O>
+gifts	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Ionia	NNP	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+relations	NNS	_ <O>
+were	VBD	_ <O>
+forbidden	VBN	_ <O>
+altogether	RB	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+some	DT	<B-CUE>
+areas	NNS	<I-CUE>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+Boeotia	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+man	NN	_ <O>
+and	CC	_ <O>
+boy	NN	_ <O>
+were	VBD	_ <O>
+formally	RB	_ <O>
+joined	VBN	_ <O>
+together	RB	_ <O>
+and	CC	_ <O>
+lived	VBD	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+couple	NN	_ <O>
+.	.	_ <O>
+
+NULL
+By	IN	_ <O>
+contrast	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Spartans	NNPS	_ <O>
+were	VBD	<B-CUE>
+said	VBN	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+practised	VBN	_ <O>
+chaste	JJ	_ <O>
+pederasty	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+some	DT	<B-CUE>
+areas	NNS	<I-CUE>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+Boeotia	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+man	NN	_ <O>
+and	CC	_ <O>
+boy	NN	_ <O>
+were	VBD	_ <O>
+formally	RB	_ <O>
+joined	VBN	_ <O>
+together	RB	_ <O>
+and	CC	_ <O>
+lived	VBD	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+couple	NN	_ <O>
+.	.	_ <O>
+
+NULL
+By	IN	_ <O>
+contrast	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Spartans	NNPS	_ <O>
+were	VBD	<B-CUE>
+said	VBN	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+practised	VBN	_ <O>
+chaste	JJ	_ <O>
+pederasty	NN	_ <O>
+.	.	_ <O>
+
+NULL

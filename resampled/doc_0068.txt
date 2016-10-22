@@ -1,0 +1,79 @@
+NULL
+But	CC	_ <O>
+a	DT	_ <O>
+new	JJ	_ <O>
+dispensation	NN	_ <O>
+pushed	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+people	NNS	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+country	NN	_ <O>
+will	MD	_ <O>
+not	RB	_ <O>
+be	VB	_ <O>
+sustainable	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+tragedy	NN	_ <O>
+is	VBZ	_ <O>
+that	IN	_ <O>
+many	JJ	<B-CUE>
+beneficial	JJ	<I-CUE>
+features	NNS	<I-CUE>
+in	IN	_ <O>
+both	CC	_ <O>
+the	DT	_ <O>
+proposed	VBN	_ <O>
+charter	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+electoral	JJ	_ <O>
+system	NN	_ <O>
+would	MD	_ <O>
+be	VB	_ <O>
+discounted	VBN	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+manner	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+implementation	NN	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL
+The	DT	_ <O>
+tragedy	NN	_ <O>
+is	VBZ	_ <O>
+that	IN	_ <O>
+many	JJ	<B-CUE>
+beneficial	JJ	<I-CUE>
+features	NNS	<I-CUE>
+in	IN	_ <O>
+both	CC	_ <O>
+the	DT	_ <O>
+proposed	VBN	_ <O>
+charter	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+electoral	JJ	_ <O>
+system	NN	_ <O>
+would	MD	_ <O>
+be	VB	_ <O>
+discounted	VBN	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+manner	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+implementation	NN	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL

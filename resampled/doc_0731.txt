@@ -1,0 +1,108 @@
+NULL
+First	JJ	_ <O>
+year	NN	_ <O>
+undergraduates	NNS	_ <O>
+are	VBP	_ <O>
+housed	VBN	_ <O>
+on	IN	_ <O>
+-	HYPH	_ <O>
+site	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+College	NNP	_ <O>
+’s	NNP	_ <O>
+Turl	NNP	_ <O>
+St.	NNP	_ <O>
+site	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+dedicated	VBN	_ <O>
+Graduate	NNP	_ <O>
+accommodation	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+college	NN	_ <O>
+on	IN	_ <O>
+Iffley	NNP	_ <O>
+Road	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+smaller	JJR	_ <O>
+Oxford	NNP	_ <O>
+Colleges	NNP	_ <O>
+,	,	_ <O>
+Exeter	NNP	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+reputation	NN	<B-CUE>
+for	IN	_ <O>
+having	VBG	_ <O>
+a	DT	_ <O>
+close	RB	_ <O>
+-	HYPH	_ <O>
+knit	VBN	_ <O>
+student	NN	_ <O>
+body	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Common	NNP	_ <O>
+Rooms	NNS	_ <O>
+that	WDT	_ <O>
+are	VBP	<B-CUE>
+noted	VBN	<I-CUE>
+for	IN	_ <O>
+their	PRP$	_ <O>
+friendliness	NN	_ <O>
+and	CC	_ <O>
+openness	NN	_ <O>
+to	IN	_ <O>
+new	JJ	_ <O>
+students	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+smaller	JJR	_ <O>
+Oxford	NNP	_ <O>
+Colleges	NNP	_ <O>
+,	,	_ <O>
+Exeter	NNP	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+reputation	NN	<B-CUE>
+for	IN	_ <O>
+having	VBG	_ <O>
+a	DT	_ <O>
+close	RB	_ <O>
+-	HYPH	_ <O>
+knit	VBN	_ <O>
+student	NN	_ <O>
+body	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Common	NNP	_ <O>
+Rooms	NNS	_ <O>
+that	WDT	_ <O>
+are	VBP	<B-CUE>
+noted	VBN	<I-CUE>
+for	IN	_ <O>
+their	PRP$	_ <O>
+friendliness	NN	_ <O>
+and	CC	_ <O>
+openness	NN	_ <O>
+to	IN	_ <O>
+new	JJ	_ <O>
+students	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,356 @@
+Dunnery	NN	_ <O>
+moved	VBD	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Los	NNP	_ <O>
+Angeles	NNP	_ <O>
+following	VBG	_ <O>
+the	DT	_ <O>
+breakup	NN	_ <O>
+of	IN	_ <O>
+It	PRP	_ <O>
+Bites	VBZ	_ <O>
+and	CC	_ <O>
+released	VBN	_ <O>
+his	PRP$	_ <O>
+first	JJ	_ <O>
+solo	JJ	_ <O>
+album	NN	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+Welcome	VBP	_ <O>
+To	IN	_ <O>
+The	DT	_ <O>
+Wild	NNP	_ <O>
+Country	NNP	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+1991	CD	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+One	CD	_ <O>
+Night	NN	_ <O>
+In	IN	_ <O>
+Sauchiehall	NNP	_ <O>
+Street	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+live	JJ	_ <O>
+set	NN	_ <O>
+,	,	_ <O>
+followed	VBN	_ <O>
+in	IN	_ <O>
+1995	CD	_ <O>
+with	IN	_ <O>
+Dunnery	NNP	_ <O>
+'s	POS	_ <O>
+third	JJ	_ <O>
+studio	NN	_ <O>
+album	NN	_ <O>
+'	''	_ <O>
+Tall	NNP	_ <O>
+Blonde	NNP	_ <O>
+Helicopter	NNP	_ <O>
+'	POS	_ <O>
+following	VBG	_ <O>
+later	RBR	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+year	NN	_ <O>
+,	,	_ <O>
+during	IN	_ <O>
+which	WDT	_ <O>
+time	NN	_ <O>
+he	PRP	_ <O>
+had	VBD	_ <O>
+relocated	VBN	_ <O>
+to	IN	_ <O>
+New	NNP	_ <O>
+York	NNP	_ <O>
+City	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Primarily	RB	_ <O>
+an	DT	_ <O>
+acoustic	JJ	_ <O>
+album	NN	_ <O>
+,	,	_ <O>
+Dunnery	NNP	_ <O>
+abandoned	VBD	_ <O>
+the	DT	_ <O>
+predominantly	RB	_ <O>
+pop	NN	_ <O>
+-	HYPH	_ <O>
+oriented	VBN	_ <O>
+sound	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+previous	JJ	_ <O>
+album	NN	_ <O>
+in	IN	_ <O>
+favour	NN	_ <O>
+of	IN	_ <O>
+an	DT	_ <O>
+eclectic	JJ	_ <O>
+mixture	NN	_ <O>
+of	IN	_ <O>
+soft	JJ	_ <O>
+ballads	NNS	_ <O>
+and	CC	_ <O>
+acoustic	JJ	_ <O>
+rockers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+record	NN	_ <O>
+enjoyed	VBD	_ <O>
+little	JJ	<B-CUE>
+success	NN	_ <O>
+,	,	_ <O>
+being	VBG	_ <O>
+released	VBN	_ <O>
+only	RB	_ <O>
+in	IN	_ <O>
+Japan	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+follow	VB	_ <O>
+up	RP	_ <O>
+album	NN	_ <O>
+'	''	_ <O>
+Fearless	JJ	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+released	VBN	_ <O>
+on	IN	_ <O>
+Atlantic	NNP	_ <O>
+performed	VBD	_ <O>
+considerably	RB	<B-CUE>
+better	JJR	<I-CUE>
+with	IN	_ <O>
+'	``	_ <O>
+American	JJ	_ <O>
+Life	NNP	_ <O>
+In	IN	_ <O>
+The	DT	_ <O>
+Summertime	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+lead	JJ	_ <O>
+single	JJ	_ <O>
+off	IN	_ <O>
+the	DT	_ <O>
+album	NN	_ <O>
+receiving	VBG	_ <O>
+considerable	JJ	<B-CUE>
+airplay	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+States	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+fans	NNS	<I-CUE>
+still	RB	_ <O>
+consider	VB	_ <O>
+this	DT	_ <O>
+album	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+his	PRP$	_ <O>
+finest	JJS	_ <O>
+.	.	_ <O>
+
+NULL
+Dunnery	NNP	_ <O>
+'s	POS	_ <O>
+next	JJ	_ <O>
+album	NN	_ <O>
+was	VBD	_ <O>
+1998s	CD	_ <O>
+'	``	_ <O>
+Let	VB	_ <O>
+'s	PRP	_ <O>
+Go	VB	_ <O>
+Do	VB	_ <O>
+What	WP	_ <O>
+Happens	NNP	_ <O>
+'	''	_ <O>
+released	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+little	RB	<B-CUE>
+known	JJ	<I-CUE>
+Razor	NN	_ <O>
+and	CC	_ <O>
+Tie	NNP	_ <O>
+label	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+album	NN	_ <O>
+was	VBD	_ <O>
+poorly	RB	<B-CUE>
+promoted	VBN	_ <O>
+and	CC	_ <O>
+commercially	RB	_ <O>
+unsuccessful	JJ	_ <O>
+yet	CC	_ <O>
+is	VBZ	<B-CUE>
+considered	VBN	<I-CUE>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+his	PRP$	_ <O>
+most	JJS	<B-CUE>
+mature	JJ	<I-CUE>
+performance	NN	_ <O>
+yet	RB	_ <O>
+,	,	_ <O>
+containing	VBG	_ <O>
+rockier	JJR	_ <O>
+numbers	NNS	_ <O>
+and	CC	_ <O>
+experimentation	NN	_ <O>
+with	IN	_ <O>
+more	JJR	_ <O>
+electronic	JJ	_ <O>
+sounds	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+record	NN	_ <O>
+enjoyed	VBD	_ <O>
+little	JJ	<B-CUE>
+success	NN	_ <O>
+,	,	_ <O>
+being	VBG	_ <O>
+released	VBN	_ <O>
+only	RB	_ <O>
+in	IN	_ <O>
+Japan	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+follow	VB	_ <O>
+up	RP	_ <O>
+album	NN	_ <O>
+'	''	_ <O>
+Fearless	JJ	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+released	VBN	_ <O>
+on	IN	_ <O>
+Atlantic	NNP	_ <O>
+performed	VBD	_ <O>
+considerably	RB	<B-CUE>
+better	JJR	<I-CUE>
+with	IN	_ <O>
+'	``	_ <O>
+American	JJ	_ <O>
+Life	NNP	_ <O>
+In	IN	_ <O>
+The	DT	_ <O>
+Summertime	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+lead	JJ	_ <O>
+single	JJ	_ <O>
+off	IN	_ <O>
+the	DT	_ <O>
+album	NN	_ <O>
+receiving	VBG	_ <O>
+considerable	JJ	<B-CUE>
+airplay	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+States	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+fans	NNS	<I-CUE>
+still	RB	_ <O>
+consider	VB	_ <O>
+this	DT	_ <O>
+album	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+his	PRP$	_ <O>
+finest	JJS	_ <O>
+.	.	_ <O>
+
+NULL
+Dunnery	NNP	_ <O>
+'s	POS	_ <O>
+next	JJ	_ <O>
+album	NN	_ <O>
+was	VBD	_ <O>
+1998s	CD	_ <O>
+'	``	_ <O>
+Let	VB	_ <O>
+'s	PRP	_ <O>
+Go	VB	_ <O>
+Do	VB	_ <O>
+What	WP	_ <O>
+Happens	NNP	_ <O>
+'	''	_ <O>
+released	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+little	RB	<B-CUE>
+known	JJ	<I-CUE>
+Razor	NN	_ <O>
+and	CC	_ <O>
+Tie	NNP	_ <O>
+label	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+album	NN	_ <O>
+was	VBD	_ <O>
+poorly	RB	<B-CUE>
+promoted	VBN	_ <O>
+and	CC	_ <O>
+commercially	RB	_ <O>
+unsuccessful	JJ	_ <O>
+yet	CC	_ <O>
+is	VBZ	<B-CUE>
+considered	VBN	<I-CUE>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+his	PRP$	_ <O>
+most	JJS	<B-CUE>
+mature	JJ	<I-CUE>
+performance	NN	_ <O>
+yet	RB	_ <O>
+,	,	_ <O>
+containing	VBG	_ <O>
+rockier	JJR	_ <O>
+numbers	NNS	_ <O>
+and	CC	_ <O>
+experimentation	NN	_ <O>
+with	IN	_ <O>
+more	JJR	_ <O>
+electronic	JJ	_ <O>
+sounds	NNS	_ <O>
+.	.	_ <O>
+
+NULL

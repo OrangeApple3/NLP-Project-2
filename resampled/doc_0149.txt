@@ -1,0 +1,44 @@
+In	IN	_ <O>
+the	DT	_ <O>
+joint	JJ	_ <O>
+session	NN	_ <O>
+,	,	_ <O>
+individuals	NNS	_ <O>
+are	VBP	_ <O>
+situated	VBN	_ <O>
+so	RB	_ <O>
+they	PRP	_ <O>
+sit	VBP	_ <O>
+face	NN	_ <O>
+to	IN	_ <O>
+face	NN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+address	VB	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+directly	RB	_ <O>
+,	,	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+mediator	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+assures	VBZ	_ <O>
+that	IN	_ <O>
+both	DT	_ <O>
+parties	NNS	_ <O>
+must	MD	_ <O>
+address	VB	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+,	,	_ <O>
+directly	RB	_ <O>
+.	.	_ <O>
+
+NULL
