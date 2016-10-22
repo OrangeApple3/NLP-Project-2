@@ -5,7 +5,7 @@ from preprocessing import has_cue
 from transition import compute_transition_probabilities
 from viterbi import viterbi, viterbi_again
 from sklearn.metrics import f1_score
-from constants import DEBUG, SMOOTHED, TRAINING_DIRECTORY, CUES
+from constants import DEBUG, SMOOTHED, TRAINING_DIRECTORY, CUES, LOGGING
 
 
 def compute_emission_probabilities(directory=TRAINING_DIRECTORY, smoothed=SMOOTHED):
@@ -134,7 +134,16 @@ def phrase_label():
 
     public_uncertainty_spans = compute_uncertainty_spans(public_tags)
     private_uncertainty_spans = compute_uncertainty_spans(private_tags)
+    
+    if LOGGING:
+        with open('hmm_phrase_classification.csv', 'w+') as file:
+            writer = csv.writer(file)
+            writer.writerow(['Type', 'Spans'])
+            writer.writerow(['CUE-public', public_uncertainty_spans])
+            writer.writerow(['CUE-private', private_uncertainty_spans])
+            
     return public_uncertainty_spans, private_uncertainty_spans
+
 
 def compute_F1_score(pred_tags, actual_tags):
     """
