@@ -4,6 +4,8 @@ from collections import Counter
 from preprocessing import has_cue, DEBUG
 from transition import compute_transition_probabilities
 from viterbi import viterbi, viterbi_again
+from sklearn.metrics import f1_score
+
 
 CUES = ['<B-CUE>', '<I-CUE>', '<O>']
 TRAINING_DIRECTORY = "/train_preprocessed_unk"
@@ -132,6 +134,17 @@ def phrase_label():
     return public_uncertainty_spans
             
 
+def compute_F1_score(pred_tags, actual_tags):
+    """
+    Computes the F1 score between the predicted tags and the actual tags.
+    Both inputs are assumed to be a list of lists of tags, where each sub-list corresponds
+    to a sentence.
+    """
+    predictions = sum(pred_tags, [])
+    actual = sum(actual_tags, [])
+    return f1_score(predictions, actual)
+
+    
 def test_emissions():
     # Sanity checks
     emission_probs = compute_emission_probabilities(directory=TRAINING_DIRECTORY)
