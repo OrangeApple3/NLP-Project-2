@@ -5,7 +5,7 @@ from preprocessing import DEBUG
 # python transition.py 
 # trans_probability dictionary key ("<B-CUE>", "<I-CUE>") --> p(<B-CUE>|<I-CUE>)
 
-def compute_transition_probabilities():
+def compute_transition_probabilities(directory= "train_preprocessed/"):
     # transitions and transitions_p keys are reversed
     # key ("<B-CUE>", "<I-CUE>") --> p(<I-CUE>|<B-CUE>)
     transitions = {("<B-CUE>","<B-CUE>"):0, ("<B-CUE>","<I-CUE>"):0, ("<B-CUE>","<O>"):0, ("<I-CUE>", "<B-CUE>"):0, ("<I-CUE>", "<I-CUE>"):0, ("<I-CUE>", "<O>"):0, ("<O>", "<B-CUE>"):0, ("<O>", "<I-CUE>"):0, ("<O>", "<O>"):0, ("NULL", "<B-CUE>"):0, ("NULL", "<I-CUE>"):0, ("NULL", "<O>"):0}
@@ -16,9 +16,9 @@ def compute_transition_probabilities():
     num_o = 0
     num_n = 0
     num_files = 0
-    for fn in os.listdir("train_preprocessed/"):
+    for fn in os.listdir(directory):
         num_files += 1
-        with open("train_preprocessed/" + fn) as train_file:
+        with open(directory + fn) as train_file:
             file_tags = []
             for line in train_file:
                 file_line = line.split()
