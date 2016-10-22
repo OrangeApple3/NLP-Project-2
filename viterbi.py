@@ -1,5 +1,6 @@
 import sys
 import os
+from sets import Set 
 
 # We do not make an explicit assumption on whether to keep zero probabilities in
 # the dictionary or not.
@@ -10,12 +11,14 @@ BIO = {"<B-CUE>": 0, "<I-CUE>": 1, "<O>": 2}
 # emission probability
 # Return: highest (probability_of_tag_sequence, tag_sequence)
 def viterbi(emission_prob, transition_prob, word_POS_list):
+    wordSet = Set(key for key,_ in word_POS_list)
     max_node_prob = []
     max_node_prob.extend([(0,[]) for _ in range(3)] 
                          for _ in range(len(word_POS_list)))
 
     for curr_BIO in BIO:
-        e_prob = emission_prob.get((word_POS_list[0], curr_BIO),0)
+        e_prob = emission_prob.get((word_POS_list[0], curr_BIO),0) if word_POS_list[0] in wordSet else emission_prob.get(("<unk>", curr_BIO),0)
+
         t_prob = transition_prob.get((curr_BIO, "NULL"),0)
         max_node_prob[0][BIO[curr_BIO]] = (e_prob * t_prob, [curr_BIO])    
 
@@ -28,7 +31,8 @@ def viterbi(emission_prob, transition_prob, word_POS_list):
                                 key=lambda t: transition_prob.get(t,0) 
                                 * max_node_prob[curr_word-1][BIO[t[1]]][0])
 
-            e_prob = emission_prob.get((word_POS_list[curr_word], curr_BIO),0)
+            e_prob = emission_prob.get((word_POS_list[curr_word], curr_BIO),0) if word_POS_list[curr_word] in wordSet else emission_prob.get(("<unk>", curr_BIO),0)
+
             t_prob = transition_prob.get(max_tag_tuple,0)
 
 

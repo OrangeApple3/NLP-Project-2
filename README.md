@@ -8,7 +8,7 @@ preprocessing.py
     - Responsible for computing baseline phrase and sentence. 
     - Use baseline_phrase_detection and baseline_sentence_detection
     - Responsible for adding BIO tags.
-    - Use preprocess. 
+    - Use preprocess for the BIO tags. 
 
 unk.py 
     - Responsible for replacing first occurrences of words in training set with unk. 
@@ -42,5 +42,5 @@ constants.py
     - Specifies default optional parameters. 
 
 Further Directions: 
-To run the HMM, change your working directory to the directory containing the hmm.py, transition.py, viterbi.py, and the training text subdirectories. The “constants.py” file contains constants that adjust the behavior of the model and debugging output. Running "hmm.py" computes the emission and transition probabilities, and then applies the Viterbi algorithm. If DEBUG in constants.py is set to True, several sanity checks will also be outputted. One can also run "python transition.py" to see additional testing output for the transition probabilities. 
+To run the HMM, change your working directory to the directory containing the hmm.py, transition.py, viterbi.py, and the training text subdirectories. The “constants.py” file contains constants that adjust the behavior of the model and debugging output. Running "python hmm.py" computes the emission and transition probabilities, and then applies the Viterbi algorithm. If DEBUG in constants.py is set to True, several sanity checks will also be outputted. One can also run "python transition.py" to see additional testing output for the transition probabilities. 
 
