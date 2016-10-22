@@ -1,0 +1,82 @@
+NULL
+The	DT	_ <O>
+essential	JJ	_ <O>
+difference	NN	_ <O>
+between	IN	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+is	VBZ	_ <O>
+that	IN	_ <O>
+in	IN	_ <O>
+chain	NN	_ <O>
+growth	NN	_ <O>
+polymerization	NN	_ <O>
+,	,	_ <O>
+monomers	NNS	_ <O>
+are	VBP	_ <O>
+added	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+chain	NN	_ <O>
+one	CD	_ <O>
+at	IN	_ <O>
+a	DT	_ <O>
+time	NN	_ <O>
+only	RB	_ <O>
+,	,	_ <O>
+whereas	IN	_ <O>
+in	IN	_ <O>
+step	NN	_ <O>
+-	HYPH	_ <O>
+growth	NN	_ <O>
+polymerization	NN	_ <O>
+chains	NNS	_ <O>
+of	IN	_ <O>
+monomers	NNS	_ <O>
+may	MD	_ <O>
+combine	VB	_ <O>
+with	IN	_ <O>
+one	CD	_ <O>
+another	DT	_ <O>
+directly	RB	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+newer	JJR	<I-CUE>
+methods	NNS	<I-CUE>
+such	JJ	_ <O>
+as	IN	_ <O>
+plasma	NN	_ <O>
+polymerization	NN	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+fit	VB	_ <O>
+neatly	RB	_ <O>
+into	IN	_ <O>
+either	DT	_ <O>
+category	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+newer	JJR	<I-CUE>
+methods	NNS	<I-CUE>
+such	JJ	_ <O>
+as	IN	_ <O>
+plasma	NN	_ <O>
+polymerization	NN	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+fit	VB	_ <O>
+neatly	RB	_ <O>
+into	IN	_ <O>
+either	DT	_ <O>
+category	NN	_ <O>
+.	.	_ <O>
+
+NULL

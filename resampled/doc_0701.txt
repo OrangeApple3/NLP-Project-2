@@ -1,0 +1,14 @@
+NULL
+His	PRP$	_ <O>
+emblem	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+Tudor	NNP	_ <O>
+rose	VBD	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Beaufort	NNP	_ <O>
+portcullis	NN	_ <O>
+.	.	_ <O>
+
+NULL

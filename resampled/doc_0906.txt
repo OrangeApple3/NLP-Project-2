@@ -1,0 +1,85 @@
+NULL
+It	PRP	_ <O>
+eventually	RB	_ <O>
+became	VBD	_ <O>
+the	DT	_ <O>
+biggest	JJS	_ <O>
+-	HYPH	_ <O>
+selling	VBG	_ <O>
+album	NN	_ <O>
+of	IN	_ <O>
+its	PRP$	_ <O>
+genre	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+over	IN	_ <O>
+10	CD	_ <O>
+million	CD	_ <O>
+copies	NNS	_ <O>
+sold	VBN	_ <O>
+worldwide	RB	_ <O>
+.	.	_ <O>
+
+NULL
+While	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+Moby	NNP	<I-CUE>
+'s	POS	<I-CUE>
+earlier	JJR	<I-CUE>
+work	NN	<I-CUE>
+garnered	VBD	_ <O>
+critical	JJ	_ <O>
+and	CC	_ <O>
+commercial	JJ	_ <O>
+success	NN	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+electronic	JJ	_ <O>
+dance	NN	_ <O>
+music	NN	_ <O>
+scene	NN	_ <O>
+,	,	_ <O>
+'	``	_ <O>
+Play	NN	_ <O>
+'	''	_ <O>
+was	VBD	_ <O>
+his	PRP$	_ <O>
+first	JJ	_ <O>
+true	JJ	_ <O>
+pop	NN	_ <O>
+success	NN	_ <O>
+.	.	_ <O>
+
+NULL
+While	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+Moby	NNP	<I-CUE>
+'s	POS	<I-CUE>
+earlier	JJR	<I-CUE>
+work	NN	<I-CUE>
+garnered	VBD	_ <O>
+critical	JJ	_ <O>
+and	CC	_ <O>
+commercial	JJ	_ <O>
+success	NN	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+electronic	JJ	_ <O>
+dance	NN	_ <O>
+music	NN	_ <O>
+scene	NN	_ <O>
+,	,	_ <O>
+'	``	_ <O>
+Play	NN	_ <O>
+'	''	_ <O>
+was	VBD	_ <O>
+his	PRP$	_ <O>
+first	JJ	_ <O>
+true	JJ	_ <O>
+pop	NN	_ <O>
+success	NN	_ <O>
+.	.	_ <O>
+
+NULL

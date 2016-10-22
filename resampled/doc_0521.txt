@@ -1,0 +1,40 @@
+NULL
+Between	IN	_ <O>
+1900	CD	_ <O>
+and	CC	_ <O>
+1907	CD	_ <O>
+,	,	_ <O>
+Paula	NNP	_ <O>
+made	VBD	_ <O>
+several	JJ	_ <O>
+extended	VBN	_ <O>
+trips	NNS	_ <O>
+to	IN	_ <O>
+Paris	NNP	_ <O>
+for	IN	_ <O>
+artistic	JJ	_ <O>
+purposes	NNS	_ <O>
+,	,	_ <O>
+sometimes	RB	_ <O>
+living	VBG	_ <O>
+separately	RB	_ <O>
+from	IN	_ <O>
+her	PRP$	_ <O>
+husband	NN	_ <O>
+,	,	_ <O>
+Otto	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Fauve	NNP	_ <O>
+influences	NNS	_ <O>
+may	MD	_ <O>
+also	RB	_ <O>
+appear	VB	_ <O>
+in	IN	_ <O>
+such	JJ	_ <O>
+works	NNS	_ <O>
+as	IN	_ <O>
+.	.	_ <O>
+
+NULL

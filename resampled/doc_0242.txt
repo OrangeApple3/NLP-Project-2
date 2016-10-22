@@ -1,0 +1,149 @@
+NULL
+Although	IN	_ <O>
+not	RB	_ <O>
+required	VBN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+process	NN	_ <O>
+water	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+continuously	RB	_ <O>
+recycled	VBN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+ore	NN	_ <O>
+from	IN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+sought	VBN	_ <O>
+after	IN	_ <O>
+minerals	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+extracted	VBN	_ <O>
+(	-LRB-	_ <O>
+"	``	_ <O>
+the	DT	_ <O>
+tailings	NNS	_ <O>
+"	''	_ <O>
+)	-RRB-	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+reclaimed	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+While	IN	_ <O>
+these	DT	_ <O>
+recycling	NN	_ <O>
+and	CC	_ <O>
+reclamation	NN	_ <O>
+processes	NNS	_ <O>
+are	VBP	_ <O>
+more	RBR	_ <O>
+common	JJ	_ <O>
+in	IN	_ <O>
+modern	JJ	_ <O>
+placer	NN	_ <O>
+mining	NN	_ <O>
+operations	NNS	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+still	RB	_ <O>
+not	RB	_ <O>
+universally	RB	_ <O>
+done	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+earlier	JJR	_ <O>
+times	NNS	_ <O>
+the	DT	_ <O>
+process	NN	_ <O>
+water	NN	_ <O>
+was	VBD	_ <O>
+not	RB	_ <O>
+generally	RB	<B-CUE>
+recycled	VBN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+spent	VBN	_ <O>
+ore	NN	_ <O>
+was	VBD	_ <O>
+not	RB	_ <O>
+reclaimed	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+author	NN	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+Procurator	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+region	NN	_ <O>
+and	CC	_ <O>
+so	RB	_ <O>
+probably	RB	<B-CUE>
+witnessed	VBD	_ <O>
+large	JJ	_ <O>
+-	HYPH	_ <O>
+scale	NN	_ <O>
+hydraulic	JJ	_ <O>
+mining	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+placer	NN	_ <O>
+deposits	NNS	_ <O>
+there	RB	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+earlier	JJR	_ <O>
+times	NNS	_ <O>
+the	DT	_ <O>
+process	NN	_ <O>
+water	NN	_ <O>
+was	VBD	_ <O>
+not	RB	_ <O>
+generally	RB	<B-CUE>
+recycled	VBN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+spent	VBN	_ <O>
+ore	NN	_ <O>
+was	VBD	_ <O>
+not	RB	_ <O>
+reclaimed	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+author	NN	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+Procurator	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+region	NN	_ <O>
+and	CC	_ <O>
+so	RB	_ <O>
+probably	RB	<B-CUE>
+witnessed	VBD	_ <O>
+large	JJ	_ <O>
+-	HYPH	_ <O>
+scale	NN	_ <O>
+hydraulic	JJ	_ <O>
+mining	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+placer	NN	_ <O>
+deposits	NNS	_ <O>
+there	RB	_ <O>
+.	.	_ <O>
+
+NULL

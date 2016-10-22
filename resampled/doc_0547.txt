@@ -1,0 +1,35 @@
+NULL
+From	IN	_ <O>
+there	RB	_ <O>
+it	PRP	_ <O>
+flows	VBZ	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+Peene	NNP	_ <O>
+(	-LRB-	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+west	NN	_ <O>
+of	IN	_ <O>
+Usedom	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+Ĺšwina	NNP	_ <O>
+and	CC	_ <O>
+Dziwna	NNP	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+Bay	NNP	_ <O>
+of	IN	_ <O>
+Pomerania	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Baltic	NNP	_ <O>
+Sea	NNP	_ <O>
+.	.	_ <O>
+
+NULL

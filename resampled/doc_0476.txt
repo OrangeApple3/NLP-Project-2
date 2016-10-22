@@ -1,0 +1,91 @@
+Gonds	NNP	_ <O>
+(	-LRB-	_ <O>
+Gondi	NNP	_ <O>
+people	NNS	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+Bharias	NNP	_ <O>
+mainly	RB	_ <O>
+constitute	VBP	_ <O>
+the	DT	_ <O>
+population	NN	_ <O>
+of	IN	_ <O>
+Patalkot	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Nagda	NNP	_ <O>
+,	,	_ <O>
+Timki	NNP	_ <O>
+,	,	_ <O>
+Shehnai	NNP	_ <O>
+,	,	_ <O>
+Chakule	NNP	_ <O>
+,	,	_ <O>
+Singa	NNP	_ <O>
+,	,	_ <O>
+Tambura	NNP	_ <O>
+,	,	_ <O>
+Chikara	NNP	_ <O>
+,	,	_ <O>
+Bansuri	NNP	_ <O>
+,	,	_ <O>
+Ghunghru	NNP	_ <O>
+,	,	_ <O>
+Khadtaal	NNP	_ <O>
+,	,	_ <O>
+Madar	NNP	_ <O>
+,	,	_ <O>
+Dhol	NNP	_ <O>
+,	,	_ <O>
+Dahak	NNP	_ <O>
+and	CC	_ <O>
+Tudiya	NNP	_ <O>
+are	VBP	_ <O>
+the	DT	_ <O>
+common	JJ	_ <O>
+instruments	NNS	_ <O>
+they	PRP	_ <O>
+play	VBP	_ <O>
+during	IN	_ <O>
+various	JJ	_ <O>
+ceremonies	NNS	_ <O>
+and	CC	_ <O>
+rituals	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+said	VBN	<I-CUE>
+that	IN	_ <O>
+Bharias	NNP	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+living	VBG	_ <O>
+here	RB	_ <O>
+for	IN	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+500	CD	_ <O>
+years	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+said	VBN	<I-CUE>
+that	IN	_ <O>
+Bharias	NNP	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+living	VBG	_ <O>
+here	RB	_ <O>
+for	IN	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+500	CD	_ <O>
+years	NNS	_ <O>
+.	.	_ <O>
+
+NULL

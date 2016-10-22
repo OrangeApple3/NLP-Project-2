@@ -1,0 +1,220 @@
+The	DT	_ <O>
+cysts	NNS	_ <O>
+often	RB	_ <O>
+collapse	VBP	_ <O>
+forming	VBG	_ <O>
+crescent	NN	_ <O>
+-	HYPH	_ <O>
+shaped	VBN	_ <O>
+bodies	NNS	_ <O>
+visible	JJ	_ <O>
+in	IN	_ <O>
+stained	JJ	_ <O>
+tissue	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+complete	JJ	_ <O>
+life	NN	_ <O>
+-	HYPH	_ <O>
+cycles	NNS	_ <O>
+of	IN	_ <O>
+any	DT	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+species	NNS	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+Pneumocystis	NNP	_ <O>
+'	''	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+known	VBN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+presumably	RB	<B-CUE>
+all	DT	_ <O>
+resemble	VB	_ <O>
+the	DT	_ <O>
+others	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+genus	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+trophozoite	JJ	_ <O>
+stage	NN	_ <O>
+is	VBZ	<B-CUE>
+thought	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+equivalent	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+so	RB	_ <O>
+-	HYPH	_ <O>
+called	VBN	_ <O>
+vegetative	JJ	_ <O>
+state	NN	_ <O>
+of	IN	_ <O>
+other	JJ	_ <O>
+species	NNS	_ <O>
+(	-LRB-	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+Schizosaccharomyces	NNP	_ <O>
+pombe	NN	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+which	WDT	_ <O>
+,	,	_ <O>
+like	IN	_ <O>
+'	``	_ <O>
+Pneumocystis	NNP	_ <O>
+'	''	_ <O>
+belong	VBP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Taphrinomycotina	NNP	_ <O>
+branch	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+fungal	JJ	_ <O>
+kingdom	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+not	RB	<B-CUE>
+known	VBN	<I-CUE>
+for	IN	<I-CUE>
+certain	JJ	<I-CUE>
+if	IN	_ <O>
+meiosis	NN	_ <O>
+takes	VBZ	_ <O>
+place	NN	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+cysts	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+what	WP	_ <O>
+the	DT	_ <O>
+genetic	JJ	_ <O>
+status	NN	_ <O>
+is	VBZ	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+various	JJ	_ <O>
+cell	NN	_ <O>
+types	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+complete	JJ	_ <O>
+life	NN	_ <O>
+-	HYPH	_ <O>
+cycles	NNS	_ <O>
+of	IN	_ <O>
+any	DT	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+species	NNS	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+Pneumocystis	NNP	_ <O>
+'	''	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+known	VBN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+presumably	RB	<B-CUE>
+all	DT	_ <O>
+resemble	VB	_ <O>
+the	DT	_ <O>
+others	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+genus	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+trophozoite	JJ	_ <O>
+stage	NN	_ <O>
+is	VBZ	<B-CUE>
+thought	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+equivalent	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+so	RB	_ <O>
+-	HYPH	_ <O>
+called	VBN	_ <O>
+vegetative	JJ	_ <O>
+state	NN	_ <O>
+of	IN	_ <O>
+other	JJ	_ <O>
+species	NNS	_ <O>
+(	-LRB-	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+Schizosaccharomyces	NNP	_ <O>
+pombe	NN	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+which	WDT	_ <O>
+,	,	_ <O>
+like	IN	_ <O>
+'	``	_ <O>
+Pneumocystis	NNP	_ <O>
+'	''	_ <O>
+belong	VBP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Taphrinomycotina	NNP	_ <O>
+branch	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+fungal	JJ	_ <O>
+kingdom	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+not	RB	<B-CUE>
+known	VBN	<I-CUE>
+for	IN	<I-CUE>
+certain	JJ	<I-CUE>
+if	IN	_ <O>
+meiosis	NN	_ <O>
+takes	VBZ	_ <O>
+place	NN	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+cysts	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+what	WP	_ <O>
+the	DT	_ <O>
+genetic	JJ	_ <O>
+status	NN	_ <O>
+is	VBZ	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+various	JJ	_ <O>
+cell	NN	_ <O>
+types	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,41 @@
+NULL
+Tournaments	NNS	_ <O>
+are	VBP	_ <O>
+hosted	VBN	_ <O>
+over	IN	_ <O>
+a	DT	_ <O>
+three	CD	_ <O>
+day	NN	_ <O>
+period	NN	_ <O>
+of	IN	_ <O>
+time	NN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+most	JJS	_ <O>
+instances	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+rounds	NNS	_ <O>
+per	IN	_ <O>
+tournament	NN	_ <O>
+ranges	VBZ	_ <O>
+from	IN	_ <O>
+6	CD	_ <O>
+-	SYM	_ <O>
+8	CD	_ <O>
+usually	RB	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+small	JJ	_ <O>
+regional	JJ	_ <O>
+tournaments	NNS	_ <O>
+may	MD	_ <O>
+have	VB	_ <O>
+fewer	JJR	_ <O>
+.	.	_ <O>
+
+NULL

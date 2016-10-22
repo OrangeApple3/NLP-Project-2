@@ -1,0 +1,27 @@
+NULL
+This	DT	_ <O>
+windstorm	NN	_ <O>
+killed	VBD	_ <O>
+two	CD	_ <O>
+people	NNS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+mobile	JJ	_ <O>
+home	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Ninety	CD	_ <O>
+other	JJ	_ <O>
+homes	NNS	_ <O>
+and	CC	_ <O>
+mobile	JJ	_ <O>
+homes	NNS	_ <O>
+suffered	VBD	_ <O>
+minor	JJ	_ <O>
+to	IN	_ <O>
+major	JJ	_ <O>
+destruction	NN	_ <O>
+.	.	_ <O>
+
+NULL

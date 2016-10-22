@@ -1,0 +1,102 @@
+NULL
+The	DT	_ <O>
+most	RBS	_ <O>
+basic	JJ	_ <O>
+unit	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+Brave	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+builds	VBZ	_ <O>
+houses	NNS	_ <O>
+,	,	_ <O>
+towers	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+military	JJ	_ <O>
+buildings	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Warriors	NNS	_ <O>
+are	VBP	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+basic	JJ	_ <O>
+military	JJ	_ <O>
+unit	NN	_ <O>
+,	,	_ <O>
+employing	VBG	_ <O>
+a	DT	_ <O>
+melee	NN	_ <O>
+attack	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Shamans	NNS	_ <O>
+make	VBP	_ <O>
+up	RP	_ <O>
+for	IN	_ <O>
+their	PRP$	_ <O>
+weakness	NN	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+spells	NNS	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+offensive	JJ	_ <O>
+or	CC	_ <O>
+defensive	JJ	_ <O>
+situations	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+player	NN	_ <O>
+commands	VBZ	_ <O>
+several	JJ	<B-CUE>
+different	JJ	<I-CUE>
+types	NNS	<I-CUE>
+of	IN	<I-CUE>
+followers	NNS	<I-CUE>
+,	,	_ <O>
+each	DT	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+has	VBZ	_ <O>
+advantages	NNS	_ <O>
+and	CC	_ <O>
+disadvantages	NNS	_ <O>
+in	IN	_ <O>
+combat	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+player	NN	_ <O>
+commands	VBZ	_ <O>
+several	JJ	<B-CUE>
+different	JJ	<I-CUE>
+types	NNS	<I-CUE>
+of	IN	<I-CUE>
+followers	NNS	<I-CUE>
+,	,	_ <O>
+each	DT	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+has	VBZ	_ <O>
+advantages	NNS	_ <O>
+and	CC	_ <O>
+disadvantages	NNS	_ <O>
+in	IN	_ <O>
+combat	NN	_ <O>
+.	.	_ <O>
+
+NULL

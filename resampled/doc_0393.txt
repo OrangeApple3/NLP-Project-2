@@ -1,0 +1,133 @@
+Its	PRP$	_ <O>
+ensembles	NNS	_ <O>
+include	VBP	_ <O>
+Guitar	NNP	_ <O>
+Ensemble	NNP	_ <O>
+,	,	_ <O>
+Peapods	NNP	_ <O>
+Blues	NNPS	_ <O>
+Revue	NNP	_ <O>
+,	,	_ <O>
+11	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+several	JJ	_ <O>
+vocal	JJ	_ <O>
+and	CC	_ <O>
+instrumental	JJ	_ <O>
+groups	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+school	NN	_ <O>
+'s	POS	_ <O>
+music	NN	_ <O>
+department	NN	_ <O>
+has	VBZ	<B-CUE>
+been	VBN	<I-CUE>
+widely	RB	<I-CUE>
+recognized	VBN	<I-CUE>
+as	IN	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+finest	JJS	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+country	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+2008	CD	_ <O>
+the	DT	_ <O>
+school	NN	_ <O>
+'s	POS	_ <O>
+music	NN	_ <O>
+department	NN	_ <O>
+went	VBD	_ <O>
+on	IN	_ <O>
+tour	NN	_ <O>
+to	IN	_ <O>
+Cleveland	NNP	_ <O>
+Ohio	NNP	_ <O>
+and	CC	_ <O>
+performed	VBD	_ <O>
+at	IN	_ <O>
+many	JJ	<B-CUE>
+exciting	JJ	<I-CUE>
+venues	NNS	<I-CUE>
+including	VBG	_ <O>
+The	DT	_ <O>
+Rock	NNP	_ <O>
+and	CC	_ <O>
+Roll	NNP	_ <O>
+Hall	NNP	_ <O>
+of	IN	_ <O>
+Fame	NNP	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+Cleveland	NNP	_ <O>
+Indians	NNPS	_ <O>
+baseball	NN	_ <O>
+game	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+school	NN	_ <O>
+'s	POS	_ <O>
+music	NN	_ <O>
+department	NN	_ <O>
+has	VBZ	<B-CUE>
+been	VBN	<I-CUE>
+widely	RB	<I-CUE>
+recognized	VBN	<I-CUE>
+as	IN	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+finest	JJS	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+country	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+2008	CD	_ <O>
+the	DT	_ <O>
+school	NN	_ <O>
+'s	POS	_ <O>
+music	NN	_ <O>
+department	NN	_ <O>
+went	VBD	_ <O>
+on	IN	_ <O>
+tour	NN	_ <O>
+to	IN	_ <O>
+Cleveland	NNP	_ <O>
+Ohio	NNP	_ <O>
+and	CC	_ <O>
+performed	VBD	_ <O>
+at	IN	_ <O>
+many	JJ	<B-CUE>
+exciting	JJ	<I-CUE>
+venues	NNS	<I-CUE>
+including	VBG	_ <O>
+The	DT	_ <O>
+Rock	NNP	_ <O>
+and	CC	_ <O>
+Roll	NNP	_ <O>
+Hall	NNP	_ <O>
+of	IN	_ <O>
+Fame	NNP	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+Cleveland	NNP	_ <O>
+Indians	NNPS	_ <O>
+baseball	NN	_ <O>
+game	NN	_ <O>
+.	.	_ <O>
+
+NULL

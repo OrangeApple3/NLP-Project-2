@@ -1,0 +1,54 @@
+NULL
+The	DT	_ <O>
+band	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+one	CD	_ <O>
+color	NN	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+black	JJ	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+striped	VBN	_ <O>
+,	,	_ <O>
+vertically	RB	_ <O>
+or	CC	_ <O>
+horizontally	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	_ <O>
+caps	NNS	_ <O>
+have	VBP	_ <O>
+some	DT	<B-CUE>
+form	NN	<I-CUE>
+of	IN	<I-CUE>
+cap	NN	<I-CUE>
+device	NN	<I-CUE>
+(	-LRB-	_ <O>
+or	CC	_ <O>
+cap	NN	_ <O>
+badge	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	_ <O>
+caps	NNS	_ <O>
+have	VBP	_ <O>
+some	DT	<B-CUE>
+form	NN	<I-CUE>
+of	IN	<I-CUE>
+cap	NN	<I-CUE>
+device	NN	<I-CUE>
+(	-LRB-	_ <O>
+or	CC	_ <O>
+cap	NN	_ <O>
+badge	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

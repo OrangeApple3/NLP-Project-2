@@ -39,23 +39,26 @@ def viterbi(emission_prob, transition_prob, word_POS_list):
                     max_node_prob[curr_word-1][BIO[max_tag_tuple[1]]][1]
                     + [curr_BIO]
             )
-    #for i in range(len(max_node_prob)):
-    #    print(max_node_prob[i])
-    #print max_node_prob[len(max_node_prob)-1]
+            
     return(max(max_node_prob[-1], key=lambda t: t[0]))
 
             
 def viterbi_again(emission, transition, word_POS_list):
+    """
+    Another Viterbi algorithm implementation
+    """
     path_probs = [[0]*len(word_POS_list)]*len(BIO)
     state_paths = path_probs
     viterbi_path = [0]*len(word_POS_list)
-    
+
+    # Update initial states after NULL
     for bio in BIO:
         path_probs[BIO[bio]][0] = transition.get((bio, "NULL"), 0)*emission.get((word_POS_list[0], bio), 0)
         state_paths[BIO[bio]][0] = 0
     
     for i in range(1, len(word_POS_list)):
         for bio in BIO:
+            # Compute most likely state transition from the previous state
             path_probs[BIO[bio]][i] = max(path_probs[BIO[k]][i-1]*transition.get((bio, k), 0)*emission.get((word_POS_list[i], k), 0)
                                           for k in BIO)
             # this is a stupid way to get argmax

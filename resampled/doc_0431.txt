@@ -1,0 +1,86 @@
+This	DT	_ <O>
+behaviour	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+cited	VBN	_ <O>
+as	IN	_ <O>
+another	DT	_ <O>
+reason	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+defeat	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+civilization	NN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Europeans	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+the	DT	_ <O>
+Aztecs	NNP	_ <O>
+'	POS	_ <O>
+amazement	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Spanish	JJ	_ <O>
+conquistadors	NNS	_ <O>
+and	CC	_ <O>
+their	PRP$	_ <O>
+allies	NNS	_ <O>
+actually	RB	_ <O>
+tried	VBD	_ <O>
+to	TO	_ <O>
+kill	VB	_ <O>
+their	PRP$	_ <O>
+enemies	NNS	_ <O>
+in	IN	_ <O>
+battle	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Aztec	JJ	_ <O>
+warriors	NNS	_ <O>
+are	VBP	<B-CUE>
+said	VBN	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+been	VBN	_ <O>
+trained	VBN	_ <O>
+to	TO	_ <O>
+prefer	VB	_ <O>
+capturing	VBG	_ <O>
+their	PRP$	_ <O>
+enemies	NNS	_ <O>
+in	IN	_ <O>
+battle	NN	_ <O>
+,	,	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+killing	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+Aztec	JJ	_ <O>
+warriors	NNS	_ <O>
+are	VBP	<B-CUE>
+said	VBN	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+been	VBN	_ <O>
+trained	VBN	_ <O>
+to	TO	_ <O>
+prefer	VB	_ <O>
+capturing	VBG	_ <O>
+their	PRP$	_ <O>
+enemies	NNS	_ <O>
+in	IN	_ <O>
+battle	NN	_ <O>
+,	,	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+killing	VBG	_ <O>
+.	.	_ <O>
+
+NULL

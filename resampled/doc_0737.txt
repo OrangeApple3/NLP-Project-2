@@ -1,0 +1,93 @@
+NULL
+Hermes	NNP	_ <O>
+Rafael	NNP	_ <O>
+Saguier	NNP	_ <O>
+,	,	_ <O>
+another	DT	_ <O>
+key	JJ	_ <O>
+leader	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+PRLA	NNP	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+imprisoned	VBN	_ <O>
+for	IN	_ <O>
+four	CD	_ <O>
+months	NNS	_ <O>
+in	IN	_ <O>
+1987	CD	_ <O>
+on	IN	_ <O>
+charges	NNS	_ <O>
+of	IN	_ <O>
+sedition	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+early	JJ	_ <O>
+February	NNP	_ <O>
+1988	CD	_ <O>
+,	,	_ <O>
+police	NNS	_ <O>
+arrested	VBD	_ <O>
+200	CD	_ <O>
+people	NNS	_ <O>
+attending	VBG	_ <O>
+a	DT	_ <O>
+National	NNP	_ <O>
+Coordinating	NNP	_ <O>
+Committee	NNP	_ <O>
+meeting	NN	_ <O>
+in	IN	_ <O>
+Coronel	NNP	_ <O>
+Oviedo	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Forty	CD	_ <O>
+-	HYPH	_ <O>
+eight	CD	_ <O>
+hours	NNS	_ <O>
+before	IN	_ <O>
+the	DT	_ <O>
+elections	NNS	_ <O>
+,	,	_ <O>
+Laíno	NNP	_ <O>
+and	CC	_ <O>
+several	JJ	<B-CUE>
+other	JJ	<I-CUE>
+National	NNP	<I-CUE>
+Accord	NNP	<I-CUE>
+members	NNS	<I-CUE>
+were	VBD	_ <O>
+placed	VBN	_ <O>
+under	IN	_ <O>
+house	NN	_ <O>
+arrest	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Forty	CD	_ <O>
+-	HYPH	_ <O>
+eight	CD	_ <O>
+hours	NNS	_ <O>
+before	IN	_ <O>
+the	DT	_ <O>
+elections	NNS	_ <O>
+,	,	_ <O>
+Laíno	NNP	_ <O>
+and	CC	_ <O>
+several	JJ	<B-CUE>
+other	JJ	<I-CUE>
+National	NNP	<I-CUE>
+Accord	NNP	<I-CUE>
+members	NNS	<I-CUE>
+were	VBD	_ <O>
+placed	VBN	_ <O>
+under	IN	_ <O>
+house	NN	_ <O>
+arrest	NN	_ <O>
+.	.	_ <O>
+
+NULL

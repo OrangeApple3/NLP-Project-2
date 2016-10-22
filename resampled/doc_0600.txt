@@ -1,0 +1,94 @@
+The	DT	_ <O>
+'	``	_ <O>
+Patroon	NNP	_ <O>
+Island	NNP	_ <O>
+Bridge	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+major	JJ	_ <O>
+crossing	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Hudson	NNP	_ <O>
+River	NNP	_ <O>
+in	IN	_ <O>
+Albany	NNP	_ <O>
+,	,	_ <O>
+New	NNP	_ <O>
+York	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Seven	CD	_ <O>
+spans	VBZ	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+the	DT	_ <O>
+main	JJ	_ <O>
+spans	NNS	_ <O>
+and	CC	_ <O>
+consist	NN	_ <O>
+of	IN	_ <O>
+steel	NN	_ <O>
+trusses	NNS	_ <O>
+and	CC	_ <O>
+concrete	JJ	_ <O>
+decks	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+other	JJ	_ <O>
+three	CD	_ <O>
+spans	NNS	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+approach	NN	_ <O>
+spans	VBZ	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+supported	VBN	_ <O>
+by	IN	_ <O>
+plate	NN	_ <O>
+girders	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Seven	CD	_ <O>
+spans	VBZ	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+the	DT	_ <O>
+main	JJ	_ <O>
+spans	NNS	_ <O>
+and	CC	_ <O>
+consist	NN	_ <O>
+of	IN	_ <O>
+steel	NN	_ <O>
+trusses	NNS	_ <O>
+and	CC	_ <O>
+concrete	JJ	_ <O>
+decks	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+other	JJ	_ <O>
+three	CD	_ <O>
+spans	NNS	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+approach	NN	_ <O>
+spans	VBZ	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+supported	VBN	_ <O>
+by	IN	_ <O>
+plate	NN	_ <O>
+girders	NNS	_ <O>
+.	.	_ <O>
+
+NULL

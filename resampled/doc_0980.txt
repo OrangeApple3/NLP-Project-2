@@ -1,0 +1,152 @@
+An	DT	_ <O>
+example	NN	_ <O>
+of	IN	_ <O>
+such	PDT	_ <O>
+a	DT	_ <O>
+short	JJ	_ <O>
+-	HYPH	_ <O>
+term	NN	_ <O>
+fluctuation	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+demand	NN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+topical	JJ	_ <O>
+category	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+brief	JJ	_ <O>
+boom	NN	_ <O>
+in	IN	_ <O>
+Diana	NNP	_ <O>
+,	,	_ <O>
+Princess	NNP	_ <O>
+of	IN	_ <O>
+Wales	NNP	_ <O>
+issues	NNS	_ <O>
+which	WDT	_ <O>
+occurred	VBD	_ <O>
+following	VBG	_ <O>
+the	DT	_ <O>
+popular	JJ	_ <O>
+British	JJ	_ <O>
+royal	NN	_ <O>
+'s	POS	_ <O>
+sudden	JJ	_ <O>
+death	NN	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+about	IN	_ <O>
+a	DT	_ <O>
+year	NN	_ <O>
+or	CC	_ <O>
+two	CD	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+tragedy	NN	_ <O>
+,	,	_ <O>
+Diana	NNP	_ <O>
+stamps	NNS	_ <O>
+issued	VBN	_ <O>
+by	IN	_ <O>
+various	JJ	_ <O>
+British	JJ	_ <O>
+Commonwealth	NNP	_ <O>
+nations	NNS	_ <O>
+often	RB	_ <O>
+sold	VBN	_ <O>
+for	IN	_ <O>
+up	IN	_ <O>
+to	TO	_ <O>
+ten	CD	_ <O>
+times	NNS	_ <O>
+their	PRP$	_ <O>
+catalogue	NN	_ <O>
+value	NN	_ <O>
+.	.	_ <O>
+
+NULL
+To	IN	_ <O>
+experienced	JJ	_ <O>
+collectors	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+interest	NN	_ <O>
+in	IN	_ <O>
+these	DT	_ <O>
+issues	NNS	_ <O>
+was	VBD	_ <O>
+driven	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+popular	JJ	_ <O>
+media	NNS	_ <O>
+and	CC	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+collectors	NNS	_ <O>
+wishing	VBG	_ <O>
+to	TO	_ <O>
+commemorate	VB	_ <O>
+Diana	NNP	_ <O>
+'s	POS	_ <O>
+death	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+rise	NN	_ <O>
+in	IN	_ <O>
+prices	NNS	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+temporary	JJ	_ <O>
+anomaly	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+buyers	NNS	<I-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+popular	JJ	<I-CUE>
+issues	NNS	<I-CUE>
+were	VBD	_ <O>
+not	RB	_ <O>
+,	,	_ <O>
+of	IN	_ <O>
+course	NN	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+serious	JJ	_ <O>
+"	''	_ <O>
+stamp	NN	_ <O>
+collectors	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+buyers	NNS	<I-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+popular	JJ	<I-CUE>
+issues	NNS	<I-CUE>
+were	VBD	_ <O>
+not	RB	_ <O>
+,	,	_ <O>
+of	IN	_ <O>
+course	NN	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+serious	JJ	_ <O>
+"	''	_ <O>
+stamp	NN	_ <O>
+collectors	NNS	_ <O>
+.	.	_ <O>
+
+NULL

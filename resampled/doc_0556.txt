@@ -1,0 +1,74 @@
+NULL
+Certainly	RB	_ <O>
+once	IN	_ <O>
+a	DT	_ <O>
+learner	NN	_ <O>
+has	VBZ	_ <O>
+some	DT	_ <O>
+foundation	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+material	NN	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+one	PRP	_ <O>
+can	MD	_ <O>
+expect	VB	_ <O>
+them	PRP	_ <O>
+to	TO	_ <O>
+practice	VB	_ <O>
+what	WP	_ <O>
+they	PRP	_ <O>
+have	VBP	_ <O>
+learned	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Unfortunately	RB	<B-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+sad	JJ	<B-CUE>
+truth	NN	<I-CUE>
+is	VBZ	_ <O>
+that	IN	_ <O>
+most	JJS	<B-CUE>
+learners	NNS	<I-CUE>
+are	VBP	_ <O>
+essentially	RB	_ <O>
+novices	NNS	_ <O>
+,	,	_ <O>
+yet	CC	_ <O>
+many	JJ	<B-CUE>
+expect	VB	_ <O>
+them	PRP	_ <O>
+to	TO	_ <O>
+act	VB	_ <O>
+like	IN	_ <O>
+experts	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Unfortunately	RB	<B-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+sad	JJ	<B-CUE>
+truth	NN	<I-CUE>
+is	VBZ	_ <O>
+that	IN	_ <O>
+most	JJS	<B-CUE>
+learners	NNS	<I-CUE>
+are	VBP	_ <O>
+essentially	RB	_ <O>
+novices	NNS	_ <O>
+,	,	_ <O>
+yet	CC	_ <O>
+many	JJ	<B-CUE>
+expect	VB	_ <O>
+them	PRP	_ <O>
+to	TO	_ <O>
+act	VB	_ <O>
+like	IN	_ <O>
+experts	NNS	_ <O>
+.	.	_ <O>
+
+NULL

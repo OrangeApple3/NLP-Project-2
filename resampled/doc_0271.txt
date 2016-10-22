@@ -1,0 +1,112 @@
+NULL
+The	DT	_ <O>
+convention	NN	_ <O>
+that	WDT	_ <O>
+North	NNP	_ <O>
+is	VBZ	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+top	NN	_ <O>
+(	-LRB-	_ <O>
+and	CC	_ <O>
+East	NNP	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+right	NN	_ <O>
+)	-RRB-	_ <O>
+on	IN	_ <O>
+most	JJS	_ <O>
+modern	JJ	_ <O>
+maps	NNS	_ <O>
+was	VBD	_ <O>
+established	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+astronomer	NN	_ <O>
+Ptolemy	NNP	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+widely	RB	_ <O>
+adopted	VBN	_ <O>
+by	IN	_ <O>
+other	JJ	_ <O>
+cartographers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+position	NN	_ <O>
+of	IN	_ <O>
+North	NNP	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+top	NN	_ <O>
+of	IN	_ <O>
+maps	NNS	_ <O>
+is	VBZ	_ <O>
+somewhat	RB	<B-CUE>
+arbitrary	JJ	<I-CUE>
+;	:	_ <O>
+indeed	RB	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	_ <O>
+maps	NNS	_ <O>
+with	IN	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+standard	JJ	_ <O>
+orientation	NN	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Medieval	JJ	_ <O>
+maps	NNS	_ <O>
+,	,	_ <O>
+polar	JJ	_ <O>
+maps	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Dymaxion	NNP	_ <O>
+maps	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+position	NN	_ <O>
+of	IN	_ <O>
+North	NNP	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+top	NN	_ <O>
+of	IN	_ <O>
+maps	NNS	_ <O>
+is	VBZ	_ <O>
+somewhat	RB	<B-CUE>
+arbitrary	JJ	<I-CUE>
+;	:	_ <O>
+indeed	RB	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	_ <O>
+maps	NNS	_ <O>
+with	IN	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+standard	JJ	_ <O>
+orientation	NN	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Medieval	JJ	_ <O>
+maps	NNS	_ <O>
+,	,	_ <O>
+polar	JJ	_ <O>
+maps	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Dymaxion	NNP	_ <O>
+maps	NNS	_ <O>
+.	.	_ <O>
+
+NULL

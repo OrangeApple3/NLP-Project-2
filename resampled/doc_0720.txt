@@ -1,0 +1,108 @@
+'	``	_ <O>
+Power	NN	_ <O>
+noise	NN	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+also	RB	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+rhythmic	JJ	_ <O>
+noise	NN	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+takes	VBZ	_ <O>
+its	PRP$	_ <O>
+inspiration	NN	_ <O>
+from	IN	_ <O>
+some	DT	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+more	RBR	_ <O>
+structured	JJ	_ <O>
+and	CC	_ <O>
+distorted	JJ	_ <O>
+early	JJ	_ <O>
+industrial	JJ	_ <O>
+acts	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Esplendor	NNP	_ <O>
+Geométrico	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Access	NN	_ <O>
+date	NN	_ <O>
+:	:	_ <O>
+August	NNP	_ <O>
+8	CD	_ <O>
+,	,	_ <O>
+2008	CD	_ <O>
+.	.	_ <O>
+Typically	RB	_ <O>
+,	,	_ <O>
+power	NN	_ <O>
+noise	NN	_ <O>
+is	VBZ	_ <O>
+based	VBN	_ <O>
+upon	IN	_ <O>
+a	DT	_ <O>
+distorted	VBN	_ <O>
+kick	NN	_ <O>
+drum	NN	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+drum	NN	_ <O>
+machine	NN	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+Roland	NNP	_ <O>
+TR-909	NNP	_ <O>
+,	,	_ <O>
+uses	VBZ	_ <O>
+militaristic	JJ	_ <O>
+4/4	CD	_ <O>
+beats	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+instrumental	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Power	NN	_ <O>
+noise	NN	_ <O>
+groups	NNS	_ <O>
+meld	VBP	_ <O>
+noise	NN	_ <O>
+music	NN	_ <O>
+with	IN	_ <O>
+various	JJ	<B-CUE>
+forms	NNS	<I-CUE>
+of	IN	_ <O>
+electronic	JJ	_ <O>
+dance	NN	_ <O>
+music	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Power	NN	_ <O>
+noise	NN	_ <O>
+groups	NNS	_ <O>
+meld	VBP	_ <O>
+noise	NN	_ <O>
+music	NN	_ <O>
+with	IN	_ <O>
+various	JJ	<B-CUE>
+forms	NNS	<I-CUE>
+of	IN	_ <O>
+electronic	JJ	_ <O>
+dance	NN	_ <O>
+music	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,44 @@
+NULL
+The	DT	_ <O>
+most	RBS	_ <O>
+common	JJ	_ <O>
+usage	NN	_ <O>
+of	IN	_ <O>
+Oscar	NNP	_ <O>
+is	VBZ	_ <O>
+for	IN	_ <O>
+warez	NN	_ <O>
+software	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Updates	NNS	_ <O>
+for	IN	_ <O>
+serial	JJ	_ <O>
+database	NN	_ <O>
+software	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+found	VBN	_ <O>
+on	IN	_ <O>
+many	JJ	<B-CUE>
+Internet	NN	<I-CUE>
+sites	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Updates	NNS	_ <O>
+for	IN	_ <O>
+serial	JJ	_ <O>
+database	NN	_ <O>
+software	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+found	VBN	_ <O>
+on	IN	_ <O>
+many	JJ	<B-CUE>
+Internet	NN	<I-CUE>
+sites	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

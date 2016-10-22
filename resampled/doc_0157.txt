@@ -1,0 +1,113 @@
+NULL
+During	IN	_ <O>
+colonial	JJ	_ <O>
+times	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Pine	NNP	_ <O>
+Barrens	NNP	_ <O>
+was	VBD	_ <O>
+home	RB	_ <O>
+to	IN	_ <O>
+various	JJ	_ <O>
+industries	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Ghost	NN	_ <O>
+towns—remnants	NNS	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+industries—can	NNS	_ <O>
+still	RB	_ <O>
+be	VB	_ <O>
+found	VBN	_ <O>
+at	IN	_ <O>
+various	JJ	_ <O>
+locations	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+one	CD	_ <O>
+,	,	_ <O>
+Batsto	NNP	_ <O>
+Village	NNP	_ <O>
+,	,	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+restored	VBN	_ <O>
+to	IN	_ <O>
+its	PRP$	_ <O>
+mid-19th	JJ	_ <O>
+century	NN	_ <O>
+state	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Bog	NNP	_ <O>
+iron	NN	_ <O>
+was	VBD	_ <O>
+mined	VBN	_ <O>
+from	IN	_ <O>
+bogs	NNS	_ <O>
+,	,	_ <O>
+streams	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+waterways	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+worked	VBN	_ <O>
+in	IN	_ <O>
+furnaces	NNS	_ <O>
+at	IN	_ <O>
+Batsto	NNP	_ <O>
+,	,	_ <O>
+Lake	NNP	_ <O>
+Atsion	NNP	_ <O>
+,	,	_ <O>
+Ferrago	NNP	_ <O>
+,	,	_ <O>
+Hanover	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+several	JJ	<B-CUE>
+other	JJ	<I-CUE>
+locations	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Bog	NNP	_ <O>
+iron	NN	_ <O>
+was	VBD	_ <O>
+mined	VBN	_ <O>
+from	IN	_ <O>
+bogs	NNS	_ <O>
+,	,	_ <O>
+streams	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+waterways	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+worked	VBN	_ <O>
+in	IN	_ <O>
+furnaces	NNS	_ <O>
+at	IN	_ <O>
+Batsto	NNP	_ <O>
+,	,	_ <O>
+Lake	NNP	_ <O>
+Atsion	NNP	_ <O>
+,	,	_ <O>
+Ferrago	NNP	_ <O>
+,	,	_ <O>
+Hanover	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+several	JJ	<B-CUE>
+other	JJ	<I-CUE>
+locations	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

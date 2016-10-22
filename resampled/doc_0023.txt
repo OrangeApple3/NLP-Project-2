@@ -1,0 +1,25 @@
+NULL
+Intertwined	VBN	_ <O>
+in	IN	_ <O>
+these	DT	_ <O>
+four	CD	_ <O>
+layers	NNS	_ <O>
+are	VBP	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Aiding	VBG	_ <O>
+in	IN	_ <O>
+identifying	VBG	_ <O>
+people	NNS	_ <O>
+as	IN	_ <O>
+known	VBN	_ <O>
+versus	IN	_ <O>
+unknown	JJ	_ <O>
+are	VBP	_ <O>
+identification	NN	_ <O>
+systems	NNS	_ <O>
+.	.	_ <O>
+
+NULL

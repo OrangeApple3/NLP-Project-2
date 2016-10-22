@@ -1,0 +1,80 @@
+NULL
+They	PRP	_ <O>
+may	MD	_ <O>
+also	RB	_ <O>
+contain	VB	_ <O>
+perfume	NN	_ <O>
+and	CC	_ <O>
+coloring	VBG	_ <O>
+agents	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	<B-CUE>
+pomades	NNS	<I-CUE>
+contain	VBP	_ <O>
+petroleum	NN	_ <O>
+jelly	NN	_ <O>
+(	-LRB-	_ <O>
+in	IN	_ <O>
+fact	NN	_ <O>
+,	,	_ <O>
+petroleum	NN	_ <O>
+jelly	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+used	VBN	_ <O>
+alone	RB	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+pomade	NN	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+mineral	NN	_ <O>
+oil	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+also	RB	_ <O>
+contain	VBP	_ <O>
+some	DT	_ <O>
+sort	NN	_ <O>
+of	IN	_ <O>
+wax	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	<B-CUE>
+pomades	NNS	<I-CUE>
+contain	VBP	_ <O>
+petroleum	NN	_ <O>
+jelly	NN	_ <O>
+(	-LRB-	_ <O>
+in	IN	_ <O>
+fact	NN	_ <O>
+,	,	_ <O>
+petroleum	NN	_ <O>
+jelly	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+used	VBN	_ <O>
+alone	RB	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+pomade	NN	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+mineral	NN	_ <O>
+oil	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+also	RB	_ <O>
+contain	VBP	_ <O>
+some	DT	_ <O>
+sort	NN	_ <O>
+of	IN	_ <O>
+wax	NN	_ <O>
+.	.	_ <O>
+
+NULL

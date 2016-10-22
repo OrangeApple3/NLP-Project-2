@@ -1,0 +1,179 @@
+The	DT	_ <O>
+parliament	NN	_ <O>
+has	VBZ	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+equal	JJ	_ <O>
+and	CC	_ <O>
+common	JJ	_ <O>
+suffrage	NN	_ <O>
+was	VBD	_ <O>
+introduced	VBN	_ <O>
+in	IN	_ <O>
+1906	CD	_ <O>
+,	,	_ <O>
+been	VBN	_ <O>
+dominated	VBN	_ <O>
+by	IN	_ <O>
+secular	JJ	_ <O>
+Conservatives	NNPS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Centre	NNP	_ <O>
+Party	NNP	_ <O>
+(	-LRB-	_ <O>
+former	JJ	_ <O>
+Agrarian	NNP	_ <O>
+Union	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Social	NNP	_ <O>
+Democrats	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+Nevertheless	RB	_ <O>
+,	,	_ <O>
+none	NN	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+has	VBZ	_ <O>
+held	VBN	_ <O>
+a	DT	_ <O>
+single	JJ	_ <O>
+-	HYPH	_ <O>
+party	NN	_ <O>
+majority	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+notable	JJ	_ <O>
+exception	NN	_ <O>
+of	IN	_ <O>
+1916	CD	_ <O>
+elections	NNS	_ <O>
+where	WRB	_ <O>
+Social	NNP	_ <O>
+Democrats	NNPS	_ <O>
+gained	VBD	_ <O>
+103	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+200	CD	_ <O>
+seats	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+1944	CD	_ <O>
+Communists	NNPS	_ <O>
+were	VBD	_ <O>
+a	DT	_ <O>
+factor	NN	_ <O>
+to	TO	_ <O>
+consider	VB	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+decades	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Finnish	NNP	_ <O>
+People	NNPS	_ <O>
+'s	POS	_ <O>
+Democratic	NNP	_ <O>
+League	NNP	_ <O>
+,	,	_ <O>
+formed	VBN	_ <O>
+by	IN	_ <O>
+Communists	NNPS	_ <O>
+and	CC	_ <O>
+others	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+left	NN	_ <O>
+of	IN	_ <O>
+Social	NNP	_ <O>
+Democrats	NNPS	_ <O>
+,	,	_ <O>
+even	RB	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+largest	JJS	_ <O>
+party	NN	_ <O>
+after	IN	_ <O>
+1958	CD	_ <O>
+elections	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+relative	JJ	_ <O>
+strengths	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+parties	NNS	_ <O>
+vary	VBP	_ <O>
+only	RB	_ <O>
+slightly	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+elections	NNS	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+proportional	JJ	_ <O>
+election	NN	_ <O>
+from	IN	_ <O>
+multi	JJ	_ <O>
+-	HYPH	_ <O>
+member	NN	_ <O>
+districts	NNS	_ <O>
+but	CC	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+some	DT	<B-CUE>
+visible	JJ	<I-CUE>
+long	JJ	<I-CUE>
+-	HYPH	<I-CUE>
+term	NN	<I-CUE>
+trends	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+relative	JJ	_ <O>
+strengths	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+parties	NNS	_ <O>
+vary	VBP	_ <O>
+only	RB	_ <O>
+slightly	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+elections	NNS	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+proportional	JJ	_ <O>
+election	NN	_ <O>
+from	IN	_ <O>
+multi	JJ	_ <O>
+-	HYPH	_ <O>
+member	NN	_ <O>
+districts	NNS	_ <O>
+but	CC	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+some	DT	<B-CUE>
+visible	JJ	<I-CUE>
+long	JJ	<I-CUE>
+-	HYPH	<I-CUE>
+term	NN	<I-CUE>
+trends	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

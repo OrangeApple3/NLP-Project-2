@@ -1,0 +1,116 @@
+NULL
+There	EX	_ <O>
+is	VBZ	_ <O>
+no	DT	_ <O>
+skill	NN	_ <O>
+level	NN	_ <O>
+bias	NN	_ <O>
+in	IN	_ <O>
+these	DT	_ <O>
+tournaments	NNS	_ <O>
+,	,	_ <O>
+everyone	NN	_ <O>
+is	VBZ	_ <O>
+eligible	JJ	_ <O>
+to	TO	_ <O>
+sign	VB	_ <O>
+up	RP	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+popular	JJ	_ <O>
+demand	NN	_ <O>
+signing	VBG	_ <O>
+up	RP	_ <O>
+early	RB	_ <O>
+becomes	VBZ	_ <O>
+very	RB	_ <O>
+essential	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+tournaments	NNS	_ <O>
+may	MD	_ <O>
+have	VB	_ <O>
+rules	NNS	_ <O>
+but	CC	_ <O>
+are	VBP	_ <O>
+still	RB	_ <O>
+purposed	VBN	_ <O>
+for	IN	_ <O>
+enjoyment	NN	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	<B-CUE>
+Pond	NNP	<I-CUE>
+hockey	NN	<I-CUE>
+tournaments	NNS	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+and	CC	_ <O>
+Canada	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+tournaments	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+covered	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+news	NN	<I-CUE>
+stations	NNS	<I-CUE>
+they	PRP	_ <O>
+have	VBP	_ <O>
+also	RB	_ <O>
+been	VBN	_ <O>
+headlines	NNS	_ <O>
+on	IN	_ <O>
+many	JJ	<B-CUE>
+newspapers	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	<B-CUE>
+Pond	NNP	<I-CUE>
+hockey	NN	<I-CUE>
+tournaments	NNS	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+and	CC	_ <O>
+Canada	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+tournaments	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+covered	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+news	NN	<I-CUE>
+stations	NNS	<I-CUE>
+they	PRP	_ <O>
+have	VBP	_ <O>
+also	RB	_ <O>
+been	VBN	_ <O>
+headlines	NNS	_ <O>
+on	IN	_ <O>
+many	JJ	<B-CUE>
+newspapers	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

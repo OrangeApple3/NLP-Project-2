@@ -1,0 +1,11 @@
+Weber	NNP	_ <O>
+received	VBD	_ <O>
+the	DT	_ <O>
+Thorne	NNP	_ <O>
+Music	NNP	_ <O>
+Award	NNP	_ <O>
+in	IN	_ <O>
+1965	CD	_ <O>
+.	.	_ <O>
+
+NULL

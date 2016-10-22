@@ -1,0 +1,42 @@
+William	NNP	_ <O>
+Barrett	NNP	_ <O>
+went	VBD	_ <O>
+missing	VBG	_ <O>
+on	IN	_ <O>
+May	NNP	_ <O>
+16	CD	_ <O>
+,	,	_ <O>
+1981	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+his	PRP$	_ <O>
+body	NN	_ <O>
+was	VBD	_ <O>
+found	VBN	_ <O>
+close	RB	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+home	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Atlanta	NNP	_ <O>
+Child	NNP	_ <O>
+Killer	NNP	_ <O>
+'s	POS	_ <O>
+last	JJ	_ <O>
+known	VBN	_ <O>
+victim	NN	_ <O>
+was	VBD	_ <O>
+Nathaniel	NNP	_ <O>
+Cater	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+was	VBD	_ <O>
+27	CD	_ <O>
+years	NNS	_ <O>
+old	JJ	_ <O>
+.	.	_ <O>
+
+NULL

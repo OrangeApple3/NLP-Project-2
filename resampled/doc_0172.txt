@@ -1,0 +1,58 @@
+This	DT	_ <O>
+shopping	NN	_ <O>
+center	NN	_ <O>
+also	RB	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+retail	JJ	_ <O>
+building	NN	_ <O>
+built	VBN	_ <O>
+suited	JJ	_ <O>
+for	IN	_ <O>
+several	JJ	_ <O>
+tenants	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+popular	JJ	_ <O>
+teen	NN	_ <O>
+nightclub	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Electric	NNP	_ <O>
+Cowboy	NNP	_ <O>
+,	,	_ <O>
+also	RB	_ <O>
+opened	VBN	_ <O>
+in	IN	_ <O>
+2007	CD	_ <O>
+near	IN	_ <O>
+the	DT	_ <O>
+corner	NN	_ <O>
+of	IN	_ <O>
+Dixie	NNP	_ <O>
+Highway	NNP	_ <O>
+and	CC	_ <O>
+Greenwood	NNP	_ <O>
+Road	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+club	NN	_ <O>
+opened	VBD	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+newly	RB	_ <O>
+built	VBN	_ <O>
+retail	JJ	_ <O>
+center	NN	_ <O>
+that	WDT	_ <O>
+houses	VBZ	_ <O>
+several	JJ	_ <O>
+other	JJ	_ <O>
+tenants	NNS	_ <O>
+.	.	_ <O>
+
+NULL

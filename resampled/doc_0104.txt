@@ -1,0 +1,102 @@
+NULL
+The	DT	_ <O>
+body	NN	_ <O>
+of	IN	_ <O>
+electors	NNS	_ <O>
+was	VBD	_ <O>
+more	RBR	_ <O>
+precisely	RB	_ <O>
+defined	VBN	_ <O>
+when	WRB	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+1059	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+College	NNP	_ <O>
+of	IN	_ <O>
+Cardinals	NNPS	_ <O>
+was	VBD	_ <O>
+designated	VBN	_ <O>
+the	DT	_ <O>
+sole	JJ	_ <O>
+body	NN	_ <O>
+of	IN	_ <O>
+electors	NNS	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL
+At	IN	_ <O>
+the	DT	_ <O>
+Lateran	NNP	_ <O>
+Synod	NNP	_ <O>
+of	IN	_ <O>
+13	CD	_ <O>
+April	NNP	_ <O>
+1059	CD	_ <O>
+Nicholas	NNP	_ <O>
+II	NNP	_ <O>
+decreed	VBZ	_ <O>
+(	-LRB-	_ <O>
+In	IN	_ <O>
+nomine	NN	_ <O>
+Domini	NNP	_ <O>
+)	-RRB-	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+pope	NN	_ <O>
+is	VBZ	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+elected	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+six	CD	_ <O>
+cardinal	JJ	_ <O>
+bishops	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+two	CD	_ <O>
+-	HYPH	_ <O>
+thirds	NNS	_ <O>
+majority	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+electorate	NN	_ <O>
+is	VBZ	_ <O>
+required	VBN	_ <O>
+to	TO	_ <O>
+elect	VB	_ <O>
+the	DT	_ <O>
+new	JJ	_ <O>
+pope	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Since	IN	_ <O>
+then	RB	_ <O>
+other	JJ	<B-CUE>
+details	NNS	<I-CUE>
+of	IN	_ <O>
+the	DT	_ <O>
+process	NN	_ <O>
+have	VBP	_ <O>
+developed	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Since	IN	_ <O>
+then	RB	_ <O>
+other	JJ	<B-CUE>
+details	NNS	<I-CUE>
+of	IN	_ <O>
+the	DT	_ <O>
+process	NN	_ <O>
+have	VBP	_ <O>
+developed	VBN	_ <O>
+.	.	_ <O>
+
+NULL

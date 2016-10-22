@@ -1,0 +1,93 @@
+NULL
+On	IN	_ <O>
+the	DT	_ <O>
+morning	NN	_ <O>
+of	IN	_ <O>
+September	NNP	_ <O>
+17	CD	_ <O>
+,	,	_ <O>
+around	IN	_ <O>
+1000	CD	_ <O>
+people	NNS	_ <O>
+gathered	VBD	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+Spasskiye	NNP	_ <O>
+gates	NNS	_ <O>
+again	RB	_ <O>
+,	,	_ <O>
+demanding	VBG	_ <O>
+the	DT	_ <O>
+release	NN	_ <O>
+of	IN	_ <O>
+captured	VBN	_ <O>
+rebels	NNS	_ <O>
+and	CC	_ <O>
+elimination	NN	_ <O>
+of	IN	_ <O>
+quarantines	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	_ <O>
+300	CD	_ <O>
+people	NNS	_ <O>
+were	VBD	_ <O>
+brought	VBN	_ <O>
+to	IN	_ <O>
+trial	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+took	VBD	_ <O>
+some	DT	<B-CUE>
+measures	NNS	<I-CUE>
+against	IN	_ <O>
+the	DT	_ <O>
+plague	NN	_ <O>
+and	CC	_ <O>
+provided	VBN	_ <O>
+citizens	NNS	_ <O>
+with	IN	_ <O>
+work	NN	_ <O>
+and	CC	_ <O>
+food	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+would	MD	_ <O>
+finally	RB	_ <O>
+pacify	VB	_ <O>
+the	DT	_ <O>
+people	NNS	_ <O>
+of	IN	_ <O>
+Moscow	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+took	VBD	_ <O>
+some	DT	<B-CUE>
+measures	NNS	<I-CUE>
+against	IN	_ <O>
+the	DT	_ <O>
+plague	NN	_ <O>
+and	CC	_ <O>
+provided	VBN	_ <O>
+citizens	NNS	_ <O>
+with	IN	_ <O>
+work	NN	_ <O>
+and	CC	_ <O>
+food	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+would	MD	_ <O>
+finally	RB	_ <O>
+pacify	VB	_ <O>
+the	DT	_ <O>
+people	NNS	_ <O>
+of	IN	_ <O>
+Moscow	NNP	_ <O>
+.	.	_ <O>
+
+NULL

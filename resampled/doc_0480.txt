@@ -1,0 +1,43 @@
+NULL
+The	DT	_ <O>
+shows	NNS	_ <O>
+usually	RB	_ <O>
+featured	VBD	_ <O>
+opening	NN	_ <O>
+performances	NNS	_ <O>
+by	IN	_ <O>
+Wagoner	NNP	_ <O>
+with	IN	_ <O>
+performances	NNS	_ <O>
+by	IN	_ <O>
+Jean	NNP	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+later	RB	_ <O>
+Parton	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+comedic	JJ	_ <O>
+interludes	NNS	_ <O>
+by	IN	_ <O>
+Rhodes	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Each	DT	_ <O>
+episode	NN	_ <O>
+also	RB	_ <O>
+featured	VBD	_ <O>
+a	DT	_ <O>
+guest	NN	_ <O>
+who	WP	_ <O>
+would	MD	_ <O>
+usually	RB	_ <O>
+perform	VB	_ <O>
+one	CD	_ <O>
+or	CC	_ <O>
+two	CD	_ <O>
+songs	NNS	_ <O>
+.	.	_ <O>
+
+NULL

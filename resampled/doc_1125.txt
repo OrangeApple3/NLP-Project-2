@@ -1,0 +1,53 @@
+NULL
+Plaintext	NNP	_ <O>
+has	VBZ	_ <O>
+reference	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+operation	NN	_ <O>
+of	IN	_ <O>
+cryptographic	JJ	_ <O>
+algorithms	NNS	_ <O>
+,	,	_ <O>
+usually	RB	_ <O>
+encryption	NN	_ <O>
+algorithms	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+input	NN	_ <O>
+upon	IN	_ <O>
+which	WDT	_ <O>
+they	PRP	_ <O>
+operate	VBP	_ <O>
+.	.	_ <O>
+
+NULL
+Basically	RB	_ <O>
+,	,	_ <O>
+any	DT	_ <O>
+information	NN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+communicating	VBG	_ <O>
+parties	NNS	_ <O>
+wish	VBP	_ <O>
+to	TO	_ <O>
+conceal	VB	_ <O>
+from	IN	_ <O>
+others	NNS	_ <O>
+can	MD	_ <O>
+now	RB	_ <O>
+be	VB	_ <O>
+treated	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+referred	VBD	_ <O>
+to	IN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+plaintext	NN	_ <O>
+.	.	_ <O>
+
+NULL

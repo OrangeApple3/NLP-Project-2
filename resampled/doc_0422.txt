@@ -1,0 +1,196 @@
+NULL
+Reagan	NNP	_ <O>
+and	CC	_ <O>
+Levin	NNP	_ <O>
+came	VBD	_ <O>
+from	IN	_ <O>
+rightist	JJ	_ <O>
+backgrounds	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Moynihan	NNP	_ <O>
+,	,	_ <O>
+much	RB	_ <O>
+like	IN	_ <O>
+the	DT	_ <O>
+leaders	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+AFL	NNP	_ <O>
+-	HYPH	_ <O>
+CIO	NNP	_ <O>
+,	,	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+leftist	JJ	_ <O>
+anti	JJ	_ <O>
+-	HYPH	_ <O>
+Stalinist	JJ	_ <O>
+social	JJ	_ <O>
+-	HYPH	_ <O>
+democratic	JJ	_ <O>
+milieu	NN	_ <O>
+,	,	_ <O>
+environments	NNS	_ <O>
+that	WDT	_ <O>
+disposed	VBD	_ <O>
+participants	NNS	_ <O>
+to	TO	_ <O>
+believe	VB	_ <O>
+the	DT	_ <O>
+worst	JJS	_ <O>
+.	.	_ <O>
+
+NULL
+"	``	_ <O>
+Given	VBN	_ <O>
+these	DT	_ <O>
+judgments	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Soviet	NNP	_ <O>
+future	NN	_ <O>
+made	VBN	_ <O>
+by	IN	_ <O>
+political	JJ	<B-CUE>
+leaders	NNS	<I-CUE>
+and	CC	_ <O>
+journalists	NNS	<B-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+question	NN	_ <O>
+is	VBZ	_ <O>
+why	WRB	_ <O>
+were	VBD	_ <O>
+they	PRP	<B-CUE>
+right	RB	_ <O>
+and	CC	_ <O>
+so	RB	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+our	PRP$	<I-CUE>
+Sovietological	JJ	<I-CUE>
+colleagues	NNS	<I-CUE>
+wrong	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+Sovietologists	NNS	<I-CUE>
+,	,	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+hand	NN	_ <O>
+,	,	_ <O>
+were	VBD	_ <O>
+left	VBN	_ <O>
+-	HYPH	_ <O>
+liberal	NN	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+politics	NNS	_ <O>
+,	,	_ <O>
+an	DT	_ <O>
+orientation	NN	_ <O>
+that	WDT	_ <O>
+undermined	VBD	_ <O>
+their	PRP$	_ <O>
+capacity	NN	_ <O>
+to	TO	_ <O>
+accept	VB	_ <O>
+the	DT	_ <O>
+view	NN	_ <O>
+that	IN	_ <O>
+economic	JJ	_ <O>
+statism	NN	_ <O>
+,	,	_ <O>
+planning	NN	_ <O>
+,	,	_ <O>
+socialist	JJ	_ <O>
+incentives	NNS	_ <O>
+,	,	_ <O>
+would	MD	_ <O>
+not	RB	_ <O>
+work	VB	_ <O>
+.	.	_ <O>
+
+NULL
+"	``	_ <O>
+Given	VBN	_ <O>
+these	DT	_ <O>
+judgments	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Soviet	NNP	_ <O>
+future	NN	_ <O>
+made	VBN	_ <O>
+by	IN	_ <O>
+political	JJ	<B-CUE>
+leaders	NNS	<I-CUE>
+and	CC	_ <O>
+journalists	NNS	<B-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+question	NN	_ <O>
+is	VBZ	_ <O>
+why	WRB	_ <O>
+were	VBD	_ <O>
+they	PRP	<B-CUE>
+right	RB	_ <O>
+and	CC	_ <O>
+so	RB	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+our	PRP$	<I-CUE>
+Sovietological	JJ	<I-CUE>
+colleagues	NNS	<I-CUE>
+wrong	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+Sovietologists	NNS	<I-CUE>
+,	,	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+hand	NN	_ <O>
+,	,	_ <O>
+were	VBD	_ <O>
+left	VBN	_ <O>
+-	HYPH	_ <O>
+liberal	NN	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+politics	NNS	_ <O>
+,	,	_ <O>
+an	DT	_ <O>
+orientation	NN	_ <O>
+that	WDT	_ <O>
+undermined	VBD	_ <O>
+their	PRP$	_ <O>
+capacity	NN	_ <O>
+to	TO	_ <O>
+accept	VB	_ <O>
+the	DT	_ <O>
+view	NN	_ <O>
+that	IN	_ <O>
+economic	JJ	_ <O>
+statism	NN	_ <O>
+,	,	_ <O>
+planning	NN	_ <O>
+,	,	_ <O>
+socialist	JJ	_ <O>
+incentives	NNS	_ <O>
+,	,	_ <O>
+would	MD	_ <O>
+not	RB	_ <O>
+work	VB	_ <O>
+.	.	_ <O>
+
+NULL

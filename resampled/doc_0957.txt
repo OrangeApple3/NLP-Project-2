@@ -1,0 +1,44 @@
+She	PRP	_ <O>
+returned	VBD	_ <O>
+to	IN	_ <O>
+London	NNP	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+fourth	JJ	_ <O>
+season	NN	_ <O>
+at	IN	_ <O>
+Covent	NNP	_ <O>
+Garden	NNP	_ <O>
+in	IN	_ <O>
+1875	CD	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+the	DT	_ <O>
+season	NN	_ <O>
+,	,	_ <O>
+she	PRP	_ <O>
+performed	VBD	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+Norwich	NNP	_ <O>
+festival	NN	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+she	PRP	_ <O>
+sang	VBD	_ <O>
+Mendelssohn	NNP	_ <O>
+'s	POS	_ <O>
+Hymn	NNP	_ <O>
+of	IN	_ <O>
+Praise	NNP	_ <O>
+and	CC	_ <O>
+Julius	NNP	_ <O>
+Benedict	NNP	_ <O>
+'s	POS	_ <O>
+St.	NNP	_ <O>
+Cecilia	NNP	_ <O>
+.	.	_ <O>
+
+NULL

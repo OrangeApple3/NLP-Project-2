@@ -1,0 +1,249 @@
+Inline	NNP	_ <O>
+replying	VBG	_ <O>
+was	VBD	_ <O>
+also	RB	_ <O>
+originally	RB	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+all	DT	_ <O>
+e	NN	_ <O>
+-	HYPH	_ <O>
+mail	NN	_ <O>
+(	-LRB-	_ <O>
+because	IN	_ <O>
+such	JJ	_ <O>
+users	NNS	_ <O>
+had	VBD	_ <O>
+come	VBN	_ <O>
+from	IN	_ <O>
+Usenet	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+most	JJS	_ <O>
+users	NNS	_ <O>
+and	CC	_ <O>
+providers	NNS	_ <O>
+have	VBP	_ <O>
+abandoned	VBN	_ <O>
+(	-LRB-	_ <O>
+or	CC	_ <O>
+never	RB	_ <O>
+got	VBD	_ <O>
+used	VBN	_ <O>
+to	TO	_ <O>
+)	-RRB-	_ <O>
+this	DT	_ <O>
+style	NN	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	_ <O>
+possible	JJ	<B-CUE>
+reason	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+large	JJ	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+casual	JJ	_ <O>
+e	NN	_ <O>
+-	HYPH	_ <O>
+mail	NN	_ <O>
+users	NNS	_ <O>
+that	WDT	_ <O>
+entered	VBD	_ <O>
+the	DT	_ <O>
+scene	NN	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+popularization	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+internet	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Another	DT	_ <O>
+possible	JJ	<B-CUE>
+reason	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+inadequate	JJ	_ <O>
+support	NN	_ <O>
+provided	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+reply	NN	_ <O>
+function	NN	_ <O>
+of	IN	_ <O>
+some	DT	<B-CUE>
+webmail	NN	<I-CUE>
+readers	NNS	<I-CUE>
+which	WDT	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+automatically	RB	_ <O>
+insert	VB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+reply	NN	_ <O>
+a	DT	_ <O>
+copy	NN	_ <O>
+the	DT	_ <O>
+original	JJ	_ <O>
+message	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+do	VB	_ <O>
+so	RB	_ <O>
+but	CC	_ <O>
+without	IN	_ <O>
+any	DT	_ <O>
+quoting	VBG	_ <O>
+prefix	NN	_ <O>
+level	NN	_ <O>
+indicators	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Finally	RB	_ <O>
+,	,	_ <O>
+most	JJS	<B-CUE>
+forums	NNS	<I-CUE>
+,	,	<I-CUE>
+wiki	JJ	<I-CUE>
+discussion	NN	<I-CUE>
+pages	NNS	<I-CUE>
+,	,	<I-CUE>
+and	CC	<I-CUE>
+blogs	NNS	<I-CUE>
+(	-LRB-	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Slashdot	NNP	_ <O>
+)	-RRB-	_ <O>
+essentially	RB	_ <O>
+impose	VB	_ <O>
+the	DT	_ <O>
+bottom	NN	_ <O>
+-	HYPH	_ <O>
+post	NN	_ <O>
+format	NN	_ <O>
+,	,	_ <O>
+by	IN	_ <O>
+displaying	VBG	_ <O>
+all	DT	_ <O>
+recent	JJ	_ <O>
+messages	NNS	_ <O>
+in	IN	_ <O>
+chronological	JJ	_ <O>
+order	NN	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	_ <O>
+possible	JJ	<B-CUE>
+reason	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+large	JJ	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+casual	JJ	_ <O>
+e	NN	_ <O>
+-	HYPH	_ <O>
+mail	NN	_ <O>
+users	NNS	_ <O>
+that	WDT	_ <O>
+entered	VBD	_ <O>
+the	DT	_ <O>
+scene	NN	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+popularization	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+internet	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Another	DT	_ <O>
+possible	JJ	<B-CUE>
+reason	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+inadequate	JJ	_ <O>
+support	NN	_ <O>
+provided	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+reply	NN	_ <O>
+function	NN	_ <O>
+of	IN	_ <O>
+some	DT	<B-CUE>
+webmail	NN	<I-CUE>
+readers	NNS	<I-CUE>
+which	WDT	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+automatically	RB	_ <O>
+insert	VB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+reply	NN	_ <O>
+a	DT	_ <O>
+copy	NN	_ <O>
+the	DT	_ <O>
+original	JJ	_ <O>
+message	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+do	VB	_ <O>
+so	RB	_ <O>
+but	CC	_ <O>
+without	IN	_ <O>
+any	DT	_ <O>
+quoting	VBG	_ <O>
+prefix	NN	_ <O>
+level	NN	_ <O>
+indicators	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Finally	RB	_ <O>
+,	,	_ <O>
+most	JJS	<B-CUE>
+forums	NNS	<I-CUE>
+,	,	<I-CUE>
+wiki	JJ	<I-CUE>
+discussion	NN	<I-CUE>
+pages	NNS	<I-CUE>
+,	,	<I-CUE>
+and	CC	<I-CUE>
+blogs	NNS	<I-CUE>
+(	-LRB-	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Slashdot	NNP	_ <O>
+)	-RRB-	_ <O>
+essentially	RB	_ <O>
+impose	VB	_ <O>
+the	DT	_ <O>
+bottom	NN	_ <O>
+-	HYPH	_ <O>
+post	NN	_ <O>
+format	NN	_ <O>
+,	,	_ <O>
+by	IN	_ <O>
+displaying	VBG	_ <O>
+all	DT	_ <O>
+recent	JJ	_ <O>
+messages	NNS	_ <O>
+in	IN	_ <O>
+chronological	JJ	_ <O>
+order	NN	_ <O>
+.	.	_ <O>
+
+NULL

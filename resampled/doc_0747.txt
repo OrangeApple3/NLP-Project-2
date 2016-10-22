@@ -1,0 +1,133 @@
+Pius	NNP	_ <O>
+IX	NNP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+patron	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+arts	NNS	_ <O>
+like	IN	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+predecessors	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+generously	RB	_ <O>
+supported	VBD	_ <O>
+all	DT	_ <O>
+expressions	NNS	_ <O>
+of	IN	_ <O>
+art	NN	_ <O>
+,	,	_ <O>
+architecture	NN	_ <O>
+,	,	_ <O>
+painting	NN	_ <O>
+,	,	_ <O>
+sculpture	NN	_ <O>
+,	,	_ <O>
+music	NN	_ <O>
+,	,	_ <O>
+goldsmiths	NNS	_ <O>
+,	,	_ <O>
+coppersmiths	NNS	_ <O>
+and	CC	_ <O>
+more	JJR	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+handed	VBD	_ <O>
+out	RP	_ <O>
+numerous	JJ	_ <O>
+rewards	NNS	_ <O>
+to	IN	_ <O>
+its	PRP$	_ <O>
+representatives	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Saint	NNP	_ <O>
+Peter	NNP	_ <O>
+'s	POS	_ <O>
+Basilica	NNP	_ <O>
+got	VBD	_ <O>
+numerous	JJ	_ <O>
+improvements	NNS	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+existing	VBG	_ <O>
+marble	JJ	_ <O>
+floors	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+statues	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Apostle	NNP	_ <O>
+Peter	NNP	_ <O>
+and	CC	_ <O>
+Apostle	NNP	_ <O>
+Paul	NNP	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+Plaza	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Much	JJ	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+efforts	NNS	_ <O>
+were	VBD	_ <O>
+oriented	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Roman	JJ	_ <O>
+Churches	NNP	_ <O>
+but	CC	_ <O>
+also	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Papal	NNP	_ <O>
+States	NNP	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+which	WDT	<I-CUE>
+were	VBD	_ <O>
+renovated	VBN	_ <O>
+and	CC	_ <O>
+improved	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Much	JJ	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+efforts	NNS	_ <O>
+were	VBD	_ <O>
+oriented	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Roman	JJ	_ <O>
+Churches	NNP	_ <O>
+but	CC	_ <O>
+also	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Papal	NNP	_ <O>
+States	NNP	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+which	WDT	<I-CUE>
+were	VBD	_ <O>
+renovated	VBN	_ <O>
+and	CC	_ <O>
+improved	VBN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,45 @@
+NULL
+Fuel	NN	_ <O>
+elements	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+plates	NNS	_ <O>
+or	CC	_ <O>
+rods	NNS	_ <O>
+with	IN	_ <O>
+8.5	CD	_ <O>
+%	NN	_ <O>
+to	IN	_ <O>
+45	CD	_ <O>
+%	NN	_ <O>
+uranium	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Beryllium	NN	_ <O>
+and	CC	_ <O>
+graphite	NN	_ <O>
+blocks	NNS	_ <O>
+or	CC	_ <O>
+plates	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+added	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+core	NN	_ <O>
+as	IN	_ <O>
+neutron	NN	_ <O>
+reflectors	NNS	_ <O>
+and	CC	_ <O>
+neutron	NN	_ <O>
+absorbing	VBG	_ <O>
+rods	NNS	_ <O>
+pierce	VB	_ <O>
+the	DT	_ <O>
+core	NN	_ <O>
+for	IN	_ <O>
+control	NN	_ <O>
+.	.	_ <O>
+
+NULL

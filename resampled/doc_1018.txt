@@ -1,0 +1,35 @@
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+protective	JJ	_ <O>
+reflex	NN	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+considered	VBN	_ <O>
+parafunctional	JJ	_ <O>
+:	:	_ <O>
+over	IN	_ <O>
+clenching	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+not	RB	_ <O>
+,	,	_ <O>
+during	IN	_ <O>
+process	NN	_ <O>
+,	,	_ <O>
+some	DT	_ <O>
+tooth	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+improperly	RB	_ <O>
+overloaded	VBN	_ <O>
+causing	VBG	_ <O>
+fractures	NNS	_ <O>
+.	.	_ <O>
+
+NULL

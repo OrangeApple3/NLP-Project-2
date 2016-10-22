@@ -1,0 +1,58 @@
+NULL
+The	DT	_ <O>
+goal	NN	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+the	DT	_ <O>
+ball	NN	_ <O>
+difficult	JJ	_ <O>
+to	TO	_ <O>
+hit	VB	_ <O>
+or	CC	_ <O>
+confusing	VBG	_ <O>
+to	IN	_ <O>
+batters	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Curveball	NNP	_ <O>
+
+NULL
+Slurve	VB	_ <O>
+
+NULL
+Screwball	JJ	_ <O>
+
+NULL
+12	CD	_ <O>
+-	SYM	_ <O>
+6	CD	_ <O>
+curve	NN	_ <O>
+
+NULL
+Most	JJS	_ <O>
+breaking	VBG	_ <O>
+balls	NNS	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+off	IN	_ <O>
+-	HYPH	_ <O>
+speed	NN	_ <O>
+pitches	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	_ <O>
+breaking	VBG	_ <O>
+balls	NNS	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+off	IN	_ <O>
+-	HYPH	_ <O>
+speed	NN	_ <O>
+pitches	NNS	_ <O>
+.	.	_ <O>
+
+NULL

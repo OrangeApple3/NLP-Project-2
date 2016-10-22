@@ -1,0 +1,43 @@
+NULL
+M.I.A.	NN	_ <O>
+appears	VBZ	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+immigrant	NN	_ <O>
+who	WP	_ <O>
+sells	VBZ	_ <O>
+sandwiches	NNS	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+van	NN	_ <O>
+to	IN	_ <O>
+several	JJ	_ <O>
+other	JJ	_ <O>
+New	NNP	_ <O>
+Yorkers	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+She	PRP	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+seen	VBN	_ <O>
+wearing	VBG	_ <O>
+a	DT	_ <O>
+Metallica	NNP	_ <O>
+'	POS	_ <O>
+Ride	NNP	_ <O>
+the	DT	_ <O>
+Lightning	NN	_ <O>
+'	''	_ <O>
+shirt	NN	_ <O>
+in	IN	_ <O>
+several	JJ	_ <O>
+parts	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+music	NN	_ <O>
+video	NN	_ <O>
+.	.	_ <O>
+
+NULL

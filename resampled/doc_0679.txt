@@ -1,0 +1,218 @@
+The	DT	_ <O>
+Ontario	NNP	_ <O>
+Consultants	NNS	_ <O>
+for	IN	_ <O>
+Religious	JJ	_ <O>
+Tolerance	NNP	_ <O>
+report	NN	_ <O>
+that	IN	_ <O>
+some	DT	<B-CUE>
+non	AFX	<I-CUE>
+-	HYPH	<I-CUE>
+Christians	NNPS	<I-CUE>
+and	CC	<I-CUE>
+secularists	NNS	<I-CUE>
+welcome	VBP	_ <O>
+the	DT	_ <O>
+inclusion	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+holidays	NNS	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+celebrations	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+season	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+96	CD	_ <O>
+percent	NN	_ <O>
+of	IN	_ <O>
+Americans	NNPS	_ <O>
+celebrate	VBP	_ <O>
+Christmas	NNP	_ <O>
+and	CC	_ <O>
+14	CD	_ <O>
+percent	NN	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+are	VBP	_ <O>
+non	JJ	_ <O>
+-	HYPH	_ <O>
+Christian	JJ	_ <O>
+,	,	_ <O>
+opponents	NNS	<B-CUE>
+feel	VB	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+presentation	NN	_ <O>
+is	VBZ	_ <O>
+actually	RB	_ <O>
+a	DT	_ <O>
+politically	RB	_ <O>
+correct	JJ	_ <O>
+and	CC	_ <O>
+concerted	JJ	_ <O>
+effort	NN	_ <O>
+to	TO	_ <O>
+cleanse	VB	_ <O>
+any	DT	_ <O>
+connotations	NNS	_ <O>
+with	IN	_ <O>
+Christianity	NNP	_ <O>
+or	CC	_ <O>
+Jesus	NNP	_ <O>
+(	-LRB-	_ <O>
+by	IN	_ <O>
+avoiding	VBG	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+"	``	_ <O>
+Christ'mas	NNS	_ <O>
+"	''	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+simultaneously	RB	_ <O>
+attempting	VBG	_ <O>
+to	TO	_ <O>
+relate	VB	_ <O>
+to	IN	_ <O>
+celebrants	NNS	_ <O>
+of	IN	_ <O>
+Christmas	NNP	_ <O>
+to	TO	_ <O>
+secure	VB	_ <O>
+the	DT	_ <O>
+huge	JJ	_ <O>
+monetary	JJ	_ <O>
+profit	NN	_ <O>
+associated	VBN	_ <O>
+with	IN	_ <O>
+Christmas	NNP	_ <O>
+gift	NN	_ <O>
+purchasing	NN	_ <O>
+(	-LRB-	_ <O>
+by	IN	_ <O>
+showcasing	VBG	_ <O>
+secular	JJ	_ <O>
+Christmas	NNP	_ <O>
+traditions	NNS	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Ontario	NNP	_ <O>
+Consultants	NNS	_ <O>
+for	IN	_ <O>
+Religious	JJ	_ <O>
+Tolerance	NNP	_ <O>
+report	NN	_ <O>
+that	IN	_ <O>
+some	DT	<B-CUE>
+non	AFX	<I-CUE>
+-	HYPH	<I-CUE>
+Christians	NNPS	<I-CUE>
+and	CC	<I-CUE>
+secularists	NNS	<I-CUE>
+welcome	VBP	_ <O>
+the	DT	_ <O>
+inclusion	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+holidays	NNS	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+celebrations	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+season	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+96	CD	_ <O>
+percent	NN	_ <O>
+of	IN	_ <O>
+Americans	NNPS	_ <O>
+celebrate	VBP	_ <O>
+Christmas	NNP	_ <O>
+and	CC	_ <O>
+14	CD	_ <O>
+percent	NN	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+are	VBP	_ <O>
+non	JJ	_ <O>
+-	HYPH	_ <O>
+Christian	JJ	_ <O>
+,	,	_ <O>
+opponents	NNS	<B-CUE>
+feel	VB	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+presentation	NN	_ <O>
+is	VBZ	_ <O>
+actually	RB	_ <O>
+a	DT	_ <O>
+politically	RB	_ <O>
+correct	JJ	_ <O>
+and	CC	_ <O>
+concerted	JJ	_ <O>
+effort	NN	_ <O>
+to	TO	_ <O>
+cleanse	VB	_ <O>
+any	DT	_ <O>
+connotations	NNS	_ <O>
+with	IN	_ <O>
+Christianity	NNP	_ <O>
+or	CC	_ <O>
+Jesus	NNP	_ <O>
+(	-LRB-	_ <O>
+by	IN	_ <O>
+avoiding	VBG	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+"	``	_ <O>
+Christ'mas	NNS	_ <O>
+"	''	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+simultaneously	RB	_ <O>
+attempting	VBG	_ <O>
+to	TO	_ <O>
+relate	VB	_ <O>
+to	IN	_ <O>
+celebrants	NNS	_ <O>
+of	IN	_ <O>
+Christmas	NNP	_ <O>
+to	TO	_ <O>
+secure	VB	_ <O>
+the	DT	_ <O>
+huge	JJ	_ <O>
+monetary	JJ	_ <O>
+profit	NN	_ <O>
+associated	VBN	_ <O>
+with	IN	_ <O>
+Christmas	NNP	_ <O>
+gift	NN	_ <O>
+purchasing	NN	_ <O>
+(	-LRB-	_ <O>
+by	IN	_ <O>
+showcasing	VBG	_ <O>
+secular	JJ	_ <O>
+Christmas	NNP	_ <O>
+traditions	NNS	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,133 @@
+ParisTech	NNP	_ <O>
+offers	VBZ	_ <O>
+a	DT	_ <O>
+complete	JJ	_ <O>
+range	NN	_ <O>
+of	IN	_ <O>
+courses	NNS	_ <O>
+,	,	_ <O>
+independently	RB	_ <O>
+or	CC	_ <O>
+in	IN	_ <O>
+partnership	NN	_ <O>
+with	IN	_ <O>
+other	JJ	_ <O>
+institutions	NNS	_ <O>
+(	-LRB-	_ <O>
+in	IN	_ <O>
+particular	JJ	_ <O>
+doctoral	JJ	_ <O>
+and	CC	_ <O>
+Master	NNP	_ <O>
+'s	POS	_ <O>
+degrees	NNS	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+core	NN	_ <O>
+disciplines	NNS	_ <O>
+of	IN	_ <O>
+science	NN	_ <O>
+and	CC	_ <O>
+technology	NN	_ <O>
+at	IN	_ <O>
+postgraduate	JJ	_ <O>
+level	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Because	IN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+competitive	JJ	_ <O>
+exams	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+prestigious	JJ	_ <O>
+colleges	NNS	_ <O>
+and	CC	_ <O>
+institutes	NNS	_ <O>
+of	IN	_ <O>
+ParisTech	NNP	_ <O>
+attract	VBP	_ <O>
+the	DT	_ <O>
+best	JJS	_ <O>
+students	NNS	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+then	RB	_ <O>
+often	RB	_ <O>
+reach	VBP	_ <O>
+the	DT	_ <O>
+highest	JJS	_ <O>
+positions	NNS	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+later	JJ	_ <O>
+careers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Master	NNP	_ <O>
+of	IN	_ <O>
+Science	NNP	_ <O>
+(	-LRB-	_ <O>
+MSc	NNP	_ <O>
+)	-RRB-	_ <O>
+programmes	NNS	_ <O>
+,	,	_ <O>
+courses	NNS	_ <O>
+designed	VBN	_ <O>
+to	TO	_ <O>
+provide	VB	_ <O>
+an	DT	_ <O>
+in	IN	_ <O>
+-	HYPH	_ <O>
+depth	NN	_ <O>
+understanding	NN	_ <O>
+in	IN	_ <O>
+various	JJ	_ <O>
+fields	NNS	_ <O>
+of	IN	_ <O>
+science	NN	_ <O>
+ranging	VBG	_ <O>
+from	IN	_ <O>
+Mathematics	NNP	_ <O>
+to	IN	_ <O>
+Economics	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+admission	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Ingénieur	NNP	_ <O>
+degree	NN	_ <O>
+is	VBZ	<B-CUE>
+widely	RB	<I-CUE>
+known	VBN	<I-CUE>
+as	IN	_ <O>
+being	VBG	_ <O>
+highly	RB	_ <O>
+selective	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+admission	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Ingénieur	NNP	_ <O>
+degree	NN	_ <O>
+is	VBZ	<B-CUE>
+widely	RB	<I-CUE>
+known	VBN	<I-CUE>
+as	IN	_ <O>
+being	VBG	_ <O>
+highly	RB	_ <O>
+selective	JJ	_ <O>
+.	.	_ <O>
+
+NULL

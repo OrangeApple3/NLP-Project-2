@@ -1,0 +1,28 @@
+NULL
+There	EX	_ <O>
+were	VBD	_ <O>
+sick	JJ	_ <O>
+people	NNS	_ <O>
+and	CC	_ <O>
+people	NNS	_ <O>
+dying	VBG	_ <O>
+in	IN	_ <O>
+all	DT	_ <O>
+directions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+heat	NN	_ <O>
+has	VBZ	_ <O>
+weakened	VBN	_ <O>
+most	RBS	_ <O>
+if	IN	_ <O>
+not	RB	_ <O>
+all	DT	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+children	NNS	_ <O>
+.	.	_ <O>
+
+NULL

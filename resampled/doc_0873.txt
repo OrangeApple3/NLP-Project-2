@@ -1,0 +1,173 @@
+It	PRP	_ <O>
+is	VBZ	_ <O>
+in	IN	_ <O>
+widespread	JJ	_ <O>
+use	NN	_ <O>
+in	IN	_ <O>
+Melanesian	NNP	_ <O>
+pidgin	NN	_ <O>
+and	CC	_ <O>
+creole	JJ	_ <O>
+languages	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Tok	NNP	_ <O>
+Pisin	NNP	_ <O>
+of	IN	_ <O>
+Papua	NNP	_ <O>
+New	NNP	_ <O>
+Guinea	NNP	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+word	NN	_ <O>
+for	IN	_ <O>
+"	``	_ <O>
+child	NN	_ <O>
+"	''	_ <O>
+(	-LRB-	_ <O>
+or	CC	_ <O>
+just	RB	_ <O>
+young	JJ	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+phrase	NN	_ <O>
+'	``	_ <O>
+pikinini	NN	_ <O>
+pik	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+meaning	VBG	_ <O>
+'	``	_ <O>
+piglet	NN	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Cognates	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+appear	VBP	_ <O>
+in	IN	_ <O>
+other	JJ	_ <O>
+languages	NNS	_ <O>
+and	CC	_ <O>
+cultures	NNS	_ <O>
+,	,	_ <O>
+presumably	RB	<B-CUE>
+also	RB	_ <O>
+derived	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+Portuguese	JJ	_ <O>
+word	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+controversial	JJ	_ <O>
+or	CC	_ <O>
+derogatory	JJ	_ <O>
+in	IN	_ <O>
+these	DT	_ <O>
+contexts	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+words	NNS	<I-CUE>
+may	MD	<B-CUE>
+be	VB	_ <O>
+more	RBR	_ <O>
+directly	RB	_ <O>
+related	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Portuguese	NNPS	_ <O>
+'	``	_ <O>
+pequeno	NN	_ <O>
+'	''	_ <O>
+than	IN	_ <O>
+to	TO	_ <O>
+'	``	_ <O>
+pequenino	VB	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+source	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+pickaninny	NN	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+Cognates	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+appear	VBP	_ <O>
+in	IN	_ <O>
+other	JJ	_ <O>
+languages	NNS	_ <O>
+and	CC	_ <O>
+cultures	NNS	_ <O>
+,	,	_ <O>
+presumably	RB	<B-CUE>
+also	RB	_ <O>
+derived	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+Portuguese	JJ	_ <O>
+word	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+controversial	JJ	_ <O>
+or	CC	_ <O>
+derogatory	JJ	_ <O>
+in	IN	_ <O>
+these	DT	_ <O>
+contexts	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+words	NNS	<I-CUE>
+may	MD	<B-CUE>
+be	VB	_ <O>
+more	RBR	_ <O>
+directly	RB	_ <O>
+related	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Portuguese	NNPS	_ <O>
+'	``	_ <O>
+pequeno	NN	_ <O>
+'	''	_ <O>
+than	IN	_ <O>
+to	TO	_ <O>
+'	``	_ <O>
+pequenino	VB	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+source	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+pickaninny	NN	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL

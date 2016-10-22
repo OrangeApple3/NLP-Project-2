@@ -1,0 +1,157 @@
+NULL
+Draytons	NNS	_ <O>
+,	,	_ <O>
+McWilliams	NNP	_ <O>
+,	,	_ <O>
+Lindemans	NNP	_ <O>
+,	,	_ <O>
+Tyrrells	NNP	_ <O>
+,	,	_ <O>
+Jay	NNP	_ <O>
+Tulloch	NNP	_ <O>
+and	CC	_ <O>
+The	DT	_ <O>
+Rothbury	NNP	_ <O>
+Estate	NNP	_ <O>
+still	RB	_ <O>
+knock	VB	_ <O>
+out	RP	_ <O>
+some	DT	_ <O>
+old	JJ	_ <O>
+-	HYPH	_ <O>
+style	NN	_ <O>
+Hunter	NNP	_ <O>
+wines	NNS	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+likes	NNS	_ <O>
+of	IN	_ <O>
+Brokenwood	NNP	_ <O>
+and	CC	_ <O>
+Bimbadgen	NNP	_ <O>
+Estate	NNP	_ <O>
+leading	VBG	_ <O>
+the	DT	_ <O>
+charge	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+new	JJ	_ <O>
+chums	NNS	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+list	NN	_ <O>
+of	IN	_ <O>
+attractions	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Pokolbin	NNP	_ <O>
+region	NN	_ <O>
+:	:	_ <O>
+
+NULL
+Wineries	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Hunter	NNP	_ <O>
+Valley	NNP	_ <O>
+Gardens	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+Traditional	JJ	_ <O>
+style	NN	_ <O>
+Hunter	NNP	_ <O>
+Semillons	NNPS	_ <O>
+in	IN	_ <O>
+particular	JJ	_ <O>
+have	VBP	_ <O>
+produced	VBN	_ <O>
+some	DT	_ <O>
+of	IN	_ <O>
+Australia	NNP	_ <O>
+'s	POS	_ <O>
+most	RBS	<B-CUE>
+distinctive	JJ	<I-CUE>
+whites	NNS	_ <O>
+with	IN	_ <O>
+20	CD	_ <O>
+plus	CC	_ <O>
+years	NNS	_ <O>
+ageing	VBG	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+bottle	NN	_ <O>
+not	RB	_ <O>
+uncommon	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	<B-CUE>
+excellent	JJ	<I-CUE>
+quality	NN	<I-CUE>
+restaurants	NNS	<I-CUE>
+where	WRB	_ <O>
+visitors	NNS	_ <O>
+can	MD	_ <O>
+eat	VB	_ <O>
+well	RB	_ <O>
+and	CC	_ <O>
+try	VB	_ <O>
+local	JJ	_ <O>
+wines	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Traditional	JJ	_ <O>
+style	NN	_ <O>
+Hunter	NNP	_ <O>
+Semillons	NNPS	_ <O>
+in	IN	_ <O>
+particular	JJ	_ <O>
+have	VBP	_ <O>
+produced	VBN	_ <O>
+some	DT	_ <O>
+of	IN	_ <O>
+Australia	NNP	_ <O>
+'s	POS	_ <O>
+most	RBS	<B-CUE>
+distinctive	JJ	<I-CUE>
+whites	NNS	_ <O>
+with	IN	_ <O>
+20	CD	_ <O>
+plus	CC	_ <O>
+years	NNS	_ <O>
+ageing	VBG	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+bottle	NN	_ <O>
+not	RB	_ <O>
+uncommon	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	<B-CUE>
+excellent	JJ	<I-CUE>
+quality	NN	<I-CUE>
+restaurants	NNS	<I-CUE>
+where	WRB	_ <O>
+visitors	NNS	_ <O>
+can	MD	_ <O>
+eat	VB	_ <O>
+well	RB	_ <O>
+and	CC	_ <O>
+try	VB	_ <O>
+local	JJ	_ <O>
+wines	NNS	_ <O>
+.	.	_ <O>
+
+NULL

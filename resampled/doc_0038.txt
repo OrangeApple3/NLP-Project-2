@@ -1,0 +1,44 @@
+In	IN	_ <O>
+the	DT	_ <O>
+mosquito	NN	_ <O>
+'s	POS	_ <O>
+midgut	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+gametocytes	NNS	_ <O>
+develop	VBP	_ <O>
+into	IN	_ <O>
+gametes	NNS	_ <O>
+and	CC	_ <O>
+fertilize	VB	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+,	,	_ <O>
+forming	VBG	_ <O>
+motile	NN	_ <O>
+zygotes	NNS	_ <O>
+called	VBD	_ <O>
+ookinetes	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+majority	NN	_ <O>
+appear	VBP	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+injected	VBN	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+subcutaneous	JJ	_ <O>
+tissue	NN	_ <O>
+from	IN	_ <O>
+which	WDT	_ <O>
+they	PRP	_ <O>
+migrate	VBP	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+capillaries	NNS	_ <O>
+.	.	_ <O>
+
+NULL

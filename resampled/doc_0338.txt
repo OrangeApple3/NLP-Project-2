@@ -1,0 +1,154 @@
+The	DT	_ <O>
+unmarked	JJ	_ <O>
+category	NN	_ <O>
+becomes	VBZ	_ <O>
+the	DT	_ <O>
+norm	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+categories	NNS	_ <O>
+relegated	VBN	_ <O>
+to	IN	_ <O>
+deviant	JJ	_ <O>
+status	NN	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	<B-CUE>
+can	MD	_ <O>
+often	RB	<B-CUE>
+overlook	VB	_ <O>
+unmarked	JJ	_ <O>
+categories	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Whiteness	NN	_ <O>
+forms	VBZ	_ <O>
+an	DT	_ <O>
+unmarked	JJ	_ <O>
+category	NN	_ <O>
+not	RB	_ <O>
+commonly	RB	_ <O>
+visible	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+powerful	JJ	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+they	PRP	_ <O>
+often	RB	<B-CUE>
+fall	VB	_ <O>
+within	IN	_ <O>
+this	DT	_ <O>
+category	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Social	JJ	<B-CUE>
+groups	NNS	<I-CUE>
+can	MD	_ <O>
+apply	VB	_ <O>
+this	DT	_ <O>
+view	NN	_ <O>
+of	IN	_ <O>
+power	NN	_ <O>
+to	TO	_ <O>
+race	NN	_ <O>
+,	,	_ <O>
+gender	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+disability	NN	_ <O>
+without	IN	_ <O>
+modification	NN	_ <O>
+:	:	_ <O>
+the	DT	_ <O>
+able	JJ	_ <O>
+body	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+neutral	JJ	_ <O>
+body	NN	_ <O>
+;	:	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+man	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+normal	JJ	_ <O>
+status	NN	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	<B-CUE>
+can	MD	_ <O>
+often	RB	<B-CUE>
+overlook	VB	_ <O>
+unmarked	JJ	_ <O>
+categories	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Whiteness	NN	_ <O>
+forms	VBZ	_ <O>
+an	DT	_ <O>
+unmarked	JJ	_ <O>
+category	NN	_ <O>
+not	RB	_ <O>
+commonly	RB	_ <O>
+visible	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+powerful	JJ	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+they	PRP	_ <O>
+often	RB	<B-CUE>
+fall	VB	_ <O>
+within	IN	_ <O>
+this	DT	_ <O>
+category	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Social	JJ	<B-CUE>
+groups	NNS	<I-CUE>
+can	MD	_ <O>
+apply	VB	_ <O>
+this	DT	_ <O>
+view	NN	_ <O>
+of	IN	_ <O>
+power	NN	_ <O>
+to	TO	_ <O>
+race	NN	_ <O>
+,	,	_ <O>
+gender	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+disability	NN	_ <O>
+without	IN	_ <O>
+modification	NN	_ <O>
+:	:	_ <O>
+the	DT	_ <O>
+able	JJ	_ <O>
+body	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+neutral	JJ	_ <O>
+body	NN	_ <O>
+;	:	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+man	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+normal	JJ	_ <O>
+status	NN	_ <O>
+.	.	_ <O>
+
+NULL

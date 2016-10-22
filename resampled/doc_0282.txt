@@ -1,0 +1,17 @@
+NULL
+The	DT	_ <O>
+destroyer	NN	_ <O>
+operated	VBD	_ <O>
+out	IN	_ <O>
+of	IN	_ <O>
+Newport	NNP	_ <O>
+and	CC	_ <O>
+New	NNP	_ <O>
+York	NNP	_ <O>
+until	IN	_ <O>
+mid	JJ	_ <O>
+-	HYPH	_ <O>
+July	NNP	_ <O>
+.	.	_ <O>
+
+NULL

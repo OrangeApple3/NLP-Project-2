@@ -1,0 +1,45 @@
+It	PRP	_ <O>
+may	MD	_ <O>
+also	RB	_ <O>
+survive	VB	_ <O>
+on	IN	_ <O>
+wild	JJ	_ <O>
+plum	NN	_ <O>
+,	,	_ <O>
+hawthorn	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+crabapple	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+found	VBN	_ <O>
+most	RBS	_ <O>
+commonly	RB	_ <O>
+in	IN	_ <O>
+areas	NNS	_ <O>
+east	RB	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Rocky	NNP	_ <O>
+Mountains	NNPS	_ <O>
+and	CC	_ <O>
+in	IN	_ <O>
+eastern	JJ	_ <O>
+Canada	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+seen	VBN	_ <O>
+in	IN	_ <O>
+heavy	JJ	_ <O>
+leafed	NN	_ <O>
+trees	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,68 @@
+NULL
+In	IN	_ <O>
+this	DT	_ <O>
+situation	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+underlier	NN	_ <O>
+is	VBZ	_ <O>
+said	VBN	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+'	``	_ <O>
+pinned	VBN	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+Therefore	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+writer	NN	_ <O>
+may	MD	_ <O>
+end	VB	_ <O>
+up	RP	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+residual	JJ	_ <O>
+position	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+underlier	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+other	JJ	_ <O>
+words	NNS	_ <O>
+,	,	_ <O>
+an	DT	_ <O>
+option	NN	_ <O>
+position	NN	_ <O>
+may	MD	_ <O>
+result	VB	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+large	JJ	_ <O>
+,	,	_ <O>
+undesired	JJ	_ <O>
+risky	JJ	_ <O>
+position	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+underlier	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+Monday	NNP	_ <O>
+following	VBG	_ <O>
+expiration	NN	_ <O>
+regardless	RB	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+actions	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+trader	NN	_ <O>
+.	.	_ <O>
+
+NULL

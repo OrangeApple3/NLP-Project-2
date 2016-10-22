@@ -1,0 +1,76 @@
+NULL
+People	NNS	_ <O>
+wishing	VBG	_ <O>
+to	TO	_ <O>
+go	VB	_ <O>
+on	IN	_ <O>
+this	DT	_ <O>
+ride	NN	_ <O>
+simply	RB	_ <O>
+climb	VB	_ <O>
+up	RP	_ <O>
+some	DT	_ <O>
+stairs	NNS	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+sit	VB	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+small	JJ	_ <O>
+dinghy	NN	_ <O>
+when	WRB	_ <O>
+one	CD	_ <O>
+becomes	VBZ	_ <O>
+available	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+may	MD	_ <O>
+result	VB	_ <O>
+in	IN	_ <O>
+some	DT	_ <O>
+wetness	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+enough	JJ	_ <O>
+to	TO	_ <O>
+cope	VB	_ <O>
+with	IN	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+sunny	JJ	_ <O>
+French	JJ	_ <O>
+day	NN	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+have	VBP	_ <O>
+obtained	VBN	_ <O>
+pictures	NNS	_ <O>
+of	IN	_ <O>
+people	NNS	_ <O>
+reaching	VBG	_ <O>
+the	DT	_ <O>
+bottom	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+slides	NNS	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+arms	NNS	_ <O>
+outstretched	JJ	_ <O>
+and	CC	_ <O>
+an	DT	_ <O>
+expression	NN	_ <O>
+of	IN	_ <O>
+pleasure	NN	_ <O>
+and	CC	_ <O>
+fun	NN	_ <O>
+on	IN	_ <O>
+their	PRP$	_ <O>
+faces	NNS	_ <O>
+.	.	_ <O>
+
+NULL

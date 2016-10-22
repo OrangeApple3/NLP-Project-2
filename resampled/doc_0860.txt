@@ -1,0 +1,57 @@
+NULL
+The	DT	_ <O>
+best	JJS	_ <O>
+digital	JJ	_ <O>
+PLLs	NNS	_ <O>
+are	VBP	_ <O>
+constructed	VBN	_ <O>
+with	IN	_ <O>
+emitter	NN	_ <O>
+-	HYPH	_ <O>
+coupled	VBN	_ <O>
+logic	NN	_ <O>
+(	-LRB-	_ <O>
+ECL	NNP	_ <O>
+)	-RRB-	_ <O>
+elements	NNS	_ <O>
+,	,	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+expense	NN	_ <O>
+of	IN	_ <O>
+high	JJ	_ <O>
+power	NN	_ <O>
+consumption	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+technologies	NNS	<I-CUE>
+are	VBP	<B-CUE>
+known	VBN	<I-CUE>
+to	TO	_ <O>
+perform	VB	_ <O>
+better	RBR	_ <O>
+than	IN	_ <O>
+others	NNS	<B-CUE>
+in	IN	_ <O>
+this	DT	_ <O>
+regard	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+technologies	NNS	<I-CUE>
+are	VBP	<B-CUE>
+known	VBN	<I-CUE>
+to	TO	_ <O>
+perform	VB	_ <O>
+better	RBR	_ <O>
+than	IN	_ <O>
+others	NNS	<B-CUE>
+in	IN	_ <O>
+this	DT	_ <O>
+regard	NN	_ <O>
+.	.	_ <O>
+
+NULL

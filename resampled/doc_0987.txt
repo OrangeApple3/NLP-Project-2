@@ -1,0 +1,95 @@
+NULL
+The	DT	_ <O>
+parashu	NN	_ <O>
+was	VBD	_ <O>
+known	VBN	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+super	JJ	_ <O>
+natural	JJ	_ <O>
+powers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+was	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+on	IN	_ <O>
+par	NN	_ <O>
+with	IN	_ <O>
+Dronacharya	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Guru	NNP	_ <O>
+who	WP	_ <O>
+instructed	VBD	_ <O>
+the	DT	_ <O>
+Pandavas	NNPS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+epic	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Mahabharata	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+parashu	NN	_ <O>
+was	VBD	_ <O>
+also	RB	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+lethal	JJ	<I-CUE>
+close	JJ	_ <O>
+combat	NN	_ <O>
+weapon	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+epics	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+was	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+on	IN	_ <O>
+par	NN	_ <O>
+with	IN	_ <O>
+Dronacharya	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Guru	NNP	_ <O>
+who	WP	_ <O>
+instructed	VBD	_ <O>
+the	DT	_ <O>
+Pandavas	NNPS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+epic	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Mahabharata	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+parashu	NN	_ <O>
+was	VBD	_ <O>
+also	RB	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+lethal	JJ	<I-CUE>
+close	JJ	_ <O>
+combat	NN	_ <O>
+weapon	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+epics	NNS	_ <O>
+.	.	_ <O>
+
+NULL

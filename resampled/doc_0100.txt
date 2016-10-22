@@ -1,0 +1,106 @@
+A	DT	_ <O>
+wash	NN	_ <O>
+for	IN	_ <O>
+100	CD	_ <O>
+gallons	NNS	_ <O>
+of	IN	_ <O>
+fresh	JJ	_ <O>
+water	NN	_ <O>
+was	VBD	_ <O>
+said	VBN	_ <O>
+to	TO	_ <O>
+contain	VB	_ <O>
+six	CD	_ <O>
+stone	NN	_ <O>
+of	IN	_ <O>
+potatoes	NNS	_ <O>
+,	,	_ <O>
+six	CD	_ <O>
+stone	NN	_ <O>
+of	IN	_ <O>
+sugar	NN	_ <O>
+and	CC	_ <O>
+some	DT	_ <O>
+yeast	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Stills	NNS	_ <O>
+were	VBD	_ <O>
+often	RB	_ <O>
+set	VBN	_ <O>
+up	RP	_ <O>
+on	IN	_ <O>
+land	NN	_ <O>
+boundaries	NNS	_ <O>
+so	IN	_ <O>
+the	DT	_ <O>
+issue	NN	_ <O>
+of	IN	_ <O>
+ownership	NN	_ <O>
+could	MD	_ <O>
+be	VB	_ <O>
+disputed	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+still	RB	_ <O>
+had	VBD	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+heated	VBN	_ <O>
+and	CC	_ <O>
+attended	VBN	_ <O>
+to	TO	_ <O>
+for	IN	_ <O>
+several	JJ	_ <O>
+days	NNS	_ <O>
+to	TO	_ <O>
+allow	VB	_ <O>
+the	DT	_ <O>
+runs	NNS	_ <O>
+to	TO	_ <O>
+go	VB	_ <O>
+through	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Poitín	NNP	_ <O>
+was	VBD	_ <O>
+generally	RB	<B-CUE>
+produced	VBN	_ <O>
+in	IN	_ <O>
+remote	JJ	_ <O>
+rural	JJ	_ <O>
+areas	NNS	_ <O>
+,	,	_ <O>
+away	RB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+interference	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+law	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Poitín	NNP	_ <O>
+was	VBD	_ <O>
+generally	RB	<B-CUE>
+produced	VBN	_ <O>
+in	IN	_ <O>
+remote	JJ	_ <O>
+rural	JJ	_ <O>
+areas	NNS	_ <O>
+,	,	_ <O>
+away	RB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+interference	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+law	NN	_ <O>
+.	.	_ <O>
+
+NULL

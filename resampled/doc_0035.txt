@@ -1,0 +1,37 @@
+NULL
+Initially	RB	_ <O>
+,	,	_ <O>
+accurate	JJ	_ <O>
+transcription	NN	_ <O>
+rates	NNS	_ <O>
+of	IN	_ <O>
+85	CD	_ <O>
+-	SYM	_ <O>
+90	CD	_ <O>
+%	NN	_ <O>
+are	VBP	<B-CUE>
+to	TO	<I-CUE>
+be	VB	<I-CUE>
+reasonably	RB	<I-CUE>
+expected	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL
+Initially	RB	_ <O>
+,	,	_ <O>
+accurate	JJ	_ <O>
+transcription	NN	_ <O>
+rates	NNS	_ <O>
+of	IN	_ <O>
+85	CD	_ <O>
+-	SYM	_ <O>
+90	CD	_ <O>
+%	NN	_ <O>
+are	VBP	<B-CUE>
+to	TO	<I-CUE>
+be	VB	<I-CUE>
+reasonably	RB	<I-CUE>
+expected	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL

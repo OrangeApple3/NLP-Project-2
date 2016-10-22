@@ -1,0 +1,52 @@
+NULL
+Although	IN	_ <O>
+the	DT	_ <O>
+ductus	NN	_ <O>
+arteriosus	NN	_ <O>
+normally	RB	_ <O>
+seals	VBZ	_ <O>
+off	RP	_ <O>
+within	IN	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+days	NNS	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+PDA	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+newborn	JJ	_ <O>
+'s	POS	_ <O>
+ductus	NN	_ <O>
+arteriosus	NN	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+close	RB	_ <O>
+but	CC	_ <O>
+remains	VBZ	_ <O>
+patent	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Premature	JJ	_ <O>
+children	NNS	_ <O>
+are	VBP	_ <O>
+more	RBR	_ <O>
+likely	JJ	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+hypoxic	JJ	_ <O>
+and	CC	_ <O>
+thus	RB	_ <O>
+have	VB	_ <O>
+PDA	NNP	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+underdeveloped	JJ	_ <O>
+heart	NN	_ <O>
+and	CC	_ <O>
+lungs	NNS	_ <O>
+.	.	_ <O>
+
+NULL

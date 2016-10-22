@@ -1,0 +1,227 @@
+NULL
+A	DT	_ <O>
+'	``	_ <O>
+precentor	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+person	NN	_ <O>
+,	,	_ <O>
+usually	RB	<B-CUE>
+a	DT	_ <O>
+clergy	NN	_ <O>
+member	NN	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+is	VBZ	_ <O>
+in	IN	_ <O>
+charge	NN	_ <O>
+of	IN	_ <O>
+preparing	VBG	_ <O>
+worship	NN	_ <O>
+services	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+position	NN	_ <O>
+is	VBZ	_ <O>
+usually	RB	<B-CUE>
+held	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+large	JJ	_ <O>
+church	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+typically	RB	<B-CUE>
+used	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+churches	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Anglican	NNP	_ <O>
+Communion	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+precentor	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+cathedral	NN	_ <O>
+is	VBZ	_ <O>
+usually	RB	<B-CUE>
+a	DT	_ <O>
+residentiary	JJ	_ <O>
+canon	NN	_ <O>
+or	CC	_ <O>
+prebendary	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+assisted	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+succentor	NN	_ <O>
+(	-LRB-	_ <O>
+particularly	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+daily	JJ	_ <O>
+task	NN	_ <O>
+of	IN	_ <O>
+leading	VBG	_ <O>
+choral	JJ	_ <O>
+singing	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+some	DT	<B-CUE>
+cathedrals	NNS	<I-CUE>
+(	-LRB-	_ <O>
+including	VBG	_ <O>
+Canterbury	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Precentor	NNP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+minor	JJ	_ <O>
+Canon	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+therefore	RB	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Foundation	NNP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+not	RB	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Chapter	NN	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+'	``	_ <O>
+precentor	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+person	NN	_ <O>
+,	,	_ <O>
+usually	RB	<B-CUE>
+a	DT	_ <O>
+clergy	NN	_ <O>
+member	NN	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+is	VBZ	_ <O>
+in	IN	_ <O>
+charge	NN	_ <O>
+of	IN	_ <O>
+preparing	VBG	_ <O>
+worship	NN	_ <O>
+services	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+position	NN	_ <O>
+is	VBZ	_ <O>
+usually	RB	<B-CUE>
+held	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+large	JJ	_ <O>
+church	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+typically	RB	<B-CUE>
+used	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+churches	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Anglican	NNP	_ <O>
+Communion	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+precentor	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+cathedral	NN	_ <O>
+is	VBZ	_ <O>
+usually	RB	<B-CUE>
+a	DT	_ <O>
+residentiary	JJ	_ <O>
+canon	NN	_ <O>
+or	CC	_ <O>
+prebendary	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+assisted	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+succentor	NN	_ <O>
+(	-LRB-	_ <O>
+particularly	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+daily	JJ	_ <O>
+task	NN	_ <O>
+of	IN	_ <O>
+leading	VBG	_ <O>
+choral	JJ	_ <O>
+singing	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+some	DT	<B-CUE>
+cathedrals	NNS	<I-CUE>
+(	-LRB-	_ <O>
+including	VBG	_ <O>
+Canterbury	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Precentor	NNP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+minor	JJ	_ <O>
+Canon	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+therefore	RB	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Foundation	NNP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+not	RB	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Chapter	NN	_ <O>
+.	.	_ <O>
+
+NULL

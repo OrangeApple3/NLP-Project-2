@@ -1,0 +1,159 @@
+NULL
+Pasties	NNS	_ <O>
+were	VBD	_ <O>
+also	RB	_ <O>
+popular	JJ	_ <O>
+with	IN	_ <O>
+farmers	NNS	_ <O>
+and	CC	_ <O>
+labourers	NNS	_ <O>
+,	,	_ <O>
+particularly	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+North	NNP	_ <O>
+East	NNP	_ <O>
+of	IN	_ <O>
+England	NNP	_ <O>
+,	,	_ <O>
+also	RB	_ <O>
+a	DT	_ <O>
+mining	NN	_ <O>
+region	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+origins	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+pasty	NN	_ <O>
+are	VBP	_ <O>
+largely	RB	_ <O>
+unknown	JJ	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+generally	RB	<I-CUE>
+accepted	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+modern	JJ	_ <O>
+form	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+pasty	NN	_ <O>
+originated	VBD	_ <O>
+from	IN	_ <O>
+Cornwall	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Tradition	NN	<B-CUE>
+claims	NNS	<B-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+pasty	NN	_ <O>
+was	VBD	_ <O>
+originally	RB	_ <O>
+made	VBN	_ <O>
+as	IN	_ <O>
+lunch	NN	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+croust	NN	_ <O>
+'	''	_ <O>
+or	CC	<B-CUE>
+'	``	_ <O>
+crib	NN	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Cornish	NNP	_ <O>
+language	NN	_ <O>
+)	-RRB-	_ <O>
+for	IN	_ <O>
+Cornish	NNP	_ <O>
+tin	NN	_ <O>
+miners	NNS	_ <O>
+who	WP	_ <O>
+were	VBD	_ <O>
+unable	JJ	_ <O>
+to	TO	_ <O>
+return	VB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+surface	NN	_ <O>
+to	TO	_ <O>
+eat	VB	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+origins	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+pasty	NN	_ <O>
+are	VBP	_ <O>
+largely	RB	_ <O>
+unknown	JJ	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+generally	RB	<I-CUE>
+accepted	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+modern	JJ	_ <O>
+form	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+pasty	NN	_ <O>
+originated	VBD	_ <O>
+from	IN	_ <O>
+Cornwall	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Tradition	NN	<B-CUE>
+claims	NNS	<B-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+pasty	NN	_ <O>
+was	VBD	_ <O>
+originally	RB	_ <O>
+made	VBN	_ <O>
+as	IN	_ <O>
+lunch	NN	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+croust	NN	_ <O>
+'	''	_ <O>
+or	CC	<B-CUE>
+'	``	_ <O>
+crib	NN	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Cornish	NNP	_ <O>
+language	NN	_ <O>
+)	-RRB-	_ <O>
+for	IN	_ <O>
+Cornish	NNP	_ <O>
+tin	NN	_ <O>
+miners	NNS	_ <O>
+who	WP	_ <O>
+were	VBD	_ <O>
+unable	JJ	_ <O>
+to	TO	_ <O>
+return	VB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+surface	NN	_ <O>
+to	TO	_ <O>
+eat	VB	_ <O>
+.	.	_ <O>
+
+NULL

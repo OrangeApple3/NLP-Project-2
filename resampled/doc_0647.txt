@@ -1,0 +1,120 @@
+NULL
+Although	IN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+18th	JJ	_ <O>
+century	NN	_ <O>
+their	PRP$	_ <O>
+importance	NN	_ <O>
+was	VBD	_ <O>
+diminished	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+introduction	NN	_ <O>
+of	IN	_ <O>
+modern	JJ	_ <O>
+infantry	NN	_ <O>
+firearms	NNS	_ <O>
+and	CC	_ <O>
+quick	JJ	_ <O>
+-	HYPH	_ <O>
+firing	NN	_ <O>
+artillery	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Polish	JJ	_ <O>
+hussars	NNS	_ <O>
+'	POS	_ <O>
+tactics	NNS	_ <O>
+and	CC	_ <O>
+armament	NN	_ <O>
+remained	VBD	_ <O>
+almost	RB	_ <O>
+unchanged	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Until	IN	_ <O>
+the	DT	_ <O>
+18th	JJ	_ <O>
+century	NN	_ <O>
+they	PRP	_ <O>
+were	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+the	DT	_ <O>
+elite	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Polish	JJ	_ <O>
+armed	JJ	_ <O>
+forces	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Because	IN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+fame	NN	_ <O>
+and	CC	_ <O>
+prestige	NN	_ <O>
+that	WDT	_ <O>
+surrounded	VBD	_ <O>
+the	DT	_ <O>
+hussars	NNS	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+them	PRP	<I-CUE>
+were	VBD	_ <O>
+members	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+nobility	NN	_ <O>
+(	-LRB-	_ <O>
+szlachta	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Until	IN	_ <O>
+the	DT	_ <O>
+18th	JJ	_ <O>
+century	NN	_ <O>
+they	PRP	_ <O>
+were	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+the	DT	_ <O>
+elite	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Polish	JJ	_ <O>
+armed	JJ	_ <O>
+forces	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Because	IN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+fame	NN	_ <O>
+and	CC	_ <O>
+prestige	NN	_ <O>
+that	WDT	_ <O>
+surrounded	VBD	_ <O>
+the	DT	_ <O>
+hussars	NNS	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+them	PRP	<I-CUE>
+were	VBD	_ <O>
+members	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+nobility	NN	_ <O>
+(	-LRB-	_ <O>
+szlachta	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

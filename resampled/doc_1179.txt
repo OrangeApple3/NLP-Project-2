@@ -1,0 +1,212 @@
+NULL
+They	PRP	_ <O>
+claim	VBP	_ <O>
+that	IN	_ <O>
+any	DT	_ <O>
+fact	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+fit	VBN	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+evolutionary	JJ	_ <O>
+framework	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+therefore	RB	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+impossible	JJ	_ <O>
+to	TO	_ <O>
+demonstrate	VB	_ <O>
+evolution	NN	_ <O>
+is	VBZ	_ <O>
+wrong	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+Popper	NNP	_ <O>
+later	RB	_ <O>
+recanted	VBD	_ <O>
+,	,	_ <O>
+stating	VBG	_ <O>
+that	IN	_ <O>
+that	DT	_ <O>
+natural	JJ	_ <O>
+selection	NN	_ <O>
+is	VBZ	_ <O>
+falsifiable	JJ	_ <O>
+and	CC	_ <O>
+offered	VBD	_ <O>
+a	DT	_ <O>
+more	RBR	_ <O>
+nuanced	JJ	_ <O>
+view	NN	_ <O>
+of	IN	_ <O>
+its	PRP$	_ <O>
+status	NN	_ <O>
+:	:	_ <O>
+
+NULL
+Others	NNS	<B-CUE>
+claim	NN	_ <O>
+evolution	NN	_ <O>
+is	VBZ	_ <O>
+unfalsifiable	JJ	_ <O>
+in	IN	_ <O>
+large	JJ	_ <O>
+part	NN	_ <O>
+because	IN	_ <O>
+,	,	_ <O>
+like	IN	_ <O>
+theories	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+gravitation	NN	_ <O>
+,	,	_ <O>
+evolution	NN	_ <O>
+is	VBZ	_ <O>
+so	RB	_ <O>
+widely	RB	<B-CUE>
+confirmed	VBN	<I-CUE>
+,	,	_ <O>
+and	CC	_ <O>
+so	RB	_ <O>
+foundational	JJ	<B-CUE>
+,	,	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+likelihood	NN	_ <O>
+of	IN	_ <O>
+any	DT	_ <O>
+evidence	NN	_ <O>
+disproving	VBG	_ <O>
+it	PRP	_ <O>
+wholesale	JJ	_ <O>
+(	-LRB-	_ <O>
+as	IN	_ <O>
+opposed	VBN	_ <O>
+to	TO	_ <O>
+merely	RB	_ <O>
+refining	VBG	_ <O>
+it	PRP	_ <O>
+)	-RRB-	_ <O>
+has	VBZ	_ <O>
+become	VBN	_ <O>
+increasingly	RB	_ <O>
+improbable	JJ	_ <O>
+and	CC	_ <O>
+difficult	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+point	NN	_ <O>
+of	IN	_ <O>
+virtual	JJ	_ <O>
+impossibility	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Others	NNS	<B-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+past	JJ	_ <O>
+events	NNS	_ <O>
+of	IN	_ <O>
+speciation	NN	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+observable	JJ	_ <O>
+and	CC	_ <O>
+repeatable	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+therefore	RB	_ <O>
+evolution	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+falsifiable	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Others	NNS	<B-CUE>
+claim	NN	_ <O>
+evolution	NN	_ <O>
+is	VBZ	_ <O>
+unfalsifiable	JJ	_ <O>
+in	IN	_ <O>
+large	JJ	_ <O>
+part	NN	_ <O>
+because	IN	_ <O>
+,	,	_ <O>
+like	IN	_ <O>
+theories	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+gravitation	NN	_ <O>
+,	,	_ <O>
+evolution	NN	_ <O>
+is	VBZ	_ <O>
+so	RB	_ <O>
+widely	RB	<B-CUE>
+confirmed	VBN	<I-CUE>
+,	,	_ <O>
+and	CC	_ <O>
+so	RB	_ <O>
+foundational	JJ	<B-CUE>
+,	,	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+likelihood	NN	_ <O>
+of	IN	_ <O>
+any	DT	_ <O>
+evidence	NN	_ <O>
+disproving	VBG	_ <O>
+it	PRP	_ <O>
+wholesale	JJ	_ <O>
+(	-LRB-	_ <O>
+as	IN	_ <O>
+opposed	VBN	_ <O>
+to	TO	_ <O>
+merely	RB	_ <O>
+refining	VBG	_ <O>
+it	PRP	_ <O>
+)	-RRB-	_ <O>
+has	VBZ	_ <O>
+become	VBN	_ <O>
+increasingly	RB	_ <O>
+improbable	JJ	_ <O>
+and	CC	_ <O>
+difficult	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+point	NN	_ <O>
+of	IN	_ <O>
+virtual	JJ	_ <O>
+impossibility	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Others	NNS	<B-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+past	JJ	_ <O>
+events	NNS	_ <O>
+of	IN	_ <O>
+speciation	NN	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+observable	JJ	_ <O>
+and	CC	_ <O>
+repeatable	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+therefore	RB	_ <O>
+evolution	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+falsifiable	JJ	_ <O>
+.	.	_ <O>
+
+NULL

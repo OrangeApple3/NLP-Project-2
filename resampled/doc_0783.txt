@@ -1,0 +1,108 @@
+Grover	NNP	_ <O>
+Cleveland	NNP	_ <O>
+President	NNP	_ <O>
+(	-LRB-	_ <O>
+D	NNP	_ <O>
+)	-RRB-	_ <O>
+
+NULL
+(	-LRB-	_ <O>
+1884	CD	_ <O>
+)	-RRB-	_ <O>
+
+NULL
+James	NNP	_ <O>
+Buchanan	NNP	_ <O>
+President	NNP	_ <O>
+(	-LRB-	_ <O>
+D	NNP	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+future	JJ	_ <O>
+Vice	NNP	_ <O>
+President	NNP	_ <O>
+William	NNP	_ <O>
+Rufus	NNP	_ <O>
+King	NNP	_ <O>
+(	-LRB-	_ <O>
+D	NNP	_ <O>
+-	HYPH	_ <O>
+NC	NNP	_ <O>
+)	-RRB-	_ <O>
+were	VBD	_ <O>
+the	DT	_ <O>
+subject	NN	_ <O>
+of	IN	_ <O>
+scandalous	JJ	_ <O>
+gossip	NN	_ <O>
+(	-LRB-	_ <O>
+alleging	VBG	_ <O>
+a	DT	_ <O>
+homosexual	JJ	_ <O>
+affair	NN	_ <O>
+)	-RRB-	_ <O>
+in	IN	_ <O>
+Washington	NNP	_ <O>
+,	,	_ <O>
+D.C.	NNP	_ <O>
+for	IN	_ <O>
+many	JJ	_ <O>
+years	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Andrew	NNP	_ <O>
+Jackson	NNP	_ <O>
+referred	VBD	_ <O>
+to	IN	_ <O>
+them	PRP	_ <O>
+as	IN	_ <O>
+Miss	NNP	_ <O>
+Nancy	NNP	_ <O>
+and	CC	_ <O>
+Aunt	NNP	_ <O>
+Fancy	NNP	_ <O>
+.	.	_ <O>
+(	-LRB-	_ <O>
+1850	CD	_ <O>
+'s	POS	_ <O>
+)	-RRB-	_ <O>
+
+NULL
+Petticoat	NNP	_ <O>
+Affair	NNP	_ <O>
+or	CC	_ <O>
+Eaton	NNP	_ <O>
+Affair	NNP	_ <O>
+
+NULL
+Alexander	NNP	_ <O>
+Hamilton	NNP	_ <O>
+-	HYPH	_ <O>
+Maria	NNP	_ <O>
+Reynolds	NNP	_ <O>
+affair	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Secretary	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Treasury	NNP	_ <O>
+Hamilton	NNP	_ <O>
+had	VBD	_ <O>
+an	DT	_ <O>
+affair	NN	_ <O>
+with	IN	_ <O>
+Maria	NNP	_ <O>
+Reynolds	NNP	_ <O>
+while	IN	_ <O>
+both	CC	_ <O>
+were	VBD	_ <O>
+married	VBN	_ <O>
+to	IN	_ <O>
+other	JJ	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+
+NULL

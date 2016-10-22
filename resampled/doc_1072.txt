@@ -1,0 +1,203 @@
+NULL
+A	DT	_ <O>
+2002	CD	_ <O>
+literature	NN	_ <O>
+review	NN	_ <O>
+of	IN	_ <O>
+elective	JJ	_ <O>
+abortion	NN	_ <O>
+rates	NNS	_ <O>
+found	VBD	_ <O>
+that	IN	_ <O>
+91–93	CD	_ <O>
+%	NN	_ <O>
+of	IN	_ <O>
+pregnancies	NNS	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+diagnosis	NN	_ <O>
+of	IN	_ <O>
+Down	NNP	_ <O>
+syndrome	NN	_ <O>
+were	VBD	_ <O>
+terminated	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	_ <O>
+similar	JJ	_ <O>
+to	IN	_ <O>
+90	CD	_ <O>
+%	NN	_ <O>
+results	NNS	_ <O>
+found	VBN	_ <O>
+by	IN	_ <O>
+Physicians	NNPS	_ <O>
+and	CC	_ <O>
+ethicists	NNS	_ <O>
+are	VBP	_ <O>
+concerned	JJ	_ <O>
+about	IN	_ <O>
+the	DT	_ <O>
+ethical	JJ	_ <O>
+ramifications	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Lord	NNP	_ <O>
+Brian	NNP	_ <O>
+Rix	NNP	_ <O>
+has	VBZ	_ <O>
+stated	VBN	_ <O>
+that	IN	_ <O>
+"	``	_ <O>
+alas	UH	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+birth	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+child	NN	_ <O>
+with	IN	_ <O>
+Down	NNP	_ <O>
+'s	POS	_ <O>
+syndrome	NN	_ <O>
+is	VBZ	_ <O>
+still	RB	_ <O>
+considered	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+an	DT	_ <O>
+utter	JJ	_ <O>
+tragedy	NN	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+ghost	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+biologist	NN	_ <O>
+Sir	NNP	_ <O>
+Francis	NNP	_ <O>
+Galton	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+founded	VBD	_ <O>
+the	DT	_ <O>
+eugenics	NNS	_ <O>
+movement	NN	_ <O>
+in	IN	_ <O>
+1885	CD	_ <O>
+,	,	_ <O>
+still	RB	_ <O>
+stalks	VBZ	_ <O>
+the	DT	_ <O>
+corridors	NNS	_ <O>
+of	IN	_ <O>
+many	PDT	_ <O>
+a	DT	_ <O>
+teaching	NN	_ <O>
+hospital	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+David	NNP	_ <O>
+Mortimer	NNP	_ <O>
+has	VBZ	_ <O>
+argued	VBN	_ <O>
+in	IN	_ <O>
+'	``	_ <O>
+Ethics	NNP	_ <O>
+&	CC	_ <O>
+Medicine	NNP	_ <O>
+'	''	_ <O>
+that	IN	_ <O>
+"	``	_ <O>
+Down	NNP	_ <O>
+'s	POS	_ <O>
+syndrome	NN	_ <O>
+infants	NNS	_ <O>
+have	VBP	_ <O>
+long	RB	_ <O>
+been	VBN	_ <O>
+disparaged	VBN	_ <O>
+by	IN	_ <O>
+some	DT	_ <O>
+doctors	NNS	_ <O>
+and	CC	_ <O>
+government	NN	_ <O>
+bean	NN	_ <O>
+counters	NNS	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+members	NNS	<I-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+disability	NN	<I-CUE>
+rights	NNS	<I-CUE>
+movement	NN	<I-CUE>
+"	``	_ <O>
+believe	VBP	_ <O>
+that	IN	_ <O>
+public	JJ	_ <O>
+support	NN	_ <O>
+for	IN	_ <O>
+prenatal	JJ	_ <O>
+diagnosis	NN	_ <O>
+and	CC	_ <O>
+abortion	NN	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+disability	NN	_ <O>
+contravenes	NNS	_ <O>
+the	DT	_ <O>
+movement	NN	_ <O>
+'s	POS	_ <O>
+basic	JJ	_ <O>
+philosophy	NN	_ <O>
+and	CC	_ <O>
+goals	NNS	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+members	NNS	<I-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+disability	NN	<I-CUE>
+rights	NNS	<I-CUE>
+movement	NN	<I-CUE>
+"	``	_ <O>
+believe	VBP	_ <O>
+that	IN	_ <O>
+public	JJ	_ <O>
+support	NN	_ <O>
+for	IN	_ <O>
+prenatal	JJ	_ <O>
+diagnosis	NN	_ <O>
+and	CC	_ <O>
+abortion	NN	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+disability	NN	_ <O>
+contravenes	NNS	_ <O>
+the	DT	_ <O>
+movement	NN	_ <O>
+'s	POS	_ <O>
+basic	JJ	_ <O>
+philosophy	NN	_ <O>
+and	CC	_ <O>
+goals	NNS	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

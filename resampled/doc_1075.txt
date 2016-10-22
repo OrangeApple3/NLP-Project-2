@@ -1,0 +1,94 @@
+NULL
+Winds	NNS	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+Great	NNP	_ <O>
+Lakes	NNPS	_ <O>
+are	VBP	_ <O>
+notoriously	RB	_ <O>
+unpredictable	JJ	_ <O>
+and	CC	_ <O>
+can	MD	_ <O>
+increase	VB	_ <O>
+to	IN	_ <O>
+gale	NN	_ <O>
+forces	NNS	_ <O>
+and	CC	_ <O>
+more	JJR	_ <O>
+almost	RB	_ <O>
+without	IN	_ <O>
+warning	NN	_ <O>
+.	.	_ <O>
+
+NULL
+While	IN	_ <O>
+the	DT	_ <O>
+Porte	NNP	_ <O>
+des	FW	_ <O>
+Morts	NNP	_ <O>
+Passage	NNP	_ <O>
+proper	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+south	NN	_ <O>
+of	IN	_ <O>
+Plum	NNP	_ <O>
+Island	NNP	_ <O>
+is	VBZ	_ <O>
+relatively	RB	_ <O>
+hazard	NN	_ <O>
+free	JJ	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Detroit	NNP	_ <O>
+Island	NNP	_ <O>
+Passage	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+north	NN	_ <O>
+of	IN	_ <O>
+Plum	NNP	_ <O>
+Island	NNP	_ <O>
+has	VBZ	_ <O>
+many	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+say	VB	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+more	JJR	_ <O>
+shipwrecks	NNS	_ <O>
+than	IN	_ <O>
+any	DT	_ <O>
+other	JJ	_ <O>
+section	NN	_ <O>
+of	IN	_ <O>
+fresh	JJ	_ <O>
+water	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+say	VB	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+more	JJR	_ <O>
+shipwrecks	NNS	_ <O>
+than	IN	_ <O>
+any	DT	_ <O>
+other	JJ	_ <O>
+section	NN	_ <O>
+of	IN	_ <O>
+fresh	JJ	_ <O>
+water	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+.	.	_ <O>
+
+NULL

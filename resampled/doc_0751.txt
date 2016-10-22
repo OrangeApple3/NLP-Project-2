@@ -1,0 +1,205 @@
+NULL
+During	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+90	CD	_ <O>
+'s	POS	_ <O>
+government	NN	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+civil	JJ	_ <O>
+society	NN	_ <O>
+of	IN	_ <O>
+Bangladesh	NNP	_ <O>
+felt	VBD	_ <O>
+that	IN	_ <O>
+existing	VBG	_ <O>
+public	JJ	_ <O>
+universities	NNS	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+sufficient	JJ	_ <O>
+to	TO	_ <O>
+meet	VB	_ <O>
+the	DT	_ <O>
+constantly	RB	_ <O>
+increasing	VBG	_ <O>
+high	JJ	_ <O>
+demand	NN	_ <O>
+of	IN	_ <O>
+higher	JJR	_ <O>
+education	NN	_ <O>
+in	IN	_ <O>
+Bangladesh	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+All	PDT	_ <O>
+those	DT	_ <O>
+issues	NNS	_ <O>
+leaded	VBD	_ <O>
+them	PRP	_ <O>
+to	TO	_ <O>
+permit	VB	_ <O>
+private	JJ	_ <O>
+sectors	NNS	_ <O>
+to	TO	_ <O>
+establish	VB	_ <O>
+universities	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+On	IN	_ <O>
+9	CD	_ <O>
+August	NNP	_ <O>
+,	,	_ <O>
+1992	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Private	NNP	_ <O>
+University	NNP	_ <O>
+Act	NNP	_ <O>
+was	VBD	_ <O>
+passed	VBN	_ <O>
+and	CC	_ <O>
+with	IN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+next	JJ	_ <O>
+few	JJ	_ <O>
+years	NNS	_ <O>
+a	DT	_ <O>
+good	JJ	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+private	JJ	_ <O>
+universities	NNS	_ <O>
+were	VBD	_ <O>
+established	VBN	_ <O>
+in	IN	_ <O>
+Dhaka	NNP	_ <O>
+,	,	_ <O>
+Chittagong	NNP	_ <O>
+,	,	_ <O>
+Rajshahi	NNP	_ <O>
+and	CC	_ <O>
+Sylhet	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Independent	NNP	_ <O>
+University	NNP	_ <O>
+,	,	_ <O>
+Bangladesh	NNP	_ <O>
+(	-LRB-	_ <O>
+1993	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+American	NNP	_ <O>
+International	NNP	_ <O>
+University	NNP	_ <O>
+-	HYPH	_ <O>
+Bangladesh	NNP	_ <O>
+(	-LRB-	_ <O>
+1994	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+Ahsanullah	NNP	_ <O>
+University	NNP	_ <O>
+of	IN	_ <O>
+Science	NNP	_ <O>
+and	CC	_ <O>
+Technology(1995	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+East	JJ	_ <O>
+West	NNP	_ <O>
+University(1996	NNP	_ <O>
+)	-RRB-	_ <O>
+are	VBP	_ <O>
+some	DT	_ <O>
+earliest	JJS	_ <O>
+private	JJ	_ <O>
+universities	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+country	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Moreover	RB	_ <O>
+,	,	_ <O>
+to	TO	_ <O>
+maintain	VB	_ <O>
+the	DT	_ <O>
+quality	NN	_ <O>
+education	NN	_ <O>
+most	JJS	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+reputed	VBN	<I-CUE>
+public	JJ	<I-CUE>
+universities	NNS	<I-CUE>
+kept	VBD	_ <O>
+themselves	PRP	_ <O>
+extremely	RB	_ <O>
+selective	JJ	_ <O>
+and	CC	_ <O>
+each	DT	_ <O>
+year	NN	_ <O>
+a	DT	<B-CUE>
+large	JJ	<I-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+students	NNS	<I-CUE>
+failed	VBD	_ <O>
+to	TO	_ <O>
+get	VB	_ <O>
+admitted	VBN	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+higher	JJR	_ <O>
+educational	JJ	_ <O>
+institutions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Moreover	RB	_ <O>
+,	,	_ <O>
+to	TO	_ <O>
+maintain	VB	_ <O>
+the	DT	_ <O>
+quality	NN	_ <O>
+education	NN	_ <O>
+most	JJS	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+reputed	VBN	<I-CUE>
+public	JJ	<I-CUE>
+universities	NNS	<I-CUE>
+kept	VBD	_ <O>
+themselves	PRP	_ <O>
+extremely	RB	_ <O>
+selective	JJ	_ <O>
+and	CC	_ <O>
+each	DT	_ <O>
+year	NN	_ <O>
+a	DT	<B-CUE>
+large	JJ	<I-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+students	NNS	<I-CUE>
+failed	VBD	_ <O>
+to	TO	_ <O>
+get	VB	_ <O>
+admitted	VBN	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+higher	JJR	_ <O>
+educational	JJ	_ <O>
+institutions	NNS	_ <O>
+.	.	_ <O>
+
+NULL

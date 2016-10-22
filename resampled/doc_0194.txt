@@ -1,0 +1,131 @@
+NULL
+He	PRP	_ <O>
+travelled	VBD	_ <O>
+a	DT	_ <O>
+lot	NN	_ <O>
+through	IN	_ <O>
+Maharashtra	NNP	_ <O>
+,	,	_ <O>
+Rajasthan	NNP	_ <O>
+,	,	_ <O>
+Gujarat	NNP	_ <O>
+and	CC	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Himalayas	NNP	_ <O>
+,	,	_ <O>
+enjoying	VBG	_ <O>
+the	DT	_ <O>
+patronage	NN	_ <O>
+of	IN	_ <O>
+various	JJ	_ <O>
+royal	JJ	_ <O>
+families	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+paintings	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+acquired	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Buckingham	NNP	_ <O>
+Palace	NNP	_ <O>
+,	,	_ <O>
+London	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+South	NNP	_ <O>
+Kensington	NNP	_ <O>
+Museum	NNP	_ <O>
+(	-LRB-	_ <O>
+now	RB	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+Victoria	NNP	_ <O>
+and	CC	_ <O>
+Albert	NNP	_ <O>
+Museum	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Few	JJ	_ <O>
+also	RB	_ <O>
+exist	VBP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+collections	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Museums	NNS	_ <O>
+at	IN	_ <O>
+Sangli	NNP	_ <O>
+,	,	_ <O>
+Maharashtra	NNP	_ <O>
+Bikaner	NNP	_ <O>
+,	,	_ <O>
+Rajasthan	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Jodhpur	NNP	_ <O>
+Fort	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Royal	NNP	_ <O>
+Palace	NNP	_ <O>
+at	IN	_ <O>
+Jaipur	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Muller	NNP	_ <O>
+went	VBD	_ <O>
+to	IN	_ <O>
+Bombay	NNP	_ <O>
+(	-LRB-	_ <O>
+now	RB	_ <O>
+Mumbai	NNP	_ <O>
+)	-RRB-	_ <O>
+in	IN	_ <O>
+1911	CD	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+considered	VBN	<B-CUE>
+the	DT	_ <O>
+haven	NN	_ <O>
+of	IN	_ <O>
+Art	NN	_ <O>
+in	IN	_ <O>
+India	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Muller	NNP	_ <O>
+went	VBD	_ <O>
+to	IN	_ <O>
+Bombay	NNP	_ <O>
+(	-LRB-	_ <O>
+now	RB	_ <O>
+Mumbai	NNP	_ <O>
+)	-RRB-	_ <O>
+in	IN	_ <O>
+1911	CD	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+considered	VBN	<B-CUE>
+the	DT	_ <O>
+haven	NN	_ <O>
+of	IN	_ <O>
+Art	NN	_ <O>
+in	IN	_ <O>
+India	NNP	_ <O>
+.	.	_ <O>
+
+NULL

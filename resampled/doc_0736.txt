@@ -1,0 +1,168 @@
+NULL
+In	IN	_ <O>
+1937	CD	_ <O>
+he	PRP	_ <O>
+published	VBD	_ <O>
+an	DT	_ <O>
+article	NN	_ <O>
+attacking	VBG	_ <O>
+Japanese	JJ	_ <O>
+Imperialism	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Far	NNP	_ <O>
+East	NNP	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+he	PRP	_ <O>
+betrayed	VBD	_ <O>
+some	DT	_ <O>
+admiration	NN	_ <O>
+for	IN	_ <O>
+other	JJ	_ <O>
+aspects	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Japanese	JJ	_ <O>
+regime	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+may	MD	<I-CUE>
+be	VB	<I-CUE>
+observed	VBN	<I-CUE>
+that	IN	_ <O>
+along	IN	_ <O>
+with	IN	_ <O>
+Nehru	NNP	_ <O>
+,	,	_ <O>
+Bose	NNP	_ <O>
+had	VBD	_ <O>
+organized	VBN	_ <O>
+and	CC	_ <O>
+led	VBN	_ <O>
+protest	NN	_ <O>
+marches	NNS	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+Japanese	JJ	_ <O>
+invasion	NN	_ <O>
+of	IN	_ <O>
+Manchuria	NNP	_ <O>
+in	IN	_ <O>
+1931	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+of	IN	_ <O>
+China	NNP	_ <O>
+itself	PRP	_ <O>
+in	IN	_ <O>
+1938	CD	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+Congress	NNP	_ <O>
+president	NN	_ <O>
+.	.	_ <O>
+
+NULL
+But	CC	_ <O>
+could	MD	_ <O>
+not	RB	_ <O>
+all	RB	_ <O>
+this	DT	_ <O>
+have	VBP	<B-CUE>
+been	VBN	<I-CUE>
+achieved	VBN	<I-CUE>
+without	IN	_ <O>
+Imperialism	NNP	_ <O>
+,	,	_ <O>
+without	IN	_ <O>
+dismembering	VBG	_ <O>
+the	DT	_ <O>
+Chinese	NNP	_ <O>
+Republic	NNP	_ <O>
+,	,	_ <O>
+without	IN	_ <O>
+humiliating	VBG	_ <O>
+another	DT	_ <O>
+proud	JJ	_ <O>
+,	,	_ <O>
+cultured	JJ	_ <O>
+and	CC	_ <O>
+ancient	JJ	_ <O>
+race	NN	_ <O>
+?	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+may	MD	<I-CUE>
+be	VB	<I-CUE>
+observed	VBN	<I-CUE>
+that	IN	_ <O>
+along	IN	_ <O>
+with	IN	_ <O>
+Nehru	NNP	_ <O>
+,	,	_ <O>
+Bose	NNP	_ <O>
+had	VBD	_ <O>
+organized	VBN	_ <O>
+and	CC	_ <O>
+led	VBN	_ <O>
+protest	NN	_ <O>
+marches	NNS	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+Japanese	JJ	_ <O>
+invasion	NN	_ <O>
+of	IN	_ <O>
+Manchuria	NNP	_ <O>
+in	IN	_ <O>
+1931	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+of	IN	_ <O>
+China	NNP	_ <O>
+itself	PRP	_ <O>
+in	IN	_ <O>
+1938	CD	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+Congress	NNP	_ <O>
+president	NN	_ <O>
+.	.	_ <O>
+
+NULL
+But	CC	_ <O>
+could	MD	_ <O>
+not	RB	_ <O>
+all	RB	_ <O>
+this	DT	_ <O>
+have	VBP	<B-CUE>
+been	VBN	<I-CUE>
+achieved	VBN	<I-CUE>
+without	IN	_ <O>
+Imperialism	NNP	_ <O>
+,	,	_ <O>
+without	IN	_ <O>
+dismembering	VBG	_ <O>
+the	DT	_ <O>
+Chinese	NNP	_ <O>
+Republic	NNP	_ <O>
+,	,	_ <O>
+without	IN	_ <O>
+humiliating	VBG	_ <O>
+another	DT	_ <O>
+proud	JJ	_ <O>
+,	,	_ <O>
+cultured	JJ	_ <O>
+and	CC	_ <O>
+ancient	JJ	_ <O>
+race	NN	_ <O>
+?	.	_ <O>
+
+NULL

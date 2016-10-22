@@ -1,0 +1,78 @@
+NULL
+It	PRP	_ <O>
+may	MD	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+fact	NN	_ <O>
+,	,	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+fundamental	JJ	_ <O>
+aspect	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+universe	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+makes	VBZ	_ <O>
+the	DT	_ <O>
+Planck	NNP	_ <O>
+scale	VB	_ <O>
+a	DT	_ <O>
+fascinating	JJ	_ <O>
+realm	NN	_ <O>
+for	IN	_ <O>
+speculation	NN	_ <O>
+by	IN	_ <O>
+theoretical	JJ	_ <O>
+physicists	NNS	_ <O>
+from	IN	_ <O>
+various	JJ	_ <O>
+schools	NNS	_ <O>
+of	IN	_ <O>
+thought	NN	_ <O>
+.	.	_ <O>
+
+NULL
+These	DT	_ <O>
+approaches	NNS	_ <O>
+,	,	_ <O>
+among	IN	_ <O>
+several	JJ	<B-CUE>
+others	NNS	<I-CUE>
+,	,	_ <O>
+are	VBP	_ <O>
+being	VBG	_ <O>
+considered	VBN	_ <O>
+to	TO	_ <O>
+gain	VB	_ <O>
+insight	NN	_ <O>
+into	IN	_ <O>
+Planck	NNP	_ <O>
+scale	NN	_ <O>
+dynamics	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+These	DT	_ <O>
+approaches	NNS	_ <O>
+,	,	_ <O>
+among	IN	_ <O>
+several	JJ	<B-CUE>
+others	NNS	<I-CUE>
+,	,	_ <O>
+are	VBP	_ <O>
+being	VBG	_ <O>
+considered	VBN	_ <O>
+to	TO	_ <O>
+gain	VB	_ <O>
+insight	NN	_ <O>
+into	IN	_ <O>
+Planck	NNP	_ <O>
+scale	NN	_ <O>
+dynamics	NNS	_ <O>
+.	.	_ <O>
+
+NULL

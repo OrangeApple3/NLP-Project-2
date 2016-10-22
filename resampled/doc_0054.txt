@@ -1,0 +1,151 @@
+NULL
+He	PRP	_ <O>
+began	VBD	_ <O>
+writing	VBG	_ <O>
+lyrics	NNS	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+own	JJ	_ <O>
+guitar	NN	_ <O>
+improvisations	NNS	_ <O>
+while	IN	_ <O>
+still	RB	_ <O>
+in	IN	_ <O>
+his	PRP$	_ <O>
+teens	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+he	PRP	_ <O>
+moved	VBD	_ <O>
+to	IN	_ <O>
+nearby	JJ	_ <O>
+Montevideo	NNP	_ <O>
+,	,	_ <O>
+Uruguay	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+years	NNS	_ <O>
+later	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Matos	NNP	_ <O>
+Rodríguez	NNP	_ <O>
+went	VBD	_ <O>
+on	RP	_ <O>
+to	TO	_ <O>
+write	VB	_ <O>
+what	WP	_ <O>
+became	VBD	_ <O>
+perhaps	RB	_ <O>
+the	DT	_ <O>
+best	RBS	_ <O>
+-	HYPH	_ <O>
+known	VBN	_ <O>
+tango	NN	_ <O>
+composition	NN	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+La	NNP	_ <O>
+Cumparsita	NNP	_ <O>
+'	''	_ <O>
+-	:	_ <O>
+though	IN	_ <O>
+his	PRP$	_ <O>
+original	JJ	_ <O>
+lyrics	NNS	_ <O>
+were	VBD	_ <O>
+replaced	VBN	_ <O>
+by	IN	_ <O>
+Contursi	NNP	_ <O>
+'s	POS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+version	NN	_ <O>
+known	VBN	_ <O>
+around	IN	_ <O>
+1924	CD	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+Si	NNP	_ <O>
+Supieras	NNP	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+If	IN	_ <O>
+You	PRP	_ <O>
+Knew	NNP	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Matos	NNP	_ <O>
+Rodríguez	NNP	_ <O>
+succeeded	VBD	_ <O>
+in	IN	_ <O>
+popularizing	VBG	_ <O>
+'	''	_ <O>
+La	NNP	_ <O>
+Cumparsita	NNP	_ <O>
+'	''	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+song	NN	_ <O>
+'s	POS	_ <O>
+title	NN	_ <O>
+,	,	_ <O>
+though	IN	_ <O>
+Contursi	NNP	_ <O>
+'s	POS	_ <O>
+lyrics	NNS	_ <O>
+became	VBD	_ <O>
+the	DT	_ <O>
+only	RB	_ <O>
+popularly	RB	_ <O>
+-	HYPH	_ <O>
+recognized	VBN	_ <O>
+version	NN	_ <O>
+following	VBG	_ <O>
+tango	NN	_ <O>
+standard	NN	_ <O>
+Carlos	NNP	_ <O>
+Gardel	NNP	_ <O>
+'s	POS	_ <O>
+highly	RB	_ <O>
+recognizable	JJ	_ <O>
+rendition	NN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+composed	VBD	_ <O>
+lyrics	NNS	_ <O>
+for	IN	_ <O>
+33	CD	_ <O>
+tango	NN	_ <O>
+compositions	NNS	_ <O>
+-	HYPH	_ <O>
+many	JJ	<B-CUE>
+well	RB	<B-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+composed	VBD	_ <O>
+lyrics	NNS	_ <O>
+for	IN	_ <O>
+33	CD	_ <O>
+tango	NN	_ <O>
+compositions	NNS	_ <O>
+-	HYPH	_ <O>
+many	JJ	<B-CUE>
+well	RB	<B-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL

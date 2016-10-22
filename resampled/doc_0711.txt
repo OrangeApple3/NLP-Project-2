@@ -1,0 +1,203 @@
+NULL
+Social	JJ	_ <O>
+predation	NN	_ <O>
+allows	VBZ	_ <O>
+some	DT	<B-CUE>
+animals	NNS	<I-CUE>
+to	TO	_ <O>
+organize	VB	_ <O>
+hunts	NNS	_ <O>
+of	IN	_ <O>
+creatures	NNS	_ <O>
+that	WDT	_ <O>
+would	MD	_ <O>
+easily	RB	_ <O>
+escape	VB	_ <O>
+a	DT	_ <O>
+single	JJ	_ <O>
+predator	NN	_ <O>
+;	:	_ <O>
+thus	RB	_ <O>
+chimpanzees	NNS	_ <O>
+can	MD	_ <O>
+prey	VB	_ <O>
+upon	IN	_ <O>
+colubus	NN	_ <O>
+monkeys	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+harrier	NN	_ <O>
+hawks	NNS	_ <O>
+can	MD	_ <O>
+cut	VB	_ <O>
+off	RP	_ <O>
+all	DT	_ <O>
+possible	JJ	_ <O>
+escapes	NNS	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+doomed	JJ	_ <O>
+rabbit	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Extreme	JJ	_ <O>
+specialization	NN	_ <O>
+of	IN	_ <O>
+roles	NNS	_ <O>
+is	VBZ	_ <O>
+evident	JJ	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+hunting	NN	_ <O>
+that	WDT	_ <O>
+requires	VBZ	_ <O>
+co	NN	_ <O>
+-	HYPH	_ <O>
+operation	NN	_ <O>
+between	IN	_ <O>
+predators	NNS	_ <O>
+of	IN	_ <O>
+very	RB	_ <O>
+different	JJ	_ <O>
+species	NN	_ <O>
+:	:	_ <O>
+humans	NNS	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+aid	NN	_ <O>
+of	IN	_ <O>
+falcons	NNS	_ <O>
+or	CC	_ <O>
+dogs	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+fishing	NN	_ <O>
+with	IN	_ <O>
+cormorants	NNS	_ <O>
+or	CC	_ <O>
+dogs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Even	RB	_ <O>
+without	IN	_ <O>
+complex	JJ	_ <O>
+intelligence	NN	_ <O>
+but	CC	_ <O>
+instinct	NN	_ <O>
+alone	RB	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+ant	NN	<I-CUE>
+species	NNS	<I-CUE>
+can	MD	<B-CUE>
+destroy	VB	_ <O>
+much	RB	_ <O>
+-	HYPH	_ <O>
+larger	JJR	_ <O>
+creatures	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Social	JJ	_ <O>
+predation	NN	_ <O>
+allows	VBZ	_ <O>
+some	DT	<B-CUE>
+animals	NNS	<I-CUE>
+to	TO	_ <O>
+organize	VB	_ <O>
+hunts	NNS	_ <O>
+of	IN	_ <O>
+creatures	NNS	_ <O>
+that	WDT	_ <O>
+would	MD	_ <O>
+easily	RB	_ <O>
+escape	VB	_ <O>
+a	DT	_ <O>
+single	JJ	_ <O>
+predator	NN	_ <O>
+;	:	_ <O>
+thus	RB	_ <O>
+chimpanzees	NNS	_ <O>
+can	MD	_ <O>
+prey	VB	_ <O>
+upon	IN	_ <O>
+colubus	NN	_ <O>
+monkeys	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+harrier	NN	_ <O>
+hawks	NNS	_ <O>
+can	MD	_ <O>
+cut	VB	_ <O>
+off	RP	_ <O>
+all	DT	_ <O>
+possible	JJ	_ <O>
+escapes	NNS	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+doomed	JJ	_ <O>
+rabbit	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Extreme	JJ	_ <O>
+specialization	NN	_ <O>
+of	IN	_ <O>
+roles	NNS	_ <O>
+is	VBZ	_ <O>
+evident	JJ	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+hunting	NN	_ <O>
+that	WDT	_ <O>
+requires	VBZ	_ <O>
+co	NN	_ <O>
+-	HYPH	_ <O>
+operation	NN	_ <O>
+between	IN	_ <O>
+predators	NNS	_ <O>
+of	IN	_ <O>
+very	RB	_ <O>
+different	JJ	_ <O>
+species	NN	_ <O>
+:	:	_ <O>
+humans	NNS	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+aid	NN	_ <O>
+of	IN	_ <O>
+falcons	NNS	_ <O>
+or	CC	_ <O>
+dogs	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+fishing	NN	_ <O>
+with	IN	_ <O>
+cormorants	NNS	_ <O>
+or	CC	_ <O>
+dogs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Even	RB	_ <O>
+without	IN	_ <O>
+complex	JJ	_ <O>
+intelligence	NN	_ <O>
+but	CC	_ <O>
+instinct	NN	_ <O>
+alone	RB	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+ant	NN	<I-CUE>
+species	NNS	<I-CUE>
+can	MD	<B-CUE>
+destroy	VB	_ <O>
+much	RB	_ <O>
+-	HYPH	_ <O>
+larger	JJR	_ <O>
+creatures	NNS	_ <O>
+.	.	_ <O>
+
+NULL

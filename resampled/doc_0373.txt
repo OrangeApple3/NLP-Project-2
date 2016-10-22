@@ -1,0 +1,145 @@
+The	DT	_ <O>
+New	NNP	_ <O>
+Deal	NNP	_ <O>
+allowed	VBD	_ <O>
+machines	NNS	_ <O>
+to	TO	_ <O>
+recruit	VB	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+WPA	NNP	_ <O>
+and	CC	_ <O>
+Civilian	NNP	_ <O>
+Conservation	NNP	_ <O>
+Corps	NNP	_ <O>
+(	-LRB-	_ <O>
+CCC	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+making	VBG	_ <O>
+Farley	NNP	_ <O>
+'s	POS	_ <O>
+machine	NN	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+powerful	JJ	_ <O>
+,	,	_ <O>
+all	DT	_ <O>
+patronage	NN	_ <O>
+was	VBD	_ <O>
+screened	VBN	_ <O>
+through	IN	_ <O>
+Farley	NNP	_ <O>
+including	VBG	_ <O>
+Presidential	JJ	_ <O>
+appointments	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+local	JJ	_ <O>
+political	JJ	_ <O>
+machine	NN	_ <O>
+in	IN	_ <O>
+Tennessee	NNP	_ <O>
+was	VBD	_ <O>
+forcibly	RB	_ <O>
+removed	VBN	_ <O>
+in	IN	_ <O>
+what	WP	_ <O>
+was	VBD	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+Battle	NNP	_ <O>
+of	IN	_ <O>
+Athens	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+1930s	NNS	_ <O>
+,	,	_ <O>
+James	NNP	_ <O>
+A.	NNP	_ <O>
+Farley	NNP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+chief	JJ	_ <O>
+dispenser	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Democratic	NNP	_ <O>
+Party	NNP	_ <O>
+'s	POS	_ <O>
+patronage	NN	_ <O>
+system	NN	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+Postal	NNP	_ <O>
+Department	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Works	NNP	_ <O>
+Progress	NNP	_ <O>
+Administration	NNP	_ <O>
+(	-LRB-	_ <O>
+WPA	NNP	_ <O>
+)	-RRB-	_ <O>
+which	WDT	_ <O>
+eventually	RB	_ <O>
+nationalized	VBD	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+job	NN	<I-CUE>
+benefits	NNS	<I-CUE>
+machines	NNS	_ <O>
+provided	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+1930s	NNS	_ <O>
+,	,	_ <O>
+James	NNP	_ <O>
+A.	NNP	_ <O>
+Farley	NNP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+chief	JJ	_ <O>
+dispenser	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Democratic	NNP	_ <O>
+Party	NNP	_ <O>
+'s	POS	_ <O>
+patronage	NN	_ <O>
+system	NN	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+Postal	NNP	_ <O>
+Department	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Works	NNP	_ <O>
+Progress	NNP	_ <O>
+Administration	NNP	_ <O>
+(	-LRB-	_ <O>
+WPA	NNP	_ <O>
+)	-RRB-	_ <O>
+which	WDT	_ <O>
+eventually	RB	_ <O>
+nationalized	VBD	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+job	NN	<I-CUE>
+benefits	NNS	<I-CUE>
+machines	NNS	_ <O>
+provided	VBN	_ <O>
+.	.	_ <O>
+
+NULL

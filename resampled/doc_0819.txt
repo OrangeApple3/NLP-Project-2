@@ -1,0 +1,97 @@
+Laurent	NNP	_ <O>
+Gbagbo	NNP	_ <O>
+took	VBD	_ <O>
+power	NN	_ <O>
+following	VBG	_ <O>
+a	DT	_ <O>
+popular	JJ	_ <O>
+overthrow	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+interim	JJ	_ <O>
+leader	NN	_ <O>
+Gen.	NNP	_ <O>
+Robert	NNP	_ <O>
+Guéi	NNP	_ <O>
+who	WP	_ <O>
+had	VBD	_ <O>
+claimed	VBN	_ <O>
+a	DT	_ <O>
+dubious	JJ	_ <O>
+victory	NN	_ <O>
+in	IN	_ <O>
+presidential	JJ	_ <O>
+elections	NNS	_ <O>
+;	:	_ <O>
+Gen.	NNP	_ <O>
+Guéi	NNP	_ <O>
+himself	PRP	_ <O>
+had	VBD	_ <O>
+assumed	VBN	_ <O>
+power	NN	_ <O>
+on	IN	_ <O>
+25	CD	_ <O>
+December	NNP	_ <O>
+1999	CD	_ <O>
+,	,	_ <O>
+following	VBG	_ <O>
+a	DT	_ <O>
+military	JJ	_ <O>
+coup	NN	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+of	IN	_ <O>
+former	JJ	_ <O>
+President	NNP	_ <O>
+Henri	NNP	_ <O>
+Konan	NNP	_ <O>
+Bédié.	NNP	_ <O>
+
+NULL
+The	DT	_ <O>
+prime	JJ	_ <O>
+minister	NN	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+appointed	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+president	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Gbagbo	NNP	_ <O>
+was	VBD	_ <O>
+elected	VBN	_ <O>
+president	NN	_ <O>
+in	IN	_ <O>
+2000	CD	_ <O>
+in	IN	_ <O>
+an	DT	_ <O>
+election	NN	_ <O>
+boycotted	VBN	_ <O>
+bt	NN	_ <O>
+many	JJ	<B-CUE>
+oppositional	JJ	<I-CUE>
+forces	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Gbagbo	NNP	_ <O>
+was	VBD	_ <O>
+elected	VBN	_ <O>
+president	NN	_ <O>
+in	IN	_ <O>
+2000	CD	_ <O>
+in	IN	_ <O>
+an	DT	_ <O>
+election	NN	_ <O>
+boycotted	VBN	_ <O>
+bt	NN	_ <O>
+many	JJ	<B-CUE>
+oppositional	JJ	<I-CUE>
+forces	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

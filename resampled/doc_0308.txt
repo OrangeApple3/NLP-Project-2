@@ -1,0 +1,114 @@
+NULL
+For	IN	_ <O>
+many	JJ	_ <O>
+years	NNS	_ <O>
+,	,	_ <O>
+demand	NN	_ <O>
+for	IN	_ <O>
+stamps	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+in	IN	_ <O>
+mainland	NN	_ <O>
+China	NNP	_ <O>
+was	VBD	_ <O>
+also	RB	_ <O>
+low	JJ	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+;	:	_ <O>
+most	RBS	_ <O>
+Chinese	JJ	_ <O>
+collectors	NNS	_ <O>
+outside	IN	_ <O>
+of	IN	_ <O>
+China	NNP	_ <O>
+were	VBD	_ <O>
+n't	RB	_ <O>
+collecting	VBG	_ <O>
+them	PRP	_ <O>
+,	,	_ <O>
+those	DT	_ <O>
+inside	IN	_ <O>
+were	VBD	_ <O>
+n't	RB	_ <O>
+allowed	VBN	_ <O>
+to	TO	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+interest	NN	_ <O>
+among	IN	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+Chinese	JJ	_ <O>
+was	VBD	_ <O>
+minimal	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+PRC	NNP	_ <O>
+issues	NNS	_ <O>
+were	VBD	_ <O>
+considered	VBN	_ <O>
+"	``	_ <O>
+wallpaper	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+As	IN	_ <O>
+always	RB	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+impossible	JJ	_ <O>
+to	TO	_ <O>
+gauge	VB	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+what	WP	_ <O>
+is	VBZ	_ <O>
+clear	JJ	_ <O>
+is	VBZ	_ <O>
+that	IN	_ <O>
+many	JJ	<B-CUE>
+issues	NNS	<I-CUE>
+of	IN	_ <O>
+the	DT	_ <O>
+PRC	NNP	_ <O>
+,	,	_ <O>
+have	VBP	_ <O>
+risen	VBN	_ <O>
+in	IN	_ <O>
+price	NN	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+always	RB	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+impossible	JJ	_ <O>
+to	TO	_ <O>
+gauge	VB	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+what	WP	_ <O>
+is	VBZ	_ <O>
+clear	JJ	_ <O>
+is	VBZ	_ <O>
+that	IN	_ <O>
+many	JJ	<B-CUE>
+issues	NNS	<I-CUE>
+of	IN	_ <O>
+the	DT	_ <O>
+PRC	NNP	_ <O>
+,	,	_ <O>
+have	VBP	_ <O>
+risen	VBN	_ <O>
+in	IN	_ <O>
+price	NN	_ <O>
+.	.	_ <O>
+
+NULL

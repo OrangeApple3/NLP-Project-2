@@ -1,0 +1,20 @@
+NULL
+He	PRP	_ <O>
+had	VBD	_ <O>
+a	DT	_ <O>
+vision	NN	_ <O>
+,	,	_ <O>
+to	TO	_ <O>
+build	VB	_ <O>
+a	DT	_ <O>
+yeshiva	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+European	JJ	_ <O>
+style	NN	_ <O>
+on	IN	_ <O>
+American	JJ	_ <O>
+soil	NN	_ <O>
+.	.	_ <O>
+
+NULL

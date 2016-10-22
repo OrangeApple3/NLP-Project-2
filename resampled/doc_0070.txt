@@ -1,0 +1,46 @@
+Other	JJ	<B-CUE>
+parties	NNS	<I-CUE>
+insist	VB	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+detainees	NNS	_ <O>
+be	VB	_ <O>
+granted	VBN	_ <O>
+full	JJ	_ <O>
+prisoner	NN	_ <O>
+of	IN	_ <O>
+war	NN	_ <O>
+rights	NNS	_ <O>
+and	CC	_ <O>
+privileges	NNS	_ <O>
+listed	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Geneva	NNP	_ <O>
+Convention	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Other	JJ	<B-CUE>
+parties	NNS	<I-CUE>
+insist	VB	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+detainees	NNS	_ <O>
+be	VB	_ <O>
+granted	VBN	_ <O>
+full	JJ	_ <O>
+prisoner	NN	_ <O>
+of	IN	_ <O>
+war	NN	_ <O>
+rights	NNS	_ <O>
+and	CC	_ <O>
+privileges	NNS	_ <O>
+listed	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Geneva	NNP	_ <O>
+Convention	NNP	_ <O>
+.	.	_ <O>
+
+NULL

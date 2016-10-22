@@ -1,0 +1,231 @@
+NULL
+Archaeological	JJ	_ <O>
+finds	NNS	_ <O>
+also	RB	_ <O>
+indicate	VBP	_ <O>
+the	DT	_ <O>
+possible	JJ	_ <O>
+beginnings	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Bronze	NNP	_ <O>
+Age	NNP	_ <O>
+which	WDT	_ <O>
+would	MD	_ <O>
+ultimately	RB	_ <O>
+spread	VB	_ <O>
+throughout	IN	_ <O>
+the	DT	_ <O>
+ancient	JJ	_ <O>
+world	NN	_ <O>
+from	IN	_ <O>
+Afghanistan	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+not	RB	<I-CUE>
+yet	RB	<I-CUE>
+clear	JJ	<I-CUE>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+to	IN	_ <O>
+what	WP	_ <O>
+extent	NN	_ <O>
+these	DT	_ <O>
+periods	NNS	_ <O>
+were	VBD	_ <O>
+contemporaneous	JJ	_ <O>
+with	IN	_ <O>
+similar	JJ	_ <O>
+stages	NNS	_ <O>
+of	IN	_ <O>
+development	NN	_ <O>
+in	IN	_ <O>
+other	JJ	_ <O>
+geographic	JJ	_ <O>
+regions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Urban	JJ	_ <O>
+civilization	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+includes	VBZ	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+Iran	NNP	_ <O>
+,	,	_ <O>
+Afghanistan	NNP	_ <O>
+,	,	_ <O>
+North	NNP	_ <O>
+Western	NNP	_ <O>
+Province	NNP	_ <O>
+of	IN	_ <O>
+Pakistan	NNP	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+Pashtoons	NNPS	_ <O>
+,	,	_ <O>
+may	MD	<B-CUE>
+have	VBP	_ <O>
+begun	VBN	_ <O>
+as	RB	_ <O>
+early	RB	_ <O>
+as	IN	_ <O>
+3000	CD	_ <O>
+to	TO	_ <O>
+2000	CD	_ <O>
+BCE	NNP	_ <O>
+(	-LRB-	_ <O>
+see	VB	_ <O>
+also	RB	_ <O>
+Bactria	NNP	_ <O>
+-	HYPH	_ <O>
+Margiana	NNP	_ <O>
+Archaeological	NNP	_ <O>
+Complex	NNP	_ <O>
+and	CC	_ <O>
+Indus	NNP	_ <O>
+Valley	NNP	_ <O>
+Civilization	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+ancient	JJ	_ <O>
+city	NN	_ <O>
+of	IN	_ <O>
+Mudigak	NNP	_ <O>
+may	MD	<B-CUE>
+have	VBP	_ <O>
+been	VBN	_ <O>
+a	DT	_ <O>
+provincial	JJ	_ <O>
+colony	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Indus	NNP	_ <O>
+Valley	NNP	_ <O>
+Civilization	NNP	_ <O>
+or	CC	_ <O>
+closely	RB	_ <O>
+affiliated	VBN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+this	DT	_ <O>
+remains	VBZ	_ <O>
+largely	RB	_ <O>
+circumstantial	JJ	_ <O>
+and	CC	_ <O>
+speculative	JJ	<B-CUE>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+not	RB	<I-CUE>
+yet	RB	<I-CUE>
+clear	JJ	<I-CUE>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+to	IN	_ <O>
+what	WP	_ <O>
+extent	NN	_ <O>
+these	DT	_ <O>
+periods	NNS	_ <O>
+were	VBD	_ <O>
+contemporaneous	JJ	_ <O>
+with	IN	_ <O>
+similar	JJ	_ <O>
+stages	NNS	_ <O>
+of	IN	_ <O>
+development	NN	_ <O>
+in	IN	_ <O>
+other	JJ	_ <O>
+geographic	JJ	_ <O>
+regions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Urban	JJ	_ <O>
+civilization	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+includes	VBZ	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+Iran	NNP	_ <O>
+,	,	_ <O>
+Afghanistan	NNP	_ <O>
+,	,	_ <O>
+North	NNP	_ <O>
+Western	NNP	_ <O>
+Province	NNP	_ <O>
+of	IN	_ <O>
+Pakistan	NNP	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+Pashtoons	NNPS	_ <O>
+,	,	_ <O>
+may	MD	<B-CUE>
+have	VBP	_ <O>
+begun	VBN	_ <O>
+as	RB	_ <O>
+early	RB	_ <O>
+as	IN	_ <O>
+3000	CD	_ <O>
+to	TO	_ <O>
+2000	CD	_ <O>
+BCE	NNP	_ <O>
+(	-LRB-	_ <O>
+see	VB	_ <O>
+also	RB	_ <O>
+Bactria	NNP	_ <O>
+-	HYPH	_ <O>
+Margiana	NNP	_ <O>
+Archaeological	NNP	_ <O>
+Complex	NNP	_ <O>
+and	CC	_ <O>
+Indus	NNP	_ <O>
+Valley	NNP	_ <O>
+Civilization	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+ancient	JJ	_ <O>
+city	NN	_ <O>
+of	IN	_ <O>
+Mudigak	NNP	_ <O>
+may	MD	<B-CUE>
+have	VBP	_ <O>
+been	VBN	_ <O>
+a	DT	_ <O>
+provincial	JJ	_ <O>
+colony	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Indus	NNP	_ <O>
+Valley	NNP	_ <O>
+Civilization	NNP	_ <O>
+or	CC	_ <O>
+closely	RB	_ <O>
+affiliated	VBN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+this	DT	_ <O>
+remains	VBZ	_ <O>
+largely	RB	_ <O>
+circumstantial	JJ	_ <O>
+and	CC	_ <O>
+speculative	JJ	<B-CUE>
+.	.	_ <O>
+
+NULL

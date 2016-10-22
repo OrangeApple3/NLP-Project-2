@@ -1,0 +1,132 @@
+KOH	NNP	_ <O>
+attracts	VBZ	_ <O>
+numerous	JJ	_ <O>
+specialized	JJ	_ <O>
+applications	NNS	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+virtually	RB	_ <O>
+all	DT	_ <O>
+rely	VBP	_ <O>
+on	IN	_ <O>
+its	PRP$	_ <O>
+basic	JJ	_ <O>
+or	CC	_ <O>
+degradative	JJ	_ <O>
+properties	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Its	PRP$	_ <O>
+corrosive	JJ	_ <O>
+properties	NNS	_ <O>
+make	VBP	_ <O>
+it	PRP	_ <O>
+useful	JJ	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+ingredient	NN	_ <O>
+in	IN	_ <O>
+cleaning	NN	_ <O>
+and	CC	_ <O>
+disinfection	NN	_ <O>
+of	IN	_ <O>
+resistant	JJ	_ <O>
+surfaces	NNS	_ <O>
+and	CC	_ <O>
+materials	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+KOH	NNP	_ <O>
+is	VBZ	_ <O>
+widely	RB	<B-CUE>
+used	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+laboratory	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+purposes	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+KOH	NNP	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+widely	RB	<B-CUE>
+used	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+way	NN	_ <O>
+to	TO	_ <O>
+remove	VB	_ <O>
+hair	NN	_ <O>
+from	IN	_ <O>
+animal	NN	_ <O>
+hides	NNS	_ <O>
+,	,	_ <O>
+leaving	VBG	_ <O>
+the	DT	_ <O>
+hides	NNS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+solution	NN	_ <O>
+of	IN	_ <O>
+KOH	NNP	_ <O>
+and	CC	_ <O>
+water	NN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+hours	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+KOH	NNP	_ <O>
+is	VBZ	_ <O>
+widely	RB	<B-CUE>
+used	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+laboratory	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+purposes	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+KOH	NNP	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+widely	RB	<B-CUE>
+used	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+way	NN	_ <O>
+to	TO	_ <O>
+remove	VB	_ <O>
+hair	NN	_ <O>
+from	IN	_ <O>
+animal	NN	_ <O>
+hides	NNS	_ <O>
+,	,	_ <O>
+leaving	VBG	_ <O>
+the	DT	_ <O>
+hides	NNS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+solution	NN	_ <O>
+of	IN	_ <O>
+KOH	NNP	_ <O>
+and	CC	_ <O>
+water	NN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+hours	NNS	_ <O>
+.	.	_ <O>
+
+NULL

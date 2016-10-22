@@ -1,0 +1,366 @@
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+still	RB	<I-CUE>
+unknown	JJ	<I-CUE>
+whether	IN	<B-CUE>
+Christus	NNP	_ <O>
+visited	VBD	_ <O>
+Italy	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+brought	VBD	_ <O>
+style	NN	_ <O>
+and	CC	_ <O>
+technical	JJ	_ <O>
+accomplishments	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+greatest	JJS	_ <O>
+Northern	JJ	_ <O>
+European	JJ	_ <O>
+painters	NNS	_ <O>
+directly	RB	_ <O>
+to	IN	_ <O>
+Antonello	NNP	_ <O>
+da	NNP	_ <O>
+Messina	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+Italian	JJ	_ <O>
+artists	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+whether	IN	<B-CUE>
+his	PRP$	_ <O>
+paintings	NNS	_ <O>
+were	VBD	_ <O>
+purchased	VBN	_ <O>
+by	IN	_ <O>
+Italians	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+document	NN	_ <O>
+testifying	VBG	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+presence	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+Piero	NNP	_ <O>
+da	NNP	_ <O>
+Bruggia	NNP	_ <O>
+"	''	_ <O>
+(	-LRB-	_ <O>
+Petrus	NNP	_ <O>
+from	IN	_ <O>
+Bruges	NNP	_ <O>
+?	.	_ <O>
+)	-RRB-	_ <O>
+in	IN	_ <O>
+Milan	NNP	_ <O>
+may	MD	<B-CUE>
+suggest	VBP	<B-CUE>
+that	IN	_ <O>
+he	PRP	_ <O>
+visited	VBD	_ <O>
+that	DT	_ <O>
+city	NN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+time	NN	_ <O>
+as	IN	_ <O>
+Antonello	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+artists	NNS	_ <O>
+may	MD	<B-CUE>
+even	RB	_ <O>
+have	VBP	_ <O>
+met	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+might	MD	<B-CUE>
+account	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+remarkable	JJ	_ <O>
+similarities	NNS	_ <O>
+between	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Portrait	NNP	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+Man	NNP	_ <O>
+'	POS	_ <O>
+attributed	VBN	_ <O>
+to	IN	_ <O>
+Christus	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Los	NNP	_ <O>
+Angeles	NNP	_ <O>
+County	NNP	_ <O>
+Museum	NNP	_ <O>
+of	IN	_ <O>
+Art	NNP	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+of	IN	_ <O>
+Antonello	NNP	_ <O>
+'s	POS	_ <O>
+portraits	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+supposed	VBN	_ <O>
+self	NN	_ <O>
+-	HYPH	_ <O>
+portrait	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+National	NNP	_ <O>
+Gallery	NNP	_ <O>
+in	IN	_ <O>
+London	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+composition	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+'	``	_ <O>
+Lamentation	NNP	_ <O>
+'	''	_ <O>
+now	RB	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+Metropolitan	NNP	_ <O>
+Museum	NNP	_ <O>
+of	IN	_ <O>
+Art	NNP	_ <O>
+so	CC	_ <O>
+closely	RB	_ <O>
+inspired	VBD	_ <O>
+a	DT	_ <O>
+marble	NN	_ <O>
+relief	NN	_ <O>
+by	IN	_ <O>
+Antonello	NNP	_ <O>
+Gagini	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+cathedral	NN	_ <O>
+at	IN	_ <O>
+Palermo	NNP	_ <O>
+that	IN	_ <O>
+it	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+picture	NN	_ <O>
+may	MD	<B-CUE>
+have	VBP	_ <O>
+been	VBN	_ <O>
+painted	VBN	_ <O>
+for	IN	_ <O>
+an	DT	_ <O>
+Italian	JJ	_ <O>
+client	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+still	RB	<I-CUE>
+unknown	JJ	<I-CUE>
+whether	IN	<B-CUE>
+Christus	NNP	_ <O>
+visited	VBD	_ <O>
+Italy	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+brought	VBD	_ <O>
+style	NN	_ <O>
+and	CC	_ <O>
+technical	JJ	_ <O>
+accomplishments	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+greatest	JJS	_ <O>
+Northern	JJ	_ <O>
+European	JJ	_ <O>
+painters	NNS	_ <O>
+directly	RB	_ <O>
+to	IN	_ <O>
+Antonello	NNP	_ <O>
+da	NNP	_ <O>
+Messina	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+Italian	JJ	_ <O>
+artists	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+whether	IN	<B-CUE>
+his	PRP$	_ <O>
+paintings	NNS	_ <O>
+were	VBD	_ <O>
+purchased	VBN	_ <O>
+by	IN	_ <O>
+Italians	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+document	NN	_ <O>
+testifying	VBG	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+presence	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+Piero	NNP	_ <O>
+da	NNP	_ <O>
+Bruggia	NNP	_ <O>
+"	''	_ <O>
+(	-LRB-	_ <O>
+Petrus	NNP	_ <O>
+from	IN	_ <O>
+Bruges	NNP	_ <O>
+?	.	_ <O>
+)	-RRB-	_ <O>
+in	IN	_ <O>
+Milan	NNP	_ <O>
+may	MD	<B-CUE>
+suggest	VBP	<B-CUE>
+that	IN	_ <O>
+he	PRP	_ <O>
+visited	VBD	_ <O>
+that	DT	_ <O>
+city	NN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+time	NN	_ <O>
+as	IN	_ <O>
+Antonello	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+artists	NNS	_ <O>
+may	MD	<B-CUE>
+even	RB	_ <O>
+have	VBP	_ <O>
+met	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+might	MD	<B-CUE>
+account	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+remarkable	JJ	_ <O>
+similarities	NNS	_ <O>
+between	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Portrait	NNP	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+Man	NNP	_ <O>
+'	POS	_ <O>
+attributed	VBN	_ <O>
+to	IN	_ <O>
+Christus	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Los	NNP	_ <O>
+Angeles	NNP	_ <O>
+County	NNP	_ <O>
+Museum	NNP	_ <O>
+of	IN	_ <O>
+Art	NNP	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+of	IN	_ <O>
+Antonello	NNP	_ <O>
+'s	POS	_ <O>
+portraits	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+supposed	VBN	_ <O>
+self	NN	_ <O>
+-	HYPH	_ <O>
+portrait	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+National	NNP	_ <O>
+Gallery	NNP	_ <O>
+in	IN	_ <O>
+London	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+composition	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+'	``	_ <O>
+Lamentation	NNP	_ <O>
+'	''	_ <O>
+now	RB	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+Metropolitan	NNP	_ <O>
+Museum	NNP	_ <O>
+of	IN	_ <O>
+Art	NNP	_ <O>
+so	CC	_ <O>
+closely	RB	_ <O>
+inspired	VBD	_ <O>
+a	DT	_ <O>
+marble	NN	_ <O>
+relief	NN	_ <O>
+by	IN	_ <O>
+Antonello	NNP	_ <O>
+Gagini	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+cathedral	NN	_ <O>
+at	IN	_ <O>
+Palermo	NNP	_ <O>
+that	IN	_ <O>
+it	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+picture	NN	_ <O>
+may	MD	<B-CUE>
+have	VBP	_ <O>
+been	VBN	_ <O>
+painted	VBN	_ <O>
+for	IN	_ <O>
+an	DT	_ <O>
+Italian	JJ	_ <O>
+client	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,58 @@
+NULL
+"	``	_ <O>
+Accent	NNP	_ <O>
+"	''	_ <O>
+Pillows	NNS	_ <O>
+emphasize	VBP	_ <O>
+or	CC	_ <O>
+accent	VBP	_ <O>
+some	DT	_ <O>
+other	JJ	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+home	NN	_ <O>
+decor	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+terms	NNS	_ <O>
+Sofa	NNP	_ <O>
+Pillow	NNP	_ <O>
+and	CC	_ <O>
+Couch	NNP	_ <O>
+Pillow	NNP	_ <O>
+refer	VBP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+place	NN	_ <O>
+these	DT	_ <O>
+decorative	JJ	_ <O>
+pillows	NNS	_ <O>
+are	VBP	_ <O>
+likely	JJ	_ <O>
+found	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+terms	NNS	_ <O>
+Toss	VBP	_ <O>
+pillow	NN	_ <O>
+and	CC	_ <O>
+Throw	VB	_ <O>
+pillow	NN	_ <O>
+refer	VB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+way	NN	_ <O>
+they	PRP	_ <O>
+generally	RB	_ <O>
+arrive	VBP	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+places	NNS	_ <O>
+.	.	_ <O>
+
+NULL

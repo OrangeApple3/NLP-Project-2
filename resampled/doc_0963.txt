@@ -1,0 +1,134 @@
+The	DT	_ <O>
+game	NN	_ <O>
+'s	POS	_ <O>
+visuals	NNS	_ <O>
+received	VBD	_ <O>
+a	DT	_ <O>
+mixed	JJ	_ <O>
+response	NN	_ <O>
+from	IN	_ <O>
+critics	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+GameSpot	NNP	_ <O>
+enjoyed	VBD	_ <O>
+the	DT	_ <O>
+game	NN	_ <O>
+'s	POS	_ <O>
+presentation	NN	_ <O>
+,	,	_ <O>
+writing	VBG	_ <O>
+that	IN	_ <O>
+"	``	_ <O>
+it	PRP	_ <O>
+exhibits	VBZ	_ <O>
+a	DT	_ <O>
+level	NN	_ <O>
+of	IN	_ <O>
+visual	JJ	_ <O>
+artistry	NN	_ <O>
+and	CC	_ <O>
+technical	JJ	_ <O>
+prowess	NN	_ <O>
+matched	VBN	_ <O>
+or	CC	_ <O>
+exceeded	VBN	_ <O>
+by	IN	_ <O>
+few	JJ	_ <O>
+other	JJ	_ <O>
+GameCube	NNP	_ <O>
+games	NNS	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+RPGamer	NN	_ <O>
+commented	VBD	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+music	NN	_ <O>
+"	''	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+most	JJS	_ <O>
+part	NN	_ <O>
+is	VBZ	_ <O>
+done	VBN	_ <O>
+very	RB	_ <O>
+well	RB	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+perceived	VBN	_ <O>
+repetitive	JJ	_ <O>
+battle	NN	_ <O>
+music	NN	_ <O>
+was	VBD	_ <O>
+"	``	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+biggest	JJS	_ <O>
+flaws	NNS	_ <O>
+"	''	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+game	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Conversely	RB	_ <O>
+,	,	_ <O>
+other	JJ	<B-CUE>
+reviewers	NNS	<I-CUE>
+complained	VBD	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+graphics	NNS	_ <O>
+were	VBD	_ <O>
+not	RB	_ <O>
+much	JJ	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+visual	JJ	_ <O>
+upgrade	NN	_ <O>
+from	IN	_ <O>
+its	PRP$	_ <O>
+predecessor	NN	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+Paper	NNP	_ <O>
+Mario	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+Conversely	RB	_ <O>
+,	,	_ <O>
+other	JJ	<B-CUE>
+reviewers	NNS	<I-CUE>
+complained	VBD	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+graphics	NNS	_ <O>
+were	VBD	_ <O>
+not	RB	_ <O>
+much	JJ	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+visual	JJ	_ <O>
+upgrade	NN	_ <O>
+from	IN	_ <O>
+its	PRP$	_ <O>
+predecessor	NN	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+Paper	NNP	_ <O>
+Mario	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL

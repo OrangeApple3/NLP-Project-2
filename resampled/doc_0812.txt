@@ -1,0 +1,127 @@
+The	DT	_ <O>
+'	``	_ <O>
+Brood	NNP	_ <O>
+War	NNP	_ <O>
+'	POS	_ <O>
+expansion	NN	_ <O>
+released	VBN	_ <O>
+by	IN	_ <O>
+Blizzard	NNP	_ <O>
+in	IN	_ <O>
+1998	CD	_ <O>
+provided	VBD	_ <O>
+several	JJ	_ <O>
+new	JJ	_ <O>
+units	NNS	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+new	JJ	_ <O>
+campaign	NN	_ <O>
+for	IN	_ <O>
+each	DT	_ <O>
+race	NN	_ <O>
+,	,	_ <O>
+continuing	VBG	_ <O>
+the	DT	_ <O>
+original	JJ	_ <O>
+'	``	_ <O>
+StarCraft	NNP	_ <O>
+'	''	_ <O>
+storyline	NN	_ <O>
+and	CC	_ <O>
+changing	VBG	_ <O>
+the	DT	_ <O>
+gameplay	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Though	IN	_ <O>
+the	DT	_ <O>
+three	CD	_ <O>
+races	NNS	_ <O>
+in	IN	_ <O>
+'	``	_ <O>
+StarCraft	NNP	_ <O>
+'	''	_ <O>
+were	VBD	_ <O>
+considered	VBN	_ <O>
+slightly	RB	_ <O>
+unequal	JJ	_ <O>
+in	IN	_ <O>
+power	NN	_ <O>
+when	WRB	_ <O>
+the	DT	_ <O>
+game	NN	_ <O>
+was	VBD	_ <O>
+first	RB	_ <O>
+released	VBN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+expansion	NN	_ <O>
+pack	NN	_ <O>
+and	CC	_ <O>
+four	CD	_ <O>
+balance	NN	_ <O>
+patches	NNS	_ <O>
+are	VBP	<B-CUE>
+thought	VBN	<I-CUE>
+by	IN	_ <O>
+most	JJS	<B-CUE>
+players	NNS	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+created	VBN	_ <O>
+a	DT	_ <O>
+very	RB	_ <O>
+stable	JJ	_ <O>
+,	,	_ <O>
+balanced	JJ	_ <O>
+game	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Though	IN	_ <O>
+the	DT	_ <O>
+three	CD	_ <O>
+races	NNS	_ <O>
+in	IN	_ <O>
+'	``	_ <O>
+StarCraft	NNP	_ <O>
+'	''	_ <O>
+were	VBD	_ <O>
+considered	VBN	_ <O>
+slightly	RB	_ <O>
+unequal	JJ	_ <O>
+in	IN	_ <O>
+power	NN	_ <O>
+when	WRB	_ <O>
+the	DT	_ <O>
+game	NN	_ <O>
+was	VBD	_ <O>
+first	RB	_ <O>
+released	VBN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+expansion	NN	_ <O>
+pack	NN	_ <O>
+and	CC	_ <O>
+four	CD	_ <O>
+balance	NN	_ <O>
+patches	NNS	_ <O>
+are	VBP	<B-CUE>
+thought	VBN	<I-CUE>
+by	IN	_ <O>
+most	JJS	<B-CUE>
+players	NNS	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+created	VBN	_ <O>
+a	DT	_ <O>
+very	RB	_ <O>
+stable	JJ	_ <O>
+,	,	_ <O>
+balanced	JJ	_ <O>
+game	NN	_ <O>
+.	.	_ <O>
+
+NULL

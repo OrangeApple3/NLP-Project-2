@@ -1,0 +1,163 @@
+There	EX	_ <O>
+are	VBP	_ <O>
+three	CD	_ <O>
+main	JJ	_ <O>
+types	NNS	_ <O>
+of	IN	_ <O>
+rhythm	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+first	JJ	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+usual	JJ	_ <O>
+where	WRB	_ <O>
+each	DT	_ <O>
+hand	NN	_ <O>
+throws	VBZ	_ <O>
+with	IN	_ <O>
+equal	JJ	_ <O>
+time	NN	_ <O>
+between	IN	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+collision	NN	_ <O>
+is	VBZ	_ <O>
+when	WRB	_ <O>
+two	CD	_ <O>
+or	CC	_ <O>
+more	JJR	_ <O>
+clubs	NNS	_ <O>
+hit	VBP	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+air	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Slow	JJ	_ <O>
+start	NN	_ <O>
+is	VBZ	_ <O>
+generally	RB	<B-CUE>
+preferred	VBN	_ <O>
+by	IN	_ <O>
+beginners	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+fast	JJ	_ <O>
+start	NN	_ <O>
+is	VBZ	_ <O>
+more	RBR	_ <O>
+popular	JJ	_ <O>
+amongst	IN	_ <O>
+confirmed	VBN	_ <O>
+passers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+rules	NNS	_ <O>
+generally	RB	<B-CUE>
+require	VB	_ <O>
+that	IN	_ <O>
+two	CD	_ <O>
+-	HYPH	_ <O>
+count	NN	_ <O>
+passing	NN	_ <O>
+be	VB	_ <O>
+used	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+successful	JJ	_ <O>
+catches	NNS	_ <O>
+be	VB	_ <O>
+four	CD	_ <O>
+times	NNS	_ <O>
+the	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+props	NNS	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+passing	JJ	_ <O>
+attempt	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+successful	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Slow	JJ	_ <O>
+start	NN	_ <O>
+is	VBZ	_ <O>
+generally	RB	<B-CUE>
+preferred	VBN	_ <O>
+by	IN	_ <O>
+beginners	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+fast	JJ	_ <O>
+start	NN	_ <O>
+is	VBZ	_ <O>
+more	RBR	_ <O>
+popular	JJ	_ <O>
+amongst	IN	_ <O>
+confirmed	VBN	_ <O>
+passers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+rules	NNS	_ <O>
+generally	RB	<B-CUE>
+require	VB	_ <O>
+that	IN	_ <O>
+two	CD	_ <O>
+-	HYPH	_ <O>
+count	NN	_ <O>
+passing	NN	_ <O>
+be	VB	_ <O>
+used	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+successful	JJ	_ <O>
+catches	NNS	_ <O>
+be	VB	_ <O>
+four	CD	_ <O>
+times	NNS	_ <O>
+the	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+props	NNS	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+passing	JJ	_ <O>
+attempt	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+successful	JJ	_ <O>
+.	.	_ <O>
+
+NULL

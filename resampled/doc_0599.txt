@@ -1,0 +1,52 @@
+NULL
+Buffy	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+Slayers	NNPS	_ <O>
+watch	VBP	_ <O>
+and	CC	_ <O>
+learn	VBP	_ <O>
+from	IN	_ <O>
+this	DT	_ <O>
+example	NN	_ <O>
+and	CC	_ <O>
+Buffy	NNP	_ <O>
+lectures	VBZ	_ <O>
+the	DT	_ <O>
+girls	NNS	_ <O>
+on	IN	_ <O>
+how	WRB	_ <O>
+to	TO	_ <O>
+deal	VB	_ <O>
+with	IN	_ <O>
+vampire	NN	_ <O>
+attacks	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+believe	VBP	_ <O>
+the	DT	_ <O>
+First	NNP	_ <O>
+is	VBZ	_ <O>
+taking	VBG	_ <O>
+a	DT	_ <O>
+brief	JJ	_ <O>
+break	NN	_ <O>
+from	IN	_ <O>
+them	PRP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+it	PRP	_ <O>
+will	MD	_ <O>
+come	VB	_ <O>
+back	RB	_ <O>
+stronger	JJR	_ <O>
+and	CC	_ <O>
+better	JJR	_ <O>
+than	IN	_ <O>
+before	RB	_ <O>
+.	.	_ <O>
+
+NULL

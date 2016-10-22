@@ -1,0 +1,39 @@
+NULL
+While	IN	_ <O>
+mosses	NNS	_ <O>
+are	VBP	_ <O>
+considered	VBN	_ <O>
+non	JJ	_ <O>
+-	HYPH	_ <O>
+vascular	JJ	_ <O>
+plants	NNS	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+Polytrichum	NNP	_ <O>
+commune	NN	_ <O>
+'	''	_ <O>
+shows	VBZ	_ <O>
+clear	JJ	_ <O>
+differentiation	NN	_ <O>
+of	IN	_ <O>
+water	NN	_ <O>
+conducting	VBG	_ <O>
+tissue	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+tissue	NN	_ <O>
+is	VBZ	_ <O>
+,	,	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+hand	NN	_ <O>
+,	,	_ <O>
+analogous	JJ	_ <O>
+to	IN	_ <O>
+phloem	NN	_ <O>
+.	.	_ <O>
+
+NULL

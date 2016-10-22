@@ -1,0 +1,117 @@
+Unlike	IN	_ <O>
+brown	JJ	_ <O>
+and	CC	_ <O>
+black	JJ	_ <O>
+bears	NNS	_ <O>
+,	,	_ <O>
+polar	JJ	_ <O>
+bears	NNS	_ <O>
+are	VBP	_ <O>
+capable	JJ	_ <O>
+of	IN	_ <O>
+fasting	VBG	_ <O>
+for	IN	_ <O>
+up	IN	_ <O>
+to	TO	_ <O>
+several	JJ	_ <O>
+months	NNS	_ <O>
+during	IN	_ <O>
+late	JJ	_ <O>
+summer	NN	_ <O>
+and	CC	_ <O>
+early	JJ	_ <O>
+fall	NN	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+they	PRP	_ <O>
+can	MD	_ <O>
+not	RB	_ <O>
+hunt	VB	_ <O>
+for	IN	_ <O>
+seals	NNS	_ <O>
+because	IN	_ <O>
+the	DT	_ <O>
+sea	NN	_ <O>
+is	VBZ	_ <O>
+unfrozen	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+may	MD	_ <O>
+also	RB	_ <O>
+eat	VB	_ <O>
+plants	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+berries	NNS	_ <O>
+,	,	_ <O>
+roots	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+kelp	NN	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+none	NN	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+are	VBP	_ <O>
+a	DT	_ <O>
+significant	JJ	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+diet	NN	_ <O>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+sea	NN	_ <O>
+ice	NN	_ <O>
+is	VBZ	_ <O>
+unavailable	JJ	_ <O>
+during	IN	_ <O>
+summer	NN	_ <O>
+and	CC	_ <O>
+early	JJ	_ <O>
+autumn	NN	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+populations	NNS	<I-CUE>
+live	VB	_ <O>
+off	RP	_ <O>
+fat	JJ	_ <O>
+reserves	NNS	_ <O>
+for	IN	_ <O>
+months	NNS	_ <O>
+at	IN	_ <O>
+a	DT	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+sea	NN	_ <O>
+ice	NN	_ <O>
+is	VBZ	_ <O>
+unavailable	JJ	_ <O>
+during	IN	_ <O>
+summer	NN	_ <O>
+and	CC	_ <O>
+early	JJ	_ <O>
+autumn	NN	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+populations	NNS	<I-CUE>
+live	VB	_ <O>
+off	RP	_ <O>
+fat	JJ	_ <O>
+reserves	NNS	_ <O>
+for	IN	_ <O>
+months	NNS	_ <O>
+at	IN	_ <O>
+a	DT	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL

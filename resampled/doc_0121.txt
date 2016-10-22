@@ -1,0 +1,39 @@
+On	IN	_ <O>
+July	NNP	_ <O>
+9	CD	_ <O>
+,	,	_ <O>
+President	NNP	_ <O>
+Michelle	NNP	_ <O>
+Bachelet	NNP	_ <O>
+of	IN	_ <O>
+Chile	NNP	_ <O>
+said	VBD	_ <O>
+she	PRP	_ <O>
+would	MD	_ <O>
+nominate	VB	_ <O>
+Betancourt	NNP	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+Nobel	NNP	_ <O>
+Prize	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Sarkozy	NNP	_ <O>
+announced	VBD	_ <O>
+that	IN	_ <O>
+she	PRP	_ <O>
+would	MD	_ <O>
+receive	VB	_ <O>
+the	DT	_ <O>
+Legion	NNP	_ <O>
+of	IN	_ <O>
+Honor	NNP	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+Bastille	NNP	_ <O>
+Day	NNP	_ <O>
+celebrations	NNS	_ <O>
+.	.	_ <O>
+
+NULL

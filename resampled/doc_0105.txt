@@ -1,0 +1,126 @@
+NULL
+`	''	_ <O>
+Paravar	NNP	_ <O>
+'	''	_ <O>
+denotes	VBZ	_ <O>
+the	DT	_ <O>
+people	NNS	_ <O>
+of	IN	_ <O>
+coastal	JJ	_ <O>
+region	NN	_ <O>
+settled	VBN	_ <O>
+in	IN	_ <O>
+southern	JJ	_ <O>
+districts	NNS	_ <O>
+of	IN	_ <O>
+Tamil	NNP	_ <O>
+Nadu	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+just	RB	_ <O>
+four	CD	_ <O>
+feet	NNS	_ <O>
+away	RB	_ <O>
+from	IN	_ <O>
+another	DT	_ <O>
+Brahmi	NNP	_ <O>
+inscription	NN	_ <O>
+discovered	VBN	_ <O>
+by	IN	_ <O>
+some	DT	<B-CUE>
+scholars	NNS	<I-CUE>
+in	IN	_ <O>
+1971	CD	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+the	DT	_ <O>
+orthography	NN	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+inscription	NN	_ <O>
+resembles	VBZ	_ <O>
+that	IN	_ <O>
+of	IN	_ <O>
+Mangulam	NNP	_ <O>
+inscriptions	NNS	_ <O>
+(	-LRB-	_ <O>
+also	RB	_ <O>
+in	IN	_ <O>
+Madurai	NNP	_ <O>
+district	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+its	PRP$	_ <O>
+date	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+assigned	VBN	_ <O>
+to	IN	_ <O>
+3rd	JJ	_ <O>
+century	NN	_ <O>
+B.C.	NNP	_ <O>
+,	,	_ <O>
+say	VBP	_ <O>
+the	DT	<B-CUE>
+sources	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+just	RB	_ <O>
+four	CD	_ <O>
+feet	NNS	_ <O>
+away	RB	_ <O>
+from	IN	_ <O>
+another	DT	_ <O>
+Brahmi	NNP	_ <O>
+inscription	NN	_ <O>
+discovered	VBN	_ <O>
+by	IN	_ <O>
+some	DT	<B-CUE>
+scholars	NNS	<I-CUE>
+in	IN	_ <O>
+1971	CD	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+the	DT	_ <O>
+orthography	NN	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+inscription	NN	_ <O>
+resembles	VBZ	_ <O>
+that	IN	_ <O>
+of	IN	_ <O>
+Mangulam	NNP	_ <O>
+inscriptions	NNS	_ <O>
+(	-LRB-	_ <O>
+also	RB	_ <O>
+in	IN	_ <O>
+Madurai	NNP	_ <O>
+district	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+its	PRP$	_ <O>
+date	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+assigned	VBN	_ <O>
+to	IN	_ <O>
+3rd	JJ	_ <O>
+century	NN	_ <O>
+B.C.	NNP	_ <O>
+,	,	_ <O>
+say	VBP	_ <O>
+the	DT	<B-CUE>
+sources	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

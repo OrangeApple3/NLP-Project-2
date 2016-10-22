@@ -1,0 +1,106 @@
+NULL
+The	DT	_ <O>
+men	NNS	_ <O>
+among	IN	_ <O>
+us	PRP	_ <O>
+who	WP	_ <O>
+make	VBP	_ <O>
+most	JJS	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+organic	JJ	_ <O>
+concept	NN	_ <O>
+are	VBP	_ <O>
+satisfied	JJ	_ <O>
+that	IN	_ <O>
+their	PRP$	_ <O>
+opponents	NNS	_ <O>
+disagree	VBP	_ <O>
+with	IN	_ <O>
+them	PRP	_ <O>
+only	RB	_ <O>
+verbally	RB	_ <O>
+,	,	_ <O>
+so	RB	_ <O>
+far	RB	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+essential	JJ	_ <O>
+idea	NN	_ <O>
+is	VBZ	_ <O>
+concerned	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+content	JJ	_ <O>
+to	TO	_ <O>
+assume	VB	_ <O>
+that	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+taken	VBN	_ <O>
+for	IN	_ <O>
+granted	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+their	PRP$	_ <O>
+interest	NN	_ <O>
+is	VBZ	_ <O>
+transferred	VBN	_ <O>
+to	IN	_ <O>
+other	JJ	_ <O>
+fields	NNS	_ <O>
+(	-LRB-	_ <O>
+Small	JJ	_ <O>
+1898	CD	_ <O>
+:	SYM	_ <O>
+412	CD	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+would	MD	<I-CUE>
+hardly	RB	<I-CUE>
+be	VB	<I-CUE>
+possible	JJ	<I-CUE>
+to	TO	_ <O>
+arouse	VB	_ <O>
+American	JJ	_ <O>
+sociologists	NNS	_ <O>
+to	IN	_ <O>
+very	RB	_ <O>
+lively	JJ	_ <O>
+controversy	NN	_ <O>
+over	IN	_ <O>
+what	WP	_ <O>
+remains	VBZ	_ <O>
+in	IN	_ <O>
+dispute	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+would	MD	<I-CUE>
+hardly	RB	<I-CUE>
+be	VB	<I-CUE>
+possible	JJ	<I-CUE>
+to	TO	_ <O>
+arouse	VB	_ <O>
+American	JJ	_ <O>
+sociologists	NNS	_ <O>
+to	IN	_ <O>
+very	RB	_ <O>
+lively	JJ	_ <O>
+controversy	NN	_ <O>
+over	IN	_ <O>
+what	WP	_ <O>
+remains	VBZ	_ <O>
+in	IN	_ <O>
+dispute	NN	_ <O>
+.	.	_ <O>
+
+NULL

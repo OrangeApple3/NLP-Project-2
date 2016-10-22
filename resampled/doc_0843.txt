@@ -1,0 +1,127 @@
+NULL
+The	DT	_ <O>
+'	``	_ <O>
+Perso	NNP	_ <O>
+-	HYPH	_ <O>
+Parthian	NNP	_ <O>
+bow	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+symmetric	JJ	_ <O>
+recurve	NN	_ <O>
+composite	NN	_ <O>
+bow	NN	_ <O>
+made	VBN	_ <O>
+of	IN	_ <O>
+ibex	JJ	_ <O>
+horn	NN	_ <O>
+(	-LRB-	_ <O>
+or	CC	_ <O>
+for	IN	_ <O>
+low	JJ	_ <O>
+quality	NN	_ <O>
+bows	NNS	_ <O>
+,	,	_ <O>
+ox	JJ	_ <O>
+horn	NN	_ <O>
+)	-RRB-	_ <O>
+;	:	_ <O>
+a	DT	_ <O>
+variety	NN	_ <O>
+of	IN	_ <O>
+wood	NN	_ <O>
+cores	NNS	_ <O>
+;	:	_ <O>
+gazelle	NN	_ <O>
+,	,	_ <O>
+deer	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+ox	IN	_ <O>
+sinews	NNS	_ <O>
+;	:	_ <O>
+and	CC	_ <O>
+usually	RB	_ <O>
+hide	VB	_ <O>
+glue	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+finished	JJ	_ <O>
+bow	NN	_ <O>
+is	VBZ	_ <O>
+then	RB	_ <O>
+covered	VBN	_ <O>
+by	IN	_ <O>
+bark	NN	_ <O>
+,	,	_ <O>
+fine	JJ	_ <O>
+leather	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+in	IN	_ <O>
+some	DT	_ <O>
+cases	NNS	_ <O>
+shark	NN	_ <O>
+skin	NN	_ <O>
+and	CC	_ <O>
+laminated	VBN	_ <O>
+to	TO	_ <O>
+keep	VB	_ <O>
+out	RP	_ <O>
+moisture	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Traditionally	RB	<B-CUE>
+,	,	_ <O>
+ox	JJ	_ <O>
+tendons	NNS	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+inferior	JJ	_ <O>
+to	IN	_ <O>
+wild	JJ	_ <O>
+game	NN	_ <O>
+sinews	NNS	_ <O>
+since	IN	_ <O>
+they	PRP	_ <O>
+have	VBP	_ <O>
+a	DT	_ <O>
+higher	JJR	_ <O>
+fat	JJ	_ <O>
+content	NN	_ <O>
+,	,	_ <O>
+leading	VBG	_ <O>
+to	IN	_ <O>
+spoilage	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Traditionally	RB	<B-CUE>
+,	,	_ <O>
+ox	JJ	_ <O>
+tendons	NNS	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+inferior	JJ	_ <O>
+to	IN	_ <O>
+wild	JJ	_ <O>
+game	NN	_ <O>
+sinews	NNS	_ <O>
+since	IN	_ <O>
+they	PRP	_ <O>
+have	VBP	_ <O>
+a	DT	_ <O>
+higher	JJR	_ <O>
+fat	JJ	_ <O>
+content	NN	_ <O>
+,	,	_ <O>
+leading	VBG	_ <O>
+to	IN	_ <O>
+spoilage	NN	_ <O>
+.	.	_ <O>
+
+NULL

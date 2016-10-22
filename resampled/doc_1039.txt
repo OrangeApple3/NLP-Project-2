@@ -1,0 +1,125 @@
+NULL
+Businesses	NNS	_ <O>
+with	IN	_ <O>
+dominant	JJ	_ <O>
+or	CC	_ <O>
+substantial	JJ	_ <O>
+market	NN	_ <O>
+shares	NNS	_ <O>
+are	VBP	_ <O>
+more	RBR	_ <O>
+vulnerable	JJ	_ <O>
+to	IN	_ <O>
+antitrust	JJ	_ <O>
+claims	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Predatory	JJ	_ <O>
+pricing	NN	_ <O>
+practices	NNS	_ <O>
+may	MD	<B-CUE>
+result	NN	_ <O>
+in	IN	_ <O>
+antitrust	JJ	_ <O>
+claims	NNS	_ <O>
+of	IN	_ <O>
+monopolization	NN	_ <O>
+or	CC	_ <O>
+attempts	NNS	_ <O>
+to	TO	_ <O>
+monopolize	VB	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+there	EX	<B-CUE>
+is	VBZ	<I-CUE>
+a	DT	<I-CUE>
+likelihood	NN	<I-CUE>
+that	IN	_ <O>
+market	NN	_ <O>
+entrants	NNS	_ <O>
+will	MD	_ <O>
+prevent	VB	_ <O>
+the	DT	_ <O>
+predator	NN	_ <O>
+from	IN	_ <O>
+recouping	VBG	_ <O>
+its	PRP$	_ <O>
+investment	NN	_ <O>
+through	IN	_ <O>
+supra	NN	_ <O>
+competitive	JJ	_ <O>
+pricing	NN	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+no	DT	_ <O>
+probability	NN	_ <O>
+of	IN	_ <O>
+success	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+antitrust	JJ	_ <O>
+claim	NN	_ <O>
+would	MD	<B-CUE>
+fail	VB	_ <O>
+.	.	_ <O>
+
+NULL
+Predatory	JJ	_ <O>
+pricing	NN	_ <O>
+practices	NNS	_ <O>
+may	MD	<B-CUE>
+result	NN	_ <O>
+in	IN	_ <O>
+antitrust	JJ	_ <O>
+claims	NNS	_ <O>
+of	IN	_ <O>
+monopolization	NN	_ <O>
+or	CC	_ <O>
+attempts	NNS	_ <O>
+to	TO	_ <O>
+monopolize	VB	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+there	EX	<B-CUE>
+is	VBZ	<I-CUE>
+a	DT	<I-CUE>
+likelihood	NN	<I-CUE>
+that	IN	_ <O>
+market	NN	_ <O>
+entrants	NNS	_ <O>
+will	MD	_ <O>
+prevent	VB	_ <O>
+the	DT	_ <O>
+predator	NN	_ <O>
+from	IN	_ <O>
+recouping	VBG	_ <O>
+its	PRP$	_ <O>
+investment	NN	_ <O>
+through	IN	_ <O>
+supra	NN	_ <O>
+competitive	JJ	_ <O>
+pricing	NN	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+no	DT	_ <O>
+probability	NN	_ <O>
+of	IN	_ <O>
+success	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+antitrust	JJ	_ <O>
+claim	NN	_ <O>
+would	MD	<B-CUE>
+fail	VB	_ <O>
+.	.	_ <O>
+
+NULL

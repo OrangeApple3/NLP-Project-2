@@ -1,0 +1,148 @@
+NULL
+Since	IN	_ <O>
+present	JJ	_ <O>
+-	HYPH	_ <O>
+day	NN	_ <O>
+Zoroastrianism	NN	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+traditionally	RB	_ <O>
+accept	VB	_ <O>
+converts	NNS	_ <O>
+,	,	_ <O>
+some	DT	_ <O>
+followers	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+religion	NN	_ <O>
+see	VB	_ <O>
+reproduction	NN	_ <O>
+as	IN	_ <O>
+essential	JJ	_ <O>
+to	TO	_ <O>
+maintain	VB	_ <O>
+the	DT	_ <O>
+the	DT	_ <O>
+community	NN	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+homosexual	JJ	_ <O>
+couple	NN	_ <O>
+can	MD	_ <O>
+not	RB	_ <O>
+reproduce	VB	_ <O>
+sexually	RB	_ <O>
+,	,	_ <O>
+whereas	IN	_ <O>
+a	DT	_ <O>
+heterosexual	JJ	_ <O>
+couple	NN	_ <O>
+can	MD	_ <O>
+.	.	_ <O>
+
+NULL
+Upon	IN	_ <O>
+his	PRP$	_ <O>
+death	NN	_ <O>
+,	,	_ <O>
+Freddie	NNP	_ <O>
+Mercury	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+homosexual	JJ	_ <O>
+Parsi	NNP	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+given	VBN	_ <O>
+a	DT	_ <O>
+traditional	JJ	_ <O>
+Zoroastrian	JJ	_ <O>
+funeral	NN	_ <O>
+service	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+people	NNS	<I-CUE>
+speculate	VB	<B-CUE>
+the	DT	_ <O>
+reason	NN	_ <O>
+why	WRB	_ <O>
+Zoroastrians	NNPS	_ <O>
+tend	VBP	_ <O>
+to	TO	_ <O>
+discourage	VB	_ <O>
+homosexuality	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+simply	RB	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+scriptural	JJ	_ <O>
+prohibition	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+from	IN	_ <O>
+perceived	VBN	_ <O>
+tradition	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+followers	NNS	<I-CUE>
+suggest	VBP	<B-CUE>
+that	IN	_ <O>
+homosexuality	NN	_ <O>
+should	MD	_ <O>
+be	VB	_ <O>
+discouraged	VBN	_ <O>
+as	IN	_ <O>
+celibacy	NN	_ <O>
+is	VBZ	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+people	NNS	<I-CUE>
+speculate	VB	<B-CUE>
+the	DT	_ <O>
+reason	NN	_ <O>
+why	WRB	_ <O>
+Zoroastrians	NNPS	_ <O>
+tend	VBP	_ <O>
+to	TO	_ <O>
+discourage	VB	_ <O>
+homosexuality	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+simply	RB	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+scriptural	JJ	_ <O>
+prohibition	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+from	IN	_ <O>
+perceived	VBN	_ <O>
+tradition	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+followers	NNS	<I-CUE>
+suggest	VBP	<B-CUE>
+that	IN	_ <O>
+homosexuality	NN	_ <O>
+should	MD	_ <O>
+be	VB	_ <O>
+discouraged	VBN	_ <O>
+as	IN	_ <O>
+celibacy	NN	_ <O>
+is	VBZ	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,125 @@
+It	PRP	_ <O>
+would	MD	_ <O>
+have	VB	_ <O>
+used	VBN	_ <O>
+only	RB	_ <O>
+3	CD	_ <O>
+watts	NNS	_ <O>
+of	IN	_ <O>
+power	NN	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+imaging	NN	_ <O>
+process	NN	_ <O>
+,	,	_ <O>
+less	JJR	_ <O>
+than	IN	_ <O>
+most	JJS	_ <O>
+other	JJ	_ <O>
+space	NN	_ <O>
+cameras	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+MARDI	NNP	_ <O>
+images	NNS	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+intended	VBN	_ <O>
+to	TO	_ <O>
+help	VB	_ <O>
+pinpoint	VB	_ <O>
+exactly	RB	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+lander	NN	_ <O>
+has	VBZ	_ <O>
+landed	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+possibly	RB	<B-CUE>
+help	NN	_ <O>
+find	VB	_ <O>
+potential	JJ	_ <O>
+science	NN	_ <O>
+targets	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+MARDI	NNP	_ <O>
+was	VBD	_ <O>
+built	VBN	_ <O>
+by	IN	_ <O>
+Malin	NNP	_ <O>
+Space	NNP	_ <O>
+Science	NNP	_ <O>
+Systems	NNPS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+the	DT	<B-CUE>
+lightest	JJS	<I-CUE>
+and	CC	<I-CUE>
+most	RBS	<I-CUE>
+efficient	JJ	<I-CUE>
+camera	NN	_ <O>
+ever	RB	_ <O>
+to	IN	_ <O>
+land	VB	_ <O>
+on	IN	_ <O>
+Mars	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+MARDI	NNP	_ <O>
+images	NNS	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+intended	VBN	_ <O>
+to	TO	_ <O>
+help	VB	_ <O>
+pinpoint	VB	_ <O>
+exactly	RB	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+lander	NN	_ <O>
+has	VBZ	_ <O>
+landed	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+possibly	RB	<B-CUE>
+help	NN	_ <O>
+find	VB	_ <O>
+potential	JJ	_ <O>
+science	NN	_ <O>
+targets	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+MARDI	NNP	_ <O>
+was	VBD	_ <O>
+built	VBN	_ <O>
+by	IN	_ <O>
+Malin	NNP	_ <O>
+Space	NNP	_ <O>
+Science	NNP	_ <O>
+Systems	NNPS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+the	DT	<B-CUE>
+lightest	JJS	<I-CUE>
+and	CC	<I-CUE>
+most	RBS	<I-CUE>
+efficient	JJ	<I-CUE>
+camera	NN	_ <O>
+ever	RB	_ <O>
+to	IN	_ <O>
+land	VB	_ <O>
+on	IN	_ <O>
+Mars	NNP	_ <O>
+.	.	_ <O>
+
+NULL

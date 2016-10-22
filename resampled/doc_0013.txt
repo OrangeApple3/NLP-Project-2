@@ -1,0 +1,120 @@
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+1990s	NNS	_ <O>
+,	,	_ <O>
+standalone	NN	_ <O>
+electronic	JJ	_ <O>
+MIDI	NNS	_ <O>
+controller	NN	_ <O>
+pedalboards	NNS	_ <O>
+became	VBD	_ <O>
+widely	RB	_ <O>
+available	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+jazz	NN	_ <O>
+organ	NN	_ <O>
+trios	RB	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+keyboardist	NN	_ <O>
+using	VBG	_ <O>
+this	DT	_ <O>
+type	NN	_ <O>
+of	IN	_ <O>
+pedalboard	NN	_ <O>
+will	MD	_ <O>
+usually	RB	_ <O>
+connect	VB	_ <O>
+it	PRP	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+MIDI	NNP	_ <O>
+-	HYPH	_ <O>
+compatible	JJ	_ <O>
+electronic	JJ	_ <O>
+Hammond	NNP	_ <O>
+organ	NN	_ <O>
+-	HYPH	_ <O>
+style	NN	_ <O>
+keyboard	NN	_ <O>
+.	.	_ <O>
+
+NULL
+On	IN	_ <O>
+modern	JJ	_ <O>
+electronic	JJ	_ <O>
+synthesizers	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+Yamaha	NNP	_ <O>
+Electone	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+pedals	NNS	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+limited	VBN	_ <O>
+to	IN	_ <O>
+traditional	JJ	_ <O>
+bass	NN	_ <O>
+notes	NNS	_ <O>
+but	CC	_ <O>
+may	MD	_ <O>
+instead	RB	_ <O>
+produce	VB	_ <O>
+many	JJ	<B-CUE>
+different	JJ	<I-CUE>
+types	NNS	<I-CUE>
+of	IN	<I-CUE>
+sounds	NNS	<I-CUE>
+,	,	_ <O>
+including	VBG	_ <O>
+high	JJ	_ <O>
+-	HYPH	_ <O>
+register	NN	_ <O>
+tones	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+On	IN	_ <O>
+modern	JJ	_ <O>
+electronic	JJ	_ <O>
+synthesizers	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+Yamaha	NNP	_ <O>
+Electone	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+pedals	NNS	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+limited	VBN	_ <O>
+to	IN	_ <O>
+traditional	JJ	_ <O>
+bass	NN	_ <O>
+notes	NNS	_ <O>
+but	CC	_ <O>
+may	MD	_ <O>
+instead	RB	_ <O>
+produce	VB	_ <O>
+many	JJ	<B-CUE>
+different	JJ	<I-CUE>
+types	NNS	<I-CUE>
+of	IN	<I-CUE>
+sounds	NNS	<I-CUE>
+,	,	_ <O>
+including	VBG	_ <O>
+high	JJ	_ <O>
+-	HYPH	_ <O>
+register	NN	_ <O>
+tones	NNS	_ <O>
+.	.	_ <O>
+
+NULL

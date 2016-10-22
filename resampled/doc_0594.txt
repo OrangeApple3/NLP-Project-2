@@ -1,0 +1,139 @@
+To	TO	_ <O>
+ride	VB	_ <O>
+a	DT	_ <O>
+cab	NN	_ <O>
+,	,	_ <O>
+one	NN	_ <O>
+can	MD	_ <O>
+walk	VB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+nearest	JJS	_ <O>
+"	``	_ <O>
+taxi	NN	_ <O>
+stop	NN	_ <O>
+"	''	_ <O>
+(	-LRB-	_ <O>
+usually	RB	_ <O>
+in	IN	_ <O>
+crowded	JJ	_ <O>
+areas	NNS	_ <O>
+or	CC	_ <O>
+points	NNS	_ <O>
+of	IN	_ <O>
+interest	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+wave	NN	_ <O>
+for	IN	_ <O>
+an	DT	_ <O>
+empty	JJ	_ <O>
+passing	VBG	_ <O>
+cab	NN	_ <O>
+or	CC	_ <O>
+call	VB	_ <O>
+a	DT	_ <O>
+tele	NN	_ <O>
+-	HYPH	_ <O>
+táxi	NN	_ <O>
+service	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Tele	NNP	_ <O>
+-	HYPH	_ <O>
+táxi	NNP	_ <O>
+may	MD	_ <O>
+charge	VB	_ <O>
+extra	JJ	_ <O>
+for	IN	_ <O>
+this	DT	_ <O>
+service	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+price	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+fare	NN	_ <O>
+is	VBZ	_ <O>
+determined	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+machine	NN	_ <O>
+called	VBN	_ <O>
+taxímetro	NN	_ <O>
+,	,	_ <O>
+usually	RB	_ <O>
+in	IN	_ <O>
+front	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+passenger	NN	_ <O>
+seat	NN	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+pricey	JJ	_ <O>
+,	,	_ <O>
+if	IN	_ <O>
+compared	VBN	_ <O>
+to	IN	_ <O>
+other	JJ	_ <O>
+towns	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+an	DT	_ <O>
+easier	JJR	_ <O>
+,	,	_ <O>
+safer	JJR	_ <O>
+and	CC	_ <O>
+more	RBR	_ <O>
+dependable	JJ	_ <O>
+option	NN	_ <O>
+than	IN	_ <O>
+buses	NNS	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+cases	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+pricey	JJ	_ <O>
+,	,	_ <O>
+if	IN	_ <O>
+compared	VBN	_ <O>
+to	IN	_ <O>
+other	JJ	_ <O>
+towns	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+an	DT	_ <O>
+easier	JJR	_ <O>
+,	,	_ <O>
+safer	JJR	_ <O>
+and	CC	_ <O>
+more	RBR	_ <O>
+dependable	JJ	_ <O>
+option	NN	_ <O>
+than	IN	_ <O>
+buses	NNS	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+cases	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

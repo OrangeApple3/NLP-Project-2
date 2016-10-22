@@ -1,0 +1,220 @@
+More	RBR	_ <O>
+importantly	RB	_ <O>
+,	,	_ <O>
+Allende	NNP	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+accessible	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+community	NN	_ <O>
+of	IN	_ <O>
+"	``	_ <O>
+Philadelphia	NNP	_ <O>
+Experiment	NNP	_ <O>
+"	``	_ <O>
+researchers	NNS	_ <O>
+for	IN	_ <O>
+years	NNS	_ <O>
+,	,	_ <O>
+discounting	VBG	_ <O>
+any	DT	_ <O>
+intervention	NN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+claimed	VBN	<I-CUE>
+that	IN	_ <O>
+Jessup	NNP	_ <O>
+'s	POS	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+postcard	NN	_ <O>
+in	IN	_ <O>
+responding	VBG	_ <O>
+to	IN	_ <O>
+Allende	NNP	_ <O>
+publicized	VBD	_ <O>
+their	PRP$	_ <O>
+correspondence	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+possibility	NN	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+theorists	NNS	<I-CUE>
+consider	VB	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+plausible	JJ	_ <O>
+cause	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+intervened	VBN	_ <O>
+,	,	_ <O>
+disrupting	VBG	_ <O>
+the	DT	_ <O>
+conversation	NN	_ <O>
+by	IN	_ <O>
+replacing	VBG	_ <O>
+Allende	NNP	_ <O>
+with	IN	_ <O>
+Allen	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+was	VBD	_ <O>
+possibly	RB	<B-CUE>
+a	DT	_ <O>
+CIA	NNP	_ <O>
+agent	NN	_ <O>
+monitoring	NN	_ <O>
+Allende	NNP	_ <O>
+'s	POS	_ <O>
+inbound	JJ	_ <O>
+mail	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+theory	NN	_ <O>
+is	VBZ	_ <O>
+suspect	JJ	_ <O>
+for	IN	_ <O>
+several	JJ	<B-CUE>
+reasons	NNS	<I-CUE>
+,	,	_ <O>
+not	RB	_ <O>
+the	DT	_ <O>
+least	JJS	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+fact	NN	_ <O>
+that	IN	_ <O>
+domestic	JJ	_ <O>
+intelligence	NN	_ <O>
+gathering	NN	_ <O>
+nor	CC	_ <O>
+communications	NNS	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+are	VBP	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+purview	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+CIA.	NNP	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+claimed	VBN	<I-CUE>
+that	IN	_ <O>
+Jessup	NNP	_ <O>
+'s	POS	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+postcard	NN	_ <O>
+in	IN	_ <O>
+responding	VBG	_ <O>
+to	IN	_ <O>
+Allende	NNP	_ <O>
+publicized	VBD	_ <O>
+their	PRP$	_ <O>
+correspondence	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+possibility	NN	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+theorists	NNS	<I-CUE>
+consider	VB	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+plausible	JJ	_ <O>
+cause	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+intervened	VBN	_ <O>
+,	,	_ <O>
+disrupting	VBG	_ <O>
+the	DT	_ <O>
+conversation	NN	_ <O>
+by	IN	_ <O>
+replacing	VBG	_ <O>
+Allende	NNP	_ <O>
+with	IN	_ <O>
+Allen	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+was	VBD	_ <O>
+possibly	RB	<B-CUE>
+a	DT	_ <O>
+CIA	NNP	_ <O>
+agent	NN	_ <O>
+monitoring	NN	_ <O>
+Allende	NNP	_ <O>
+'s	POS	_ <O>
+inbound	JJ	_ <O>
+mail	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+theory	NN	_ <O>
+is	VBZ	_ <O>
+suspect	JJ	_ <O>
+for	IN	_ <O>
+several	JJ	<B-CUE>
+reasons	NNS	<I-CUE>
+,	,	_ <O>
+not	RB	_ <O>
+the	DT	_ <O>
+least	JJS	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+fact	NN	_ <O>
+that	IN	_ <O>
+domestic	JJ	_ <O>
+intelligence	NN	_ <O>
+gathering	NN	_ <O>
+nor	CC	_ <O>
+communications	NNS	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+are	VBP	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+purview	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+CIA.	NNP	_ <O>
+
+NULL

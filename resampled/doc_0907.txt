@@ -1,0 +1,62 @@
+Many	JJ	<B-CUE>
+people	NNS	<I-CUE>
+who	WP	_ <O>
+support	VBP	_ <O>
+this	DT	_ <O>
+concept	NN	_ <O>
+define	VB	_ <O>
+embryos	NN	_ <O>
+and	CC	_ <O>
+fetuses	NNS	_ <O>
+as	IN	_ <O>
+human	JJ	_ <O>
+beings	NNS	_ <O>
+which	WDT	_ <O>
+have	VBP	_ <O>
+a	DT	_ <O>
+right	NN	_ <O>
+to	IN	_ <O>
+life	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+oppose	VBP	_ <O>
+embryonic	JJ	_ <O>
+stem	NN	_ <O>
+cell	NN	_ <O>
+research	NN	_ <O>
+and	CC	_ <O>
+abortion	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+people	NNS	<I-CUE>
+who	WP	_ <O>
+support	VBP	_ <O>
+this	DT	_ <O>
+concept	NN	_ <O>
+define	VB	_ <O>
+embryos	NN	_ <O>
+and	CC	_ <O>
+fetuses	NNS	_ <O>
+as	IN	_ <O>
+human	JJ	_ <O>
+beings	NNS	_ <O>
+which	WDT	_ <O>
+have	VBP	_ <O>
+a	DT	_ <O>
+right	NN	_ <O>
+to	IN	_ <O>
+life	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+oppose	VBP	_ <O>
+embryonic	JJ	_ <O>
+stem	NN	_ <O>
+cell	NN	_ <O>
+research	NN	_ <O>
+and	CC	_ <O>
+abortion	NN	_ <O>
+.	.	_ <O>
+
+NULL

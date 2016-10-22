@@ -1,0 +1,308 @@
+The	DT	_ <O>
+first	JJ	_ <O>
+Power	NNP	_ <O>
+Shift	NNP	_ <O>
+Conference	NNP	_ <O>
+took	VBD	_ <O>
+place	NN	_ <O>
+from	IN	_ <O>
+November	NNP	_ <O>
+2	CD	_ <O>
+to	IN	_ <O>
+5	CD	_ <O>
+,	,	_ <O>
+2007	CD	_ <O>
+with	IN	_ <O>
+between	IN	_ <O>
+5,000	CD	_ <O>
+and	CC	_ <O>
+6,000	CD	_ <O>
+students	NNS	_ <O>
+and	CC	_ <O>
+young	JJ	_ <O>
+people	NNS	_ <O>
+in	IN	_ <O>
+attendance	NN	_ <O>
+.	.	_ <O>
+
+NULL
+At	IN	_ <O>
+the	DT	_ <O>
+University	NNP	_ <O>
+of	IN	_ <O>
+Maryland	NNP	_ <O>
+,	,	_ <O>
+College	NNP	_ <O>
+Park	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+rally	NN	_ <O>
+of	IN	_ <O>
+between	IN	_ <O>
+2,000	CD	_ <O>
+and	CC	_ <O>
+3,000	CD	_ <O>
+people	NNS	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+steps	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Capitol	NNP	_ <O>
+building	NN	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+Lobby	NNP	_ <O>
+Day	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+creation	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+5	CD	_ <O>
+million	CD	_ <O>
+-	HYPH	_ <O>
+strong	JJ	_ <O>
+Clean	NNP	_ <O>
+Energy	NNP	_ <O>
+Job	NNP	_ <O>
+Corps	NNP	_ <O>
+
+NULL
+A	DT	_ <O>
+moratorium	NN	_ <O>
+on	IN	_ <O>
+new	JJ	_ <O>
+coal	NN	_ <O>
+plants	NNS	_ <O>
+and	CC	_ <O>
+divestment	NN	_ <O>
+from	IN	_ <O>
+fossil	NN	_ <O>
+fuel	NN	_ <O>
+and	CC	_ <O>
+highway	NN	_ <O>
+subsidies	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+claimed	VBN	<I-CUE>
+that	IN	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+young	JJ	_ <O>
+people	NNS	_ <O>
+who	WP	_ <O>
+attended	VBD	_ <O>
+the	DT	_ <O>
+conference	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+largest	JJS	_ <O>
+activist	JJ	_ <O>
+youth	NN	_ <O>
+event	NN	_ <O>
+on	IN	_ <O>
+climate	NN	_ <O>
+change	NN	_ <O>
+in	IN	_ <O>
+history	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+event	NN	_ <O>
+was	VBD	_ <O>
+also	RB	_ <O>
+attended	VBN	_ <O>
+by	IN	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+keynote	NN	<I-CUE>
+speakers	NNS	<I-CUE>
+which	WDT	_ <O>
+included	VBD	_ <O>
+Al	NNP	_ <O>
+Gore	NNP	_ <O>
+The	DT	_ <O>
+main	JJ	_ <O>
+aim	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+conference	NN	_ <O>
+was	VBD	_ <O>
+to	TO	_ <O>
+urge	VB	_ <O>
+elected	VBN	_ <O>
+officials	NNS	_ <O>
+to	TO	_ <O>
+pass	VB	_ <O>
+legislation	NN	_ <O>
+which	WDT	_ <O>
+would	MD	_ <O>
+include	VB	_ <O>
+three	CD	_ <O>
+planks	NNS	_ <O>
+taken	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+platform	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+climate	NN	_ <O>
+advocacy	NN	_ <O>
+coalition	NN	_ <O>
+1Sky	NN	_ <O>
+:	:	_ <O>
+
+NULL
+The	DT	_ <O>
+reduction	NN	_ <O>
+of	IN	_ <O>
+greenhouse	NN	_ <O>
+gases	NNS	_ <O>
+to	IN	_ <O>
+80	CD	_ <O>
+percent	NN	_ <O>
+below	IN	_ <O>
+1990	CD	_ <O>
+levels	NNS	_ <O>
+by	IN	_ <O>
+2050	CD	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+scientists	NNS	<B-CUE>
+say	VB	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+baseline	NN	_ <O>
+for	IN	_ <O>
+mitigating	VBG	_ <O>
+the	DT	_ <O>
+worst	JJS	_ <O>
+effects	NNS	_ <O>
+of	IN	_ <O>
+global	JJ	_ <O>
+warming	NN	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+claimed	VBN	<I-CUE>
+that	IN	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+young	JJ	_ <O>
+people	NNS	_ <O>
+who	WP	_ <O>
+attended	VBD	_ <O>
+the	DT	_ <O>
+conference	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+largest	JJS	_ <O>
+activist	JJ	_ <O>
+youth	NN	_ <O>
+event	NN	_ <O>
+on	IN	_ <O>
+climate	NN	_ <O>
+change	NN	_ <O>
+in	IN	_ <O>
+history	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+event	NN	_ <O>
+was	VBD	_ <O>
+also	RB	_ <O>
+attended	VBN	_ <O>
+by	IN	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+keynote	NN	<I-CUE>
+speakers	NNS	<I-CUE>
+which	WDT	_ <O>
+included	VBD	_ <O>
+Al	NNP	_ <O>
+Gore	NNP	_ <O>
+The	DT	_ <O>
+main	JJ	_ <O>
+aim	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+conference	NN	_ <O>
+was	VBD	_ <O>
+to	TO	_ <O>
+urge	VB	_ <O>
+elected	VBN	_ <O>
+officials	NNS	_ <O>
+to	TO	_ <O>
+pass	VB	_ <O>
+legislation	NN	_ <O>
+which	WDT	_ <O>
+would	MD	_ <O>
+include	VB	_ <O>
+three	CD	_ <O>
+planks	NNS	_ <O>
+taken	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+platform	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+climate	NN	_ <O>
+advocacy	NN	_ <O>
+coalition	NN	_ <O>
+1Sky	NN	_ <O>
+:	:	_ <O>
+
+NULL
+The	DT	_ <O>
+reduction	NN	_ <O>
+of	IN	_ <O>
+greenhouse	NN	_ <O>
+gases	NNS	_ <O>
+to	IN	_ <O>
+80	CD	_ <O>
+percent	NN	_ <O>
+below	IN	_ <O>
+1990	CD	_ <O>
+levels	NNS	_ <O>
+by	IN	_ <O>
+2050	CD	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+scientists	NNS	<B-CUE>
+say	VB	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+baseline	NN	_ <O>
+for	IN	_ <O>
+mitigating	VBG	_ <O>
+the	DT	_ <O>
+worst	JJS	_ <O>
+effects	NNS	_ <O>
+of	IN	_ <O>
+global	JJ	_ <O>
+warming	NN	_ <O>
+
+NULL

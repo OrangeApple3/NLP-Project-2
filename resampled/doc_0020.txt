@@ -1,0 +1,138 @@
+NULL
+The	DT	_ <O>
+encyclical	JJ	_ <O>
+Sacerdotalis	NNP	_ <O>
+Caelibatus	NNP	_ <O>
+from	IN	_ <O>
+24	CD	_ <O>
+June	NNP	_ <O>
+1967	CD	_ <O>
+,	,	_ <O>
+confirms	VBZ	_ <O>
+the	DT	_ <O>
+traditional	JJ	_ <O>
+Church	NNP	_ <O>
+teaching	NN	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+celibacy	NN	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+ideal	JJ	_ <O>
+state	NN	_ <O>
+and	CC	_ <O>
+continues	VBZ	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+mandatory	JJ	_ <O>
+for	IN	_ <O>
+Roman	NNP	_ <O>
+Catholic	JJ	_ <O>
+priests	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+encyclical	NN	_ <O>
+was	VBD	_ <O>
+written	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+wake	NN	_ <O>
+of	IN	_ <O>
+Vatican	NNP	_ <O>
+II	NNP	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+the	DT	_ <O>
+Catholic	NNP	_ <O>
+Church	NNP	_ <O>
+was	VBD	_ <O>
+questioning	VBG	_ <O>
+and	CC	_ <O>
+revising	VBG	_ <O>
+many	JJ	<B-CUE>
+long	RB	<I-CUE>
+-	HYPH	<I-CUE>
+held	VBN	<I-CUE>
+practices	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Priestly	RB	_ <O>
+celibacy	NN	_ <O>
+is	VBZ	_ <O>
+considered	VBN	_ <O>
+a	DT	_ <O>
+discipline	NN	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+dogma	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+at	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+had	VBD	_ <O>
+expected	VBN	_ <O>
+that	IN	_ <O>
+it	PRP	_ <O>
+might	MD	<B-CUE>
+be	VB	_ <O>
+relaxed	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+encyclical	NN	_ <O>
+was	VBD	_ <O>
+written	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+wake	NN	_ <O>
+of	IN	_ <O>
+Vatican	NNP	_ <O>
+II	NNP	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+the	DT	_ <O>
+Catholic	NNP	_ <O>
+Church	NNP	_ <O>
+was	VBD	_ <O>
+questioning	VBG	_ <O>
+and	CC	_ <O>
+revising	VBG	_ <O>
+many	JJ	<B-CUE>
+long	RB	<I-CUE>
+-	HYPH	<I-CUE>
+held	VBN	<I-CUE>
+practices	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Priestly	RB	_ <O>
+celibacy	NN	_ <O>
+is	VBZ	_ <O>
+considered	VBN	_ <O>
+a	DT	_ <O>
+discipline	NN	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+dogma	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+at	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+had	VBD	_ <O>
+expected	VBN	_ <O>
+that	IN	_ <O>
+it	PRP	_ <O>
+might	MD	<B-CUE>
+be	VB	_ <O>
+relaxed	VBN	_ <O>
+.	.	_ <O>
+
+NULL

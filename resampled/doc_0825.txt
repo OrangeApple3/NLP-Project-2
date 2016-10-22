@@ -1,0 +1,14 @@
+NULL
+Inhabited	VBN	_ <O>
+by	IN	_ <O>
+Bartledanians	NNPS	_ <O>
+who	WP	_ <O>
+neither	CC	_ <O>
+breathe	VBP	_ <O>
+nor	CC	_ <O>
+wish	VBP	_ <O>
+for	IN	_ <O>
+things	NNS	_ <O>
+.	.	_ <O>
+
+NULL

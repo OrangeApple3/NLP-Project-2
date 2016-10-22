@@ -1,0 +1,33 @@
+NULL
+This	DT	_ <O>
+refrain	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+of	IN	_ <O>
+one	CD	_ <O>
+or	CC	_ <O>
+several	JJ	_ <O>
+syllables	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+preceded	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+rhyme	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+last	JJ	_ <O>
+couplet	NN	_ <O>
+generally	RB	_ <O>
+includes	VBZ	_ <O>
+the	DT	_ <O>
+signature	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+author	NN	_ <O>
+.	.	_ <O>
+
+NULL

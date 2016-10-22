@@ -1,0 +1,31 @@
+basal	JJ	_ <O>
+body	NN	_ <O>
+temperatures	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+used	VBN	_ <O>
+to	TO	_ <O>
+confirm	VB	_ <O>
+ovulation	NN	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+mid	JJ	_ <O>
+-	HYPH	_ <O>
+luteal	NN	_ <O>
+phase	NN	_ <O>
+progesterone	NN	_ <O>
+test	NN	_ <O>
+may	MD	_ <O>
+also	RB	_ <O>
+be	VB	_ <O>
+used	VBN	_ <O>
+to	TO	_ <O>
+diagnose	VB	_ <O>
+luteal	JJ	_ <O>
+phase	NN	_ <O>
+defect	NN	_ <O>
+.	.	_ <O>
+
+NULL

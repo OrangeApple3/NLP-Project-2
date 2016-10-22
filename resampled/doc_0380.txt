@@ -1,0 +1,91 @@
+NULL
+The	DT	_ <O>
+public	NN	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+critics	NNS	<I-CUE>
+received	VBD	_ <O>
+the	DT	_ <O>
+show	NN	_ <O>
+coolly	RB	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	<B-CUE>
+number	NN	<I-CUE>
+felt	VBD	_ <O>
+the	DT	_ <O>
+show	NN	_ <O>
+took	VBD	_ <O>
+too	RB	_ <O>
+many	JJ	_ <O>
+liberties	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+racial	JJ	_ <O>
+slurs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	<B-CUE>
+critics	NNS	<I-CUE>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+praised	VBD	_ <O>
+the	DT	_ <O>
+show	NN	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+the	DT	_ <O>
+score	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+public	NN	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+critics	NNS	<I-CUE>
+received	VBD	_ <O>
+the	DT	_ <O>
+show	NN	_ <O>
+coolly	RB	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	<B-CUE>
+number	NN	<I-CUE>
+felt	VBD	_ <O>
+the	DT	_ <O>
+show	NN	_ <O>
+took	VBD	_ <O>
+too	RB	_ <O>
+many	JJ	_ <O>
+liberties	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+racial	JJ	_ <O>
+slurs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	<B-CUE>
+critics	NNS	<I-CUE>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+praised	VBD	_ <O>
+the	DT	_ <O>
+show	NN	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+the	DT	_ <O>
+score	NN	_ <O>
+.	.	_ <O>
+
+NULL

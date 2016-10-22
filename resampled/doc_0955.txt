@@ -1,0 +1,247 @@
+NULL
+Citing	VBG	_ <O>
+the	DT	_ <O>
+Supreme	NNP	_ <O>
+Court	NNP	_ <O>
+case	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+Doe	NNP	_ <O>
+v.	IN	_ <O>
+Bolton	NNP	_ <O>
+'	POS	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+pro	JJ	<I-CUE>
+-	HYPH	<I-CUE>
+life	NN	<I-CUE>
+supporters	NNS	<I-CUE>
+have	VBP	_ <O>
+asserted	VBN	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+word	NN	_ <O>
+"	``	_ <O>
+health	NN	_ <O>
+"	''	_ <O>
+would	MD	_ <O>
+render	VB	_ <O>
+any	DT	_ <O>
+legal	JJ	_ <O>
+restriction	NN	_ <O>
+meaningless	JJ	_ <O>
+,	,	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+broad	JJ	_ <O>
+and	CC	_ <O>
+vague	JJ	_ <O>
+interpretation	NN	_ <O>
+of	IN	_ <O>
+"	``	_ <O>
+health	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+This	DT	_ <O>
+was	VBD	_ <O>
+of	IN	_ <O>
+particular	JJ	_ <O>
+concern	NN	_ <O>
+when	WRB	_ <O>
+it	PRP	_ <O>
+came	VBD	_ <O>
+to	IN	_ <O>
+anticipated	VBN	_ <O>
+arguments	NNS	_ <O>
+that	IN	_ <O>
+such	PDT	_ <O>
+a	DT	_ <O>
+definition	NN	_ <O>
+would	MD	_ <O>
+encompass	VB	_ <O>
+"	``	_ <O>
+mental	JJ	_ <O>
+health	NN	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+which	WDT	_ <O>
+some	DT	<B-CUE>
+thought	NN	_ <O>
+would	MD	_ <O>
+inevitably	RB	_ <O>
+be	VB	_ <O>
+expanded	VBN	_ <O>
+by	IN	_ <O>
+court	NN	_ <O>
+decisions	NNS	_ <O>
+to	TO	_ <O>
+include	VB	_ <O>
+the	DT	_ <O>
+prevention	NN	_ <O>
+of	IN	_ <O>
+depression	NN	_ <O>
+or	CC	_ <O>
+other	JJ	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+physical	JJ	_ <O>
+conditions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Health	NN	_ <O>
+is	VBZ	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+several	JJ	<B-CUE>
+reasons	NNS	<I-CUE>
+why	WRB	_ <O>
+women	NNS	_ <O>
+have	VBP	_ <O>
+chosen	VBN	_ <O>
+to	TO	_ <O>
+get	VB	_ <O>
+second	JJ	_ <O>
+trimester	NN	_ <O>
+abortions	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+then	RB	_ <O>
+this	DT	_ <O>
+particular	JJ	_ <O>
+procedure	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+chosen	VBN	_ <O>
+for	IN	_ <O>
+additional	JJ	<B-CUE>
+reasons	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Citing	VBG	_ <O>
+the	DT	_ <O>
+Supreme	NNP	_ <O>
+Court	NNP	_ <O>
+case	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+Doe	NNP	_ <O>
+v.	IN	_ <O>
+Bolton	NNP	_ <O>
+'	POS	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+pro	JJ	<I-CUE>
+-	HYPH	<I-CUE>
+life	NN	<I-CUE>
+supporters	NNS	<I-CUE>
+have	VBP	_ <O>
+asserted	VBN	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+word	NN	_ <O>
+"	``	_ <O>
+health	NN	_ <O>
+"	''	_ <O>
+would	MD	_ <O>
+render	VB	_ <O>
+any	DT	_ <O>
+legal	JJ	_ <O>
+restriction	NN	_ <O>
+meaningless	JJ	_ <O>
+,	,	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+broad	JJ	_ <O>
+and	CC	_ <O>
+vague	JJ	_ <O>
+interpretation	NN	_ <O>
+of	IN	_ <O>
+"	``	_ <O>
+health	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+This	DT	_ <O>
+was	VBD	_ <O>
+of	IN	_ <O>
+particular	JJ	_ <O>
+concern	NN	_ <O>
+when	WRB	_ <O>
+it	PRP	_ <O>
+came	VBD	_ <O>
+to	IN	_ <O>
+anticipated	VBN	_ <O>
+arguments	NNS	_ <O>
+that	IN	_ <O>
+such	PDT	_ <O>
+a	DT	_ <O>
+definition	NN	_ <O>
+would	MD	_ <O>
+encompass	VB	_ <O>
+"	``	_ <O>
+mental	JJ	_ <O>
+health	NN	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+which	WDT	_ <O>
+some	DT	<B-CUE>
+thought	NN	_ <O>
+would	MD	_ <O>
+inevitably	RB	_ <O>
+be	VB	_ <O>
+expanded	VBN	_ <O>
+by	IN	_ <O>
+court	NN	_ <O>
+decisions	NNS	_ <O>
+to	TO	_ <O>
+include	VB	_ <O>
+the	DT	_ <O>
+prevention	NN	_ <O>
+of	IN	_ <O>
+depression	NN	_ <O>
+or	CC	_ <O>
+other	JJ	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+physical	JJ	_ <O>
+conditions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Health	NN	_ <O>
+is	VBZ	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+several	JJ	<B-CUE>
+reasons	NNS	<I-CUE>
+why	WRB	_ <O>
+women	NNS	_ <O>
+have	VBP	_ <O>
+chosen	VBN	_ <O>
+to	TO	_ <O>
+get	VB	_ <O>
+second	JJ	_ <O>
+trimester	NN	_ <O>
+abortions	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+then	RB	_ <O>
+this	DT	_ <O>
+particular	JJ	_ <O>
+procedure	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+chosen	VBN	_ <O>
+for	IN	_ <O>
+additional	JJ	<B-CUE>
+reasons	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

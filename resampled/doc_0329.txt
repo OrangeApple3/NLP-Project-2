@@ -1,0 +1,170 @@
+NULL
+This	DT	_ <O>
+is	VBZ	_ <O>
+largely	RB	_ <O>
+dismissed	VBN	_ <O>
+by	IN	_ <O>
+skeptics	NNS	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+over	IN	_ <O>
+-	HYPH	_ <O>
+extrapolation	NN	_ <O>
+from	IN	_ <O>
+standard	JJ	_ <O>
+deviation	NN	_ <O>
+common	JJ	_ <O>
+in	IN	_ <O>
+necessarily	RB	_ <O>
+subjective	JJ	_ <O>
+eye	NN	_ <O>
+-	HYPH	_ <O>
+witness	NN	_ <O>
+accounts	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+media	NNS	_ <O>
+and	CC	_ <O>
+most	RBS	_ <O>
+skeptical	JJ	_ <O>
+investigators	NNS	_ <O>
+have	VBP	_ <O>
+largely	RB	_ <O>
+preferred	VBN	_ <O>
+to	TO	_ <O>
+split	VB	_ <O>
+the	DT	_ <O>
+sightings	NNS	_ <O>
+into	IN	_ <O>
+two	CD	_ <O>
+distinct	JJ	_ <O>
+classes	NNS	_ <O>
+-	:	_ <O>
+a	DT	_ <O>
+first	JJ	_ <O>
+and	CC	_ <O>
+second	JJ	_ <O>
+event	NN	_ <O>
+-	,	_ <O>
+for	IN	_ <O>
+which	WDT	_ <O>
+two	CD	_ <O>
+separate	JJ	_ <O>
+explanations	NNS	_ <O>
+are	VBP	_ <O>
+offered	VBN	_ <O>
+:	:	_ <O>
+
+NULL
+There	EX	_ <O>
+is	VBZ	_ <O>
+some	DT	<B-CUE>
+controversy	NN	<I-CUE>
+as	IN	_ <O>
+to	IN	_ <O>
+how	WRB	_ <O>
+best	RBS	_ <O>
+classify	VB	_ <O>
+the	DT	_ <O>
+reports	NNS	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+night	NN	_ <O>
+in	IN	_ <O>
+question	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+are	VBP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+opinion	NN	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+differing	VBG	_ <O>
+nature	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+eyewitness	NN	_ <O>
+reports	NNS	_ <O>
+indicates	VBZ	_ <O>
+that	IN	_ <O>
+several	JJ	<B-CUE>
+unidentified	JJ	<I-CUE>
+objects	NNS	<I-CUE>
+were	VBD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+,	,	_ <O>
+each	DT	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+was	VBD	_ <O>
+its	PRP$	_ <O>
+own	JJ	_ <O>
+separate	JJ	_ <O>
+'	''	_ <O>
+event	NN	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL
+There	EX	_ <O>
+is	VBZ	_ <O>
+some	DT	<B-CUE>
+controversy	NN	<I-CUE>
+as	IN	_ <O>
+to	IN	_ <O>
+how	WRB	_ <O>
+best	RBS	_ <O>
+classify	VB	_ <O>
+the	DT	_ <O>
+reports	NNS	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+night	NN	_ <O>
+in	IN	_ <O>
+question	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+are	VBP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+opinion	NN	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+differing	VBG	_ <O>
+nature	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+eyewitness	NN	_ <O>
+reports	NNS	_ <O>
+indicates	VBZ	_ <O>
+that	IN	_ <O>
+several	JJ	<B-CUE>
+unidentified	JJ	<I-CUE>
+objects	NNS	<I-CUE>
+were	VBD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+,	,	_ <O>
+each	DT	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+was	VBD	_ <O>
+its	PRP$	_ <O>
+own	JJ	_ <O>
+separate	JJ	_ <O>
+'	''	_ <O>
+event	NN	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL

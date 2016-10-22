@@ -1,0 +1,175 @@
+NULL
+Aesthetics	NNS	_ <O>
+Essentialism	NNP	_ <O>
+
+NULL
+In	IN	_ <O>
+art	NN	_ <O>
+,	,	_ <O>
+essentialism	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+idea	NN	_ <O>
+that	IN	_ <O>
+certain	JJ	_ <O>
+concepts	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+expressed	VBN	_ <O>
+organically	RB	_ <O>
+in	IN	_ <O>
+certain	JJ	_ <O>
+media	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+idea	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+further	RBR	_ <O>
+refined	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+it	PRP	<B-CUE>
+may	MD	<I-CUE>
+be	VB	<I-CUE>
+said	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+haiku	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+poor	JJ	_ <O>
+vehicle	NN	_ <O>
+for	IN	_ <O>
+describing	VBG	_ <O>
+a	DT	_ <O>
+lover	NN	_ <O>
+'s	POS	_ <O>
+affection	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+opposed	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+more	RBR	_ <O>
+organically	RB	_ <O>
+correct	JJ	_ <O>
+sonnet	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Generally	RB	<B-CUE>
+,	,	_ <O>
+working	VBG	<B-CUE>
+artists	NNS	<I-CUE>
+accept	VB	_ <O>
+some	DT	_ <O>
+form	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+concept	NN	_ <O>
+of	IN	_ <O>
+organic	JJ	_ <O>
+form	NN	_ <O>
+(	-LRB-	_ <O>
+although	IN	_ <O>
+philosophers	NNS	<B-CUE>
+like	IN	_ <O>
+Rudolf	NNP	_ <O>
+Arnheim	NNP	_ <O>
+have	VBP	_ <O>
+added	VBN	_ <O>
+support	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+whereas	IN	_ <O>
+philosophers	NNS	<B-CUE>
+have	VBP	_ <O>
+tended	VBN	_ <O>
+to	TO	_ <O>
+regard	VB	_ <O>
+it	PRP	_ <O>
+as	IN	_ <O>
+vague	JJ	_ <O>
+and	CC	_ <O>
+irrelevant	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+idea	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+further	RBR	_ <O>
+refined	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+it	PRP	<B-CUE>
+may	MD	<I-CUE>
+be	VB	<I-CUE>
+said	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+haiku	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+poor	JJ	_ <O>
+vehicle	NN	_ <O>
+for	IN	_ <O>
+describing	VBG	_ <O>
+a	DT	_ <O>
+lover	NN	_ <O>
+'s	POS	_ <O>
+affection	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+opposed	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+more	RBR	_ <O>
+organically	RB	_ <O>
+correct	JJ	_ <O>
+sonnet	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Generally	RB	<B-CUE>
+,	,	_ <O>
+working	VBG	<B-CUE>
+artists	NNS	<I-CUE>
+accept	VB	_ <O>
+some	DT	_ <O>
+form	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+concept	NN	_ <O>
+of	IN	_ <O>
+organic	JJ	_ <O>
+form	NN	_ <O>
+(	-LRB-	_ <O>
+although	IN	_ <O>
+philosophers	NNS	<B-CUE>
+like	IN	_ <O>
+Rudolf	NNP	_ <O>
+Arnheim	NNP	_ <O>
+have	VBP	_ <O>
+added	VBN	_ <O>
+support	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+whereas	IN	_ <O>
+philosophers	NNS	<B-CUE>
+have	VBP	_ <O>
+tended	VBN	_ <O>
+to	TO	_ <O>
+regard	VB	_ <O>
+it	PRP	_ <O>
+as	IN	_ <O>
+vague	JJ	_ <O>
+and	CC	_ <O>
+irrelevant	JJ	_ <O>
+.	.	_ <O>
+
+NULL

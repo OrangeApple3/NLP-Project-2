@@ -1,0 +1,118 @@
+The	DT	_ <O>
+restaurant	NN	_ <O>
+hires	VBZ	_ <O>
+only	RB	_ <O>
+women	NNS	_ <O>
+as	IN	_ <O>
+servers	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+refers	VBZ	_ <O>
+to	IN	_ <O>
+them	PRP	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+Hooters	NNP	_ <O>
+Girls	NNP	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+Men	NNS	_ <O>
+do	VBP	_ <O>
+find	VB	_ <O>
+employment	NN	_ <O>
+at	IN	_ <O>
+Hooters	NNP	_ <O>
+as	IN	_ <O>
+cooks	NNS	_ <O>
+,	,	_ <O>
+dishwashers	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+managers	NNS	_ <O>
+where	WRB	_ <O>
+most	JJS	_ <O>
+wear	VBP	_ <O>
+Bermuda	NNP	_ <O>
+shorts	NNS	_ <O>
+,	,	_ <O>
+Hawaiian	JJ	_ <O>
+shirts	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+similar	JJ	_ <O>
+garb	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+uniform	NN	_ <O>
+is	VBZ	_ <O>
+considered	VBN	_ <O>
+by	IN	_ <O>
+some	DT	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+an	DT	_ <O>
+objectification	NN	_ <O>
+of	IN	_ <O>
+women	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+general	JJ	_ <O>
+environment	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+restaurant	NN	_ <O>
+is	VBZ	_ <O>
+seen	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+people	NNS	<I-CUE>
+as	IN	_ <O>
+sexist	JJ	_ <O>
+and	CC	_ <O>
+demeaning	JJ	_ <O>
+to	IN	_ <O>
+women	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+uniform	NN	_ <O>
+is	VBZ	_ <O>
+considered	VBN	_ <O>
+by	IN	_ <O>
+some	DT	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+an	DT	_ <O>
+objectification	NN	_ <O>
+of	IN	_ <O>
+women	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+general	JJ	_ <O>
+environment	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+restaurant	NN	_ <O>
+is	VBZ	_ <O>
+seen	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+people	NNS	<I-CUE>
+as	IN	_ <O>
+sexist	JJ	_ <O>
+and	CC	_ <O>
+demeaning	JJ	_ <O>
+to	IN	_ <O>
+women	NNS	_ <O>
+.	.	_ <O>
+
+NULL

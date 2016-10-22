@@ -1,0 +1,118 @@
+Two	CD	_ <O>
+other	JJ	_ <O>
+Englishmen	NNS	_ <O>
+should	MD	_ <O>
+be	VB	_ <O>
+referred	VBN	_ <O>
+to	IN	_ <O>
+,	,	_ <O>
+Robert	NNP	_ <O>
+and	CC	_ <O>
+George	NNP	_ <O>
+White	NNP	_ <O>
+,	,	_ <O>
+father	NN	_ <O>
+and	CC	_ <O>
+son	NN	_ <O>
+.	.	_ <O>
+
+NULL
+By	IN	_ <O>
+Robert	NNP	_ <O>
+White	NNP	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+remarkable	JJ	_ <O>
+portraits	NNS	_ <O>
+of	IN	_ <O>
+Bunyan	NNP	_ <O>
+and	CC	_ <O>
+Sir	NNP	_ <O>
+Matthew	NNP	_ <O>
+Hale	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+British	NNP	_ <O>
+Museum	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+his	PRP$	_ <O>
+own	JJ	_ <O>
+portrait	NN	_ <O>
+at	IN	_ <O>
+Welbeck	NNP	_ <O>
+;	:	_ <O>
+and	CC	_ <O>
+by	IN	_ <O>
+him	PRP	_ <O>
+and	CC	_ <O>
+his	PRP$	_ <O>
+son	NN	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+other	JJ	_ <O>
+drawings	NNS	_ <O>
+in	IN	_ <O>
+private	JJ	_ <O>
+collections	NNS	_ <O>
+,	,	_ <O>
+depicting	VBG	_ <O>
+Sir	NNP	_ <O>
+Godfrey	NNP	_ <O>
+Kneller	NNP	_ <O>
+,	,	_ <O>
+Archbishop	NNP	_ <O>
+Tenison	NNP	_ <O>
+and	CC	_ <O>
+others	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+George	NNP	_ <O>
+White	NNP	_ <O>
+(	-LRB-	_ <O>
+c.	IN	_ <O>
+1684	CD	_ <O>
+-	SYM	_ <O>
+1732	CD	_ <O>
+)	-RRB-	_ <O>
+was	VBD	_ <O>
+taught	VBN	_ <O>
+by	IN	_ <O>
+his	PRP$	_ <O>
+father	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+finished	VBD	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+fathers	NNS	<I-CUE>
+plates	VBZ	<I-CUE>
+.	.	_ <O>
+
+NULL
+George	NNP	_ <O>
+White	NNP	_ <O>
+(	-LRB-	_ <O>
+c.	IN	_ <O>
+1684	CD	_ <O>
+-	SYM	_ <O>
+1732	CD	_ <O>
+)	-RRB-	_ <O>
+was	VBD	_ <O>
+taught	VBN	_ <O>
+by	IN	_ <O>
+his	PRP$	_ <O>
+father	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+finished	VBD	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+fathers	NNS	<I-CUE>
+plates	VBZ	<I-CUE>
+.	.	_ <O>
+
+NULL

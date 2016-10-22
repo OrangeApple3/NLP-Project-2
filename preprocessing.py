@@ -7,7 +7,7 @@ import csv
 # 'train_preprocessed' and run the preprocess function within this module
 
 # Setting this to True will allow tests to be run
-DEBUG = False
+DEBUG = True
 
 
 def has_cue(line):

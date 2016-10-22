@@ -1,0 +1,30 @@
+NULL
+Spike	NNP	_ <O>
+,	,	_ <O>
+Boulderhead	NNP	_ <O>
+,	,	_ <O>
+Yuckhead	NNP	_ <O>
+,	,	_ <O>
+Stupidhead	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+names	NNS	_ <O>
+were	VBD	_ <O>
+mentioned	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+other	JJ	_ <O>
+interviewers	NNS	_ <O>
+denied	VBD	_ <O>
+coaching	VBG	_ <O>
+the	DT	_ <O>
+children	NNS	_ <O>
+prior	RB	_ <O>
+to	IN	_ <O>
+their	PRP$	_ <O>
+interviews	NNS	_ <O>
+.	.	_ <O>
+
+NULL

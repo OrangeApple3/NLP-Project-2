@@ -1,0 +1,28 @@
+NULL
+The	DT	_ <O>
+dialect	NN	_ <O>
+is	VBZ	_ <O>
+very	RB	_ <O>
+prestigious	JJ	_ <O>
+and	CC	_ <O>
+contributes	VBZ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+pride	NN	_ <O>
+of	IN	_ <O>
+local	JJ	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+some	DT	_ <O>
+local	JJ	_ <O>
+Czechs	NNPS	_ <O>
+.	.	_ <O>
+
+NULL

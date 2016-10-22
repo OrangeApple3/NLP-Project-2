@@ -1,0 +1,60 @@
+NULL
+Throughout	IN	_ <O>
+the	DT	_ <O>
+shows	NNS	_ <O>
+run	VB	_ <O>
+other	JJ	_ <O>
+aspects	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+crew	NN	_ <O>
+'s	POS	_ <O>
+criminal	JJ	_ <O>
+activities	NNS	_ <O>
+developed	VBN	_ <O>
+or	CC	_ <O>
+were	VBD	_ <O>
+revealed	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+Christopher	NNP	_ <O>
+'s	POS	_ <O>
+death	NN	_ <O>
+,	,	_ <O>
+Patsy	NNP	_ <O>
+most	RBS	<B-CUE>
+likely	JJ	<I-CUE>
+took	VBD	_ <O>
+over	RP	_ <O>
+the	DT	_ <O>
+crew	NN	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+he	PRP	_ <O>
+had	VBD	_ <O>
+seniority	NN	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+Christopher	NNP	_ <O>
+'s	POS	_ <O>
+death	NN	_ <O>
+,	,	_ <O>
+Patsy	NNP	_ <O>
+most	RBS	<B-CUE>
+likely	JJ	<I-CUE>
+took	VBD	_ <O>
+over	RP	_ <O>
+the	DT	_ <O>
+crew	NN	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+he	PRP	_ <O>
+had	VBD	_ <O>
+seniority	NN	_ <O>
+.	.	_ <O>
+
+NULL
