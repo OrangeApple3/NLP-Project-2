@@ -1,0 +1,24 @@
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+<unk>	VBG	_ <O>
+with	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+General	NNP	_ <O>
+<unk>	NNP	_ <O>
+Khan	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+to	TO	_ <O>
+form	VB	_ <O>
+Peace	NNP	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+Party	NNP	_ <O>
+)	-RRB-	_ <O>
+
+NULL

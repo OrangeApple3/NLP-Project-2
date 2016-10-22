@@ -1,0 +1,43 @@
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+supplement	NN	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+child	NN	_ <O>
+company	NN	_ <O>
+of	IN	_ <O>
+Basic	NNP	_ <O>
+Research	NNP	_ <O>
+;	:	_ <O>
+Salt	NNP	_ <O>
+Lake	NNP	_ <O>
+City	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	<B-CUE>
+formerly	RB	<I-CUE>
+known	VBN	<I-CUE>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+see	VB	_ <O>
+anorexia	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

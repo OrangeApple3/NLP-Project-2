@@ -1,0 +1,91 @@
+NULL
+Major	JJ	_ <O>
+philosophical	JJ	_ <O>
+questions	NNS	_ <O>
+arise	VBP	_ <O>
+as	RB	_ <O>
+soon	RB	_ <O>
+as	IN	_ <O>
+one	CD	_ <O>
+attempts	VBZ	_ <O>
+to	TO	_ <O>
+define	VB	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+what	WP	_ <O>
+it	PRP	_ <O>
+studies	VBZ	_ <O>
+.	.	_ <O>
+
+NULL
+Atoms	NNS	_ <O>
+and	CC	_ <O>
+molecules	NNS	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+assumed	VBN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+fundamental	JJ	_ <O>
+units	NNS	_ <O>
+of	IN	_ <O>
+chemical	NN	_ <O>
+theory	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+traditional	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+molecular	JJ	_ <O>
+structure	NN	_ <O>
+and	CC	_ <O>
+chemical	NN	_ <O>
+<unk>	NN	_ <O>
+fail	NN	_ <O>
+to	TO	_ <O>
+account	VB	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+properties	NNS	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+substances	NNS	<I-CUE>
+,	,	_ <O>
+including	VBG	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+metal	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+rocks	NNS	<I-CUE>
+exist	VB	_ <O>
+as	IN	_ <O>
+mineral	NN	_ <O>
+complexes	NNS	_ <O>
+composed	VBN	_ <O>
+of	IN	_ <O>
+multiple	JJ	_ <O>
+<unk>	NNS	_ <O>
+that	WDT	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+occur	VB	_ <O>
+in	IN	_ <O>
+fixed	VBN	_ <O>
+proportions	NNS	_ <O>
+or	CC	_ <O>
+spatial	JJ	_ <O>
+relationships	NNS	_ <O>
+to	IN	_ <O>
+one	CD	_ <O>
+another	DT	_ <O>
+.	.	_ <O>
+
+NULL

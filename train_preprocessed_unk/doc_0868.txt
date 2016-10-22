@@ -1,0 +1,102 @@
+NULL
+The	DT	_ <O>
+genus	NN	_ <O>
+ranges	VBZ	_ <O>
+across	IN	_ <O>
+Africa	NNP	_ <O>
+and	CC	_ <O>
+Asia	NNP	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+islands	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	<B-CUE>
+few	JJ	<I-CUE>
+species	NNS	<I-CUE>
+are	VBP	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+the	DT	_ <O>
+majority	NN	_ <O>
+are	VBP	_ <O>
+resident	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+most	RBS	_ <O>
+telling	JJ	_ <O>
+characteristic	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+genus	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+long	JJ	_ <O>
+tail	NN	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+males	NNS	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+species	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+species	NNS	_ <O>
+also	RB	_ <O>
+occurs	VBZ	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+islands	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+those	DT	_ <O>
+of	IN	_ <O>
+Indonesia	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Philippines	NNPS	_ <O>
+,	,	_ <O>
+Taiwan	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Japan	NNP	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Indian	NNP	_ <O>
+Ocean	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+off	IN	_ <O>
+Africa	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNP	_ <O>
+coast	NN	_ <O>
+.	.	_ <O>
+
+NULL

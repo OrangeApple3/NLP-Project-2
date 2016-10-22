@@ -1,0 +1,62 @@
+NULL
+'	''	_ <O>
+Jay	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+is	VBZ	_ <O>
+currently	RB	_ <O>
+President	NNP	_ <O>
+of	IN	_ <O>
+Music	NNP	_ <O>
+and	CC	_ <O>
+Publishing	NNP	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+Entertainment	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+was	VBD	_ <O>
+assigned	VBN	_ <O>
+this	DT	_ <O>
+position	NN	_ <O>
+in	IN	_ <O>
+July	NNP	_ <O>
+2005	CD	_ <O>
+after	IN	_ <O>
+<unk>	VBG	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+company	NN	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+prior	JJ	_ <O>
+year	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Upon	IN	_ <O>
+appointment	NN	_ <O>
+,	,	_ <O>
+Faires	NNP	_ <O>
+began	VBD	_ <O>
+<unk>	VBG	_ <O>
+Lionsgate	NNP	_ <O>
+Music	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+leading	VBG	<B-CUE>
+independent	JJ	_ <O>
+music	NN	_ <O>
+<unk>	NN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+becoming	VBG	_ <O>
+today	NN	_ <O>
+.	.	_ <O>
+
+NULL

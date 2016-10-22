@@ -1,0 +1,24 @@
+NULL
+Other	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+<unk>	VB	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+be	VB	_ <O>
+granted	VBN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+war	NN	_ <O>
+rights	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

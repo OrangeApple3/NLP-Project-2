@@ -1,0 +1,48 @@
+NULL
+Water	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+river	NN	_ <O>
+Oder	NNP	_ <O>
+<unk>	VBZ	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+Szczecin	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+From	IN	_ <O>
+there	RB	_ <O>
+it	PRP	_ <O>
+flows	VBZ	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+west	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+Bay	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Sea	NNP	_ <O>
+.	.	_ <O>
+
+NULL

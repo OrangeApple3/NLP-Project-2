@@ -1,0 +1,46 @@
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+son	NN	_ <O>
+-	HYPH	_ <O>
+in	IN	_ <O>
+-	HYPH	_ <O>
+law	NN	_ <O>
+of	IN	_ <O>
+Rabbi	NNP	_ <O>
+<unk>	NNP	_ <O>
+Kramer	NNP	_ <O>
+founded	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+1933	CD	_ <O>
+with	IN	_ <O>
+six	CD	_ <O>
+students	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+had	VBD	_ <O>
+a	DT	_ <O>
+vision	NN	_ <O>
+,	,	_ <O>
+to	TO	_ <O>
+build	VB	_ <O>
+a	DT	_ <O>
+yeshiva	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+European	JJ	_ <O>
+style	NN	_ <O>
+on	IN	_ <O>
+American	JJ	_ <O>
+soil	NN	_ <O>
+.	.	_ <O>
+
+NULL

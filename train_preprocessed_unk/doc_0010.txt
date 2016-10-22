@@ -1,0 +1,54 @@
+NULL
+In	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+made	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+he	PRP	_ <O>
+also	RB	_ <O>
+<unk>	VBD	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+also	RB	_ <O>
+produced	VBD	_ <O>
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+album	NN	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+album	NN	_ <O>
+'	''	_ <O>
+From	IN	_ <O>
+<unk>	JJ	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,102 @@
+NULL
+Some	DT	<B-CUE>
+say	VB	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+more	JJR	_ <O>
+<unk>	NNS	_ <O>
+than	IN	_ <O>
+any	DT	_ <O>
+other	JJ	_ <O>
+section	NN	_ <O>
+of	IN	_ <O>
+fresh	JJ	_ <O>
+water	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Winds	NNS	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+Great	NNP	_ <O>
+Lakes	NNPS	_ <O>
+are	VBP	_ <O>
+notoriously	RB	_ <O>
+unpredictable	JJ	_ <O>
+and	CC	_ <O>
+can	MD	_ <O>
+increase	VB	_ <O>
+to	IN	_ <O>
+gale	NN	_ <O>
+forces	NNS	_ <O>
+and	CC	_ <O>
+more	JJR	_ <O>
+almost	RB	_ <O>
+without	IN	_ <O>
+warning	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Plum	NNP	_ <O>
+Island	NNP	_ <O>
+and	CC	_ <O>
+tiny	JJ	_ <O>
+Pilot	NNP	_ <O>
+Island	NNP	_ <O>
+are	VBP	_ <O>
+almost	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+very	RB	_ <O>
+middle	NN	_ <O>
+of	IN	_ <O>
+what	WP	_ <O>
+is	VBZ	_ <O>
+commonly	RB	_ <O>
+considered	VBN	_ <O>
+Death	NNP	_ <O>
+'s	POS	_ <O>
+Door	NN	_ <O>
+and	CC	_ <O>
+thereby	RB	_ <O>
+pose	VB	_ <O>
+hazards	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+While	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	FW	_ <O>
+<unk>	NNP	_ <O>
+Passage	NNP	_ <O>
+proper	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+south	NN	_ <O>
+of	IN	_ <O>
+Plum	NNP	_ <O>
+Island	NNP	_ <O>
+is	VBZ	_ <O>
+relatively	RB	_ <O>
+hazard	NN	_ <O>
+free	JJ	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Detroit	NNP	_ <O>
+Island	NNP	_ <O>
+Passage	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+north	NN	_ <O>
+of	IN	_ <O>
+Plum	NNP	_ <O>
+Island	NNP	_ <O>
+has	VBZ	_ <O>
+many	JJ	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,55 @@
+NULL
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+founded	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Cairo	NNP	_ <O>
+City	NNP	_ <O>
+&	CC	_ <O>
+Canal	NNP	_ <O>
+Company	NNP	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+incorporated	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+city	NN	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+15	CD	_ <O>
+years	NNS	_ <O>
+the	DT	_ <O>
+town	NN	_ <O>
+grew	VBD	_ <O>
+slowly	RB	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+the	DT	_ <O>
+sale	NN	_ <O>
+of	IN	_ <O>
+lots	NNS	_ <O>
+(	-LRB-	_ <O>
+<unk>	VBG	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+completion	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Illinois	NNP	_ <O>
+Central	NNP	_ <O>
+<unk>	NNP	_ <O>
+attracted	VBD	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
