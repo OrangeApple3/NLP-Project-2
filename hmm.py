@@ -8,7 +8,7 @@ from viterbi import viterbi, viterbi_again
 CUES = ['<B-CUE>', '<I-CUE>', '<O>']
 
 
-def compute_emission_probabilities(smoothed=False):
+def compute_emission_probabilities(directory="/train_preprocessed", smoothed=False):
     """
     Computes the emission probabilities over the training data.
     Emission prob. key/value example: ("table", "<B-CUE") : 0.015.
@@ -18,8 +18,8 @@ def compute_emission_probabilities(smoothed=False):
     emission_probabilities = dict()
     cue_counts = Counter()
     
-    for file in os.listdir(os.getcwd() + "/train_preprocessed"):
-        data = open(os.getcwd() + "/train_preprocessed/{}".format(file), 'r+')
+    for file in os.listdir(os.getcwd() + directory):
+        data = open(os.getcwd() + "{}/{}".format(directory, file), 'r+')
         for line in data:
             line = line.strip("\n")
             cue = has_cue(line)
