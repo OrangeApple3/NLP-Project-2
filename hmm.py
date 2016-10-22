@@ -1,15 +1,11 @@
 import sys
 import os
 from collections import Counter
-from preprocessing import has_cue, DEBUG
+from preprocessing import has_cue
 from transition import compute_transition_probabilities
 from viterbi import viterbi, viterbi_again
 from sklearn.metrics import f1_score
-
-
-CUES = ['<B-CUE>', '<I-CUE>', '<O>']
-TRAINING_DIRECTORY = "/train_preprocessed_unk"
-SMOOTHED = True
+from constants import DEBUG, SMOOTHED, TRAINING_DIRECTORY, CUES
 
 
 def compute_emission_probabilities(directory=TRAINING_DIRECTORY, smoothed=SMOOTHED):
@@ -22,8 +18,8 @@ def compute_emission_probabilities(directory=TRAINING_DIRECTORY, smoothed=SMOOTH
     emission_probabilities = dict()
     cue_counts = Counter()
     
-    for file in os.listdir(os.getcwd() + directory):
-        data = open(os.getcwd() + "{}/{}".format(directory, file), 'r+')
+    for file in os.listdir(directory):
+        data = open("{}/{}".format(directory, file), 'r+')
         for line in data:
             line = line.strip("\n")
             cue = has_cue(line)
@@ -85,6 +81,39 @@ def get_sentences(test_root_dir):
     return sentences
 
 
+def compute_uncertainty_spans(tags):
+    """
+    Computes the uncertainty span string (e.g. "1 2-4 5 6 8-14 ...")
+    from the given BIO tag sequences.
+    tags is a list of lists, where each sublist denotes the BIO tags of words
+    in a sentence.
+    """
+    # Compute the uncertainty spans from the tagged sentences
+    count = 0
+    uncertainty_spans = ""
+    
+    for sentence in tags:
+        in_cue = False
+        cue_begin = 0
+        cue_end = 0
+        for tag in sentence:
+            if tag == '<B-CUE>':
+                in_cue = True
+                cue_begin = count
+                cue_end = cue_begin
+            elif tag == '<I-CUE>' and in_cue:
+                cue_end = count
+            elif tag == "<O>" and in_cue:
+                if cue_begin != cue_end:
+                    uncertainty_spans += "{}-{} ".format(cue_begin, cue_end)
+                else:
+                    uncertainty_spans += "{} ".format(cue_begin)
+                in_cue = False
+            count += 1
+    return uncertainty_spans
+
+
+    
 def phrase_label():
     # Gets a list of public and private sentences from the test data
     public_sentences = get_sentences(os.getcwd() + "/test-public/")
@@ -93,9 +122,6 @@ def phrase_label():
     public_tags = []
     private_tags = []
 
-    public_uncertainty_spans = ""
-    private_uncertainty_spans = ""
-    
     transition = compute_transition_probabilities()
     emission = compute_emission_probabilities()
     for i in range(5):
@@ -105,34 +131,10 @@ def phrase_label():
         public_tags.append(viterbi(emission, transition, sentence))
     for sentence in private_sentences:
         private_tags.append(viterbi(emission, transition, sentence))
-    #print public_tags
-    # Compute the uncertainty spans from the tagged sentences
-    public_count = 0
-    private_count = 0
-    for sentence in public_tags:
-        in_cue = False
-        cue_begin = 0
-        cue_end = 0
-        for tag in sentence:
-            if tag == '<B-CUE>':
-                in_cue = True
-                cue_begin = public_count
-                cue_end = cue_begin
-            elif tag == '<I-CUE>' and in_cue:
-                cue_end = public_count
-            elif tag == "<O>" and in_cue:
-                if cue_begin != cue_end:
-                    public_uncertainty_spans += "{}-{} ".format(cue_begin, cue_end)
-                else:
-                    public_uncertainty_spans += "{} ".format(cue_begin)
-                in_cue = False
-            public_count += 1
 
-    for sentence in private_tags:
-        for tag in sentence:
-            private_count += 1
-    return public_uncertainty_spans
-            
+    public_uncertainty_spans = compute_uncertainty_spans(public_tags)
+    private_uncertainty_spans = compute_uncertainty_spans(private_tags)
+    return public_uncertainty_spans, private_uncertainty_spans
 
 def compute_F1_score(pred_tags, actual_tags):
     """
@@ -184,5 +186,6 @@ def main():
 
         
 if __name__ == '__main__':
+    print phrase_label()
     main()
 
