@@ -1,1 +1,3 @@
 # NLP-Project-2
+
+To run the HMM, change your working directory to the directory containing the hmm.py, transition.py, viterbi.py, and the training text subdirectories. The “constants.py” file contains constants that adjust the behavior of the model and debugging output. Running "hmm.py" computes the emission and transition probabilities, and then applies the Viterbi algorithm. If DEBUG in constants.py is set to True, several sanity checks will also be outputted. One can also run "python transition.py" to see additional testing output for the transition probabilities. 
