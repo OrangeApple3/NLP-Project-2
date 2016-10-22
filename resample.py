@@ -2,14 +2,18 @@ import os
 import sys
 import random
 from preprocessing import has_cue
+from constants import DEBUG, TRAINING_DIRECTORY
+
 # python resample.py
 
-def main():
+
+
+def main(directory=TRAINING_DIRECTORY):
     # ADJUST DOWNSAMPLE HERE
     remove_prob = 50 # probability out of 100 that a sentence with only <O> tags is removed
 
-    for fn in os.listdir("train_preprocessed/"):
-        with open("train_preprocessed/" + fn) as train_file:
+    for fn in os.listdir(directory):
+        with open(directory + "/" + fn) as train_file:
             uncertain_sentences = [] 
             certain_sentences = []
             sentence = [] 
@@ -32,7 +36,7 @@ def main():
             uncertain_sentences += uncertain_sentences # to repeat sentences, increment uncertain_sentences
 
         # write to new file
-        file = open("resampled/" + fn, "w")
+        file = open("resampled_unk/" + fn, "w")
         for sent in certain_sentences + uncertain_sentences:
             for token in sent:
                 file.write(token)
