@@ -12,6 +12,5 @@ SMOOTHED = True
 # Setting this to True will cause debugging tests to be run
 DEBUG = True
 
-
 # Setting this to be True will cause phrase/sentence classification CSVs to be generated during sequence tagging
 LOGGING = True

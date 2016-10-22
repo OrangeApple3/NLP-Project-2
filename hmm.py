@@ -32,6 +32,8 @@ def compute_emission_probabilities(directory=TRAINING_DIRECTORY, smoothed=SMOOTH
             elif "NULL" not in line:
                 cue_counts["<O>"] += 1
                 emission_counts[(word, "<O>")] += 1
+        data.close()
+        
     if smoothed:
         emission_counts = smooth_counts(emission_counts)
         # Normalize cue counts with updated smoothed counts
@@ -78,6 +80,7 @@ def get_sentences(test_root_dir):
                 continue
             else:
                 curr_sentence.append(line.split("\t")[0])
+        data.close()
     return sentences
 
 
@@ -104,17 +107,27 @@ def compute_uncertainty_spans(tags):
             elif tag == '<I-CUE>' and in_cue:
                 cue_end = count
             elif tag == "<O>" and in_cue:
-                if cue_begin != cue_end:
-                    uncertainty_spans += "{}-{} ".format(cue_begin, cue_end)
-                else:
-                    uncertainty_spans += "{} ".format(cue_begin)
+                uncertainty_spans += "{}-{} ".format(cue_begin, cue_end)
                 in_cue = False
             count += 1
     return uncertainty_spans
 
 
+def find_uncertain_sentences(tags):
+    """
+    Returns a string with pointers to all sentences containing an 
+    uncertain phrase.
+    """
+    uncertain_sentences = ""
+    count = 0
+    for sentence in tags:
+        if '<B-CUE>' in sentence:
+            uncertain_sentences += "{} ".format(count)
+        count += 1
+    return uncertain_sentences
+
     
-def phrase_label():
+def phrase_sentence_label():
     # Gets a list of public and private sentences from the test data
     public_sentences = get_sentences(os.getcwd() + "/test-public/")
     private_sentences = get_sentences(os.getcwd() + "/test-private/")
@@ -124,8 +137,7 @@ def phrase_label():
 
     transition = compute_transition_probabilities()
     emission = compute_emission_probabilities()
-    for i in range(5):
-        print viterbi(emission, transition, public_sentences[i])
+    
     # Use Viterbi algorithm to determine appropriate cue tags/labels for each sentence
     for sentence in public_sentences:
         public_tags.append(viterbi(emission, transition, sentence))
@@ -134,6 +146,8 @@ def phrase_label():
 
     public_uncertainty_spans = compute_uncertainty_spans(public_tags)
     private_uncertainty_spans = compute_uncertainty_spans(private_tags)
+    public_uncertain_sentences = find_uncertain_sentences(public_tags)
+    private_uncertain_sentences = find_uncertain_sentences(private_tags)
     
     if LOGGING:
         with open('hmm_phrase_classification.csv', 'w+') as file:
@@ -141,9 +155,15 @@ def phrase_label():
             writer.writerow(['Type', 'Spans'])
             writer.writerow(['CUE-public', public_uncertainty_spans])
             writer.writerow(['CUE-private', private_uncertainty_spans])
-            
-    return public_uncertainty_spans, private_uncertainty_spans
-
+        with open('hmm_sentence_classification.csv', 'w+') as file:
+            writer = csv.writer(file)
+            writer.writerow(['Type', 'Indices'])
+            writer.writerow(['SENTENCE-public', public_uncertainty_sentences])
+            writer.writerow(['SENTENCE-private', private_uncertainty_sentences])
+    return {'public_uncertainty_spans': public_uncertainty_spans,
+            'private_uncertainty_spans': private_uncertainty_spans,
+            'public_uncertain_sentences': public_uncertain_sentences,
+            'private_uncertain_sentences': private_uncertain_sentences}
 
 def compute_F1_score(pred_tags, actual_tags):
     """
@@ -195,6 +215,5 @@ def main():
 
         
 if __name__ == '__main__':
-    print phrase_label()
     main()
 
