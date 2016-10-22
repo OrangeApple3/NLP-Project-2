@@ -1,0 +1,100 @@
+NULL
+His	PRP$	_ <O>
+works	NNS	_ <O>
+were	VBD	_ <O>
+known	VBN	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+Joseph	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+von	NNP	_ <O>
+<unk>	NNP	_ <O>
+notes	VBZ	_ <O>
+him	PRP	_ <O>
+as	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+important	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Van	NNP	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+composer	NN	_ <O>
+,	,	_ <O>
+probably	RB	<B-CUE>
+by	IN	_ <O>
+the	DT	_ <O>
+directors	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+court	NN	_ <O>
+chapel	NN	_ <O>
+,	,	_ <O>
+Jean	NNP	_ <O>
+-	HYPH	_ <O>
+Joseph	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+de	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Van	NNP	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+composer	NN	_ <O>
+,	,	_ <O>
+probably	RB	<B-CUE>
+by	IN	_ <O>
+the	DT	_ <O>
+directors	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+court	NN	_ <O>
+chapel	NN	_ <O>
+,	,	_ <O>
+Jean	NNP	_ <O>
+-	HYPH	_ <O>
+Joseph	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+de	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

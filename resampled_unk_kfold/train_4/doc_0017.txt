@@ -1,0 +1,20 @@
+NULL
+By	IN	_ <O>
+<unk>	CD	_ <O>
+-	SYM	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+Frenzel	NNP	_ <O>
+was	VBD	_ <O>
+<unk>	VBG	_ <O>
+several	JJ	_ <O>
+<unk>	CD	_ <O>
+<unk>	NNS	_ <O>
+intended	VBN	_ <O>
+for	IN	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

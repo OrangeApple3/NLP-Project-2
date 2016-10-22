@@ -1,0 +1,46 @@
+NULL
+Groups	NNS	<B-CUE>
+such	JJ	_ <O>
+as	IN	_ <O>
+Defeat	NNP	_ <O>
+<unk>	NNP	_ <O>
+Now	RB	_ <O>
+<unk>	VB	_ <O>
+that	IN	_ <O>
+autism	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+heavy	JJ	_ <O>
+metal	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+use	VB	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+remove	VB	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+(	-LRB-	_ <O>
+though	IN	_ <O>
+this	DT	_ <O>
+also	RB	_ <O>
+has	VBZ	_ <O>
+never	RB	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+autism	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

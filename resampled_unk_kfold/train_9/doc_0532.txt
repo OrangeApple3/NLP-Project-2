@@ -1,0 +1,135 @@
+NULL
+Quine	NNP	_ <O>
+,	,	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+hand	NN	_ <O>
+,	,	_ <O>
+conceived	VBD	_ <O>
+this	DT	_ <O>
+theoretical	JJ	_ <O>
+group	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+unit	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+whole	JJ	_ <O>
+human	JJ	_ <O>
+knowledge	NN	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+popular	JJ	<B-CUE>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+philosophy	NN	_ <O>
+of	IN	_ <O>
+science	NN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+reality	NN	_ <O>
+<unk>	NNP	_ <O>
+Duhem	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Quine	NNP	_ <O>
+stated	VBD	_ <O>
+very	RB	_ <O>
+different	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Also	RB	_ <O>
+Duhem	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+theoretical	JJ	_ <O>
+group	NN	_ <O>
+has	VBZ	_ <O>
+its	PRP$	_ <O>
+limits	NNS	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+not	RB	<B-CUE>
+all	DT	<I-CUE>
+concepts	NNS	<I-CUE>
+are	VBP	_ <O>
+connected	VBN	_ <O>
+to	IN	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+<unk>	RB	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+popular	JJ	<B-CUE>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+philosophy	NN	_ <O>
+of	IN	_ <O>
+science	NN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+reality	NN	_ <O>
+<unk>	NNP	_ <O>
+Duhem	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Quine	NNP	_ <O>
+stated	VBD	_ <O>
+very	RB	_ <O>
+different	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Also	RB	_ <O>
+Duhem	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+theoretical	JJ	_ <O>
+group	NN	_ <O>
+has	VBZ	_ <O>
+its	PRP$	_ <O>
+limits	NNS	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+not	RB	<B-CUE>
+all	DT	<I-CUE>
+concepts	NNS	<I-CUE>
+are	VBP	_ <O>
+connected	VBN	_ <O>
+to	IN	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+<unk>	RB	_ <O>
+.	.	_ <O>
+
+NULL

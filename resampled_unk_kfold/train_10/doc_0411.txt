@@ -1,0 +1,102 @@
+NULL
+There	EX	_ <O>
+is	VBZ	_ <O>
+no	DT	_ <O>
+skill	NN	_ <O>
+level	NN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+these	DT	_ <O>
+tournaments	NNS	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	JJ	_ <O>
+to	TO	_ <O>
+sign	VB	_ <O>
+up	RP	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+popular	JJ	_ <O>
+demand	NN	_ <O>
+<unk>	VBG	_ <O>
+up	RP	_ <O>
+early	RB	_ <O>
+becomes	VBZ	_ <O>
+very	RB	_ <O>
+essential	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	<B-CUE>
+<unk>	NNP	<I-CUE>
+<unk>	NN	<I-CUE>
+tournaments	NNS	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+and	CC	_ <O>
+Canada	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+tournaments	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+covered	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+news	NN	<I-CUE>
+stations	NNS	<I-CUE>
+they	PRP	_ <O>
+have	VBP	_ <O>
+also	RB	_ <O>
+been	VBN	_ <O>
+<unk>	NNS	_ <O>
+on	IN	_ <O>
+many	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	<B-CUE>
+<unk>	NNP	<I-CUE>
+<unk>	NN	<I-CUE>
+tournaments	NNS	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+and	CC	_ <O>
+Canada	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+tournaments	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+covered	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+news	NN	<I-CUE>
+stations	NNS	<I-CUE>
+they	PRP	_ <O>
+have	VBP	_ <O>
+also	RB	_ <O>
+been	VBN	_ <O>
+<unk>	NNS	_ <O>
+on	IN	_ <O>
+many	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

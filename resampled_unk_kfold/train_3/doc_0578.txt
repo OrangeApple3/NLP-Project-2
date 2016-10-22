@@ -1,0 +1,85 @@
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+mid	JJ	_ <O>
+nineteenth	JJ	_ <O>
+century	NN	_ <O>
+,	,	_ <O>
+every	DT	_ <O>
+<unk>	NNP	_ <O>
+male	NN	_ <O>
+of	IN	_ <O>
+<unk>	VBG	_ <O>
+age	NN	_ <O>
+was	VBD	_ <O>
+ordered	VBN	_ <O>
+by	IN	_ <O>
+royal	JJ	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+at	IN	_ <O>
+least	JJS	_ <O>
+one	CD	_ <O>
+raven	NN	_ <O>
+or	CC	_ <O>
+two	CD	_ <O>
+other	JJ	_ <O>
+<unk>	JJ	_ <O>
+birds	NNS	_ <O>
+per	IN	_ <O>
+year	NN	_ <O>
+or	CC	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+four	CD	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+these	DT	_ <O>
+last	JJ	_ <O>
+sightings	NNS	_ <O>
+raised	VBD	<B-CUE>
+widespread	JJ	<I-CUE>
+interest	NN	<I-CUE>
+,	,	_ <O>
+it	PRP	<B-CUE>
+seems	VBZ	<I-CUE>
+probable	JJ	<I-CUE>
+after	IN	_ <O>
+1948	CD	_ <O>
+,	,	_ <O>
+no	DT	_ <O>
+pied	VBN	_ <O>
+raven	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+seen	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+these	DT	_ <O>
+last	JJ	_ <O>
+sightings	NNS	_ <O>
+raised	VBD	<B-CUE>
+widespread	JJ	<I-CUE>
+interest	NN	<I-CUE>
+,	,	_ <O>
+it	PRP	<B-CUE>
+seems	VBZ	<I-CUE>
+probable	JJ	<I-CUE>
+after	IN	_ <O>
+1948	CD	_ <O>
+,	,	_ <O>
+no	DT	_ <O>
+pied	VBN	_ <O>
+raven	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+seen	VBN	_ <O>
+.	.	_ <O>
+
+NULL

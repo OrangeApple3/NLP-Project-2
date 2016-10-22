@@ -1,0 +1,206 @@
+NULL
+The	DT	_ <O>
+very	RB	_ <O>
+last	JJ	_ <O>
+papal	JJ	_ <O>
+shot	NN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+fired	VBN	_ <O>
+by	IN	_ <O>
+an	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+Jesuit	NNP	_ <O>
+School	NNP	_ <O>
+)	-RRB-	_ <O>
+
+NULL
+His	PRP$	_ <O>
+occasional	JJ	_ <O>
+mood	NN	_ <O>
+changes	NNS	_ <O>
+and	CC	_ <O>
+emotional	JJ	_ <O>
+<unk>	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+as	IN	_ <O>
+symptoms	NNS	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	_ <O>
+<unk>	VBG	_ <O>
+popular	JJ	_ <O>
+<unk>	NN	_ <O>
+lies	VBZ	_ <O>
+in	IN	_ <O>
+Pius	NNP	_ <O>
+IX	NNP	_ <O>
+'s	POS	_ <O>
+artistic	JJ	_ <O>
+legacy	NN	_ <O>
+as	IN	_ <O>
+author	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Italian	JJ	_ <O>
+-	HYPH	_ <O>
+language	NN	_ <O>
+lyrics	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+best	JJS	_ <O>
+known	VBN	_ <O>
+indigenous	JJ	_ <O>
+Christmas	NNP	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+"	``	_ <O>
+From	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+descended	VBD	_ <O>
+"	''	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+originally	RB	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+language	NN	_ <O>
+song	NN	_ <O>
+written	VBN	_ <O>
+by	IN	_ <O>
+Saint	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+his	PRP$	_ <O>
+stay	NN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+Kingdom	NNP	_ <O>
+of	IN	_ <O>
+Two	CD	_ <O>
+<unk>	NNPS	_ <O>
+,	,	_ <O>
+on	IN	_ <O>
+8	CD	_ <O>
+September	NNP	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+Pope	NNP	_ <O>
+Pius	NNP	_ <O>
+IX	NNP	_ <O>
+had	VBD	_ <O>
+the	DT	_ <O>
+experience	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+train	NN	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+<unk>	NNP	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+so	CC	_ <O>
+he	PRP	_ <O>
+became	VBD	_ <O>
+<unk>	JJ	_ <O>
+about	IN	_ <O>
+this	DT	_ <O>
+modern	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Pope	NNP	_ <O>
+went	VBD	_ <O>
+several	JJ	<B-CUE>
+times	NNS	<I-CUE>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+give	VB	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Following	VBG	_ <O>
+this	DT	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+covered	VBN	_ <O>
+by	IN	_ <O>
+canon	NN	_ <O>
+fire	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+caused	VBD	_ <O>
+several	JJ	<B-CUE>
+deaths	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Pope	NNP	_ <O>
+went	VBD	_ <O>
+several	JJ	<B-CUE>
+times	NNS	<I-CUE>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+give	VB	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Following	VBG	_ <O>
+this	DT	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+covered	VBN	_ <O>
+by	IN	_ <O>
+canon	NN	_ <O>
+fire	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+caused	VBD	_ <O>
+several	JJ	<B-CUE>
+deaths	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

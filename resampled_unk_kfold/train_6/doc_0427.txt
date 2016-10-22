@@ -1,0 +1,103 @@
+NULL
+Around	IN	_ <O>
+<unk>	CD	_ <O>
+people	NNS	_ <O>
+lived	VBD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+community	NN	_ <O>
+in	IN	_ <O>
+1930	CD	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	JJ	_ <O>
+buildings	NNS	_ <O>
+were	VBD	_ <O>
+<unk>	VBN	_ <O>
+on	IN	_ <O>
+Main	NNP	_ <O>
+Street	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+Street	NNP	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+by	IN	_ <O>
+Conrad	NNP	_ <O>
+<unk>	NNP	_ <O>
+–	.	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+Henry	NNP	_ <O>
+Pfluger	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+'s	VBZ	_ <O>
+eight	CD	_ <O>
+sons	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+that	DT	_ <O>
+period	NN	_ <O>
+,	,	_ <O>
+several	JJ	<B-CUE>
+area	NN	<I-CUE>
+school	NN	<I-CUE>
+districts	NNS	<I-CUE>
+consolidated	VBN	_ <O>
+with	IN	_ <O>
+<unk>	NNP	_ <O>
+High	NNP	_ <O>
+School	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	JJ	_ <O>
+buildings	NNS	_ <O>
+were	VBD	_ <O>
+<unk>	VBN	_ <O>
+on	IN	_ <O>
+Main	NNP	_ <O>
+Street	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+Street	NNP	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+by	IN	_ <O>
+Conrad	NNP	_ <O>
+<unk>	NNP	_ <O>
+–	.	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+Henry	NNP	_ <O>
+Pfluger	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+'s	VBZ	_ <O>
+eight	CD	_ <O>
+sons	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+that	DT	_ <O>
+period	NN	_ <O>
+,	,	_ <O>
+several	JJ	<B-CUE>
+area	NN	<I-CUE>
+school	NN	<I-CUE>
+districts	NNS	<I-CUE>
+consolidated	VBN	_ <O>
+with	IN	_ <O>
+<unk>	NNP	_ <O>
+High	NNP	_ <O>
+School	NNP	_ <O>
+.	.	_ <O>
+
+NULL

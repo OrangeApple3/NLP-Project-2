@@ -1,0 +1,162 @@
+'	``	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+(	''	_ <O>
+or	CC	_ <O>
+,	,	_ <O>
+The	DT	_ <O>
+first	JJ	_ <O>
+pronunciation	NN	_ <O>
+is	VBZ	_ <O>
+that	IN	_ <O>
+expected	VBN	_ <O>
+for	IN	_ <O>
+Anglo	NNP	_ <O>
+-	HYPH	_ <O>
+Latin	NNP	_ <O>
+;	:	_ <O>
+the	DT	_ <O>
+second	JJ	_ <O>
+is	VBZ	_ <O>
+common	JJ	_ <O>
+in	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+genus	NN	_ <O>
+is	VBZ	_ <O>
+probably	RB	<B-CUE>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+origin	NN	_ <O>
+;	:	_ <O>
+its	PRP$	_ <O>
+present	JJ	_ <O>
+range	NN	_ <O>
+extends	VBZ	_ <O>
+from	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+eastern	JJ	_ <O>
+Asia	NNP	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+parts	NNS	<I-CUE>
+of	IN	<I-CUE>
+Africa	NNP	<I-CUE>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+usually	RB	<B-CUE>
+included	VBN	_ <O>
+here	RB	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+might	MD	<B-CUE>
+be	VB	_ <O>
+a	DT	_ <O>
+distinct	JJ	_ <O>
+(	-LRB-	_ <O>
+though	RB	_ <O>
+closely	RB	_ <O>
+related	JJ	_ <O>
+)	-RRB-	_ <O>
+genus	NN	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+commonly	RB	<B-CUE>
+known	VBN	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+<unk>	NNS	_ <O>
+'	''	_ <O>
+or	CC	_ <O>
+,	,	_ <O>
+more	RBR	_ <O>
+<unk>	RB	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+<unk>	NNS	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+genus	NN	_ <O>
+is	VBZ	_ <O>
+probably	RB	<B-CUE>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+origin	NN	_ <O>
+;	:	_ <O>
+its	PRP$	_ <O>
+present	JJ	_ <O>
+range	NN	_ <O>
+extends	VBZ	_ <O>
+from	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+eastern	JJ	_ <O>
+Asia	NNP	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+parts	NNS	<I-CUE>
+of	IN	<I-CUE>
+Africa	NNP	<I-CUE>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+usually	RB	<B-CUE>
+included	VBN	_ <O>
+here	RB	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+might	MD	<B-CUE>
+be	VB	_ <O>
+a	DT	_ <O>
+distinct	JJ	_ <O>
+(	-LRB-	_ <O>
+though	RB	_ <O>
+closely	RB	_ <O>
+related	JJ	_ <O>
+)	-RRB-	_ <O>
+genus	NN	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+commonly	RB	<B-CUE>
+known	VBN	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+<unk>	NNS	_ <O>
+'	''	_ <O>
+or	CC	_ <O>
+,	,	_ <O>
+more	RBR	_ <O>
+<unk>	RB	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+<unk>	NNS	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL

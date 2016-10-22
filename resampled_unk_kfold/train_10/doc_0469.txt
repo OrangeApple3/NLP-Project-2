@@ -1,0 +1,369 @@
+Shadow	NN	_ <O>
+shows	NNS	_ <O>
+are	VBP	_ <O>
+known	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+earliest	JJS	_ <O>
+recorded	VBN	_ <O>
+times	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+principle	NN	_ <O>
+that	IN	_ <O>
+an	DT	_ <O>
+image	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+short	JJ	_ <O>
+time	NN	_ <O>
+after	IN	_ <O>
+observation	NN	_ <O>
+has	VBZ	_ <O>
+ceased	VBN	_ <O>
+was	VBD	_ <O>
+observed	VBN	_ <O>
+in	IN	_ <O>
+ancient	JJ	_ <O>
+times	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	IN	_ <O>
+<unk>	CD	_ <O>
+BC	NNP	_ <O>
+-	HYPH	_ <O>
+An	NNP	_ <O>
+<unk>	NN	_ <O>
+bowl	NN	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+i	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Iran	NNP	_ <O>
+,	,	_ <O>
+has	VBZ	_ <O>
+five	CD	_ <O>
+images	NNS	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+painted	VBN	_ <O>
+along	IN	_ <O>
+the	DT	_ <O>
+sides	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+<unk>	NN	_ <O>
+experiment	NN	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+several	JJ	_ <O>
+different	JJ	_ <O>
+light	NN	_ <O>
+sources	NNS	_ <O>
+are	VBP	_ <O>
+arranged	VBN	_ <O>
+across	IN	_ <O>
+a	DT	_ <O>
+large	JJ	_ <O>
+area	NN	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+successful	JJ	_ <O>
+projection	NN	_ <O>
+of	IN	_ <O>
+an	DT	_ <O>
+entire	JJ	_ <O>
+image	NN	_ <O>
+from	IN	_ <O>
+<unk>	NNS	_ <O>
+onto	IN	_ <O>
+a	DT	_ <O>
+screen	NN	_ <O>
+<unk>	RB	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+camera	NN	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	CD	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+describes	VBZ	_ <O>
+a	DT	_ <O>
+structure	NN	_ <O>
+that	WDT	_ <O>
+would	MD	_ <O>
+produce	VB	_ <O>
+this	DT	_ <O>
+effect	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	CD	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+Dutch	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+illustrates	VBZ	_ <O>
+large	JJ	_ <O>
+rooms	NNS	_ <O>
+built	VBN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+viewing	VBG	_ <O>
+<unk>	NNS	_ <O>
+by	IN	_ <O>
+this	DT	_ <O>
+means	VBZ	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	CD	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Porta	NNP	_ <O>
+<unk>	VBZ	_ <O>
+off	IN	_ <O>
+artists	NNS	_ <O>
+to	IN	_ <O>
+this	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	CD	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+refers	VBZ	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+construction	NN	_ <O>
+that	WDT	_ <O>
+<unk>	VBZ	_ <O>
+this	DT	_ <O>
+phenomenon	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+'	``	_ <O>
+camera	NN	_ <O>
+obscura	NN	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	CD	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+projects	VBZ	_ <O>
+images	NNS	_ <O>
+painted	VBN	_ <O>
+on	IN	_ <O>
+glass	NN	_ <O>
+plates	NNS	_ <O>
+with	IN	_ <O>
+an	DT	_ <O>
+oil	NN	_ <O>
+lamp	NN	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+lens	NN	_ <O>
+,	,	_ <O>
+his	PRP$	_ <O>
+'	``	_ <O>
+Magic	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	CD	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBZ	_ <O>
+that	IN	_ <O>
+certain	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+most	RBS	_ <O>
+notably	RB	_ <O>
+silver	NN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+silver	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	VB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+presence	NN	_ <O>
+of	IN	_ <O>
+light	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	CD	_ <O>
+-	HYPH	_ <O>
+John	NNP	_ <O>
+<unk>	NNP	_ <O>
+Paris	NNP	_ <O>
+markets	VBZ	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+which	WDT	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+<unk>	VBN	_ <O>
+,	,	_ <O>
+gives	VBZ	_ <O>
+the	DT	_ <O>
+illusion	NN	_ <O>
+of	IN	_ <O>
+movement	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	<B-CUE>
+believed	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+an	DT	_ <O>
+example	NN	_ <O>
+of	IN	_ <O>
+early	JJ	_ <O>
+animation	NN	_ <O>
+<unk>	.	_ <O>
+
+NULL
+The	DT	_ <O>
+article	NN	_ <O>
+is	VBZ	<B-CUE>
+often	RB	<I-CUE>
+<unk>	RB	<I-CUE>
+cited	VBN	<I-CUE>
+as	IN	_ <O>
+'	``	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Vision	NN	_ <O>
+with	IN	_ <O>
+Regard	NNP	_ <O>
+to	IN	_ <O>
+Moving	VBG	_ <O>
+Objects	NNPS	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+'	``	_ <O>
+On	IN	_ <O>
+the	DT	_ <O>
+Persistence	NN	_ <O>
+of	IN	_ <O>
+Vision	NN	_ <O>
+with	IN	_ <O>
+Regard	NNP	_ <O>
+to	IN	_ <O>
+Human	NNP	_ <O>
+Motion	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+given	VBN	_ <O>
+an	DT	_ <O>
+incorrect	JJ	_ <O>
+date	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	<B-CUE>
+believed	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+an	DT	_ <O>
+example	NN	_ <O>
+of	IN	_ <O>
+early	JJ	_ <O>
+animation	NN	_ <O>
+<unk>	.	_ <O>
+
+NULL
+The	DT	_ <O>
+article	NN	_ <O>
+is	VBZ	<B-CUE>
+often	RB	<I-CUE>
+<unk>	RB	<I-CUE>
+cited	VBN	<I-CUE>
+as	IN	_ <O>
+'	``	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Vision	NN	_ <O>
+with	IN	_ <O>
+Regard	NNP	_ <O>
+to	IN	_ <O>
+Moving	VBG	_ <O>
+Objects	NNPS	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+'	``	_ <O>
+On	IN	_ <O>
+the	DT	_ <O>
+Persistence	NN	_ <O>
+of	IN	_ <O>
+Vision	NN	_ <O>
+with	IN	_ <O>
+Regard	NNP	_ <O>
+to	IN	_ <O>
+Human	NNP	_ <O>
+Motion	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+given	VBN	_ <O>
+an	DT	_ <O>
+incorrect	JJ	_ <O>
+date	NN	_ <O>
+.	.	_ <O>
+
+NULL

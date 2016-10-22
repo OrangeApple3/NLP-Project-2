@@ -1,0 +1,180 @@
+NULL
+The	DT	_ <O>
+process	NN	_ <O>
+of	IN	_ <O>
+free	JJ	_ <O>
+trade	NN	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+in	IN	_ <O>
+post	NN	_ <O>
+industrial	JJ	_ <O>
+economies	NNS	_ <O>
+,	,	_ <O>
+effectively	RB	_ <O>
+<unk>	VBZ	_ <O>
+the	DT	_ <O>
+existence	NN	_ <O>
+of	IN	_ <O>
+unequal	JJ	_ <O>
+resource	NN	_ <O>
+distribution	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Japan	NNP	_ <O>
+<unk>	VBZ	_ <O>
+much	RB	_ <O>
+of	IN	_ <O>
+its	PRP$	_ <O>
+food	NN	_ <O>
+source	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+in	IN	_ <O>
+return	NN	_ <O>
+<unk>	NNS	_ <O>
+mainly	RB	_ <O>
+the	DT	_ <O>
+produce	NN	_ <O>
+of	IN	_ <O>
+its	PRP$	_ <O>
+extensive	JJ	_ <O>
+and	CC	_ <O>
+high	JJ	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+workforce	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Continuing	VBG	_ <O>
+the	DT	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+Japan	NNP	_ <O>
+would	MD	_ <O>
+not	RB	_ <O>
+likely	RB	_ <O>
+be	VB	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+population	NN	_ <O>
+it	PRP	_ <O>
+does	VBZ	_ <O>
+today	NN	_ <O>
+without	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+three	CD	_ <O>
+<unk>	NNS	_ <O>
+:	:	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+increase	NN	_ <O>
+in	IN	_ <O>
+technology	NN	_ <O>
+to	TO	_ <O>
+allow	VB	_ <O>
+for	IN	_ <O>
+better	JJR	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+land	NN	_ <O>
+resources	NNS	_ <O>
+,	,	_ <O>
+international	JJ	_ <O>
+trade	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+<unk>	VBG	_ <O>
+<unk>	JJ	_ <O>
+land	NN	_ <O>
+from	IN	_ <O>
+another	DT	_ <O>
+state	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Trade	NN	_ <O>
+also	RB	_ <O>
+allows	VBZ	_ <O>
+for	IN	_ <O>
+better	JJR	_ <O>
+quality	NN	_ <O>
+produce	VBP	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+between	IN	_ <O>
+nations	NNS	_ <O>
+,	,	_ <O>
+effectively	RB	_ <O>
+raising	VBG	_ <O>
+the	DT	_ <O>
+living	NN	_ <O>
+standards	NNS	_ <O>
+of	IN	_ <O>
+those	DT	_ <O>
+nations	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+would	MD	<I-CUE>
+be	VB	<I-CUE>
+<unk>	JJ	<I-CUE>
+to	IN	_ <O>
+many	JJ	<B-CUE>
+in	IN	_ <O>
+such	PDT	_ <O>
+a	DT	_ <O>
+case	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+those	DT	_ <O>
+living	NN	_ <O>
+standards	NNS	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+war	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Finally	RB	_ <O>
+,	,	_ <O>
+increased	VBD	_ <O>
+trade	NN	_ <O>
+leads	NNS	_ <O>
+to	IN	_ <O>
+increased	VBN	_ <O>
+<unk>	JJ	_ <O>
+communication	NN	_ <O>
+between	IN	_ <O>
+nations	NNS	_ <O>
+and	CC	_ <O>
+as	IN	_ <O>
+such	JJ	_ <O>
+,	,	_ <O>
+wars	NNS	_ <O>
+not	RB	_ <O>
+focused	VBN	_ <O>
+on	IN	_ <O>
+resources	NNS	_ <O>
+or	CC	_ <O>
+land	NN	_ <O>
+already	RB	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+trade	NN	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+ideological	JJ	_ <O>
+arguments	NNS	_ <O>
+become	VBP	_ <O>
+less	RBR	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL

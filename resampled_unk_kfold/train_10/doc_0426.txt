@@ -1,0 +1,141 @@
+However	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+uses	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+meaning	VBG	_ <O>
+"	``	_ <O>
+<unk>	JJ	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+Toland	NNP	_ <O>
+'s	POS	_ <O>
+claim	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Nor	CC	_ <O>
+did	VBD	_ <O>
+any	DT	_ <O>
+other	JJ	_ <O>
+persons	NNS	_ <O>
+present	JJ	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+report	NN	_ <O>
+hearing	VBG	_ <O>
+Toland	NNP	_ <O>
+'s	POS	_ <O>
+version	NN	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	<B-CUE>
+is	VBZ	<I-CUE>
+also	RB	<I-CUE>
+a	DT	<I-CUE>
+claim	NN	<I-CUE>
+,	,	_ <O>
+first	RB	_ <O>
+asserted	VBN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+knew	VBD	_ <O>
+about	IN	_ <O>
+Japanese	JJ	_ <O>
+carrier	NN	_ <O>
+movements	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Toland	NNP	_ <O>
+has	VBZ	_ <O>
+made	VBN	_ <O>
+other	JJ	_ <O>
+<unk>	VBG	<B-CUE>
+and	CC	_ <O>
+<unk>	JJ	<B-CUE>
+claims	NNS	<B-CUE>
+about	IN	_ <O>
+the	DT	_ <O>
+diary	NN	_ <O>
+during	IN	_ <O>
+lectures	NNS	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+Holocaust	NNP	_ <O>
+denial	NN	_ <O>
+organization	NN	_ <O>
+the	DT	_ <O>
+Institute	NNP	_ <O>
+for	IN	_ <O>
+Historical	NNP	_ <O>
+Review	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	<B-CUE>
+is	VBZ	<I-CUE>
+also	RB	<I-CUE>
+a	DT	<I-CUE>
+claim	NN	<I-CUE>
+,	,	_ <O>
+first	RB	_ <O>
+asserted	VBN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+knew	VBD	_ <O>
+about	IN	_ <O>
+Japanese	JJ	_ <O>
+carrier	NN	_ <O>
+movements	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Toland	NNP	_ <O>
+has	VBZ	_ <O>
+made	VBN	_ <O>
+other	JJ	_ <O>
+<unk>	VBG	<B-CUE>
+and	CC	_ <O>
+<unk>	JJ	<B-CUE>
+claims	NNS	<B-CUE>
+about	IN	_ <O>
+the	DT	_ <O>
+diary	NN	_ <O>
+during	IN	_ <O>
+lectures	NNS	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+Holocaust	NNP	_ <O>
+denial	NN	_ <O>
+organization	NN	_ <O>
+the	DT	_ <O>
+Institute	NNP	_ <O>
+for	IN	_ <O>
+Historical	NNP	_ <O>
+Review	NNP	_ <O>
+.	.	_ <O>
+
+NULL

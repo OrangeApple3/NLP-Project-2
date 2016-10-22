@@ -1,0 +1,161 @@
+NULL
+The	DT	_ <O>
+male	NN	_ <O>
+brings	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+material	NN	_ <O>
+,	,	_ <O>
+ground	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+which	WDT	_ <O>
+may	MD	_ <O>
+not	RB	_ <O>
+build	VB	_ <O>
+a	DT	_ <O>
+nest	NN	_ <O>
+)	-RRB-	_ <O>
+sometimes	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+tree	NN	_ <O>
+-	HYPH	_ <O>
+nesters	NNS	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+bill	NN	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+may	MD	_ <O>
+display	VB	_ <O>
+when	WRB	_ <O>
+changing	VBG	_ <O>
+shifts	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+All	DT	_ <O>
+species	NNS	_ <O>
+lay	VBD	_ <O>
+at	IN	_ <O>
+least	JJS	_ <O>
+two	CD	_ <O>
+eggs	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	VBG	_ <O>
+success	NN	_ <O>
+for	IN	_ <O>
+<unk>	JJ	_ <O>
+pairs	NNS	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+as	RB	_ <O>
+high	JJ	_ <O>
+as	IN	_ <O>
+95	CD	_ <O>
+percent	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+competition	NN	_ <O>
+between	IN	_ <O>
+siblings	NNS	_ <O>
+or	CC	_ <O>
+outright	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+usually	RB	_ <O>
+all	DT	_ <O>
+but	IN	_ <O>
+one	CD	_ <O>
+<unk>	NN	_ <O>
+dies	VBZ	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+few	JJ	_ <O>
+weeks	NNS	_ <O>
+(	-LRB-	_ <O>
+or	CC	_ <O>
+later	RBR	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Pink	NNP	_ <O>
+-	HYPH	_ <O>
+backed	VBN	_ <O>
+and	CC	_ <O>
+Spot	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+species	NNS	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Before	IN	_ <O>
+or	CC	_ <O>
+especially	RB	_ <O>
+after	IN	_ <O>
+being	VBG	_ <O>
+fed	VBN	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+may	MD	_ <O>
+seem	VB	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+a	DT	_ <O>
+seizure	NN	_ <O>
+that	WDT	_ <O>
+ends	VBZ	_ <O>
+in	IN	_ <O>
+falling	VBG	_ <O>
+<unk>	JJ	_ <O>
+;	:	_ <O>
+the	DT	_ <O>
+reason	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	<B-CUE>
+clearly	RB	<I-CUE>
+known	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL
+Before	IN	_ <O>
+or	CC	_ <O>
+especially	RB	_ <O>
+after	IN	_ <O>
+being	VBG	_ <O>
+fed	VBN	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+may	MD	_ <O>
+seem	VB	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+a	DT	_ <O>
+seizure	NN	_ <O>
+that	WDT	_ <O>
+ends	VBZ	_ <O>
+in	IN	_ <O>
+falling	VBG	_ <O>
+<unk>	JJ	_ <O>
+;	:	_ <O>
+the	DT	_ <O>
+reason	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	<B-CUE>
+clearly	RB	<I-CUE>
+known	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL

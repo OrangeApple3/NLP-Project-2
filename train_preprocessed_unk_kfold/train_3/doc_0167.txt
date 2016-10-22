@@ -1,0 +1,93 @@
+NULL
+Because	IN	_ <O>
+<unk>	NNP	_ <O>
+can	MD	_ <O>
+<unk>	VB	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+cause	NN	_ <O>
+<unk>	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBG	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+(	-LRB-	_ <O>
+difficulty	NN	_ <O>
+<unk>	VBG	_ <O>
+)	-RRB-	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+produce	VB	_ <O>
+speech	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+with	IN	_ <O>
+PPS	NNP	_ <O>
+may	MD	_ <O>
+become	VB	_ <O>
+<unk>	JJ	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+difficulty	NN	_ <O>
+eating	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+Severe	JJ	_ <O>
+cases	NNS	_ <O>
+may	MD	_ <O>
+require	VB	_ <O>
+permanent	JJ	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+may	MD	_ <O>
+also	RB	_ <O>
+<unk>	VB	_ <O>
+.	.	_ <O>
+
+NULL
+Other	JJ	_ <O>
+management	NN	_ <O>
+strategies	NNS	_ <O>
+that	WDT	_ <O>
+may	MD	_ <O>
+lead	VB	_ <O>
+to	IN	_ <O>
+<unk>	NN	_ <O>
+improvement	NN	_ <O>
+include	VBP	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+treatment	NN	_ <O>
+of	IN	_ <O>
+other	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+against	IN	_ <O>
+respiratory	JJ	_ <O>
+infections	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

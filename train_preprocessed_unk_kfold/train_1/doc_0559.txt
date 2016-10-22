@@ -1,0 +1,10 @@
+NULL
+After	IN	_ <O>
+leaving	VBG	_ <O>
+office	NN	_ <O>
+<unk>	NNP	_ <O>
+practiced	VBD	_ <O>
+law	NN	_ <O>
+.	.	_ <O>
+
+NULL

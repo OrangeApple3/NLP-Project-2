@@ -1,0 +1,198 @@
+NULL
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+divide	VBP	_ <O>
+their	PRP$	_ <O>
+time	NN	_ <O>
+between	IN	_ <O>
+<unk>	VBG	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+heard	VBN	_ <O>
+over	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+trying	VBG	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+some	DT	_ <O>
+personal	JJ	_ <O>
+style	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+mechanical	JJ	_ <O>
+lines	NNS	_ <O>
+<unk>	NNP	_ <O>
+has	VBZ	_ <O>
+'	``	_ <O>
+<unk>	VBN	_ <O>
+'	''	_ <O>
+for	IN	_ <O>
+them	PRP	_ <O>
+....	.	_ <O>
+
+NULL
+Gill	NNP	_ <O>
+,	,	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+shows	VBZ	_ <O>
+off	IN	_ <O>
+a	DT	<B-CUE>
+bit	NN	<I-CUE>
+too	RB	<I-CUE>
+often	RB	<I-CUE>
+on	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+Walden	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+Lattisaw	NNP	_ <O>
+does	VBZ	_ <O>
+n't	RB	_ <O>
+have	VB	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+her	PRP$	_ <O>
+voice	NN	_ <O>
+<unk>	VBZ	_ <O>
+...	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+several	JJ	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+<unk>	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+Falling	VBG	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+by	IN	_ <O>
+<unk>	NNS	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+version	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+It	PRP	_ <O>
+'s	VBZ	_ <O>
+You	PRP	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL
+On	IN	_ <O>
+'	``	_ <O>
+<unk>	CD	_ <O>
+Love	NN	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+many	JJ	_ <O>
+<unk>	VBP	_ <O>
+the	DT	_ <O>
+song	NN	_ <O>
+<unk>	VBZ	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+go	VB	_ <O>
+together	RB	_ <O>
+hand	NN	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+with	IN	_ <O>
+Gill	NNP	_ <O>
+<unk>	VBG	_ <O>
+and	CC	_ <O>
+<unk>	VBG	_ <O>
+to	IN	_ <O>
+rival	VB	_ <O>
+Al	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Lattisaw	NNP	_ <O>
+<unk>	VBG	_ <O>
+and	CC	_ <O>
+<unk>	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+But	CC	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+record	NN	_ <O>
+is	VBZ	_ <O>
+given	VBN	_ <O>
+over	RP	_ <O>
+to	IN	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+if	IN	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+style	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

@@ -1,0 +1,65 @@
+NULL
+'	''	_ <O>
+<unk>	NNP	_ <O>
+Carson	NNP	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+born	VBN	_ <O>
+'	''	_ <O>
+Jean	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+on	IN	_ <O>
+May	NNP	_ <O>
+23	CD	_ <O>
+1938	CD	_ <O>
+)	-RRB-	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+British	JJ	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+stage	NN	_ <O>
+actor	NN	_ <O>
+born	VBN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+England	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Although	IN	_ <O>
+she	PRP	_ <O>
+has	VBZ	_ <O>
+appeared	VBN	_ <O>
+on	IN	_ <O>
+TV	NN	_ <O>
+several	JJ	_ <O>
+times	NNS	_ <O>
+,	,	_ <O>
+Carson	NNP	_ <O>
+is	VBZ	<B-CUE>
+not	RB	<I-CUE>
+considered	VBN	<I-CUE>
+a	DT	_ <O>
+TV	NN	_ <O>
+star	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Carson	NNP	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+star	NN	_ <O>
+"	''	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+Hollywood	NNP	_ <O>
+Walk	NNP	_ <O>
+of	IN	_ <O>
+Fame	NNP	_ <O>
+.	.	_ <O>
+
+NULL

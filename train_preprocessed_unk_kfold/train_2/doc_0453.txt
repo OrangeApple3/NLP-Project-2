@@ -1,0 +1,106 @@
+NULL
+Traditionally	RB	_ <O>
+,	,	_ <O>
+doctors	NNS	_ <O>
+have	VBP	_ <O>
+<unk>	VBN	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+points	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+day	NN	_ <O>
+of	IN	_ <O>
+last	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+chemical	NN	_ <O>
+detection	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+medicine	NN	_ <O>
+,	,	_ <O>
+pregnancy	NN	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+defined	VBN	_ <O>
+as	IN	_ <O>
+beginning	VBG	_ <O>
+when	WRB	_ <O>
+the	DT	_ <O>
+developing	VBG	_ <O>
+<unk>	NN	_ <O>
+becomes	VBZ	_ <O>
+implanted	VBN	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+woman	NN	_ <O>
+'s	POS	_ <O>
+uterus	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+some	DT	<B-CUE>
+cases	NNS	<I-CUE>
+where	WRB	_ <O>
+<unk>	NNS	_ <O>
+may	MD	<B-CUE>
+have	VBP	_ <O>
+arisen	VBN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	VBN	_ <O>
+<unk>	NN	_ <O>
+might	MD	<B-CUE>
+<unk>	NN	_ <O>
+itself	PRP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+tubes	NNS	_ <O>
+or	CC	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+causing	VBG	_ <O>
+an	DT	_ <O>
+<unk>	NN	_ <O>
+pregnancy	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+of	IN	_ <O>
+no	DT	_ <O>
+concern	NN	_ <O>
+unless	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+<unk>	VBG	_ <O>
+or	CC	_ <O>
+<unk>	VBG	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+.	.	_ <O>
+
+NULL

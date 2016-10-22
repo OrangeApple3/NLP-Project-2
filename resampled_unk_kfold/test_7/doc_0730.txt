@@ -1,0 +1,390 @@
+Engaging	VBG	_ <O>
+in	IN	_ <O>
+such	JJ	_ <O>
+policies	NNS	_ <O>
+today	NN	_ <O>
+,	,	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+ICC	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+could	MD	_ <O>
+be	VB	_ <O>
+grounds	NNS	_ <O>
+for	IN	_ <O>
+prosecution	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Not	RB	_ <O>
+one	CD	_ <O>
+member	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+Nations	NNP	_ <O>
+has	VBZ	_ <O>
+brought	VBN	_ <O>
+such	JJ	_ <O>
+claims	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Security	NNP	_ <O>
+Council	NNP	_ <O>
+for	IN	_ <O>
+review	NN	_ <O>
+and	CC	_ <O>
+not	RB	_ <O>
+one	CD	_ <O>
+member	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+International	NNP	_ <O>
+Criminal	NNP	_ <O>
+Court	NNP	_ <O>
+has	VBZ	_ <O>
+taken	VBN	_ <O>
+them	PRP	_ <O>
+<unk>	RB	_ <O>
+enough	RB	_ <O>
+to	TO	_ <O>
+bring	VB	_ <O>
+them	PRP	_ <O>
+before	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+
+NULL
+If	IN	_ <O>
+any	DT	_ <O>
+actual	JJ	_ <O>
+evidence	NN	_ <O>
+of	IN	_ <O>
+crimes	NNS	_ <O>
+is	VBZ	_ <O>
+ever	RB	_ <O>
+discovered	VBN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+ICC	NNP	_ <O>
+can	MD	_ <O>
+and	CC	_ <O>
+likely	RB	_ <O>
+will	MD	_ <O>
+<unk>	VB	_ <O>
+its	PRP$	_ <O>
+investigation	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Skeptics	NNS	<B-CUE>
+have	VBP	_ <O>
+argued	VBN	_ <O>
+there	RB	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+other	JJ	_ <O>
+reasons	NNS	_ <O>
+than	IN	_ <O>
+those	DT	_ <O>
+advanced	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Bush	NNP	_ <O>
+administration	NN	_ <O>
+for	IN	_ <O>
+not	RB	_ <O>
+joining	VBG	_ <O>
+the	DT	_ <O>
+International	NNP	_ <O>
+Criminal	NNP	_ <O>
+Court	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	<B-CUE>
+point	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+role	NN	_ <O>
+the	DT	_ <O>
+U.S.	NNP	_ <O>
+administration	NN	_ <O>
+or	CC	_ <O>
+U.S.	NNP	_ <O>
+citizens	NNS	_ <O>
+have	VBP	_ <O>
+played	VBN	_ <O>
+in	IN	_ <O>
+conflicts	NNS	_ <O>
+around	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+past	NN	_ <O>
+,	,	_ <O>
+i.e.	FW	_ <O>
+Gulf	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+Incident	NNP	_ <O>
+,	,	_ <O>
+My	PRP$	_ <O>
+Lai	NNP	_ <O>
+Massacre	NNP	_ <O>
+,	,	_ <O>
+aid	NN	_ <O>
+to	IN	_ <O>
+Operation	NNP	_ <O>
+<unk>	NNP	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+School	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+addition	NN	_ <O>
+,	,	_ <O>
+they	PRP	<B-CUE>
+point	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+possible	JJ	_ <O>
+legal	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+command	NN	_ <O>
+responsibility	NN	_ <O>
+principle	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+result	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+war	NN	_ <O>
+on	IN	_ <O>
+<unk>	NN	_ <O>
+"	``	_ <O>
+regarding	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+Geneva	NNP	_ <O>
+Convention	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+unlawful	JJ	_ <O>
+<unk>	NN	_ <O>
+status	NN	_ <O>
+,	,	_ <O>
+extraordinary	JJ	_ <O>
+rendition	NN	_ <O>
+and	CC	_ <O>
+Legality	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+2003	CD	_ <O>
+Invasion	NNP	_ <O>
+of	IN	_ <O>
+Iraq	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Critics	NNS	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+U.S.	NNP	<I-CUE>
+administration	NN	<I-CUE>
+view	NN	_ <O>
+these	DT	_ <O>
+as	IN	_ <O>
+war	NN	_ <O>
+crimes	NNS	_ <O>
+and	CC	_ <O>
+therefore	RB	_ <O>
+<unk>	VBP	_ <O>
+that	IN	_ <O>
+high	JJ	_ <O>
+level	NN	_ <O>
+officials	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+administration	NN	_ <O>
+itself	PRP	_ <O>
+might	MD	_ <O>
+be	VB	_ <O>
+liable	JJ	_ <O>
+for	IN	_ <O>
+criminal	JJ	_ <O>
+prosecution	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Skeptics	NNS	<B-CUE>
+have	VBP	_ <O>
+argued	VBN	_ <O>
+there	RB	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+other	JJ	_ <O>
+reasons	NNS	_ <O>
+than	IN	_ <O>
+those	DT	_ <O>
+advanced	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Bush	NNP	_ <O>
+administration	NN	_ <O>
+for	IN	_ <O>
+not	RB	_ <O>
+joining	VBG	_ <O>
+the	DT	_ <O>
+International	NNP	_ <O>
+Criminal	NNP	_ <O>
+Court	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	<B-CUE>
+point	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+role	NN	_ <O>
+the	DT	_ <O>
+U.S.	NNP	_ <O>
+administration	NN	_ <O>
+or	CC	_ <O>
+U.S.	NNP	_ <O>
+citizens	NNS	_ <O>
+have	VBP	_ <O>
+played	VBN	_ <O>
+in	IN	_ <O>
+conflicts	NNS	_ <O>
+around	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+past	NN	_ <O>
+,	,	_ <O>
+i.e.	FW	_ <O>
+Gulf	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+Incident	NNP	_ <O>
+,	,	_ <O>
+My	PRP$	_ <O>
+Lai	NNP	_ <O>
+Massacre	NNP	_ <O>
+,	,	_ <O>
+aid	NN	_ <O>
+to	IN	_ <O>
+Operation	NNP	_ <O>
+<unk>	NNP	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+School	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+addition	NN	_ <O>
+,	,	_ <O>
+they	PRP	<B-CUE>
+point	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+possible	JJ	_ <O>
+legal	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+command	NN	_ <O>
+responsibility	NN	_ <O>
+principle	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+result	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+war	NN	_ <O>
+on	IN	_ <O>
+<unk>	NN	_ <O>
+"	``	_ <O>
+regarding	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+Geneva	NNP	_ <O>
+Convention	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+unlawful	JJ	_ <O>
+<unk>	NN	_ <O>
+status	NN	_ <O>
+,	,	_ <O>
+extraordinary	JJ	_ <O>
+rendition	NN	_ <O>
+and	CC	_ <O>
+Legality	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+2003	CD	_ <O>
+Invasion	NNP	_ <O>
+of	IN	_ <O>
+Iraq	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Critics	NNS	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+U.S.	NNP	<I-CUE>
+administration	NN	<I-CUE>
+view	NN	_ <O>
+these	DT	_ <O>
+as	IN	_ <O>
+war	NN	_ <O>
+crimes	NNS	_ <O>
+and	CC	_ <O>
+therefore	RB	_ <O>
+<unk>	VBP	_ <O>
+that	IN	_ <O>
+high	JJ	_ <O>
+level	NN	_ <O>
+officials	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+administration	NN	_ <O>
+itself	PRP	_ <O>
+might	MD	_ <O>
+be	VB	_ <O>
+liable	JJ	_ <O>
+for	IN	_ <O>
+criminal	JJ	_ <O>
+prosecution	NN	_ <O>
+.	.	_ <O>
+
+NULL

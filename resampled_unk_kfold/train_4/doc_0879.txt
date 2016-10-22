@@ -1,0 +1,65 @@
+NULL
+<unk>	NNP	_ <O>
+first	RB	_ <O>
+claimed	VBD	_ <O>
+the	DT	_ <O>
+English	JJ	_ <O>
+throne	NN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+court	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+landed	VBD	_ <O>
+in	IN	_ <O>
+Ireland	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+hope	NN	_ <O>
+of	IN	_ <O>
+gaining	VBG	_ <O>
+support	NN	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+claim	NN	_ <O>
+as	IN	_ <O>
+Lambert	NNP	_ <O>
+<unk>	NNP	_ <O>
+had	VBD	_ <O>
+four	CD	_ <O>
+years	NNS	_ <O>
+previously	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Warbeck	NNP	_ <O>
+also	RB	_ <O>
+promised	VBD	_ <O>
+that	IN	_ <O>
+if	IN	_ <O>
+he	PRP	_ <O>
+died	VBD	_ <O>
+before	IN	_ <O>
+becoming	VBG	_ <O>
+king	NN	_ <O>
+,	,	_ <O>
+his	PRP$	_ <O>
+'	``	_ <O>
+claim	NN	_ <O>
+'	''	_ <O>
+would	MD	_ <O>
+fall	VB	_ <O>
+to	IN	_ <O>
+Maximilian	NNP	_ <O>
+.	.	_ <O>
+
+NULL

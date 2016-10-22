@@ -1,0 +1,80 @@
+NULL
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+most	JJS	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+4	CD	_ <O>
+most	RBS	_ <O>
+common	JJ	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+"	``	_ <O>
+too	RB	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+"	``	_ <O>
+<unk>	JJ	_ <O>
+color	NN	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+"	``	_ <O>
+<unk>	JJ	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+too	RB	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+A	DT	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+experienced	JJ	_ <O>
+,	,	_ <O>
+permanent	JJ	_ <O>
+makeup	NN	_ <O>
+professional	JJ	_ <O>
+is	VBZ	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+color	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+permanent	JJ	_ <O>
+makeup	NN	_ <O>
+results	NNS	_ <O>
+in	IN	_ <O>
+most	JJS	_ <O>
+cases	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	JJ	_ <O>
+pigment	NN	_ <O>
+<unk>	VBG	_ <O>
+techniques	NNS	_ <O>
+<unk>	IN	_ <O>
+<unk>	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+only	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

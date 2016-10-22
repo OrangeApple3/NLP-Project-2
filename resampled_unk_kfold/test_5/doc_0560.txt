@@ -1,0 +1,187 @@
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+<unk>	RB	_ <O>
+engaged	VBN	_ <O>
+against	IN	_ <O>
+several	JJ	<B-CUE>
+<unk>	NN	<I-CUE>
+-	HYPH	<I-CUE>
+for	IN	<I-CUE>
+-	HYPH	<I-CUE>
+<unk>	NN	<I-CUE>
+(	-LRB-	<I-CUE>
+<unk>	NNP	<I-CUE>
+)	-RRB-	<I-CUE>
+gangs	NNS	<I-CUE>
+in	IN	_ <O>
+Central	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+celebrated	JJ	<I-CUE>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+unit	NN	_ <O>
+during	IN	_ <O>
+this	DT	_ <O>
+period	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+rescue	NN	_ <O>
+of	IN	_ <O>
+Father	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+operation	NN	_ <O>
+soon	RB	_ <O>
+led	VBD	_ <O>
+to	IN	_ <O>
+several	JJ	<B-CUE>
+intense	JJ	<I-CUE>
+but	CC	<I-CUE>
+nonetheless	RB	<I-CUE>
+successful	JJ	<I-CUE>
+combat	NN	<I-CUE>
+operations	NNS	<I-CUE>
+against	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Lost	NNP	_ <O>
+Command	NNP	_ <O>
+in	IN	_ <O>
+Basilan	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+unfortunately	RB	_ <O>
+<unk>	VBD	_ <O>
+to	IN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+arrival	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Philippine	JJ	_ <O>
+Army	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+<unk>	RB	_ <O>
+engaged	VBN	_ <O>
+against	IN	_ <O>
+several	JJ	<B-CUE>
+<unk>	NN	<I-CUE>
+-	HYPH	<I-CUE>
+for	IN	<I-CUE>
+-	HYPH	<I-CUE>
+<unk>	NN	<I-CUE>
+(	-LRB-	<I-CUE>
+<unk>	NNP	<I-CUE>
+)	-RRB-	<I-CUE>
+gangs	NNS	<I-CUE>
+in	IN	_ <O>
+Central	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+celebrated	JJ	<I-CUE>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+unit	NN	_ <O>
+during	IN	_ <O>
+this	DT	_ <O>
+period	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+rescue	NN	_ <O>
+of	IN	_ <O>
+Father	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+operation	NN	_ <O>
+soon	RB	_ <O>
+led	VBD	_ <O>
+to	IN	_ <O>
+several	JJ	<B-CUE>
+intense	JJ	<I-CUE>
+but	CC	<I-CUE>
+nonetheless	RB	<I-CUE>
+successful	JJ	<I-CUE>
+combat	NN	<I-CUE>
+operations	NNS	<I-CUE>
+against	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Lost	NNP	_ <O>
+Command	NNP	_ <O>
+in	IN	_ <O>
+Basilan	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+unfortunately	RB	_ <O>
+<unk>	VBD	_ <O>
+to	IN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+arrival	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Philippine	JJ	_ <O>
+Army	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+
+NULL

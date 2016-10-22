@@ -1,0 +1,106 @@
+On	IN	_ <O>
+2006	CD	_ <O>
+-	HYPH	_ <O>
+11	CD	_ <O>
+-	HYPH	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+Novell	NNP	_ <O>
+and	CC	_ <O>
+Microsoft	NNP	_ <O>
+announced	VBD	_ <O>
+a	DT	_ <O>
+joint	JJ	_ <O>
+patent	NN	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+cover	VB	_ <O>
+their	PRP$	_ <O>
+respective	JJ	_ <O>
+products	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+also	RB	_ <O>
+<unk>	VBD	_ <O>
+to	TO	_ <O>
+work	VB	_ <O>
+more	RBR	_ <O>
+closely	RB	_ <O>
+together	RB	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+improve	VB	_ <O>
+their	PRP$	_ <O>
+software	NN	_ <O>
+’s	NN	_ <O>
+ability	NN	_ <O>
+to	TO	_ <O>
+work	VB	_ <O>
+with	IN	_ <O>
+other	JJ	_ <O>
+software	NN	_ <O>
+,	,	_ <O>
+setting	VBG	_ <O>
+up	RP	_ <O>
+a	DT	_ <O>
+joint	JJ	_ <O>
+research	NN	_ <O>
+facility	NN	_ <O>
+to	TO	_ <O>
+do	VB	_ <O>
+this	DT	_ <O>
+.	.	_ <O>
+
+NULL
+Leaders	NNS	_ <O>
+from	IN	_ <O>
+both	DT	_ <O>
+companies	NNS	_ <O>
+<unk>	RB	_ <O>
+hope	VBP	_ <O>
+this	DT	_ <O>
+will	MD	_ <O>
+lead	VB	_ <O>
+to	IN	_ <O>
+better	JJR	<B-CUE>
+compatibility	NN	_ <O>
+between	IN	_ <O>
+Microsoft	NNP	_ <O>
+Office	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+better	JJR	<B-CUE>
+virtualization	NN	_ <O>
+techniques	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Leaders	NNS	_ <O>
+from	IN	_ <O>
+both	DT	_ <O>
+companies	NNS	_ <O>
+<unk>	RB	_ <O>
+hope	VBP	_ <O>
+this	DT	_ <O>
+will	MD	_ <O>
+lead	VB	_ <O>
+to	IN	_ <O>
+better	JJR	<B-CUE>
+compatibility	NN	_ <O>
+between	IN	_ <O>
+Microsoft	NNP	_ <O>
+Office	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+better	JJR	<B-CUE>
+virtualization	NN	_ <O>
+techniques	NNS	_ <O>
+.	.	_ <O>
+
+NULL

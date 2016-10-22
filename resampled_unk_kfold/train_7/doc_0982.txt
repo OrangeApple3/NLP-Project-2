@@ -1,0 +1,181 @@
+Marcos	NNP	_ <O>
+also	RB	_ <O>
+ordered	VBD	_ <O>
+the	DT	_ <O>
+immediate	JJ	_ <O>
+arrest	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+political	JJ	_ <O>
+opponents	NNS	_ <O>
+and	CC	_ <O>
+critics	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Through	IN	_ <O>
+this	DT	_ <O>
+decree	NN	_ <O>
+,	,	_ <O>
+Marcos	NNP	_ <O>
+seized	VBD	_ <O>
+emergency	NN	_ <O>
+powers	NNS	_ <O>
+giving	VBG	_ <O>
+him	PRP	_ <O>
+full	JJ	_ <O>
+control	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Philippine	JJ	_ <O>
+military	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+authority	NN	_ <O>
+to	TO	_ <O>
+suppress	VB	_ <O>
+the	DT	_ <O>
+freedom	NN	_ <O>
+of	IN	_ <O>
+speech	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+freedom	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+press	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+civil	JJ	<I-CUE>
+liberties	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Among	IN	_ <O>
+those	DT	_ <O>
+arrested	VBN	_ <O>
+were	VBD	_ <O>
+Senate	NNP	_ <O>
+President	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Senator	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Senator	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Jr.	NNP	_ <O>
+,	,	_ <O>
+the	DT	<B-CUE>
+<unk>	JJS	<I-CUE>
+of	IN	_ <O>
+his	PRP$	_ <O>
+critics	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+man	NN	_ <O>
+who	WP	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+opposition	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+Marcos	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1973	CD	_ <O>
+elections	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Through	IN	_ <O>
+this	DT	_ <O>
+decree	NN	_ <O>
+,	,	_ <O>
+Marcos	NNP	_ <O>
+seized	VBD	_ <O>
+emergency	NN	_ <O>
+powers	NNS	_ <O>
+giving	VBG	_ <O>
+him	PRP	_ <O>
+full	JJ	_ <O>
+control	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Philippine	JJ	_ <O>
+military	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+authority	NN	_ <O>
+to	TO	_ <O>
+suppress	VB	_ <O>
+the	DT	_ <O>
+freedom	NN	_ <O>
+of	IN	_ <O>
+speech	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+freedom	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+press	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+civil	JJ	<I-CUE>
+liberties	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Among	IN	_ <O>
+those	DT	_ <O>
+arrested	VBN	_ <O>
+were	VBD	_ <O>
+Senate	NNP	_ <O>
+President	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Senator	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Senator	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Jr.	NNP	_ <O>
+,	,	_ <O>
+the	DT	<B-CUE>
+<unk>	JJS	<I-CUE>
+of	IN	_ <O>
+his	PRP$	_ <O>
+critics	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+man	NN	_ <O>
+who	WP	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+opposition	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+Marcos	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1973	CD	_ <O>
+elections	NNS	_ <O>
+.	.	_ <O>
+
+NULL

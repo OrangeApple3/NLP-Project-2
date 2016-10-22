@@ -1,0 +1,112 @@
+NULL
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+best	RBS	_ <O>
+-	HYPH	_ <O>
+known	VBN	_ <O>
+role	NN	_ <O>
+was	VBD	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	RB	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	JJ	_ <O>
+<unk>	CD	_ <O>
+film	NN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+her	PRP	_ <O>
+<unk>	JJ	<B-CUE>
+,	,	_ <O>
+<unk>	NN	_ <O>
+as	IN	_ <O>
+Crane	NNP	_ <O>
+,	,	_ <O>
+Leigh	NNP	_ <O>
+went	VBD	_ <O>
+through	IN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+spent	VBD	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+her	PRP$	_ <O>
+<unk>	NN	_ <O>
+doing	VBG	_ <O>
+guest	NN	_ <O>
+<unk>	NNS	_ <O>
+on	IN	_ <O>
+<unk>	NN	_ <O>
+shows	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Her	PRP$	_ <O>
+performance	NN	_ <O>
+<unk>	VBD	_ <O>
+her	PRP	_ <O>
+a	DT	_ <O>
+Golden	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+an	DT	_ <O>
+Academy	NNP	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Years	NNS	_ <O>
+later	RB	_ <O>
+,	,	_ <O>
+she	PRP	_ <O>
+wrote	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+about	IN	_ <O>
+the	DT	_ <O>
+making	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+Psycho	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+she	PRP	_ <O>
+<unk>	VBD	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+which	WDT	_ <O>
+had	VBD	_ <O>
+<unk>	VBN	_ <O>
+up	RP	_ <O>
+around	IN	_ <O>
+it	PRP	_ <O>
+,	,	_ <O>
+notably	RB	_ <O>
+,	,	_ <O>
+about	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	<B-CUE>
+"	``	_ <O>
+<unk>	NN	_ <O>
+scene	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

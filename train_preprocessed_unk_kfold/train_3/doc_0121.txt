@@ -1,0 +1,40 @@
+NULL
+On	IN	_ <O>
+July	NNP	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+President	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+Chile	NNP	_ <O>
+said	VBD	_ <O>
+she	PRP	_ <O>
+would	MD	_ <O>
+<unk>	VB	_ <O>
+<unk>	NNP	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+that	IN	_ <O>
+she	PRP	_ <O>
+would	MD	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Day	NNP	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

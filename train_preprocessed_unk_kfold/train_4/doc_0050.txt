@@ -1,0 +1,18 @@
+NULL
+Faith	NN	_ <O>
+No	RB	_ <O>
+More	JJR	_ <O>
+<unk>	VBD	_ <O>
+their	PRP$	_ <O>
+first	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+here	RB	_ <O>
+on	IN	_ <O>
+June	NNP	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL

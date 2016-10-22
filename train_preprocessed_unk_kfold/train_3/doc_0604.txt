@@ -1,0 +1,111 @@
+NULL
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+certified	VBN	_ <O>
+in	IN	_ <O>
+basic	JJ	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+involved	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+study	NN	_ <O>
+and	CC	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+herbs	NNS	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+alternative	JJ	_ <O>
+path	NN	_ <O>
+in	IN	_ <O>
+health	NN	_ <O>
+care	NN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+is	VBZ	_ <O>
+active	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+field	NN	_ <O>
+,	,	_ <O>
+focusing	VBG	_ <O>
+strongly	RB	_ <O>
+on	IN	_ <O>
+<unk>	JJ	_ <O>
+forms	NNS	_ <O>
+of	IN	_ <O>
+healing	NN	_ <O>
+with	IN	_ <O>
+sound	NN	_ <O>
+,	,	_ <O>
+music	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+voice	NN	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+self	NN	_ <O>
+-	HYPH	_ <O>
+described	VBN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+Andrews	NNP	_ <O>
+works	VBZ	_ <O>
+with	IN	_ <O>
+past	JJ	_ <O>
+-	HYPH	_ <O>
+life	NN	_ <O>
+analysis	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+interpretation	NN	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+a	DT	<B-CUE>
+variety	NN	<I-CUE>
+of	IN	<I-CUE>
+related	JJ	<I-CUE>
+holistic	JJ	<I-CUE>
+healing	NN	<I-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+including	VBG	_ <O>
+music	NN	_ <O>
+therapy	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+acupressure	NN	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+alternative	JJ	_ <O>
+techniques	NNS	_ <O>
+.	.	_ <O>
+
+NULL

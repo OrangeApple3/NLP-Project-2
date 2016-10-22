@@ -1,0 +1,96 @@
+NULL
+They	PRP	_ <O>
+generally	RB	_ <O>
+live	VBP	_ <O>
+directly	RB	_ <O>
+underneath	IN	_ <O>
+Spanish	JJ	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+plants	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	_ <O>
+food	NN	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+:	:	_ <O>
+seeds	NNS	_ <O>
+of	IN	_ <O>
+needle	NN	_ <O>
+<unk>	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+grass	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+small	JJ	_ <O>
+<unk>	NN	_ <O>
+(	-LRB-	_ <O>
+probably	RB	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Even	RB	_ <O>
+those	DT	_ <O>
+caught	VBN	_ <O>
+in	IN	_ <O>
+grain	NN	_ <O>
+fields	NNS	_ <O>
+usually	RB	_ <O>
+have	VBP	_ <O>
+their	PRP$	_ <O>
+pouches	NNS	_ <O>
+<unk>	VBN	_ <O>
+with	IN	_ <O>
+weed	NN	_ <O>
+seeds	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Seeds	NNS	_ <O>
+of	IN	_ <O>
+two	CD	_ <O>
+species	NNS	_ <O>
+of	IN	_ <O>
+pigeon	NN	_ <O>
+grass	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+other	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+wild	JJ	_ <O>
+<unk>	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+holes	NNS	_ <O>
+.	.	_ <O>
+
+NULL

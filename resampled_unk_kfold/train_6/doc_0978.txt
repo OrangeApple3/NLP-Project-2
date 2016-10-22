@@ -1,0 +1,29 @@
+NULL
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+to	IN	_ <O>
+complications	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+disease	NN	_ <O>
+shortly	RB	_ <O>
+after	IN	_ <O>
+4	CD	_ <O>
+<unk>	RB	_ <O>
+on	IN	_ <O>
+August	NNP	_ <O>
+16	CD	_ <O>
+,	,	_ <O>
+2004	CD	_ <O>
+,	,	_ <O>
+at	IN	_ <O>
+Hawthorn	NNP	_ <O>
+Court	NNP	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

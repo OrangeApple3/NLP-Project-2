@@ -1,0 +1,88 @@
+NULL
+The	DT	_ <O>
+actions	NNS	_ <O>
+the	DT	_ <O>
+organization	NN	_ <O>
+actually	RB	_ <O>
+takes	VBZ	_ <O>
+may	MD	_ <O>
+often	RB	_ <O>
+<unk>	VB	_ <O>
+<unk>	RB	_ <O>
+from	IN	_ <O>
+stated	JJ	_ <O>
+policy	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+difference	NN	_ <O>
+is	VBZ	_ <O>
+sometimes	RB	_ <O>
+caused	VBN	_ <O>
+by	IN	_ <O>
+political	JJ	_ <O>
+<unk>	NN	_ <O>
+over	IN	_ <O>
+policy	NN	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+in	IN	_ <O>
+other	JJ	_ <O>
+situations	NNS	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+caused	VBN	_ <O>
+by	IN	_ <O>
+lack	NN	_ <O>
+of	IN	_ <O>
+policy	NN	_ <O>
+implementation	NN	_ <O>
+and	CC	_ <O>
+enforcement	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	VBG	_ <O>
+policy	NN	_ <O>
+may	MD	_ <O>
+have	VB	_ <O>
+<unk>	JJ	_ <O>
+results	NNS	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+policy	NN	_ <O>
+whose	WP$	_ <O>
+<unk>	NN	_ <O>
+extends	VBZ	_ <O>
+further	RBR	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+problem	NN	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+originally	RB	_ <O>
+<unk>	VBN	_ <O>
+to	TO	_ <O>
+address	VB	_ <O>
+.	.	_ <O>
+
+NULL
+Additionally	RB	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+results	NNS	_ <O>
+may	MD	_ <O>
+<unk>	VB	_ <O>
+from	IN	_ <O>
+<unk>	JJ	_ <O>
+or	CC	_ <O>
+<unk>	JJ	_ <O>
+enforcement	NN	_ <O>
+of	IN	_ <O>
+policy	NN	_ <O>
+.	.	_ <O>
+
+NULL

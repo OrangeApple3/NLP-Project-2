@@ -1,0 +1,137 @@
+NULL
+Coupled	VBN	_ <O>
+with	IN	_ <O>
+technical	JJ	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+citing	VBG	_ <O>
+a	DT	_ <O>
+lack	NN	_ <O>
+of	IN	_ <O>
+practice	NN	_ <O>
+(	-LRB-	_ <O>
+Downe	NNP	_ <O>
+had	VBD	_ <O>
+the	DT	_ <O>
+band	NN	_ <O>
+re	IN	_ <O>
+-	HYPH	_ <O>
+start	VB	_ <O>
+the	DT	_ <O>
+song	NN	_ <O>
+'	POS	_ <O>
+House	NNP	_ <O>
+of	IN	_ <O>
+Pain	NNP	_ <O>
+'	POS	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+bad	JJ	_ <O>
+guitar	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+)	-RRB-	_ <O>
+
+NULL
+-	:	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+former	JJ	_ <O>
+drummer	NN	_ <O>
+of	IN	_ <O>
+Guns	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+<unk>	NNPS	_ <O>
+,	,	_ <O>
+tried	VBD	_ <O>
+to	TO	_ <O>
+sit	VB	_ <O>
+in	IN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+band	NN	_ <O>
+for	IN	_ <O>
+one	CD	_ <O>
+last	JJ	_ <O>
+song	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+was	VBD	_ <O>
+denied	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+only	RB	_ <O>
+5	CD	_ <O>
+songs	NNS	_ <O>
+they	PRP	_ <O>
+had	VBD	_ <O>
+to	TO	_ <O>
+end	VB	_ <O>
+their	PRP$	_ <O>
+set	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+was	VBD	<I-CUE>
+reported	VBN	<I-CUE>
+that	IN	_ <O>
+while	IN	_ <O>
+performing	VBG	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+2007	CD	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+made	VBD	_ <O>
+various	JJ	_ <O>
+bad	JJ	_ <O>
+taste	NN	_ <O>
+comments	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+crowd	NN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+cancer	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+was	VBD	<I-CUE>
+reported	VBN	<I-CUE>
+that	IN	_ <O>
+while	IN	_ <O>
+performing	VBG	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+2007	CD	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+made	VBD	_ <O>
+various	JJ	_ <O>
+bad	JJ	_ <O>
+taste	NN	_ <O>
+comments	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+crowd	NN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+cancer	NN	_ <O>
+.	.	_ <O>
+
+NULL

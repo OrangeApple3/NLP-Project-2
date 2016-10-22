@@ -1,0 +1,103 @@
+NULL
+They	PRP	_ <O>
+range	VBP	_ <O>
+in	IN	_ <O>
+size	NN	_ <O>
+from	IN	_ <O>
+<unk>	CD	_ <O>
+mm	NN	_ <O>
+and	CC	_ <O>
+are	VBP	_ <O>
+<unk>	JJ	_ <O>
+or	CC	_ <O>
+reddish	JJ	_ <O>
+-	HYPH	_ <O>
+brown	NN	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+without	IN	_ <O>
+prominent	JJ	_ <O>
+markings	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+often	RB	_ <O>
+rather	RB	_ <O>
+<unk>	JJ	_ <O>
+<unk>	RB	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+larvae	NN	_ <O>
+(	-LRB-	_ <O>
+called	VBN	_ <O>
+white	JJ	_ <O>
+<unk>	NNS	_ <O>
+)	-RRB-	_ <O>
+feed	VBP	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+roots	NNS	_ <O>
+of	IN	_ <O>
+grasses	NNS	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+plants	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Common	JJ	_ <O>
+names	NNS	_ <O>
+for	IN	_ <O>
+this	DT	_ <O>
+genus	NN	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+related	JJ	<I-CUE>
+genera	NN	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+subfamily	NN	_ <O>
+<unk>	NNP	_ <O>
+are	VBP	_ <O>
+May	NNP	_ <O>
+beetles	NNS	_ <O>
+,	,	_ <O>
+June	NNP	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+June	NNP	_ <O>
+beetles	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Common	JJ	_ <O>
+names	NNS	_ <O>
+for	IN	_ <O>
+this	DT	_ <O>
+genus	NN	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+related	JJ	<I-CUE>
+genera	NN	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+subfamily	NN	_ <O>
+<unk>	NNP	_ <O>
+are	VBP	_ <O>
+May	NNP	_ <O>
+beetles	NNS	_ <O>
+,	,	_ <O>
+June	NNP	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+June	NNP	_ <O>
+beetles	NNS	_ <O>
+.	.	_ <O>
+
+NULL

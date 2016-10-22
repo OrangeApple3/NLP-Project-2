@@ -1,0 +1,83 @@
+NULL
+On	IN	_ <O>
+May	NNP	_ <O>
+<unk>	CD	_ <O>
+2007	CD	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+licensing	NN	_ <O>
+chief	NN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+said	VBD	_ <O>
+on	IN	_ <O>
+Fortune	NNP	_ <O>
+that	WDT	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+associated	VBD	_ <O>
+free	JJ	_ <O>
+software	NN	_ <O>
+<unk>	VBD	_ <O>
+<unk>	CD	_ <O>
+<unk>	NNS	_ <O>
+owned	VBN	_ <O>
+by	IN	_ <O>
+Microsoft	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+thought	VBD	_ <O>
+that	IN	_ <O>
+Microsoft	NNP	_ <O>
+wanted	VBD	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+other	JJ	_ <O>
+open	JJ	_ <O>
+-	HYPH	_ <O>
+source	NN	_ <O>
+software	NN	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBP	_ <O>
+<unk>	NNP	_ <O>
+’s	NNP	_ <O>
+lead	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+by	IN	_ <O>
+this	DT	_ <O>
+move	NN	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+commented	VBN	<I-CUE>
+that	IN	_ <O>
+this	DT	_ <O>
+"	``	_ <O>
+ended	VBD	_ <O>
+any	DT	_ <O>
+<unk>	NN	_ <O>
+that	IN	_ <O>
+Microsoft	NNP	_ <O>
+<unk>	VBD	_ <O>
+to	TO	_ <O>
+try	VB	_ <O>
+to	TO	_ <O>
+build	VB	_ <O>
+<unk>	NNS	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+open	JJ	_ <O>
+-	HYPH	_ <O>
+source	NN	_ <O>
+community	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

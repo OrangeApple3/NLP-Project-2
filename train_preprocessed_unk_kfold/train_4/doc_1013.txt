@@ -1,0 +1,22 @@
+NULL
+On	IN	_ <O>
+December	NNP	_ <O>
+27	CD	_ <O>
+,	,	_ <O>
+2008	CD	_ <O>
+,	,	_ <O>
+South	NNP	_ <O>
+Korea	NNP	_ <O>
+announced	VBD	_ <O>
+plans	NNS	_ <O>
+to	TO	_ <O>
+start	VB	_ <O>
+<unk>	VBG	_ <O>
+and	CC	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL

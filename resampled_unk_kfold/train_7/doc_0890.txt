@@ -1,0 +1,16 @@
+NULL
+<unk>	NNP	_ <O>
+James	NNP	_ <O>
+S.	NNP	_ <O>
+Sherman	NNP	_ <O>
+of	IN	_ <O>
+New	NNP	_ <O>
+York	NNP	_ <O>
+received	VBD	_ <O>
+the	DT	_ <O>
+vice	NN	_ <O>
+presidential	JJ	_ <O>
+nomination	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,182 @@
+NULL
+Negri	NNP	_ <O>
+allegedly	RB	_ <O>
+kept	VBD	_ <O>
+Valentino	NNP	_ <O>
+'s	POS	_ <O>
+picture	NN	_ <O>
+on	IN	_ <O>
+her	PRP$	_ <O>
+<unk>	NN	_ <O>
+table	NN	_ <O>
+until	IN	_ <O>
+the	DT	_ <O>
+end	NN	_ <O>
+of	IN	_ <O>
+her	PRP$	_ <O>
+life	NN	_ <O>
+,	,	_ <O>
+always	RB	_ <O>
+<unk>	VBG	_ <O>
+he	PRP	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+the	DT	_ <O>
+great	JJ	_ <O>
+love	NN	_ <O>
+of	IN	_ <O>
+her	PRP$	_ <O>
+life	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Despite	IN	_ <O>
+the	DT	_ <O>
+wide	JJ	_ <O>
+publicity	NN	_ <O>
+she	PRP	_ <O>
+attracted	VBD	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+Valentino	NNP	<I-CUE>
+'s	POS	<I-CUE>
+friends	NNS	<I-CUE>
+stated	VBD	_ <O>
+that	IN	_ <O>
+Valentino	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+had	VBD	_ <O>
+not	RB	_ <O>
+intended	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+dismissed	VBD	_ <O>
+her	PRP$	_ <O>
+actions	NNS	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+publicity	NN	_ <O>
+stunt	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+particular	JJ	_ <O>
+,	,	_ <O>
+<unk>	VBN	_ <O>
+Negri	NNP	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+others	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Mary	NNP	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+generous	JJ	_ <O>
+to	TO	_ <O>
+so	RB	_ <O>
+many	JJ	<B-CUE>
+troubled	VBN	<I-CUE>
+<unk>	NNS	<I-CUE>
+of	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+Valentino	NNP	_ <O>
+'s	POS	_ <O>
+brother	NN	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+defended	VBD	_ <O>
+her	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+Despite	IN	_ <O>
+the	DT	_ <O>
+wide	JJ	_ <O>
+publicity	NN	_ <O>
+she	PRP	_ <O>
+attracted	VBD	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+Valentino	NNP	<I-CUE>
+'s	POS	<I-CUE>
+friends	NNS	<I-CUE>
+stated	VBD	_ <O>
+that	IN	_ <O>
+Valentino	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+had	VBD	_ <O>
+not	RB	_ <O>
+intended	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+dismissed	VBD	_ <O>
+her	PRP$	_ <O>
+actions	NNS	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+publicity	NN	_ <O>
+stunt	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+particular	JJ	_ <O>
+,	,	_ <O>
+<unk>	VBN	_ <O>
+Negri	NNP	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+others	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Mary	NNP	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+generous	JJ	_ <O>
+to	TO	_ <O>
+so	RB	_ <O>
+many	JJ	<B-CUE>
+troubled	VBN	<I-CUE>
+<unk>	NNS	<I-CUE>
+of	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+Valentino	NNP	_ <O>
+'s	POS	_ <O>
+brother	NN	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+defended	VBD	_ <O>
+her	PRP	_ <O>
+.	.	_ <O>
+
+NULL

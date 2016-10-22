@@ -1,0 +1,177 @@
+NULL
+Finally	RB	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+most	JJS	_ <O>
+noticeably	RB	_ <O>
+,	,	_ <O>
+phytosaurs	NNS	_ <O>
+had	VBD	_ <O>
+nostrils	NNS	_ <O>
+placed	VBN	_ <O>
+near	IN	_ <O>
+or	CC	_ <O>
+above	IN	_ <O>
+the	DT	_ <O>
+level	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+eyes	NNS	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+contrast	NN	_ <O>
+to	IN	_ <O>
+crocodiles	NNS	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+nostrils	NNS	_ <O>
+are	VBP	_ <O>
+near	IN	_ <O>
+the	DT	_ <O>
+end	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Despite	IN	_ <O>
+their	PRP$	_ <O>
+great	JJ	_ <O>
+similarities	NNS	_ <O>
+in	IN	_ <O>
+appearance	NN	_ <O>
+and	CC	_ <O>
+lifestyle	NN	_ <O>
+,	,	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+still	RB	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+minor	JJ	<I-CUE>
+differences	NNS	<I-CUE>
+that	IN	_ <O>
+distinguish	VBP	_ <O>
+<unk>	NNS	_ <O>
+from	IN	_ <O>
+true	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+possible	JJ	<I-CUE>
+however	RB	_ <O>
+that	DT	_ <O>
+phytosaurs	NNS	_ <O>
+had	VBD	_ <O>
+a	DT	_ <O>
+fleshy	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+many	JJ	<B-CUE>
+Mesozoic	JJ	<I-CUE>
+crocodiles	NNS	<I-CUE>
+are	VBP	<B-CUE>
+presumed	VBN	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+had	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+adaptation	NN	_ <O>
+may	MD	<B-CUE>
+have	VBP	_ <O>
+developed	VBN	_ <O>
+to	TO	_ <O>
+allow	VB	_ <O>
+them	PRP	_ <O>
+to	TO	_ <O>
+breathe	VB	_ <O>
+while	IN	_ <O>
+the	DT	_ <O>
+rest	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+body	NN	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Despite	IN	_ <O>
+their	PRP$	_ <O>
+great	JJ	_ <O>
+similarities	NNS	_ <O>
+in	IN	_ <O>
+appearance	NN	_ <O>
+and	CC	_ <O>
+lifestyle	NN	_ <O>
+,	,	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+still	RB	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+minor	JJ	<I-CUE>
+differences	NNS	<I-CUE>
+that	IN	_ <O>
+distinguish	VBP	_ <O>
+<unk>	NNS	_ <O>
+from	IN	_ <O>
+true	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+possible	JJ	<I-CUE>
+however	RB	_ <O>
+that	DT	_ <O>
+phytosaurs	NNS	_ <O>
+had	VBD	_ <O>
+a	DT	_ <O>
+fleshy	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+many	JJ	<B-CUE>
+Mesozoic	JJ	<I-CUE>
+crocodiles	NNS	<I-CUE>
+are	VBP	<B-CUE>
+presumed	VBN	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+had	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+adaptation	NN	_ <O>
+may	MD	<B-CUE>
+have	VBP	_ <O>
+developed	VBN	_ <O>
+to	TO	_ <O>
+allow	VB	_ <O>
+them	PRP	_ <O>
+to	TO	_ <O>
+breathe	VB	_ <O>
+while	IN	_ <O>
+the	DT	_ <O>
+rest	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+body	NN	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL

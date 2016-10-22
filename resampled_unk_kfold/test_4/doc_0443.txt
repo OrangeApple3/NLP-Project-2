@@ -1,0 +1,126 @@
+NULL
+Modern	JJ	_ <O>
+<unk>	NN	_ <O>
+makers	NNS	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1960s	NNS	_ <O>
+and	CC	_ <O>
+1970s	NNS	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+to	TO	_ <O>
+give	VB	_ <O>
+their	PRP$	_ <O>
+products	NNS	_ <O>
+a	DT	_ <O>
+space	NN	_ <O>
+age	NN	_ <O>
+aesthetic	JJ	_ <O>
+,	,	_ <O>
+incorporated	JJ	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+PMMA	NNP	_ <O>
+products	NNS	_ <O>
+into	IN	_ <O>
+their	PRP$	_ <O>
+designs	NNS	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+office	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+From	IN	_ <O>
+approximately	RB	_ <O>
+the	DT	_ <O>
+1960s	CD	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+glass	NN	_ <O>
+artists	NNS	_ <O>
+began	VBD	_ <O>
+using	VBG	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+taking	VBG	_ <O>
+advantage	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+material	NN	_ <O>
+'s	POS	_ <O>
+flexibility	NN	_ <O>
+,	,	_ <O>
+light	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+cost	NN	_ <O>
+and	CC	_ <O>
+its	PRP$	_ <O>
+capacity	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+and	CC	_ <O>
+filter	VB	_ <O>
+light	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+products	NNS	<I-CUE>
+(	-LRB-	_ <O>
+for	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+)	-RRB-	_ <O>
+are	VBP	_ <O>
+sometimes	RB	_ <O>
+made	VBN	_ <O>
+with	IN	_ <O>
+acrylic	JJ	_ <O>
+glass	NN	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+the	DT	_ <O>
+commonly	RB	_ <O>
+opaque	JJ	_ <O>
+objects	NNS	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+products	NNS	<I-CUE>
+(	-LRB-	_ <O>
+for	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+)	-RRB-	_ <O>
+are	VBP	_ <O>
+sometimes	RB	_ <O>
+made	VBN	_ <O>
+with	IN	_ <O>
+acrylic	JJ	_ <O>
+glass	NN	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+the	DT	_ <O>
+commonly	RB	_ <O>
+opaque	JJ	_ <O>
+objects	NNS	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL

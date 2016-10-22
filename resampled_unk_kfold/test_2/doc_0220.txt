@@ -1,0 +1,184 @@
+In	IN	_ <O>
+the	DT	_ <O>
+period	NN	_ <O>
+before	IN	_ <O>
+the	DT	_ <O>
+<unk>	CD	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+most	RBS	_ <O>
+<unk>	JJ	_ <O>
+reformer	NN	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+the	DT	_ <O>
+revolution	NN	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+his	PRP$	_ <O>
+political	JJ	_ <O>
+reforms	NNS	_ <O>
+and	CC	_ <O>
+constitutional	JJ	_ <O>
+improvements	NNS	_ <O>
+were	VBD	_ <O>
+considered	VBN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+remaining	VBG	_ <O>
+largely	RB	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+framework	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	CD	_ <O>
+laws	NNS	_ <O>
+<unk>	VBN	_ <O>
+above	IN	_ <O>
+
+NULL
+His	PRP$	_ <O>
+rule	NN	_ <O>
+was	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+secular	JJ	_ <O>
+and	CC	_ <O>
+as	IN	_ <O>
+such	JJ	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBN	_ <O>
+the	DT	_ <O>
+title	NN	_ <O>
+"	``	_ <O>
+king	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	_ <O>
+of	IN	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+<unk>	JJ	<I-CUE>
+contemporary	JJ	_ <O>
+critic	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+dogma	NN	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+considered	VBD	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+political	JJ	_ <O>
+regime	NN	_ <O>
+'	''	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+pope	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Papal	NNP	_ <O>
+States	NNP	_ <O>
+'	POS	_ <O>
+as	RB	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+well	RB	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+,	,	_ <O>
+mild	JJ	_ <O>
+-	HYPH	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+open	JJ	_ <O>
+for	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL
+His	PRP$	_ <O>
+rule	NN	_ <O>
+was	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+secular	JJ	_ <O>
+and	CC	_ <O>
+as	IN	_ <O>
+such	JJ	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBN	_ <O>
+the	DT	_ <O>
+title	NN	_ <O>
+"	``	_ <O>
+king	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	_ <O>
+of	IN	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+<unk>	JJ	<I-CUE>
+contemporary	JJ	_ <O>
+critic	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+dogma	NN	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+considered	VBD	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+political	JJ	_ <O>
+regime	NN	_ <O>
+'	''	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+pope	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Papal	NNP	_ <O>
+States	NNP	_ <O>
+'	POS	_ <O>
+as	RB	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+well	RB	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+,	,	_ <O>
+mild	JJ	_ <O>
+-	HYPH	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+open	JJ	_ <O>
+for	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL

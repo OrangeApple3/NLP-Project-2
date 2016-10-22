@@ -1,0 +1,74 @@
+NULL
+Their	PRP$	_ <O>
+singer	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+born	VBN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+Area	NN	_ <O>
+-	HYPH	_ <O>
+International	NNP	_ <O>
+POPular	NNP	_ <O>
+Group	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+most	RBS	<B-CUE>
+commonly	RB	<I-CUE>
+known	VBN	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+AreA	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+an	DT	_ <O>
+Italian	JJ	_ <O>
+jazz	NN	_ <O>
+fusion	NN	_ <O>
+and	CC	_ <O>
+progressive	JJ	_ <O>
+rock	NN	_ <O>
+group	NN	_ <O>
+formed	VBN	_ <O>
+in	IN	_ <O>
+1972	CD	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+Area	NN	_ <O>
+-	HYPH	_ <O>
+International	NNP	_ <O>
+POPular	NNP	_ <O>
+Group	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+most	RBS	<B-CUE>
+commonly	RB	<I-CUE>
+known	VBN	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+AreA	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+an	DT	_ <O>
+Italian	JJ	_ <O>
+jazz	NN	_ <O>
+fusion	NN	_ <O>
+and	CC	_ <O>
+progressive	JJ	_ <O>
+rock	NN	_ <O>
+group	NN	_ <O>
+formed	VBN	_ <O>
+in	IN	_ <O>
+1972	CD	_ <O>
+.	.	_ <O>
+
+NULL

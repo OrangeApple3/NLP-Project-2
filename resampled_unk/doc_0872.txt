@@ -1,0 +1,132 @@
+One	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+major	JJ	_ <O>
+technical	JJ	_ <O>
+innovations	NNS	_ <O>
+that	WDT	_ <O>
+helped	VBD	_ <O>
+to	TO	_ <O>
+create	VB	_ <O>
+the	DT	_ <O>
+sound	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+modern	JJ	_ <O>
+piano	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+strong	JJ	_ <O>
+iron	NN	_ <O>
+frame	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+single	JJ	_ <O>
+piece	NN	_ <O>
+cast	VBN	_ <O>
+iron	NN	_ <O>
+frame	NN	_ <O>
+was	VBD	_ <O>
+patented	VBN	_ <O>
+in	IN	_ <O>
+1825	CD	_ <O>
+in	IN	_ <O>
+Boston	NNP	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+combining	VBG	_ <O>
+the	DT	_ <O>
+metal	NN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+plate	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+claimed	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+on	IN	_ <O>
+behalf	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+resisting	VBG	_ <O>
+bars	NNS	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+Allen	NNP	_ <O>
+,	,	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+also	RB	_ <O>
+claimed	VBN	_ <O>
+by	IN	_ <O>
+Broadwood	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Composite	NNP	_ <O>
+<unk>	VBD	_ <O>
+metal	NN	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+preferred	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+European	JJ	<I-CUE>
+makers	NNS	<I-CUE>
+until	IN	_ <O>
+the	DT	_ <O>
+American	JJ	_ <O>
+system	NN	_ <O>
+was	VBD	_ <O>
+fully	RB	_ <O>
+adopted	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+20th	JJ	_ <O>
+century	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Composite	NNP	_ <O>
+<unk>	VBD	_ <O>
+metal	NN	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+preferred	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+European	JJ	<I-CUE>
+makers	NNS	<I-CUE>
+until	IN	_ <O>
+the	DT	_ <O>
+American	JJ	_ <O>
+system	NN	_ <O>
+was	VBD	_ <O>
+fully	RB	_ <O>
+adopted	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+20th	JJ	_ <O>
+century	NN	_ <O>
+.	.	_ <O>
+
+NULL

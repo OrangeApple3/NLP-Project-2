@@ -1,0 +1,67 @@
+NULL
+Leading	VBG	<B-CUE>
+indigenous	JJ	<I-CUE>
+peoples	NNS	<I-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+Native	JJ	<I-CUE>
+American	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+argue	VBP	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+recent	JJ	_ <O>
+declaration	NN	_ <O>
+of	IN	_ <O>
+independence	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+USA	NNP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+rather	RB	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+sovereignty	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Leading	VBG	<B-CUE>
+indigenous	JJ	<I-CUE>
+peoples	NNS	<I-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+Native	JJ	<I-CUE>
+American	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+argue	VBP	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+recent	JJ	_ <O>
+declaration	NN	_ <O>
+of	IN	_ <O>
+independence	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+USA	NNP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+rather	RB	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+sovereignty	NN	_ <O>
+.	.	_ <O>
+
+NULL

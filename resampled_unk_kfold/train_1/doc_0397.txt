@@ -1,0 +1,48 @@
+NULL
+Oral	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+developed	VBN	_ <O>
+by	IN	_ <O>
+several	JJ	_ <O>
+groups	NNS	_ <O>
+,	,	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+was	VBD	_ <O>
+led	VBN	_ <O>
+by	IN	_ <O>
+Albert	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+various	JJ	_ <O>
+vaccines	NNS	_ <O>
+were	VBD	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBN	_ <O>
+for	IN	_ <O>
+their	PRP$	_ <O>
+ability	NN	_ <O>
+to	TO	_ <O>
+induce	VB	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+polio	NN	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+<unk>	VBG	_ <O>
+a	DT	_ <O>
+low	JJ	_ <O>
+incidence	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

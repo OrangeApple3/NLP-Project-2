@@ -1,0 +1,52 @@
+NULL
+In	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+(	-LRB-	_ <O>
+though	IN	_ <O>
+not	RB	_ <O>
+widespread	JJ	_ <O>
+)	-RRB-	_ <O>
+till	IN	_ <O>
+recent	JJ	_ <O>
+times	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+<unk>	NNP	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+,	,	_ <O>
+both	CC	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+polyandry	JJ	_ <O>
+were	VBD	_ <O>
+commonly	RB	_ <O>
+practiced	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Having	VBG	_ <O>
+several	JJ	_ <O>
+<unk>	NNS	_ <O>
+or	CC	_ <O>
+several	JJ	_ <O>
+<unk>	NNS	_ <O>
+was	VBD	_ <O>
+never	RB	_ <O>
+regarded	VBN	_ <O>
+as	IN	_ <O>
+having	VBG	_ <O>
+sex	NN	_ <O>
+with	IN	_ <O>
+inappropriate	JJ	_ <O>
+partners	NNS	_ <O>
+.	.	_ <O>
+
+NULL

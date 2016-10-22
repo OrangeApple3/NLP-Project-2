@@ -1,0 +1,62 @@
+As	IN	_ <O>
+details	NNS	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+episode	NN	_ <O>
+<unk>	VBD	_ <O>
+,	,	_ <O>
+fans	NNS	_ <O>
+became	VBD	_ <O>
+<unk>	JJ	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+views	NNS	_ <O>
+of	IN	_ <O>
+what	WP	_ <O>
+could	MD	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+final	JJ	_ <O>
+<unk>	VBN	_ <O>
+'	''	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+episode	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+future	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Elements	NNS	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+<unk>	NN	_ <O>
+generated	VBD	_ <O>
+<unk>	JJ	<B-CUE>
+controversy	NN	<I-CUE>
+among	IN	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+series	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Elements	NNS	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+<unk>	NN	_ <O>
+generated	VBD	_ <O>
+<unk>	JJ	<B-CUE>
+controversy	NN	<I-CUE>
+among	IN	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+series	NN	_ <O>
+.	.	_ <O>
+
+NULL

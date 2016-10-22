@@ -1,0 +1,22 @@
+NULL
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+were	VBD	_ <O>
+staff	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Met	NNP	_ <O>
+Office	NNP	_ <O>
+'s	POS	_ <O>
+former	JJ	_ <O>
+Northern	NNP	_ <O>
+Ireland	NNP	_ <O>
+office	NN	_ <O>
+based	VBN	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,142 @@
+NULL
+Gameplay	NNP	_ <O>
+was	VBD	_ <O>
+also	RB	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+areas	NNS	<I-CUE>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+made	VBN	_ <O>
+easier	JJR	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+allow	VBP	_ <O>
+the	DT	_ <O>
+player	NN	_ <O>
+to	TO	_ <O>
+change	VB	_ <O>
+certain	JJ	<B-CUE>
+characteristics	NNS	<I-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+characters	NNS	<I-CUE>
+,	,	_ <O>
+others	NNS	<B-CUE>
+are	VBP	_ <O>
+used	VBN	_ <O>
+to	TO	_ <O>
+view	VB	_ <O>
+special	JJ	_ <O>
+music	NN	_ <O>
+video	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+others	NNS	<B-CUE>
+to	TO	_ <O>
+call	VB	_ <O>
+<unk>	JJ	_ <O>
+characters	NNS	_ <O>
+to	TO	_ <O>
+help	VB	_ <O>
+the	DT	_ <O>
+player	NN	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+game	NN	_ <O>
+has	VBZ	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+backgrounds	NNS	_ <O>
+and	CC	_ <O>
+all	PDT	_ <O>
+the	DT	_ <O>
+characters	NNS	_ <O>
+from	IN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+that	DT	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+usually	RB	<I-CUE>
+described	VBN	<I-CUE>
+as	IN	_ <O>
+a	DT	_ <O>
+port	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+game	NN	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+in	IN	_ <O>
+fact	NN	_ <O>
+the	DT	_ <O>
+game	NN	_ <O>
+'s	POS	_ <O>
+story	NN	_ <O>
+<unk>	VBZ	_ <O>
+place	NN	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+events	NNS	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+previous	JJ	_ <O>
+game	NN	_ <O>
+,	,	_ <O>
+making	VBG	_ <O>
+it	PRP	_ <O>
+a	DT	_ <O>
+sort	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+update	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+possible	JJ	<I-CUE>
+that	IN	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+very	RB	_ <O>
+little	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+series	NN	_ <O>
+ever	RB	_ <O>
+had	VBN	_ <O>
+outside	IN	_ <O>
+of	IN	_ <O>
+its	PRP$	_ <O>
+country	NN	_ <O>
+of	IN	_ <O>
+origin	NN	_ <O>
+.	.	_ <O>
+
+NULL

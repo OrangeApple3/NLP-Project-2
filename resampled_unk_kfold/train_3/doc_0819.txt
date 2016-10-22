@@ -1,0 +1,58 @@
+NULL
+The	DT	_ <O>
+president	NN	_ <O>
+is	VBZ	_ <O>
+elected	VBN	_ <O>
+by	IN	_ <O>
+popular	JJ	_ <O>
+vote	NN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+five	CD	_ <O>
+-	HYPH	_ <O>
+year	NN	_ <O>
+term	NN	_ <O>
+;	:	_ <O>
+election	NN	_ <O>
+last	NN	_ <O>
+held	VBN	_ <O>
+26	CD	_ <O>
+October	NNP	_ <O>
+2000	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Gbagbo	NNP	_ <O>
+was	VBD	_ <O>
+elected	VBN	_ <O>
+president	NN	_ <O>
+in	IN	_ <O>
+2000	CD	_ <O>
+in	IN	_ <O>
+an	DT	_ <O>
+election	NN	_ <O>
+<unk>	VBN	_ <O>
+<unk>	NN	_ <O>
+many	JJ	<B-CUE>
+<unk>	JJ	<I-CUE>
+forces	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Gbagbo	NNP	_ <O>
+was	VBD	_ <O>
+elected	VBN	_ <O>
+president	NN	_ <O>
+in	IN	_ <O>
+2000	CD	_ <O>
+in	IN	_ <O>
+an	DT	_ <O>
+election	NN	_ <O>
+<unk>	VBN	_ <O>
+<unk>	NN	_ <O>
+many	JJ	<B-CUE>
+<unk>	JJ	<I-CUE>
+forces	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

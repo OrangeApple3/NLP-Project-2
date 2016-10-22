@@ -1,0 +1,35 @@
+NULL
+<unk>	NNP	_ <O>
+does	VBZ	_ <O>
+have	VB	_ <O>
+two	CD	_ <O>
+children	NNS	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+previous	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+son	NN	_ <O>
+named	VBN	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+born	VBN	_ <O>
+in	IN	_ <O>
+1975	CD	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+daughter	NN	_ <O>
+named	VBN	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+born	VBN	_ <O>
+in	IN	_ <O>
+1972	CD	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

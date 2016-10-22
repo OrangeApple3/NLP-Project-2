@@ -1,0 +1,150 @@
+The	DT	_ <O>
+frequency	NN	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+problems	NNS	_ <O>
+vary	VBP	_ <O>
+for	IN	_ <O>
+each	DT	_ <O>
+individual	JJ	_ <O>
+user	NN	_ <O>
+;	:	_ <O>
+some	DT	<B-CUE>
+users	NNS	<I-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+they	PRP	<B-CUE>
+have	VBP	_ <O>
+never	RB	_ <O>
+or	CC	_ <O>
+<unk>	RB	_ <O>
+experienced	VBD	_ <O>
+these	DT	_ <O>
+problems	NNS	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+others	NNS	<B-CUE>
+claim	NN	_ <O>
+to	TO	_ <O>
+experience	VB	_ <O>
+them	PRP	_ <O>
+very	RB	_ <O>
+often	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Also	RB	_ <O>
+I	PRP	<B-CUE>
+<unk>	VBP	<I-CUE>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+away	RB	_ <O>
+from	IN	_ <O>
+<unk>	NNP	_ <O>
+aka	RB	_ <O>
+<unk>	NNP	_ <O>
+on	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+meeting	VBG	_ <O>
+him	PRP	_ <O>
+you	PRP	<B-CUE>
+will	MD	_ <O>
+probably	RB	<B-CUE>
+be	VB	_ <O>
+left	VBN	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+with	IN	_ <O>
+male	JJ	_ <O>
+<unk>	NN	_ <O>
+'s	POS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+frequency	NN	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+problems	NNS	_ <O>
+vary	VBP	_ <O>
+for	IN	_ <O>
+each	DT	_ <O>
+individual	JJ	_ <O>
+user	NN	_ <O>
+;	:	_ <O>
+some	DT	<B-CUE>
+users	NNS	<I-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+they	PRP	<B-CUE>
+have	VBP	_ <O>
+never	RB	_ <O>
+or	CC	_ <O>
+<unk>	RB	_ <O>
+experienced	VBD	_ <O>
+these	DT	_ <O>
+problems	NNS	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+others	NNS	<B-CUE>
+claim	NN	_ <O>
+to	TO	_ <O>
+experience	VB	_ <O>
+them	PRP	_ <O>
+very	RB	_ <O>
+often	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Also	RB	_ <O>
+I	PRP	<B-CUE>
+<unk>	VBP	<I-CUE>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+away	RB	_ <O>
+from	IN	_ <O>
+<unk>	NNP	_ <O>
+aka	RB	_ <O>
+<unk>	NNP	_ <O>
+on	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+meeting	VBG	_ <O>
+him	PRP	_ <O>
+you	PRP	<B-CUE>
+will	MD	_ <O>
+probably	RB	<B-CUE>
+be	VB	_ <O>
+left	VBN	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+with	IN	_ <O>
+male	JJ	_ <O>
+<unk>	NN	_ <O>
+'s	POS	_ <O>
+.	.	_ <O>
+
+NULL

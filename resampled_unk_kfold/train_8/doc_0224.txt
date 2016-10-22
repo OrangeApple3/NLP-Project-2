@@ -1,0 +1,234 @@
+<unk>	RB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+electron	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+neutron	NN	_ <O>
+,	,	_ <O>
+these	DT	_ <O>
+include	VBP	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+from	IN	_ <O>
+which	WDT	_ <O>
+protons	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+made	VBN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+some	DT	_ <O>
+<unk>	NNS	_ <O>
+like	IN	_ <O>
+<unk>	ADD	_ <O>
+.	.	_ <O>
+
+NULL
+Particles	NNS	_ <O>
+with	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+have	VBP	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+wave	NN	_ <O>
+function	NN	_ <O>
+and	CC	_ <O>
+are	VBP	_ <O>
+called	VBN	_ <O>
+<unk>	NNS	_ <O>
+;	:	_ <O>
+in	IN	_ <O>
+contrast	NN	_ <O>
+to	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+may	MD	_ <O>
+share	VB	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+quantum	JJ	_ <O>
+states	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+principle	NN	_ <O>
+is	VBZ	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+important	JJ	<I-CUE>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+mainly	RB	_ <O>
+because	IN	_ <O>
+the	DT	_ <O>
+three	CD	_ <O>
+types	NNS	_ <O>
+of	IN	_ <O>
+particles	NNS	_ <O>
+from	IN	_ <O>
+which	WDT	_ <O>
+ordinary	JJ	_ <O>
+matter	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	VB	_ <O>
+all	DT	_ <O>
+subject	NN	_ <O>
+to	IN	_ <O>
+it	PRP	_ <O>
+;	:	_ <O>
+<unk>	RB	_ <O>
+,	,	_ <O>
+all	DT	_ <O>
+material	JJ	_ <O>
+particles	NNS	_ <O>
+<unk>	VBP	_ <O>
+space	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	VBG	_ <O>
+behavior	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Pauli	NNP	_ <O>
+exclusion	NN	_ <O>
+principle	NN	_ <O>
+<unk>	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+of	IN	<I-CUE>
+matter	NN	<I-CUE>
+,	,	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+large	JJ	_ <O>
+-	HYPH	_ <O>
+scale	NN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+matter	NN	_ <O>
+,	,	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+existence	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+table	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+elements	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+principle	NN	_ <O>
+is	VBZ	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+important	JJ	<I-CUE>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+mainly	RB	_ <O>
+because	IN	_ <O>
+the	DT	_ <O>
+three	CD	_ <O>
+types	NNS	_ <O>
+of	IN	_ <O>
+particles	NNS	_ <O>
+from	IN	_ <O>
+which	WDT	_ <O>
+ordinary	JJ	_ <O>
+matter	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	VB	_ <O>
+all	DT	_ <O>
+subject	NN	_ <O>
+to	IN	_ <O>
+it	PRP	_ <O>
+;	:	_ <O>
+<unk>	RB	_ <O>
+,	,	_ <O>
+all	DT	_ <O>
+material	JJ	_ <O>
+particles	NNS	_ <O>
+<unk>	VBP	_ <O>
+space	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	VBG	_ <O>
+behavior	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Pauli	NNP	_ <O>
+exclusion	NN	_ <O>
+principle	NN	_ <O>
+<unk>	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+of	IN	<I-CUE>
+matter	NN	<I-CUE>
+,	,	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+large	JJ	_ <O>
+-	HYPH	_ <O>
+scale	NN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+matter	NN	_ <O>
+,	,	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+existence	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+table	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+elements	NNS	_ <O>
+.	.	_ <O>
+
+NULL

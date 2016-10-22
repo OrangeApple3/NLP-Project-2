@@ -1,0 +1,106 @@
+Prior	RB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+enactment	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Amendment	NNP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+Constitution	NNP	_ <O>
+in	IN	_ <O>
+1868	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Supreme	NNP	_ <O>
+Court	NNP	_ <O>
+generally	RB	_ <O>
+held	VBD	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+protections	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Bill	NNP	_ <O>
+of	IN	_ <O>
+Rights	NNPS	_ <O>
+did	VBD	_ <O>
+not	RB	_ <O>
+apply	VB	_ <O>
+to	IN	_ <O>
+state	NN	_ <O>
+governments	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Subsequently	RB	_ <O>
+,	,	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+doctrine	NN	_ <O>
+the	DT	_ <O>
+Bill	NNP	_ <O>
+of	IN	_ <O>
+Rights	NNPS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+broadly	RB	_ <O>
+applied	VBN	_ <O>
+to	TO	_ <O>
+limit	VB	_ <O>
+state	NN	_ <O>
+and	CC	_ <O>
+local	JJ	_ <O>
+government	NN	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+controversial	JJ	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+area	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Critics	NNS	<B-CUE>
+of	IN	<I-CUE>
+this	DT	<I-CUE>
+interpretation	NN	<I-CUE>
+argue	VBP	_ <O>
+that	IN	_ <O>
+it	PRP	_ <O>
+effectively	RB	_ <O>
+changes	VBZ	_ <O>
+the	DT	_ <O>
+Constitution	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Critics	NNS	<B-CUE>
+of	IN	<I-CUE>
+this	DT	<I-CUE>
+interpretation	NN	<I-CUE>
+argue	VBP	_ <O>
+that	IN	_ <O>
+it	PRP	_ <O>
+effectively	RB	_ <O>
+changes	VBZ	_ <O>
+the	DT	_ <O>
+Constitution	NNP	_ <O>
+.	.	_ <O>
+
+NULL

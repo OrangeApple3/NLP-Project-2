@@ -1,0 +1,46 @@
+NULL
+The	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+slave	NN	_ <O>
+owners	NNS	_ <O>
+in	IN	_ <O>
+<unk>	VBG	_ <O>
+slaves	NNS	_ <O>
+were	VBD	_ <O>
+complex	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Three	CD	_ <O>
+<unk>	NNS	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+detected	VBN	_ <O>
+,	,	_ <O>
+though	IN	_ <O>
+they	PRP	_ <O>
+can	MD	_ <O>
+not	RB	_ <O>
+always	RB	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+from	IN	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+following	VBG	_ <O>
+relates	VBZ	_ <O>
+particularly	RB	_ <O>
+to	IN	_ <O>
+classical	JJ	_ <O>
+Greek	NNP	_ <O>
+and	CC	_ <O>
+Roman	JJ	_ <O>
+forms	NNS	_ <O>
+.	.	_ <O>
+
+NULL

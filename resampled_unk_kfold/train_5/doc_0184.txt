@@ -1,0 +1,122 @@
+NULL
+The	DT	_ <O>
+'	``	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+'	''	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+species	NN	_ <O>
+of	IN	_ <O>
+rat	NN	_ <O>
+native	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+around	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+they	PRP	_ <O>
+currently	RB	_ <O>
+<unk>	VBP	_ <O>
+primarily	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+outer	JJ	_ <O>
+urban	JJ	_ <O>
+areas	NNS	_ <O>
+East	NNP	_ <O>
+of	IN	_ <O>
+Melbourne	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+unrelated	JJ	_ <O>
+to	IN	_ <O>
+Black	NNP	_ <O>
+or	CC	_ <O>
+Brown	NNP	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+are	VBP	<B-CUE>
+not	RB	<I-CUE>
+problematic	JJ	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+rangers	NNS	_ <O>
+at	IN	_ <O>
+Healesville	NNP	_ <O>
+<unk>	VBP	_ <O>
+them	PRP	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+they	PRP	_ <O>
+(	-LRB-	_ <O>
+the	DT	_ <O>
+rats	NNS	_ <O>
+)	-RRB-	_ <O>
+are	VBP	_ <O>
+native	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+and	CC	_ <O>
+carry	VB	_ <O>
+no	DT	_ <O>
+dangerous	JJ	<B-CUE>
+diseases	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+unrelated	JJ	_ <O>
+to	IN	_ <O>
+Black	NNP	_ <O>
+or	CC	_ <O>
+Brown	NNP	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+are	VBP	<B-CUE>
+not	RB	<I-CUE>
+problematic	JJ	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+rangers	NNS	_ <O>
+at	IN	_ <O>
+Healesville	NNP	_ <O>
+<unk>	VBP	_ <O>
+them	PRP	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+they	PRP	_ <O>
+(	-LRB-	_ <O>
+the	DT	_ <O>
+rats	NNS	_ <O>
+)	-RRB-	_ <O>
+are	VBP	_ <O>
+native	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+and	CC	_ <O>
+carry	VB	_ <O>
+no	DT	_ <O>
+dangerous	JJ	<B-CUE>
+diseases	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

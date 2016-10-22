@@ -1,0 +1,573 @@
+On	IN	_ <O>
+May	NNP	_ <O>
+28	CD	_ <O>
+1974	CD	_ <O>
+the	DT	_ <O>
+square	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+location	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+terrorist	JJ	_ <O>
+bombing	NN	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+"	``	_ <O>
+Old	JJ	_ <O>
+Cathedral	NNP	_ <O>
+"	''	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+also	RB	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+La	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+main	JJ	_ <O>
+structure	NN	_ <O>
+was	VBD	_ <O>
+built	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+century	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+ruins	NNS	_ <O>
+of	IN	_ <O>
+an	DT	_ <O>
+earlier	JJR	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+structure	NN	_ <O>
+houses	VBZ	_ <O>
+paintings	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Assumption	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+Mark	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Paschal	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+<unk>	FW	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+;	:	_ <O>
+two	CD	_ <O>
+<unk>	NNS	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+paintings	NNS	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+il	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Bonvicino	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+others	NNS	_ <O>
+[	-LRB-	_ <O>
+Duomo	NNP	_ <O>
+Vecchio	NNP	_ <O>
+]	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+While	IN	_ <O>
+initially	RB	_ <O>
+a	DT	_ <O>
+contract	NN	_ <O>
+was	VBD	_ <O>
+awarded	VBN	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+economic	JJ	_ <O>
+<unk>	NNS	_ <O>
+awarded	VBD	_ <O>
+the	DT	_ <O>
+project	NN	_ <O>
+,	,	_ <O>
+still	RB	_ <O>
+completed	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+style	NN	_ <O>
+,	,	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+young	JJ	_ <O>
+<unk>	NNP	_ <O>
+architect	NN	_ <O>
+Giovanni	NNP	_ <O>
+Battista	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+decorative	JJ	_ <O>
+projects	NNS	_ <O>
+were	VBD	_ <O>
+directed	VBN	_ <O>
+mainly	RB	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+Maria	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+facade	NN	_ <O>
+is	VBZ	_ <O>
+mainly	RB	_ <O>
+owed	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+designs	NNS	_ <O>
+Giovanni	NNP	_ <O>
+Battista	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+was	VBD	_ <O>
+designed	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Interior	NNP	_ <O>
+<unk>	NNS	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Marriage	NN	_ <O>
+,	,	_ <O>
+Visitation	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Birth	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Virgin	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+were	VBD	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+Bonvicino	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	IN	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+tourist	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	JJ	_ <O>
+house	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+western	JJ	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+province	NN	_ <O>
+,	,	_ <O>
+known	VBN	_ <O>
+for	IN	_ <O>
+it	PRP	_ <O>
+'s	VBZ	_ <O>
+window	NN	_ <O>
+displays	NNS	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	JJ	_ <O>
+behaviour	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+invited	VBN	_ <O>
+to	TO	_ <O>
+participate	VB	_ <O>
+in	IN	_ <O>
+what	WP	_ <O>
+<unk>	NNS	_ <O>
+refer	VBP	_ <O>
+to	IN	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+all	DT	_ <O>
+night	NN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+massive	JJ	_ <O>
+building	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+12th	JJ	_ <O>
+and	CC	_ <O>
+13th	JJ	_ <O>
+centuries	NNS	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+tower	NN	_ <O>
+.	.	_ <O>
+
+NULL
+These	DT	_ <O>
+include	VBP	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Temple	NNP	_ <O>
+,	,	_ <O>
+built	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+<unk>	NN	_ <O>
+
+NULL
+The	DT	_ <O>
+'	``	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+San	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+<unk>	NN	_ <O>
+'	``	_ <O>
+Santa	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+age	NN	_ <O>
+but	CC	_ <O>
+later	RB	_ <O>
+<unk>	VBD	_ <O>
+several	JJ	_ <O>
+times	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+Santa	NNP	_ <O>
+Maria	NNP	_ <O>
+<unk>	VBD	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+<unk>	CD	_ <O>
+-	SYM	_ <O>
+<unk>	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+fine	JJ	_ <O>
+façade	NN	_ <O>
+by	IN	_ <O>
+Giovanni	NNP	_ <O>
+Antonio	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	VBN	_ <O>
+with	IN	_ <O>
+<unk>	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+Renaissance	NNP	_ <O>
+'	''	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+della	NN	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	JJ	<B-CUE>
+example	NN	_ <O>
+of	IN	_ <O>
+Renaissance	NNP	_ <O>
+'	''	_ <O>
+piazza	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+loggia	NN	_ <O>
+(	-LRB-	_ <O>
+the	DT	_ <O>
+current	JJ	_ <O>
+Town	NNP	_ <O>
+Hall	NNP	_ <O>
+)	-RRB-	_ <O>
+built	VBD	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+architect	NN	_ <O>
+<unk>	NNP	_ <O>
+de	NNP	_ <O>
+'	POS	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+thought	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+gay	JJ	_ <O>
+sexual	JJ	_ <O>
+trick	NN	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Cincinnati	NNP	_ <O>
+Bow	NNP	_ <O>
+Tie	NNP	_ <O>
+'	''	_ <O>
+was	VBD	_ <O>
+invented	VBN	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+house	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+Piazza	NNP	_ <O>
+del	NN	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+important	JJ	<I-CUE>
+array	NN	_ <O>
+of	IN	_ <O>
+Roman	NNPS	_ <O>
+remains	VBZ	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+best	JJS	<I-CUE>
+example	NN	_ <O>
+of	IN	_ <O>
+High	NNP	_ <O>
+Middle	NNP	_ <O>
+Ages	NNP	_ <O>
+architecture	NN	_ <O>
+in	IN	_ <O>
+northern	JJ	_ <O>
+Italy	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+della	NN	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	JJ	<B-CUE>
+example	NN	_ <O>
+of	IN	_ <O>
+Renaissance	NNP	_ <O>
+'	''	_ <O>
+piazza	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+loggia	NN	_ <O>
+(	-LRB-	_ <O>
+the	DT	_ <O>
+current	JJ	_ <O>
+Town	NNP	_ <O>
+Hall	NNP	_ <O>
+)	-RRB-	_ <O>
+built	VBD	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+architect	NN	_ <O>
+<unk>	NNP	_ <O>
+de	NNP	_ <O>
+'	POS	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+thought	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+gay	JJ	_ <O>
+sexual	JJ	_ <O>
+trick	NN	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Cincinnati	NNP	_ <O>
+Bow	NNP	_ <O>
+Tie	NNP	_ <O>
+'	''	_ <O>
+was	VBD	_ <O>
+invented	VBN	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+house	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+Piazza	NNP	_ <O>
+del	NN	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+important	JJ	<I-CUE>
+array	NN	_ <O>
+of	IN	_ <O>
+Roman	NNPS	_ <O>
+remains	VBZ	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+best	JJS	<I-CUE>
+example	NN	_ <O>
+of	IN	_ <O>
+High	NNP	_ <O>
+Middle	NNP	_ <O>
+Ages	NNP	_ <O>
+architecture	NN	_ <O>
+in	IN	_ <O>
+northern	JJ	_ <O>
+Italy	NNP	_ <O>
+.	.	_ <O>
+
+NULL

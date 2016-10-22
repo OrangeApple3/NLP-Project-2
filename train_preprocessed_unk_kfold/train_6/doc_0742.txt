@@ -1,0 +1,94 @@
+NULL
+<unk>	NNP	_ <O>
+State	NNP	_ <O>
+University	NNP	_ <O>
+'s	POS	_ <O>
+athletic	JJ	_ <O>
+teams	NNS	_ <O>
+are	VBP	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+<unk>	VBZ	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+Division	NNP	_ <O>
+III	NNP	_ <O>
+Little	NNP	_ <O>
+East	NNP	_ <O>
+Conference	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+for	IN	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+its	PRP$	_ <O>
+<unk>	JJ	_ <O>
+sports	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	<B-CUE>
+most	RBS	<I-CUE>
+widely	RB	<I-CUE>
+known	VBN	<I-CUE>
+for	IN	_ <O>
+its	PRP$	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+men	NNS	_ <O>
+'s	POS	_ <O>
+football	NN	_ <O>
+,	,	_ <O>
+basketball	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+women	NNS	_ <O>
+'s	POS	_ <O>
+field	NN	_ <O>
+hockey	NN	_ <O>
+,	,	_ <O>
+swimming	NN	_ <O>
+and	CC	_ <O>
+diving	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Every	DT	_ <O>
+year	NN	_ <O>
+the	DT	_ <O>
+President	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+awarded	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+school	NN	_ <O>
+which	WDT	_ <O>
+has	VBZ	_ <O>
+more	JJR	_ <O>
+victories	NNS	_ <O>
+in	IN	_ <O>
+total	JJ	_ <O>
+sports	NNS	_ <O>
+competitions	NNS	_ <O>
+against	IN	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+.	.	_ <O>
+
+NULL

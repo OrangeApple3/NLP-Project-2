@@ -1,0 +1,70 @@
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+known	VBN	_ <O>
+commonly	RB	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+Indian	JJ	_ <O>
+warrior	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+plant	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+genus	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+family	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Like	IN	_ <O>
+others	NNS	_ <O>
+of	IN	_ <O>
+its	PRP$	_ <O>
+genus	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+root	NN	_ <O>
+parasite	NN	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+roots	NNS	_ <O>
+of	IN	_ <O>
+other	JJ	_ <O>
+plants	NNS	_ <O>
+to	TO	_ <O>
+obtain	VB	_ <O>
+nutrients	NNS	_ <O>
+and	CC	_ <O>
+water	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+often	RB	_ <O>
+<unk>	VBZ	_ <O>
+plants	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+heath	NN	_ <O>
+family	NN	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,154 @@
+NULL
+A	DT	_ <O>
+common	JJ	_ <O>
+<unk>	NN	_ <O>
+length	NN	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	CD	_ <O>
+or	CC	_ <O>
+more	JJR	_ <O>
+<unk>	RB	_ <O>
+chosen	VBN	_ <O>
+characters	NNS	_ <O>
+<unk>	VBG	_ <O>
+letters	NNS	_ <O>
+,	,	_ <O>
+numbers	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+special	JJ	_ <O>
+characters	NNS	_ <O>
+(	-LRB-	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+etc	FW	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+recommendation	NN	_ <O>
+makes	VBZ	_ <O>
+sense	NN	_ <O>
+for	IN	_ <O>
+systems	NNS	_ <O>
+using	VBG	_ <O>
+<unk>	JJR	_ <O>
+password	NN	_ <O>
+<unk>	NN	_ <O>
+mechanisms	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+based	VBN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+is	VBZ	_ <O>
+inappropriate	JJ	_ <O>
+for	IN	_ <O>
+many	JJ	<B-CUE>
+Microsoft	NNP	<I-CUE>
+Windows	NNP	<I-CUE>
+systems	NNS	<I-CUE>
+because	IN	_ <O>
+they	PRP	_ <O>
+store	VBP	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNP	_ <O>
+Manager	NNP	_ <O>
+<unk>	NN	_ <O>
+which	WDT	_ <O>
+<unk>	VBZ	_ <O>
+the	DT	_ <O>
+password	NN	_ <O>
+into	IN	_ <O>
+two	CD	_ <O>
+<unk>	CD	_ <O>
+character	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+better	JJR	_ <O>
+security	NN	_ <O>
+,	,	_ <O>
+LAN	NNP	_ <O>
+Manager	NNP	_ <O>
+password	NN	_ <O>
+storage	NN	_ <O>
+should	MD	_ <O>
+be	VB	_ <O>
+disabled	JJ	_ <O>
+if	IN	_ <O>
+it	PRP	_ <O>
+will	MD	_ <O>
+not	RB	_ <O>
+break	VB	_ <O>
+supported	VBN	_ <O>
+legacy	NN	_ <O>
+systems	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Systems	NNS	_ <O>
+which	WDT	_ <O>
+<unk>	VBP	_ <O>
+<unk>	NNS	_ <O>
+to	IN	_ <O>
+<unk>	JJ	_ <O>
+characters	NNS	_ <O>
+only	RB	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+upper	JJ	_ <O>
+case	NN	_ <O>
+only	RB	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+,	,	_ <O>
+generally	RB	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+<unk>	VBP	_ <O>
+possible	JJ	_ <O>
+password	NN	_ <O>
+character	NN	_ <O>
+<unk>	NNS	_ <O>
+also	RB	_ <O>
+make	VBP	_ <O>
+<unk>	NN	_ <O>
+force	NN	_ <O>
+attacks	NNS	_ <O>
+easier	JJR	_ <O>
+.	.	_ <O>
+
+NULL
+Using	VBG	_ <O>
+longer	JJR	_ <O>
+passwords	NNS	_ <O>
+in	IN	_ <O>
+these	DT	_ <O>
+cases	NNS	_ <O>
+(	-LRB-	_ <O>
+if	IN	_ <O>
+possible	JJ	_ <O>
+)	-RRB-	_ <O>
+can	MD	_ <O>
+<unk>	VB	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+limited	VBN	_ <O>
+<unk>	JJ	_ <O>
+character	NN	_ <O>
+set	NN	_ <O>
+.	.	_ <O>
+
+NULL

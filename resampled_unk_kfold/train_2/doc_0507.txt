@@ -1,0 +1,181 @@
+Phunk	NNP	_ <O>
+Junkeez	NNP	_ <O>
+concerts	NNS	_ <O>
+often	RB	_ <O>
+attracted	VBD	_ <O>
+the	DT	_ <O>
+attention	NN	_ <O>
+of	IN	_ <O>
+local	JJ	_ <O>
+police	NNS	_ <O>
+who	WP	_ <O>
+threatened	VBD	_ <O>
+to	TO	_ <O>
+throw	VB	_ <O>
+the	DT	_ <O>
+band	NN	_ <O>
+in	IN	_ <O>
+jail	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+were	VBD	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+bands	NNS	<I-CUE>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+band	NN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+90	CD	_ <O>
+'s	VBZ	_ <O>
+that	IN	_ <O>
+<unk>	VBN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+different	JJ	_ <O>
+styles	NNS	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+music	NN	_ <O>
+,	,	_ <O>
+from	IN	_ <O>
+<unk>	JJ	_ <O>
+punk	NN	_ <O>
+to	IN	_ <O>
+trip	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+band	NN	_ <O>
+grew	VBD	_ <O>
+large	JJ	_ <O>
+enough	RB	_ <O>
+to	TO	_ <O>
+start	VB	_ <O>
+playing	VBG	_ <O>
+legitimate	JJ	_ <O>
+venues	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+The	DT	_ <O>
+Electric	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Club	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+sometimes	RB	_ <O>
+selling	VBG	_ <O>
+out	RP	_ <O>
+multiple	JJ	_ <O>
+nights	NNS	_ <O>
+at	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+venues	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+were	VBD	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+bands	NNS	<I-CUE>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+band	NN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+90	CD	_ <O>
+'s	VBZ	_ <O>
+that	IN	_ <O>
+<unk>	VBN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+different	JJ	_ <O>
+styles	NNS	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+music	NN	_ <O>
+,	,	_ <O>
+from	IN	_ <O>
+<unk>	JJ	_ <O>
+punk	NN	_ <O>
+to	IN	_ <O>
+trip	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+band	NN	_ <O>
+grew	VBD	_ <O>
+large	JJ	_ <O>
+enough	RB	_ <O>
+to	TO	_ <O>
+start	VB	_ <O>
+playing	VBG	_ <O>
+legitimate	JJ	_ <O>
+venues	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+The	DT	_ <O>
+Electric	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Club	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+sometimes	RB	_ <O>
+selling	VBG	_ <O>
+out	RP	_ <O>
+multiple	JJ	_ <O>
+nights	NNS	_ <O>
+at	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+venues	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

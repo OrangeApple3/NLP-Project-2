@@ -1,0 +1,174 @@
+NULL
+"	``	_ <O>
+The	DT	_ <O>
+best	JJS	_ <O>
+way	NN	_ <O>
+to	TO	_ <O>
+predict	VB	_ <O>
+the	DT	_ <O>
+future	NN	_ <O>
+is	VBZ	_ <O>
+to	TO	_ <O>
+create	VB	_ <O>
+it	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+From	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+reflection	NN	_ <O>
+will	MD	_ <O>
+come	VB	_ <O>
+even	RB	_ <O>
+more	RBR	_ <O>
+effective	JJ	_ <O>
+action	NN	_ <O>
+.	.	_ <O>
+”	NFP	_ <O>
+
+NULL
+“	``	_ <O>
+People	NNS	_ <O>
+who	WP	_ <O>
+do	VBP	_ <O>
+n't	RB	_ <O>
+take	VB	_ <O>
+risks	NNS	_ <O>
+generally	RB	<B-CUE>
+make	VB	_ <O>
+about	IN	_ <O>
+two	CD	_ <O>
+big	JJ	_ <O>
+mistakes	NNS	_ <O>
+a	DT	_ <O>
+year	NN	_ <O>
+.	.	_ <O>
+
+NULL
+People	NNS	_ <O>
+who	WP	_ <O>
+do	VBP	_ <O>
+take	VB	_ <O>
+risks	NNS	_ <O>
+generally	RB	<B-CUE>
+make	VB	_ <O>
+about	IN	_ <O>
+two	CD	_ <O>
+big	JJ	_ <O>
+mistakes	NNS	_ <O>
+a	DT	_ <O>
+year	NN	_ <O>
+.	.	_ <O>
+”	NFP	_ <O>
+
+NULL
+“	.	_ <O>
+The	DT	_ <O>
+most	RBS	_ <O>
+important	JJ	_ <O>
+thing	NN	_ <O>
+in	IN	_ <O>
+communication	NN	_ <O>
+is	VBZ	_ <O>
+hearing	VBG	_ <O>
+what	WP	_ <O>
+is	VBZ	_ <O>
+n't	RB	_ <O>
+said	VBN	_ <O>
+.	.	_ <O>
+”	NFP	_ <O>
+
+NULL
+“	.	_ <O>
+The	DT	_ <O>
+purpose	NN	_ <O>
+of	IN	_ <O>
+business	NN	_ <O>
+is	VBZ	_ <O>
+to	TO	_ <O>
+create	VB	_ <O>
+and	CC	_ <O>
+keep	VB	_ <O>
+a	DT	_ <O>
+customer	NN	_ <O>
+.	.	_ <O>
+”	NFP	_ <O>
+
+NULL
+“	``	_ <O>
+There	EX	_ <O>
+is	VBZ	_ <O>
+nothing	NN	_ <O>
+so	RB	_ <O>
+<unk>	JJ	_ <O>
+as	IN	_ <O>
+doing	VBG	_ <O>
+<unk>	RB	_ <O>
+that	IN	_ <O>
+which	WDT	_ <O>
+should	MD	_ <O>
+not	RB	_ <O>
+be	VB	_ <O>
+done	VBN	_ <O>
+at	IN	_ <O>
+all	RB	_ <O>
+.	.	_ <O>
+”	.	_ <O>
+
+NULL
+“	``	_ <O>
+When	WRB	_ <O>
+a	DT	_ <O>
+subject	NN	_ <O>
+becomes	VBZ	_ <O>
+totally	RB	_ <O>
+obsolete	JJ	_ <O>
+we	PRP	_ <O>
+make	VBP	_ <O>
+it	PRP	_ <O>
+a	DT	_ <O>
+required	VBN	_ <O>
+course	NN	_ <O>
+.	.	_ <O>
+”	NFP	_ <O>
+
+NULL
+"	``	_ <O>
+Rank	NN	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+<unk>	VB	_ <O>
+privilege	NN	_ <O>
+or	CC	_ <O>
+give	VB	_ <O>
+power	NN	_ <O>
+.	.	_ <O>
+
+NULL
+"	``	_ <O>
+
+NULL
+"	``	_ <O>
+Most	JJS	_ <O>
+of	IN	_ <O>
+what	WP	_ <O>
+we	PRP	_ <O>
+call	VBP	_ <O>
+management	NN	_ <O>
+consists	VBZ	_ <O>
+of	IN	_ <O>
+making	VBG	_ <O>
+it	PRP	_ <O>
+difficult	JJ	_ <O>
+for	IN	_ <O>
+people	NNS	_ <O>
+to	TO	_ <O>
+get	VB	_ <O>
+their	PRP$	_ <O>
+work	NN	_ <O>
+done	VBN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

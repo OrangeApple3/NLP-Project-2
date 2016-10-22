@@ -1,0 +1,84 @@
+NULL
+Trap	NN	_ <O>
+room	NN	_ <O>
+:	:	_ <O>
+A	DT	_ <O>
+large	JJ	_ <O>
+open	JJ	_ <O>
+space	NN	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+many	JJ	_ <O>
+large	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+trap	NN	_ <O>
+room	NN	_ <O>
+allows	VBZ	_ <O>
+the	DT	_ <O>
+stage	NN	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+,	,	_ <O>
+extra	JJ	_ <O>
+<unk>	JJ	_ <O>
+equipment	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+most	RBS	_ <O>
+importantly	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+placement	NN	_ <O>
+of	IN	_ <O>
+trap	NN	_ <O>
+<unk>	NNS	_ <O>
+onto	IN	_ <O>
+the	DT	_ <O>
+stage	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	RB	_ <O>
+the	DT	_ <O>
+name	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+often	RB	_ <O>
+<unk>	VBZ	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+storage	NN	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+also	RB	_ <O>
+used	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

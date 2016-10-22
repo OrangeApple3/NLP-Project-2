@@ -1,0 +1,137 @@
+In	IN	_ <O>
+plants	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+may	MD	_ <O>
+differentiate	VB	_ <O>
+into	IN	_ <O>
+several	JJ	_ <O>
+forms	NNS	_ <O>
+,	,	_ <O>
+depending	VBG	_ <O>
+upon	IN	_ <O>
+which	WDT	_ <O>
+function	NN	_ <O>
+they	PRP	_ <O>
+need	VBP	_ <O>
+to	TO	_ <O>
+play	VB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+cell	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	JJ	_ <O>
+plastids	NNS	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+<unk>	NNS	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+may	MD	_ <O>
+develop	VB	_ <O>
+into	IN	_ <O>
+any	DT	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+following	JJ	_ <O>
+plastids	NN	_ <O>
+:	:	_ <O>
+
+NULL
+<unk>	NNS	_ <O>
+:	:	_ <O>
+for	IN	_ <O>
+<unk>	NN	_ <O>
+;	:	_ <O>
+'	''	_ <O>
+see	VB	_ <O>
+also	RB	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+predecessors	NNS	_ <O>
+of	IN	_ <O>
+chloroplasts	NNS	_ <O>
+'	POS	_ <O>
+
+NULL
+<unk>	NNS	_ <O>
+:	:	_ <O>
+for	IN	_ <O>
+pigment	NN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+storage	NN	_ <O>
+
+NULL
+<unk>	NNS	_ <O>
+:	:	_ <O>
+for	IN	_ <O>
+<unk>	NN	_ <O>
+storage	NN	_ <O>
+
+NULL
+<unk>	NNS	_ <O>
+:	:	_ <O>
+for	IN	_ <O>
+<unk>	VBG	_ <O>
+fat	JJ	_ <O>
+
+NULL
+Each	DT	_ <O>
+<unk>	NN	_ <O>
+creates	VBZ	_ <O>
+multiple	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+circular	NN	_ <O>
+75	CD	_ <O>
+-	SYM	_ <O>
+250	CD	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBP	_ <O>
+.	.	_ <O>
+
+NULL
+Nuclear	JJ	_ <O>
+genes	NNS	_ <O>
+<unk>	VBP	_ <O>
+the	DT	_ <O>
+vast	JJ	_ <O>
+majority	NN	_ <O>
+of	IN	_ <O>
+plastid	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+expression	NN	_ <O>
+of	IN	_ <O>
+plastid	NN	_ <O>
+genes	NNS	_ <O>
+and	CC	_ <O>
+nuclear	JJ	_ <O>
+genes	NNS	_ <O>
+is	VBZ	_ <O>
+<unk>	RB	_ <O>
+co	JJ	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+to	TO	_ <O>
+allow	VB	_ <O>
+proper	JJ	_ <O>
+development	NN	_ <O>
+of	IN	_ <O>
+plastids	NNS	_ <O>
+in	IN	_ <O>
+relation	NN	_ <O>
+to	IN	_ <O>
+cell	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

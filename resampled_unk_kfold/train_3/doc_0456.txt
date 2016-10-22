@@ -1,0 +1,83 @@
+<unk>	NNP	_ <O>
+also	RB	_ <O>
+provides	VBZ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+lawn	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+<unk>	NN	_ <O>
+equipment	NN	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+sold	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+brand	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Sears	NNP	_ <O>
+also	RB	_ <O>
+carries	VBZ	_ <O>
+some	DT	<B-CUE>
+<unk>	NNP	<I-CUE>
+and	CC	<I-CUE>
+Husqvarna	NNP	<I-CUE>
+products	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Visit	VB	_ <O>
+to	TO	_ <O>
+view	VB	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+them	PRP	<I-CUE>
+,	,	_ <O>
+or	CC	_ <O>
+this	DT	_ <O>
+site	NN	_ <O>
+,	,	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+various	JJ	<B-CUE>
+examples	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Sears	NNP	_ <O>
+also	RB	_ <O>
+carries	VBZ	_ <O>
+some	DT	<B-CUE>
+<unk>	NNP	<I-CUE>
+and	CC	<I-CUE>
+Husqvarna	NNP	<I-CUE>
+products	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Visit	VB	_ <O>
+to	TO	_ <O>
+view	VB	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+them	PRP	<I-CUE>
+,	,	_ <O>
+or	CC	_ <O>
+this	DT	_ <O>
+site	NN	_ <O>
+,	,	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+various	JJ	<B-CUE>
+examples	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

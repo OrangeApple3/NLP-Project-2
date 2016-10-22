@@ -1,0 +1,34 @@
+NULL
+<unk>	RB	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+transcription	NN	_ <O>
+rates	NNS	_ <O>
+of	IN	_ <O>
+<unk>	CD	_ <O>
+-	SYM	_ <O>
+<unk>	CD	_ <O>
+%	NN	_ <O>
+are	VBP	<B-CUE>
+to	TO	<I-CUE>
+be	VB	<I-CUE>
+<unk>	RB	<I-CUE>
+expected	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL
+An	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NN	_ <O>
+can	MD	_ <O>
+<unk>	VB	_ <O>
+<unk>	CD	_ <O>
+-	SYM	_ <O>
+<unk>	CD	_ <O>
+%	NN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

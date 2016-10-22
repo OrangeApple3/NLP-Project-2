@@ -1,0 +1,80 @@
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+video	NN	_ <O>
+,	,	_ <O>
+several	JJ	_ <O>
+paper	NN	_ <O>
+<unk>	NNS	_ <O>
+fly	VBP	_ <O>
+over	IN	_ <O>
+New	NNP	_ <O>
+York	NNP	_ <O>
+City	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+appears	VBZ	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+<unk>	NN	_ <O>
+who	WP	_ <O>
+sells	VBZ	_ <O>
+<unk>	NNS	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+van	NN	_ <O>
+to	IN	_ <O>
+several	JJ	_ <O>
+other	JJ	_ <O>
+New	NNP	_ <O>
+<unk>	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+At	IN	_ <O>
+the	DT	_ <O>
+sound	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+quick	JJ	_ <O>
+shots	NNS	_ <O>
+of	IN	_ <O>
+street	NN	_ <O>
+signs	NNS	_ <O>
+,	,	_ <O>
+people	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+restaurant	NN	_ <O>
+signs	NNS	_ <O>
+appear	VBP	_ <O>
+.	.	_ <O>
+
+NULL
+She	PRP	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+seen	VBN	_ <O>
+wearing	VBG	_ <O>
+a	DT	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+Ride	NNP	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+several	JJ	_ <O>
+parts	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+music	NN	_ <O>
+video	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,86 @@
+History	NN	_ <O>
+
+NULL
+Aboriginal	JJ	_ <O>
+people	NNS	_ <O>
+were	VBD	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+to	TO	_ <O>
+live	VB	_ <O>
+at	IN	_ <O>
+Phillip	NNP	_ <O>
+Bay	NNP	_ <O>
+and	CC	_ <O>
+La	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Their	PRP$	_ <O>
+presence	NN	_ <O>
+was	VBD	_ <O>
+recorded	VBN	_ <O>
+by	IN	_ <O>
+Arthur	NNP	_ <O>
+Phillip	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+French	JJ	_ <O>
+expedition	NN	_ <O>
+led	VBN	_ <O>
+by	IN	_ <O>
+Jean	NNP	_ <O>
+de	NNP	_ <O>
+La	NNP	_ <O>
+<unk>	NNP	_ <O>
+who	WP	_ <O>
+arrived	VBD	_ <O>
+within	IN	_ <O>
+six	CD	_ <O>
+days	NNS	_ <O>
+of	IN	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+in	IN	_ <O>
+January	NNP	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+settlement	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+run	VBN	_ <O>
+by	IN	_ <O>
+a	DT	<B-CUE>
+variety	NN	<I-CUE>
+of	IN	<I-CUE>
+church	NN	<I-CUE>
+and	CC	<I-CUE>
+welfare	NN	<I-CUE>
+groups	NNS	<I-CUE>
+over	IN	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+settlement	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+run	VBN	_ <O>
+by	IN	_ <O>
+a	DT	<B-CUE>
+variety	NN	<I-CUE>
+of	IN	<I-CUE>
+church	NN	<I-CUE>
+and	CC	<I-CUE>
+welfare	NN	<I-CUE>
+groups	NNS	<I-CUE>
+over	IN	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL

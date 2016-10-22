@@ -1,0 +1,165 @@
+He	PRP	_ <O>
+won	VBD	_ <O>
+the	DT	_ <O>
+Gold	NNP	_ <O>
+Medal	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+Bombay	NNP	_ <O>
+Art	NNP	_ <O>
+Society	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+year	NN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+travelled	VBD	_ <O>
+a	DT	_ <O>
+lot	NN	_ <O>
+through	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+various	JJ	_ <O>
+royal	JJ	_ <O>
+families	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+paintings	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+acquired	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+South	NNP	_ <O>
+<unk>	NNP	_ <O>
+Museum	NNP	_ <O>
+(	-LRB-	_ <O>
+now	RB	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+Museum	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Few	JJ	_ <O>
+also	RB	_ <O>
+exist	VBP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Maharashtra	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Rajasthan	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Royal	NNP	_ <O>
+Palace	NNP	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+paintings	NNS	_ <O>
+are	VBP	_ <O>
+much	RB	_ <O>
+<unk>	VBN	_ <O>
+after	IN	_ <O>
+and	CC	_ <O>
+have	VBP	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+various	JJ	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+recent	JJ	_ <O>
+years	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Muller	NNP	_ <O>
+went	VBD	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+now	RB	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+considered	VBN	<B-CUE>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Art	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Muller	NNP	_ <O>
+went	VBD	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+now	RB	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+considered	VBN	<B-CUE>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Art	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

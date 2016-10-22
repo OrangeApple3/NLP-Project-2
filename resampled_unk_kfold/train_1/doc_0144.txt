@@ -1,0 +1,150 @@
+NULL
+One	CD	_ <O>
+of	IN	_ <O>
+them	PRP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+who	WP	_ <O>
+<unk>	VBZ	_ <O>
+that	IN	_ <O>
+people	NNS	_ <O>
+are	VBP	_ <O>
+<unk>	RB	_ <O>
+all	RB	_ <O>
+over	RB	_ <O>
+,	,	_ <O>
+even	RB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+Red	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+People	NNS	_ <O>
+'	``	_ <O>
+are	VBP	_ <O>
+'	''	_ <O>
+alike	RB	_ <O>
+....	NFP	_ <O>
+people	NNS	_ <O>
+are	VBP	_ <O>
+alike	JJ	_ <O>
+<unk>	RB	_ <O>
+<unk>	.	_ <O>
+"	''	_ <O>
+
+NULL
+<unk>	VBG	_ <O>
+some	DT	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NN	<I-CUE>
+,	,	_ <O>
+he	PRP	_ <O>
+<unk>	VBZ	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+turning	VBG	_ <O>
+to	IN	_ <O>
+<unk>	NN	_ <O>
+when	WRB	_ <O>
+,	,	_ <O>
+upon	IN	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+<unk>	VBZ	_ <O>
+<unk>	NNPS	_ <O>
+that	IN	_ <O>
+<unk>	RB	_ <O>
+appear	VB	_ <O>
+human	NN	_ <O>
+,	,	_ <O>
+have	VBP	_ <O>
+<unk>	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+being	VBG	_ <O>
+most	RBS	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+<unk>	VBZ	_ <O>
+and	CC	_ <O>
+<unk>	VBZ	_ <O>
+him	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	VBG	_ <O>
+some	DT	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NN	<I-CUE>
+,	,	_ <O>
+he	PRP	_ <O>
+<unk>	VBZ	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+turning	VBG	_ <O>
+to	IN	_ <O>
+<unk>	NN	_ <O>
+when	WRB	_ <O>
+,	,	_ <O>
+upon	IN	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+<unk>	VBZ	_ <O>
+<unk>	NNPS	_ <O>
+that	IN	_ <O>
+<unk>	RB	_ <O>
+appear	VB	_ <O>
+human	NN	_ <O>
+,	,	_ <O>
+have	VBP	_ <O>
+<unk>	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+being	VBG	_ <O>
+most	RBS	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+<unk>	VBZ	_ <O>
+and	CC	_ <O>
+<unk>	VBZ	_ <O>
+him	PRP	_ <O>
+.	.	_ <O>
+
+NULL

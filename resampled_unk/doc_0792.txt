@@ -1,0 +1,30 @@
+NULL
+Human	NN	_ <O>
+trafficking	NN	_ <O>
+differs	VBZ	_ <O>
+from	IN	_ <O>
+people	NNS	_ <O>
+<unk>	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+Trafficking	NN	_ <O>
+involves	VBZ	_ <O>
+a	DT	_ <O>
+process	NN	_ <O>
+of	IN	_ <O>
+using	VBG	_ <O>
+physical	JJ	_ <O>
+force	NN	_ <O>
+,	,	_ <O>
+fraud	NN	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+obtain	VB	_ <O>
+and	CC	_ <O>
+transport	VB	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,106 @@
+NULL
+Several	JJ	_ <O>
+religions	NNS	_ <O>
+that	WDT	_ <O>
+are	VBP	_ <O>
+classified	VBN	_ <O>
+as	IN	_ <O>
+<unk>	NN	_ <O>
+religions	NNS	_ <O>
+have	VBP	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+relatively	RB	_ <O>
+serious	JJ	_ <O>
+followers	NNS	_ <O>
+who	WP	_ <O>
+<unk>	VBP	_ <O>
+the	DT	_ <O>
+perceived	VBN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+religions	NNS	_ <O>
+as	IN	_ <O>
+<unk>	RB	_ <O>
+significant	JJ	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	RB	_ <O>
+post	NN	_ <O>
+-	HYPH	_ <O>
+modern	JJ	_ <O>
+approach	NN	_ <O>
+to	IN	_ <O>
+religion	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	<B-CUE>
+most	RBS	<I-CUE>
+notable	JJ	<I-CUE>
+of	IN	_ <O>
+these	DT	_ <O>
+religions	NNS	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+With	IN	_ <O>
+Discordianism	NNP	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+may	MD	<I-CUE>
+be	VB	<I-CUE>
+hard	JJ	<I-CUE>
+to	TO	<I-CUE>
+tell	VB	<I-CUE>
+if	IN	_ <O>
+even	RB	_ <O>
+these	DT	_ <O>
+"	``	_ <O>
+serious	JJ	_ <O>
+"	''	_ <O>
+followers	NNS	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+just	RB	_ <O>
+taking	VBG	_ <O>
+part	NN	_ <O>
+in	IN	_ <O>
+an	DT	_ <O>
+even	RB	_ <O>
+<unk>	JJR	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+joke	NN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+turn	NN	_ <O>
+,	,	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+greater	JJR	_ <O>
+path	NN	_ <O>
+to	IN	_ <O>
+enlightenment	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+so	RB	_ <O>
+on	IN	_ <O>
+'	``	_ <O>
+ad	NN	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL

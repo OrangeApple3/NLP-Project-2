@@ -1,0 +1,77 @@
+NULL
+As	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+smaller	JJR	_ <O>
+Oxford	NNP	_ <O>
+Colleges	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+reputation	NN	<B-CUE>
+for	IN	_ <O>
+having	VBG	_ <O>
+a	DT	_ <O>
+close	RB	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+student	NN	_ <O>
+body	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Common	NNP	_ <O>
+Rooms	NNS	_ <O>
+that	WDT	_ <O>
+are	VBP	<B-CUE>
+noted	VBN	<I-CUE>
+for	IN	_ <O>
+their	PRP$	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+new	JJ	_ <O>
+students	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+smaller	JJR	_ <O>
+Oxford	NNP	_ <O>
+Colleges	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+reputation	NN	<B-CUE>
+for	IN	_ <O>
+having	VBG	_ <O>
+a	DT	_ <O>
+close	RB	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+student	NN	_ <O>
+body	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Common	NNP	_ <O>
+Rooms	NNS	_ <O>
+that	WDT	_ <O>
+are	VBP	<B-CUE>
+noted	VBN	<I-CUE>
+for	IN	_ <O>
+their	PRP$	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+new	JJ	_ <O>
+students	NNS	_ <O>
+.	.	_ <O>
+
+NULL

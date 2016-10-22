@@ -1,0 +1,104 @@
+NULL
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	VBN	_ <O>
+into	IN	_ <O>
+four	CD	_ <O>
+groups	NNS	_ <O>
+;	:	_ <O>
+<unk>	XX	_ <O>
+:	:	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+either	CC	_ <O>
+<unk>	NNS	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+with	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Athletes	NNS	_ <O>
+may	MD	_ <O>
+<unk>	VB	_ <O>
+with	IN	_ <O>
+an	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+:	:	_ <O>
+For	IN	_ <O>
+<unk>	VBG	_ <O>
+players	NNS	_ <O>
+(	-LRB-	_ <O>
+with	IN	_ <O>
+cerebral	JJ	_ <O>
+palsy	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Players	NNS	_ <O>
+may	MD	_ <O>
+not	RB	_ <O>
+have	VB	_ <O>
+an	DT	_ <O>
+<unk>	NN	_ <O>
+:	:	_ <O>
+Athletes	NNS	_ <O>
+(	-LRB-	_ <O>
+with	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+who	WP	_ <O>
+use	VBP	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+device	NN	_ <O>
+and	CC	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+assisted	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+person	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+this	DT	_ <O>
+assistant	NN	_ <O>
+must	MD	_ <O>
+<unk>	VB	_ <O>
+their	PRP$	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+court	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+:	:	_ <O>
+For	IN	_ <O>
+throwing	VBG	_ <O>
+players	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Players	NNS	_ <O>
+may	MD	_ <O>
+not	RB	_ <O>
+have	VB	_ <O>
+an	DT	_ <O>
+assistant	NN	_ <O>
+(	-LRB-	_ <O>
+Non	NNP	_ <O>
+cerebral	JJ	_ <O>
+palsy	NN	_ <O>
+)	-RRB-	_ <O>
+
+NULL

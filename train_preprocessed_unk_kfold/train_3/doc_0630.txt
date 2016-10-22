@@ -1,0 +1,93 @@
+NULL
+The	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+attacks	NNS	_ <O>
+averages	NNS	_ <O>
+3	CD	_ <O>
+-	SYM	_ <O>
+7	CD	_ <O>
+days	NNS	_ <O>
+but	CC	_ <O>
+may	MD	_ <O>
+last	VB	_ <O>
+2	CD	_ <O>
+-	SYM	_ <O>
+3	CD	_ <O>
+weeks	NNS	_ <O>
+in	IN	_ <O>
+some	DT	_ <O>
+individuals	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+spectrum	NN	_ <O>
+<unk>	VBZ	_ <O>
+from	IN	_ <O>
+mild	JJ	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+attacks	NNS	_ <O>
+to	TO	_ <O>
+episodes	NNS	_ <O>
+so	RB	_ <O>
+<unk>	JJ	_ <O>
+that	IN	_ <O>
+they	PRP	_ <O>
+prevent	VBP	_ <O>
+regular	JJ	_ <O>
+school	NN	_ <O>
+attendance	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Local	JJ	_ <O>
+heat	NN	_ <O>
+applied	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+gland	NN	_ <O>
+from	IN	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+front	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+taking	VBG	_ <O>
+<unk>	NN	_ <O>
+usually	RB	_ <O>
+<unk>	VB	_ <O>
+individual	JJ	_ <O>
+episodes	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Treatment	NN	_ <O>
+of	IN	_ <O>
+individual	JJ	_ <O>
+infections	NNS	_ <O>
+may	MD	_ <O>
+prevent	VB	_ <O>
+injury	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+gland	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Severe	JJ	_ <O>
+disease	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+treated	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

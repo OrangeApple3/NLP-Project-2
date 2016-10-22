@@ -1,0 +1,93 @@
+NULL
+The	DT	_ <O>
+other	JJ	_ <O>
+characters	NNS	_ <O>
+<unk>	VBP	_ <O>
+,	,	_ <O>
+<unk>	RB	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+Joan	NNP	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+Alfred	NNP	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+are	VBP	_ <O>
+in	IN	_ <O>
+love	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+this	DT	_ <O>
+song	NN	_ <O>
+they	PRP	_ <O>
+<unk>	VBP	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+not	RB	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	RB	_ <O>
+,	,	_ <O>
+<unk>	JJS	_ <O>
+people	NNS	_ <O>
+<unk>	VBP	_ <O>
+their	PRP$	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Neither	DT	_ <O>
+wants	VBZ	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+-	HYPH	_ <O>
+or	CC	_ <O>
+themselves	PRP	_ <O>
+-	:	_ <O>
+his	PRP$	_ <O>
+or	CC	_ <O>
+her	PRP$	_ <O>
+true	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+At	IN	_ <O>
+the	DT	_ <O>
+end	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+musical	JJ	_ <O>
+the	DT	_ <O>
+characters	NNS	_ <O>
+<unk>	VBP	_ <O>
+the	DT	_ <O>
+number	NN	_ <O>
+after	IN	_ <O>
+<unk>	VBG	_ <O>
+engaged	VBD	_ <O>
+,	,	_ <O>
+saying	VBG	_ <O>
+"	``	_ <O>
+<unk>	VB	_ <O>
+people	NNS	_ <O>
+say	VB	_ <O>
+we	PRP	_ <O>
+'re	VBP	_ <O>
+in	IN	_ <O>
+love	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

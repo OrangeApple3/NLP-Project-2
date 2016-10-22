@@ -1,0 +1,278 @@
+Whatever	WDT	_ <O>
+the	DT	_ <O>
+mechanism	NN	_ <O>
+is	VBZ	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+specificity	NN	_ <O>
+is	VBZ	_ <O>
+possible	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Although	IN	_ <O>
+some	DT	<B-CUE>
+lipid	NN	<I-CUE>
+-	HYPH	<I-CUE>
+binding	VBG	<I-CUE>
+proteins	NNS	<I-CUE>
+are	VBP	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+insert	VB	_ <O>
+themselves	PRP	_ <O>
+into	IN	_ <O>
+membranes	NNS	_ <O>
+and	CC	_ <O>
+could	MD	_ <O>
+<unk>	RB	<B-CUE>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+type	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+chain	NN	_ <O>
+or	CC	_ <O>
+the	DT	_ <O>
+resulting	VBG	_ <O>
+properties	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+membrane	NN	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+lipid	NN	<I-CUE>
+-	HYPH	<I-CUE>
+binding	VBG	<I-CUE>
+proteins	NNS	<I-CUE>
+are	VBP	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+membrane	NN	_ <O>
+by	IN	_ <O>
+binding	VBG	_ <O>
+only	RB	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+case	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+suggests	VBZ	<B-CUE>
+that	IN	_ <O>
+a	DT	_ <O>
+PA	NNP	_ <O>
+-	HYPH	_ <O>
+binding	VBG	_ <O>
+domain	NN	_ <O>
+must	MD	_ <O>
+not	RB	_ <O>
+only	RB	_ <O>
+be	VB	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+bind	VB	_ <O>
+PA	NNP	_ <O>
+specifically	RB	_ <O>
+but	CC	_ <O>
+must	MD	_ <O>
+also	RB	_ <O>
+be	VB	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+identify	VB	_ <O>
+those	DT	_ <O>
+head	NN	_ <O>
+-	HYPH	_ <O>
+groups	NNS	_ <O>
+that	WDT	_ <O>
+are	VBP	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+correct	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Thus	RB	_ <O>
+it	PRP	<B-CUE>
+seems	VBZ	<I-CUE>
+that	IN	_ <O>
+,	,	_ <O>
+though	IN	_ <O>
+PA	NN	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+are	VBP	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+different	JJ	_ <O>
+species	NNS	_ <O>
+of	IN	_ <O>
+lipid	NN	_ <O>
+can	MD	_ <O>
+have	VB	_ <O>
+different	JJ	_ <O>
+biological	JJ	_ <O>
+activities	NNS	_ <O>
+;	:	_ <O>
+and	CC	_ <O>
+this	DT	_ <O>
+may	MD	<B-CUE>
+enable	VB	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+lipids	NNS	_ <O>
+to	TO	_ <O>
+maintain	VB	_ <O>
+separate	JJ	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Although	IN	_ <O>
+some	DT	<B-CUE>
+lipid	NN	<I-CUE>
+-	HYPH	<I-CUE>
+binding	VBG	<I-CUE>
+proteins	NNS	<I-CUE>
+are	VBP	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+insert	VB	_ <O>
+themselves	PRP	_ <O>
+into	IN	_ <O>
+membranes	NNS	_ <O>
+and	CC	_ <O>
+could	MD	_ <O>
+<unk>	RB	<B-CUE>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+type	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+chain	NN	_ <O>
+or	CC	_ <O>
+the	DT	_ <O>
+resulting	VBG	_ <O>
+properties	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+membrane	NN	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+lipid	NN	<I-CUE>
+-	HYPH	<I-CUE>
+binding	VBG	<I-CUE>
+proteins	NNS	<I-CUE>
+are	VBP	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+membrane	NN	_ <O>
+by	IN	_ <O>
+binding	VBG	_ <O>
+only	RB	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+case	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+suggests	VBZ	<B-CUE>
+that	IN	_ <O>
+a	DT	_ <O>
+PA	NNP	_ <O>
+-	HYPH	_ <O>
+binding	VBG	_ <O>
+domain	NN	_ <O>
+must	MD	_ <O>
+not	RB	_ <O>
+only	RB	_ <O>
+be	VB	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+bind	VB	_ <O>
+PA	NNP	_ <O>
+specifically	RB	_ <O>
+but	CC	_ <O>
+must	MD	_ <O>
+also	RB	_ <O>
+be	VB	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+identify	VB	_ <O>
+those	DT	_ <O>
+head	NN	_ <O>
+-	HYPH	_ <O>
+groups	NNS	_ <O>
+that	WDT	_ <O>
+are	VBP	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+correct	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Thus	RB	_ <O>
+it	PRP	<B-CUE>
+seems	VBZ	<I-CUE>
+that	IN	_ <O>
+,	,	_ <O>
+though	IN	_ <O>
+PA	NN	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+are	VBP	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+different	JJ	_ <O>
+species	NNS	_ <O>
+of	IN	_ <O>
+lipid	NN	_ <O>
+can	MD	_ <O>
+have	VB	_ <O>
+different	JJ	_ <O>
+biological	JJ	_ <O>
+activities	NNS	_ <O>
+;	:	_ <O>
+and	CC	_ <O>
+this	DT	_ <O>
+may	MD	<B-CUE>
+enable	VB	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+lipids	NNS	_ <O>
+to	TO	_ <O>
+maintain	VB	_ <O>
+separate	JJ	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

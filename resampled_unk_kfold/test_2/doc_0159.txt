@@ -1,0 +1,23 @@
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNPS	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Civil	NNP	_ <O>
+Air	NNP	_ <O>
+Patrol	NNP	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+based	VBN	_ <O>
+in	IN	_ <O>
+Stratford	NNP	_ <O>
+,	,	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Airport	NNP	_ <O>
+
+NULL

@@ -1,0 +1,38 @@
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	JJ	_ <O>
+Commander	NNP	_ <O>
+<unk>	NNP	_ <O>
+as	IN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+Rasher	NN	_ <O>
+'s	POS	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+was	VBD	_ <O>
+spent	VBN	_ <O>
+<unk>	RB	_ <O>
+with	IN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+South	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

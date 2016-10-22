@@ -1,0 +1,209 @@
+NULL
+Since	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+various	JJ	<B-CUE>
+people	NNS	<I-CUE>
+of	IN	<I-CUE>
+different	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+and	CC	<I-CUE>
+<unk>	NNS	<I-CUE>
+have	VBP	_ <O>
+claimed	VBN	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+active	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+itself	PRP	_ <O>
+in	IN	_ <O>
+Western	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	JJ	_ <O>
+to	IN	_ <O>
+popular	JJ	<B-CUE>
+<unk>	NN	<I-CUE>
+,	,	_ <O>
+<unk>	DT	_ <O>
+<unk>	VBG	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+censorship	NN	_ <O>
+"	''	_ <O>
+of	IN	_ <O>
+Christmas	NNP	_ <O>
+include	VBP	_ <O>
+not	RB	_ <O>
+only	RB	_ <O>
+<unk>	NNPS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNPS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NNPS	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+people	NNS	<I-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+effort	NN	_ <O>
+to	TO	_ <O>
+remove	VB	_ <O>
+any	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Christmas	NNP	_ <O>
+in	IN	_ <O>
+public	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+government	NN	_ <O>
+,	,	_ <O>
+public	JJ	_ <O>
+schools	NNS	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+in	IN	_ <O>
+general	JJ	_ <O>
+conversation	NN	_ <O>
+with	IN	_ <O>
+<unk>	NNS	_ <O>
+at	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+also	RB	_ <O>
+claim	VBP	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+perceived	VBN	_ <O>
+censorship	NN	_ <O>
+also	RB	_ <O>
+<unk>	VBZ	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+Good	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+sometimes	RB	_ <O>
+used	VBN	_ <O>
+to	TO	_ <O>
+avoid	VB	_ <O>
+<unk>	VBG	_ <O>
+these	DT	_ <O>
+<unk>	NNS	_ <O>
+by	IN	_ <O>
+name	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+Government	NNP	_ <O>
+<unk>	VBZ	_ <O>
+Christmas	NNP	_ <O>
+Day	NNP	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+only	JJ	_ <O>
+federal	JJ	_ <O>
+holiday	NN	_ <O>
+held	VBN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+2001	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+US	NNP	_ <O>
+Supreme	NNP	_ <O>
+Court	NNP	_ <O>
+declined	VBD	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	IN	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+,	,	_ <O>
+thus	RB	_ <O>
+<unk>	VBG	_ <O>
+a	DT	_ <O>
+<unk>	JJR	_ <O>
+-	HYPH	_ <O>
+court	NN	_ <O>
+<unk>	NN	_ <O>
+that	IN	_ <O>
+<unk>	VBG	_ <O>
+a	DT	_ <O>
+day	NN	_ <O>
+off	RB	_ <O>
+on	IN	_ <O>
+that	DT	_ <O>
+day	NN	_ <O>
+<unk>	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	JJ	_ <O>
+interest	NN	_ <O>
+.	.	_ <O>
+
+NULL

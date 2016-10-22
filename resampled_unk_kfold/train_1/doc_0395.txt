@@ -1,0 +1,47 @@
+The	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+made	VBN	_ <O>
+on	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+pattern	NN	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+seen	VBN	_ <O>
+throughout	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Red	JJ	_ <O>
+spots	NNS	_ <O>
+may	MD	<B-CUE>
+or	CC	_ <O>
+may	MD	<B-CUE>
+not	RB	_ <O>
+be	VB	_ <O>
+present	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Red	JJ	_ <O>
+spots	NNS	_ <O>
+may	MD	<B-CUE>
+or	CC	_ <O>
+may	MD	<B-CUE>
+not	RB	_ <O>
+be	VB	_ <O>
+present	JJ	_ <O>
+.	.	_ <O>
+
+NULL

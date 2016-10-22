@@ -1,0 +1,25 @@
+NULL
+The	DT	_ <O>
+village	NN	_ <O>
+scenes	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+on	IN	_ <O>
+-	HYPH	_ <O>
+the	DT	_ <O>
+-	HYPH	_ <O>
+Marsh	NNP	_ <O>
+were	VBD	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+village	NN	_ <O>
+of	IN	_ <O>
+Castle	NNP	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+Wiltshire	NNP	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,106 @@
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+a	DT	_ <O>
+famous	JJ	_ <O>
+Persian	NNP	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+<unk>	NNS	<I-CUE>
+have	VBP	<B-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBN	_ <O>
+later	JJ	_ <O>
+developments	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+East	NNP	_ <O>
+and	CC	_ <O>
+Europe	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+work	NN	_ <O>
+was	VBD	_ <O>
+perhaps	RB	<B-CUE>
+known	VBN	_ <O>
+to	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+as	RB	_ <O>
+<unk>	RB	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+written	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+influenced	VBD	_ <O>
+their	PRP$	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+<unk>	NNS	<I-CUE>
+have	VBP	<B-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBN	_ <O>
+later	JJ	_ <O>
+developments	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+East	NNP	_ <O>
+and	CC	_ <O>
+Europe	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+work	NN	_ <O>
+was	VBD	_ <O>
+perhaps	RB	<B-CUE>
+known	VBN	_ <O>
+to	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+as	RB	_ <O>
+<unk>	RB	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+written	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+influenced	VBD	_ <O>
+their	PRP$	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,76 @@
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+are	VBP	_ <O>
+generally	RB	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+most	RBS	_ <O>
+often	RB	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+clear	JJ	_ <O>
+<unk>	NNS	_ <O>
+with	IN	_ <O>
+rocky	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+found	VBN	_ <O>
+under	IN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+also	RB	_ <O>
+in	RB	_ <O>
+<unk>	JJ	_ <O>
+<unk>	JJ	_ <O>
+organic	JJ	_ <O>
+matter	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+where	WRB	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+found	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NN	_ <O>
+are	VBP	<B-CUE>
+generally	RB	<I-CUE>
+considered	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	NNS	_ <O>
+as	IN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+seen	VBN	_ <O>
+by	IN	_ <O>
+their	PRP$	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

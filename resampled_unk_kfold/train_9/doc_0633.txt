@@ -1,0 +1,72 @@
+NULL
+Perfume	NN	_ <O>
+oils	NNS	_ <O>
+usually	RB	_ <O>
+contain	VBP	_ <O>
+<unk>	NNS	_ <O>
+to	IN	_ <O>
+hundreds	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+these	DT	_ <O>
+are	VBP	_ <O>
+typically	RB	_ <O>
+organized	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+perfume	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+specific	JJ	_ <O>
+role	NN	_ <O>
+they	PRP	_ <O>
+will	MD	_ <O>
+play	VB	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+Primary	JJ	_ <O>
+<unk>	NNS	_ <O>
+'	''	_ <O>
+:	:	_ <O>
+can	MD	_ <O>
+consist	VB	_ <O>
+of	IN	_ <O>
+one	CD	_ <O>
+or	CC	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+main	JJ	_ <O>
+ingredients	NNS	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+certain	JJ	_ <O>
+concept	NN	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+rose	VBD	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+instance	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+rose	VBD	_ <O>
+scents	NNS	_ <O>
+are	VBP	_ <O>
+commonly	RB	_ <O>
+<unk>	VBZ	_ <O>
+for	IN	_ <O>
+abstract	JJ	_ <O>
+floral	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

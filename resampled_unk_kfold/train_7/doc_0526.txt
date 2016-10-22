@@ -1,0 +1,74 @@
+An	DT	_ <O>
+oil	NN	_ <O>
+well	NN	_ <O>
+in	IN	_ <O>
+Canada	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Peak	NNP	_ <O>
+<unk>	NNP	_ <O>
+showing	VBG	_ <O>
+oil	NN	_ <O>
+production	NN	_ <O>
+has	VBZ	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+countries	NNS	_ <O>
+
+NULL
+'	``	_ <O>
+Oil	NN	_ <O>
+reserves	NNS	_ <O>
+'	POS	_ <O>
+refer	VB	_ <O>
+to	IN	_ <O>
+portions	NNS	_ <O>
+of	IN	_ <O>
+oil	NN	_ <O>
+in	IN	_ <O>
+place	NN	_ <O>
+that	WDT	_ <O>
+are	VBP	<B-CUE>
+claimed	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	JJ	_ <O>
+under	IN	_ <O>
+current	JJ	_ <O>
+economic	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+Oil	NN	_ <O>
+reserves	NNS	_ <O>
+'	POS	_ <O>
+refer	VB	_ <O>
+to	IN	_ <O>
+portions	NNS	_ <O>
+of	IN	_ <O>
+oil	NN	_ <O>
+in	IN	_ <O>
+place	NN	_ <O>
+that	WDT	_ <O>
+are	VBP	<B-CUE>
+claimed	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	JJ	_ <O>
+under	IN	_ <O>
+current	JJ	_ <O>
+economic	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

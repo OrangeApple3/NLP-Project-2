@@ -1,0 +1,137 @@
+NULL
+Though	IN	_ <O>
+various	JJ	<B-CUE>
+dates	NNS	<I-CUE>
+for	IN	_ <O>
+his	PRP$	_ <O>
+emigration	NN	_ <O>
+have	VBP	<B-CUE>
+been	VBN	<I-CUE>
+suggested	VBN	<I-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+record	NN	_ <O>
+of	IN	_ <O>
+Peter	NNP	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+activities	NNS	_ <O>
+at	IN	_ <O>
+Boston	NNP	_ <O>
+is	VBZ	_ <O>
+well	RB	_ <O>
+established	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Portraits	NNS	_ <O>
+of	IN	_ <O>
+several	JJ	<B-CUE>
+other	JJ	<I-CUE>
+New	NNP	<I-CUE>
+England	NNP	<I-CUE>
+<unk>	NNS	<I-CUE>
+followed	VBD	_ <O>
+.	.	_ <O>
+
+NULL
+Pelham	NNP	_ <O>
+was	VBD	_ <O>
+seemingly	RB	<B-CUE>
+<unk>	JJ	_ <O>
+with	IN	_ <O>
+John	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+settled	VBD	_ <O>
+in	IN	_ <O>
+Boston	NNP	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+he	PRP	_ <O>
+painted	VBD	_ <O>
+Smibert	NNP	_ <O>
+'s	POS	_ <O>
+portrait	NN	_ <O>
+and	CC	_ <O>
+made	VBD	_ <O>
+several	JJ	_ <O>
+engravings	NNS	_ <O>
+after	IN	_ <O>
+Smibert	NNP	_ <O>
+'s	POS	_ <O>
+works	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Though	IN	_ <O>
+various	JJ	<B-CUE>
+dates	NNS	<I-CUE>
+for	IN	_ <O>
+his	PRP$	_ <O>
+emigration	NN	_ <O>
+have	VBP	<B-CUE>
+been	VBN	<I-CUE>
+suggested	VBN	<I-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+record	NN	_ <O>
+of	IN	_ <O>
+Peter	NNP	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+activities	NNS	_ <O>
+at	IN	_ <O>
+Boston	NNP	_ <O>
+is	VBZ	_ <O>
+well	RB	_ <O>
+established	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Portraits	NNS	_ <O>
+of	IN	_ <O>
+several	JJ	<B-CUE>
+other	JJ	<I-CUE>
+New	NNP	<I-CUE>
+England	NNP	<I-CUE>
+<unk>	NNS	<I-CUE>
+followed	VBD	_ <O>
+.	.	_ <O>
+
+NULL
+Pelham	NNP	_ <O>
+was	VBD	_ <O>
+seemingly	RB	<B-CUE>
+<unk>	JJ	_ <O>
+with	IN	_ <O>
+John	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+settled	VBD	_ <O>
+in	IN	_ <O>
+Boston	NNP	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+he	PRP	_ <O>
+painted	VBD	_ <O>
+Smibert	NNP	_ <O>
+'s	POS	_ <O>
+portrait	NN	_ <O>
+and	CC	_ <O>
+made	VBD	_ <O>
+several	JJ	_ <O>
+engravings	NNS	_ <O>
+after	IN	_ <O>
+Smibert	NNP	_ <O>
+'s	POS	_ <O>
+works	NNS	_ <O>
+.	.	_ <O>
+
+NULL

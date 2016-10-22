@@ -1,0 +1,20 @@
+Standards	NNS	_ <O>
+for	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+are	VBP	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+Library	NNP	_ <O>
+of	IN	_ <O>
+Congress	NNP	_ <O>
+.	.	_ <O>
+
+NULL

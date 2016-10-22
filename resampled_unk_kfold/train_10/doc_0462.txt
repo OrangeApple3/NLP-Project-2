@@ -1,0 +1,139 @@
+NULL
+The	DT	_ <O>
+'	``	_ <O>
+covered	JJ	_ <O>
+bridges	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+County	NNP	_ <O>
+'	''	_ <O>
+are	VBP	_ <O>
+well	RB	_ <O>
+-	HYPH	_ <O>
+known	VBN	_ <O>
+tourist	NN	_ <O>
+attractions	NNS	_ <O>
+in	IN	_ <O>
+Parke	NNP	_ <O>
+County	NNP	_ <O>
+,	,	_ <O>
+Indiana	NNP	_ <O>
+,	,	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+<unk>	VBZ	_ <O>
+itself	PRP	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+Covered	NNP	_ <O>
+Bridge	NNP	_ <O>
+Capital	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+World	NNP	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+county	NN	_ <O>
+has	VBZ	_ <O>
+more	JJR	_ <O>
+covered	JJ	_ <O>
+bridges	NNS	_ <O>
+than	IN	_ <O>
+any	DT	_ <O>
+other	JJ	_ <O>
+county	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL
+Daniels	NNP	_ <O>
+and	CC	_ <O>
+Britton	NNP	_ <O>
+built	VBD	_ <O>
+numerous	JJ	_ <O>
+bridges	NNS	_ <O>
+,	,	_ <O>
+<unk>	CD	_ <O>
+in	IN	_ <O>
+Indiana	NNP	_ <O>
+between	IN	_ <O>
+them	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+several	JJ	<B-CUE>
+reasons	NNS	<I-CUE>
+,	,	_ <O>
+mainly	RB	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+numerous	JJ	_ <O>
+streams	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+county	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+having	VBG	_ <O>
+the	DT	_ <O>
+natural	JJ	_ <O>
+resources	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+to	TO	_ <O>
+build	VB	_ <O>
+the	DT	_ <O>
+bridges	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+several	JJ	<B-CUE>
+reasons	NNS	<I-CUE>
+,	,	_ <O>
+mainly	RB	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+numerous	JJ	_ <O>
+streams	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+county	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+having	VBG	_ <O>
+the	DT	_ <O>
+natural	JJ	_ <O>
+resources	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+to	TO	_ <O>
+build	VB	_ <O>
+the	DT	_ <O>
+bridges	NNS	_ <O>
+.	.	_ <O>
+
+NULL

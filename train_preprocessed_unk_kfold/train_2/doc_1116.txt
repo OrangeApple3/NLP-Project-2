@@ -1,0 +1,128 @@
+NULL
+<unk>	NNP	_ <O>
+Stirner	NNP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+philosopher	NN	_ <O>
+whose	WP$	_ <O>
+"	``	_ <O>
+name	NN	_ <O>
+appears	VBZ	_ <O>
+with	IN	_ <O>
+familiar	JJ	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+historically	RB	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+surveys	NNS	_ <O>
+of	IN	_ <O>
+anarchist	NN	_ <O>
+thought	VBD	<B-CUE>
+as	IN	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+earliest	JJS	<I-CUE>
+and	CC	<I-CUE>
+best	RBS	<I-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+In	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+his	PRP$	_ <O>
+'	``	_ <O>
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+Its	PRP$	_ <O>
+Own	JJ	_ <O>
+'	''	_ <O>
+was	VBD	_ <O>
+published	VBN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	<B-CUE>
+considered	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+"	``	_ <O>
+a	DT	_ <O>
+founding	VBG	_ <O>
+text	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+tradition	NN	_ <O>
+of	IN	_ <O>
+individualist	NN	_ <O>
+anarchism	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+Stirner	NNP	_ <O>
+<unk>	VBZ	_ <O>
+that	IN	_ <O>
+most	JJS	_ <O>
+commonly	RB	_ <O>
+accepted	VBN	_ <O>
+social	JJ	_ <O>
+institutions	NNS	_ <O>
+-	:	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+notion	NN	_ <O>
+of	IN	_ <O>
+State	NN	_ <O>
+,	,	_ <O>
+property	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+right	NN	_ <O>
+,	,	_ <O>
+natural	JJ	_ <O>
+rights	NNS	_ <O>
+in	IN	_ <O>
+general	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+very	JJ	_ <O>
+notion	NN	_ <O>
+of	IN	_ <O>
+society	NN	_ <O>
+-	:	_ <O>
+were	VBD	_ <O>
+mere	JJ	_ <O>
+illusions	NNS	_ <O>
+or	CC	_ <O>
+'	``	_ <O>
+<unk>	NNS	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+mind	NN	_ <O>
+,	,	_ <O>
+saying	VBG	_ <O>
+of	IN	_ <O>
+society	NN	_ <O>
+that	IN	_ <O>
+"	``	_ <O>
+the	DT	_ <O>
+individuals	NNS	_ <O>
+are	VBP	_ <O>
+its	PRP$	_ <O>
+reality	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

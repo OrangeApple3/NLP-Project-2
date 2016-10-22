@@ -1,0 +1,99 @@
+<unk>	NNP	_ <O>
+<unk>	VBZ	_ <O>
+
+NULL
+Precision	NNP	_ <O>
+also	RB	_ <O>
+<unk>	VBZ	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+using	VBG	_ <O>
+it	PRP	_ <O>
+<unk>	RB	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+2001	CD	_ <O>
+Computalog	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBZ	_ <O>
+all	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Services	NNPS	_ <O>
+Inc.	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+<unk>	VBZ	_ <O>
+<unk>	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	VBG	_ <O>
+services	NNS	_ <O>
+like	IN	_ <O>
+<unk>	VBG	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+<unk>	NN	_ <O>
+services	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Precision	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBZ	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBN	_ <O>
+its	PRP$	_ <O>
+<unk>	NNP	_ <O>
+MWD	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Precision	NNP	_ <O>
+Drilling	NNP	_ <O>
+Corporation	NNP	_ <O>
+announces	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+International	NNP	_ <O>
+Corporation	NNP	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+approximately	RB	_ <O>
+$	$	_ <O>
+<unk>	CD	_ <O>
+<unk>	CD	_ <O>
+CAD.	NNP	_ <O>
+
+NULL

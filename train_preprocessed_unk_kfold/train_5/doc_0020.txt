@@ -1,0 +1,145 @@
+NULL
+This	DT	_ <O>
+<unk>	NN	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+II	NNP	_ <O>
+,	,	_ <O>
+<unk>	WRB	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+<unk>	VBG	_ <O>
+and	CC	_ <O>
+<unk>	VBG	_ <O>
+many	JJ	<B-CUE>
+<unk>	RB	<I-CUE>
+-	HYPH	<I-CUE>
+held	VBN	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+<unk>	RB	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+considered	VBN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+at	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+had	VBD	_ <O>
+<unk>	VBN	_ <O>
+that	IN	_ <O>
+it	PRP	_ <O>
+<unk>	MD	<B-CUE>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+encyclical	JJ	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+from	IN	_ <O>
+24	CD	_ <O>
+<unk>	NNP	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+<unk>	VBZ	_ <O>
+the	DT	_ <O>
+traditional	JJ	_ <O>
+Church	NNP	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+celibacy	NN	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+ideal	JJ	_ <O>
+state	NN	_ <O>
+and	CC	_ <O>
+<unk>	VBZ	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	JJ	_ <O>
+for	IN	_ <O>
+<unk>	NNP	_ <O>
+Catholic	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+during	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+considered	VBN	_ <O>
+<unk>	JJ	_ <O>
+in	IN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+priests	NNS	_ <O>
+who	WP	_ <O>
+<unk>	VBD	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+state	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+position	NN	_ <O>
+which	WDT	_ <O>
+was	VBD	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+Paul	NNP	_ <O>
+II	NNP	_ <O>
+in	IN	_ <O>
+1980	CD	_ <O>
+and	CC	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	CD	_ <O>
+<unk>	NNP	_ <O>
+Law	NNP	_ <O>
+that	IN	_ <O>
+only	RB	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	PRP	_ <O>
+can	MD	_ <O>
+in	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+grant	VBP	_ <O>
+laicization	NN	_ <O>
+.	.	_ <O>
+
+NULL

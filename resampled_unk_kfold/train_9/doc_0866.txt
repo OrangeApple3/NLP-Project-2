@@ -1,0 +1,82 @@
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+popular	JJ	_ <O>
+destination	NN	_ <O>
+for	IN	_ <O>
+tourists	NNS	_ <O>
+traveling	VBG	_ <O>
+through	IN	_ <O>
+Istria	NNP	_ <O>
+by	IN	_ <O>
+road	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Originally	RB	_ <O>
+named	VBN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+settlement	NN	_ <O>
+was	VBD	_ <O>
+built	VBN	_ <O>
+in	IN	_ <O>
+Roman	NNP	_ <O>
+times	NNS	_ <O>
+,	,	_ <O>
+above	IN	_ <O>
+the	DT	_ <O>
+bay	NN	_ <O>
+bearing	VBG	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+name	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+since	IN	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+today	NN	_ <O>
+home	RB	_ <O>
+to	IN	_ <O>
+approximately	RB	_ <O>
+<unk>	CD	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+buildings	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+town	NN	_ <O>
+are	VBP	_ <O>
+several	JJ	_ <O>
+hundred	CD	_ <O>
+years	NNS	_ <O>
+old	JJ	_ <O>
+,	,	_ <O>
+built	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+ruins	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+original	JJ	_ <O>
+Roman	JJ	_ <O>
+houses	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,89 @@
+NULL
+One	CD	_ <O>
+alternative	NN	_ <O>
+solution	NN	_ <O>
+that	WDT	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+advocated	VBN	_ <O>
+is	VBZ	_ <O>
+running	VBG	_ <O>
+these	DT	_ <O>
+services	NNS	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+existing	VBG	_ <O>
+Phoenix	NNP	_ <O>
+Park	NNP	_ <O>
+tunnel	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+new	JJ	_ <O>
+temporary	JJ	_ <O>
+station	NN	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+;	:	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+<unk>	NN	_ <O>
+has	VBZ	_ <O>
+not	RB	_ <O>
+been	VBN	_ <O>
+adopted	VBN	_ <O>
+and	CC	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+appear	VB	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+proposal	NN	_ <O>
+would	MD	_ <O>
+not	RB	_ <O>
+increase	VB	_ <O>
+capacity	NN	_ <O>
+but	CC	_ <O>
+would	MD	_ <O>
+make	VB	_ <O>
+<unk>	VBG	_ <O>
+more	RBR	<B-CUE>
+attractive	JJ	<I-CUE>
+to	IN	_ <O>
+those	DT	_ <O>
+along	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+line	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+proposal	NN	_ <O>
+would	MD	_ <O>
+not	RB	_ <O>
+increase	VB	_ <O>
+capacity	NN	_ <O>
+but	CC	_ <O>
+would	MD	_ <O>
+make	VB	_ <O>
+<unk>	VBG	_ <O>
+more	RBR	<B-CUE>
+attractive	JJ	<I-CUE>
+to	IN	_ <O>
+those	DT	_ <O>
+along	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+line	NN	_ <O>
+.	.	_ <O>
+
+NULL

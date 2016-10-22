@@ -1,0 +1,77 @@
+NULL
+India	NNP	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+multi	JJ	_ <O>
+-	HYPH	_ <O>
+party	NN	_ <O>
+system	NN	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+national	JJ	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+regional	JJ	_ <O>
+parties	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+regional	JJ	_ <O>
+party	NN	_ <O>
+may	MD	_ <O>
+gain	VB	_ <O>
+a	DT	_ <O>
+majority	NN	_ <O>
+and	CC	_ <O>
+rule	VB	_ <O>
+a	DT	_ <O>
+particular	JJ	_ <O>
+state	NN	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+a	DT	_ <O>
+party	NN	_ <O>
+represents	VBZ	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+4	CD	_ <O>
+states	NNS	_ <O>
+then	RB	_ <O>
+such	JJ	_ <O>
+parties	NNS	_ <O>
+are	VBP	_ <O>
+considered	VBN	_ <O>
+as	IN	_ <O>
+national	JJ	_ <O>
+parties	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+party	NN	_ <O>
+<unk>	VBD	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+majority	NN	_ <O>
+<unk>	VBG	_ <O>
+two	CD	_ <O>
+<unk>	JJ	_ <O>
+periods	NNS	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+1970s	NNS	_ <O>
+and	CC	_ <O>
+late	JJ	_ <O>
+1980s	NNS	_ <O>
+.	.	_ <O>
+
+NULL

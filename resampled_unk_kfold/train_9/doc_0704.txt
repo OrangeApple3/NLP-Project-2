@@ -1,0 +1,124 @@
+NULL
+His	PRP$	_ <O>
+activity	NN	_ <O>
+in	IN	_ <O>
+politics	NN	_ <O>
+led	VBD	_ <O>
+him	PRP	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+newspaper	NN	_ <O>
+business	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+writer	NN	_ <O>
+renowned	JJ	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	JJ	_ <O>
+political	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+returned	VBD	_ <O>
+to	IN	_ <O>
+public	JJ	_ <O>
+life	NN	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+senior	JJ	_ <O>
+civil	JJ	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+for	IN	_ <O>
+24	CD	_ <O>
+years	NNS	_ <O>
+where	WRB	_ <O>
+he	PRP	_ <O>
+produced	VBD	_ <O>
+a	DT	_ <O>
+lasting	JJ	_ <O>
+legacy	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+literary	JJ	_ <O>
+,	,	_ <O>
+cultural	JJ	_ <O>
+,	,	_ <O>
+scientific	JJ	_ <O>
+and	CC	_ <O>
+political	JJ	_ <O>
+areas	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+enjoyed	VBD	_ <O>
+great	JJ	<B-CUE>
+popularity	NN	<I-CUE>
+in	IN	_ <O>
+this	DT	_ <O>
+area	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+writer	NN	_ <O>
+and	CC	_ <O>
+editor	NN	_ <O>
+until	IN	_ <O>
+<unk>	CD	_ <O>
+when	WRB	_ <O>
+he	PRP	_ <O>
+left	VBD	_ <O>
+'	``	_ <O>
+Le	NNP	_ <O>
+<unk>	NNP	_ <O>
+du	NNP	_ <O>
+Canada	NNP	_ <O>
+'	''	_ <O>
+to	TO	_ <O>
+pursue	VB	_ <O>
+other	JJ	_ <O>
+writing	VBG	_ <O>
+full	JJ	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+enjoyed	VBD	_ <O>
+great	JJ	<B-CUE>
+popularity	NN	<I-CUE>
+in	IN	_ <O>
+this	DT	_ <O>
+area	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+writer	NN	_ <O>
+and	CC	_ <O>
+editor	NN	_ <O>
+until	IN	_ <O>
+<unk>	CD	_ <O>
+when	WRB	_ <O>
+he	PRP	_ <O>
+left	VBD	_ <O>
+'	``	_ <O>
+Le	NNP	_ <O>
+<unk>	NNP	_ <O>
+du	NNP	_ <O>
+Canada	NNP	_ <O>
+'	''	_ <O>
+to	TO	_ <O>
+pursue	VB	_ <O>
+other	JJ	_ <O>
+writing	VBG	_ <O>
+full	JJ	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL

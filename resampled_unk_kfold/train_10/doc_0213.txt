@@ -1,0 +1,61 @@
+NULL
+Once	IN	_ <O>
+the	DT	_ <O>
+people	NNS	_ <O>
+<unk>	VBD	_ <O>
+Shia	NNP	_ <O>
+,	,	_ <O>
+Shia	NNP	_ <O>
+came	VBD	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+life	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+Misha	NNP	_ <O>
+<unk>	NNS	_ <O>
+herself	PRP	_ <O>
+by	IN	_ <O>
+making	VBG	_ <O>
+some	DT	<B-CUE>
+kind	NN	<I-CUE>
+of	IN	<I-CUE>
+<unk>	NN	<I-CUE>
+that	WDT	_ <O>
+made	VBD	_ <O>
+people	NNS	_ <O>
+<unk>	VB	_ <O>
+her	PRP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	VB	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+Misha	NNP	_ <O>
+<unk>	NNS	_ <O>
+herself	PRP	_ <O>
+by	IN	_ <O>
+making	VBG	_ <O>
+some	DT	<B-CUE>
+kind	NN	<I-CUE>
+of	IN	<I-CUE>
+<unk>	NN	<I-CUE>
+that	WDT	_ <O>
+made	VBD	_ <O>
+people	NNS	_ <O>
+<unk>	VB	_ <O>
+her	PRP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	VB	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

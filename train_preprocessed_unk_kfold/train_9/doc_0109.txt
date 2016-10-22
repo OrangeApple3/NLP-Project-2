@@ -1,0 +1,141 @@
+NULL
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+great	JJ	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+supreme	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+Cleisthenes	NNP	_ <O>
+,	,	_ <O>
+another	DT	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+According	VBG	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Agariste	NNP	_ <O>
+<unk>	VBD	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+<unk>	NNS	_ <O>
+before	IN	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+she	PRP	_ <O>
+had	VBD	_ <O>
+<unk>	VBN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	<B-CUE>
+<unk>	NN	<I-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+<unk>	NN	<I-CUE>
+treats	VBZ	_ <O>
+the	DT	_ <O>
+lion	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+traditional	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+the	DT	_ <O>
+story	NN	_ <O>
+may	MD	<B-CUE>
+also	RB	_ <O>
+<unk>	VB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+unusual	JJ	_ <O>
+size	NN	_ <O>
+of	IN	_ <O>
+Pericles	NNP	_ <O>
+'	POS	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+became	VBD	_ <O>
+a	DT	_ <O>
+popular	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+contemporary	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+(	-LRB-	_ <O>
+Although	IN	_ <O>
+Plutarch	NNP	_ <O>
+claims	VBZ	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+<unk>	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+reason	NN	_ <O>
+that	WDT	_ <O>
+Pericles	NNP	_ <O>
+was	VBD	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBN	_ <O>
+wearing	VBG	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+the	DT	_ <O>
+case	NN	_ <O>
+;	:	_ <O>
+the	DT	_ <O>
+helmet	NN	_ <O>
+was	VBD	_ <O>
+actually	RB	_ <O>
+the	DT	_ <O>
+symbol	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+official	JJ	_ <O>
+rank	NN	_ <O>
+as	IN	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+general	JJ	_ <O>
+)	-RRB-	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

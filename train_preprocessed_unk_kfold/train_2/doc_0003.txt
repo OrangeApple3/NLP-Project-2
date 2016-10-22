@@ -1,0 +1,106 @@
+NULL
+The	DT	<B-CUE>
+most	RBS	<I-CUE>
+famous	JJ	<I-CUE>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+Arnold	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	VBD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+<unk>	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+many	JJ	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	JJ	_ <O>
+two	CD	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Old	NNP	_ <O>
+Colony	NNP	_ <O>
+dialect	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+<unk>	PRP$	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+three	CD	_ <O>
+<unk>	NN	_ <O>
+the	DT	_ <O>
+Plautdietsch	NNP	_ <O>
+as	IN	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Colony	NNP	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+the	DT	_ <O>
+Old	NNP	_ <O>
+Colony	NNP	_ <O>
+dialect	NN	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+endings	NNS	_ <O>
+.	.	_ <O>
+
+NULL

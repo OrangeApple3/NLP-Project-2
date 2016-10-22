@@ -1,0 +1,35 @@
+'	``	_ <O>
+Pine	NNP	_ <O>
+<unk>	NNP	_ <O>
+Township	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+township	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+County	NNP	_ <O>
+,	,	_ <O>
+Pennsylvania	NNP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+2000	CD	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+township	NN	_ <O>
+population	NN	_ <O>
+was	VBD	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL

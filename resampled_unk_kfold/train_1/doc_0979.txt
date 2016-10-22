@@ -1,0 +1,146 @@
+NULL
+In	IN	_ <O>
+1986	CD	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+moved	VBD	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+side	NN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+he	PRP	_ <O>
+spent	VBD	_ <O>
+two	CD	_ <O>
+seasons	NNS	_ <O>
+,	,	_ <O>
+followed	VBN	_ <O>
+by	IN	_ <O>
+another	DT	_ <O>
+two	CD	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+played	VBD	_ <O>
+in	RP	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+many	JJ	<B-CUE>
+clubs	NNS	<I-CUE>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+Swedish	JJ	_ <O>
+national	JJ	_ <O>
+<unk>	NN	_ <O>
+team	NN	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+which	WDT	_ <O>
+he	PRP	_ <O>
+made	VBD	_ <O>
+a	DT	_ <O>
+record	NN	_ <O>
+129	CD	_ <O>
+appearances	NNS	_ <O>
+between	IN	_ <O>
+1994	CD	_ <O>
+and	CC	_ <O>
+2005	CD	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+1992	CD	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+made	VBD	_ <O>
+the	DT	_ <O>
+move	NN	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Bandy	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+club	NN	_ <O>
+which	WDT	_ <O>
+he	PRP	_ <O>
+became	VBD	_ <O>
+most	RBS	<B-CUE>
+commonly	RB	<I-CUE>
+associated	VBN	_ <O>
+with	IN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+played	VBD	_ <O>
+in	RP	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+many	JJ	<B-CUE>
+clubs	NNS	<I-CUE>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+Swedish	JJ	_ <O>
+national	JJ	_ <O>
+<unk>	NN	_ <O>
+team	NN	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+which	WDT	_ <O>
+he	PRP	_ <O>
+made	VBD	_ <O>
+a	DT	_ <O>
+record	NN	_ <O>
+129	CD	_ <O>
+appearances	NNS	_ <O>
+between	IN	_ <O>
+1994	CD	_ <O>
+and	CC	_ <O>
+2005	CD	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+1992	CD	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+made	VBD	_ <O>
+the	DT	_ <O>
+move	NN	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Bandy	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+club	NN	_ <O>
+which	WDT	_ <O>
+he	PRP	_ <O>
+became	VBD	_ <O>
+most	RBS	<B-CUE>
+commonly	RB	<I-CUE>
+associated	VBN	_ <O>
+with	IN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,82 @@
+NULL
+The	DT	_ <O>
+population	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+approximately	RB	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Pohnpei	NNP	_ <O>
+is	VBZ	_ <O>
+more	RBR	_ <O>
+<unk>	RB	_ <O>
+diverse	JJ	_ <O>
+than	IN	_ <O>
+any	DT	_ <O>
+other	JJ	_ <O>
+island	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	_ <O>
+largely	RB	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+it	PRP	_ <O>
+being	VBG	_ <O>
+home	RB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+capital	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+national	JJ	_ <O>
+government	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+<unk>	VBZ	_ <O>
+hundreds	NNS	_ <O>
+of	IN	_ <O>
+people	NNS	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+<unk>	NNP	_ <O>
+States	NNPS	_ <O>
+having	VBG	_ <O>
+distinct	JJ	_ <O>
+ethnic	JJ	_ <O>
+and	CC	_ <O>
+cultural	JJ	_ <O>
+origins	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+indigenous	JJ	_ <O>
+makeup	NN	_ <O>
+also	RB	_ <O>
+includes	VBZ	_ <O>
+people	NNS	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+outer	JJ	_ <O>
+islands	NNS	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+State	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+<unk>	VBP	_ <O>
+multiple	JJ	_ <O>
+regional	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

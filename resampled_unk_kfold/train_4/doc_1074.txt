@@ -1,0 +1,44 @@
+NULL
+Indeed	RB	_ <O>
+,	,	_ <O>
+many	JJ	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+cells	NNS	_ <O>
+<unk>	VBN	_ <O>
+back	RB	_ <O>
+right	RB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+hour	NN	_ <O>
+in	IN	_ <O>
+anticipation	NN	_ <O>
+of	IN	_ <O>
+another	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+cold	JJ	_ <O>
+weather	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+amoebas	NNS	_ <O>
+were	VBD	_ <O>
+also	RB	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+respond	VB	_ <O>
+to	IN	_ <O>
+other	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+ranging	VBG	_ <O>
+from	IN	_ <O>
+30	CD	_ <O>
+to	TO	_ <O>
+90	CD	_ <O>
+minutes	NNS	_ <O>
+.	.	_ <O>
+
+NULL

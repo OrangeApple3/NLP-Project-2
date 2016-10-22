@@ -1,0 +1,83 @@
+The	DT	_ <O>
+simplicity	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+basic	JJ	_ <O>
+combination	NN	_ <O>
+<unk>	VBZ	_ <O>
+variations	NNS	_ <O>
+,	,	_ <O>
+either	RB	_ <O>
+by	IN	_ <O>
+adding	VBG	_ <O>
+other	JJ	_ <O>
+ingredients	NNS	_ <O>
+or	CC	_ <O>
+<unk>	VBG	_ <O>
+other	JJ	_ <O>
+herbs	NNS	_ <O>
+,	,	_ <O>
+e.g.	RB	_ <O>
+bay	NN	_ <O>
+leaf	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+small	JJ	_ <O>
+amount	NN	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+oil	NN	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+added	VBN	_ <O>
+to	IN	_ <O>
+<unk>	VB	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+it	PRP	_ <O>
+easier	JJR	_ <O>
+to	TO	_ <O>
+work	VB	_ <O>
+with	IN	_ <O>
+.	.	_ <O>
+
+NULL
+Adding	VBG	_ <O>
+more	RBR	_ <O>
+olive	JJ	_ <O>
+oil	NN	_ <O>
+and	CC	_ <O>
+perhaps	RB	<B-CUE>
+some	DT	_ <O>
+<unk>	VBD	_ <O>
+<unk>	NNP	_ <O>
+produces	VBZ	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Adding	VBG	_ <O>
+more	RBR	_ <O>
+olive	JJ	_ <O>
+oil	NN	_ <O>
+and	CC	_ <O>
+perhaps	RB	<B-CUE>
+some	DT	_ <O>
+<unk>	VBD	_ <O>
+<unk>	NNP	_ <O>
+produces	VBZ	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,156 @@
+<unk>	NNP	_ <O>
+Law	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+has	VBZ	_ <O>
+argued	VBN	_ <O>
+:	:	_ <O>
+
+NULL
+A	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+human	JJ	_ <O>
+rights	NNS	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+scholars	NNS	<I-CUE>
+of	IN	<I-CUE>
+<unk>	JJ	<I-CUE>
+legal	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+They	PRP	<B-CUE>
+<unk>	VBP	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+human	JJ	_ <O>
+rights	NNS	_ <O>
+discourse	NN	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+<unk>	RB	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+for	IN	_ <O>
+it	PRP	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	RB	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Moreover	RB	_ <O>
+,	,	_ <O>
+they	PRP	<B-CUE>
+argue	VBP	_ <O>
+that	IN	_ <O>
+human	JJ	_ <O>
+rights	NNS	_ <O>
+discourse	NN	_ <O>
+often	RB	_ <O>
+limits	VBZ	_ <O>
+<unk>	NNS	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+non	RB	_ <O>
+-	,	_ <O>
+<unk>	JJR	_ <O>
+,	,	_ <O>
+change	NN	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+human	JJ	_ <O>
+rights	NNS	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+scholars	NNS	<I-CUE>
+of	IN	<I-CUE>
+<unk>	JJ	<I-CUE>
+legal	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+They	PRP	<B-CUE>
+<unk>	VBP	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+human	JJ	_ <O>
+rights	NNS	_ <O>
+discourse	NN	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+<unk>	RB	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+for	IN	_ <O>
+it	PRP	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	RB	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Moreover	RB	_ <O>
+,	,	_ <O>
+they	PRP	<B-CUE>
+argue	VBP	_ <O>
+that	IN	_ <O>
+human	JJ	_ <O>
+rights	NNS	_ <O>
+discourse	NN	_ <O>
+often	RB	_ <O>
+limits	VBZ	_ <O>
+<unk>	NNS	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+non	RB	_ <O>
+-	,	_ <O>
+<unk>	JJR	_ <O>
+,	,	_ <O>
+change	NN	_ <O>
+.	.	_ <O>
+
+NULL

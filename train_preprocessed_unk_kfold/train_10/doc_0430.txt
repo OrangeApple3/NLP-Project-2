@@ -1,0 +1,134 @@
+NULL
+In	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+estimated	VBN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+as	RB	_ <O>
+high	JJ	_ <O>
+as	IN	_ <O>
+75	CD	_ <O>
+percent	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+within	IN	_ <O>
+clinical	JJ	_ <O>
+<unk>	NNS	_ <O>
+have	VBP	<B-CUE>
+varied	VBN	<I-CUE>
+from	IN	_ <O>
+three	CD	_ <O>
+to	IN	_ <O>
+30	CD	_ <O>
+percent	NN	_ <O>
+,	,	_ <O>
+depending	VBG	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+characteristics	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+populations	NNS	_ <O>
+being	VBG	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	-LRB-	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+Disorders	NNS	_ <O>
+}	-RRB-	_ <O>
+
+NULL
+Perhaps	RB	_ <O>
+not	RB	_ <O>
+surprisingly	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+prevalence	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+disorder	NN	_ <O>
+is	VBZ	_ <O>
+even	RB	_ <O>
+higher	JJR	_ <O>
+in	IN	_ <O>
+selected	VBN	_ <O>
+populations	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+people	NNS	_ <O>
+in	IN	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+who	WP	_ <O>
+include	VBP	_ <O>
+many	JJ	_ <O>
+violent	JJ	_ <O>
+offenders	NNS	_ <O>
+)	-RRB-	_ <O>
+(	-LRB-	_ <O>
+Hare	NNP	_ <O>
+1983	CD	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Similarly	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+prevalence	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+higher	JJR	_ <O>
+among	IN	_ <O>
+patients	NNS	_ <O>
+in	IN	_ <O>
+alcohol	NN	_ <O>
+or	CC	_ <O>
+other	JJ	_ <O>
+drug	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+abuse	NN	_ <O>
+treatment	NN	_ <O>
+programs	NNS	_ <O>
+than	IN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+general	JJ	_ <O>
+population	NN	_ <O>
+(	-LRB-	_ <O>
+Hare	NNP	_ <O>
+1983	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+a	DT	_ <O>
+link	NN	_ <O>
+between	IN	_ <O>
+ASPD	NNP	_ <O>
+and	CC	_ <O>
+AOD	NNP	_ <O>
+abuse	NN	_ <O>
+and	CC	_ <O>
+dependence	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,115 @@
+NULL
+Post	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+term	NN	_ <O>
+associated	VBN	_ <O>
+with	IN	_ <O>
+a	DT	<B-CUE>
+variety	NN	<I-CUE>
+of	IN	<I-CUE>
+<unk>	NNS	<I-CUE>
+and	CC	<I-CUE>
+different	JJ	<I-CUE>
+positions	NNS	<I-CUE>
+,	,	_ <O>
+behind	IN	_ <O>
+which	WDT	_ <O>
+stands	VBZ	_ <O>
+criticism	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+core	NN	_ <O>
+beliefs	NNS	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+groups	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Post	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNPS	_ <O>
+raise	VBP	_ <O>
+many	JJ	<B-CUE>
+questions	NNS	<I-CUE>
+about	IN	_ <O>
+Zionism	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+state	NN	_ <O>
+of	IN	_ <O>
+Israel	NNP	_ <O>
+,	,	_ <O>
+among	IN	_ <O>
+them	PRP	_ <O>
+:	:	_ <O>
+
+NULL
+Is	VBZ	_ <O>
+the	DT	_ <O>
+state	NN	_ <O>
+of	IN	_ <O>
+Israel	NNP	_ <O>
+indeed	RB	_ <O>
+a	DT	_ <O>
+safe	JJ	_ <O>
+shelter	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+Jewish	JJ	_ <O>
+nation	NN	_ <O>
+?	.	_ <O>
+
+NULL
+Are	VBP	_ <O>
+there	EX	_ <O>
+any	DT	_ <O>
+other	JJ	_ <O>
+places	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+Jews	NNPS	_ <O>
+'	POS	_ <O>
+conditions	NNS	_ <O>
+are	VBP	_ <O>
+better	RB	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+historical	JJ	_ <O>
+point	NN	_ <O>
+of	IN	_ <O>
+view	NN	_ <O>
+?	.	_ <O>
+
+NULL
+(	-LRB-	_ <O>
+For	IN	_ <O>
+example	NN	_ <O>
+North	NNP	_ <O>
+America	NNP	_ <O>
+)	-RRB-	_ <O>
+
+NULL
+Is	VBZ	_ <O>
+it	PRP	_ <O>
+really	RB	_ <O>
+possible	JJ	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+both	DT	_ <O>
+a	DT	_ <O>
+Jewish	JJ	_ <O>
+state	NN	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+democracy	NN	_ <O>
+?	.	_ <O>
+
+NULL

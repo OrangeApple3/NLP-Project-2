@@ -1,0 +1,73 @@
+NULL
+With	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+war	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+were	VBD	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	RB	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+Hertfordshire	NNP	_ <O>
+Regiment	NNP	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+made	VBD	_ <O>
+<unk>	RP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+2nd	NN	_ <O>
+Battalion	NN	_ <O>
+would	MD	_ <O>
+<unk>	RB	_ <O>
+be	VB	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+Day	NNP	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

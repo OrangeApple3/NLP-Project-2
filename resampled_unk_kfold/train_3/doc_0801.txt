@@ -1,0 +1,212 @@
+For	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+monocots	NNS	_ <O>
+possess	VBP	_ <O>
+structures	NNS	_ <O>
+like	IN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+that	WDT	_ <O>
+were	VBD	_ <O>
+believed	VBN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+analogous	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+respectively	RB	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+turns	VBZ	_ <O>
+out	RP	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+true	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+<unk>	JJ	_ <O>
+changes	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+MADS	NNP	_ <O>
+-	HYPH	_ <O>
+box	NN	_ <O>
+genes	NNS	_ <O>
+and	CC	_ <O>
+their	PRP$	_ <O>
+expression	NN	_ <O>
+pattern	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+monocots	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+'	''	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+gene	NN	_ <O>
+called	VBN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+that	WDT	_ <O>
+plays	VBZ	_ <O>
+an	DT	_ <O>
+important	JJ	_ <O>
+role	NN	_ <O>
+in	IN	_ <O>
+<unk>	VBG	_ <O>
+how	WRB	_ <O>
+many	JJ	_ <O>
+petals	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+organs	NNS	_ <O>
+are	VBP	_ <O>
+generated	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Mutations	NNS	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+gene	NN	_ <O>
+give	VBP	_ <O>
+rise	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+floral	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBG	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+fate	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+floral	JJ	<I-CUE>
+organs	NNS	<I-CUE>
+keep	VB	_ <O>
+on	IN	_ <O>
+getting	VBG	_ <O>
+produced	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Several	JJ	<B-CUE>
+studies	NNS	<I-CUE>
+on	IN	_ <O>
+diverse	JJ	_ <O>
+plants	NNS	_ <O>
+like	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+etc	FW	_ <O>
+have	VBP	<B-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+enormous	JJ	_ <O>
+diversity	NN	_ <O>
+of	IN	_ <O>
+flowers	NNS	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+result	NN	_ <O>
+of	IN	_ <O>
+small	JJ	_ <O>
+changes	NNS	_ <O>
+in	IN	_ <O>
+genes	NNS	_ <O>
+controlling	VBG	_ <O>
+their	PRP$	_ <O>
+development	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Mutations	NNS	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+gene	NN	_ <O>
+give	VBP	_ <O>
+rise	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+floral	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBG	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+fate	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+floral	JJ	<I-CUE>
+organs	NNS	<I-CUE>
+keep	VB	_ <O>
+on	IN	_ <O>
+getting	VBG	_ <O>
+produced	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Several	JJ	<B-CUE>
+studies	NNS	<I-CUE>
+on	IN	_ <O>
+diverse	JJ	_ <O>
+plants	NNS	_ <O>
+like	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+etc	FW	_ <O>
+have	VBP	<B-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+enormous	JJ	_ <O>
+diversity	NN	_ <O>
+of	IN	_ <O>
+flowers	NNS	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+result	NN	_ <O>
+of	IN	_ <O>
+small	JJ	_ <O>
+changes	NNS	_ <O>
+in	IN	_ <O>
+genes	NNS	_ <O>
+controlling	VBG	_ <O>
+their	PRP$	_ <O>
+development	NN	_ <O>
+.	.	_ <O>
+
+NULL

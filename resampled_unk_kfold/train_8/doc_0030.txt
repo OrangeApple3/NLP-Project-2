@@ -1,0 +1,59 @@
+NULL
+In	IN	_ <O>
+1967	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+Post	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+a	DT	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NN	<I-CUE>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+&	CC	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+most	JJS	<B-CUE>
+of	IN	<I-CUE>
+its	PRP$	<I-CUE>
+<unk>	JJ	<I-CUE>
+post	NN	<I-CUE>
+office	NN	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+1967	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+Post	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+a	DT	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NN	<I-CUE>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+&	CC	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+most	JJS	<B-CUE>
+of	IN	<I-CUE>
+its	PRP$	<I-CUE>
+<unk>	JJ	<I-CUE>
+post	NN	<I-CUE>
+office	NN	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

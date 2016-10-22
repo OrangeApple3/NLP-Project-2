@@ -1,0 +1,55 @@
+NULL
+Life	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	RB	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+<unk>	RB	_ <O>
+<unk>	JJ	_ <O>
+for	IN	_ <O>
+most	JJS	_ <O>
+colonists	NNS	_ <O>
+,	,	_ <O>
+so	CC	_ <O>
+the	DT	_ <O>
+UN	NNP	_ <O>
+must	MD	_ <O>
+<unk>	VB	_ <O>
+people	NNS	_ <O>
+to	TO	_ <O>
+go	VB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+colonies	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+<unk>	JJ	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+Can	NN	_ <O>
+-	HYPH	_ <O>
+D	NN	_ <O>
+allows	VBZ	_ <O>
+colonists	NNS	_ <O>
+to	TO	_ <O>
+experience	VB	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+minutes	NNS	_ <O>
+of	IN	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+life	NN	_ <O>
+on	IN	_ <O>
+Earth	NNP	_ <O>
+by	IN	_ <O>
+participating	VBG	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

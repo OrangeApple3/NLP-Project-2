@@ -1,0 +1,23 @@
+NULL
+William	NNP	_ <O>
+<unk>	NNP	_ <O>
+went	VBD	_ <O>
+missing	VBG	_ <O>
+on	IN	_ <O>
+May	NNP	_ <O>
+16	CD	_ <O>
+,	,	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+his	PRP$	_ <O>
+body	NN	_ <O>
+was	VBD	_ <O>
+found	VBN	_ <O>
+close	RB	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+home	NN	_ <O>
+.	.	_ <O>
+
+NULL

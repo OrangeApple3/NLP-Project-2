@@ -1,0 +1,59 @@
+NULL
+James	NNP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+son	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+Jean	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+started	VBD	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+child	NN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+his	PRP$	_ <O>
+parents	NNS	_ <O>
+'	POS	_ <O>
+company	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+Le	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+later	RB	_ <O>
+Le	NNP	_ <O>
+Cirque	NNP	_ <O>
+<unk>	NNP	_ <O>
+--	:	_ <O>
+these	DT	_ <O>
+were	VBD	_ <O>
+modern	JJ	_ <O>
+traveling	VBG	_ <O>
+<unk>	NNS	_ <O>
+which	WDT	_ <O>
+some	DT	<B-CUE>
+credit	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+source	NN	_ <O>
+of	IN	_ <O>
+inspiration	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+Cirque	NNP	_ <O>
+du	NNP	_ <O>
+Soleil	NNP	_ <O>
+.	.	_ <O>
+
+NULL

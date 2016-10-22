@@ -1,0 +1,86 @@
+NULL
+'	``	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+player	NN	_ <O>
+has	VBZ	_ <O>
+to	TO	_ <O>
+crash	VB	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+as	RB	_ <O>
+much	RB	_ <O>
+as	IN	_ <O>
+possible	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+Hot	JJ	_ <O>
+Rods	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+player	NN	_ <O>
+has	VBZ	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+against	IN	_ <O>
+four	CD	_ <O>
+<unk>	NNS	_ <O>
+while	IN	_ <O>
+<unk>	VBG	_ <O>
+other	JJ	_ <O>
+cars	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+The	DT	_ <O>
+<unk>	NNPS	_ <O>
+'	POS	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+<unk>	VBG	_ <O>
+into	IN	_ <O>
+other	JJ	_ <O>
+cars	NNS	_ <O>
+<unk>	VBZ	_ <O>
+the	DT	_ <O>
+player	NN	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+for	IN	_ <O>
+it	PRP	_ <O>
+to	TO	_ <O>
+keep	VB	_ <O>
+<unk>	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+<unk>	NN	<I-CUE>
+<unk>	NNS	_ <O>
+include	VBP	_ <O>
+:	:	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+<unk>	NN	<I-CUE>
+<unk>	NNS	_ <O>
+include	VBP	_ <O>
+:	:	_ <O>
+
+NULL

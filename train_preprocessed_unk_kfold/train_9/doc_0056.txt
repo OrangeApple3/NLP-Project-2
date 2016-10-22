@@ -1,0 +1,58 @@
+NULL
+<unk>	NN	_ <O>
+is	VBZ	<B-CUE>
+<unk>	RB	<I-CUE>
+accused	VBN	<I-CUE>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+<unk>	JJ	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+"	''	_ <O>
+questions	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	VBG	_ <O>
+to	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+;	:	_ <O>
+for	IN	_ <O>
+instance	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+death	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+had	VBD	_ <O>
+taken	VBN	_ <O>
+up	RP	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+King	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNS	_ <O>
+since	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+that	WDT	_ <O>
+were	VBD	_ <O>
+already	RB	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL

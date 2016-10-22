@@ -1,0 +1,13 @@
+NULL
+The	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+both	DT	_ <O>
+titles	NNS	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+1972	CD	_ <O>
+.	.	_ <O>
+
+NULL

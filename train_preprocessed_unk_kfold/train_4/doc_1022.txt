@@ -1,0 +1,157 @@
+NULL
+<unk>	NNP	_ <O>
+Islam	NNP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+second	RB	_ <O>
+largest	JJS	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Islam	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Shi`a	JJ	_ <O>
+Muslims	NNPS	_ <O>
+believe	VBP	_ <O>
+that	IN	_ <O>
+similar	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+appointment	NN	_ <O>
+of	IN	_ <O>
+prophets	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNPS	_ <O>
+after	IN	_ <O>
+Muhammad	NNP	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+chosen	VBN	_ <O>
+by	IN	_ <O>
+God	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+According	VBG	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+chosen	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+thus	RB	_ <O>
+appointed	VBN	_ <O>
+by	IN	_ <O>
+Muhammad	NNP	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+direct	JJ	_ <O>
+successor	NN	_ <O>
+and	CC	_ <O>
+leader	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Muslim	JJ	_ <O>
+community	NN	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+regard	VBP	_ <O>
+him	PRP	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+continued	VBD	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+position	NN	_ <O>
+through	IN	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+Ali	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+largest	JJS	_ <O>
+group	NN	_ <O>
+of	IN	_ <O>
+Shi`a	NNP	_ <O>
+Muslims	NNPS	_ <O>
+believe	VBP	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+total	NN	_ <O>
+of	IN	_ <O>
+twelve	CD	_ <O>
+Imams	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+twelfth	JJ	_ <O>
+Imam	NNP	_ <O>
+is	VBZ	_ <O>
+believed	VBN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+in	IN	_ <O>
+occultation	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+will	MD	_ <O>
+appear	VB	_ <O>
+again	RB	_ <O>
+just	RB	_ <O>
+before	IN	_ <O>
+the	DT	_ <O>
+end	NN	_ <O>
+times	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Shi`a	NN	_ <O>
+<unk>	NNS	_ <O>
+include	VBP	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Imams	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+Muslims	NNPS	<I-CUE>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+Shia	NNPS	_ <O>
+for	IN	_ <O>
+certain	JJ	_ <O>
+beliefs	NNS	_ <O>
+and	CC	_ <O>
+practices	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+practices	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

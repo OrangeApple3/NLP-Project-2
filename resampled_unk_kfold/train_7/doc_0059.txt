@@ -1,0 +1,261 @@
+NULL
+The	DT	_ <O>
+first	JJ	_ <O>
+Power	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+November	NNP	_ <O>
+<unk>	CD	_ <O>
+to	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+2007	CD	_ <O>
+with	IN	_ <O>
+between	IN	_ <O>
+<unk>	CD	_ <O>
+and	CC	_ <O>
+<unk>	CD	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+people	NNS	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+creation	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+5	CD	_ <O>
+million	CD	_ <O>
+-	HYPH	_ <O>
+strong	JJ	_ <O>
+<unk>	NNP	_ <O>
+Energy	NNP	_ <O>
+<unk>	NNP	_ <O>
+Corps	NNP	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+claimed	VBN	<I-CUE>
+that	IN	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+young	JJ	_ <O>
+people	NNS	_ <O>
+who	WP	_ <O>
+<unk>	VBD	_ <O>
+the	DT	_ <O>
+conference	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+event	NN	_ <O>
+on	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+history	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+event	NN	_ <O>
+was	VBD	_ <O>
+also	RB	_ <O>
+attended	VBN	_ <O>
+by	IN	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+<unk>	NN	<I-CUE>
+<unk>	NNS	<I-CUE>
+which	WDT	_ <O>
+included	VBD	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+The	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+conference	NN	_ <O>
+was	VBD	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	VBN	_ <O>
+<unk>	NNS	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	NN	_ <O>
+which	WDT	_ <O>
+would	MD	_ <O>
+include	VB	_ <O>
+three	CD	_ <O>
+<unk>	NNS	_ <O>
+taken	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+climate	NN	_ <O>
+<unk>	NN	_ <O>
+coalition	NN	_ <O>
+<unk>	NN	_ <O>
+:	:	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+to	IN	_ <O>
+<unk>	CD	_ <O>
+<unk>	NN	_ <O>
+<unk>	IN	_ <O>
+<unk>	CD	_ <O>
+<unk>	NNS	_ <O>
+by	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+<unk>	NNS	<B-CUE>
+say	VB	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+effects	NNS	_ <O>
+of	IN	_ <O>
+global	JJ	_ <O>
+<unk>	NN	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+claimed	VBN	<I-CUE>
+that	IN	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+young	JJ	_ <O>
+people	NNS	_ <O>
+who	WP	_ <O>
+<unk>	VBD	_ <O>
+the	DT	_ <O>
+conference	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+event	NN	_ <O>
+on	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+history	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+event	NN	_ <O>
+was	VBD	_ <O>
+also	RB	_ <O>
+attended	VBN	_ <O>
+by	IN	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+<unk>	NN	<I-CUE>
+<unk>	NNS	<I-CUE>
+which	WDT	_ <O>
+included	VBD	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+The	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+conference	NN	_ <O>
+was	VBD	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	VBN	_ <O>
+<unk>	NNS	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	NN	_ <O>
+which	WDT	_ <O>
+would	MD	_ <O>
+include	VB	_ <O>
+three	CD	_ <O>
+<unk>	NNS	_ <O>
+taken	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+climate	NN	_ <O>
+<unk>	NN	_ <O>
+coalition	NN	_ <O>
+<unk>	NN	_ <O>
+:	:	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+to	IN	_ <O>
+<unk>	CD	_ <O>
+<unk>	NN	_ <O>
+<unk>	IN	_ <O>
+<unk>	CD	_ <O>
+<unk>	NNS	_ <O>
+by	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+<unk>	NNS	<B-CUE>
+say	VB	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+effects	NNS	_ <O>
+of	IN	_ <O>
+global	JJ	_ <O>
+<unk>	NN	_ <O>
+
+NULL

@@ -1,0 +1,56 @@
+<unk>	NNP	_ <O>
+data	NNS	_ <O>
+with	IN	_ <O>
+dense	JJ	_ <O>
+range	NN	_ <O>
+data	NNS	_ <O>
+from	IN	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBP	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+more	RBR	_ <O>
+accurate	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+x	NNP	_ <O>
+and	CC	_ <O>
+y	PRP$	_ <O>
+direction	NN	_ <O>
+while	IN	_ <O>
+range	NN	_ <O>
+data	NNS	_ <O>
+is	VBZ	_ <O>
+generally	RB	_ <O>
+more	RBR	_ <O>
+accurate	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+direction	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Photos	NNS	_ <O>
+can	MD	_ <O>
+clearly	RB	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+edges	NNS	_ <O>
+of	IN	_ <O>
+buildings	NNS	_ <O>
+when	WRB	_ <O>
+the	DT	_ <O>
+point	NN	_ <O>
+cloud	NN	_ <O>
+<unk>	NN	_ <O>
+can	MD	_ <O>
+not	RB	_ <O>
+.	.	_ <O>
+
+NULL

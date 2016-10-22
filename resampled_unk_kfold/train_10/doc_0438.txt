@@ -1,0 +1,39 @@
+An	DT	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+degree	NN	_ <O>
+program	NN	_ <O>
+is	VBZ	_ <O>
+2	CD	_ <O>
+years	NNS	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+<unk>	VBN	_ <O>
+through	IN	_ <O>
+a	DT	_ <O>
+community	NN	_ <O>
+college	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+addition	NN	_ <O>
+,	,	_ <O>
+most	JJS	_ <O>
+<unk>	NNS	_ <O>
+require	VBP	_ <O>
+that	IN	_ <O>
+<unk>	NNS	_ <O>
+attend	VBP	_ <O>
+ongoing	JJ	_ <O>
+<unk>	JJ	_ <O>
+courses	NNS	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+their	PRP$	_ <O>
+license	NN	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

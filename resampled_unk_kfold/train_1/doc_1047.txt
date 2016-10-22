@@ -1,0 +1,185 @@
+NULL
+'	``	_ <O>
+Mason	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+October	NNP	_ <O>
+11	CD	_ <O>
+1756	CD	_ <O>
+-	HYPH	_ <O>
+May	NNP	_ <O>
+23	CD	_ <O>
+1825	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+generally	RB	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+Weems	NNP	_ <O>
+'	POS	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+an	DT	_ <O>
+American	JJ	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+author	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Creating	VBG	_ <O>
+a	DT	_ <O>
+moral	JJ	_ <O>
+tale	NN	_ <O>
+to	TO	_ <O>
+emphasize	VB	_ <O>
+a	DT	_ <O>
+character	NN	_ <O>
+trait	NN	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+commonly	RB	_ <O>
+used	VBN	_ <O>
+literary	JJ	_ <O>
+device	NN	_ <O>
+in	IN	_ <O>
+18th	JJ	_ <O>
+century	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+is	VBZ	_ <O>
+best	RBS	<B-CUE>
+known	VBN	<I-CUE>
+as	IN	_ <O>
+the	DT	_ <O>
+source	NN	_ <O>
+of	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+<unk>	JJ	<I-CUE>
+stories	NNS	<I-CUE>
+about	IN	_ <O>
+George	NNP	_ <O>
+Washington	NNP	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+famous	JJ	_ <O>
+tale	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+tree	NN	_ <O>
+(	-LRB-	_ <O>
+"	``	_ <O>
+I	PRP	_ <O>
+can	MD	_ <O>
+not	RB	_ <O>
+tell	VB	_ <O>
+a	DT	_ <O>
+lie	NN	_ <O>
+,	,	_ <O>
+I	PRP	_ <O>
+did	VBD	_ <O>
+it	PRP	_ <O>
+with	IN	_ <O>
+my	PRP$	_ <O>
+little	JJ	_ <O>
+<unk>	NN	_ <O>
+"	''	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+The	DT	_ <O>
+Life	NN	_ <O>
+of	IN	_ <O>
+Washington	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+Weems	NNP	_ <O>
+'	POS	_ <O>
+most	RBS	<B-CUE>
+famous	JJ	<I-CUE>
+work	NN	_ <O>
+,	,	_ <O>
+contained	VBD	_ <O>
+the	DT	_ <O>
+story	NN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+is	VBZ	_ <O>
+best	RBS	<B-CUE>
+known	VBN	<I-CUE>
+as	IN	_ <O>
+the	DT	_ <O>
+source	NN	_ <O>
+of	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+<unk>	JJ	<I-CUE>
+stories	NNS	<I-CUE>
+about	IN	_ <O>
+George	NNP	_ <O>
+Washington	NNP	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+famous	JJ	_ <O>
+tale	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+tree	NN	_ <O>
+(	-LRB-	_ <O>
+"	``	_ <O>
+I	PRP	_ <O>
+can	MD	_ <O>
+not	RB	_ <O>
+tell	VB	_ <O>
+a	DT	_ <O>
+lie	NN	_ <O>
+,	,	_ <O>
+I	PRP	_ <O>
+did	VBD	_ <O>
+it	PRP	_ <O>
+with	IN	_ <O>
+my	PRP$	_ <O>
+little	JJ	_ <O>
+<unk>	NN	_ <O>
+"	''	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+The	DT	_ <O>
+Life	NN	_ <O>
+of	IN	_ <O>
+Washington	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+Weems	NNP	_ <O>
+'	POS	_ <O>
+most	RBS	<B-CUE>
+famous	JJ	<I-CUE>
+work	NN	_ <O>
+,	,	_ <O>
+contained	VBD	_ <O>
+the	DT	_ <O>
+story	NN	_ <O>
+.	.	_ <O>
+
+NULL

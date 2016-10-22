@@ -1,0 +1,98 @@
+NULL
+There	EX	<B-CUE>
+is	VBZ	<I-CUE>
+a	DT	<I-CUE>
+third	JJ	<I-CUE>
+group	NN	<I-CUE>
+that	WDT	_ <O>
+advocates	VBZ	_ <O>
+an	DT	_ <O>
+approach	NN	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+sometimes	RB	_ <O>
+referred	VBN	_ <O>
+to	IN	_ <O>
+as	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Gradualism	NN	_ <O>
+advocates	NNS	_ <O>
+are	VBP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+opinion	NN	_ <O>
+that	WDT	_ <O>
+harm	NN	_ <O>
+reduction	NN	_ <O>
+programs	NNS	_ <O>
+are	VBP	_ <O>
+sometimes	RB	_ <O>
+rooted	VBN	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+about	IN	_ <O>
+the	DT	_ <O>
+ability	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+to	TO	_ <O>
+stop	VB	_ <O>
+their	PRP$	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+represent	VB	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+soft	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+low	JJ	_ <O>
+expectations	NNS	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+unlikely	JJ	<B-CUE>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+interventions	NNS	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+good	JJ	_ <O>
+"	''	_ <O>
+or	CC	_ <O>
+"	``	_ <O>
+bad	JJ	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+Rather	RB	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+tend	VBP	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+more	RBR	_ <O>
+concerned	JJ	_ <O>
+that	IN	_ <O>
+programs	NNS	_ <O>
+should	MD	_ <O>
+urge	VB	_ <O>
+clients	NNS	_ <O>
+toward	IN	_ <O>
+<unk>	NN	_ <O>
+when	WRB	_ <O>
+windows	NNS	_ <O>
+of	IN	_ <O>
+opportunity	NN	_ <O>
+open	JJ	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,106 @@
+The	DT	_ <O>
+Emperor	NNP	_ <O>
+had	VBD	_ <O>
+an	DT	_ <O>
+unhappy	JJ	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+childhood	NN	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+the	DT	_ <O>
+most	JJS	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+surrounded	VBN	_ <O>
+by	IN	_ <O>
+employees	NNS	_ <O>
+who	WP	_ <O>
+only	RB	_ <O>
+had	VBD	_ <O>
+permission	NN	_ <O>
+to	TO	_ <O>
+speak	VB	_ <O>
+to	IN	_ <O>
+him	PRP	_ <O>
+when	WRB	_ <O>
+questioned	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+"	``	_ <O>
+The	DT	_ <O>
+only	JJ	_ <O>
+means	VBZ	_ <O>
+available	JJ	_ <O>
+to	IN	_ <O>
+him	PRP	_ <O>
+for	IN	_ <O>
+holding	VBG	_ <O>
+that	DT	_ <O>
+world	NN	_ <O>
+at	IN	_ <O>
+bay	NN	_ <O>
+lay	VBD	_ <O>
+within	IN	_ <O>
+himself	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+was	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+but	CC	_ <O>
+was	VBD	_ <O>
+always	RB	_ <O>
+crying	VBG	_ <O>
+and	CC	_ <O>
+nothing	NN	_ <O>
+seemed	VBD	_ <O>
+to	TO	_ <O>
+please	VB	_ <O>
+him	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+was	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+but	CC	_ <O>
+was	VBD	_ <O>
+always	RB	_ <O>
+crying	VBG	_ <O>
+and	CC	_ <O>
+nothing	NN	_ <O>
+seemed	VBD	_ <O>
+to	TO	_ <O>
+please	VB	_ <O>
+him	PRP	_ <O>
+.	.	_ <O>
+
+NULL

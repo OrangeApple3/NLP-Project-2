@@ -1,0 +1,71 @@
+NULL
+To	TO	_ <O>
+complete	VB	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Eastern	JJ	_ <O>
+and	CC	_ <O>
+Western	JJ	_ <O>
+claims	NNS	_ <O>
+,	,	_ <O>
+Hugh	NNP	_ <O>
+ceded	VBD	_ <O>
+his	PRP$	_ <O>
+rights	NNS	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+to	IN	_ <O>
+Louis	NNP	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+Louis	NNP	_ <O>
+<unk>	VBD	_ <O>
+his	PRP$	_ <O>
+claims	NNS	_ <O>
+on	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NNS	_ <O>
+'	POS	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Hugh	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+accused	VBD	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+probably	RB	<B-CUE>
+on	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+accused	VBD	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+probably	RB	<B-CUE>
+on	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

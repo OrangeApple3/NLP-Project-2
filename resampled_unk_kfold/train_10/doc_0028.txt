@@ -1,0 +1,180 @@
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	VBD	_ <O>
+together	RP	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+own	JJ	_ <O>
+PSD	NN	_ <O>
+<unk>	IN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Popular	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+Popular	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	:	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+another	DT	_ <O>
+<unk>	JJ	_ <O>
+party	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+—	:	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+coalition	NN	_ <O>
+<unk>	VBD	_ <O>
+<unk>	CD	_ <O>
+%	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+<unk>	CD	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+majority	NN	_ <O>
+of	IN	_ <O>
+3	CD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	CD	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+coalition	NN	_ <O>
+with	IN	_ <O>
+another	DT	_ <O>
+left	JJ	_ <O>
+-	HYPH	_ <O>
+wing	NN	_ <O>
+party	NN	_ <O>
+,	,	_ <O>
+<unk>	VBD	_ <O>
+<unk>	RB	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+had	VBD	_ <O>
+also	RB	_ <O>
+<unk>	VBN	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+coalition	NN	_ <O>
+with	IN	_ <O>
+several	JJ	<B-CUE>
+small	JJ	<I-CUE>
+<unk>	VBN	<I-CUE>
+-	HYPH	<I-CUE>
+<unk>	NN	<I-CUE>
+groups	NNS	<I-CUE>
+,	,	_ <O>
+<unk>	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+won	VBD	_ <O>
+only	RB	_ <O>
+<unk>	CD	_ <O>
+%	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+large	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBN	_ <O>
+with	IN	_ <O>
+<unk>	CD	_ <O>
+results	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+had	VBD	_ <O>
+also	RB	_ <O>
+<unk>	VBN	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+coalition	NN	_ <O>
+with	IN	_ <O>
+several	JJ	<B-CUE>
+small	JJ	<I-CUE>
+<unk>	VBN	<I-CUE>
+-	HYPH	<I-CUE>
+<unk>	NN	<I-CUE>
+groups	NNS	<I-CUE>
+,	,	_ <O>
+<unk>	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+won	VBD	_ <O>
+only	RB	_ <O>
+<unk>	CD	_ <O>
+%	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+large	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBN	_ <O>
+with	IN	_ <O>
+<unk>	CD	_ <O>
+results	NNS	_ <O>
+.	.	_ <O>
+
+NULL

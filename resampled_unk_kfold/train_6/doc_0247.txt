@@ -1,0 +1,163 @@
+NULL
+This	DT	_ <O>
+strategy	NN	_ <O>
+was	VBD	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+various	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Greeks	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+<unk>	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+largely	RB	<B-CUE>
+abandoned	VBN	_ <O>
+in	IN	_ <O>
+modern	JJ	_ <O>
+day	NN	_ <O>
+<unk>	NNS	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+fact	NN	_ <O>
+that	IN	_ <O>
+modern	JJ	_ <O>
+weapons	NNS	_ <O>
+would	MD	_ <O>
+allow	VB	_ <O>
+the	DT	_ <O>
+dogs	NNS	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+destroyed	VBN	_ <O>
+almost	RB	_ <O>
+immediately	RB	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+on	IN	_ <O>
+<unk>	NNP	_ <O>
+when	WRB	_ <O>
+US	NNP	_ <O>
+soldiers	NNS	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Japanese	JJ	_ <O>
+soldiers	NNS	_ <O>
+and	CC	_ <O>
+their	PRP$	_ <O>
+dogs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNS	<B-CUE>
+questions	NNS	<I-CUE>
+have	VBP	<I-CUE>
+also	RB	<I-CUE>
+been	VBN	<I-CUE>
+<unk>	VBN	<I-CUE>
+about	IN	_ <O>
+the	DT	_ <O>
+uses	NNS	_ <O>
+of	IN	_ <O>
+dogs	NNS	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+way	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+strategy	NN	_ <O>
+was	VBD	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+various	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Greeks	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+<unk>	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+largely	RB	<B-CUE>
+abandoned	VBN	_ <O>
+in	IN	_ <O>
+modern	JJ	_ <O>
+day	NN	_ <O>
+<unk>	NNS	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+fact	NN	_ <O>
+that	IN	_ <O>
+modern	JJ	_ <O>
+weapons	NNS	_ <O>
+would	MD	_ <O>
+allow	VB	_ <O>
+the	DT	_ <O>
+dogs	NNS	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+destroyed	VBN	_ <O>
+almost	RB	_ <O>
+immediately	RB	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+on	IN	_ <O>
+<unk>	NNP	_ <O>
+when	WRB	_ <O>
+US	NNP	_ <O>
+soldiers	NNS	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Japanese	JJ	_ <O>
+soldiers	NNS	_ <O>
+and	CC	_ <O>
+their	PRP$	_ <O>
+dogs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNS	<B-CUE>
+questions	NNS	<I-CUE>
+have	VBP	<I-CUE>
+also	RB	<I-CUE>
+been	VBN	<I-CUE>
+<unk>	VBN	<I-CUE>
+about	IN	_ <O>
+the	DT	_ <O>
+uses	NNS	_ <O>
+of	IN	_ <O>
+dogs	NNS	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+way	NN	_ <O>
+.	.	_ <O>
+
+NULL

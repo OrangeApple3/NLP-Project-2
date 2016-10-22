@@ -1,0 +1,136 @@
+NULL
+By	IN	_ <O>
+most	JJS	_ <O>
+accounts	NNS	_ <O>
+,	,	_ <O>
+39	CD	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+issued	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+label	NN	_ <O>
+.	.	_ <O>
+
+NULL
+(	-LRB-	_ <O>
+This	DT	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+were	VBD	_ <O>
+<unk>	RB	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+were	VBD	_ <O>
+intended	VBN	_ <O>
+to	TO	_ <O>
+focus	VB	_ <O>
+attention	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+A	NNP	_ <O>
+-	HYPH	_ <O>
+sides	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Also	RB	_ <O>
+,	,	_ <O>
+most	JJS	<B-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+one	CD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Back	RB	_ <O>
+to	IN	_ <O>
+Mono	NNP	_ <O>
+'	POS	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+list	NN	_ <O>
+two	CD	_ <O>
+items	NNS	_ <O>
+with	IN	_ <O>
+<unk>	NN	_ <O>
+number	NN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	CD	_ <O>
+:	:	_ <O>
+"	``	_ <O>
+<unk>	JJ	_ <O>
+And	CC	_ <O>
+Fall	NNP	_ <O>
+"	''	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+Love	NNP	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+and	CC	_ <O>
+replaced	VBN	_ <O>
+with	IN	_ <O>
+"	``	_ <O>
+Walking	VBG	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Rain	NN	_ <O>
+"	''	_ <O>
+by	IN	_ <O>
+The	DT	_ <O>
+<unk>	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+Despite	IN	_ <O>
+the	DT	_ <O>
+prior	JJ	_ <O>
+claim	NN	<B-CUE>
+that	IN	_ <O>
+Philles	NNP	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	CD	_ <O>
+were	VBD	_ <O>
+not	RB	_ <O>
+released	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+regular	JJ	_ <O>
+stock	NN	_ <O>
+copies	NNS	_ <O>
+of	IN	_ <O>
+all	DT	_ <O>
+3	CD	_ <O>
+exist	VBP	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+withdrawn	VBN	_ <O>
+Darlene	NNP	_ <O>
+Love	NNP	_ <O>
+single	JJ	_ <O>
+listed	VBN	_ <O>
+above	RB	_ <O>
+.	.	_ <O>
+
+NULL

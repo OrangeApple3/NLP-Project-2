@@ -1,0 +1,117 @@
+NULL
+Polar	JJ	_ <O>
+bears	NNS	_ <O>
+have	VBP	_ <O>
+also	RB	_ <O>
+been	VBN	_ <O>
+observed	VBN	_ <O>
+to	TO	_ <O>
+eat	VB	_ <O>
+a	DT	_ <O>
+wide	JJ	_ <O>
+variety	NN	_ <O>
+of	IN	_ <O>
+other	JJ	_ <O>
+wild	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+birds	NNS	_ <O>
+,	,	_ <O>
+eggs	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+polar	JJ	_ <O>
+bears	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+may	MD	_ <O>
+also	RB	_ <O>
+eat	VB	_ <O>
+plants	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+roots	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+none	NN	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+are	VBP	_ <O>
+a	DT	_ <O>
+significant	JJ	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+diet	NN	_ <O>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+sea	NN	_ <O>
+ice	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	JJ	_ <O>
+during	IN	_ <O>
+summer	NN	_ <O>
+and	CC	_ <O>
+early	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+<unk>	NNS	<I-CUE>
+live	VB	_ <O>
+off	RP	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+months	NNS	_ <O>
+at	IN	_ <O>
+a	DT	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+sea	NN	_ <O>
+ice	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	JJ	_ <O>
+during	IN	_ <O>
+summer	NN	_ <O>
+and	CC	_ <O>
+early	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+<unk>	NNS	<I-CUE>
+live	VB	_ <O>
+off	RP	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+months	NNS	_ <O>
+at	IN	_ <O>
+a	DT	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL

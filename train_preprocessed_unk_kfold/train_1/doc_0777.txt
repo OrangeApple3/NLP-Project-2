@@ -1,0 +1,158 @@
+NULL
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+most	RBS	<B-CUE>
+important	JJ	<I-CUE>
+contribution	NN	_ <O>
+to	IN	_ <O>
+science	NN	_ <O>
+is	VBZ	_ <O>
+without	IN	<B-CUE>
+doubt	NN	<I-CUE>
+the	DT	_ <O>
+invention	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+concept	NN	_ <O>
+of	IN	_ <O>
+plant	NN	_ <O>
+families	NNS	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+natural	JJ	_ <O>
+classification	NN	_ <O>
+,	,	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+combinations	NNS	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+characters	NNS	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+set	VBN	_ <O>
+out	RP	_ <O>
+in	IN	_ <O>
+his	PRP$	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+quo	NN	_ <O>
+<unk>	JJ	_ <O>
+plantarum	NN	_ <O>
+per	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+<unk>	CD	_ <O>
+)	-RRB-	_ <O>
+(	-LRB-	_ <O>
+See	VB	_ <O>
+under	IN	_ <O>
+major	JJ	_ <O>
+works	NNS	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+Magnol	NNP	_ <O>
+'s	POS	_ <O>
+day	NN	_ <O>
+it	PRP	<B-CUE>
+was	VBD	<I-CUE>
+common	JJ	<I-CUE>
+belief	NN	<I-CUE>
+that	IN	_ <O>
+all	DT	_ <O>
+species	NNS	_ <O>
+had	VBD	_ <O>
+come	VBN	_ <O>
+into	IN	_ <O>
+existence	NN	_ <O>
+by	IN	_ <O>
+divine	JJ	_ <O>
+creation	NN	_ <O>
+as	IN	_ <O>
+set	VBN	_ <O>
+out	RP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Book	NNP	_ <O>
+of	IN	_ <O>
+Genesis	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Nevertheless	RB	_ <O>
+his	PRP$	_ <O>
+work	NN	_ <O>
+may	MD	<B-CUE>
+be	VB	<I-CUE>
+regarded	VBN	<I-CUE>
+as	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+steps	NNS	_ <O>
+towards	IN	_ <O>
+the	DT	_ <O>
+composition	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+tree	NN	_ <O>
+of	IN	_ <O>
+life	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+his	PRP$	_ <O>
+'	``	_ <O>
+Prodromus	NNP	_ <O>
+'	''	_ <O>
+he	PRP	_ <O>
+developed	VBD	_ <O>
+75	CD	_ <O>
+tables	NNS	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+not	RB	_ <O>
+only	RB	_ <O>
+grouped	VBN	_ <O>
+plants	NNS	_ <O>
+into	IN	_ <O>
+families	NNS	_ <O>
+but	CC	_ <O>
+also	RB	_ <O>
+allowed	VBN	_ <O>
+for	IN	_ <O>
+an	DT	_ <O>
+easy	JJ	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+identification	NN	_ <O>
+by	IN	_ <O>
+means	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+morphological	JJ	_ <O>
+characters	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+he	PRP	_ <O>
+used	VBD	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+groups	NNS	_ <O>
+.	.	_ <O>
+
+NULL

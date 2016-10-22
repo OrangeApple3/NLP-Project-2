@@ -1,0 +1,88 @@
+NULL
+Most	JJS	<B-CUE>
+<unk>	NNS	<I-CUE>
+contain	VBP	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+(	-LRB-	_ <O>
+in	IN	_ <O>
+fact	NN	_ <O>
+,	,	_ <O>
+petroleum	NN	_ <O>
+jelly	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+used	VBN	_ <O>
+<unk>	RB	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+also	RB	_ <O>
+contain	VBP	_ <O>
+some	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+<unk>	JJ	_ <O>
+or	CC	_ <O>
+<unk>	VBN	_ <O>
+with	IN	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+<unk>	VBZ	_ <O>
+<unk>	PRP	_ <O>
+<unk>	JJR	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+may	MD	_ <O>
+also	RB	_ <O>
+contain	VB	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	JJS	_ <O>
+will	MD	_ <O>
+have	VB	_ <O>
+a	DT	_ <O>
+<unk>	JJR	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+while	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+may	MD	_ <O>
+have	VB	_ <O>
+a	DT	_ <O>
+higher	JJR	_ <O>
+proportion	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,123 @@
+NULL
+The	DT	_ <O>
+games	NNS	_ <O>
+received	VBD	_ <O>
+generally	RB	<B-CUE>
+favorable	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Most	JJS	<B-CUE>
+critics	NNS	<I-CUE>
+praised	VBD	_ <O>
+the	DT	_ <O>
+addition	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+Fi	NNP	_ <O>
+features	NNS	_ <O>
+and	CC	_ <O>
+felt	VBD	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+gameplay	NN	_ <O>
+,	,	_ <O>
+though	IN	_ <O>
+it	PRP	_ <O>
+had	VBD	_ <O>
+not	RB	_ <O>
+received	VBN	_ <O>
+much	JJ	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+previous	JJ	_ <O>
+games	NNS	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+still	RB	_ <O>
+engaging	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+Reviewers	NNS	<B-CUE>
+were	VBD	_ <O>
+divided	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+graphics	NNS	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+;	:	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+audio	NN	_ <O>
+was	VBD	_ <O>
+criticized	VBN	_ <O>
+as	IN	_ <O>
+being	VBG	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+games	NNS	_ <O>
+enjoyed	VBD	_ <O>
+more	RBR	_ <O>
+commercial	JJ	_ <O>
+success	NN	_ <O>
+than	IN	_ <O>
+their	PRP$	_ <O>
+Game	NNP	_ <O>
+Boy	NNP	_ <O>
+Advance	NNP	_ <O>
+predecessors	NNS	_ <O>
+:	:	_ <O>
+with	IN	_ <O>
+around	RB	_ <O>
+15	CD	_ <O>
+million	CD	_ <O>
+units	NNS	_ <O>
+sold	VBN	_ <O>
+worldwide	RB	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+Diamond	NNP	_ <O>
+'	''	_ <O>
+and	CC	_ <O>
+'	``	_ <O>
+Pearl	NNP	_ <O>
+'	''	_ <O>
+have	VBP	_ <O>
+sold	VBN	_ <O>
+around	RB	_ <O>
+1	CD	_ <O>
+million	CD	_ <O>
+more	JJR	_ <O>
+units	NNS	_ <O>
+than	IN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+and	CC	_ <O>
+'	``	_ <O>
+Sapphire	NNP	_ <O>
+'	''	_ <O>
+and	CC	_ <O>
+almost	RB	_ <O>
+3	CD	_ <O>
+million	CD	_ <O>
+more	JJR	_ <O>
+units	NNS	_ <O>
+than	IN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+and	CC	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL

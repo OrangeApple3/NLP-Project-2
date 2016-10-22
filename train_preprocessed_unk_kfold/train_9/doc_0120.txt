@@ -1,0 +1,98 @@
+NULL
+The	DT	_ <O>
+line	NN	_ <O>
+opened	VBN	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+to	TO	_ <O>
+service	VB	_ <O>
+various	JJ	_ <O>
+World	NNP	_ <O>
+War	NNP	_ <O>
+II	NNP	_ <O>
+<unk>	VBZ	_ <O>
+<unk>	NNS	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+built	VBN	_ <O>
+for	IN	_ <O>
+industrial	JJ	_ <O>
+purposes	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBD	_ <O>
+off	RP	_ <O>
+both	DT	_ <O>
+the	DT	_ <O>
+Up	NNP	_ <O>
+and	CC	_ <O>
+Down	NNP	_ <O>
+<unk>	NNS	_ <O>
+at	IN	_ <O>
+many	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+the	DT	_ <O>
+war	NN	_ <O>
+years	NNS	_ <O>
+this	DT	_ <O>
+<unk>	NN	_ <O>
+line	NN	_ <O>
+was	VBD	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+factories	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+was	VBD	_ <O>
+necessary	JJ	_ <O>
+because	IN	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+still	RB	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+-	HYPH	_ <O>
+rural	JJ	_ <O>
+community	NN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+and	CC	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+had	VBD	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+brought	VBN	_ <O>
+in	RP	_ <O>
+from	IN	_ <O>
+other	JJ	_ <O>
+districts	NNS	_ <O>
+.	.	_ <O>
+
+NULL

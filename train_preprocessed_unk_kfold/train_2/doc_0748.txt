@@ -1,0 +1,102 @@
+NULL
+After	IN	_ <O>
+some	DT	<B-CUE>
+typically	RB	<I-CUE>
+<unk>	JJ	<I-CUE>
+behaviour	NN	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+bathroom	NN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+making	VBG	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+shape	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+pattern	NN	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+eventually	RB	_ <O>
+get	VBP	_ <O>
+to	IN	_ <O>
+bed	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Pingu	NNP	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+initially	RB	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+shadow	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+then	RB	_ <O>
+<unk>	VBZ	_ <O>
+that	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+other	JJ	<I-CUE>
+things	NNS	<I-CUE>
+have	VBP	_ <O>
+caused	VBN	_ <O>
+the	DT	_ <O>
+shadow	NN	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+both	DT	_ <O>
+sit	VBP	_ <O>
+on	IN	_ <O>
+Pingu	NNP	_ <O>
+’s	XX	_ <O>
+bed	NN	_ <O>
+and	CC	_ <O>
+Pingu	NNP	_ <O>
+makes	VBZ	_ <O>
+some	DT	<B-CUE>
+shadows	NNS	<I-CUE>
+on	IN	_ <O>
+the	DT	_ <O>
+wall	NN	_ <O>
+that	WDT	_ <O>
+<unk>	NNP	_ <O>
+enjoys	VBZ	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+some	DT	<B-CUE>
+thought	VBD	_ <O>
+Pingu	NNP	_ <O>
+does	VBZ	_ <O>
+a	DT	_ <O>
+shadow	NN	_ <O>
+of	IN	_ <O>
+Father	NNP	_ <O>
+and	CC	_ <O>
+<unk>	VBZ	_ <O>
+him	PRP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+Pinga	NNP	_ <O>
+<unk>	VBZ	_ <O>
+.	.	_ <O>
+
+NULL

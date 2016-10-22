@@ -1,0 +1,18 @@
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	JJ	_ <O>
+Commander	NNP	_ <O>
+<unk>	NNP	_ <O>
+as	IN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL

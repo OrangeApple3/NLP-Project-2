@@ -1,0 +1,15 @@
+He	PRP	_ <O>
+<unk>	VBD	_ <O>
+<unk>	CD	_ <O>
+yellow	JJ	_ <O>
+cards	NNS	_ <O>
+and	CC	_ <O>
+four	CD	_ <O>
+red	JJ	_ <O>
+cards	NNS	_ <O>
+for	IN	_ <O>
+Real	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

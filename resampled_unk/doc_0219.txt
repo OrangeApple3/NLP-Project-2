@@ -1,0 +1,31 @@
+Trap	NN	_ <O>
+room	NN	_ <O>
+:	:	_ <O>
+A	DT	_ <O>
+large	JJ	_ <O>
+open	JJ	_ <O>
+space	NN	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+many	JJ	_ <O>
+large	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+often	RB	_ <O>
+<unk>	VBZ	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+storage	NN	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+
+NULL

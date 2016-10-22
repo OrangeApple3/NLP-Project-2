@@ -1,0 +1,30 @@
+NULL
+The	DT	_ <O>
+toll	NN	_ <O>
+-	HYPH	_ <O>
+free	JJ	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+east	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+<unk>	CD	_ <O>
+km	NNS	_ <O>
+long	RB	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+six	CD	_ <O>
+lines	NNS	_ <O>
+and	CC	_ <O>
+designed	VBD	_ <O>
+for	IN	_ <O>
+travel	NN	_ <O>
+at	IN	_ <O>
+80	CD	_ <O>
+km/h	NNS	_ <O>
+.	.	_ <O>
+
+NULL

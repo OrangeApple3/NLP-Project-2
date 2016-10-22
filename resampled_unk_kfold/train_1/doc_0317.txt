@@ -1,0 +1,150 @@
+NULL
+Apart	RB	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+painted	VBD	_ <O>
+two	CD	_ <O>
+chalice	NN	_ <O>
+'	``	_ <O>
+kraters	NNS	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+white	JJ	_ <O>
+-	HYPH	_ <O>
+ground	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+rarity	NN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+<unk>	JJ	_ <O>
+name	NN	_ <O>
+is	VBZ	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+fact	NN	_ <O>
+that	IN	_ <O>
+a	DT	_ <O>
+painted	VBN	_ <O>
+'	''	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+shape	NN	_ <O>
+rarely	RB	_ <O>
+equipped	VBN	_ <O>
+with	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+known	VBN	_ <O>
+from	IN	_ <O>
+him	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+painted	VBD	_ <O>
+several	JJ	_ <O>
+large	JJ	_ <O>
+<unk>	NN	_ <O>
+'	``	_ <O>
+<unk>	NNS	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+with	IN	_ <O>
+two	CD	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+figures	NNS	_ <O>
+;	:	_ <O>
+unlike	IN	_ <O>
+his	PRP$	_ <O>
+master	NN	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+seems	VBZ	<B-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+preferred	VBN	_ <O>
+larger	JJR	_ <O>
+vessels	NNS	_ <O>
+in	IN	_ <O>
+general	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+themes	NNS	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+partially	RB	_ <O>
+influenced	VBN	_ <O>
+by	IN	_ <O>
+contemporary	JJ	_ <O>
+theatre	NN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+painted	VBD	_ <O>
+several	JJ	_ <O>
+large	JJ	_ <O>
+<unk>	NN	_ <O>
+'	``	_ <O>
+<unk>	NNS	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+with	IN	_ <O>
+two	CD	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+figures	NNS	_ <O>
+;	:	_ <O>
+unlike	IN	_ <O>
+his	PRP$	_ <O>
+master	NN	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+seems	VBZ	<B-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+preferred	VBN	_ <O>
+larger	JJR	_ <O>
+vessels	NNS	_ <O>
+in	IN	_ <O>
+general	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+themes	NNS	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+partially	RB	_ <O>
+influenced	VBN	_ <O>
+by	IN	_ <O>
+contemporary	JJ	_ <O>
+theatre	NN	_ <O>
+.	.	_ <O>
+
+NULL

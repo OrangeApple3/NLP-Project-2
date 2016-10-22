@@ -1,0 +1,59 @@
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+versions	NNS	<I-CUE>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+Cau	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+other	JJ	_ <O>
+common	JJ	_ <O>
+version	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+Italian	JJ	_ <O>
+"	''	_ <O>
+style	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	_ <O>
+<unk>	NNS	_ <O>
+add	VBP	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+following	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+step	NN	_ <O>
+.	.	_ <O>
+
+NULL
+These	DT	_ <O>
+<unk>	NNS	_ <O>
+may	MD	<B-CUE>
+have	VBP	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+Chinese	JJ	_ <O>
+influence	NN	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+Italian	JJ	_ <O>
+.	.	_ <O>
+
+NULL

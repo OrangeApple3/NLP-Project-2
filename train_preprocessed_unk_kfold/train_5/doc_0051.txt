@@ -1,0 +1,104 @@
+NULL
+The	DT	_ <O>
+<unk>	NNS	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+acquired	VBN	_ <O>
+in	IN	_ <O>
+several	JJ	_ <O>
+<unk>	NNS	_ <O>
+:	:	_ <O>
+
+NULL
+If	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+3	CD	_ <O>
+has	VBZ	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+Internet	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+updates	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+<unk>	RB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+PlayStation	NNP	_ <O>
+Network	NNP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBD	_ <O>
+.	.	_ <O>
+
+NULL
+Using	VBG	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+user	NN	_ <O>
+may	MD	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+official	JJ	_ <O>
+PlayStation	NNP	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+transfer	VB	_ <O>
+it	PRP	_ <O>
+to	IN	_ <O>
+<unk>	JJ	_ <O>
+storage	NN	_ <O>
+media	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	VB	_ <O>
+it	PRP	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+System	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+<unk>	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+update	NN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+run	VB	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+so	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+software	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+installed	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,84 @@
+NULL
+Tournaments	NNS	_ <O>
+are	VBP	_ <O>
+<unk>	VBN	_ <O>
+over	IN	_ <O>
+a	DT	_ <O>
+three	CD	_ <O>
+day	NN	_ <O>
+period	NN	_ <O>
+of	IN	_ <O>
+time	NN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+most	JJS	_ <O>
+instances	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+can	MD	_ <O>
+either	RB	_ <O>
+be	VB	_ <O>
+Friday	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+more	RBR	_ <O>
+often	RB	_ <O>
+Saturday	NNP	_ <O>
+-	HYPH	_ <O>
+Monday	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+per	IN	_ <O>
+tournament	NN	_ <O>
+ranges	VBZ	_ <O>
+from	IN	_ <O>
+6	CD	_ <O>
+-	SYM	_ <O>
+8	CD	_ <O>
+usually	RB	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+small	JJ	_ <O>
+regional	JJ	_ <O>
+tournaments	NNS	_ <O>
+may	MD	_ <O>
+have	VB	_ <O>
+fewer	JJR	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+first	JJ	_ <O>
+two	CD	_ <O>
+days	NNS	_ <O>
+of	IN	_ <O>
+competition	NN	_ <O>
+are	VBP	_ <O>
+when	WRB	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+rounds	NNS	_ <O>
+occur	VBP	_ <O>
+,	,	_ <O>
+possibly	RB	_ <O>
+beginning	VBG	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+out	IN	_ <O>
+-	HYPH	_ <O>
+round	RB	_ <O>
+the	DT	_ <O>
+second	JJ	_ <O>
+night	NN	_ <O>
+.	.	_ <O>
+
+NULL

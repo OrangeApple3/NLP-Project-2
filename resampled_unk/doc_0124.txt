@@ -1,0 +1,127 @@
+The	DT	_ <O>
+most	RBS	_ <O>
+recent	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+college	NN	_ <O>
+came	VBD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+Lane	NNP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+north	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+modern	JJ	_ <O>
+<unk>	NN	_ <O>
+was	VBD	_ <O>
+built	VBN	_ <O>
+near	IN	_ <O>
+to	IN	_ <O>
+college	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+provides	VBZ	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+almost	RB	_ <O>
+a	DT	_ <O>
+hundred	CD	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+usually	RB	_ <O>
+those	DT	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+<unk>	JJ	_ <O>
+year	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+building	NN	_ <O>
+is	VBZ	<B-CUE>
+commonly	RB	<I-CUE>
+known	VBN	<I-CUE>
+as	IN	_ <O>
+"	``	_ <O>
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+after	IN	_ <O>
+being	VBG	_ <O>
+named	VBN	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+former	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+college	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	CD	_ <O>
+-	SYM	_ <O>
+<unk>	CD	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+building	NN	_ <O>
+is	VBZ	<B-CUE>
+commonly	RB	<I-CUE>
+known	VBN	<I-CUE>
+as	IN	_ <O>
+"	``	_ <O>
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+after	IN	_ <O>
+being	VBG	_ <O>
+named	VBN	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+former	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+college	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	CD	_ <O>
+-	SYM	_ <O>
+<unk>	CD	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

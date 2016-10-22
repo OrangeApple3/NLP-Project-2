@@ -1,0 +1,145 @@
+NULL
+One	CD	<B-CUE>
+could	MD	_ <O>
+argue	VB	_ <O>
+that	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+<unk>	JJ	<I-CUE>
+accident	NN	_ <O>
+that	WDT	_ <O>
+has	VBZ	_ <O>
+ever	RB	_ <O>
+happened	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+World	NNP	_ <O>
+War	NNP	_ <O>
+II	NNP	_ <O>
+,	,	_ <O>
+Japan	NNP	_ <O>
+invaded	VBD	_ <O>
+rubber	NN	_ <O>
+producing	VBG	_ <O>
+countries	NNS	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+cut	VB	_ <O>
+off	RP	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+supply	NN	_ <O>
+of	IN	_ <O>
+rubber	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+needed	VBN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+produce	VB	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+vehicles	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+gas	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+even	RB	_ <O>
+bombers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+To	TO	_ <O>
+help	VB	_ <O>
+combat	VB	_ <O>
+the	DT	_ <O>
+lack	NN	_ <O>
+of	IN	_ <O>
+rubber	NN	_ <O>
+US	NNP	_ <O>
+citizens	NNS	_ <O>
+were	VBD	_ <O>
+asked	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+any	DT	_ <O>
+rubber	NN	_ <O>
+around	IN	_ <O>
+their	PRP$	_ <O>
+house	NN	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	JJ	_ <O>
+tires	NNS	_ <O>
+,	,	_ <O>
+rubber	NN	_ <O>
+boots	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+rubber	NN	_ <O>
+rain	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+All	DT	_ <O>
+rubber	NN	_ <O>
+made	VBN	_ <O>
+products	NNS	_ <O>
+were	VBD	_ <O>
+<unk>	VBN	_ <O>
+and	CC	_ <O>
+citizens	NNS	_ <O>
+had	VBD	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+their	PRP$	_ <O>
+products	NNS	_ <O>
+last	RB	_ <O>
+till	IN	_ <O>
+the	DT	_ <O>
+end	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+war	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Also	RB	_ <O>
+in	IN	_ <O>
+response	NN	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+asked	VBD	_ <O>
+producers	NNS	_ <O>
+to	TO	_ <O>
+try	VB	_ <O>
+and	CC	_ <O>
+come	VB	_ <O>
+up	RP	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+synthetic	JJ	_ <O>
+rubber	NN	_ <O>
+compound	NN	_ <O>
+.	.	_ <O>
+
+NULL

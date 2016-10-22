@@ -1,0 +1,80 @@
+NULL
+The	DT	_ <O>
+term	NN	_ <O>
+"	``	_ <O>
+type	NN	_ <O>
+"	''	_ <O>
+has	VBZ	<B-CUE>
+not	RB	<I-CUE>
+been	VBN	<I-CUE>
+used	VBN	<I-CUE>
+<unk>	RB	<I-CUE>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+has	VBZ	_ <O>
+become	VBN	_ <O>
+the	DT	_ <O>
+source	NN	_ <O>
+of	IN	_ <O>
+some	DT	<B-CUE>
+confusion	NN	<I-CUE>
+.	.	_ <O>
+
+NULL
+Furthermore	RB	_ <O>
+,	,	_ <O>
+because	IN	_ <O>
+personality	NN	_ <O>
+test	NN	_ <O>
+<unk>	NNS	_ <O>
+usually	RB	_ <O>
+fall	VBP	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+curve	NN	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+in	IN	_ <O>
+distinct	JJ	_ <O>
+categories	NNS	_ <O>
+,	,	_ <O>
+personality	NN	_ <O>
+type	NN	_ <O>
+theories	NNS	_ <O>
+have	VBP	<B-CUE>
+received	VBN	<I-CUE>
+considerable	JJ	<I-CUE>
+criticism	NN	<I-CUE>
+among	IN	_ <O>
+<unk>	JJ	<B-CUE>
+researchers	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Most	JJS	<B-CUE>
+researchers	NNS	<I-CUE>
+now	RB	_ <O>
+believe	VBP	_ <O>
+that	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+impossible	JJ	_ <O>
+to	TO	_ <O>
+explain	VB	_ <O>
+the	DT	_ <O>
+diversity	NN	_ <O>
+of	IN	_ <O>
+human	JJ	_ <O>
+personality	NN	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+small	JJ	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+types	NNS	_ <O>
+.	.	_ <O>
+
+NULL

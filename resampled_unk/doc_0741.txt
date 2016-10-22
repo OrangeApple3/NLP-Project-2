@@ -1,0 +1,204 @@
+The	DT	_ <O>
+most	RBS	_ <O>
+<unk>	JJ	_ <O>
+predict	VB	_ <O>
+a	DT	_ <O>
+failure	NN	_ <O>
+:	:	_ <O>
+"	``	_ <O>
+nothing	NN	_ <O>
+will	MD	_ <O>
+be	VB	_ <O>
+as	RB	_ <O>
+before	IN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+pioneer	NN	_ <O>
+musical	JJ	_ <O>
+groups	NNS	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+lead	VB	_ <O>
+the	DT	_ <O>
+effort	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+<unk>	JJ	_ <O>
+years	NNS	_ <O>
+the	DT	_ <O>
+situation	NN	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+improve	VB	_ <O>
+<unk>	RB	_ <O>
+,	,	_ <O>
+only	RB	_ <O>
+some	DT	<B-CUE>
+<unk>	JJ	<I-CUE>
+events	NNS	<I-CUE>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+arrival	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Still	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1950s	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+carnival	NN	_ <O>
+becomes	VBZ	_ <O>
+the	DT	_ <O>
+object	NN	_ <O>
+of	IN	_ <O>
+attacks	NNS	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+<unk>	JJ	_ <O>
+Christian	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	JJ	<I-CUE>
+organisations	NNS	<I-CUE>
+roll	VB	_ <O>
+up	RP	_ <O>
+to	TO	_ <O>
+<unk>	NNP	_ <O>
+from	IN	_ <O>
+other	JJ	_ <O>
+regions	NNS	_ <O>
+of	IN	_ <O>
+Greece	NNP	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+carnival	NN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+denounce	VB	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+they	PRP	<B-CUE>
+are	VBP	_ <O>
+prevented	VBN	_ <O>
+from	IN	_ <O>
+creating	VBG	_ <O>
+<unk>	NN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+police	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+<unk>	JJ	_ <O>
+years	NNS	_ <O>
+the	DT	_ <O>
+situation	NN	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+improve	VB	_ <O>
+<unk>	RB	_ <O>
+,	,	_ <O>
+only	RB	_ <O>
+some	DT	<B-CUE>
+<unk>	JJ	<I-CUE>
+events	NNS	<I-CUE>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+arrival	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Still	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1950s	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+carnival	NN	_ <O>
+becomes	VBZ	_ <O>
+the	DT	_ <O>
+object	NN	_ <O>
+of	IN	_ <O>
+attacks	NNS	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+<unk>	JJ	_ <O>
+Christian	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	JJ	<I-CUE>
+organisations	NNS	<I-CUE>
+roll	VB	_ <O>
+up	RP	_ <O>
+to	TO	_ <O>
+<unk>	NNP	_ <O>
+from	IN	_ <O>
+other	JJ	_ <O>
+regions	NNS	_ <O>
+of	IN	_ <O>
+Greece	NNP	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+carnival	NN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+denounce	VB	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+they	PRP	<B-CUE>
+are	VBP	_ <O>
+prevented	VBN	_ <O>
+from	IN	_ <O>
+creating	VBG	_ <O>
+<unk>	NN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+police	NN	_ <O>
+.	.	_ <O>
+
+NULL

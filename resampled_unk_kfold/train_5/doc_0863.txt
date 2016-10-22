@@ -1,0 +1,126 @@
+NULL
+He	PRP	_ <O>
+was	VBD	_ <O>
+signed	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+Pirates	NNPS	_ <O>
+organization	NN	_ <O>
+in	IN	_ <O>
+1976	CD	_ <O>
+and	CC	_ <O>
+reached	VBD	_ <O>
+the	DT	_ <O>
+major	JJ	_ <O>
+league	NN	_ <O>
+club	NN	_ <O>
+in	IN	_ <O>
+1980	CD	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	RB	_ <O>
+slender	JJR	_ <O>
+at	IN	_ <O>
+6	CD	_ <O>
+ft	RB	_ <O>
+2	CD	_ <O>
+in	IN	_ <O>
+,	,	_ <O>
+<unk>	CD	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+probably	RB	<B-CUE>
+better	RBR	<B-CUE>
+known	VBN	<I-CUE>
+for	IN	_ <O>
+his	PRP$	_ <O>
+on	IN	_ <O>
+-	HYPH	_ <O>
+field	NN	_ <O>
+and	CC	_ <O>
+off	IN	_ <O>
+-	HYPH	_ <O>
+field	NN	_ <O>
+<unk>	NNS	_ <O>
+than	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	VBG	_ <O>
+talent	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Also	RB	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+often	RB	_ <O>
+drew	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+opponents	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+<unk>	RB	_ <O>
+slender	JJR	_ <O>
+at	IN	_ <O>
+6	CD	_ <O>
+ft	RB	_ <O>
+2	CD	_ <O>
+in	IN	_ <O>
+,	,	_ <O>
+<unk>	CD	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+probably	RB	<B-CUE>
+better	RBR	<B-CUE>
+known	VBN	<I-CUE>
+for	IN	_ <O>
+his	PRP$	_ <O>
+on	IN	_ <O>
+-	HYPH	_ <O>
+field	NN	_ <O>
+and	CC	_ <O>
+off	IN	_ <O>
+-	HYPH	_ <O>
+field	NN	_ <O>
+<unk>	NNS	_ <O>
+than	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	VBG	_ <O>
+talent	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Also	RB	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+often	RB	_ <O>
+drew	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+opponents	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

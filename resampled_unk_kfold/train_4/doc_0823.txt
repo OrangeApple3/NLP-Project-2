@@ -1,0 +1,86 @@
+NULL
+Young	JJ	_ <O>
+people	NNS	_ <O>
+are	VBP	_ <O>
+especially	RB	_ <O>
+<unk>	JJ	_ <O>
+on	IN	_ <O>
+basketball	NN	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+in	IN	_ <O>
+urban	JJ	_ <O>
+centers	NNS	_ <O>
+with	IN	_ <O>
+limited	JJ	_ <O>
+space	NN	_ <O>
+and	CC	_ <O>
+grass	NN	_ <O>
+areas	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Physical	JJ	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	<B-CUE>
+widely	RB	<I-CUE>
+emphasized	VBN	<I-CUE>
+in	IN	_ <O>
+Chinese	JJ	_ <O>
+culture	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+NBA	NNP	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+huge	JJ	_ <O>
+following	NN	_ <O>
+among	IN	_ <O>
+Chinese	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+<unk>	NNP	_ <O>
+Ming	NNP	_ <O>
+being	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+.	.	_ <O>
+
+NULL
+Physical	JJ	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	<B-CUE>
+widely	RB	<I-CUE>
+emphasized	VBN	<I-CUE>
+in	IN	_ <O>
+Chinese	JJ	_ <O>
+culture	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+NBA	NNP	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+huge	JJ	_ <O>
+following	NN	_ <O>
+among	IN	_ <O>
+Chinese	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+<unk>	NNP	_ <O>
+Ming	NNP	_ <O>
+being	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,84 @@
+NULL
+Influence	NN	_ <O>
+of	IN	_ <O>
+foreign	JJ	_ <O>
+<unk>	NNS	_ <O>
+Within	IN	_ <O>
+developing	VBG	_ <O>
+countries	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+local	JJ	_ <O>
+<unk>	NN	_ <O>
+often	RB	_ <O>
+eyes	VBP	_ <O>
+<unk>	JJ	_ <O>
+corporations	NNS	_ <O>
+with	IN	_ <O>
+suspicion	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+feel	VBP	_ <O>
+that	IN	_ <O>
+once	IN	_ <O>
+allowed	VBN	_ <O>
+free	JJ	_ <O>
+reign	NN	_ <O>
+they	PRP	_ <O>
+will	MD	_ <O>
+use	VB	_ <O>
+their	PRP$	_ <O>
+superior	JJ	_ <O>
+resources	NNS	_ <O>
+and	CC	_ <O>
+experience	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+political	JJ	_ <O>
+establishment	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+country	NN	_ <O>
+in	IN	_ <O>
+favor	NN	_ <O>
+of	IN	_ <O>
+excessive	JJ	_ <O>
+concessions	NNS	_ <O>
+(	-LRB-	_ <O>
+tax	NN	_ <O>
+holidays	NNS	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+for	IN	_ <O>
+property	NN	_ <O>
+,	,	_ <O>
+etc	FW	_ <O>
+.	.	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+try	VB	_ <O>
+to	TO	_ <O>
+influence	VB	_ <O>
+the	DT	_ <O>
+political	JJ	_ <O>
+system	NN	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+interests	NNS	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+may	MD	<B-CUE>
+or	CC	_ <O>
+may	MD	<B-CUE>
+not	RB	<I-CUE>
+be	VB	_ <O>
+shared	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

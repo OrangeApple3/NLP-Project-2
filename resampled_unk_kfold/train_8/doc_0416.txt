@@ -1,0 +1,51 @@
+NULL
+While	IN	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+away	RB	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+senior	JJ	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Australian	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+suggested	VBD	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+civilian	JJ	_ <O>
+women	NNS	_ <O>
+and	CC	_ <O>
+children	NNS	_ <O>
+should	MD	_ <O>
+start	VB	_ <O>
+off	RP	_ <O>
+<unk>	VBG	_ <O>
+towards	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+<unk>	VBD	_ <O>
+up	RP	_ <O>
+and	CC	_ <O>
+down	IN	_ <O>
+the	DT	_ <O>
+line	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+girls	NNS	_ <O>
+fell	VBD	_ <O>
+one	CD	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+.	.	_ <O>
+
+NULL

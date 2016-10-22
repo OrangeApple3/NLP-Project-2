@@ -1,0 +1,76 @@
+NULL
+The	DT	_ <O>
+Post	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+would	MD	_ <O>
+begin	VB	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+to	IN	_ <O>
+most	JJS	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+area	NN	<I-CUE>
+with	IN	_ <O>
+some	DT	<B-CUE>
+exceptions	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+of	IN	<I-CUE>
+those	DT	<I-CUE>
+papers	NNS	<I-CUE>
+were	VBD	_ <O>
+several	JJ	<B-CUE>
+decades	NNS	<I-CUE>
+old	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+company	NN	_ <O>
+also	RB	_ <O>
+announced	VBD	_ <O>
+major	JJ	_ <O>
+changes	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+remaining	VBG	_ <O>
+<unk>	NNP	_ <O>
+publications	NNS	_ <O>
+including	VBG	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+communities	NNS	_ <O>
+that	WDT	_ <O>
+have	VBP	_ <O>
+Gateway	NNP	_ <O>
+newspapers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+communities	NNS	_ <O>
+served	VBN	_ <O>
+by	IN	_ <O>
+those	DT	_ <O>
+titles	NNS	_ <O>
+will	MD	_ <O>
+now	RB	_ <O>
+be	VB	_ <O>
+served	VBN	_ <O>
+by	IN	_ <O>
+other	JJ	<B-CUE>
+Gateway	NNP	<I-CUE>
+newspapers	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

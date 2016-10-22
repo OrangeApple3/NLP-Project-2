@@ -1,0 +1,157 @@
+NULL
+Health	NNP	_ <O>
+Speculation	NN	_ <O>
+in	IN	_ <O>
+later	JJ	_ <O>
+years	NNS	_ <O>
+
+NULL
+A	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+would	MD	_ <O>
+change	VB	_ <O>
+the	DT	_ <O>
+course	NN	_ <O>
+of	IN	_ <O>
+Eden	NNP	_ <O>
+’s	JJ	_ <O>
+life	NN	_ <O>
+<unk>	RB	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+an	DT	_ <O>
+operation	NN	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+to	TO	_ <O>
+remove	VB	_ <O>
+Eden	NNP	_ <O>
+’s	NNP	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+damaged	VBD	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+<unk>	NN	_ <O>
+made	VBD	_ <O>
+Eden	NNP	_ <O>
+vulnerable	JJ	_ <O>
+to	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+attacks	NNS	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+To	TO	_ <O>
+<unk>	VB	_ <O>
+this	DT	_ <O>
+weakness	NN	_ <O>
+Eden	NNP	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	CD	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Regarded	VBN	_ <O>
+by	IN	_ <O>
+doctors	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1950s	NNS	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+<unk>	VBZ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+family	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+called	VBN	_ <O>
+<unk>	NNS	_ <O>
+–	:	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+drug	NN	_ <O>
+we	PRP	_ <O>
+now	RB	_ <O>
+call	VBP	_ <O>
+speed	NN	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+this	DT	_ <O>
+time	NN	_ <O>
+amphetamines	NNS	_ <O>
+were	VBD	_ <O>
+prescribed	VBN	_ <O>
+and	CC	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+very	RB	_ <O>
+casual	JJ	_ <O>
+way	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+widely	RB	<I-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+Eden	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBD	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+decision	NN	_ <O>
+-	HYPH	_ <O>
+making	NN	_ <O>
+in	IN	_ <O>
+both	CC	_ <O>
+the	DT	_ <O>
+build	NN	_ <O>
+-	HYPH	_ <O>
+up	NN	_ <O>
+to	IN	_ <O>
+and	CC	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

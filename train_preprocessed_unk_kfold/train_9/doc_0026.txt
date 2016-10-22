@@ -1,0 +1,158 @@
+NULL
+In	IN	<B-CUE>
+its	PRP$	<I-CUE>
+most	RBS	<I-CUE>
+general	JJ	<I-CUE>
+<unk>	NN	<I-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+law	NN	_ <O>
+'	''	_ <O>
+<unk>	VBZ	_ <O>
+giving	VBG	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+legal	JJ	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+clients	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	VBG	_ <O>
+clients	NNS	_ <O>
+in	IN	_ <O>
+legal	JJ	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+<unk>	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+at	IN	_ <O>
+law	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+<unk>	JJ	_ <O>
+law	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+amount	NN	_ <O>
+of	IN	_ <O>
+overlap	NN	_ <O>
+<unk>	IN	_ <O>
+the	DT	_ <O>
+practice	NN	_ <O>
+of	IN	_ <O>
+law	NN	_ <O>
+and	CC	_ <O>
+various	JJ	<B-CUE>
+other	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+where	WRB	_ <O>
+clients	NNS	_ <O>
+are	VBP	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+agents	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	RB	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	VBG	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+legal	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNS	_ <O>
+)	-RRB-	_ <O>
+are	VBP	_ <O>
+<unk>	VBG	_ <O>
+services	NNS	_ <O>
+which	WDT	_ <O>
+have	VBP	_ <O>
+<unk>	RB	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+only	RB	_ <O>
+by	IN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+their	PRP$	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+documents	NNS	<I-CUE>
+may	MD	<B-CUE>
+now	RB	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+computer	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+drafting	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+clients	NNS	_ <O>
+are	VBP	_ <O>
+<unk>	VBN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+legal	JJ	_ <O>
+documents	NNS	_ <O>
+.	.	_ <O>
+
+NULL

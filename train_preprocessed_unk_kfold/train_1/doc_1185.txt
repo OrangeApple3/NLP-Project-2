@@ -1,0 +1,124 @@
+NULL
+Bush	NNP	_ <O>
+studied	VBD	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+with	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+has	VBZ	_ <O>
+said	VBN	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+still	RB	_ <O>
+considers	VBZ	_ <O>
+Fleisher	NNP	_ <O>
+his	PRP$	_ <O>
+major	JJ	_ <O>
+musical	JJ	_ <O>
+influence	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Bush	NNP	_ <O>
+spent	VBD	_ <O>
+two	CD	_ <O>
+years	NNS	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+Centre	NNP	_ <O>
+School	NNP	_ <O>
+of	IN	_ <O>
+Fine	NNP	_ <O>
+Arts	NNP	_ <O>
+in	IN	_ <O>
+Canada	NNP	_ <O>
+from	IN	_ <O>
+1981	CD	_ <O>
+-	SYM	_ <O>
+<unk>	CD	_ <O>
+;	:	_ <O>
+there	RB	_ <O>
+he	PRP	_ <O>
+met	VBD	_ <O>
+Steve	NNP	_ <O>
+Reich	NNP	_ <O>
+and	CC	_ <O>
+several	JJ	<B-CUE>
+other	JJ	<I-CUE>
+musicians	NNS	<I-CUE>
+who	WP	_ <O>
+were	VBD	_ <O>
+formative	JJ	_ <O>
+influences	NNS	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+direction	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+career	NN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+subsequently	RB	_ <O>
+moved	VBD	_ <O>
+to	IN	_ <O>
+New	NNP	_ <O>
+York	NNP	_ <O>
+City	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+for	IN	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+career	NN	_ <O>
+was	VBD	_ <O>
+based	VBN	_ <O>
+there	RB	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+recent	JJ	_ <O>
+years	NNS	_ <O>
+he	PRP	_ <O>
+has	VBZ	_ <O>
+made	VBN	_ <O>
+his	PRP$	_ <O>
+home	NN	_ <O>
+elsewhere	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+U.S.	NNP	_ <O>
+,	,	_ <O>
+teaching	NN	_ <O>
+for	IN	_ <O>
+several	JJ	_ <O>
+years	NNS	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+University	NNP	_ <O>
+of	IN	_ <O>
+Michigan	NNP	_ <O>
+and	CC	_ <O>
+then	RB	_ <O>
+moving	VBG	_ <O>
+to	IN	_ <O>
+Columbia	NNP	_ <O>
+,	,	_ <O>
+South	NNP	_ <O>
+Carolina	NNP	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+he	PRP	_ <O>
+lives	VBZ	_ <O>
+today	NN	_ <O>
+.	.	_ <O>
+
+NULL

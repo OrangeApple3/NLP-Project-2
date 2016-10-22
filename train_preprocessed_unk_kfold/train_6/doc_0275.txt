@@ -1,0 +1,98 @@
+NULL
+The	DT	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+one	CD	_ <O>
+color	NN	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+white	JJ	_ <O>
+for	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+light	JJ	_ <O>
+blue	JJ	_ <O>
+for	IN	_ <O>
+air	NN	_ <O>
+forces	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+green	JJ	_ <O>
+for	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+around	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+different	JJ	_ <O>
+color	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+band	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+one	CD	_ <O>
+color	NN	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+black	JJ	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+,	,	_ <O>
+<unk>	RB	_ <O>
+or	CC	_ <O>
+<unk>	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	_ <O>
+<unk>	NNS	_ <O>
+have	VBP	_ <O>
+some	DT	<B-CUE>
+form	NN	<I-CUE>
+of	IN	<I-CUE>
+<unk>	NN	<I-CUE>
+device	NN	<I-CUE>
+(	-LRB-	_ <O>
+or	CC	_ <O>
+cap	NN	_ <O>
+badge	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+peak	NN	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+short	JJ	_ <O>
+,	,	_ <O>
+<unk>	RB	_ <O>
+made	VBN	_ <O>
+of	IN	_ <O>
+leather	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+in	IN	_ <O>
+<unk>	JJR	_ <O>
+caps	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+plastic	NN	_ <O>
+.	.	_ <O>
+
+NULL

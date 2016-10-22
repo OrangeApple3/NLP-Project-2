@@ -1,0 +1,16 @@
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

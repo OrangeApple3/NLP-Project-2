@@ -1,0 +1,111 @@
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+unique	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+,	,	<I-CUE>
+street	NN	<I-CUE>
+parties	NNS	<I-CUE>
+and	CC	<I-CUE>
+<unk>	NNS	<I-CUE>
+held	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Polish	JJ	_ <O>
+American	NNP	_ <O>
+community	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Polish	JJ	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Wisconsin	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+popular	JJ	_ <O>
+annual	JJ	_ <O>
+festival	NN	_ <O>
+,	,	_ <O>
+takes	VBZ	_ <O>
+place	NN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+Henry	NNP	_ <O>
+<unk>	NNP	_ <O>
+Festival	NNP	_ <O>
+Park	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+<unk>	JJS	<I-CUE>
+and	CC	<I-CUE>
+most	RBS	<I-CUE>
+<unk>	JJ	<I-CUE>
+festivals	NNS	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Polish	NNP	_ <O>
+Film	NNP	_ <O>
+Festival	NNP	_ <O>
+<unk>	VBD	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+Polish	NNP	_ <O>
+Film	NNP	_ <O>
+Festival	NNP	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Poland	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+And	CC	_ <O>
+last	JJ	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+not	RB	_ <O>
+least	JJS	_ <O>
+,	,	_ <O>
+there	EX	_ <O>
+'s	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Fest	NNP	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Indiana	NNP	_ <O>
+with	IN	_ <O>
+many	JJ	<B-CUE>
+more	JJR	<I-CUE>
+<unk>	NNS	<I-CUE>
+other	JJ	_ <O>
+than	IN	_ <O>
+Polish	JJ	_ <O>
+pierogi	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Wisconsin	NNP	_ <O>
+<unk>	NNP	_ <O>
+Polish	NNP	_ <O>
+Fest	NNP	_ <O>
+.	.	_ <O>
+
+NULL

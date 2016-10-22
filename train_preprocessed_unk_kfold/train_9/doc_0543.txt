@@ -1,0 +1,111 @@
+NULL
+Gardner	NNP	_ <O>
+and	CC	_ <O>
+others	NNS	<B-CUE>
+have	VBP	_ <O>
+divided	VBN	_ <O>
+PAS	NNP	_ <O>
+into	IN	_ <O>
+mild	JJ	_ <O>
+,	,	_ <O>
+moderate	JJ	_ <O>
+and	CC	_ <O>
+severe	JJ	_ <O>
+levels	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+mild	JJ	_ <O>
+cases	NNS	_ <O>
+,	,	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+some	DT	<B-CUE>
+parental	JJ	<I-CUE>
+programming	NN	<I-CUE>
+against	IN	_ <O>
+the	DT	_ <O>
+targeted	VBN	_ <O>
+parent	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+little	JJ	_ <O>
+or	CC	_ <O>
+no	DT	_ <O>
+disruption	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Gardner	NNP	_ <O>
+did	VBD	_ <O>
+not	RB	_ <O>
+<unk>	VB	_ <O>
+court	NN	_ <O>
+-	HYPH	_ <O>
+ordered	VBN	_ <O>
+visitation	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+severe	JJ	_ <O>
+cases	NNS	_ <O>
+,	,	_ <O>
+children	NNS	_ <O>
+display	VBP	_ <O>
+most	RBS	_ <O>
+or	CC	_ <O>
+all	DT	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+8	CD	_ <O>
+symptoms	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+will	MD	_ <O>
+refuse	VB	_ <O>
+<unk>	RB	_ <O>
+to	TO	_ <O>
+visit	VB	_ <O>
+the	DT	_ <O>
+targeted	VBN	_ <O>
+parent	NN	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+threatening	VBG	_ <O>
+to	TO	_ <O>
+run	VB	_ <O>
+away	RB	_ <O>
+or	CC	_ <O>
+<unk>	VBP	_ <O>
+suicide	NN	_ <O>
+if	IN	_ <O>
+the	DT	_ <O>
+visitation	NN	_ <O>
+is	VBZ	_ <O>
+forced	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+With	IN	_ <O>
+time	NN	_ <O>
+,	,	_ <O>
+Gardner	NNP	_ <O>
+revised	VBD	_ <O>
+his	PRP$	_ <O>
+views	NNS	_ <O>
+and	CC	_ <O>
+expressed	VBD	_ <O>
+less	JJR	_ <O>
+support	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+aggressive	JJ	_ <O>
+management	NN	_ <O>
+strategies	NNS	_ <O>
+.	.	_ <O>
+
+NULL

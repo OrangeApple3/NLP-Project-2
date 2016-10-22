@@ -1,0 +1,68 @@
+NULL
+Outside	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+most	RBS	<B-CUE>
+renowned	JJ	<I-CUE>
+for	IN	_ <O>
+its	PRP$	_ <O>
+postage	NN	_ <O>
+stamps	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+All	DT	_ <O>
+stamp	NN	_ <O>
+editions	NNS	_ <O>
+are	VBP	_ <O>
+about	IN	_ <O>
+items	NNS	_ <O>
+relating	VBG	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Faroes	NNP	_ <O>
+and	CC	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+them	PRP	_ <O>
+are	VBP	_ <O>
+designed	VBN	_ <O>
+by	IN	_ <O>
+<unk>	JJ	_ <O>
+artists	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Faroese	JJ	_ <O>
+history	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+common	JJ	<B-CUE>
+topic	NN	_ <O>
+with	IN	_ <O>
+relevant	JJ	_ <O>
+issues	NNS	_ <O>
+almost	RB	_ <O>
+each	DT	_ <O>
+year	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Churches	NNS	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+Christian	JJ	_ <O>
+<unk>	NNS	_ <O>
+play	VB	_ <O>
+a	DT	_ <O>
+distinct	JJ	_ <O>
+role	NN	_ <O>
+before	IN	_ <O>
+Christmas	NNP	_ <O>
+.	.	_ <O>
+
+NULL

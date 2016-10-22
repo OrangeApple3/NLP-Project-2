@@ -1,0 +1,78 @@
+NULL
+The	DT	_ <O>
+extreme	JJ	_ <O>
+force	NN	_ <O>
+over	IN	_ <O>
+teeth	NNS	_ <O>
+can	MD	_ <O>
+occur	VB	_ <O>
+during	IN	_ <O>
+some	DT	_ <O>
+situations	NNS	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+protection	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+protective	JJ	_ <O>
+reflex	NN	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+considered	VBN	_ <O>
+<unk>	JJ	_ <O>
+:	:	_ <O>
+over	IN	_ <O>
+<unk>	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+this	DT	_ <O>
+kind	NN	_ <O>
+of	IN	_ <O>
+reflex	NN	_ <O>
+acts	VBZ	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+very	RB	_ <O>
+important	JJ	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+a	DT	_ <O>
+good	JJ	_ <O>
+memory	NN	_ <O>
+of	IN	_ <O>
+"	``	_ <O>
+best	JJS	_ <O>
+<unk>	NN	_ <O>
+"	''	_ <O>
+position	NN	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+not	RB	_ <O>
+,	,	_ <O>
+during	IN	_ <O>
+process	NN	_ <O>
+,	,	_ <O>
+some	DT	_ <O>
+tooth	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+improperly	RB	_ <O>
+<unk>	VBN	_ <O>
+causing	VBG	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

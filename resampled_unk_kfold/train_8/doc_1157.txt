@@ -1,0 +1,130 @@
+NULL
+Purchased	VBN	_ <O>
+by	IN	_ <O>
+O'Reilly	NNP	_ <O>
+Auto	NNP	_ <O>
+Parts	NNP	_ <O>
+on	IN	_ <O>
+July	NNP	_ <O>
+11	CD	_ <O>
+,	,	_ <O>
+2008	CD	_ <O>
+for	IN	_ <O>
+approximately	RB	_ <O>
+1	CD	_ <O>
+billion	CD	_ <O>
+dollars	NNS	_ <O>
+,	,	_ <O>
+also	RB	_ <O>
+receiving	VBG	_ <O>
+500	CD	_ <O>
+million	CD	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+debt	NN	_ <O>
+Now	RB	_ <O>
+operating	VBG	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+O'Reilly	NNP	_ <O>
+Auto	NNP	_ <O>
+Parts	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+Nursery	NNP	_ <O>
+'	''	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+chain	NN	_ <O>
+of	IN	_ <O>
+garden	NN	_ <O>
+stores	NNS	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+operated	VBD	_ <O>
+the	DT	_ <O>
+garden	NN	_ <O>
+centers	NNS	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+stores	NNS	_ <O>
+and	CC	_ <O>
+several	JJ	<B-CUE>
+free	JJ	<I-CUE>
+standing	NN	<I-CUE>
+stores	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Sold	VBN	_ <O>
+to	IN	_ <O>
+their	PRP$	_ <O>
+employees	NNS	_ <O>
+and	CC	_ <O>
+later	RBR	_ <O>
+closed	VBN	_ <O>
+in	IN	_ <O>
+1995	CD	_ <O>
+due	IN	_ <O>
+after	IN	_ <O>
+increasing	VBG	_ <O>
+competition	NN	_ <O>
+from	IN	_ <O>
+other	JJ	<B-CUE>
+major	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+Nursery	NNP	_ <O>
+'	''	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+chain	NN	_ <O>
+of	IN	_ <O>
+garden	NN	_ <O>
+stores	NNS	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+operated	VBD	_ <O>
+the	DT	_ <O>
+garden	NN	_ <O>
+centers	NNS	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+stores	NNS	_ <O>
+and	CC	_ <O>
+several	JJ	<B-CUE>
+free	JJ	<I-CUE>
+standing	NN	<I-CUE>
+stores	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Sold	VBN	_ <O>
+to	IN	_ <O>
+their	PRP$	_ <O>
+employees	NNS	_ <O>
+and	CC	_ <O>
+later	RBR	_ <O>
+closed	VBN	_ <O>
+in	IN	_ <O>
+1995	CD	_ <O>
+due	IN	_ <O>
+after	IN	_ <O>
+increasing	VBG	_ <O>
+competition	NN	_ <O>
+from	IN	_ <O>
+other	JJ	<B-CUE>
+major	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

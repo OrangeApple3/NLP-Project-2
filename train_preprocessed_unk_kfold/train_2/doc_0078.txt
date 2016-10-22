@@ -1,0 +1,106 @@
+NULL
+The	DT	_ <O>
+Civil	NNP	_ <O>
+Constitution	NNP	_ <O>
+required	VBD	_ <O>
+all	DT	_ <O>
+<unk>	NNS	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+it	PRP	_ <O>
+and	CC	_ <O>
+by	IN	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	RB	_ <O>
+<unk>	JJ	_ <O>
+-	HYPH	_ <O>
+<unk>	JJ	_ <O>
+National	NNP	_ <O>
+Constituent	NNP	_ <O>
+Assembly	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+almost	RB	<B-CUE>
+<unk>	RB	<I-CUE>
+<unk>	VBD	_ <O>
+to	TO	_ <O>
+swear	VB	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+were	VBD	_ <O>
+replaced	VBN	_ <O>
+by	IN	_ <O>
+clergy	NNS	_ <O>
+<unk>	VBN	_ <O>
+and	CC	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+authorities	NNS	_ <O>
+,	,	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+<unk>	NNS	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+were	VBD	_ <O>
+almost	RB	<B-CUE>
+universally	RB	<I-CUE>
+<unk>	VBD	_ <O>
+and	CC	_ <O>
+<unk>	VBD	_ <O>
+as	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+priests	NNS	_ <O>
+declared	VBD	_ <O>
+the	DT	_ <O>
+new	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+as	IN	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+;	:	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNPS	_ <O>
+<unk>	VBD	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+cities	NNS	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+and	CC	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+nonjuring	VBG	_ <O>
+priests	NNS	_ <O>
+.	.	_ <O>
+
+NULL

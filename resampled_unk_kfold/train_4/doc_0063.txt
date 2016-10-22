@@ -1,0 +1,85 @@
+On	IN	_ <O>
+May	NNP	_ <O>
+10	CD	_ <O>
+,	,	_ <O>
+2007	CD	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+officially	RB	_ <O>
+<unk>	VBD	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+run	VB	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+Grand	NNP	_ <O>
+National	NNP	_ <O>
+Party	NNP	_ <O>
+as	IN	_ <O>
+its	PRP$	_ <O>
+presidential	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+the	DT	_ <O>
+primary	NN	_ <O>
+,	,	_ <O>
+Lee	NNP	_ <O>
+was	VBD	<B-CUE>
+accused	VBN	<I-CUE>
+of	IN	_ <O>
+<unk>	VBG	_ <O>
+from	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+land	NN	_ <O>
+that	WDT	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+highly	RB	_ <O>
+expensive	JJ	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+the	DT	_ <O>
+primary	NN	_ <O>
+,	,	_ <O>
+Lee	NNP	_ <O>
+was	VBD	<B-CUE>
+accused	VBN	<I-CUE>
+of	IN	_ <O>
+<unk>	VBG	_ <O>
+from	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+land	NN	_ <O>
+that	WDT	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+highly	RB	_ <O>
+expensive	JJ	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

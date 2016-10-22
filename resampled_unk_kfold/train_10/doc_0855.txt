@@ -1,0 +1,150 @@
+General	NNP	_ <O>
+panic	NN	_ <O>
+now	RB	_ <O>
+seized	VBD	_ <O>
+the	DT	_ <O>
+Allied	NNP	_ <O>
+army	NN	_ <O>
+and	CC	_ <O>
+it	PRP	_ <O>
+abandoned	VBD	_ <O>
+the	DT	_ <O>
+field	NN	_ <O>
+in	IN	_ <O>
+any	DT	_ <O>
+and	CC	_ <O>
+all	DT	_ <O>
+possible	JJ	_ <O>
+directions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+French	JJ	_ <O>
+artillery	NN	_ <O>
+<unk>	VBD	_ <O>
+towards	IN	_ <O>
+the	DT	_ <O>
+men	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+Napoleon	NNP	_ <O>
+<unk>	VBD	_ <O>
+his	PRP$	_ <O>
+<unk>	NNS	_ <O>
+to	TO	_ <O>
+fire	VB	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+ice	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+men	NNS	_ <O>
+<unk>	VBD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	RB	_ <O>
+cold	JJ	_ <O>
+ponds	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+artillery	NN	_ <O>
+pieces	NNS	_ <O>
+going	VBG	_ <O>
+down	RB	_ <O>
+along	RB	_ <O>
+with	IN	_ <O>
+them	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+Sources	NNS	_ <O>
+also	RB	_ <O>
+differ	VBP	_ <O>
+on	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+figures	NNS	_ <O>
+ranging	VBG	_ <O>
+from	IN	_ <O>
+as	RB	_ <O>
+low	JJ	_ <O>
+as	IN	_ <O>
+200	CD	_ <O>
+to	TO	_ <O>
+as	RB	_ <O>
+high	JJ	_ <O>
+as	IN	_ <O>
+2,000	CD	_ <O>
+dead	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Because	IN	_ <O>
+Napoleon	NNP	_ <O>
+exaggerated	VBD	_ <O>
+this	DT	_ <O>
+incident	NN	_ <O>
+in	IN	_ <O>
+his	PRP$	_ <O>
+report	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+battle	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+low	JJ	_ <O>
+numbers	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+more	RBR	_ <O>
+accurate	JJ	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+doubt	NN	_ <O>
+remains	VBZ	_ <O>
+as	IN	_ <O>
+to	IN	_ <O>
+whether	IN	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+fully	RB	_ <O>
+correct	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+regard	VB	_ <O>
+this	DT	_ <O>
+incident	NN	_ <O>
+as	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+Napoleon	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	JJS	_ <O>
+acts	NNS	_ <O>
+in	IN	_ <O>
+war	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+regard	VB	_ <O>
+this	DT	_ <O>
+incident	NN	_ <O>
+as	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+Napoleon	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	JJS	_ <O>
+acts	NNS	_ <O>
+in	IN	_ <O>
+war	NN	_ <O>
+.	.	_ <O>
+
+NULL

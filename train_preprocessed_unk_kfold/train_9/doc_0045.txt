@@ -1,0 +1,86 @@
+NULL
+An	DT	_ <O>
+additional	JJ	_ <O>
+level	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBZ	_ <O>
+when	WRB	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBP	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+<unk>	VBN	<I-CUE>
+that	IN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+large	JJ	_ <O>
+<unk>	NNS	_ <O>
+have	VBP	_ <O>
+<unk>	VBN	_ <O>
+their	PRP$	_ <O>
+DNS	NN	_ <O>
+<unk>	NNS	_ <O>
+to	TO	_ <O>
+violate	VB	_ <O>
+rules	NNS	_ <O>
+(	-LRB-	_ <O>
+presumably	RB	_ <O>
+to	TO	_ <O>
+allow	VB	_ <O>
+them	PRP	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+on	IN	_ <O>
+less	JJR	_ <O>
+-	HYPH	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+than	IN	_ <O>
+a	DT	_ <O>
+<unk>	RB	_ <O>
+-	HYPH	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+by	IN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+by	IN	_ <O>
+<unk>	VBG	_ <O>
+that	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+name	NN	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+<unk>	VB	_ <O>
+just	RB	_ <O>
+because	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+its	PRP$	_ <O>
+name	NN	_ <O>
+servers	NNS	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+<unk>	VB	_ <O>
+.	.	_ <O>
+
+NULL

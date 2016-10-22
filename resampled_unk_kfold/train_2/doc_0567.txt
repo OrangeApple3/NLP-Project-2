@@ -1,0 +1,103 @@
+Most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+monkeys	NNS	_ <O>
+placed	VBN	_ <O>
+inside	IN	_ <O>
+it	PRP	_ <O>
+were	VBD	_ <O>
+at	IN	_ <O>
+least	JJS	_ <O>
+three	CD	_ <O>
+months	NNS	_ <O>
+old	JJ	_ <O>
+and	CC	_ <O>
+had	VBD	_ <O>
+already	RB	_ <O>
+<unk>	VBN	_ <O>
+with	IN	_ <O>
+others	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+days	NNS	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+gave	VBD	_ <O>
+up	RP	_ <O>
+.	.	_ <O>
+
+NULL
+Stephen	NNP	_ <O>
+J.	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+another	DT	_ <O>
+of	IN	_ <O>
+Harlow	NNP	_ <O>
+'s	POS	_ <O>
+doctoral	JJ	_ <O>
+students	NNS	_ <O>
+,	,	_ <O>
+placed	VBD	_ <O>
+some	DT	_ <O>
+monkeys	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+1970	CD	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NNP	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+wrote	VBD	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+most	JJS	<B-CUE>
+subjects	NNS	<I-CUE>
+typically	RB	<B-CUE>
+assume	VB	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+position	NN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+corner	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+bottom	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+wrote	VBD	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+most	JJS	<B-CUE>
+subjects	NNS	<I-CUE>
+typically	RB	<B-CUE>
+assume	VB	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+position	NN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+corner	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+bottom	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

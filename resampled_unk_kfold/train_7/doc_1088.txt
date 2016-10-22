@@ -1,0 +1,77 @@
+NULL
+In	IN	_ <O>
+2007	CD	_ <O>
+,	,	_ <O>
+Lowe	NNP	_ <O>
+'s	POS	_ <O>
+started	VBD	_ <O>
+using	VBG	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+"	``	_ <O>
+family	NN	_ <O>
+tree	NN	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+protest	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+American	NNP	_ <O>
+Family	NNP	_ <O>
+Association	NNP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+they	PRP	_ <O>
+have	VBP	_ <O>
+since	IN	_ <O>
+claimed	VBN	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+term	NN	_ <O>
+was	VBD	_ <O>
+only	RB	_ <O>
+a	DT	_ <O>
+printing	VBG	_ <O>
+mistake	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+<unk>	VBZ	_ <O>
+that	IN	_ <O>
+political	JJ	_ <O>
+correctness	NN	_ <O>
+is	VBZ	_ <O>
+solely	RB	_ <O>
+a	DT	_ <O>
+phenomenon	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+English	JJ	_ <O>
+language	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+<unk>	VBZ	_ <O>
+that	IN	_ <O>
+political	JJ	_ <O>
+correctness	NN	_ <O>
+is	VBZ	_ <O>
+solely	RB	_ <O>
+a	DT	_ <O>
+phenomenon	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+English	JJ	_ <O>
+language	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,88 @@
+NULL
+<unk>	NNP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+most	JJS	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+involves	VBZ	_ <O>
+three	CD	_ <O>
+events	NNS	_ <O>
+:	:	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+bench	NN	_ <O>
+press	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	_ <O>
+variations	NNS	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+are	VBP	_ <O>
+found	VBN	_ <O>
+at	IN	_ <O>
+some	DT	_ <O>
+<unk>	NNS	_ <O>
+such	JJ	_ <O>
+"	``	_ <O>
+push	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+only	RB	_ <O>
+"	''	_ <O>
+meets	VBZ	_ <O>
+where	WRB	_ <O>
+<unk>	NNS	_ <O>
+only	RB	_ <O>
+compete	VBP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+bench	NN	_ <O>
+press	NN	_ <O>
+and	CC	_ <O>
+deadlift	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+bench	NN	_ <O>
+press	NN	_ <O>
+coming	VBG	_ <O>
+first	RB	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+deadlift	NN	_ <O>
+after	IN	_ <O>
+.	.	_ <O>
+
+NULL
+Single	JJ	_ <O>
+<unk>	NN	_ <O>
+meets	NNS	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+held	VBN	_ <O>
+,	,	_ <O>
+sometimes	RB	_ <O>
+alongside	IN	_ <O>
+a	DT	_ <O>
+normal	JJ	_ <O>
+<unk>	NN	_ <O>
+event	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	_ <O>
+most	RBS	_ <O>
+common	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+bench	NN	_ <O>
+press	NN	_ <O>
+.	.	_ <O>
+
+NULL

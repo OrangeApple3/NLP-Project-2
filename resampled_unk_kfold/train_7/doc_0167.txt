@@ -1,0 +1,41 @@
+NULL
+Severe	JJ	_ <O>
+cases	NNS	_ <O>
+may	MD	_ <O>
+require	VB	_ <O>
+permanent	JJ	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Other	JJ	_ <O>
+management	NN	_ <O>
+strategies	NNS	_ <O>
+that	WDT	_ <O>
+may	MD	_ <O>
+lead	VB	_ <O>
+to	IN	_ <O>
+<unk>	NN	_ <O>
+improvement	NN	_ <O>
+include	VBP	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+treatment	NN	_ <O>
+of	IN	_ <O>
+other	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+against	IN	_ <O>
+respiratory	JJ	_ <O>
+infections	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

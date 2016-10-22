@@ -1,0 +1,114 @@
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+possible	JJ	_ <O>
+Soviet	JJ	_ <O>
+<unk>	NN	_ <O>
+alleged	VBN	<B-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+<unk>	VBN	_ <O>
+U.S.	NNP	_ <O>
+national	JJ	_ <O>
+security	NN	_ <O>
+at	IN	_ <O>
+Los	NNP	_ <O>
+<unk>	NNP	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Evidence	NN	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+or	CC	_ <O>
+her	PRP$	_ <O>
+existence	NN	_ <O>
+is	VBZ	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBD	_ <O>
+(	-LRB-	_ <O>
+and	CC	_ <O>
+later	RBR	_ <O>
+closed	VBD	_ <O>
+)	-RRB-	_ <O>
+to	IN	_ <O>
+researchers	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+1990s	NNS	_ <O>
+,	,	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+fall	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Soviet	NNP	_ <O>
+Union	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+references	NNS	_ <O>
+to	IN	_ <O>
+Perseus	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNS	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+
+NULL
+The	DT	_ <O>
+identity	NN	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+person	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+even	RB	_ <O>
+whether	IN	<B-CUE>
+or	CC	_ <O>
+not	RB	_ <O>
+they	PRP	_ <O>
+actually	RB	_ <O>
+<unk>	VBD	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+unknown	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+<unk>	NNS	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+matter	NN	_ <O>
+are	VBP	_ <O>
+<unk>	JJ	<B-CUE>
+.	.	_ <O>
+
+NULL

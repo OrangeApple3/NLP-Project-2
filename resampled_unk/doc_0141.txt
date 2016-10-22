@@ -1,0 +1,109 @@
+The	DT	_ <O>
+archaeologists	NNS	_ <O>
+found	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+several	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	VBN	_ <O>
+around	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+court	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+line	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBD	_ <O>
+several	JJ	<B-CUE>
+<unk>	NNP	<I-CUE>
+-	HYPH	<I-CUE>
+Roman	NNP	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+One	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+important	JJ	<I-CUE>
+is	VBZ	_ <O>
+that	IN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+sur	NNP	_ <O>
+-	HYPH	_ <O>
+Mer	NNP	_ <O>
+,	,	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+coast	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+west	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+line	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBD	_ <O>
+several	JJ	<B-CUE>
+<unk>	NNP	<I-CUE>
+-	HYPH	<I-CUE>
+Roman	NNP	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+One	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+important	JJ	<I-CUE>
+is	VBZ	_ <O>
+that	IN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+sur	NNP	_ <O>
+-	HYPH	_ <O>
+Mer	NNP	_ <O>
+,	,	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+coast	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+west	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

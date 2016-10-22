@@ -1,0 +1,104 @@
+NULL
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+Pemmasani	NNP	_ <O>
+clan	NN	_ <O>
+were	VBD	_ <O>
+commanders	NNS	_ <O>
+for	IN	_ <O>
+various	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+Vijayanagar	NNP	_ <O>
+Empire	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+branch	NN	_ <O>
+of	IN	_ <O>
+Pemmasani	NNP	_ <O>
+clan	NN	_ <O>
+belong	VBP	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+which	WDT	_ <O>
+point	VBP	_ <O>
+out	RP	_ <O>
+their	PRP$	_ <O>
+origin	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+village	NN	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+district	NN	_ <O>
+and	CC	_ <O>
+their	PRP$	_ <O>
+possible	JJ	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Among	IN	_ <O>
+them	PRP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+clan	NN	_ <O>
+which	WDT	_ <O>
+earned	VBD	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+their	PRP$	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+Empire	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+coming	VBG	_ <O>
+four	CD	_ <O>
+centuries	NNS	_ <O>
+was	VBD	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+<unk>	JJ	<I-CUE>
+.	.	_ <O>
+
+NULL
+Among	IN	_ <O>
+them	PRP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+clan	NN	_ <O>
+which	WDT	_ <O>
+earned	VBD	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+their	PRP$	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+Empire	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+coming	VBG	_ <O>
+four	CD	_ <O>
+centuries	NNS	_ <O>
+was	VBD	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+<unk>	JJ	<I-CUE>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,106 @@
+NULL
+Inquiry	NNP	_ <O>
+-	HYPH	_ <O>
+based	VBN	_ <O>
+Learning	NNP	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+of	IN	_ <O>
+great	JJ	_ <O>
+influence	NN	_ <O>
+in	IN	_ <O>
+science	NN	_ <O>
+education	NN	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+Inquiry	NNP	_ <O>
+-	HYPH	_ <O>
+based	VBN	_ <O>
+science	NN	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+since	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+National	NNP	_ <O>
+Science	NNP	_ <O>
+Educational	NNP	_ <O>
+Standards	NNPS	_ <O>
+in	IN	_ <O>
+1996	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Since	IN	_ <O>
+this	DT	_ <O>
+publication	NN	_ <O>
+some	DT	<B-CUE>
+<unk>	NNS	<I-CUE>
+have	VBP	_ <O>
+advocated	VBN	_ <O>
+a	DT	_ <O>
+return	NN	_ <O>
+to	IN	_ <O>
+more	RBR	_ <O>
+traditional	JJ	_ <O>
+fact	NN	_ <O>
+-	HYPH	_ <O>
+based	VBN	_ <O>
+methods	NNS	_ <O>
+of	IN	_ <O>
+teaching	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Other	JJ	<B-CUE>
+educators	NNS	<I-CUE>
+<unk>	JJ	_ <O>
+inquiry	NN	_ <O>
+as	IN	_ <O>
+being	VBG	_ <O>
+of	IN	_ <O>
+importance	NN	_ <O>
+in	IN	_ <O>
+teaching	VBG	_ <O>
+students	NNS	_ <O>
+to	IN	_ <O>
+research	NN	_ <O>
+and	CC	_ <O>
+learn	VBP	_ <O>
+independently	RB	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+basic	JJ	_ <O>
+learning	NN	_ <O>
+and	CC	_ <O>
+self	NN	_ <O>
+discovery	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Unfortunately	RB	<B-CUE>
+these	DT	_ <O>
+standards	NNS	_ <O>
+were	VBD	_ <O>
+put	VBN	_ <O>
+in	IN	_ <O>
+place	NN	_ <O>
+without	IN	_ <O>
+careful	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+literature	NN	_ <O>
+.	.	_ <O>
+
+NULL

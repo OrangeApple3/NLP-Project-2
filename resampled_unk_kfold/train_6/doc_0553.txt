@@ -1,0 +1,44 @@
+NULL
+This	DT	_ <O>
+can	MD	_ <O>
+either	RB	_ <O>
+be	VB	_ <O>
+Friday	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+more	RBR	_ <O>
+often	RB	_ <O>
+Saturday	NNP	_ <O>
+-	HYPH	_ <O>
+Monday	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+first	JJ	_ <O>
+two	CD	_ <O>
+days	NNS	_ <O>
+of	IN	_ <O>
+competition	NN	_ <O>
+are	VBP	_ <O>
+when	WRB	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+rounds	NNS	_ <O>
+occur	VBP	_ <O>
+,	,	_ <O>
+possibly	RB	_ <O>
+beginning	VBG	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+out	IN	_ <O>
+-	HYPH	_ <O>
+round	RB	_ <O>
+the	DT	_ <O>
+second	JJ	_ <O>
+night	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,36 @@
+NULL
+At	IN	_ <O>
+dawn	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Romans	NNPS	_ <O>
+started	VBD	_ <O>
+to	TO	_ <O>
+cross	VB	_ <O>
+the	DT	_ <O>
+river	NN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Roman	JJ	_ <O>
+cavalry	NN	_ <O>
+<unk>	VBD	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+light	JJ	_ <O>
+infantry	NN	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+were	VBD	_ <O>
+forced	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+.	.	_ <O>
+
+NULL

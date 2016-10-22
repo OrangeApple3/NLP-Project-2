@@ -1,0 +1,115 @@
+NULL
+<unk>	NNP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+"	``	_ <O>
+Politics	NNPS	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+claims	VBZ	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+made	VBD	_ <O>
+changes	NNS	_ <O>
+to	TO	_ <O>
+land	VB	_ <O>
+reforms	NNS	_ <O>
+“	NFP	_ <O>
+family	NN	_ <O>
+plots	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+citizens	NNS	_ <O>
+should	MD	_ <O>
+be	VB	_ <O>
+kept	VBN	_ <O>
+equal	JJ	_ <O>
+,	,	_ <O>
+even	RB	_ <O>
+if	IN	_ <O>
+the	DT	_ <O>
+citizens	NNS	_ <O>
+had	VBD	_ <O>
+all	DT	_ <O>
+started	VBN	_ <O>
+with	IN	_ <O>
+plots	NNS	_ <O>
+of	IN	_ <O>
+unequal	JJ	_ <O>
+size	NN	_ <O>
+.	.	_ <O>
+”	NFP	_ <O>
+
+NULL
+Does	VBZ	_ <O>
+this	DT	_ <O>
+correspond	VB	_ <O>
+with	IN	_ <O>
+him	PRP	_ <O>
+acting	VBG	_ <O>
+as	IN	_ <O>
+champion	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+people	NNS	_ <O>
+(	-LRB-	_ <O>
+a	DT	_ <O>
+common	JJ	_ <O>
+theme	NN	_ <O>
+running	VBG	_ <O>
+through	IN	_ <O>
+ancient	JJ	_ <O>
+tyranny	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+making	VBG	_ <O>
+<unk>	JJ	_ <O>
+everyone	NN	_ <O>
+has	VBZ	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+land	NN	_ <O>
+rights	NNS	_ <O>
+?	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+phenomenon	NN	_ <O>
+of	IN	_ <O>
+tyranny	NN	_ <O>
+Aristotle	NNP	_ <O>
+comes	VBZ	_ <O>
+to	IN	_ <O>
+vague	JJ	_ <O>
+conclusions	NNS	_ <O>
+and	CC	_ <O>
+often	RB	_ <O>
+contradictions	NNS	<B-CUE>
+are	VBP	<B-CUE>
+observed	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+phenomenon	NN	_ <O>
+of	IN	_ <O>
+tyranny	NN	_ <O>
+Aristotle	NNP	_ <O>
+comes	VBZ	_ <O>
+to	IN	_ <O>
+vague	JJ	_ <O>
+conclusions	NNS	_ <O>
+and	CC	_ <O>
+often	RB	_ <O>
+contradictions	NNS	<B-CUE>
+are	VBP	<B-CUE>
+observed	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL

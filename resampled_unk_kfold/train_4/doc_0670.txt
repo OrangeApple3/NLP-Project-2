@@ -1,0 +1,153 @@
+It	PRP	_ <O>
+is	VBZ	_ <O>
+very	RB	_ <O>
+important	JJ	_ <O>
+for	IN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+woods	NNS	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+stores	VBZ	_ <O>
+large	JJ	_ <O>
+numbers	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+seeds	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+ground	NN	_ <O>
+for	IN	_ <O>
+later	JJ	_ <O>
+use	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+seeds	NNS	_ <O>
+not	RB	_ <O>
+used	VBN	_ <O>
+are	VBP	_ <O>
+in	IN	_ <O>
+an	DT	_ <O>
+ideal	JJ	_ <O>
+position	NN	_ <O>
+to	TO	_ <O>
+grow	VB	_ <O>
+into	IN	_ <O>
+new	JJ	_ <O>
+trees	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+main	JJ	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+many	JJ	<B-CUE>
+animals	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Mexican	NNP	_ <O>
+Jay	NNP	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+important	JJ	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+dispersal	NN	_ <O>
+of	IN	_ <O>
+some	DT	<B-CUE>
+pinyon	NN	<I-CUE>
+species	NNS	<I-CUE>
+as	IN	_ <O>
+,	,	_ <O>
+less	RBR	_ <O>
+often	RB	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+Clark	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+species	NNS	<I-CUE>
+of	IN	_ <O>
+animal	NN	_ <O>
+also	RB	_ <O>
+eat	VBP	_ <O>
+pinyon	NNS	_ <O>
+nuts	NNS	_ <O>
+,	,	_ <O>
+without	IN	_ <O>
+<unk>	VBG	_ <O>
+them	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+main	JJ	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+many	JJ	<B-CUE>
+animals	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Mexican	NNP	_ <O>
+Jay	NNP	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+important	JJ	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+dispersal	NN	_ <O>
+of	IN	_ <O>
+some	DT	<B-CUE>
+pinyon	NN	<I-CUE>
+species	NNS	<I-CUE>
+as	IN	_ <O>
+,	,	_ <O>
+less	RBR	_ <O>
+often	RB	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+Clark	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+species	NNS	<I-CUE>
+of	IN	_ <O>
+animal	NN	_ <O>
+also	RB	_ <O>
+eat	VBP	_ <O>
+pinyon	NNS	_ <O>
+nuts	NNS	_ <O>
+,	,	_ <O>
+without	IN	_ <O>
+<unk>	VBG	_ <O>
+them	PRP	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,121 @@
+NULL
+Krugman	NNP	_ <O>
+noted	VBD	_ <O>
+his	PRP$	_ <O>
+previous	JJ	_ <O>
+relationship	NN	_ <O>
+with	IN	_ <O>
+Enron	NNP	_ <O>
+in	IN	_ <O>
+that	DT	_ <O>
+article	NN	_ <O>
+and	CC	_ <O>
+in	IN	_ <O>
+other	JJ	_ <O>
+articles	NNS	_ <O>
+he	PRP	_ <O>
+wrote	VBD	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+company	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+critics	NNS	<I-CUE>
+claimed	VBD	_ <O>
+that	IN	_ <O>
+"	``	_ <O>
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+E	NNP	_ <O>
+-	HYPH	_ <O>
+man	NN	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+an	DT	_ <O>
+article	NN	_ <O>
+<unk>	NNP	_ <O>
+wrote	VBD	_ <O>
+for	IN	_ <O>
+Fortune	NNP	_ <O>
+Magazine	NNP	_ <O>
+about	IN	_ <O>
+the	DT	_ <O>
+rise	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+market	NN	_ <O>
+as	IN	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+energy	NN	_ <O>
+trading	NN	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+Krugman	NNP	_ <O>
+'s	POS	_ <O>
+earlier	RBR	_ <O>
+consulting	VBG	_ <O>
+work	NN	_ <O>
+for	IN	_ <O>
+them	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+critics	NNS	<I-CUE>
+claimed	VBD	_ <O>
+that	IN	_ <O>
+"	``	_ <O>
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+E	NNP	_ <O>
+-	HYPH	_ <O>
+man	NN	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+an	DT	_ <O>
+article	NN	_ <O>
+<unk>	NNP	_ <O>
+wrote	VBD	_ <O>
+for	IN	_ <O>
+Fortune	NNP	_ <O>
+Magazine	NNP	_ <O>
+about	IN	_ <O>
+the	DT	_ <O>
+rise	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+market	NN	_ <O>
+as	IN	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+energy	NN	_ <O>
+trading	NN	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+Krugman	NNP	_ <O>
+'s	POS	_ <O>
+earlier	RBR	_ <O>
+consulting	VBG	_ <O>
+work	NN	_ <O>
+for	IN	_ <O>
+them	PRP	_ <O>
+.	.	_ <O>
+
+NULL

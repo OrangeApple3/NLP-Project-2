@@ -1,0 +1,50 @@
+NULL
+<unk>	NNP	_ <O>
+founded	VBD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1920s	CD	_ <O>
+tended	VBD	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+larger	JJR	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+kibbutzim	NNS	_ <O>
+like	IN	_ <O>
+<unk>	NNP	_ <O>
+which	WDT	_ <O>
+were	VBD	_ <O>
+founded	VBN	_ <O>
+prior	RB	_ <O>
+to	IN	_ <O>
+World	NNP	_ <O>
+War	NNP	_ <O>
+I.	NNP	_ <O>
+Degania	NNP	_ <O>
+had	VBD	_ <O>
+had	VBN	_ <O>
+twelve	CD	_ <O>
+members	NNS	_ <O>
+at	IN	_ <O>
+its	PRP$	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+founded	VBD	_ <O>
+only	RB	_ <O>
+a	DT	_ <O>
+decade	NN	_ <O>
+later	RB	_ <O>
+,	,	_ <O>
+began	VBD	_ <O>
+with	IN	_ <O>
+215	CD	_ <O>
+members	NNS	_ <O>
+.	.	_ <O>
+
+NULL

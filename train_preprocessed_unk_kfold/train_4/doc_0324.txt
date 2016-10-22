@@ -1,0 +1,64 @@
+NULL
+<unk>	NNS	_ <O>
+can	MD	_ <O>
+<unk>	VB	_ <O>
+with	IN	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+,	,	_ <O>
+<unk>	RB	<B-CUE>
+by	IN	_ <O>
+reflecting	VBG	_ <O>
+off	RP	_ <O>
+one	CD	_ <O>
+another	DT	_ <O>
+.	.	_ <O>
+
+NULL
+Their	PRP$	_ <O>
+<unk>	NNS	_ <O>
+can	MD	_ <O>
+also	RB	_ <O>
+be	VB	_ <O>
+made	VBN	_ <O>
+to	TO	_ <O>
+curve	VB	_ <O>
+<unk>	IN	_ <O>
+one	CD	_ <O>
+another	DT	_ <O>
+.	.	_ <O>
+
+NULL
+Plasmoids	NNS	_ <O>
+can	MD	_ <O>
+also	RB	_ <O>
+be	VB	_ <O>
+made	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+into	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	<B-CUE>
+is	VBZ	<I-CUE>
+some	DT	<I-CUE>
+<unk>	JJ	<I-CUE>
+evidence	NN	<I-CUE>
+to	TO	_ <O>
+support	VB	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+that	WDT	_ <O>
+they	PRP	_ <O>
+<unk>	VBP	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+possess	VBP	_ <O>
+spin	NN	_ <O>
+.	.	_ <O>
+
+NULL

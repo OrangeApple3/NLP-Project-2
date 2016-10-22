@@ -1,0 +1,40 @@
+The	DT	_ <O>
+march	NN	_ <O>
+to	TO	_ <O>
+<unk>	NNP	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+under	IN	_ <O>
+a	DT	_ <O>
+hot	JJ	_ <O>
+sun	NN	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+dust	NN	_ <O>
+cloud	NN	_ <O>
+kicked	VBD	_ <O>
+up	RP	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+movement	NN	_ <O>
+of	IN	_ <O>
+people	NNS	_ <O>
+and	CC	_ <O>
+animals	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+heat	NN	_ <O>
+has	VBZ	_ <O>
+<unk>	VBN	_ <O>
+most	RBS	_ <O>
+if	IN	_ <O>
+not	RB	_ <O>
+all	DT	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+children	NNS	_ <O>
+.	.	_ <O>
+
+NULL

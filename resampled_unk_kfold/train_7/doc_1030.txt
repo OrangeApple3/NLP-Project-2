@@ -1,0 +1,73 @@
+NULL
+It	PRP	_ <O>
+also	RB	_ <O>
+addresses	VBZ	_ <O>
+the	DT	_ <O>
+issue	NN	_ <O>
+that	IN	_ <O>
+south	JJ	_ <O>
+-	HYPH	_ <O>
+western	JJ	_ <O>
+<unk>	NN	_ <O>
+services	NNS	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+<unk>	VB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+city	NN	_ <O>
+centre	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+rather	RB	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+this	DT	_ <O>
+is	VBZ	<B-CUE>
+regarded	VBN	<I-CUE>
+as	IN	_ <O>
+<unk>	JJ	<B-CUE>
+for	IN	_ <O>
+many	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+also	RB	_ <O>
+addresses	VBZ	_ <O>
+the	DT	_ <O>
+issue	NN	_ <O>
+that	IN	_ <O>
+south	JJ	_ <O>
+-	HYPH	_ <O>
+western	JJ	_ <O>
+<unk>	NN	_ <O>
+services	NNS	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+<unk>	VB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+city	NN	_ <O>
+centre	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+rather	RB	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+this	DT	_ <O>
+is	VBZ	<B-CUE>
+regarded	VBN	<I-CUE>
+as	IN	_ <O>
+<unk>	JJ	<B-CUE>
+for	IN	_ <O>
+many	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

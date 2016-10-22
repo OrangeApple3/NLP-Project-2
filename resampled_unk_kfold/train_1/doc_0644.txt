@@ -1,0 +1,82 @@
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+its	PRP$	_ <O>
+most	RBS	_ <O>
+popular	JJ	_ <O>
+games	NNS	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+machine	NN	_ <O>
+case	NN	_ <O>
+and	CC	_ <O>
+called	VBD	_ <O>
+it	PRP	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+machine	NN	_ <O>
+was	VBD	_ <O>
+compatible	JJ	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+with	IN	_ <O>
+some	DT	_ <O>
+key	JJ	_ <O>
+differences	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+in	IN	_ <O>
+fact	NN	_ <O>
+possible	JJ	<B-CUE>
+to	TO	_ <O>
+replace	VB	_ <O>
+the	DT	_ <O>
+NES	NNP	_ <O>
+<unk>	NNP	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+PlayChoice-10	NNP	_ <O>
+PPU	NNP	_ <O>
+,	,	_ <O>
+allowing	VBG	_ <O>
+it	PRP	_ <O>
+to	TO	_ <O>
+output	VB	_ <O>
+<unk>	NNP	_ <O>
+<unk>	RB	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+in	IN	_ <O>
+fact	NN	_ <O>
+possible	JJ	<B-CUE>
+to	TO	_ <O>
+replace	VB	_ <O>
+the	DT	_ <O>
+NES	NNP	_ <O>
+<unk>	NNP	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+PlayChoice-10	NNP	_ <O>
+PPU	NNP	_ <O>
+,	,	_ <O>
+allowing	VBG	_ <O>
+it	PRP	_ <O>
+to	TO	_ <O>
+output	VB	_ <O>
+<unk>	NNP	_ <O>
+<unk>	RB	_ <O>
+.	.	_ <O>
+
+NULL

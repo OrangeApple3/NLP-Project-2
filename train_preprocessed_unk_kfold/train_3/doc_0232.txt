@@ -1,0 +1,162 @@
+NULL
+Recently	RB	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+'s	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+alleged	VBN	<I-CUE>
+that	IN	_ <O>
+<unk>	NNP	_ <O>
+de	NNP	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+so	RB	_ <O>
+in	IN	_ <O>
+love	NN	_ <O>
+with	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+refused	VBD	_ <O>
+to	TO	_ <O>
+live	VB	_ <O>
+<unk>	RB	_ <O>
+from	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+according	VBG	_ <O>
+to	IN	_ <O>
+racial	JJ	_ <O>
+custom	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+an	DT	_ <O>
+unusual	JJ	_ <O>
+decision	NN	_ <O>
+,	,	_ <O>
+Dumesnil	NNP	_ <O>
+de	NNP	_ <O>
+Glapion	NNP	_ <O>
+passed	VBD	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+man	NN	_ <O>
+of	IN	_ <O>
+color	NN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+live	VB	_ <O>
+with	IN	_ <O>
+her	PRP$	_ <O>
+under	IN	_ <O>
+<unk>	JJ	_ <O>
+circumstances	NNS	_ <O>
+<unk>	:	_ <O>
+thus	RB	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+many	JJ	<B-CUE>
+historians	NNS	<I-CUE>
+have	VB	_ <O>
+had	VBN	_ <O>
+whether	IN	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+<unk>	RB	_ <O>
+white	JJ	_ <O>
+or	CC	_ <O>
+black	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Although	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+popularly	RB	_ <O>
+<unk>	VBN	_ <O>
+that	IN	_ <O>
+Marie	NNP	_ <O>
+presented	VBD	_ <O>
+Dumesnil	NNP	_ <O>
+de	IN	_ <O>
+Glapion	NNP	_ <O>
+with	IN	_ <O>
+fifteen	CD	_ <O>
+children	NNS	_ <O>
+,	,	_ <O>
+only	RB	_ <O>
+five	CD	_ <O>
+are	VBP	_ <O>
+listed	VBN	_ <O>
+in	IN	_ <O>
+vital	JJ	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+,	,	_ <O>
+two	CD	_ <O>
+<unk>	NNS	_ <O>
+--	:	_ <O>
+one	CD	_ <O>
+the	DT	_ <O>
+famous	JJ	_ <O>
+Marie	NNP	_ <O>
+<unk>	NNP	_ <O>
+or	CC	_ <O>
+Marie	NNP	_ <O>
+<unk>	NNP	_ <O>
+II	NNP	_ <O>
+--	:	_ <O>
+lived	VBD	_ <O>
+to	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Marie	NNP	_ <O>
+Euchariste	NNP	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBD	_ <O>
+her	PRP$	_ <O>
+mother	NN	_ <O>
+and	CC	_ <O>
+<unk>	VBD	_ <O>
+many	JJ	<B-CUE>
+who	WP	_ <O>
+thought	VBD	_ <O>
+that	IN	_ <O>
+Marie	NNP	_ <O>
+Leveau	NNP	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+black	JJ	_ <O>
+arts	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+could	MD	_ <O>
+be	VB	_ <O>
+at	IN	_ <O>
+two	CD	_ <O>
+places	NNS	_ <O>
+at	IN	_ <O>
+once	RB	_ <O>
+,	,	_ <O>
+beliefs	NNS	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+daughter	NN	_ <O>
+did	VBD	_ <O>
+little	JJ	_ <O>
+to	TO	_ <O>
+correct	VB	_ <O>
+.	.	_ <O>
+
+NULL

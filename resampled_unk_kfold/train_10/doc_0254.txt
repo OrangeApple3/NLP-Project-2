@@ -1,0 +1,125 @@
+NULL
+These	DT	_ <O>
+include	VBP	_ <O>
+:	:	_ <O>
+
+NULL
+The	DT	_ <O>
+form	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+used	VBN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+this	DT	_ <O>
+will	MD	_ <O>
+usually	RB	_ <O>
+<unk>	VB	_ <O>
+any	DT	_ <O>
+<unk>	NN	_ <O>
+if	IN	_ <O>
+the	DT	_ <O>
+ticket	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+used	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+SSR	NNP	_ <O>
+messages	NNS	_ <O>
+returned	VBN	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+status	NN	_ <O>
+indicates	VBZ	_ <O>
+the	DT	_ <O>
+involved	JJ	_ <O>
+carrier	NN	_ <O>
+has	VBZ	_ <O>
+<unk>	VBN	_ <O>
+and	CC	_ <O>
+<unk>	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+These	DT	_ <O>
+include	VBP	_ <O>
+:	:	_ <O>
+
+NULL
+<unk>	NNS	_ <O>
+'	POS	_ <O>
+<unk>	NN	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+number	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+date	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+more	JJR	_ <O>
+recent	JJ	_ <O>
+times	NNS	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+governments	NNS	<I-CUE>
+now	RB	_ <O>
+require	VBP	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+provide	VB	_ <O>
+further	JJ	_ <O>
+information	NN	_ <O>
+included	VBD	_ <O>
+to	TO	_ <O>
+assist	VB	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+or	CC	_ <O>
+terrorists	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+more	JJR	_ <O>
+recent	JJ	_ <O>
+times	NNS	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+governments	NNS	<I-CUE>
+now	RB	_ <O>
+require	VBP	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+provide	VB	_ <O>
+further	JJ	_ <O>
+information	NN	_ <O>
+included	VBD	_ <O>
+to	TO	_ <O>
+assist	VB	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+or	CC	_ <O>
+terrorists	NNS	_ <O>
+.	.	_ <O>
+
+NULL

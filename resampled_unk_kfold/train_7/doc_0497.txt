@@ -1,0 +1,75 @@
+Laboratory	NNP	_ <O>
+<unk>	JJ	_ <O>
+methods	NNS	_ <O>
+are	VBP	_ <O>
+generally	RB	_ <O>
+divided	VBN	_ <O>
+into	IN	_ <O>
+two	CD	_ <O>
+categories	NNS	_ <O>
+,	,	_ <O>
+step	NN	_ <O>
+-	HYPH	_ <O>
+growth	NN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+chain	NN	_ <O>
+-	HYPH	_ <O>
+growth	NN	_ <O>
+polymerization	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Synthetic	JJ	_ <O>
+polymerization	NN	_ <O>
+reactions	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+carried	VBN	_ <O>
+out	RP	_ <O>
+with	IN	_ <O>
+or	CC	_ <O>
+without	IN	_ <O>
+a	DT	_ <O>
+catalyst	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+newer	JJR	<I-CUE>
+methods	NNS	<I-CUE>
+such	JJ	_ <O>
+as	IN	_ <O>
+plasma	NN	_ <O>
+polymerization	NN	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+fit	VB	_ <O>
+<unk>	RB	_ <O>
+into	IN	_ <O>
+either	DT	_ <O>
+category	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+newer	JJR	<I-CUE>
+methods	NNS	<I-CUE>
+such	JJ	_ <O>
+as	IN	_ <O>
+plasma	NN	_ <O>
+polymerization	NN	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+fit	VB	_ <O>
+<unk>	RB	_ <O>
+into	IN	_ <O>
+either	DT	_ <O>
+category	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,38 @@
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+video	NN	_ <O>
+,	,	_ <O>
+several	JJ	_ <O>
+paper	NN	_ <O>
+<unk>	NNS	_ <O>
+fly	VBP	_ <O>
+over	IN	_ <O>
+New	NNP	_ <O>
+York	NNP	_ <O>
+City	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+At	IN	_ <O>
+the	DT	_ <O>
+sound	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+quick	JJ	_ <O>
+shots	NNS	_ <O>
+of	IN	_ <O>
+street	NN	_ <O>
+signs	NNS	_ <O>
+,	,	_ <O>
+people	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+restaurant	NN	_ <O>
+signs	NNS	_ <O>
+appear	VBP	_ <O>
+.	.	_ <O>
+
+NULL

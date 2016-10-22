@@ -1,0 +1,21 @@
+NULL
+The	DT	_ <O>
+boundary	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+composed	VBN	_ <O>
+of	IN	_ <O>
+<unk>	CD	_ <O>
+<unk>	JJ	_ <O>
+cells	NNS	_ <O>
+with	IN	_ <O>
+4	CD	_ <O>
+meeting	NN	_ <O>
+at	IN	_ <O>
+each	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

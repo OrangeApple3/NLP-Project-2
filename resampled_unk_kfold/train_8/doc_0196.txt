@@ -1,0 +1,117 @@
+NULL
+The	DT	_ <O>
+<unk>	NN	_ <O>
+form	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+typical	JJ	_ <O>
+Nawat	NNP	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	NNP	_ <O>
+sequence	NN	_ <O>
+,	,	_ <O>
+e.g.	FW	_ <O>
+'	''	_ <O>
+<unk>	FW	_ <O>
+,	,	_ <O>
+<unk>	FW	_ <O>
+,	,	_ <O>
+<unk>	FW	_ <O>
+,	,	_ <O>
+<unk>	FW	_ <O>
+,	,	_ <O>
+<unk>	FW	_ <O>
+,	,	_ <O>
+<unk>	FW	_ <O>
+,	,	_ <O>
+<unk>	FW	_ <O>
+,	,	_ <O>
+<unk>	FW	_ <O>
+,	,	_ <O>
+<unk>	FW	_ <O>
+,	,	_ <O>
+<unk>	FW	_ <O>
+,	,	_ <O>
+<unk>	FW	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+languages	NNS	<I-CUE>
+<unk>	VBG	_ <O>
+such	JJ	_ <O>
+items	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+associated	JJ	_ <O>
+patterns	NNS	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+case	NN	_ <O>
+are	VBP	_ <O>
+'	``	_ <O>
+<unk>	JJ	_ <O>
+'	''	_ <O>
+verb	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	_ <O>
+at	IN	_ <O>
+least	JJS	_ <O>
+are	VBP	_ <O>
+probably	RB	<B-CUE>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+origin	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+languages	NNS	<I-CUE>
+<unk>	VBG	_ <O>
+such	JJ	_ <O>
+items	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+associated	JJ	_ <O>
+patterns	NNS	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+case	NN	_ <O>
+are	VBP	_ <O>
+'	``	_ <O>
+<unk>	JJ	_ <O>
+'	''	_ <O>
+verb	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	_ <O>
+at	IN	_ <O>
+least	JJS	_ <O>
+are	VBP	_ <O>
+probably	RB	<B-CUE>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+origin	NN	_ <O>
+.	.	_ <O>
+
+NULL

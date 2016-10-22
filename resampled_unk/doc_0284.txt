@@ -1,0 +1,294 @@
+<unk>	VB	_ <O>
+-	HYPH	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+basic	JJ	<I-CUE>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+—	:	_ <O>
+essentially	RB	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+sole	NN	_ <O>
+with	IN	_ <O>
+two	CD	_ <O>
+simple	JJ	_ <O>
+<unk>	NNS	_ <O>
+running	VBG	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+sides	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+foot	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+join	NN	_ <O>
+between	IN	_ <O>
+the	DT	_ <O>
+big	JJ	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+next	JJ	_ <O>
+toe	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Popular	JJ	<B-CUE>
+use	NN	_ <O>
+of	IN	_ <O>
+flip	NN	_ <O>
+-	HYPH	_ <O>
+flops	NNS	_ <O>
+as	RB	_ <O>
+simple	JJ	_ <O>
+warm	JJ	_ <O>
+climate	NN	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+<unk>	JJ	_ <O>
+wear	NN	_ <O>
+has	VBZ	_ <O>
+spread	VBN	_ <O>
+through	IN	_ <O>
+much	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+world	NN	<I-CUE>
+,	,	_ <O>
+although	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+most	RBS	<B-CUE>
+common	JJ	<I-CUE>
+in	IN	_ <O>
+Australia	NNP	_ <O>
+,	,	_ <O>
+New	NNP	_ <O>
+Zealand	NNP	_ <O>
+,	,	_ <O>
+California	NNP	_ <O>
+and	CC	_ <O>
+Florida	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Pacific	NNP	_ <O>
+Islands	NNPS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Southeast	NNP	_ <O>
+Asia	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Indeed	RB	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJR	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+Australia	NNP	_ <O>
+,	,	_ <O>
+New	NNP	_ <O>
+Zealand	NNP	_ <O>
+,	,	_ <O>
+Florida	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+California	NNP	_ <O>
+,	,	_ <O>
+flip	VB	_ <O>
+flops	NNS	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNS	_ <O>
+)	-RRB-	_ <O>
+have	VBP	_ <O>
+become	VBN	_ <O>
+something	NN	<B-CUE>
+of	IN	<I-CUE>
+a	DT	<I-CUE>
+fashion	NN	<I-CUE>
+<unk>	NN	<I-CUE>
+amongst	IN	_ <O>
+teens	NNS	_ <O>
+and	CC	_ <O>
+young	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+so	RB	_ <O>
+much	RB	_ <O>
+so	IN	_ <O>
+that	WDT	_ <O>
+have	VBP	_ <O>
+begun	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	VBN	_ <O>
+shoes	NNS	_ <O>
+as	IN	_ <O>
+<unk>	JJ	_ <O>
+footwear	NN	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+warmer	JJR	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	VB	_ <O>
+-	HYPH	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+basic	JJ	<I-CUE>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+—	:	_ <O>
+essentially	RB	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+sole	NN	_ <O>
+with	IN	_ <O>
+two	CD	_ <O>
+simple	JJ	_ <O>
+<unk>	NNS	_ <O>
+running	VBG	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+sides	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+foot	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+join	NN	_ <O>
+between	IN	_ <O>
+the	DT	_ <O>
+big	JJ	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+next	JJ	_ <O>
+toe	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Popular	JJ	<B-CUE>
+use	NN	_ <O>
+of	IN	_ <O>
+flip	NN	_ <O>
+-	HYPH	_ <O>
+flops	NNS	_ <O>
+as	RB	_ <O>
+simple	JJ	_ <O>
+warm	JJ	_ <O>
+climate	NN	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+<unk>	JJ	_ <O>
+wear	NN	_ <O>
+has	VBZ	_ <O>
+spread	VBN	_ <O>
+through	IN	_ <O>
+much	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+world	NN	<I-CUE>
+,	,	_ <O>
+although	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+most	RBS	<B-CUE>
+common	JJ	<I-CUE>
+in	IN	_ <O>
+Australia	NNP	_ <O>
+,	,	_ <O>
+New	NNP	_ <O>
+Zealand	NNP	_ <O>
+,	,	_ <O>
+California	NNP	_ <O>
+and	CC	_ <O>
+Florida	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Pacific	NNP	_ <O>
+Islands	NNPS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Southeast	NNP	_ <O>
+Asia	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Indeed	RB	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJR	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+Australia	NNP	_ <O>
+,	,	_ <O>
+New	NNP	_ <O>
+Zealand	NNP	_ <O>
+,	,	_ <O>
+Florida	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+California	NNP	_ <O>
+,	,	_ <O>
+flip	VB	_ <O>
+flops	NNS	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNS	_ <O>
+)	-RRB-	_ <O>
+have	VBP	_ <O>
+become	VBN	_ <O>
+something	NN	<B-CUE>
+of	IN	<I-CUE>
+a	DT	<I-CUE>
+fashion	NN	<I-CUE>
+<unk>	NN	<I-CUE>
+amongst	IN	_ <O>
+teens	NNS	_ <O>
+and	CC	_ <O>
+young	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+so	RB	_ <O>
+much	RB	_ <O>
+so	IN	_ <O>
+that	WDT	_ <O>
+have	VBP	_ <O>
+begun	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	VBN	_ <O>
+shoes	NNS	_ <O>
+as	IN	_ <O>
+<unk>	JJ	_ <O>
+footwear	NN	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+warmer	JJR	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

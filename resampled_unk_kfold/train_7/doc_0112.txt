@@ -1,0 +1,204 @@
+NULL
+A	DT	_ <O>
+local	JJ	_ <O>
+<unk>	NN	_ <O>
+examined	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+suggested	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+was	VBD	_ <O>
+produced	VBN	_ <O>
+by	IN	_ <O>
+water	NN	_ <O>
+<unk>	NNS	_ <O>
+combined	VBN	_ <O>
+with	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+a	DT	_ <O>
+chemical	JJ	_ <O>
+<unk>	NN	_ <O>
+like	IN	_ <O>
+that	DT	_ <O>
+often	RB	_ <O>
+seen	VBN	_ <O>
+on	IN	_ <O>
+old	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+perhaps	RB	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+action	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+water	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+typical	JJ	_ <O>
+example	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+an	DT	_ <O>
+image	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	<B-CUE>
+reported	VBN	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+building	NN	_ <O>
+in	IN	_ <O>
+Clearwater	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	VBD	_ <O>
+widespread	JJ	<B-CUE>
+media	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Images	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Virgin	NNP	_ <O>
+have	VBP	<B-CUE>
+also	RB	<I-CUE>
+been	VBN	<I-CUE>
+reported	VBN	<I-CUE>
+on	IN	_ <O>
+a	DT	_ <O>
+rock	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+an	DT	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+;	:	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+factory	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+California	NNP	_ <O>
+;	:	_ <O>
+
+NULL
+A	DT	_ <O>
+typical	JJ	_ <O>
+example	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+an	DT	_ <O>
+image	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	<B-CUE>
+reported	VBN	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+building	NN	_ <O>
+in	IN	_ <O>
+Clearwater	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	VBD	_ <O>
+widespread	JJ	<B-CUE>
+media	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Images	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Virgin	NNP	_ <O>
+have	VBP	<B-CUE>
+also	RB	<I-CUE>
+been	VBN	<I-CUE>
+reported	VBN	<I-CUE>
+on	IN	_ <O>
+a	DT	_ <O>
+rock	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+an	DT	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+;	:	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+factory	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+California	NNP	_ <O>
+;	:	_ <O>
+
+NULL

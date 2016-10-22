@@ -1,0 +1,132 @@
+NULL
+One	CD	_ <O>
+reason	NN	_ <O>
+this	DT	_ <O>
+death	NN	_ <O>
+toll	NN	_ <O>
+was	VBD	_ <O>
+overlooked	VBN	_ <O>
+(	-LRB-	_ <O>
+or	CC	_ <O>
+<unk>	VBN	_ <O>
+)	-RRB-	_ <O>
+is	VBZ	_ <O>
+that	IN	_ <O>
+,	,	_ <O>
+once	RB	_ <O>
+introduced	VBN	_ <O>
+,	,	_ <O>
+diseases	NNS	_ <O>
+<unk>	VBD	_ <O>
+ahead	RB	_ <O>
+of	IN	_ <O>
+European	JJ	_ <O>
+immigration	NN	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+areas	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+had	VBD	_ <O>
+already	RB	_ <O>
+killed	VBN	_ <O>
+massive	JJ	_ <O>
+numbers	NNS	_ <O>
+of	IN	_ <O>
+natives	NNS	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+newer	JJR	<I-CUE>
+European	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+assumed	VBD	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+had	VBD	_ <O>
+always	RB	_ <O>
+been	VBN	_ <O>
+relatively	RB	_ <O>
+few	JJ	_ <O>
+indigenous	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+scope	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+epidemics	NNS	_ <O>
+over	IN	_ <O>
+the	DT	_ <O>
+years	NNS	_ <O>
+was	VBD	_ <O>
+vast	JJ	_ <O>
+,	,	_ <O>
+killing	VBG	_ <O>
+millions	NNS	<B-CUE>
+of	IN	<I-CUE>
+people	NNS	<I-CUE>
+—	:	_ <O>
+possibly	RB	<B-CUE>
+in	IN	_ <O>
+excess	NN	_ <O>
+of	IN	_ <O>
+90	CD	_ <O>
+%	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+population	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	RBS	_ <O>
+hit	VBN	_ <O>
+<unk>	NN	_ <O>
+creating	VBG	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+"	``	<I-CUE>
+the	DT	<I-CUE>
+greatest	JJS	<I-CUE>
+human	JJ	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+history	NN	_ <O>
+,	,	_ <O>
+far	RB	_ <O>
+<unk>	VBG	_ <O>
+even	RB	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Black	NNP	_ <O>
+Death	NNP	_ <O>
+of	IN	_ <O>
+medieval	JJ	_ <O>
+Europe	NNP	_ <O>
+that	WDT	_ <O>
+killed	VBD	_ <O>
+up	RP	_ <O>
+to	IN	_ <O>
+one	CD	_ <O>
+-	HYPH	_ <O>
+third	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+people	NNS	_ <O>
+in	IN	_ <O>
+Europe	NNP	_ <O>
+and	CC	_ <O>
+Asia	NNP	_ <O>
+between	IN	_ <O>
+<unk>	CD	_ <O>
+and	CC	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL

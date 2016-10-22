@@ -1,0 +1,44 @@
+NULL
+Petroleum	NN	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+the	DT	_ <O>
+raw	JJ	_ <O>
+material	NN	_ <O>
+for	IN	_ <O>
+many	JJ	_ <O>
+chemical	NN	_ <O>
+products	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+pharmaceuticals	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+industry	NN	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+divided	VBN	_ <O>
+into	IN	_ <O>
+three	CD	_ <O>
+major	JJ	_ <O>
+components	NNS	_ <O>
+:	:	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

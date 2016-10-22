@@ -1,0 +1,87 @@
+NULL
+He	PRP	_ <O>
+engaged	VBD	_ <O>
+in	RP	_ <O>
+long	JJ	_ <O>
+theological	JJ	_ <O>
+debates	NNS	_ <O>
+with	IN	_ <O>
+other	JJ	_ <O>
+noted	VBN	_ <O>
+figures	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+age	NN	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+William	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+rejected	VBD	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+ideas	NNS	<I-CUE>
+developed	VBN	_ <O>
+by	IN	_ <O>
+John	NNP	_ <O>
+<unk>	NNP	_ <O>
+
+NULL
+Though	IN	_ <O>
+some	DT	<B-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+Immaculate	NNP	_ <O>
+Conception	NNP	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+far	RB	_ <O>
+from	IN	_ <O>
+clear	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+rejected	VBD	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+ideas	NNS	<I-CUE>
+developed	VBN	_ <O>
+by	IN	_ <O>
+John	NNP	_ <O>
+<unk>	NNP	_ <O>
+
+NULL
+Though	IN	_ <O>
+some	DT	<B-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+Immaculate	NNP	_ <O>
+Conception	NNP	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+far	RB	_ <O>
+from	IN	_ <O>
+clear	JJ	_ <O>
+.	.	_ <O>
+
+NULL

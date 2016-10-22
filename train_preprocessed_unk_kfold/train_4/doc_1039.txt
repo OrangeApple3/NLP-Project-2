@@ -1,0 +1,118 @@
+NULL
+Predatory	JJ	_ <O>
+<unk>	NN	_ <O>
+practices	NNS	_ <O>
+may	MD	<B-CUE>
+result	NN	_ <O>
+in	IN	_ <O>
+<unk>	JJ	_ <O>
+claims	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+attempts	NNS	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+.	.	_ <O>
+
+NULL
+Businesses	NNS	_ <O>
+with	IN	_ <O>
+dominant	JJ	_ <O>
+or	CC	_ <O>
+substantial	JJ	_ <O>
+market	NN	_ <O>
+shares	NNS	_ <O>
+are	VBP	_ <O>
+more	RBR	_ <O>
+vulnerable	JJ	_ <O>
+to	IN	_ <O>
+antitrust	JJ	_ <O>
+claims	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+because	IN	_ <O>
+the	DT	_ <O>
+antitrust	JJ	_ <O>
+laws	NNS	_ <O>
+are	VBP	_ <O>
+ultimately	RB	_ <O>
+intended	VBN	_ <O>
+to	TO	_ <O>
+benefit	VB	_ <O>
+consumers	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+discounting	VBG	_ <O>
+results	NNS	_ <O>
+in	IN	_ <O>
+at	IN	_ <O>
+least	JJS	_ <O>
+short	JJ	_ <O>
+-	HYPH	_ <O>
+term	NN	_ <O>
+net	JJ	_ <O>
+benefit	NN	_ <O>
+to	IN	_ <O>
+consumers	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+U.S.	NNP	_ <O>
+Supreme	NNP	_ <O>
+Court	NNP	_ <O>
+has	VBZ	_ <O>
+set	VBN	_ <O>
+high	JJ	_ <O>
+<unk>	NNS	_ <O>
+to	IN	_ <O>
+antitrust	JJ	_ <O>
+claims	NNS	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+predatory	NN	_ <O>
+pricing	NN	_ <O>
+theory	NN	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+there	EX	<B-CUE>
+is	VBZ	<I-CUE>
+a	DT	<I-CUE>
+likelihood	NN	<I-CUE>
+that	IN	_ <O>
+market	NN	_ <O>
+entrants	NNS	_ <O>
+will	MD	_ <O>
+prevent	VB	_ <O>
+the	DT	_ <O>
+predator	NN	_ <O>
+from	IN	_ <O>
+<unk>	VBG	_ <O>
+its	PRP$	_ <O>
+investment	NN	_ <O>
+through	IN	_ <O>
+<unk>	NN	_ <O>
+competitive	JJ	_ <O>
+pricing	NN	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+no	DT	_ <O>
+probability	NN	_ <O>
+of	IN	_ <O>
+success	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+antitrust	JJ	_ <O>
+claim	NN	_ <O>
+would	MD	<B-CUE>
+fail	VB	_ <O>
+.	.	_ <O>
+
+NULL

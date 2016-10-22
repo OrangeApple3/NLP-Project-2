@@ -1,0 +1,170 @@
+It	PRP	_ <O>
+would	MD	_ <O>
+have	VB	_ <O>
+used	VBN	_ <O>
+only	RB	_ <O>
+<unk>	CD	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+process	NN	_ <O>
+,	,	_ <O>
+<unk>	JJR	_ <O>
+than	IN	_ <O>
+most	JJS	_ <O>
+other	JJ	_ <O>
+space	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+had	VBD	_ <O>
+originally	RB	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+and	CC	_ <O>
+built	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+function	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+Mars	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	CD	_ <O>
+Lander	NNP	_ <O>
+mission	NN	_ <O>
+;	:	_ <O>
+after	IN	_ <O>
+that	DT	_ <O>
+mission	NN	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+,	,	_ <O>
+MARDI	NNP	_ <O>
+<unk>	VBD	_ <O>
+several	JJ	_ <O>
+years	NNS	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+until	IN	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+lander	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNS	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	VB	_ <O>
+<unk>	RB	_ <O>
+<unk>	WRB	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+has	VBZ	_ <O>
+<unk>	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+possibly	RB	<B-CUE>
+help	NN	_ <O>
+<unk>	VB	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+MARDI	NNP	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Science	NNP	_ <O>
+<unk>	NNPS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+the	DT	<B-CUE>
+lightest	JJS	<I-CUE>
+and	CC	<I-CUE>
+most	RBS	<I-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NN	_ <O>
+<unk>	RB	_ <O>
+to	IN	_ <O>
+<unk>	VB	_ <O>
+on	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNS	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	VB	_ <O>
+<unk>	RB	_ <O>
+<unk>	WRB	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+has	VBZ	_ <O>
+<unk>	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+possibly	RB	<B-CUE>
+help	NN	_ <O>
+<unk>	VB	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+MARDI	NNP	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Science	NNP	_ <O>
+<unk>	NNPS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+the	DT	<B-CUE>
+lightest	JJS	<I-CUE>
+and	CC	<I-CUE>
+most	RBS	<I-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NN	_ <O>
+<unk>	RB	_ <O>
+to	IN	_ <O>
+<unk>	VB	_ <O>
+on	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

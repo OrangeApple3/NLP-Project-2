@@ -1,0 +1,131 @@
+The	DT	_ <O>
+soft	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+made	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+difficult	JJ	_ <O>
+for	IN	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+operate	VB	_ <O>
+<unk>	RB	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+had	VBD	_ <O>
+no	DT	_ <O>
+steering	NN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+but	CC	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+its	PRP$	_ <O>
+unusual	JJ	_ <O>
+controls	NNS	_ <O>
+appeared	VBD	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+it	PRP	_ <O>
+almost	RB	_ <O>
+theft	NN	_ <O>
+proof	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+made	VBD	_ <O>
+them	PRP	_ <O>
+all	DT	_ <O>
+easy	JJ	_ <O>
+to	TO	_ <O>
+find	VB	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+one	PRP	_ <O>
+could	MD	_ <O>
+confuse	VB	_ <O>
+the	DT	_ <O>
+turn	NN	_ <O>
+signal	NN	_ <O>
+and	CC	_ <O>
+high	JJ	_ <O>
+<unk>	NN	_ <O>
+motions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+always	RB	_ <O>
+cited	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+example	NN	_ <O>
+of	IN	_ <O>
+car	NN	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+though	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+principle	NN	_ <O>
+was	VBD	_ <O>
+not	RB	_ <O>
+yet	RB	_ <O>
+used	VBN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+unusual	JJ	_ <O>
+engine	NN	_ <O>
+had	VBD	_ <O>
+an	DT	_ <O>
+unusual	JJ	_ <O>
+sound	NN	_ <O>
+that	WDT	_ <O>
+led	VBD	_ <O>
+some	DT	<B-CUE>
+people	NNS	<I-CUE>
+to	TO	_ <O>
+think	VB	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+two	CD	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+unusual	JJ	_ <O>
+engine	NN	_ <O>
+had	VBD	_ <O>
+an	DT	_ <O>
+unusual	JJ	_ <O>
+sound	NN	_ <O>
+that	WDT	_ <O>
+led	VBD	_ <O>
+some	DT	<B-CUE>
+people	NNS	<I-CUE>
+to	TO	_ <O>
+think	VB	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+two	CD	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

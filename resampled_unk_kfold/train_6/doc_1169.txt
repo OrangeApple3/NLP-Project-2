@@ -1,0 +1,7 @@
+NULL
+Primary	NN	_ <O>
+and	CC	_ <O>
+Intermediate	NNP	_ <O>
+Education	NNP	_ <O>
+
+NULL

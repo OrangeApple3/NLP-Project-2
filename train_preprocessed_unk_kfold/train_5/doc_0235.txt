@@ -1,0 +1,76 @@
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+or	CC	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+from	IN	_ <O>
+Latin	NNP	_ <O>
+'	``	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+commonly	RB	<B-CUE>
+referred	VBD	<B-CUE>
+to	IN	<I-CUE>
+as	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+weasel	VB	_ <O>
+family	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+family	NN	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Mustelidae	NNP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+family	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+largest	JJS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+order	NN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+at	IN	<B-CUE>
+least	JJS	<I-CUE>
+partly	RB	<I-CUE>
+because	IN	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+past	NN	_ <O>
+been	VBN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+-	HYPH	_ <O>
+all	DT	_ <O>
+category	NN	_ <O>
+for	IN	_ <O>
+many	JJ	_ <O>
+early	JJ	<B-CUE>
+or	CC	<I-CUE>
+<unk>	RB	<I-CUE>
+<unk>	VBN	<I-CUE>
+taxa	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,124 @@
+Another	DT	_ <O>
+version	NN	_ <O>
+is	VBZ	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+name	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+tribal	JJ	_ <O>
+name	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+later	RB	_ <O>
+assimilated	VBN	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+indigenous	JJ	_ <O>
+people	NNS	_ <O>
+,	,	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+last	JJ	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+Western	NNP	_ <O>
+Siberia	NNP	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+leading	VBG	_ <O>
+figure	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+indigenous	JJ	_ <O>
+society	NN	_ <O>
+in	IN	_ <O>
+Western	NNP	_ <O>
+Siberia	NNP	_ <O>
+,	,	_ <O>
+said	VBD	_ <O>
+that	IN	_ <O>
+Siberia	NNP	_ <O>
+got	VBD	_ <O>
+its	PRP$	_ <O>
+name	NN	_ <O>
+from	IN	_ <O>
+his	PRP$	_ <O>
+Nation	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Sibirga	NNP	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+modern	JJ	_ <O>
+meaning	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+name	NN	_ <O>
+appeared	VBD	_ <O>
+in	IN	_ <O>
+Russian	JJ	_ <O>
+language	NN	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Siberia	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+sources	NNS	<I-CUE>
+say	VB	_ <O>
+that	IN	_ <O>
+it	PRP	_ <O>
+<unk>	VBZ	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+for	IN	_ <O>
+"	``	_ <O>
+<unk>	VBG	_ <O>
+land	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+sources	NNS	<I-CUE>
+say	VB	_ <O>
+that	IN	_ <O>
+it	PRP	_ <O>
+<unk>	VBZ	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+for	IN	_ <O>
+"	``	_ <O>
+<unk>	VBG	_ <O>
+land	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

@@ -1,0 +1,45 @@
+NULL
+The	DT	_ <O>
+other	JJ	_ <O>
+characters	NNS	_ <O>
+<unk>	VBP	_ <O>
+,	,	_ <O>
+<unk>	RB	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+Joan	NNP	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+Alfred	NNP	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+are	VBP	_ <O>
+in	IN	_ <O>
+love	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Neither	DT	_ <O>
+wants	VBZ	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+-	HYPH	_ <O>
+or	CC	_ <O>
+themselves	PRP	_ <O>
+-	:	_ <O>
+his	PRP$	_ <O>
+or	CC	_ <O>
+her	PRP$	_ <O>
+true	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

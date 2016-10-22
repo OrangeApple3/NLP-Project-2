@@ -1,0 +1,148 @@
+Like	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+"	``	_ <O>
+<unk>	MD	_ <O>
+I	PRP	_ <O>
+Compare	VB	_ <O>
+<unk>	NNP	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+Summer	NNP	_ <O>
+'s	POS	_ <O>
+Day	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+<unk>	NN	_ <O>
+uses	VBZ	_ <O>
+a	DT	_ <O>
+sustained	VBN	_ <O>
+image	NN	_ <O>
+to	TO	_ <O>
+describe	VB	_ <O>
+another	DT	_ <O>
+person	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+people	NNS	<I-CUE>
+would	MD	_ <O>
+<unk>	VB	_ <O>
+numerous	JJ	_ <O>
+relationships	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+they	PRP	_ <O>
+<unk>	VBP	_ <O>
+as	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBG	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+<unk>	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+She	PRP	_ <O>
+seems	VBZ	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+very	RB	_ <O>
+much	JJ	_ <O>
+at	RB	_ <O>
+ease	NN	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+situation	NN	_ <O>
+,	,	_ <O>
+so	RB	_ <O>
+much	RB	_ <O>
+so	IN	_ <O>
+that	IN	_ <O>
+she	PRP	_ <O>
+and	CC	_ <O>
+those	DT	_ <O>
+around	IN	_ <O>
+her	PRP	_ <O>
+are	VBP	_ <O>
+only	RB	_ <O>
+likely	JJ	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	JJ	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+limits	NNS	_ <O>
+in	IN	_ <O>
+unusual	JJ	_ <O>
+circumstances	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+people	NNS	<I-CUE>
+would	MD	_ <O>
+<unk>	VB	_ <O>
+numerous	JJ	_ <O>
+relationships	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+they	PRP	_ <O>
+<unk>	VBP	_ <O>
+as	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBG	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+<unk>	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+She	PRP	_ <O>
+seems	VBZ	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+very	RB	_ <O>
+much	JJ	_ <O>
+at	RB	_ <O>
+ease	NN	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+situation	NN	_ <O>
+,	,	_ <O>
+so	RB	_ <O>
+much	RB	_ <O>
+so	IN	_ <O>
+that	IN	_ <O>
+she	PRP	_ <O>
+and	CC	_ <O>
+those	DT	_ <O>
+around	IN	_ <O>
+her	PRP	_ <O>
+are	VBP	_ <O>
+only	RB	_ <O>
+likely	JJ	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	JJ	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+limits	NNS	_ <O>
+in	IN	_ <O>
+unusual	JJ	_ <O>
+circumstances	NNS	_ <O>
+.	.	_ <O>
+
+NULL

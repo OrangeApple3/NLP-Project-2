@@ -1,0 +1,165 @@
+NULL
+<unk>	NN	_ <O>
+will	MD	_ <O>
+always	RB	_ <O>
+be	VB	_ <O>
+engaged	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+battle	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+this	DT	_ <O>
+freedom	NN	_ <O>
+and	CC	_ <O>
+<unk>	RB	_ <O>
+that	DT	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+a	DT	_ <O>
+good	JJ	_ <O>
+definition	NN	_ <O>
+of	IN	_ <O>
+what	WP	_ <O>
+an	DT	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+–	,	_ <O>
+a	DT	_ <O>
+confident	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+that	WDT	_ <O>
+can	MD	_ <O>
+not	RB	_ <O>
+be	VB	_ <O>
+defended	VBN	_ <O>
+any	DT	_ <O>
+other	JJ	_ <O>
+way	NN	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+this	DT	_ <O>
+extremely	RB	_ <O>
+personal	JJ	_ <O>
+and	CC	_ <O>
+individual	JJ	_ <O>
+space	NN	_ <O>
+in	IN	_ <O>
+our	PRP$	_ <O>
+lives	NNS	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+violent	JJ	_ <O>
+,	,	_ <O>
+sexual	JJ	_ <O>
+,	,	_ <O>
+religious	JJ	_ <O>
+or	CC	_ <O>
+can	MD	_ <O>
+take	VB	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+expressions	NNS	<I-CUE>
+remains	VBZ	_ <O>
+closed	JJ	_ <O>
+,	,	_ <O>
+we	PRP	_ <O>
+will	MD	_ <O>
+also	RB	_ <O>
+remain	VB	_ <O>
+<unk>	NNS	_ <O>
+to	IN	_ <O>
+our	PRP$	_ <O>
+own	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+has	VBZ	_ <O>
+always	RB	_ <O>
+been	VBN	_ <O>
+like	IN	_ <O>
+that	DT	_ <O>
+throughout	IN	_ <O>
+history	NN	_ <O>
+and	CC	_ <O>
+will	MD	_ <O>
+probably	RB	<B-CUE>
+always	RB	_ <O>
+stay	VB	_ <O>
+that	DT	_ <O>
+way	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+If	IN	_ <O>
+this	DT	_ <O>
+extremely	RB	_ <O>
+personal	JJ	_ <O>
+and	CC	_ <O>
+individual	JJ	_ <O>
+space	NN	_ <O>
+in	IN	_ <O>
+our	PRP$	_ <O>
+lives	NNS	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+violent	JJ	_ <O>
+,	,	_ <O>
+sexual	JJ	_ <O>
+,	,	_ <O>
+religious	JJ	_ <O>
+or	CC	_ <O>
+can	MD	_ <O>
+take	VB	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+expressions	NNS	<I-CUE>
+remains	VBZ	_ <O>
+closed	JJ	_ <O>
+,	,	_ <O>
+we	PRP	_ <O>
+will	MD	_ <O>
+also	RB	_ <O>
+remain	VB	_ <O>
+<unk>	NNS	_ <O>
+to	IN	_ <O>
+our	PRP$	_ <O>
+own	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+has	VBZ	_ <O>
+always	RB	_ <O>
+been	VBN	_ <O>
+like	IN	_ <O>
+that	DT	_ <O>
+throughout	IN	_ <O>
+history	NN	_ <O>
+and	CC	_ <O>
+will	MD	_ <O>
+probably	RB	<B-CUE>
+always	RB	_ <O>
+stay	VB	_ <O>
+that	DT	_ <O>
+way	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

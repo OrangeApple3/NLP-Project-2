@@ -1,0 +1,338 @@
+NULL
+This	DT	_ <O>
+view	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+combination	NN	_ <O>
+of	IN	_ <O>
+two	CD	_ <O>
+aspects	NNS	_ <O>
+of	IN	_ <O>
+human	JJ	_ <O>
+existence	NN	_ <O>
+is	VBZ	<B-CUE>
+to	TO	<I-CUE>
+be	VB	<I-CUE>
+considered	VBN	<I-CUE>
+as	IN	_ <O>
+an	DT	_ <O>
+idea	NN	_ <O>
+influenced	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Christians	NNPS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+beliefs	NNS	_ <O>
+wide	JJ	_ <O>
+spread	NN	_ <O>
+amongst	IN	_ <O>
+the	DT	_ <O>
+Muslim	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+amongst	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+branch	NN	_ <O>
+of	IN	_ <O>
+Islam	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+presented	VBN	_ <O>
+so	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Islamic	JJ	_ <O>
+texts	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Briefly	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+concept	NN	_ <O>
+of	IN	_ <O>
+soul	NN	_ <O>
+widespread	JJ	_ <O>
+amongst	IN	_ <O>
+the	DT	_ <O>
+Muslims	NNPS	_ <O>
+today	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+mixture	NN	_ <O>
+of	IN	_ <O>
+Greek	JJ	_ <O>
+-	HYPH	_ <O>
+Hindu	JJ	_ <O>
+-	HYPH	_ <O>
+Christian	JJ	_ <O>
+beliefs	NNS	_ <O>
+and	CC	_ <O>
+Islamic	JJ	_ <O>
+sources	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Islam	NNP	_ <O>
+itself	PRP	_ <O>
+<unk>	VBZ	_ <O>
+between	IN	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+just	RB	_ <O>
+like	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+done	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+language	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Both	DT	_ <O>
+"	``	_ <O>
+Ruh	NNP	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+Nafs	NNP	_ <O>
+"	''	_ <O>
+are	VBP	_ <O>
+translated	VBN	_ <O>
+into	IN	_ <O>
+soul	NN	_ <O>
+causing	VBG	_ <O>
+much	JJ	_ <O>
+confusion	NN	_ <O>
+concerning	VBG	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+different	JJ	_ <O>
+concepts	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	<B-CUE>
+is	VBZ	<I-CUE>
+no	DT	<I-CUE>
+evidence	NN	<I-CUE>
+at	IN	_ <O>
+all	DT	_ <O>
+that	WDT	_ <O>
+the	DT	_ <O>
+Quran	NNP	_ <O>
+treats	VBZ	_ <O>
+the	DT	_ <O>
+soul	NN	_ <O>
+(	-LRB-	_ <O>
+Ruh	NNP	_ <O>
+)	-RRB-	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+place	NN	_ <O>
+of	IN	_ <O>
+feelings	NNS	_ <O>
+or	CC	_ <O>
+thinking	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+No	UH	_ <O>
+where	WRB	_ <O>
+in	IN	_ <O>
+Quran	NNP	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+said	VBN	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+Ruh	NNP	_ <O>
+of	IN	_ <O>
+man	NN	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+source	NN	_ <O>
+of	IN	_ <O>
+life	NN	_ <O>
+speaks	VBZ	_ <O>
+to	IN	_ <O>
+him	PRP	_ <O>
+or	CC	_ <O>
+<unk>	VBZ	_ <O>
+to	IN	_ <O>
+him	PRP	_ <O>
+but	CC	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+said	VBD	_ <O>
+that	IN	_ <O>
+his	PRP$	_ <O>
+Nafs	NNP	_ <O>
+<unk>	VBD	_ <O>
+to	IN	_ <O>
+him	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+But	CC	_ <O>
+Nafs	NNP	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+the	DT	_ <O>
+source	NN	_ <O>
+of	IN	_ <O>
+life	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+something	NN	<B-CUE>
+other	JJ	<I-CUE>
+than	IN	_ <O>
+the	DT	_ <O>
+Ruh	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+But	CC	_ <O>
+partly	RB	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+influence	NN	_ <O>
+and	CC	_ <O>
+latter	VB	_ <O>
+the	DT	_ <O>
+influence	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Hindus	NNPS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Indian	JJ	_ <O>
+sub	NN	_ <O>
+continent	NN	_ <O>
+and	CC	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+influence	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+become	VBN	_ <O>
+more	RBR	<B-CUE>
+widespread	JJ	<I-CUE>
+amongst	IN	_ <O>
+the	DT	_ <O>
+Muslims	NNPS	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+source	NN	_ <O>
+of	IN	_ <O>
+life	NN	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+Ruh	NNP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+centre	NN	_ <O>
+of	IN	_ <O>
+feelings	NNS	_ <O>
+and	CC	_ <O>
+thinking	VBG	_ <O>
+with	IN	_ <O>
+an	DT	_ <O>
+independent	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+understand	VB	_ <O>
+the	DT	_ <O>
+concept	NN	_ <O>
+of	IN	_ <O>
+soul	NN	_ <O>
+amongst	IN	_ <O>
+the	DT	_ <O>
+laymen	NNS	_ <O>
+Muslims	NNPS	_ <O>
+you	PRP	<B-CUE>
+would	MD	<I-CUE>
+need	VB	<I-CUE>
+to	TO	_ <O>
+understand	VB	_ <O>
+this	DT	_ <O>
+concept	NN	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+Greek	NNP	_ <O>
+-	HYPH	_ <O>
+Hindu	NNP	_ <O>
+and	CC	_ <O>
+Christian	JJ	_ <O>
+perspective	NN	_ <O>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+you	PRP	<B-CUE>
+compare	VB	_ <O>
+it	PRP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Islamic	JJ	_ <O>
+texts	NNS	_ <O>
+you	PRP	<B-CUE>
+would	MD	<I-CUE>
+find	VB	_ <O>
+out	RP	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+more	RBR	<B-CUE>
+widespread	JJ	<I-CUE>
+concept	NN	_ <O>
+of	IN	_ <O>
+soul	NN	_ <O>
+is	VBZ	_ <O>
+hardly	RB	<B-CUE>
+<unk>	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Quran	NNP	_ <O>
+itself	PRP	_ <O>
+except	IN	_ <O>
+if	IN	_ <O>
+you	PRP	<B-CUE>
+force	VB	_ <O>
+<unk>	PRP	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+it	PRP	_ <O>
+seem	VB	_ <O>
+so	RB	_ <O>
+.	.	_ <O>
+
+NULL

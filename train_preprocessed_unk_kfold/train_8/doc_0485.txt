@@ -1,0 +1,275 @@
+NULL
+In	IN	_ <O>
+recent	JJ	_ <O>
+years	NNS	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+schools	NNS	<I-CUE>
+have	VBP	_ <O>
+implemented	VBN	_ <O>
+a	DT	_ <O>
+third	JJ	_ <O>
+and	CC	_ <O>
+even	RB	_ <O>
+fourth	JJ	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+performing	VBG	_ <O>
+art	NN	_ <O>
+is	VBZ	_ <O>
+mainly	RB	_ <O>
+prominent	JJ	_ <O>
+in	IN	_ <O>
+Southern	NNP	_ <O>
+California	NNP	_ <O>
+high	JJ	_ <O>
+schools	NNS	_ <O>
+in	IN	_ <O>
+various	JJ	<B-CUE>
+school	NN	<I-CUE>
+districts	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Although	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+around	RB	_ <O>
+for	IN	_ <O>
+many	JJ	_ <O>
+decades	NNS	_ <O>
+(	-LRB-	_ <O>
+and	CC	_ <O>
+has	VBZ	_ <O>
+evolved	VBN	_ <O>
+much	RB	_ <O>
+since	IN	_ <O>
+then	RB	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+gaining	VBG	_ <O>
+more	JJR	_ <O>
+and	CC	_ <O>
+more	JJR	_ <O>
+popularity	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+particular	JJ	_ <O>
+style	NN	_ <O>
+of	IN	_ <O>
+pep	NN	_ <O>
+flags	NNS	_ <O>
+has	VBZ	_ <O>
+spanned	VBN	_ <O>
+out	RP	_ <O>
+to	IN	_ <O>
+other	JJ	_ <O>
+areas	NNS	_ <O>
+in	IN	_ <O>
+Northern	NNP	_ <O>
+California	NNP	_ <O>
+and	CC	_ <O>
+Nevada	NNP	_ <O>
+and	CC	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+known	VBN	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+similar	JJ	_ <O>
+styles	NNS	_ <O>
+in	IN	_ <O>
+Colorado	NNP	_ <O>
+,	,	_ <O>
+Florida	NNP	_ <O>
+,	,	_ <O>
+Georgia	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Massachusetts	NNP	_ <O>
+,	,	_ <O>
+Ohio	NNP	_ <O>
+and	CC	_ <O>
+Wisconsin	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Twirling	NNP	_ <O>
+has	VBZ	_ <O>
+also	RB	_ <O>
+reached	VBD	_ <O>
+other	JJ	_ <O>
+countries	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Australia	NNP	_ <O>
+,	,	_ <O>
+Canada	NNP	_ <O>
+,	,	_ <O>
+Japan	NNP	_ <O>
+,	,	_ <O>
+South	NNP	_ <O>
+America	NNP	_ <O>
+,	,	_ <O>
+St.	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+Kingdom	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Depending	VBG	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+U.S.	NNP	_ <O>
+region	NN	_ <O>
+or	CC	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+,	,	_ <O>
+pep	UH	_ <O>
+flags	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+with	IN	_ <O>
+<unk>	NN	_ <O>
+(	-LRB-	_ <O>
+flag	NN	_ <O>
+baton	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Usually	RB	_ <O>
+,	,	_ <O>
+pep	NN	_ <O>
+flags	NNS	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+associated	VBN	_ <O>
+with	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+main	JJ	_ <O>
+subdivisions	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+spirit	NN	_ <O>
+world	NN	_ <O>
+:	:	_ <O>
+cheerleading	NN	_ <O>
+,	,	_ <O>
+<unk>	XX	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+'	``	_ <O>
+pep	JJ	_ <O>
+flags	NNS	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+much	JJ	_ <O>
+like	IN	_ <O>
+other	JJ	_ <O>
+auxiliary	JJ	_ <O>
+and	CC	_ <O>
+spirit	NN	_ <O>
+teams	NNS	_ <O>
+,	,	_ <O>
+Pep	NNP	_ <O>
+Flags	NNP	_ <O>
+takes	VBZ	_ <O>
+much	JJ	_ <O>
+hand	NN	_ <O>
+and	CC	_ <O>
+eye	NN	_ <O>
+coordination	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+overall	JJ	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+good	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+flag	NN	<I-CUE>
+routines	NNS	<I-CUE>
+involve	VB	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+music	NN	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+elements	NNS	_ <O>
+(	-LRB-	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+pyramid	NN	_ <O>
+mounts	NNS	_ <O>
+,	,	_ <O>
+etc	FW	_ <O>
+.	.	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+numerous	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+flag	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+flag	NN	_ <O>
+<unk>	VBZ	_ <O>
+(	-LRB-	_ <O>
+also	RB	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+<unk>	NNS	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

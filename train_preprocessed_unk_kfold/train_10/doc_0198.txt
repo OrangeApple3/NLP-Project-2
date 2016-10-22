@@ -1,0 +1,117 @@
+NULL
+<unk>	VBG	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+much	RB	_ <O>
+more	RBR	_ <O>
+common	JJ	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+areas	NNS	<I-CUE>
+partly	RB	_ <O>
+because	IN	_ <O>
+the	DT	_ <O>
+majority	NN	_ <O>
+of	IN	_ <O>
+cannabis	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	NN	_ <O>
+which	WDT	_ <O>
+can	MD	_ <O>
+not	RB	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+on	IN	_ <O>
+its	PRP$	_ <O>
+own	JJ	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+joint	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+People	NNS	_ <O>
+who	WP	_ <O>
+use	VBP	_ <O>
+tobacco	NN	_ <O>
+claim	VBP	_ <O>
+it	PRP	_ <O>
+<unk>	VBZ	_ <O>
+the	DT	_ <O>
+joint	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+<unk>	JJ	_ <O>
+tobacco	NN	_ <O>
+acts	VBZ	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+<unk>	VBG	_ <O>
+"	''	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+cannabis	NNS	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+some	DT	<B-CUE>
+non	AFX	<I-CUE>
+-	HYPH	<I-CUE>
+tobacco	NN	<I-CUE>
+<unk>	NNS	<I-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+tobacco	NN	_ <O>
+destroys	VBZ	_ <O>
+the	DT	_ <O>
+cannabis	JJ	_ <O>
+high	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+smokers	NNS	<I-CUE>
+also	RB	_ <O>
+avoid	VB	_ <O>
+mixing	VBG	_ <O>
+cannabis	JJ	_ <O>
+with	IN	_ <O>
+tobacco	NN	_ <O>
+for	IN	_ <O>
+fear	NN	_ <O>
+of	IN	_ <O>
+becoming	VBG	_ <O>
+<unk>	JJ	_ <O>
+to	IN	_ <O>
+tobacco	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+believe	VB	_ <O>
+that	IN	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+tobacco	NN	_ <O>
+before	IN	_ <O>
+use	NN	_ <O>
+gets	VBZ	_ <O>
+<unk>	JJ	_ <O>
+of	IN	_ <O>
+any	DT	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

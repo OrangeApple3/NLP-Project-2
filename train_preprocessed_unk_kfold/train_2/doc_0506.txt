@@ -1,0 +1,88 @@
+NULL
+Before	IN	_ <O>
+the	DT	_ <O>
+Ha'penny	NNP	_ <O>
+Bridge	NNP	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+built	VBN	_ <O>
+there	EX	_ <O>
+were	VBD	_ <O>
+seven	CD	_ <O>
+<unk>	NNS	_ <O>
+that	WDT	_ <O>
+operated	VBD	_ <O>
+from	IN	_ <O>
+one	CD	_ <O>
+side	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Liffey	NNP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+under	IN	<B-CUE>
+the	DT	<I-CUE>
+<unk>	JJ	<I-CUE>
+eye	NN	<I-CUE>
+of	IN	_ <O>
+William	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+ferries	NNS	_ <O>
+had	VBD	<B-CUE>
+been	VBN	<I-CUE>
+said	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+bad	JJ	_ <O>
+condition	NN	_ <O>
+and	CC	_ <O>
+he	PRP	_ <O>
+was	VBD	<B-CUE>
+told	VBN	<I-CUE>
+that	IN	_ <O>
+he	PRP	_ <O>
+had	VBD	_ <O>
+to	TO	_ <O>
+either	CC	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+ferries	NNS	_ <O>
+or	CC	_ <O>
+build	VB	_ <O>
+a	DT	_ <O>
+bridge	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Walsh	NNP	_ <O>
+chose	VBD	_ <O>
+the	DT	_ <O>
+latter	JJ	_ <O>
+option	NN	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+granted	VBN	_ <O>
+the	DT	_ <O>
+right	NN	_ <O>
+to	TO	_ <O>
+extract	VB	_ <O>
+a	DT	_ <O>
+ha'penny	JJ	_ <O>
+toll	NN	_ <O>
+from	IN	_ <O>
+anyone	NN	_ <O>
+crossing	VBG	_ <O>
+it	PRP	_ <O>
+for	IN	_ <O>
+100	CD	_ <O>
+years	NNS	_ <O>
+.	.	_ <O>
+
+NULL

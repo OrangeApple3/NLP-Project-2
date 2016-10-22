@@ -1,0 +1,101 @@
+NULL
+<unk>	NNP	_ <O>
+has	VBZ	_ <O>
+not	RB	_ <O>
+published	VBN	_ <O>
+a	DT	_ <O>
+comprehensive	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	JJ	_ <O>
+beliefs	NNS	_ <O>
+(	-LRB-	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+systematic	JJ	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+his	PRP$	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+books	NNS	_ <O>
+provide	VBP	_ <O>
+a	DT	_ <O>
+good	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+what	WP	_ <O>
+he	PRP	_ <O>
+believes	VBZ	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	RB	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+can	MD	<I-CUE>
+be	VB	<I-CUE>
+<unk>	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+statement	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+church	NN	_ <O>
+<unk>	VBG	_ <O>
+network	NN	_ <O>
+he	PRP	_ <O>
+<unk>	RB	_ <O>
+-	,	_ <O>
+founded	VBN	_ <O>
+,	,	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+beliefs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	RB	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+can	MD	<I-CUE>
+be	VB	<I-CUE>
+<unk>	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+statement	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+church	NN	_ <O>
+<unk>	VBG	_ <O>
+network	NN	_ <O>
+he	PRP	_ <O>
+<unk>	RB	_ <O>
+-	,	_ <O>
+founded	VBN	_ <O>
+,	,	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+beliefs	NNS	_ <O>
+.	.	_ <O>
+
+NULL

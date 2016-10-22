@@ -1,0 +1,27 @@
+NULL
+The	DT	_ <O>
+total	JJ	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+built	VBN	_ <O>
+was	VBD	_ <O>
+12	CD	_ <O>
+-	HYPH	_ <O>
+six	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Hotel	NNP	_ <O>
+design	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+six	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Advanced	NNP	_ <O>
+Vela	NNP	_ <O>
+design	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,132 @@
+NULL
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+an	DT	_ <O>
+important	JJ	_ <O>
+artist	NN	_ <O>
+within	IN	_ <O>
+an	DT	_ <O>
+often	RB	<B-CUE>
+<unk>	VBD	<I-CUE>
+school	NN	_ <O>
+of	IN	_ <O>
+Italian	JJ	_ <O>
+Renaissance	NNP	_ <O>
+painting	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	JJ	_ <O>
+he	PRP	_ <O>
+is	VBZ	_ <O>
+similar	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+operating	VBG	_ <O>
+within	IN	_ <O>
+his	PRP$	_ <O>
+home	NN	_ <O>
+city	NN	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+being	VBG	_ <O>
+related	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+highly	RB	_ <O>
+celebrated	VBN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+he	PRP	_ <O>
+may	MD	<B-CUE>
+have	VBP	_ <O>
+influenced	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+work	NN	_ <O>
+<unk>	VBZ	_ <O>
+from	IN	_ <O>
+that	DT	_ <O>
+of	IN	_ <O>
+some	DT	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+<unk>	VBG	_ <O>
+what	WP	_ <O>
+would	MD	_ <O>
+have	VB	_ <O>
+been	VBN	_ <O>
+seen	VBN	_ <O>
+by	IN	_ <O>
+those	DT	_ <O>
+outside	JJ	_ <O>
+<unk>	NNP	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+more	RBR	_ <O>
+modern	JJ	_ <O>
+approach	NN	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+lack	NN	_ <O>
+of	IN	_ <O>
+fame	NN	_ <O>
+can	MD	<B-CUE>
+most	RBS	<B-CUE>
+likely	JJ	<I-CUE>
+be	VB	_ <O>
+attributed	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+fact	NN	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+appears	VBZ	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+worked	VBN	_ <O>
+<unk>	RB	_ <O>
+within	IN	_ <O>
+Siena	NNP	_ <O>
+alone	RB	_ <O>
+,	,	_ <O>
+his	PRP$	_ <O>
+<unk>	JJ	_ <O>
+death	NN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+age	NN	_ <O>
+of	IN	_ <O>
+just	RB	_ <O>
+<unk>	CD	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+general	JJ	_ <O>
+ignorance	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+outside	JJ	_ <O>
+world	NN	_ <O>
+to	IN	_ <O>
+<unk>	JJ	_ <O>
+painting	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+renaissance	NN	_ <O>
+.	.	_ <O>
+
+NULL

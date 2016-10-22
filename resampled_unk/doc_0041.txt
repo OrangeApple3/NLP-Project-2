@@ -1,0 +1,61 @@
+NULL
+Upon	IN	_ <O>
+<unk>	VBG	_ <O>
+this	DT	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+groups	NNS	_ <O>
+<unk>	VBD	_ <O>
+Bushnell	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+first	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+produced	VBN	_ <O>
+were	VBD	_ <O>
+<unk>	VBN	_ <O>
+very	RB	_ <O>
+<unk>	RB	_ <O>
+,	,	_ <O>
+about	RB	_ <O>
+<unk>	CD	_ <O>
+<unk>	NNS	_ <O>
+a	DT	_ <O>
+day	NN	_ <O>
+,	,	_ <O>
+many	JJ	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+<unk>	VBD	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+By	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+began	VBD	_ <O>
+<unk>	VBG	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+to	IN	_ <O>
+other	JJ	_ <O>
+countries	NNS	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+aid	NN	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

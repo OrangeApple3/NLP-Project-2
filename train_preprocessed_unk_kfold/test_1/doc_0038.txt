@@ -1,0 +1,85 @@
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBP	_ <O>
+into	IN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	VB	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+called	VBD	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	RB	_ <O>
+they	PRP	_ <O>
+<unk>	VBP	_ <O>
+many	JJ	_ <O>
+times	NNS	_ <O>
+to	TO	_ <O>
+produce	VB	_ <O>
+large	JJ	_ <O>
+numbers	NNS	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+majority	NN	_ <O>
+<unk>	VBP	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+which	WDT	_ <O>
+they	PRP	_ <O>
+<unk>	VBP	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+proportion	NN	_ <O>
+are	VBP	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	RB	_ <O>
+others	NNS	_ <O>
+are	VBP	_ <O>
+taken	VBN	_ <O>
+up	RP	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+system	NN	_ <O>
+where	WRB	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL

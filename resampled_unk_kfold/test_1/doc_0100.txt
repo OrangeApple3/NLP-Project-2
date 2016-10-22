@@ -1,0 +1,84 @@
+A	DT	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+<unk>	CD	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+water	NN	_ <O>
+was	VBD	_ <O>
+said	VBN	_ <O>
+to	TO	_ <O>
+contain	VB	_ <O>
+six	CD	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+six	CD	_ <O>
+stone	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+some	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+often	RB	_ <O>
+set	VBN	_ <O>
+up	RP	_ <O>
+on	IN	_ <O>
+land	NN	_ <O>
+<unk>	NNS	_ <O>
+so	IN	_ <O>
+the	DT	_ <O>
+issue	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	MD	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+generally	RB	<B-CUE>
+produced	VBN	_ <O>
+in	IN	_ <O>
+<unk>	JJ	_ <O>
+rural	JJ	_ <O>
+areas	NNS	_ <O>
+,	,	_ <O>
+<unk>	RB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+interference	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+law	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+generally	RB	<B-CUE>
+produced	VBN	_ <O>
+in	IN	_ <O>
+<unk>	JJ	_ <O>
+rural	JJ	_ <O>
+areas	NNS	_ <O>
+,	,	_ <O>
+<unk>	RB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+interference	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+law	NN	_ <O>
+.	.	_ <O>
+
+NULL

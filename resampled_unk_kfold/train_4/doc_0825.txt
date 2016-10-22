@@ -1,0 +1,29 @@
+NULL
+An	DT	_ <O>
+<unk>	JJ	_ <O>
+planet	NN	_ <O>
+on	IN	_ <O>
+which	WDT	_ <O>
+Arthur	NNP	_ <O>
+<unk>	NNP	_ <O>
+lived	VBD	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+short	JJ	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNPS	_ <O>
+who	WP	_ <O>
+neither	CC	_ <O>
+<unk>	VBP	_ <O>
+nor	CC	_ <O>
+<unk>	VBP	_ <O>
+for	IN	_ <O>
+things	NNS	_ <O>
+.	.	_ <O>
+
+NULL

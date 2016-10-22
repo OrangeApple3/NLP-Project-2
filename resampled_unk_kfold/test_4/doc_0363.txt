@@ -1,0 +1,287 @@
+Additionally	RB	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+never	RB	_ <O>
+played	VBD	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNP	_ <O>
+team	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	<B-CUE>
+<unk>	NN	<I-CUE>
+experts	NNS	<I-CUE>
+rank	NN	_ <O>
+Walker	NNP	_ <O>
+'s	POS	_ <O>
+professional	JJ	_ <O>
+career	NN	_ <O>
+as	IN	_ <O>
+something	NN	<B-CUE>
+of	IN	<I-CUE>
+a	DT	<I-CUE>
+<unk>	NN	<I-CUE>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+must	MD	<B-CUE>
+be	VB	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+high	JJ	_ <O>
+,	,	_ <O>
+perhaps	RB	<B-CUE>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+that	WDT	_ <O>
+were	VBD	_ <O>
+placed	VBN	_ <O>
+upon	IN	_ <O>
+him	PRP	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+college	NN	_ <O>
+career	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+scrutiny	NN	_ <O>
+which	WDT	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+so	RB	_ <O>
+much	JJ	_ <O>
+being	VBG	_ <O>
+<unk>	VBN	_ <O>
+for	IN	_ <O>
+him	PRP	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+observers	NNS	<I-CUE>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+claim	VBP	_ <O>
+that	IN	_ <O>
+Walker	NNP	_ <O>
+was	VBD	_ <O>
+at	IN	_ <O>
+least	JJS	_ <O>
+in	IN	_ <O>
+part	NN	_ <O>
+a	DT	_ <O>
+victim	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+rules	NNS	_ <O>
+changes	VBZ	_ <O>
+the	DT	_ <O>
+NFL	NNP	_ <O>
+had	VBD	_ <O>
+adopted	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+spring	NN	_ <O>
+of	IN	_ <O>
+1978	CD	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+were	VBD	<B-CUE>
+widely	RB	<I-CUE>
+<unk>	VBN	<I-CUE>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+offenses	NNS	_ <O>
+from	IN	_ <O>
+running	VBG	_ <O>
+(	-LRB-	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+<unk>	VBG	_ <O>
+)	-RRB-	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+;	:	_ <O>
+in	IN	_ <O>
+addition	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+NFL	NNP	_ <O>
+teams	NNS	_ <O>
+on	IN	_ <O>
+which	WDT	_ <O>
+Walker	NNP	_ <O>
+played	VBD	_ <O>
+<unk>	RB	_ <O>
+used	VBN	_ <O>
+the	DT	_ <O>
+I	NNP	_ <O>
+-	HYPH	_ <O>
+formation	NN	_ <O>
+,	,	_ <O>
+out	IN	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+he	PRP	_ <O>
+ran	VBD	_ <O>
+so	RB	_ <O>
+successfully	RB	_ <O>
+throughout	IN	_ <O>
+his	PRP$	_ <O>
+career	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	<B-CUE>
+<unk>	NN	<I-CUE>
+experts	NNS	<I-CUE>
+rank	NN	_ <O>
+Walker	NNP	_ <O>
+'s	POS	_ <O>
+professional	JJ	_ <O>
+career	NN	_ <O>
+as	IN	_ <O>
+something	NN	<B-CUE>
+of	IN	<I-CUE>
+a	DT	<I-CUE>
+<unk>	NN	<I-CUE>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+must	MD	<B-CUE>
+be	VB	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+high	JJ	_ <O>
+,	,	_ <O>
+perhaps	RB	<B-CUE>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+that	WDT	_ <O>
+were	VBD	_ <O>
+placed	VBN	_ <O>
+upon	IN	_ <O>
+him	PRP	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+college	NN	_ <O>
+career	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+scrutiny	NN	_ <O>
+which	WDT	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+so	RB	_ <O>
+much	JJ	_ <O>
+being	VBG	_ <O>
+<unk>	VBN	_ <O>
+for	IN	_ <O>
+him	PRP	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+observers	NNS	<I-CUE>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+claim	VBP	_ <O>
+that	IN	_ <O>
+Walker	NNP	_ <O>
+was	VBD	_ <O>
+at	IN	_ <O>
+least	JJS	_ <O>
+in	IN	_ <O>
+part	NN	_ <O>
+a	DT	_ <O>
+victim	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+rules	NNS	_ <O>
+changes	VBZ	_ <O>
+the	DT	_ <O>
+NFL	NNP	_ <O>
+had	VBD	_ <O>
+adopted	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+spring	NN	_ <O>
+of	IN	_ <O>
+1978	CD	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+were	VBD	<B-CUE>
+widely	RB	<I-CUE>
+<unk>	VBN	<I-CUE>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+offenses	NNS	_ <O>
+from	IN	_ <O>
+running	VBG	_ <O>
+(	-LRB-	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+<unk>	VBG	_ <O>
+)	-RRB-	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+;	:	_ <O>
+in	IN	_ <O>
+addition	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+NFL	NNP	_ <O>
+teams	NNS	_ <O>
+on	IN	_ <O>
+which	WDT	_ <O>
+Walker	NNP	_ <O>
+played	VBD	_ <O>
+<unk>	RB	_ <O>
+used	VBN	_ <O>
+the	DT	_ <O>
+I	NNP	_ <O>
+-	HYPH	_ <O>
+formation	NN	_ <O>
+,	,	_ <O>
+out	IN	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+he	PRP	_ <O>
+ran	VBD	_ <O>
+so	RB	_ <O>
+successfully	RB	_ <O>
+throughout	IN	_ <O>
+his	PRP$	_ <O>
+career	NN	_ <O>
+.	.	_ <O>
+
+NULL

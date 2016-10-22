@@ -1,0 +1,124 @@
+NULL
+Muslims	NNPS	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+can	MD	_ <O>
+trace	VB	_ <O>
+their	PRP$	_ <O>
+origin	NN	_ <O>
+to	IN	_ <O>
+several	JJ	<B-CUE>
+locations	NNS	<I-CUE>
+,	,	_ <O>
+particularly	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Middle	NNP	_ <O>
+East	NNP	_ <O>
+and	CC	_ <O>
+North	NNP	_ <O>
+India	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+different	JJ	_ <O>
+Muslim	JJ	_ <O>
+groups	NNS	_ <O>
+in	IN	_ <O>
+Parangipettai	NNP	_ <O>
+,	,	_ <O>
+particularly	RB	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+the	DT	_ <O>
+name	NN	_ <O>
+originally	RB	_ <O>
+derived	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+old	JJ	_ <O>
+Tamil	NNP	_ <O>
+term	NN	_ <O>
+'	''	_ <O>
+<unk>	NNP	_ <O>
+<unk>	FW	_ <O>
+'	''	_ <O>
+meaning	VBG	_ <O>
+'	''	_ <O>
+Kings	NNS	_ <O>
+of	IN	_ <O>
+Ships	NNS	_ <O>
+'	POS	_ <O>
+said	VBD	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+given	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Southern	NNP	_ <O>
+Tamil	NNP	_ <O>
+King	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+shortly	RB	_ <O>
+King	NNP	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+coastal	JJ	_ <O>
+Muslim	JJ	_ <O>
+sea	NN	_ <O>
+traders	NNS	_ <O>
+who	WP	_ <O>
+were	VBD	_ <O>
+then	RB	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+coastal	JJ	_ <O>
+areas	NNS	_ <O>
+with	IN	_ <O>
+their	PRP$	_ <O>
+trade	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Then	RB	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+trade	NN	_ <O>
+touch	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+over	IN	_ <O>
+the	DT	_ <O>
+new	JJ	_ <O>
+faith	NN	_ <O>
+may	MD	_ <O>
+have	VB	_ <O>
+changed	VBN	_ <O>
+themselves	PRP	_ <O>
+to	IN	_ <O>
+Muslims	NNPS	_ <O>
+.	.	_ <O>
+
+NULL

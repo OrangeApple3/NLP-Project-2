@@ -1,0 +1,39 @@
+NULL
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+newspaper	NN	_ <O>
+published	VBN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Norway	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+established	VBN	_ <O>
+through	IN	_ <O>
+a	DT	_ <O>
+controversial	JJ	_ <O>
+merger	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+competing	VBG	_ <O>
+newspapers	NNS	_ <O>
+'	POS	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+and	CC	_ <O>
+'	''	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL

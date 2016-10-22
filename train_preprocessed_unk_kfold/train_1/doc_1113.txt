@@ -1,0 +1,82 @@
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+small	JJ	_ <O>
+<unk>	NNS	_ <O>
+with	IN	_ <O>
+short	JJ	_ <O>
+<unk>	NNS	_ <O>
+that	IN	_ <O>
+touch	VBP	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+all	PDT	_ <O>
+the	DT	_ <O>
+way	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+tips	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Due	IN	_ <O>
+to	IN	_ <O>
+their	PRP$	_ <O>
+small	JJ	_ <O>
+size	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Polish	JJ	_ <O>
+rabbit	NN	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+<unk>	JJ	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+dwarf	NN	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+the	DT	_ <O>
+Polish	NNP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+little	RB	_ <O>
+larger	JJR	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+head	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+differences	NNS	<I-CUE>
+between	IN	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+breeds	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+coat	NN	_ <O>
+structure	NN	_ <O>
+and	CC	_ <O>
+colors	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+ideal	JJ	_ <O>
+weight	NN	_ <O>
+is	VBZ	_ <O>
+6	CD	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,146 @@
+NULL
+The	DT	_ <O>
+origins	NNS	_ <O>
+of	IN	_ <O>
+pas	NN	_ <O>
+<unk>	NNS	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+At	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+time	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+began	VBD	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+themselves	PRP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+ways	NNS	<I-CUE>
+,	,	_ <O>
+including	VBG	_ <O>
+through	IN	_ <O>
+reading	VBG	_ <O>
+<unk>	RB	_ <O>
+<unk>	NN	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+very	RB	_ <O>
+popular	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+12th	JJ	_ <O>
+century	NN	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+the	DT	_ <O>
+noble	JJ	_ <O>
+classes	NNS	_ <O>
+the	DT	_ <O>
+line	NN	_ <O>
+between	IN	_ <O>
+reality	NN	_ <O>
+and	CC	_ <O>
+fiction	NN	_ <O>
+blurred	VBD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+they	PRP	_ <O>
+read	VBD	_ <O>
+about	RB	_ <O>
+were	VBD	_ <O>
+real	JJ	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+their	PRP$	_ <O>
+deeds	NNS	_ <O>
+in	IN	_ <O>
+reality	NN	_ <O>
+were	VBD	_ <O>
+often	RB	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+if	IN	_ <O>
+not	RB	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+re	IN	_ <O>
+-	HYPH	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+those	DT	_ <O>
+they	PRP	_ <O>
+read	VBP	_ <O>
+about	RB	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+<unk>	VBD	_ <O>
+"	``	_ <O>
+Chivalric	NNP	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+<unk>	VBD	_ <O>
+itself	PRP	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+ways	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+pas	NN	_ <O>
+d'armes	NNS	_ <O>
+,	,	_ <O>
+round	NN	_ <O>
+table	NN	_ <O>
+and	CC	_ <O>
+'	``	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+or	CC	_ <O>
+'	``	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+in	IN	_ <O>
+increasingly	RB	_ <O>
+<unk>	VBN	_ <O>
+rules	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

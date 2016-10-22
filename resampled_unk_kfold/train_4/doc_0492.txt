@@ -1,0 +1,15 @@
+NULL
+At	IN	_ <O>
+dawn	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Romans	NNPS	_ <O>
+started	VBD	_ <O>
+to	TO	_ <O>
+cross	VB	_ <O>
+the	DT	_ <O>
+river	NN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

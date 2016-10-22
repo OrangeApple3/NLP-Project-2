@@ -1,0 +1,100 @@
+NULL
+The	DT	_ <O>
+parasite	NN	_ <O>
+featured	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+novel	NN	_ <O>
+is	VBZ	_ <O>
+portrayed	VBN	_ <O>
+as	IN	_ <O>
+being	VBG	_ <O>
+the	DT	_ <O>
+source	NN	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+and	CC	<I-CUE>
+legends	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+parasite	NN	_ <O>
+causes	VBZ	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+were	VBD	<B-CUE>
+suggested	VBN	<I-CUE>
+as	IN	_ <O>
+causing	VBG	_ <O>
+legends	NNS	_ <O>
+of	IN	_ <O>
+most	JJS	_ <O>
+notably	RB	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+also	RB	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+among	IN	_ <O>
+others	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+These	DT	_ <O>
+superior	JJ	_ <O>
+ability	NN	_ <O>
+are	VBP	_ <O>
+shown	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+novel	NN	_ <O>
+several	JJ	_ <O>
+times	NNS	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+claims	VBZ	_ <O>
+to	TO	_ <O>
+need	VB	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+over	IN	_ <O>
+the	DT	_ <O>
+light	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+DVD	NN	_ <O>
+player	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+sleep	VB	_ <O>
+at	IN	_ <O>
+night	NN	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+being	VBG	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+read	VB	_ <O>
+fine	JJ	_ <O>
+print	NN	_ <O>
+by	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

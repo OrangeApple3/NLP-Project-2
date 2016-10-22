@@ -1,0 +1,143 @@
+NULL
+Several	JJ	_ <O>
+researchers	NNS	_ <O>
+have	VBP	_ <O>
+demonstrated	VBN	_ <O>
+a	DT	_ <O>
+statistical	JJ	_ <O>
+<unk>	NN	_ <O>
+between	IN	_ <O>
+popper	NN	_ <O>
+use	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+development	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+recently	RB	_ <O>
+published	VBN	_ <O>
+peer	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+English	NNP	_ <O>
+-	HYPH	_ <O>
+language	NN	_ <O>
+overview	NN	_ <O>
+of	IN	_ <O>
+research	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+health	NN	_ <O>
+risks	NNS	_ <O>
+of	IN	_ <O>
+poppers	NNS	_ <O>
+notes	VBZ	_ <O>
+a	DT	_ <O>
+lack	NN	_ <O>
+of	IN	_ <O>
+controlled	VBN	_ <O>
+trials	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Anal	JJ	_ <O>
+sex	NN	_ <O>
+was	VBD	_ <O>
+also	RB	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+meta	JJ	_ <O>
+review	NN	_ <O>
+of	IN	_ <O>
+30	CD	_ <O>
+research	NN	_ <O>
+articles	NNS	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNP	_ <O>
+infection	NN	_ <O>
+risk	NN	_ <O>
+and	CC	_ <O>
+club	NN	_ <O>
+drug	NN	_ <O>
+use	NN	_ <O>
+showed	VBD	_ <O>
+some	DT	_ <O>
+evidence	NN	_ <O>
+for	IN	_ <O>
+poppers	NNS	_ <O>
+being	VBG	_ <O>
+a	DT	_ <O>
+risk	NN	_ <O>
+factor	NN	_ <O>
+for	IN	_ <O>
+HIV	NNP	_ <O>
+infection	NN	_ <O>
+but	CC	_ <O>
+considered	VBD	_ <O>
+further	JJ	_ <O>
+research	NN	_ <O>
+was	VBD	_ <O>
+necessary	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+correlation	NN	_ <O>
+might	MD	<B-CUE>
+therefore	RB	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+for	IN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+bias	NN	_ <O>
+among	IN	_ <O>
+some	DT	<B-CUE>
+popper	NN	<I-CUE>
+users	NNS	<I-CUE>
+towards	IN	_ <O>
+high	JJ	_ <O>
+-	HYPH	_ <O>
+risk	NN	_ <O>
+sexual	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+correlation	NN	_ <O>
+might	MD	<B-CUE>
+therefore	RB	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+for	IN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+bias	NN	_ <O>
+among	IN	_ <O>
+some	DT	<B-CUE>
+popper	NN	<I-CUE>
+users	NNS	<I-CUE>
+towards	IN	_ <O>
+high	JJ	_ <O>
+-	HYPH	_ <O>
+risk	NN	_ <O>
+sexual	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
