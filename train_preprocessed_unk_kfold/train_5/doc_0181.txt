@@ -1,0 +1,144 @@
+NULL
+The	DT	_ <O>
+term	NN	_ <O>
+'	``	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+restricted	VBN	_ <O>
+to	IN	_ <O>
+devices	NNS	_ <O>
+playing	VBG	_ <O>
+<unk>	NN	_ <O>
+records	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+term	NN	_ <O>
+'	``	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+would	MD	<B-CUE>
+generally	RB	<I-CUE>
+be	VB	<I-CUE>
+taken	VBN	<I-CUE>
+to	TO	_ <O>
+refer	VB	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+-	HYPH	_ <O>
+up	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+1960s	NNS	_ <O>
+<unk>	VBP	_ <O>
+the	DT	_ <O>
+more	JJR	_ <O>
+common	JJ	_ <O>
+term	NN	_ <O>
+would	MD	_ <O>
+be	VB	_ <O>
+'	``	_ <O>
+record	JJ	_ <O>
+player	NN	_ <O>
+'	''	_ <O>
+or	CC	_ <O>
+'	``	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+as	IN	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+system	NN	_ <O>
+that	WDT	_ <O>
+also	RB	_ <O>
+played	VBD	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+included	VBD	_ <O>
+radio	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Such	PDT	_ <O>
+a	DT	_ <O>
+system	NN	_ <O>
+would	MD	<B-CUE>
+be	VB	<I-CUE>
+called	VBN	<I-CUE>
+a	DT	_ <O>
+'	``	_ <O>
+<unk>	NN	_ <O>
+-	:	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+or	CC	_ <O>
+'	``	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+most	RBS	_ <O>
+systems	NNS	_ <O>
+being	VBG	_ <O>
+<unk>	JJ	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL
+Like	IN	_ <O>
+other	JJ	_ <O>
+,	,	_ <O>
+similar	JJ	_ <O>
+devices	NNS	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+wanted	VBD	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+notion	NN	_ <O>
+of	IN	_ <O>
+"	``	_ <O>
+sound	NN	_ <O>
+"	''	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+devices	NNS	_ <O>
+'	POS	_ <O>
+names	NNS	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+also	RB	_ <O>
+used	VBD	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Greek	JJ	_ <O>
+word	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	FW	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+etc	FW	_ <O>
+.	.	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

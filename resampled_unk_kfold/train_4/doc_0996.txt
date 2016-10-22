@@ -1,0 +1,49 @@
+NULL
+Use	NNP	_ <O>
+of	IN	_ <O>
+pewter	NN	_ <O>
+was	VBD	_ <O>
+common	JJ	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+Middle	NNP	_ <O>
+Ages	NNP	_ <O>
+up	RP	_ <O>
+until	IN	_ <O>
+the	DT	_ <O>
+various	JJ	_ <O>
+developments	NNS	_ <O>
+in	IN	_ <O>
+glass	NN	_ <O>
+-	HYPH	_ <O>
+making	NN	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+18th	JJ	_ <O>
+and	CC	_ <O>
+19th	JJ	_ <O>
+centuries	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Mass	NNP	_ <O>
+production	NN	_ <O>
+of	IN	_ <O>
+glass	NN	_ <O>
+products	NNS	_ <O>
+has	VBZ	_ <O>
+seen	VBN	_ <O>
+glass	NN	_ <O>
+universally	RB	_ <O>
+replace	VB	_ <O>
+pewter	NN	_ <O>
+in	IN	_ <O>
+day	NN	_ <O>
+-	HYPH	_ <O>
+to	IN	_ <O>
+-	HYPH	_ <O>
+day	NN	_ <O>
+life	NN	_ <O>
+.	.	_ <O>
+
+NULL

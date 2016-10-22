@@ -1,0 +1,125 @@
+NULL
+It	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+<unk>	VBN	<I-CUE>
+that	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+<unk>	VBG	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+their	PRP$	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+<unk>	NNS	<I-CUE>
+<unk>	VB	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+<unk>	VBN	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+by	IN	_ <O>
+<unk>	VBG	_ <O>
+Allende	NNP	_ <O>
+with	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+was	VBD	_ <O>
+<unk>	RB	<B-CUE>
+a	DT	_ <O>
+CIA	NNP	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+Allende	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	JJ	_ <O>
+for	IN	_ <O>
+several	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+not	RB	_ <O>
+the	DT	_ <O>
+least	JJS	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+that	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+gathering	NN	_ <O>
+<unk>	CC	_ <O>
+<unk>	NNS	_ <O>
+<unk>	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+are	VBP	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+
+NULL
+<unk>	RBR	_ <O>
+<unk>	RB	_ <O>
+,	,	_ <O>
+Allende	NNP	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+<unk>	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+"	``	_ <O>
+researchers	NNS	_ <O>
+for	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+any	DT	_ <O>
+intervention	NN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,96 @@
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+one	CD	_ <O>
+common	JJ	_ <O>
+application	NN	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+small	JJ	_ <O>
+round	NN	_ <O>
+holes	NNS	_ <O>
+are	VBP	_ <O>
+cut	VBN	_ <O>
+in	IN	_ <O>
+lines	NNS	_ <O>
+to	TO	_ <O>
+create	VB	_ <O>
+individual	JJ	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+see	VB	_ <O>
+postage	NN	_ <O>
+<unk>	NN	_ <O>
+separation	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+common	JJ	_ <O>
+for	IN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+legal	JJ	_ <O>
+<unk>	NNS	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+perforations	NNS	_ <O>
+making	VBG	_ <O>
+it	PRP	_ <O>
+easier	JJR	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+out	RP	_ <O>
+individual	JJ	_ <O>
+pages	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Since	IN	_ <O>
+the	DT	_ <O>
+creation	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+devices	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+seen	VBN	_ <O>
+use	NN	_ <O>
+in	IN	_ <O>
+several	JJ	<B-CUE>
+areas	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Since	IN	_ <O>
+the	DT	_ <O>
+creation	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+devices	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+seen	VBN	_ <O>
+use	NN	_ <O>
+in	IN	_ <O>
+several	JJ	<B-CUE>
+areas	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

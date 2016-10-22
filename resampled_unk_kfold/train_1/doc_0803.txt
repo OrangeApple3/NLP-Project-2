@@ -1,0 +1,106 @@
+The	DT	_ <O>
+band	NN	_ <O>
+'s	POS	_ <O>
+influence	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+work	NN	_ <O>
+of	IN	_ <O>
+mainstream	JJ	_ <O>
+acts	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Refused	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+The	DT	_ <O>
+Murder	NNP	_ <O>
+City	NNP	_ <O>
+<unk>	NNPS	_ <O>
+,	,	_ <O>
+At	IN	_ <O>
+the	DT	_ <O>
+Drive	NNP	_ <O>
+-	HYPH	_ <O>
+In	NNP	_ <O>
+,	,	_ <O>
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+Line	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+On	IN	<B-CUE>
+one	CD	<I-CUE>
+occasion	NN	<I-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+band	NN	_ <O>
+<unk>	VBD	_ <O>
+on	IN	_ <O>
+Christmas	NNP	_ <O>
+trees	NNS	_ <O>
+on	IN	_ <O>
+stage	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+also	RB	_ <O>
+infamous	JJ	<B-CUE>
+for	IN	_ <O>
+<unk>	VBG	_ <O>
+Hare	NNP	_ <O>
+-	HYPH	_ <O>
+Krishna	NNP	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+throwing	VBG	_ <O>
+<unk>	NN	_ <O>
+at	IN	_ <O>
+Earth	NNP	_ <O>
+Crisis	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+On	IN	<B-CUE>
+one	CD	<I-CUE>
+occasion	NN	<I-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+band	NN	_ <O>
+<unk>	VBD	_ <O>
+on	IN	_ <O>
+Christmas	NNP	_ <O>
+trees	NNS	_ <O>
+on	IN	_ <O>
+stage	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+also	RB	_ <O>
+infamous	JJ	<B-CUE>
+for	IN	_ <O>
+<unk>	VBG	_ <O>
+Hare	NNP	_ <O>
+-	HYPH	_ <O>
+Krishna	NNP	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+throwing	VBG	_ <O>
+<unk>	NN	_ <O>
+at	IN	_ <O>
+Earth	NNP	_ <O>
+Crisis	NNP	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,25 @@
+In	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+made	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+he	PRP	_ <O>
+also	RB	_ <O>
+<unk>	VBD	_ <O>
+.	.	_ <O>
+
+NULL

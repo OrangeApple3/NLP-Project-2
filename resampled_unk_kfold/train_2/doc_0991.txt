@@ -1,0 +1,132 @@
+NULL
+Another	DT	_ <O>
+similar	JJ	_ <O>
+work	NN	_ <O>
+was	VBD	_ <O>
+'	``	_ <O>
+The	DT	_ <O>
+World	NNP	_ <O>
+Wo	MD	_ <O>
+n't	RB	_ <O>
+Listen	VB	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+2005	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+features	VBZ	_ <O>
+young	JJ	_ <O>
+people	NNS	_ <O>
+in	IN	_ <O>
+Turkey	NNP	_ <O>
+,	,	_ <O>
+Colombia	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Indonesia	NNP	_ <O>
+performing	VBG	_ <O>
+<unk>	NN	_ <O>
+versions	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+songs	NNS	_ <O>
+..	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+best	RBS	<B-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+works	NNS	_ <O>
+are	VBP	_ <O>
+video	JJ	_ <O>
+art	NN	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+featuring	VBG	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+best	RBS	<B-CUE>
+known	VBN	<I-CUE>
+work	NN	_ <O>
+is	VBZ	_ <O>
+'	``	_ <O>
+They	PRP	_ <O>
+Shoot	VBP	_ <O>
+Horses	NNS	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+2004	CD	_ <O>
+)	-RRB-	_ <O>
+consisting	VBG	_ <O>
+of	IN	_ <O>
+two	CD	_ <O>
+videos	NNS	_ <O>
+each	DT	_ <O>
+lasting	VBG	_ <O>
+seven	CD	_ <O>
+hours	NNS	_ <O>
+and	CC	_ <O>
+shown	VBN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+time	NN	_ <O>
+on	IN	_ <O>
+different	JJ	_ <O>
+walls	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+best	RBS	<B-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+works	NNS	_ <O>
+are	VBP	_ <O>
+video	JJ	_ <O>
+art	NN	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+featuring	VBG	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+best	RBS	<B-CUE>
+known	VBN	<I-CUE>
+work	NN	_ <O>
+is	VBZ	_ <O>
+'	``	_ <O>
+They	PRP	_ <O>
+Shoot	VBP	_ <O>
+Horses	NNS	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+2004	CD	_ <O>
+)	-RRB-	_ <O>
+consisting	VBG	_ <O>
+of	IN	_ <O>
+two	CD	_ <O>
+videos	NNS	_ <O>
+each	DT	_ <O>
+lasting	VBG	_ <O>
+seven	CD	_ <O>
+hours	NNS	_ <O>
+and	CC	_ <O>
+shown	VBN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+time	NN	_ <O>
+on	IN	_ <O>
+different	JJ	_ <O>
+walls	NNS	_ <O>
+.	.	_ <O>
+
+NULL

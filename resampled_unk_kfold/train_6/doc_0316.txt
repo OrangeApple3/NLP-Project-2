@@ -1,0 +1,74 @@
+NULL
+He	PRP	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+particularly	RB	_ <O>
+with	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+is	VBZ	<B-CUE>
+commonly	RB	<I-CUE>
+referred	VBN	<I-CUE>
+to	IN	<I-CUE>
+as	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+many	JJ	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+works	NNS	_ <O>
+attempt	VB	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	NN	_ <O>
+with	IN	_ <O>
+more	JJR	_ <O>
+contemporary	JJ	_ <O>
+musical	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+is	VBZ	<B-CUE>
+commonly	RB	<I-CUE>
+referred	VBN	<I-CUE>
+to	IN	<I-CUE>
+as	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+many	JJ	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+works	NNS	_ <O>
+attempt	VB	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	NN	_ <O>
+with	IN	_ <O>
+more	JJR	_ <O>
+contemporary	JJ	_ <O>
+musical	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

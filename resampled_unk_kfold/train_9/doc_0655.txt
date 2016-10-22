@@ -1,0 +1,17 @@
+NULL
+The	DT	_ <O>
+land	NN	_ <O>
+returned	VBD	_ <O>
+to	IN	_ <O>
+Hong	NNP	_ <O>
+Kong	NNP	_ <O>
+Government	NNP	_ <O>
+for	IN	_ <O>
+development	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+1970s	CD	_ <O>
+.	.	_ <O>
+
+NULL

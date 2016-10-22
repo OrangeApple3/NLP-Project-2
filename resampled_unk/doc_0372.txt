@@ -1,0 +1,135 @@
+It	PRP	_ <O>
+was	VBD	_ <O>
+more	RBR	_ <O>
+expensive	JJ	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+original	JJ	_ <O>
+PlayStation	NNP	_ <O>
+,	,	_ <O>
+<unk>	VBN	_ <O>
+black	JJ	_ <O>
+instead	RB	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+usual	JJ	_ <O>
+gray	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+most	RBS	_ <O>
+importantly	RB	_ <O>
+,	,	_ <O>
+came	VBD	_ <O>
+with	IN	_ <O>
+tools	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+that	WDT	_ <O>
+allowed	VBD	_ <O>
+a	DT	_ <O>
+user	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+program	VB	_ <O>
+PlayStation	NNP	_ <O>
+games	NNS	_ <O>
+and	CC	_ <O>
+applications	NNS	_ <O>
+without	IN	_ <O>
+the	DT	_ <O>
+need	NN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+full	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+cost	VBD	_ <O>
+many	JJ	_ <O>
+times	NNS	_ <O>
+the	DT	_ <O>
+amount	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+PlayStation	NNP	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+only	RB	_ <O>
+available	JJ	_ <O>
+to	IN	_ <O>
+approved	VBN	_ <O>
+video	NN	_ <O>
+game	NN	_ <O>
+developers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+amount	NN	_ <O>
+of	IN	_ <O>
+space	NN	_ <O>
+may	MD	_ <O>
+seem	VB	_ <O>
+small	JJ	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+games	NNS	_ <O>
+like	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNP	_ <O>
+ran	VBD	_ <O>
+entirely	RB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+system	NN	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+except	IN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+music	NN	_ <O>
+tracks	NNS	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Naturally	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Net	JJ	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+features	NNS	<I-CUE>
+the	DT	_ <O>
+full	JJ	_ <O>
+developer	NN	_ <O>
+suite	NN	_ <O>
+provided	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Naturally	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Net	JJ	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+features	NNS	<I-CUE>
+the	DT	_ <O>
+full	JJ	_ <O>
+developer	NN	_ <O>
+suite	NN	_ <O>
+provided	VBN	_ <O>
+.	.	_ <O>
+
+NULL

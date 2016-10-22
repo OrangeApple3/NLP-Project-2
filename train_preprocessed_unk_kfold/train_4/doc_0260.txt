@@ -1,0 +1,98 @@
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+some	DT	<B-CUE>
+Latin	JJ	<I-CUE>
+inscriptions	NNS	<I-CUE>
+from	IN	_ <O>
+2nd	NNP	_ <O>
+and	CC	_ <O>
+3rd	JJ	_ <O>
+century	NN	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+the	DT	_ <O>
+local	JJ	_ <O>
+Parliament	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+active	JJ	_ <O>
+,	,	_ <O>
+<unk>	RB	_ <O>
+it	PRP	_ <O>
+seems	VBZ	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+city	NN	_ <O>
+was	VBD	_ <O>
+active	JJ	_ <O>
+also	RB	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+period	NN	_ <O>
+after	IN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+were	VBD	_ <O>
+found	VBN	_ <O>
+,	,	_ <O>
+<unk>	IN	_ <O>
+the	DT	_ <O>
+Latin	JJ	_ <O>
+inscriptions	NNS	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+other	JJ	<I-CUE>
+ancient	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+<unk>	JJ	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+great	JJ	_ <O>
+cultural	JJ	_ <O>
+activity	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Today	NN	_ <O>
+,	,	_ <O>
+all	DT	_ <O>
+findings	NNS	_ <O>
+are	VBP	_ <O>
+kept	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+museum	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+in	IN	_ <O>
+other	JJ	_ <O>
+museums	NNS	_ <O>
+abroad	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Today	NN	_ <O>
+,	,	_ <O>
+these	DT	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBP	_ <O>
+in	IN	_ <O>
+several	JJ	_ <O>
+museums	NNS	_ <O>
+in	IN	_ <O>
+London	NNP	_ <O>
+,	,	_ <O>
+Russia	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

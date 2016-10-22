@@ -1,0 +1,17 @@
+The	DT	_ <O>
+Boundaries	NNS	_ <O>
+of	IN	_ <O>
+Hollywood	NNP	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+established	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+California	NNP	_ <O>
+Legislature	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+<unk>	CD	_ <O>
+)	-RRB-	_ <O>
+
+NULL

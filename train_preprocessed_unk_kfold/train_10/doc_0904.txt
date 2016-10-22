@@ -1,0 +1,87 @@
+NULL
+In	IN	_ <O>
+December	NNP	_ <O>
+2001	CD	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+presidential	JJ	_ <O>
+election	NN	_ <O>
+was	VBD	_ <O>
+held	VBN	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+both	DT	_ <O>
+major	JJ	_ <O>
+candidates	NNS	_ <O>
+claimed	VBD	_ <O>
+victory	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+contested	VBD	_ <O>
+the	DT	_ <O>
+results	NNS	_ <O>
+and	CC	_ <O>
+claimed	VBD	_ <O>
+victory	NN	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+political	JJ	_ <O>
+crisis	NN	_ <O>
+followed	VBN	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+<unk>	NNP	_ <O>
+supporters	NNS	_ <O>
+cut	VBD	_ <O>
+major	JJ	_ <O>
+transport	NN	_ <O>
+routes	NNS	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+primary	JJ	_ <O>
+port	NN	_ <O>
+city	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+capital	NN	_ <O>
+city	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Ravalomanana	NNP	_ <O>
+support	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	JJ	_ <O>
+violence	NN	_ <O>
+and	CC	_ <O>
+considerable	JJ	_ <O>
+economic	JJ	_ <O>
+disruption	NN	_ <O>
+continued	VBD	_ <O>
+until	IN	_ <O>
+July	NNP	_ <O>
+2002	CD	_ <O>
+when	WRB	_ <O>
+Ratsiraka	NNP	_ <O>
+and	CC	_ <O>
+several	JJ	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+prominent	JJ	<I-CUE>
+supporters	NNS	<I-CUE>
+fled	VBD	_ <O>
+to	IN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+France	NNP	_ <O>
+.	.	_ <O>
+
+NULL

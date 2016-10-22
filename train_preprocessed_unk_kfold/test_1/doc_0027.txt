@@ -1,0 +1,116 @@
+NULL
+It	PRP	_ <O>
+began	VBD	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+important	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+is	VBZ	<B-CUE>
+now	RB	<I-CUE>
+considered	VBN	<I-CUE>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+claim	NN	_ <O>
+<unk>	VBZ	_ <O>
+a	DT	_ <O>
+space	NN	_ <O>
+that	WDT	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBZ	_ <O>
+like	IN	_ <O>
+<unk>	JJ	_ <O>
+three	CD	_ <O>
+dimensional	JJ	_ <O>
+space	NN	_ <O>
+but	CC	_ <O>
+is	VBZ	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	VBZ	_ <O>
+any	DT	_ <O>
+<unk>	JJ	_ <O>
+(	-LRB-	_ <O>
+a	DT	_ <O>
+<unk>	VBN	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+conjecture	NN	_ <O>
+<unk>	VBZ	_ <O>
+that	IN	_ <O>
+if	IN	_ <O>
+such	PDT	_ <O>
+a	DT	_ <O>
+space	NN	_ <O>
+has	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+that	WDT	_ <O>
+<unk>	DT	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+space	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBN	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+point	NN	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+just	RB	_ <O>
+a	DT	_ <O>
+three	CD	_ <O>
+-	HYPH	_ <O>
+dimensional	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+An	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+known	VBN	_ <O>
+in	IN	_ <O>
+higher	JJR	_ <O>
+dimensions	NNS	_ <O>
+for	IN	_ <O>
+some	DT	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL

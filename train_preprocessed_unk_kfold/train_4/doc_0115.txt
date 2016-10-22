@@ -1,0 +1,102 @@
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+<unk>	VBG	_ <O>
+many	JJ	<B-CUE>
+times	NNS	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+centuries	NNS	_ <O>
+after	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+many	JJ	<B-CUE>
+times	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+speculate	VB	<B-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBD	_ <O>
+out	RP	_ <O>
+the	DT	_ <O>
+original	JJ	_ <O>
+<unk>	NN	_ <O>
+'s	POS	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+him	PRP	_ <O>
+from	IN	_ <O>
+making	VBG	_ <O>
+a	DT	_ <O>
+similar	JJ	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+another	DT	_ <O>
+country	NN	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+this	DT	_ <O>
+he	PRP	_ <O>
+died	VBD	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+clock	NN	_ <O>
+,	,	_ <O>
+at	IN	_ <O>
+which	WDT	_ <O>
+point	NN	_ <O>
+the	DT	_ <O>
+clock	NN	_ <O>
+stopped	VBD	_ <O>
+working	VBG	_ <O>
+and	CC	_ <O>
+remained	VBD	_ <O>
+<unk>	JJ	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+years	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+century	NN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+added	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+figures	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+were	VBD	_ <O>
+added	VBN	_ <O>
+after	IN	_ <O>
+major	JJ	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+-	SYM	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL

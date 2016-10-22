@@ -1,0 +1,146 @@
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+wished	VBD	_ <O>
+to	TO	_ <O>
+drive	VB	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+Japanese	JJ	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+city	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+when	WRB	_ <O>
+this	DT	_ <O>
+was	VBD	_ <O>
+attempted	VBN	_ <O>
+and	CC	_ <O>
+force	NN	_ <O>
+employed	VBN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Japanese	NNPS	_ <O>
+resisted	VBD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+matter	NN	_ <O>
+came	VBD	_ <O>
+to	IN	_ <O>
+such	PDT	_ <O>
+a	DT	_ <O>
+pass	NN	_ <O>
+that	WDT	_ <O>
+they	PRP	_ <O>
+took	VBD	_ <O>
+arms	NNS	_ <O>
+to	TO	_ <O>
+oppose	VB	_ <O>
+it	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+Afterward	RB	_ <O>
+as	RB	_ <O>
+many	JJ	_ <O>
+as	IN	_ <O>
+possible	JJ	_ <O>
+were	VBD	_ <O>
+embarked	VBN	_ <O>
+in	IN	_ <O>
+vessels	NNS	_ <O>
+,	,	_ <O>
+much	RB	_ <O>
+against	IN	_ <O>
+their	PRP$	_ <O>
+will	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+affair	NN	_ <O>
+assumed	VBD	_ <O>
+threatening	JJ	_ <O>
+proportions	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+on	IN	_ <O>
+each	DT	_ <O>
+side	NN	_ <O>
+wished	VBD	_ <O>
+to	TO	_ <O>
+give	VB	_ <O>
+battle	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+battle	NN	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+various	JJ	<B-CUE>
+means	NNS	<I-CUE>
+until	IN	_ <O>
+,	,	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+efforts	NNS	_ <O>
+of	IN	_ <O>
+certain	JJ	<B-CUE>
+religious	JJ	<I-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+Japanese	NNPS	_ <O>
+were	VBD	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+affair	NN	_ <O>
+assumed	VBD	_ <O>
+threatening	JJ	_ <O>
+proportions	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+on	IN	_ <O>
+each	DT	_ <O>
+side	NN	_ <O>
+wished	VBD	_ <O>
+to	TO	_ <O>
+give	VB	_ <O>
+battle	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+battle	NN	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+various	JJ	<B-CUE>
+means	NNS	<I-CUE>
+until	IN	_ <O>
+,	,	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+efforts	NNS	_ <O>
+of	IN	_ <O>
+certain	JJ	<B-CUE>
+religious	JJ	<I-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+Japanese	NNPS	_ <O>
+were	VBD	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL

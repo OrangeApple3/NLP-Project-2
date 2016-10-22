@@ -1,0 +1,142 @@
+NULL
+<unk>	NNS	_ <O>
+<unk>	NNP	_ <O>
+
+NULL
+In	IN	_ <O>
+art	NN	_ <O>
+,	,	_ <O>
+essentialism	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+idea	NN	_ <O>
+that	IN	_ <O>
+certain	JJ	_ <O>
+concepts	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+<unk>	RB	_ <O>
+in	IN	_ <O>
+certain	JJ	_ <O>
+media	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+<unk>	JJ	_ <O>
+scene	NN	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+appropriate	JJ	_ <O>
+for	IN	_ <O>
+motion	NN	_ <O>
+pictures	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+poorly	RB	_ <O>
+realized	VBN	_ <O>
+in	IN	_ <O>
+poetry	NN	_ <O>
+,	,	_ <O>
+because	IN	_ <O>
+the	DT	_ <O>
+essential	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+medium	NN	_ <O>
+are	VBP	_ <O>
+ill	JJ	_ <O>
+suited	VBN	_ <O>
+to	TO	_ <O>
+convey	VB	_ <O>
+the	DT	_ <O>
+information	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+chase	JJ	_ <O>
+scene	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+idea	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+further	RBR	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+it	PRP	<B-CUE>
+may	MD	<I-CUE>
+be	VB	<I-CUE>
+said	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+poor	JJ	_ <O>
+vehicle	NN	_ <O>
+for	IN	_ <O>
+<unk>	VBG	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+opposed	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+more	RBR	_ <O>
+organically	RB	_ <O>
+correct	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Generally	RB	<B-CUE>
+,	,	_ <O>
+working	VBG	<B-CUE>
+artists	NNS	<I-CUE>
+accept	VB	_ <O>
+some	DT	_ <O>
+form	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+concept	NN	_ <O>
+of	IN	_ <O>
+organic	JJ	_ <O>
+form	NN	_ <O>
+(	-LRB-	_ <O>
+although	IN	_ <O>
+<unk>	NNS	<B-CUE>
+like	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+have	VBP	_ <O>
+added	VBN	_ <O>
+support	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+whereas	IN	_ <O>
+philosophers	NNS	<B-CUE>
+have	VBP	_ <O>
+<unk>	VBN	_ <O>
+to	TO	_ <O>
+regard	VB	_ <O>
+it	PRP	_ <O>
+as	IN	_ <O>
+vague	JJ	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL

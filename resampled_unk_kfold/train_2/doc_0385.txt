@@ -1,0 +1,21 @@
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+Game	NNP	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Grand	NNP	_ <O>
+Theft	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+level	NN	_ <O>
+.	.	_ <O>
+
+NULL

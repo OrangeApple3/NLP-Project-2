@@ -1,0 +1,118 @@
+NULL
+Paraguay	NNP	_ <O>
+was	VBD	_ <O>
+obviously	RB	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+opposition	NN	_ <O>
+activities	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+condemned	VBD	_ <O>
+the	DT	_ <O>
+Accord	NNP	_ <O>
+for	IN	_ <O>
+<unk>	VBG	_ <O>
+"	``	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+general	JJ	_ <O>
+elections	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+law	NN	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+used	VBD	_ <O>
+the	DT	_ <O>
+national	JJ	_ <O>
+police	NN	_ <O>
+and	CC	_ <O>
+civilian	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Colorado	NNP	_ <O>
+Party	NNP	_ <O>
+to	TO	_ <O>
+break	VB	_ <O>
+up	RP	_ <O>
+demonstrations	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+another	DT	_ <O>
+key	JJ	_ <O>
+leader	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+for	IN	_ <O>
+four	CD	_ <O>
+months	NNS	_ <O>
+in	IN	_ <O>
+1987	CD	_ <O>
+on	IN	_ <O>
+charges	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+early	JJ	_ <O>
+February	NNP	_ <O>
+1988	CD	_ <O>
+,	,	_ <O>
+police	NNS	_ <O>
+arrested	VBD	_ <O>
+200	CD	_ <O>
+people	NNS	_ <O>
+attending	VBG	_ <O>
+a	DT	_ <O>
+National	NNP	_ <O>
+<unk>	NNP	_ <O>
+Committee	NNP	_ <O>
+meeting	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Forty	CD	_ <O>
+-	HYPH	_ <O>
+eight	CD	_ <O>
+hours	NNS	_ <O>
+before	IN	_ <O>
+the	DT	_ <O>
+elections	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+several	JJ	<B-CUE>
+other	JJ	<I-CUE>
+National	NNP	<I-CUE>
+Accord	NNP	<I-CUE>
+members	NNS	<I-CUE>
+were	VBD	_ <O>
+placed	VBN	_ <O>
+under	IN	_ <O>
+house	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

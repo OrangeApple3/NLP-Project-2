@@ -1,0 +1,71 @@
+NULL
+At	RB	_ <O>
+least	RBS	_ <O>
+two	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+children	NNS	_ <O>
+repeated	VBN	_ <O>
+claims	NNS	_ <O>
+that	IN	_ <O>
+many	JJ	_ <O>
+adults	NNS	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+involved	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+children	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+names	NNS	_ <O>
+were	VBD	_ <O>
+mentioned	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+said	VBD	_ <O>
+his	PRP$	_ <O>
+mother	NN	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+told	VBN	_ <O>
+by	IN	_ <O>
+other	JJ	_ <O>
+parents	NNS	_ <O>
+what	WDT	_ <O>
+Ellis	NNP	_ <O>
+had	VBD	_ <O>
+done	VBN	_ <O>
+to	IN	_ <O>
+him	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+other	JJ	_ <O>
+<unk>	NNS	_ <O>
+denied	VBD	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+children	NNS	_ <O>
+prior	RB	_ <O>
+to	IN	_ <O>
+their	PRP$	_ <O>
+interviews	NNS	_ <O>
+.	.	_ <O>
+
+NULL

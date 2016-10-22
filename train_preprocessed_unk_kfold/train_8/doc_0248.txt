@@ -1,0 +1,77 @@
+NULL
+Well	RB	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+breaking	NN	_ <O>
+balls	NNS	_ <O>
+have	VBP	_ <O>
+movement	NN	_ <O>
+,	,	_ <O>
+usually	RB	_ <O>
+<unk>	RB	_ <O>
+or	CC	_ <O>
+<unk>	RB	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+goal	NN	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+the	DT	_ <O>
+ball	NN	_ <O>
+difficult	JJ	_ <O>
+to	TO	_ <O>
+hit	VB	_ <O>
+or	CC	_ <O>
+<unk>	VBG	_ <O>
+to	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	_ <O>
+breaking	VBG	_ <O>
+balls	NNS	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+off	IN	_ <O>
+-	HYPH	_ <O>
+speed	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+most	RBS	_ <O>
+common	JJ	_ <O>
+breaking	VBG	_ <O>
+pitches	NNS	_ <O>
+are	VBP	_ <O>
+:	:	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+curve	NN	_ <O>
+
+NULL
+<unk>	VB	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+
+NULL
+<unk>	JJ	_ <O>
+
+NULL
+12	CD	_ <O>
+-	SYM	_ <O>
+<unk>	CD	_ <O>
+curve	NN	_ <O>
+
+NULL

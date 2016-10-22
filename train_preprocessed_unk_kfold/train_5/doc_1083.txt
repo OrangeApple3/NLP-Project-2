@@ -1,0 +1,104 @@
+NULL
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+biology	NN	<I-CUE>
+<unk>	NNS	<I-CUE>
+for	IN	_ <O>
+patterning	VBG	_ <O>
+proteins	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+species	NNS	_ <O>
+onto	IN	_ <O>
+solid	JJ	_ <O>
+substrates	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+UV	NN	_ <O>
+<unk>	NNS	_ <O>
+stimulate	VBP	_ <O>
+photobiotin	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+various	JJ	<B-CUE>
+surfaces	NNS	<I-CUE>
+,	,	_ <O>
+where	WRB	_ <O>
+scientists	NNS	<B-CUE>
+can	MD	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+distribution	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+species	NNS	_ <O>
+that	WDT	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+looking	VBG	_ <O>
+for	IN	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+at	IN	_ <O>
+Texas	NNP	_ <O>
+<unk>	NNP	_ <O>
+University	NNP	_ <O>
+in	IN	_ <O>
+2003	CD	_ <O>
+,	,	_ <O>
+researchers	NNS	_ <O>
+used	VBD	_ <O>
+photobiotin	NN	_ <O>
+to	TO	_ <O>
+develop	VB	_ <O>
+a	DT	_ <O>
+new	JJ	_ <O>
+way	NN	_ <O>
+to	TO	_ <O>
+bind	VB	_ <O>
+inorganic	JJ	_ <O>
+and	CC	_ <O>
+organic	JJ	_ <O>
+species	NNS	_ <O>
+onto	IN	_ <O>
+solid	JJ	_ <O>
+substrates	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Using	VBG	_ <O>
+this	DT	_ <O>
+technique	NN	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+were	VBD	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+bind	VB	_ <O>
+several	JJ	<B-CUE>
+species	NNS	<I-CUE>
+to	IN	_ <O>
+the	DT	_ <O>
+surface	NN	_ <O>
+simultaneously	RB	_ <O>
+using	VBG	_ <O>
+different	JJ	_ <O>
+frequencies	NNS	_ <O>
+of	IN	_ <O>
+UV	NNP	_ <O>
+laser	NN	_ <O>
+light	NN	_ <O>
+.	.	_ <O>
+
+NULL

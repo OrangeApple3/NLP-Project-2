@@ -1,0 +1,166 @@
+<unk>	NNP	_ <O>
+failed	VBD	_ <O>
+the	DT	_ <O>
+regional	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+years	NNS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+<unk>	VBG	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+An	NNP	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+Phan	NNP	_ <O>
+passed	VBD	_ <O>
+the	DT	_ <O>
+regional	JJ	_ <O>
+mandarin	NN	_ <O>
+exams	NNS	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+possible	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+By	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+to	TO	_ <O>
+teach	VB	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+improve	VB	_ <O>
+his	PRP$	_ <O>
+<unk>	NNS	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+to	TO	_ <O>
+obtain	VB	_ <O>
+some	DT	<B-CUE>
+special	JJ	<I-CUE>
+<unk>	NN	<I-CUE>
+in	IN	_ <O>
+preparation	NN	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+next	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+was	VBD	_ <O>
+Phan	NNP	_ <O>
+'s	POS	_ <O>
+first	JJ	_ <O>
+<unk>	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+Self	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+Movement	NNP	_ <O>
+in	IN	_ <O>
+China	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	<B-CUE>
+major	JJ	<I-CUE>
+political	JJ	<I-CUE>
+and	CC	<I-CUE>
+military	JJ	<I-CUE>
+reforms	NNS	<I-CUE>
+made	VBN	_ <O>
+around	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+.	.	_ <O>
+
+NULL
+By	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+to	TO	_ <O>
+teach	VB	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+improve	VB	_ <O>
+his	PRP$	_ <O>
+<unk>	NNS	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+to	TO	_ <O>
+obtain	VB	_ <O>
+some	DT	<B-CUE>
+special	JJ	<I-CUE>
+<unk>	NN	<I-CUE>
+in	IN	_ <O>
+preparation	NN	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+next	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+was	VBD	_ <O>
+Phan	NNP	_ <O>
+'s	POS	_ <O>
+first	JJ	_ <O>
+<unk>	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+Self	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+Movement	NNP	_ <O>
+in	IN	_ <O>
+China	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	<B-CUE>
+major	JJ	<I-CUE>
+political	JJ	<I-CUE>
+and	CC	<I-CUE>
+military	JJ	<I-CUE>
+reforms	NNS	<I-CUE>
+made	VBN	_ <O>
+around	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+.	.	_ <O>
+
+NULL

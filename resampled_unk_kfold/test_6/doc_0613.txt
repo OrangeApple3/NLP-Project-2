@@ -1,0 +1,12 @@
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+River	NNP	_ <O>
+runs	VBZ	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+center	NN	_ <O>
+of	IN	_ <O>
+town	NN	_ <O>
+.	.	_ <O>
+
+NULL

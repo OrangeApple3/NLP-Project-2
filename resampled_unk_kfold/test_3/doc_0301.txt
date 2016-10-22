@@ -1,0 +1,76 @@
+NULL
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+shown	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+(	-LRB-	_ <O>
+largely	RB	_ <O>
+<unk>	JJ	_ <O>
+but	CC	_ <O>
+highly	RB	_ <O>
+popular	JJ	_ <O>
+)	-RRB-	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+best	JJS	_ <O>
+40	CD	_ <O>
+players	NNS	_ <O>
+were	VBD	_ <O>
+recorded	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+rich	JJ	_ <O>
+-	HYPH	_ <O>
+list	NN	_ <O>
+'	''	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+comprehensive	JJ	_ <O>
+<unk>	NNS	_ <O>
+pages	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+of	IN	_ <O>
+June	NNP	_ <O>
+,	,	_ <O>
+2005	CD	_ <O>
+,	,	_ <O>
+over	IN	_ <O>
+<unk>	CD	_ <O>
+people	NNS	_ <O>
+<unk>	VBD	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+was	VBD	_ <O>
+based	VBN	_ <O>
+in	IN	_ <O>
+London	NNP	_ <O>
+,	,	_ <O>
+United	NNP	_ <O>
+Kingdom	NNP	_ <O>
+.	.	_ <O>
+
+NULL

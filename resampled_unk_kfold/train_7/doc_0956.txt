@@ -1,0 +1,82 @@
+NULL
+After	IN	_ <O>
+mentioning	VBG	_ <O>
+the	DT	_ <O>
+numerous	JJ	_ <O>
+qualities	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+work	NN	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+length	NN	_ <O>
+:	:	_ <O>
+if	IN	_ <O>
+this	DT	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+set	VBN	_ <O>
+to	IN	_ <O>
+rights	NNS	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+could	MD	_ <O>
+only	RB	_ <O>
+<unk>	VB	_ <O>
+down	RP	_ <O>
+on	IN	_ <O>
+<unk>	NNP	_ <O>
+’s	NNP	_ <O>
+sound	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+length	NN	_ <O>
+was	VBD	_ <O>
+condemned	VBN	_ <O>
+by	IN	_ <O>
+Giovanni	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+influential	JJ	<I-CUE>
+Italian	JJ	_ <O>
+critic	NN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+his	PRP$	_ <O>
+comment	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+performance	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+length	NN	_ <O>
+was	VBD	_ <O>
+condemned	VBN	_ <O>
+by	IN	_ <O>
+Giovanni	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+influential	JJ	<I-CUE>
+Italian	JJ	_ <O>
+critic	NN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+his	PRP$	_ <O>
+comment	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+performance	NN	_ <O>
+.	.	_ <O>
+
+NULL

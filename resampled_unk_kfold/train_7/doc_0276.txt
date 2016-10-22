@@ -1,0 +1,151 @@
+NULL
+Anti	NNP	_ <O>
+-	HYPH	_ <O>
+Catholic	NNP	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+groups	NNS	_ <O>
+further	RB	_ <O>
+<unk>	VBD	_ <O>
+<unk>	JJ	_ <O>
+feelings	NNS	_ <O>
+towards	IN	_ <O>
+<unk>	NNPS	_ <O>
+by	IN	_ <O>
+<unk>	VBG	_ <O>
+Bishop	NNP	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+requests	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Board	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNPS	_ <O>
+into	IN	_ <O>
+an	DT	_ <O>
+attack	NN	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+Bible	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Approximately	RB	_ <O>
+one	CD	_ <O>
+year	NN	_ <O>
+later	RB	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	NN	<B-CUE>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+that	IN	_ <O>
+Hugh	NNP	_ <O>
+Clark	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+Kensington	NNP	_ <O>
+school	NN	_ <O>
+director	NN	_ <O>
+who	WP	_ <O>
+was	VBD	_ <O>
+Catholic	JJ	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+visiting	VBG	_ <O>
+a	DT	_ <O>
+girls	JJ	_ <O>
+school	NN	_ <O>
+where	WRB	_ <O>
+he	PRP	_ <O>
+demanded	VBD	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	VB	_ <O>
+<unk>	NNP	_ <O>
+reading	VBG	_ <O>
+in	IN	_ <O>
+school	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	<B-CUE>
+story	NN	<I-CUE>
+also	RB	_ <O>
+claimed	VBD	<B-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+principal	NN	_ <O>
+refused	VBD	_ <O>
+and	CC	_ <O>
+that	IN	_ <O>
+she	PRP	_ <O>
+would	MD	_ <O>
+rather	RB	_ <O>
+lose	VB	_ <O>
+her	PRP$	_ <O>
+job	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Approximately	RB	_ <O>
+one	CD	_ <O>
+year	NN	_ <O>
+later	RB	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	NN	<B-CUE>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+that	IN	_ <O>
+Hugh	NNP	_ <O>
+Clark	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+Kensington	NNP	_ <O>
+school	NN	_ <O>
+director	NN	_ <O>
+who	WP	_ <O>
+was	VBD	_ <O>
+Catholic	JJ	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+visiting	VBG	_ <O>
+a	DT	_ <O>
+girls	JJ	_ <O>
+school	NN	_ <O>
+where	WRB	_ <O>
+he	PRP	_ <O>
+demanded	VBD	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	VB	_ <O>
+<unk>	NNP	_ <O>
+reading	VBG	_ <O>
+in	IN	_ <O>
+school	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	<B-CUE>
+story	NN	<I-CUE>
+also	RB	_ <O>
+claimed	VBD	<B-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+principal	NN	_ <O>
+refused	VBD	_ <O>
+and	CC	_ <O>
+that	IN	_ <O>
+she	PRP	_ <O>
+would	MD	_ <O>
+rather	RB	_ <O>
+lose	VB	_ <O>
+her	PRP$	_ <O>
+job	NN	_ <O>
+.	.	_ <O>
+
+NULL

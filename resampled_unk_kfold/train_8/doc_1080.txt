@@ -1,0 +1,33 @@
+NULL
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	<B-CUE>
+thought	VBN	<I-CUE>
+by	IN	_ <O>
+some	DT	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+source	NN	_ <O>
+of	IN	_ <O>
+good	JJ	_ <O>
+luck	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	<B-CUE>
+thought	VBN	<I-CUE>
+by	IN	_ <O>
+some	DT	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+source	NN	_ <O>
+of	IN	_ <O>
+good	JJ	_ <O>
+luck	NN	_ <O>
+.	.	_ <O>
+
+NULL

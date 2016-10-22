@@ -1,0 +1,101 @@
+NULL
+<unk>	NNP	_ <O>
+owners	NNS	_ <O>
+leave	VBP	_ <O>
+their	PRP$	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+reasons	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+may	MD	_ <O>
+<unk>	VB	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+their	PRP$	_ <O>
+internet	NN	_ <O>
+<unk>	NN	_ <O>
+with	IN	_ <O>
+their	PRP$	_ <O>
+<unk>	NNS	_ <O>
+or	CC	_ <O>
+the	DT	_ <O>
+general	JJ	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+required	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+their	PRP$	_ <O>
+network	NN	_ <O>
+while	IN	_ <O>
+<unk>	VBG	_ <O>
+it	PRP	_ <O>
+available	JJ	_ <O>
+to	IN	_ <O>
+their	PRP$	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NN	<I-CUE>
+<unk>	NNS	<I-CUE>
+may	MD	_ <O>
+not	RB	_ <O>
+support	VB	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+security	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+users	NNS	_ <O>
+<unk>	MD	_ <O>
+<unk>	RB	_ <O>
+leave	VB	_ <O>
+their	PRP$	_ <O>
+network	NN	_ <O>
+unsecured	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NN	<I-CUE>
+<unk>	NNS	<I-CUE>
+may	MD	_ <O>
+not	RB	_ <O>
+support	VB	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+security	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+users	NNS	_ <O>
+<unk>	MD	_ <O>
+<unk>	RB	_ <O>
+leave	VB	_ <O>
+their	PRP$	_ <O>
+network	NN	_ <O>
+unsecured	JJ	_ <O>
+.	.	_ <O>
+
+NULL

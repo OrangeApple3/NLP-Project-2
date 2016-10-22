@@ -1,0 +1,127 @@
+NULL
+Before	IN	_ <O>
+the	DT	_ <O>
+arrival	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Europeans	NNPS	_ <O>
+,	,	_ <O>
+gifts	NNS	_ <O>
+included	VBD	_ <O>
+<unk>	JJ	_ <O>
+food	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	NN	_ <O>
+[	-LRB-	_ <O>
+candle	NN	_ <O>
+fish	NN	_ <O>
+]	-RRB-	_ <O>
+oil	NN	_ <O>
+or	CC	_ <O>
+<unk>	VBN	_ <O>
+food	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+slaves	NNS	_ <O>
+among	IN	_ <O>
+the	DT	_ <O>
+very	RB	_ <O>
+wealthy	JJ	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+otherwise	RB	_ <O>
+not	RB	_ <O>
+income	NN	_ <O>
+-	HYPH	_ <O>
+generating	VBG	_ <O>
+assets	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+resource	NN	_ <O>
+rights	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+groups	NNS	<I-CUE>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+used	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+arena	NN	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+highly	RB	_ <O>
+competitive	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+status	NN	_ <O>
+took	VBD	_ <O>
+place	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+some	DT	<B-CUE>
+cases	NNS	<I-CUE>
+,	,	_ <O>
+goods	NNS	_ <O>
+were	VBD	_ <O>
+actually	RB	_ <O>
+destroyed	VBN	_ <O>
+after	IN	_ <O>
+being	VBG	_ <O>
+received	VBN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+instead	RB	_ <O>
+of	IN	_ <O>
+being	VBG	_ <O>
+given	VBN	_ <O>
+away	RP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+introduced	VBN	_ <O>
+diseases	NNS	_ <O>
+laid	VBN	_ <O>
+many	JJ	_ <O>
+inherited	VBN	_ <O>
+ranks	NNS	_ <O>
+vacant	JJ	_ <O>
+or	CC	_ <O>
+open	JJ	_ <O>
+to	IN	_ <O>
+remote	JJ	_ <O>
+or	CC	_ <O>
+dubious	JJ	_ <O>
+claim	NN	_ <O>
+-	:	_ <O>
+providing	VBG	_ <O>
+they	PRP	_ <O>
+could	MD	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+-	:	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+suitable	JJ	_ <O>
+potlatch	NN	_ <O>
+.	.	_ <O>
+
+NULL

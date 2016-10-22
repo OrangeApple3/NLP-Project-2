@@ -1,0 +1,110 @@
+NULL
+Typical	JJ	_ <O>
+<unk>	NN	_ <O>
+available	JJ	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+:	:	_ <O>
+
+NULL
+The	DT	_ <O>
+city	NN	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+couple	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+popular	JJ	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+younger	JJR	_ <O>
+<unk>	JJ	_ <O>
+crowd	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	_ <O>
+live	VBP	_ <O>
+Music	NN	_ <O>
+<unk>	NNS	_ <O>
+play	VBP	_ <O>
+<unk>	NNP	_ <O>
+folk	NN	_ <O>
+
+NULL
+Karaoke	JJ	_ <O>
+clubs	NNS	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+many	JJ	<I-CUE>
+hotels	NNS	<I-CUE>
+and	CC	_ <O>
+customers	NNS	_ <O>
+can	MD	_ <O>
+either	DT	_ <O>
+sing	VB	_ <O>
+to	IN	_ <O>
+everyone	NN	_ <O>
+or	CC	_ <O>
+<unk>	VB	_ <O>
+a	DT	_ <O>
+private	JJ	_ <O>
+room	NN	_ <O>
+
+NULL
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+large	JJ	_ <O>
+Thai	NNP	_ <O>
+-	HYPH	_ <O>
+style	NN	_ <O>
+restaurants	NNS	_ <O>
+which	WDT	_ <O>
+play	VBP	_ <O>
+music	NN	_ <O>
+and	CC	_ <O>
+serve	VB	_ <O>
+alcohol	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Sing	VB	_ <O>
+-	HYPH	_ <O>
+a	DT	_ <O>
+-	HYPH	_ <O>
+Songs	NNS	_ <O>
+are	VBP	_ <O>
+popular	JJ	_ <O>
+with	IN	_ <O>
+Thai	NNP	_ <O>
+males	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Down	RB	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+river	NN	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+few	JJ	_ <O>
+bars	NNS	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+popular	JJ	_ <O>
+with	IN	_ <O>
+tourists	NNS	_ <O>
+who	WP	_ <O>
+fancy	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

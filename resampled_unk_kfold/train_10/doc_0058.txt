@@ -1,0 +1,120 @@
+NULL
+After	IN	_ <O>
+the	DT	_ <O>
+end	NN	_ <O>
+of	IN	_ <O>
+World	NNP	_ <O>
+War	NNP	_ <O>
+II	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+region	NN	_ <O>
+went	VBD	_ <O>
+through	IN	_ <O>
+several	JJ	_ <O>
+"	``	_ <O>
+<unk>	NN	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+<unk>	NN	_ <O>
+"	''	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+approximately	RB	_ <O>
+every	DT	_ <O>
+10	CD	_ <O>
+years	NNS	_ <O>
+and	CC	_ <O>
+<unk>	RB	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+available	JJ	_ <O>
+government	NN	_ <O>
+<unk>	VBG	_ <O>
+for	IN	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+related	VBN	_ <O>
+work	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Due	IN	_ <O>
+to	IN	_ <O>
+its	PRP$	_ <O>
+higher	JJR	_ <O>
+<unk>	NN	_ <O>
+level	NN	_ <O>
+,	,	_ <O>
+Pasco	NNP	_ <O>
+was	VBD	<B-CUE>
+seen	VBN	<I-CUE>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+as	IN	_ <O>
+the	DT	<B-CUE>
+least	JJS	<I-CUE>
+<unk>	JJ	<I-CUE>
+of	IN	_ <O>
+the	DT	_ <O>
+three	CD	_ <O>
+cities	NNS	_ <O>
+and	CC	_ <O>
+<unk>	IN	_ <O>
+time	NN	_ <O>
+became	VBD	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+Cities	NNP	_ <O>
+in	IN	_ <O>
+terms	NNS	_ <O>
+of	IN	_ <O>
+population	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Due	IN	_ <O>
+to	IN	_ <O>
+its	PRP$	_ <O>
+higher	JJR	_ <O>
+<unk>	NN	_ <O>
+level	NN	_ <O>
+,	,	_ <O>
+Pasco	NNP	_ <O>
+was	VBD	<B-CUE>
+seen	VBN	<I-CUE>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+as	IN	_ <O>
+the	DT	<B-CUE>
+least	JJS	<I-CUE>
+<unk>	JJ	<I-CUE>
+of	IN	_ <O>
+the	DT	_ <O>
+three	CD	_ <O>
+cities	NNS	_ <O>
+and	CC	_ <O>
+<unk>	IN	_ <O>
+time	NN	_ <O>
+became	VBD	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+Cities	NNP	_ <O>
+in	IN	_ <O>
+terms	NNS	_ <O>
+of	IN	_ <O>
+population	NN	_ <O>
+.	.	_ <O>
+
+NULL

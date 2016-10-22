@@ -1,0 +1,159 @@
+As	IN	_ <O>
+such	JJ	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+fish	NN	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+ideal	JJ	_ <O>
+<unk>	NN	_ <O>
+fish	NN	_ <O>
+if	IN	_ <O>
+given	VBN	_ <O>
+the	DT	_ <O>
+appropriate	JJ	_ <O>
+environment	NN	_ <O>
+and	CC	_ <O>
+tank	NN	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+medium	JJ	_ <O>
+sized	JJ	_ <O>
+aggressive	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+'	''	_ <O>
+P.	NN	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+displays	VBZ	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+kind	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+intelligent	JJ	_ <O>
+'	''	_ <O>
+behavior	NN	_ <O>
+common	JJ	_ <O>
+to	IN	_ <O>
+other	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+they	PRP	_ <O>
+display	VBP	_ <O>
+full	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+non	RB	_ <O>
+-	,	_ <O>
+dominant	JJ	_ <O>
+and	CC	_ <O>
+sub	NN	_ <O>
+-	HYPH	_ <O>
+dominant	JJ	_ <O>
+individuals	NNS	_ <O>
+of	IN	_ <O>
+any	DT	_ <O>
+size	NN	_ <O>
+will	MD	_ <O>
+often	RB	_ <O>
+<unk>	VB	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+alpha	NN	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+These	DT	_ <O>
+traits	NNS	_ <O>
+may	MD	_ <O>
+contribute	VB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+relative	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+P.	NNP	_ <O>
+polleni	NN	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+aquarium	NN	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+P.	NNP	_ <O>
+polleni	NN	_ <O>
+'	''	_ <O>
+are	VBP	_ <O>
+more	RBR	_ <O>
+cautious	JJ	_ <O>
+and	CC	_ <O>
+easily	RB	_ <O>
+<unk>	VBD	_ <O>
+than	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+more	RBR	<I-CUE>
+<unk>	RB	<I-CUE>
+available	JJ	<I-CUE>
+cichlids	NNS	<I-CUE>
+,	,	_ <O>
+but	CC	_ <O>
+otherwise	RB	_ <O>
+<unk>	JJ	_ <O>
+to	IN	_ <O>
+aquarium	JJ	_ <O>
+life	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+aquarium	NN	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+P.	NNP	_ <O>
+polleni	NN	_ <O>
+'	''	_ <O>
+are	VBP	_ <O>
+more	RBR	_ <O>
+cautious	JJ	_ <O>
+and	CC	_ <O>
+easily	RB	_ <O>
+<unk>	VBD	_ <O>
+than	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+more	RBR	<I-CUE>
+<unk>	RB	<I-CUE>
+available	JJ	<I-CUE>
+cichlids	NNS	<I-CUE>
+,	,	_ <O>
+but	CC	_ <O>
+otherwise	RB	_ <O>
+<unk>	JJ	_ <O>
+to	IN	_ <O>
+aquarium	JJ	_ <O>
+life	NN	_ <O>
+.	.	_ <O>
+
+NULL

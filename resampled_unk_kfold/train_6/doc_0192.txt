@@ -1,0 +1,50 @@
+NULL
+For	IN	_ <O>
+the	DT	_ <O>
+next	JJ	_ <O>
+15	CD	_ <O>
+years	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+the	DT	_ <O>
+country	NN	_ <O>
+almost	RB	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+colony	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Lao	NNP	_ <O>
+government	NN	_ <O>
+'s	POS	_ <O>
+response	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+Hmong	JJ	_ <O>
+people	NNS	_ <O>
+and	CC	_ <O>
+former	JJ	_ <O>
+Royal	NNP	_ <O>
+Lao	NNP	_ <O>
+Army	NNP	_ <O>
+Major	NNP	_ <O>
+General	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+international	JJ	_ <O>
+<unk>	NNS	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL

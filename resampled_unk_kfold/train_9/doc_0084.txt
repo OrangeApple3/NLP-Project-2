@@ -1,0 +1,163 @@
+When	WRB	_ <O>
+we	PRP	_ <O>
+<unk>	VBP	_ <O>
+some	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+involved	VBN	_ <O>
+in	IN	_ <O>
+flower	NN	_ <O>
+development	NN	_ <O>
+,	,	_ <O>
+we	PRP	_ <O>
+end	VBP	_ <O>
+up	RP	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+leaf	NN	_ <O>
+-	HYPH	_ <O>
+like	JJ	_ <O>
+structures	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+<unk>	VBZ	<I-CUE>
+that	IN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+level	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+organ	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+the	DT	_ <O>
+ancestor	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+at	IN	_ <O>
+least	JJS	_ <O>
+some	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+<unk>	RB	<B-CUE>
+also	RB	_ <O>
+<unk>	VBZ	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+within	IN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+floral	JJ	_ <O>
+<unk>	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBZ	_ <O>
+the	DT	_ <O>
+expression	NN	_ <O>
+of	IN	_ <O>
+some	DT	<B-CUE>
+gene	NN	<I-CUE>
+<unk>	VBG	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+family	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+<unk>	VBZ	<I-CUE>
+that	IN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+level	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+organ	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+the	DT	_ <O>
+ancestor	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+at	IN	_ <O>
+least	JJS	_ <O>
+some	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+<unk>	RB	<B-CUE>
+also	RB	_ <O>
+<unk>	VBZ	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+within	IN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+floral	JJ	_ <O>
+<unk>	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBZ	_ <O>
+the	DT	_ <O>
+expression	NN	_ <O>
+of	IN	_ <O>
+some	DT	<B-CUE>
+gene	NN	<I-CUE>
+<unk>	VBG	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+family	NN	_ <O>
+.	.	_ <O>
+
+NULL

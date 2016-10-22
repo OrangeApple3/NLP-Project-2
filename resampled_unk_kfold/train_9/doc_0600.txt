@@ -1,0 +1,93 @@
+NULL
+It	PRP	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+in	IN	_ <O>
+service	NN	_ <O>
+since	IN	_ <O>
+1968	CD	_ <O>
+;	:	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+some	DT	_ <O>
+structural	JJ	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+made	VBN	_ <O>
+in	IN	_ <O>
+1992	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Seven	CD	_ <O>
+<unk>	VBZ	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+the	DT	_ <O>
+main	JJ	_ <O>
+spans	NNS	_ <O>
+and	CC	_ <O>
+consist	NN	_ <O>
+of	IN	_ <O>
+steel	NN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+other	JJ	_ <O>
+three	CD	_ <O>
+spans	NNS	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+approach	NN	_ <O>
+spans	VBZ	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+supported	VBN	_ <O>
+by	IN	_ <O>
+plate	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Seven	CD	_ <O>
+<unk>	VBZ	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+the	DT	_ <O>
+main	JJ	_ <O>
+spans	NNS	_ <O>
+and	CC	_ <O>
+consist	NN	_ <O>
+of	IN	_ <O>
+steel	NN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+other	JJ	_ <O>
+three	CD	_ <O>
+spans	NNS	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+approach	NN	_ <O>
+spans	VBZ	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+supported	VBN	_ <O>
+by	IN	_ <O>
+plate	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,300 @@
+NULL
+He	PRP	_ <O>
+in	IN	_ <O>
+turn	NN	_ <O>
+was	VBD	_ <O>
+succeeded	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+Italian	JJ	_ <O>
+Pope	NNP	_ <O>
+John	NNP	_ <O>
+Paul	NNP	_ <O>
+II	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+spoke	VBD	_ <O>
+many	JJ	_ <O>
+languages	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+John	NNP	_ <O>
+proved	VBD	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+radical	JJ	_ <O>
+break	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+previous	JJ	_ <O>
+popes	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+indeed	RB	_ <O>
+with	IN	_ <O>
+most	JJS	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+popes	NNS	<I-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+20th	JJ	<I-CUE>
+century	NN	<I-CUE>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+a	DT	_ <O>
+short	JJ	_ <O>
+but	CC	_ <O>
+dramatic	JJ	_ <O>
+pontificate	NN	_ <O>
+during	IN	_ <O>
+which	WDT	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+the	DT	_ <O>
+Second	JJ	_ <O>
+Vatican	NNP	_ <O>
+Council	NNP	_ <O>
+which	WDT	_ <O>
+resulted	VBD	_ <O>
+in	IN	_ <O>
+wide	RB	_ <O>
+ranging	VBG	_ <O>
+changes	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+church	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+surprise	NN	_ <O>
+John	NNP	_ <O>
+was	VBD	_ <O>
+replaced	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+widely	RB	<B-CUE>
+expected	VBN	<I-CUE>
+choice	NN	_ <O>
+Giovanni	NNP	_ <O>
+Batista	NNP	_ <O>
+Cardinal	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+many	JJ	<B-CUE>
+believed	VBD	_ <O>
+would	MD	_ <O>
+have	VB	_ <O>
+been	VBN	_ <O>
+elected	VBN	_ <O>
+in	IN	_ <O>
+1958	CD	_ <O>
+,	,	_ <O>
+had	VBD	_ <O>
+he	PRP	_ <O>
+been	VBN	_ <O>
+a	DT	_ <O>
+cardinal	NN	_ <O>
+then	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Yet	CC	_ <O>
+Pope	NNP	_ <O>
+Paul	NNP	_ <O>
+VI	NNP	_ <O>
+was	VBD	_ <O>
+succeeded	VBN	_ <O>
+(	-LRB-	_ <O>
+<unk>	IN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+short	JJ	_ <O>
+time	NN	_ <O>
+)	-RRB-	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+Pope	NNP	_ <O>
+John	NNP	_ <O>
+Paul	NNP	_ <O>
+I	PRP	_ <O>
+(	-LRB-	_ <O>
+1978	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+it	PRP	<B-CUE>
+was	VBD	<I-CUE>
+said	VBN	<I-CUE>
+was	VBD	_ <O>
+chosen	VBN	_ <O>
+not	RB	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+experienced	JJ	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+simple	JJ	_ <O>
+,	,	_ <O>
+holy	JJ	_ <O>
+man	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+John	NNP	_ <O>
+proved	VBD	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+radical	JJ	_ <O>
+break	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+previous	JJ	_ <O>
+popes	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+indeed	RB	_ <O>
+with	IN	_ <O>
+most	JJS	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+popes	NNS	<I-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+20th	JJ	<I-CUE>
+century	NN	<I-CUE>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+a	DT	_ <O>
+short	JJ	_ <O>
+but	CC	_ <O>
+dramatic	JJ	_ <O>
+pontificate	NN	_ <O>
+during	IN	_ <O>
+which	WDT	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+the	DT	_ <O>
+Second	JJ	_ <O>
+Vatican	NNP	_ <O>
+Council	NNP	_ <O>
+which	WDT	_ <O>
+resulted	VBD	_ <O>
+in	IN	_ <O>
+wide	RB	_ <O>
+ranging	VBG	_ <O>
+changes	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+church	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+surprise	NN	_ <O>
+John	NNP	_ <O>
+was	VBD	_ <O>
+replaced	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+widely	RB	<B-CUE>
+expected	VBN	<I-CUE>
+choice	NN	_ <O>
+Giovanni	NNP	_ <O>
+Batista	NNP	_ <O>
+Cardinal	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+many	JJ	<B-CUE>
+believed	VBD	_ <O>
+would	MD	_ <O>
+have	VB	_ <O>
+been	VBN	_ <O>
+elected	VBN	_ <O>
+in	IN	_ <O>
+1958	CD	_ <O>
+,	,	_ <O>
+had	VBD	_ <O>
+he	PRP	_ <O>
+been	VBN	_ <O>
+a	DT	_ <O>
+cardinal	NN	_ <O>
+then	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Yet	CC	_ <O>
+Pope	NNP	_ <O>
+Paul	NNP	_ <O>
+VI	NNP	_ <O>
+was	VBD	_ <O>
+succeeded	VBN	_ <O>
+(	-LRB-	_ <O>
+<unk>	IN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+short	JJ	_ <O>
+time	NN	_ <O>
+)	-RRB-	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+Pope	NNP	_ <O>
+John	NNP	_ <O>
+Paul	NNP	_ <O>
+I	PRP	_ <O>
+(	-LRB-	_ <O>
+1978	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+it	PRP	<B-CUE>
+was	VBD	<I-CUE>
+said	VBN	<I-CUE>
+was	VBD	_ <O>
+chosen	VBN	_ <O>
+not	RB	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+experienced	JJ	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+simple	JJ	_ <O>
+,	,	_ <O>
+holy	JJ	_ <O>
+man	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL

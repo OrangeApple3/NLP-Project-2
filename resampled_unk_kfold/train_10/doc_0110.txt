@@ -1,0 +1,35 @@
+In	IN	_ <O>
+November	NNP	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+new	JJ	_ <O>
+member	NN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+formed	VBD	_ <O>
+the	DT	_ <O>
+band	NN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+later	RB	_ <O>
+changed	VBD	_ <O>
+their	PRP$	_ <O>
+name	NN	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

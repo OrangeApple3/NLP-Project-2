@@ -1,0 +1,21 @@
+NULL
+While	IN	_ <O>
+also	RB	_ <O>
+chair	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Law	NNP	_ <O>
+<unk>	NNP	_ <O>
+Commission	NNP	_ <O>
+,	,	_ <O>
+she	PRP	_ <O>
+<unk>	VBD	_ <O>
+law	NN	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+University	NNP	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

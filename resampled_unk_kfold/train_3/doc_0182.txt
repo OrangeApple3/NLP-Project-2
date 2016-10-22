@@ -1,0 +1,43 @@
+NULL
+He	PRP	_ <O>
+<unk>	VBD	_ <O>
+in	IN	_ <O>
+fame	NN	_ <O>
+and	CC	_ <O>
+began	VBD	_ <O>
+performing	VBG	_ <O>
+in	IN	_ <O>
+several	JJ	_ <O>
+regional	JJ	_ <O>
+theaters	NNS	_ <O>
+before	IN	_ <O>
+joining	VBG	_ <O>
+John	NNP	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+national	JJ	_ <O>
+show	NN	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL
+There	RB	_ <O>
+he	PRP	_ <O>
+began	VBD	_ <O>
+writing	VBG	_ <O>
+many	JJ	_ <O>
+prominently	RB	_ <O>
+<unk>	VBD	_ <O>
+songs	NNS	_ <O>
+which	WDT	_ <O>
+led	VBD	_ <O>
+him	PRP	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	VBG	_ <O>
+music	NN	_ <O>
+<unk>	RB	_ <O>
+.	.	_ <O>
+
+NULL

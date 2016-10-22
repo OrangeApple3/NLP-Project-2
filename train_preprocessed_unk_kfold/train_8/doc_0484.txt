@@ -1,0 +1,99 @@
+NULL
+It	PRP	_ <O>
+last	RB	_ <O>
+use	NN	_ <O>
+was	VBD	_ <O>
+probably	RB	<B-CUE>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+war	NN	_ <O>
+against	IN	_ <O>
+Napoleon	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Today	NN	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+surrounded	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+commercial	JJ	_ <O>
+<unk>	NN	_ <O>
+owned	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+Estates	NNPS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+still	RB	_ <O>
+contains	VBZ	_ <O>
+some	DT	_ <O>
+natural	JJ	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+popular	JJ	_ <O>
+local	JJ	_ <O>
+and	CC	_ <O>
+tourist	NN	_ <O>
+attraction	NN	_ <O>
+.	.	_ <O>
+
+NULL
+On	IN	_ <O>
+a	DT	_ <O>
+clear	JJ	_ <O>
+day	NN	_ <O>
+the	DT	_ <O>
+majority	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Eden	NNP	_ <O>
+Valley	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+local	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+parts	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+North	NNP	_ <O>
+Lakes	NNPS	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+seen	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+almost	RB	<B-CUE>
+certain	JJ	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Hill	NNP	_ <O>
+gave	VBD	_ <O>
+<unk>	NNP	_ <O>
+its	PRP$	_ <O>
+name	NN	_ <O>
+-	HYPH	_ <O>
+in	IN	_ <O>
+Celtic	NNP	_ <O>
+-	HYPH	_ <O>
+of	IN	_ <O>
+"	``	_ <O>
+red	JJ	_ <O>
+hill	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,100 @@
+NULL
+During	IN	_ <O>
+colonial	JJ	_ <O>
+times	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+home	RB	_ <O>
+to	IN	_ <O>
+various	JJ	_ <O>
+industries	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+from	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+streams	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+<unk>	NNS	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+several	JJ	<B-CUE>
+other	JJ	<I-CUE>
+locations	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Over	IN	_ <O>
+time	NN	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBD	_ <O>
+almost	RB	_ <O>
+all	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Pine	NNP	_ <O>
+Barrens	NNP	_ <O>
+'	POS	_ <O>
+industrial	JJ	_ <O>
+past	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+<unk>	NNS	_ <O>
+still	RB	_ <O>
+be	VB	_ <O>
+found	VBN	_ <O>
+at	IN	_ <O>
+various	JJ	_ <O>
+locations	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+one	CD	_ <O>
+,	,	_ <O>
+Batsto	NNP	_ <O>
+Village	NNP	_ <O>
+,	,	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+to	IN	_ <O>
+its	PRP$	_ <O>
+<unk>	JJ	_ <O>
+century	NN	_ <O>
+state	NN	_ <O>
+.	.	_ <O>
+
+NULL

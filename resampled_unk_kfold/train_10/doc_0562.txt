@@ -1,0 +1,77 @@
+April	NNP	_ <O>
+27	CD	_ <O>
+,	,	_ <O>
+1978	CD	_ <O>
+A	DT	_ <O>
+military	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	,	_ <O>
+was	VBD	_ <O>
+led	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	VBN	_ <O>
+communist	JJ	_ <O>
+parties	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+death	NN	_ <O>
+of	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+Parcham	NNP	_ <O>
+'s	POS	_ <O>
+prominent	JJ	_ <O>
+members	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+President	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Khan	NNP	_ <O>
+was	VBD	_ <O>
+executed	VBN	_ <O>
+along	IN	_ <O>
+with	IN	_ <O>
+most	JJS	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+family	NN	<I-CUE>
+after	IN	_ <O>
+coup	NN	_ <O>
+forces	NNS	_ <O>
+took	VBD	_ <O>
+the	DT	_ <O>
+presidential	JJ	_ <O>
+palace	NN	_ <O>
+.	.	_ <O>
+
+NULL
+President	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Khan	NNP	_ <O>
+was	VBD	_ <O>
+executed	VBN	_ <O>
+along	IN	_ <O>
+with	IN	_ <O>
+most	JJS	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+family	NN	<I-CUE>
+after	IN	_ <O>
+coup	NN	_ <O>
+forces	NNS	_ <O>
+took	VBD	_ <O>
+the	DT	_ <O>
+presidential	JJ	_ <O>
+palace	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,49 @@
+NULL
+Besides	IN	_ <O>
+hosting	VBG	_ <O>
+weekly	JJ	_ <O>
+anime	NN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+gaming	NN	_ <O>
+sessions	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+university	NN	_ <O>
+,	,	_ <O>
+PAS	NNP	_ <O>
+also	RB	_ <O>
+hosts	VBZ	_ <O>
+and	CC	_ <O>
+<unk>	VBZ	_ <O>
+in	IN	_ <O>
+various	JJ	_ <O>
+outside	JJ	_ <O>
+events	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Average	JJ	_ <O>
+attendance	NN	_ <O>
+per	IN	_ <O>
+year	NN	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+around	RB	_ <O>
+200	CD	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+tournaments	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+anime	NN	_ <O>
+showings	NNS	_ <O>
+running	VBG	_ <O>
+throughout	IN	_ <O>
+the	DT	_ <O>
+day	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,159 @@
+NULL
+<unk>	NNP	_ <O>
+Resort	NNP	_ <O>
+Paris	NNP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+major	JJ	_ <O>
+tourist	NN	_ <O>
+attraction	NN	_ <O>
+not	RB	_ <O>
+only	RB	_ <O>
+for	IN	_ <O>
+visitors	NNS	_ <O>
+to	IN	_ <O>
+Paris	NNP	_ <O>
+but	CC	_ <O>
+for	IN	_ <O>
+visitors	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+rest	NN	_ <O>
+of	IN	_ <O>
+Europe	NNP	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+<unk>	CD	_ <O>
+million	CD	_ <O>
+visitors	NNS	_ <O>
+in	IN	_ <O>
+2007	CD	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+city	NN	_ <O>
+'s	POS	_ <O>
+most	RBS	<B-CUE>
+prized	JJ	<I-CUE>
+museum	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+welcomes	VBZ	_ <O>
+over	IN	_ <O>
+8	CD	_ <O>
+million	CD	_ <O>
+visitors	NNS	_ <O>
+a	DT	_ <O>
+year	NN	_ <O>
+,	,	_ <O>
+being	VBG	_ <O>
+by	IN	_ <O>
+far	RB	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+'s	POS	_ <O>
+most	RBS	_ <O>
+-	HYPH	_ <O>
+visited	VBN	_ <O>
+art	NN	_ <O>
+museum	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+by	IN	_ <O>
+far	RB	_ <O>
+Paris	NNP	_ <O>
+'	POS	_ <O>
+most	RBS	<B-CUE>
+famous	JJ	<I-CUE>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+over	IN	_ <O>
+six	CD	_ <O>
+million	CD	_ <O>
+visitors	NNS	_ <O>
+per	IN	_ <O>
+year	NN	_ <O>
+and	CC	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+<unk>	CD	_ <O>
+million	CD	_ <O>
+since	IN	_ <O>
+its	PRP$	_ <O>
+construction	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+city	NN	_ <O>
+'s	POS	_ <O>
+most	RBS	<B-CUE>
+prized	JJ	<I-CUE>
+museum	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+welcomes	VBZ	_ <O>
+over	IN	_ <O>
+8	CD	_ <O>
+million	CD	_ <O>
+visitors	NNS	_ <O>
+a	DT	_ <O>
+year	NN	_ <O>
+,	,	_ <O>
+being	VBG	_ <O>
+by	IN	_ <O>
+far	RB	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+'s	POS	_ <O>
+most	RBS	_ <O>
+-	HYPH	_ <O>
+visited	VBN	_ <O>
+art	NN	_ <O>
+museum	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+by	IN	_ <O>
+far	RB	_ <O>
+Paris	NNP	_ <O>
+'	POS	_ <O>
+most	RBS	<B-CUE>
+famous	JJ	<I-CUE>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+over	IN	_ <O>
+six	CD	_ <O>
+million	CD	_ <O>
+visitors	NNS	_ <O>
+per	IN	_ <O>
+year	NN	_ <O>
+and	CC	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+<unk>	CD	_ <O>
+million	CD	_ <O>
+since	IN	_ <O>
+its	PRP$	_ <O>
+construction	NN	_ <O>
+.	.	_ <O>
+
+NULL

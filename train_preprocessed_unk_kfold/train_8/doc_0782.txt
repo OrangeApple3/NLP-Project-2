@@ -1,0 +1,176 @@
+NULL
+The	DT	_ <O>
+administrations	NNS	_ <O>
+of	IN	_ <O>
+Ronald	NNP	_ <O>
+Reagan	NNP	_ <O>
+and	CC	_ <O>
+George	NNP	_ <O>
+<unk>	NNP	_ <O>
+Bush	NNP	_ <O>
+<unk>	VBD	_ <O>
+the	DT	_ <O>
+sale	NN	_ <O>
+to	IN	_ <O>
+Iraq	NNP	_ <O>
+of	IN	_ <O>
+numerous	JJ	_ <O>
+items	NNS	_ <O>
+that	WDT	_ <O>
+had	VBD	_ <O>
+both	DT	_ <O>
+military	JJ	_ <O>
+and	CC	_ <O>
+civilian	JJ	_ <O>
+applications	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+<unk>	JJ	_ <O>
+-	HYPH	_ <O>
+use	NN	_ <O>
+chemicals	NNS	_ <O>
+(	-LRB-	_ <O>
+e.g.	RB	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+bacterial	JJ	_ <O>
+cultures	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Opinions	NNS	<B-CUE>
+differ	VBP	_ <O>
+among	IN	_ <O>
+Middle	NNP	<B-CUE>
+East	NNP	<I-CUE>
+experts	NNS	<I-CUE>
+and	CC	_ <O>
+former	JJ	_ <O>
+government	NN	<B-CUE>
+officials	NNS	<I-CUE>
+about	IN	_ <O>
+the	DT	_ <O>
+pre	NN	_ <O>
+-	HYPH	_ <O>
+Iraqi	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+whether	IN	_ <O>
+Washington	NNP	_ <O>
+could	MD	_ <O>
+have	VB	_ <O>
+done	VBN	_ <O>
+more	RBR	_ <O>
+to	TO	_ <O>
+stop	VB	_ <O>
+the	DT	_ <O>
+flow	NN	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+technology	NN	_ <O>
+for	IN	_ <O>
+building	VBG	_ <O>
+weapons	NNS	_ <O>
+of	IN	_ <O>
+mass	JJ	_ <O>
+destruction	NN	_ <O>
+.	.	_ <O>
+
+NULL
+"	``	_ <O>
+<unk>	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+policy	NN	_ <O>
+was	VBD	_ <O>
+justified	VBN	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+argues	VBZ	_ <O>
+David	NNP	_ <O>
+Newton	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+former	JJ	_ <O>
+U.S.	NNP	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+Baghdad	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+runs	VBZ	_ <O>
+an	DT	_ <O>
+anti	JJ	_ <O>
+-	HYPH	_ <O>
+Hussein	NNP	_ <O>
+radio	NN	_ <O>
+station	NN	_ <O>
+in	IN	_ <O>
+Prague	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+"	``	_ <O>
+We	PRP	_ <O>
+were	VBD	_ <O>
+concerned	VBN	_ <O>
+that	IN	_ <O>
+Iraq	NNP	_ <O>
+should	MD	_ <O>
+not	RB	_ <O>
+lose	VB	_ <O>
+the	DT	_ <O>
+war	NN	_ <O>
+with	IN	_ <O>
+Iran	NNP	_ <O>
+,	,	_ <O>
+because	IN	_ <O>
+that	DT	_ <O>
+would	MD	_ <O>
+have	VB	_ <O>
+threatened	VBN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Gulf	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Our	PRP$	_ <O>
+long	JJ	_ <O>
+-	HYPH	_ <O>
+term	NN	_ <O>
+hope	NN	_ <O>
+was	VBD	_ <O>
+that	IN	_ <O>
+Hussein	NNP	_ <O>
+'s	POS	_ <O>
+government	NN	_ <O>
+would	MD	_ <O>
+become	VB	_ <O>
+less	RBR	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+more	JJR	_ <O>
+responsible	JJ	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

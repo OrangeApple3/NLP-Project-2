@@ -1,0 +1,93 @@
+NULL
+President	NNP	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+a	DT	_ <O>
+peace	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+treaty	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+Soviet	NNP	_ <O>
+Union	NNP	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+have	VBP	<B-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+co	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	JJ	_ <O>
+uprising	NN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Muslim	JJ	_ <O>
+brotherhood	NN	_ <O>
+in	IN	_ <O>
+Syria	NNP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+CIA	NNP	_ <O>
+operation	NN	_ <O>
+to	TO	_ <O>
+overthrow	VB	_ <O>
+Assad	NNP	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+pro	NN	_ <O>
+-	HYPH	_ <O>
+Soviet	JJ	_ <O>
+policies	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+President	NNP	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+a	DT	_ <O>
+peace	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+treaty	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+Soviet	NNP	_ <O>
+Union	NNP	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+have	VBP	<B-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+co	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	JJ	_ <O>
+uprising	NN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Muslim	JJ	_ <O>
+brotherhood	NN	_ <O>
+in	IN	_ <O>
+Syria	NNP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+CIA	NNP	_ <O>
+operation	NN	_ <O>
+to	TO	_ <O>
+overthrow	VB	_ <O>
+Assad	NNP	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+pro	NN	_ <O>
+-	HYPH	_ <O>
+Soviet	JJ	_ <O>
+policies	NNS	_ <O>
+.	.	_ <O>
+
+NULL

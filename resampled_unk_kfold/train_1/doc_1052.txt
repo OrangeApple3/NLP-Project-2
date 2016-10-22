@@ -1,0 +1,123 @@
+NULL
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+major	JJ	_ <O>
+<unk>	NN	_ <O>
+having	VBG	_ <O>
+the	DT	_ <O>
+facilities	NNS	_ <O>
+like	IN	_ <O>
+water	NN	_ <O>
+supply	NN	_ <O>
+,	,	_ <O>
+lower	JJR	_ <O>
+primary	JJ	_ <O>
+school	NN	_ <O>
+,	,	_ <O>
+upper	JJ	_ <O>
+primary	JJ	_ <O>
+school	NN	_ <O>
+,	,	_ <O>
+<unk>	VBN	_ <O>
+government	NN	_ <O>
+hospital	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+station	NN	_ <O>
+and	CC	_ <O>
+railway	NN	_ <O>
+station	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+big	JJ	_ <O>
+asset	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+village	NN	_ <O>
+are	VBP	_ <O>
+hard	RB	_ <O>
+working	VBG	_ <O>
+farmers	NNS	_ <O>
+and	CC	_ <O>
+daily	JJ	_ <O>
+labors	NNS	_ <O>
+produce	VB	_ <O>
+good	JJ	_ <O>
+quality	NN	_ <O>
+of	IN	_ <O>
+rice	NN	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Here	RB	_ <O>
+most	JJS	<B-CUE>
+of	IN	<I-CUE>
+them	PRP	<I-CUE>
+depend	VB	_ <O>
+on	IN	_ <O>
+cultivation	NN	_ <O>
+.	.	_ <O>
+
+NULL
+From	IN	_ <O>
+last	JJ	_ <O>
+one	NN	_ <O>
+decade	NN	_ <O>
+many	JJ	<B-CUE>
+were	VBD	_ <O>
+become	VBN	_ <O>
+professionally	RB	_ <O>
+educated	VBN	_ <O>
+and	CC	_ <O>
+been	VBN	_ <O>
+well	RB	_ <O>
+settled	VBN	_ <O>
+in	IN	_ <O>
+IT	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+related	JJ	_ <O>
+sectors	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Here	RB	_ <O>
+most	JJS	<B-CUE>
+of	IN	<I-CUE>
+them	PRP	<I-CUE>
+depend	VB	_ <O>
+on	IN	_ <O>
+cultivation	NN	_ <O>
+.	.	_ <O>
+
+NULL
+From	IN	_ <O>
+last	JJ	_ <O>
+one	NN	_ <O>
+decade	NN	_ <O>
+many	JJ	<B-CUE>
+were	VBD	_ <O>
+become	VBN	_ <O>
+professionally	RB	_ <O>
+educated	VBN	_ <O>
+and	CC	_ <O>
+been	VBN	_ <O>
+well	RB	_ <O>
+settled	VBN	_ <O>
+in	IN	_ <O>
+IT	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+related	JJ	_ <O>
+sectors	NNS	_ <O>
+.	.	_ <O>
+
+NULL

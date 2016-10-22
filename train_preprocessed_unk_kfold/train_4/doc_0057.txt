@@ -1,0 +1,20 @@
+NULL
+When	WRB	_ <O>
+<unk>	VBN	_ <O>
+<unk>	IN	_ <O>
+a	DT	_ <O>
+home	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+will	MD	_ <O>
+be	VB	_ <O>
+placed	VBN	_ <O>
+within	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

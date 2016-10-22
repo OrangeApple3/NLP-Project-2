@@ -1,0 +1,107 @@
+NULL
+Compared	VBN	_ <O>
+to	IN	_ <O>
+other	JJ	_ <O>
+expression	NN	_ <O>
+systems	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NNS	_ <O>
+from	IN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+or	CC	_ <O>
+Chinese	JJ	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+cells	NNS	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+usually	RB	_ <O>
+gives	VBZ	_ <O>
+much	RB	_ <O>
+better	JJR	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+proteins	NNS	<I-CUE>
+require	VB	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+proper	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Thus	RB	_ <O>
+,	,	_ <O>
+'	``	_ <O>
+Pichia	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+unable	JJ	_ <O>
+to	TO	_ <O>
+produce	VB	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+proteins	NNS	<I-CUE>
+for	IN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+host	NN	_ <O>
+lacks	VBZ	_ <O>
+the	DT	_ <O>
+appropriate	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+proteins	NNS	<I-CUE>
+require	VB	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+proper	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Thus	RB	_ <O>
+,	,	_ <O>
+'	``	_ <O>
+Pichia	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+unable	JJ	_ <O>
+to	TO	_ <O>
+produce	VB	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+proteins	NNS	<I-CUE>
+for	IN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+host	NN	_ <O>
+lacks	VBZ	_ <O>
+the	DT	_ <O>
+appropriate	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

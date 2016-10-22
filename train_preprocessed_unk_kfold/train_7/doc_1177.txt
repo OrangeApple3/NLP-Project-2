@@ -1,0 +1,29 @@
+NULL
+The	DT	_ <O>
+term	NN	_ <O>
+'	''	_ <O>
+ruling	NN	_ <O>
+class	NN	_ <O>
+'	''	_ <O>
+refers	VBZ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+social	JJ	_ <O>
+class	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+given	VBN	_ <O>
+society	NN	_ <O>
+that	WDT	_ <O>
+decides	VBZ	_ <O>
+upon	IN	_ <O>
+and	CC	_ <O>
+sets	VBZ	_ <O>
+that	DT	_ <O>
+society	NN	_ <O>
+'s	POS	_ <O>
+political	JJ	_ <O>
+policy	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,25 @@
+NULL
+He	PRP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+son	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+Maria	NNP	_ <O>
+<unk>	NNP	_ <O>
+Lassen	NNP	_ <O>
+,	,	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

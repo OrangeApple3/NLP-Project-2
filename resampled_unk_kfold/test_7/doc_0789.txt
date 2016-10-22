@@ -1,0 +1,22 @@
+NULL
+David	NNP	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+son	NN	_ <O>
+of	IN	_ <O>
+John	NNP	_ <O>
+Mason	NNP	_ <O>
+,	,	_ <O>
+leader	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Liberal	NNP	_ <O>
+Party	NNP	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+mid-1970s	NNS	_ <O>
+.	.	_ <O>
+
+NULL

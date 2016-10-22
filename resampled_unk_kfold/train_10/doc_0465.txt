@@ -1,0 +1,47 @@
+Another	DT	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+image	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+common	JJ	_ <O>
+name	NN	_ <O>
+for	IN	_ <O>
+these	DT	_ <O>
+birds	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	VBG	_ <O>
+on	IN	_ <O>
+'	``	_ <O>
+poly	NN	_ <O>
+<unk>	VBD	_ <O>
+<unk>	JJ	_ <O>
+states	NNS	_ <O>
+in	IN	_ <O>
+its	PRP$	_ <O>
+that	IN	_ <O>
+"	``	_ <O>
+The	DT	_ <O>
+parrot	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+common	JJ	_ <O>
+poly	NN	_ <O>
+"	``	_ <O>
+mascot	NN	_ <O>
+"	''	_ <O>
+or	CC	_ <O>
+symbol	NN	_ <O>
+.	.	_ <O>
+
+NULL

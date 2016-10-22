@@ -1,0 +1,336 @@
+NULL
+The	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+<unk>	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBZ	_ <O>
+<unk>	VBN	_ <O>
+<unk>	VBN	_ <O>
+<unk>	IN	_ <O>
+two	CD	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	RB	_ <O>
+,	,	_ <O>
+<unk>	PRP	_ <O>
+is	VBZ	_ <O>
+<unk>	VBN	_ <O>
+<unk>	IN	_ <O>
+photographs	NNS	_ <O>
+<unk>	MD	_ <O>
+<unk>	RB	_ <O>
+<unk>	VB	_ <O>
+<unk>	VBN	_ <O>
+<unk>	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	CC	_ <O>
+should	MD	_ <O>
+<unk>	RB	_ <O>
+be	VB	_ <O>
+protected	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+manner	NN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	IN	_ <O>
+that	DT	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+recordings	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+other	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+should	MD	_ <O>
+not	RB	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+matter	NN	_ <O>
+of	RB	_ <O>
+<unk>	RB	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+photograph	NN	_ <O>
+being	VBG	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+argued	VBN	<I-CUE>
+that	IN	_ <O>
+protection	NN	_ <O>
+of	IN	_ <O>
+photographs	NNS	_ <O>
+as	IN	_ <O>
+artistic	JJ	_ <O>
+works	NNS	_ <O>
+is	VBZ	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+that	DT	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	RB	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	RB	_ <O>
+<unk>	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBZ	_ <O>
+photography	NN	_ <O>
+as	IN	_ <O>
+<unk>	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+<unk>	VBN	_ <O>
+to	IN	_ <O>
+an	DT	_ <O>
+art	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	RB	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+argued	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+protection	NN	_ <O>
+of	IN	_ <O>
+photographs	NNS	_ <O>
+as	IN	_ <O>
+artistic	JJ	_ <O>
+works	NNS	_ <O>
+<unk>	VBZ	_ <O>
+to	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+<unk>	JJ	<I-CUE>
+that	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	MD	_ <O>
+be	VB	_ <O>
+<unk>	VBG	_ <O>
+copyright	NN	_ <O>
+<unk>	IN	_ <O>
+<unk>	PRP	_ <O>
+,	,	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+taken	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	PRP$	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	RB	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	VBD	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+photograph	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	RB	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+possible	JJ	<I-CUE>
+that	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+inspired	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+on	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+would	MD	_ <O>
+be	VB	_ <O>
+infringing	VBG	_ <O>
+copyright	NN	_ <O>
+if	IN	_ <O>
+<unk>	PRP	_ <O>
+<unk>	VBD	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+cheetah	NN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+similar	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+That	DT	_ <O>
+<unk>	VBD	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+possible	JJ	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	RB	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+<unk>	WP	_ <O>
+<unk>	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBD	<B-CUE>
+<unk>	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+copyright	NN	_ <O>
+<unk>	WDT	_ <O>
+<unk>	VBD	_ <O>
+in	IN	_ <O>
+it	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	RB	_ <O>
+,	,	_ <O>
+by	IN	_ <O>
+this	DT	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+<unk>	VBG	_ <O>
+that	IN	_ <O>
+<unk>	IN	_ <O>
+the	DT	_ <O>
+subject	JJ	_ <O>
+matter	NN	_ <O>
+of	IN	_ <O>
+some	DT	_ <O>
+photographs	NNS	_ <O>
+<unk>	MD	_ <O>
+<unk>	VB	_ <O>
+protection	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+<unk>	JJ	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+subject	JJ	_ <O>
+matter	NN	_ <O>
+of	IN	_ <O>
+<unk>	DT	_ <O>
+photographs	NNS	_ <O>
+is	VBZ	_ <O>
+<unk>	VBG	_ <O>
+of	IN	_ <O>
+protection	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,62 @@
+Since	IN	_ <O>
+the	DT	_ <O>
+advent	NN	_ <O>
+of	IN	_ <O>
+legal	JJ	_ <O>
+party	NN	_ <O>
+politics	NNS	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+1990	CD	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+all	DT	_ <O>
+three	CD	_ <O>
+streams	NNS	_ <O>
+have	VBP	_ <O>
+gone	VBN	_ <O>
+through	IN	_ <O>
+various	JJ	_ <O>
+processes	NNS	_ <O>
+of	IN	_ <O>
+divisions	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	LS	_ <O>
+)	-RRB-	_ <O>
+became	VBD	_ <O>
+a	DT	_ <O>
+major	JJ	_ <O>
+parliamentary	JJ	_ <O>
+force	NN	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+<unk>	NNS	_ <O>
+'	''	_ <O>
+:	:	_ <O>
+When	WRB	_ <O>
+multi	JJ	_ <O>
+-	HYPH	_ <O>
+party	NN	_ <O>
+politics	NNS	_ <O>
+began	VBD	_ <O>
+,	,	_ <O>
+elements	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+previous	JJ	_ <O>
+regime	NN	_ <O>
+formed	VBD	_ <O>
+the	DT	_ <O>
+Rashtriya	NNP	_ <O>
+<unk>	NNP	_ <O>
+Party	NNP	_ <O>
+.	.	_ <O>
+
+NULL

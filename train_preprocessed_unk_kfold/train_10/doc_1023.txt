@@ -1,0 +1,207 @@
+NULL
+In	IN	_ <O>
+this	DT	_ <O>
+kind	NN	_ <O>
+of	IN	_ <O>
+setting	VBG	_ <O>
+the	DT	_ <O>
+expression	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+genes	NNS	_ <O>
+has	VBZ	_ <O>
+the	DT	_ <O>
+potential	NN	_ <O>
+to	IN	_ <O>
+more	RBR	_ <O>
+closely	RB	_ <O>
+resemble	VB	_ <O>
+that	DT	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+native	JJ	_ <O>
+expression	NN	_ <O>
+profile	NN	_ <O>
+.	.	_ <O>
+
+NULL
+3D	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+structures	NNS	_ <O>
+on	IN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+cultured	JJ	_ <O>
+cells	NNS	_ <O>
+grow	VBP	_ <O>
+,	,	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+composed	VBN	_ <O>
+of	IN	_ <O>
+other	JJ	_ <O>
+cells	NNS	_ <O>
+,	,	_ <O>
+i.e.	FW	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+synthetic	JJ	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+cells	NNS	_ <O>
+natural	JJ	_ <O>
+environment	NN	_ <O>
+or	CC	_ <O>
+<unk>	JJ	_ <O>
+ECM	NNP	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+any	DT	_ <O>
+mixture	NN	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+three	CD	_ <O>
+components	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	_ <O>
+such	JJ	_ <O>
+system	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+developed	VBN	_ <O>
+to	TO	_ <O>
+study	VB	_ <O>
+skin	NN	_ <O>
+development	NN	_ <O>
+and	CC	_ <O>
+basal	JJ	_ <O>
+membrane	NN	_ <O>
+formation	NN	_ <O>
+between	IN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Another	DT	_ <O>
+system	NN	_ <O>
+using	VBG	_ <O>
+a	DT	_ <O>
+<unk>	VBN	_ <O>
+<unk>	VBN	_ <O>
+<unk>	NN	_ <O>
+I	PRP	_ <O>
+<unk>	VBP	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+used	VBN	_ <O>
+to	TO	_ <O>
+demonstrate	VB	_ <O>
+that	IN	_ <O>
+primary	JJ	_ <O>
+human	JJ	_ <O>
+<unk>	JJ	_ <O>
+fibroblasts	NNS	_ <O>
+will	MD	_ <O>
+eventually	RB	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+gel	NN	_ <O>
+and	CC	_ <O>
+create	VB	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+consisting	VBG	_ <O>
+of	IN	_ <O>
+collagen	NN	_ <O>
+type	NN	_ <O>
+I	PRP	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+several	JJ	<B-CUE>
+other	JJ	<I-CUE>
+<unk>	VBN	<I-CUE>
+matrix	NN	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+mimics	VBZ	_ <O>
+the	DT	_ <O>
+in	IN	_ <O>
+<unk>	JJ	_ <O>
+corneal	JJ	_ <O>
+<unk>	NN	_ <O>
+’s	IN	_ <O>
+<unk>	JJ	_ <O>
+program	NN	_ <O>
+and	CC	_ <O>
+response	NN	_ <O>
+to	IN	_ <O>
+injury	NN	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+long	JJ	_ <O>
+-	HYPH	_ <O>
+term	NN	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+creating	VBG	_ <O>
+3D	JJ	_ <O>
+cell	NN	_ <O>
+culture	NN	_ <O>
+systems	NNS	_ <O>
+is	VBZ	_ <O>
+to	TO	_ <O>
+engineer	VB	_ <O>
+tissues	NNS	_ <O>
+that	WDT	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+used	VBN	_ <O>
+as	IN	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+patients	NNS	_ <O>
+with	IN	_ <O>
+many	JJ	<B-CUE>
+types	NNS	<I-CUE>
+of	IN	<I-CUE>
+disease	NN	<I-CUE>
+.	.	_ <O>
+
+NULL
+Another	DT	_ <O>
+procedure	NN	_ <O>
+that	WDT	_ <O>
+could	MD	_ <O>
+be	VB	_ <O>
+made	VBN	_ <O>
+possible	JJ	_ <O>
+by	IN	_ <O>
+tissue	NN	_ <O>
+engineering	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

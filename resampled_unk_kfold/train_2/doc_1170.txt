@@ -1,0 +1,68 @@
+NULL
+The	DT	_ <O>
+most	RBS	_ <O>
+common	JJ	_ <O>
+usage	NN	_ <O>
+of	IN	_ <O>
+Oscar	NNP	_ <O>
+is	VBZ	_ <O>
+for	IN	_ <O>
+<unk>	NN	_ <O>
+software	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+Crew	NNP	_ <O>
+was	VBD	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+warez	NN	_ <O>
+groups	NNS	_ <O>
+use	VBP	_ <O>
+the	DT	_ <O>
+Oscar	NNP	_ <O>
+format	NN	_ <O>
+to	TO	_ <O>
+release	VB	_ <O>
+thousands	NNS	_ <O>
+of	IN	_ <O>
+license	NN	_ <O>
+<unk>	NNS	_ <O>
+at	IN	_ <O>
+once	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Updates	NNS	_ <O>
+for	IN	_ <O>
+serial	JJ	_ <O>
+database	NN	_ <O>
+software	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+found	VBN	_ <O>
+on	IN	_ <O>
+many	JJ	<B-CUE>
+Internet	NN	<I-CUE>
+sites	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Updates	NNS	_ <O>
+for	IN	_ <O>
+serial	JJ	_ <O>
+database	NN	_ <O>
+software	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+found	VBN	_ <O>
+on	IN	_ <O>
+many	JJ	<B-CUE>
+Internet	NN	<I-CUE>
+sites	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

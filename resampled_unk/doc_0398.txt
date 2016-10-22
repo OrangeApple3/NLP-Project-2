@@ -1,0 +1,131 @@
+NULL
+'	''	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+American	JJ	_ <O>
+<unk>	NN	_ <O>
+who	WP	_ <O>
+has	VBZ	_ <O>
+published	VBN	_ <O>
+many	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+and	CC	_ <O>
+written	VBN	_ <O>
+and	CC	_ <O>
+<unk>	VBN	_ <O>
+on	IN	_ <O>
+books	NNS	_ <O>
+about	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Dodson	NNP	_ <O>
+described	VBD	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+1986	CD	_ <O>
+;	:	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+"	''	_ <O>
+in	IN	_ <O>
+2004	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+others	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+An	DT	_ <O>
+authority	NN	_ <O>
+on	IN	_ <O>
+<unk>	NNPS	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+has	VBZ	_ <O>
+also	RB	_ <O>
+authored	VBN	_ <O>
+several	JJ	<B-CUE>
+papers	NNS	<I-CUE>
+and	CC	<I-CUE>
+textbooks	NNS	<I-CUE>
+on	IN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+sauropods	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+'	''	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+American	JJ	_ <O>
+<unk>	NN	_ <O>
+who	WP	_ <O>
+has	VBZ	_ <O>
+published	VBN	_ <O>
+many	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+and	CC	_ <O>
+written	VBN	_ <O>
+and	CC	_ <O>
+<unk>	VBN	_ <O>
+on	IN	_ <O>
+books	NNS	_ <O>
+about	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Dodson	NNP	_ <O>
+described	VBD	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+1986	CD	_ <O>
+;	:	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+"	''	_ <O>
+in	IN	_ <O>
+2004	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+others	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+An	DT	_ <O>
+authority	NN	_ <O>
+on	IN	_ <O>
+<unk>	NNPS	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+has	VBZ	_ <O>
+also	RB	_ <O>
+authored	VBN	_ <O>
+several	JJ	<B-CUE>
+papers	NNS	<I-CUE>
+and	CC	<I-CUE>
+textbooks	NNS	<I-CUE>
+on	IN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+sauropods	NNS	_ <O>
+.	.	_ <O>
+
+NULL

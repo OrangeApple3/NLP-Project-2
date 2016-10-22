@@ -1,0 +1,16 @@
+The	DT	_ <O>
+'	``	_ <O>
+President	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+head	NN	_ <O>
+of	IN	_ <O>
+state	NN	_ <O>
+of	IN	_ <O>
+Senegal	NNP	_ <O>
+.	.	_ <O>
+
+NULL

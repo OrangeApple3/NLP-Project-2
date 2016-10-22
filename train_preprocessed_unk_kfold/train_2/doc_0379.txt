@@ -1,0 +1,28 @@
+NULL
+The	DT	_ <O>
+movie	NN	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+Robert	NNP	_ <O>
+<unk>	NNP	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+by	IN	_ <O>
+John	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+directed	VBN	_ <O>
+by	IN	_ <O>
+Steve	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

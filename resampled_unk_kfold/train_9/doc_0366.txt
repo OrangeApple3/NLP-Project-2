@@ -1,0 +1,129 @@
+The	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+authority	NN	_ <O>
+between	IN	_ <O>
+the	DT	_ <O>
+sub	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+centre	NN	_ <O>
+may	MD	_ <O>
+vary	VB	_ <O>
+.	.	_ <O>
+
+NULL
+Typically	RB	_ <O>
+the	DT	_ <O>
+centre	NN	_ <O>
+has	VBZ	_ <O>
+powers	NNS	_ <O>
+<unk>	VBG	_ <O>
+defence	NN	_ <O>
+and	CC	_ <O>
+foreign	JJ	_ <O>
+policy	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+sub	NN	_ <O>
+-	HYPH	_ <O>
+units	NNS	_ <O>
+may	MD	_ <O>
+also	RB	_ <O>
+have	VB	_ <O>
+international	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+sub	NN	_ <O>
+-	HYPH	_ <O>
+units	NNS	_ <O>
+may	MD	_ <O>
+also	RB	_ <O>
+participate	VB	_ <O>
+in	IN	_ <O>
+central	JJ	_ <O>
+decision	NN	_ <O>
+-	HYPH	_ <O>
+making	VBG	_ <O>
+bodies	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Unlike	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+state	NN	_ <O>
+,	,	_ <O>
+sovereignty	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	RB	_ <O>
+split	VBN	_ <O>
+between	IN	_ <O>
+at	IN	_ <O>
+least	JJS	_ <O>
+two	CD	_ <O>
+<unk>	JJ	_ <O>
+levels	NNS	_ <O>
+so	IN	_ <O>
+that	IN	_ <O>
+units	NNS	_ <O>
+at	IN	_ <O>
+each	DT	_ <O>
+level	NN	_ <O>
+have	VBP	_ <O>
+final	JJ	_ <O>
+authority	NN	_ <O>
+and	CC	_ <O>
+can	MD	_ <O>
+act	VB	_ <O>
+independently	RB	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+others	NNS	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+area	NN	<I-CUE>
+.	.	_ <O>
+
+NULL
+Unlike	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+state	NN	_ <O>
+,	,	_ <O>
+sovereignty	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	RB	_ <O>
+split	VBN	_ <O>
+between	IN	_ <O>
+at	IN	_ <O>
+least	JJS	_ <O>
+two	CD	_ <O>
+<unk>	JJ	_ <O>
+levels	NNS	_ <O>
+so	IN	_ <O>
+that	IN	_ <O>
+units	NNS	_ <O>
+at	IN	_ <O>
+each	DT	_ <O>
+level	NN	_ <O>
+have	VBP	_ <O>
+final	JJ	_ <O>
+authority	NN	_ <O>
+and	CC	_ <O>
+can	MD	_ <O>
+act	VB	_ <O>
+independently	RB	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+others	NNS	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+area	NN	<I-CUE>
+.	.	_ <O>
+
+NULL

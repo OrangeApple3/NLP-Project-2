@@ -1,0 +1,27 @@
+NULL
+Pedunculated	VBN	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+more	RBR	_ <O>
+common	JJ	_ <O>
+that	IN	_ <O>
+sessile	JJ	_ <O>
+ones	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Small	JJ	_ <O>
+blood	NN	_ <O>
+vessels	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+present	JJ	_ <O>
+in	IN	_ <O>
+polyps	NNS	_ <O>
+,	,	_ <O>
+particularly	RB	_ <O>
+large	JJ	_ <O>
+ones	NNS	_ <O>
+.	.	_ <O>
+
+NULL

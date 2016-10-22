@@ -1,0 +1,64 @@
+NULL
+The	DT	_ <O>
+most	RBS	_ <O>
+common	JJ	_ <O>
+fish	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+a	DT	_ <O>
+native	JJ	_ <O>
+species	NN	_ <O>
+but	CC	_ <O>
+also	RB	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+local	JJ	_ <O>
+reservoirs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Recently	RB	_ <O>
+,	,	_ <O>
+there	EX	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+significant	JJ	<I-CUE>
+talk	NN	<I-CUE>
+of	IN	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+Black	NNP	_ <O>
+Bear	NNP	_ <O>
+into	IN	_ <O>
+many	JJ	_ <O>
+parts	NNS	_ <O>
+of	IN	_ <O>
+East	NNP	_ <O>
+Texas	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Recently	RB	_ <O>
+,	,	_ <O>
+there	EX	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+significant	JJ	<I-CUE>
+talk	NN	<I-CUE>
+of	IN	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+Black	NNP	_ <O>
+Bear	NNP	_ <O>
+into	IN	_ <O>
+many	JJ	_ <O>
+parts	NNS	_ <O>
+of	IN	_ <O>
+East	NNP	_ <O>
+Texas	NNP	_ <O>
+.	.	_ <O>
+
+NULL

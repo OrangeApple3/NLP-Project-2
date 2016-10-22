@@ -1,0 +1,406 @@
+Child	NN	_ <O>
+sexual	JJ	_ <O>
+abuse	NN	_ <O>
+occurs	VBZ	_ <O>
+frequently	RB	_ <O>
+in	IN	_ <O>
+Western	JJ	_ <O>
+society	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Prevalence	NN	_ <O>
+figures	NNS	_ <O>
+range	VBP	_ <O>
+between	IN	_ <O>
+10	CD	_ <O>
+%	NN	_ <O>
+to	TO	_ <O>
+<unk>	CD	_ <O>
+%	NN	_ <O>
+for	IN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+16	CD	_ <O>
+%	NN	_ <O>
+for	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Child	NN	_ <O>
+sexual	JJ	_ <O>
+abuse	NN	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+difficult	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+proof	NN	_ <O>
+in	IN	_ <O>
+criminal	JJ	_ <O>
+courts	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+a	DT	_ <O>
+1989	CD	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+study	NN	_ <O>
+,	,	_ <O>
+among	IN	_ <O>
+pre	NN	_ <O>
+-	HYPH	_ <O>
+school	NN	_ <O>
+children	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+rate	NN	_ <O>
+was	VBD	_ <O>
+found	VBN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+between	IN	_ <O>
+1.7	CD	_ <O>
+to	IN	_ <O>
+<unk>	CD	_ <O>
+percent	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Among	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+rate	NN	_ <O>
+was	VBD	_ <O>
+found	VBN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+between	IN	_ <O>
+8	CD	_ <O>
+to	IN	_ <O>
+12	CD	_ <O>
+percent	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+overall	JJ	_ <O>
+average	JJ	_ <O>
+rate	NN	_ <O>
+was	VBD	_ <O>
+found	VBN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+5	CD	_ <O>
+to	TO	_ <O>
+8	CD	_ <O>
+percent	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Children	NNS	_ <O>
+appear	VBP	_ <O>
+to	TO	_ <O>
+rarely	RB	_ <O>
+make	VB	_ <O>
+up	RP	_ <O>
+false	JJ	_ <O>
+allegations	NNS	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+own	JJ	_ <O>
+accord	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	_ <O>
+continue	VBP	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+their	PRP$	_ <O>
+offenses	NNS	_ <O>
+even	RB	_ <O>
+after	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Denial	NN	_ <O>
+by	IN	_ <O>
+others	NNS	<B-CUE>
+of	IN	_ <O>
+child	NN	_ <O>
+sexual	JJ	_ <O>
+abuse	NN	_ <O>
+is	VBZ	_ <O>
+common	JJ	<B-CUE>
+and	CC	_ <O>
+its	PRP$	_ <O>
+reality	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+easily	RB	_ <O>
+accepted	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Questioning	VBG	_ <O>
+the	DT	_ <O>
+validity	NN	_ <O>
+of	IN	_ <O>
+allegations	NNS	_ <O>
+made	VBN	_ <O>
+by	IN	_ <O>
+children	NNS	_ <O>
+is	VBZ	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+common	JJ	<I-CUE>
+form	NN	_ <O>
+of	IN	_ <O>
+denial	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+possible	JJ	<B-CUE>
+that	IN	_ <O>
+false	JJ	_ <O>
+allegations	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+over	RB	_ <O>
+-	HYPH	_ <O>
+represented	VBN	_ <O>
+,	,	_ <O>
+because	IN	_ <O>
+many	JJ	_ <O>
+true	JJ	_ <O>
+victims	NNS	_ <O>
+of	IN	_ <O>
+child	NN	_ <O>
+sexual	JJ	_ <O>
+abuse	NN	_ <O>
+never	RB	_ <O>
+tell	VB	_ <O>
+anyone	NN	_ <O>
+at	IN	_ <O>
+all	RB	_ <O>
+about	IN	_ <O>
+what	WP	_ <O>
+happened	VBD	_ <O>
+.	.	_ <O>
+
+NULL
+False	JJ	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+common	JJ	<B-CUE>
+.	.	_ <O>
+
+NULL
+Other	JJ	<B-CUE>
+studies	NNS	<I-CUE>
+have	VBP	_ <O>
+shown	VBN	_ <O>
+false	JJ	_ <O>
+<unk>	NN	_ <O>
+rates	NNS	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+as	RB	_ <O>
+low	JJ	_ <O>
+as	IN	_ <O>
+two	CD	_ <O>
+percent	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+studies	NNS	<I-CUE>
+break	VB	_ <O>
+down	RP	_ <O>
+the	DT	_ <O>
+level	NN	_ <O>
+of	IN	_ <O>
+false	JJ	_ <O>
+allegations	NNS	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+age	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+child	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+parents	NNS	_ <O>
+have	VBP	_ <O>
+consistently	RB	_ <O>
+<unk>	VBN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+child	NN	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+when	WRB	_ <O>
+compared	VBN	_ <O>
+to	IN	_ <O>
+accounts	NNS	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+own	JJ	_ <O>
+children	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Denial	NN	_ <O>
+by	IN	_ <O>
+others	NNS	<B-CUE>
+of	IN	_ <O>
+child	NN	_ <O>
+sexual	JJ	_ <O>
+abuse	NN	_ <O>
+is	VBZ	_ <O>
+common	JJ	<B-CUE>
+and	CC	_ <O>
+its	PRP$	_ <O>
+reality	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+easily	RB	_ <O>
+accepted	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Questioning	VBG	_ <O>
+the	DT	_ <O>
+validity	NN	_ <O>
+of	IN	_ <O>
+allegations	NNS	_ <O>
+made	VBN	_ <O>
+by	IN	_ <O>
+children	NNS	_ <O>
+is	VBZ	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+common	JJ	<I-CUE>
+form	NN	_ <O>
+of	IN	_ <O>
+denial	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+possible	JJ	<B-CUE>
+that	IN	_ <O>
+false	JJ	_ <O>
+allegations	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+over	RB	_ <O>
+-	HYPH	_ <O>
+represented	VBN	_ <O>
+,	,	_ <O>
+because	IN	_ <O>
+many	JJ	_ <O>
+true	JJ	_ <O>
+victims	NNS	_ <O>
+of	IN	_ <O>
+child	NN	_ <O>
+sexual	JJ	_ <O>
+abuse	NN	_ <O>
+never	RB	_ <O>
+tell	VB	_ <O>
+anyone	NN	_ <O>
+at	IN	_ <O>
+all	RB	_ <O>
+about	IN	_ <O>
+what	WP	_ <O>
+happened	VBD	_ <O>
+.	.	_ <O>
+
+NULL
+False	JJ	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+common	JJ	<B-CUE>
+.	.	_ <O>
+
+NULL
+Other	JJ	<B-CUE>
+studies	NNS	<I-CUE>
+have	VBP	_ <O>
+shown	VBN	_ <O>
+false	JJ	_ <O>
+<unk>	NN	_ <O>
+rates	NNS	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+as	RB	_ <O>
+low	JJ	_ <O>
+as	IN	_ <O>
+two	CD	_ <O>
+percent	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+studies	NNS	<I-CUE>
+break	VB	_ <O>
+down	RP	_ <O>
+the	DT	_ <O>
+level	NN	_ <O>
+of	IN	_ <O>
+false	JJ	_ <O>
+allegations	NNS	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+age	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+child	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+parents	NNS	_ <O>
+have	VBP	_ <O>
+consistently	RB	_ <O>
+<unk>	VBN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+child	NN	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+when	WRB	_ <O>
+compared	VBN	_ <O>
+to	IN	_ <O>
+accounts	NNS	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+own	JJ	_ <O>
+children	NNS	_ <O>
+.	.	_ <O>
+
+NULL

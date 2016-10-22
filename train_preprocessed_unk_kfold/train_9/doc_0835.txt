@@ -1,0 +1,112 @@
+NULL
+One	CD	_ <O>
+year	NN	_ <O>
+later	RB	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+went	VBD	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+he	PRP	_ <O>
+met	VBD	_ <O>
+many	JJ	<B-CUE>
+musicians	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+CDs	NNS	_ <O>
+published	VBD	_ <O>
+on	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+are	VBP	_ <O>
+produced	VBN	_ <O>
+by	IN	_ <O>
+Pat	NNP	_ <O>
+<unk>	NNP	_ <O>
+himself	PRP	_ <O>
+and	CC	_ <O>
+his	PRP$	_ <O>
+<unk>	NNS	_ <O>
+;	:	_ <O>
+he	PRP	_ <O>
+also	RB	_ <O>
+publishes	VBZ	_ <O>
+CDs	NNS	_ <O>
+he	PRP	_ <O>
+licensed	VBD	_ <O>
+from	IN	_ <O>
+other	JJ	_ <O>
+companies	NNS	_ <O>
+,	,	_ <O>
+among	IN	_ <O>
+them	PRP	_ <O>
+works	VBZ	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+vs.	IN	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Pat	NNP	_ <O>
+Jabbar	NNP	_ <O>
+also	RB	_ <O>
+discovered	VBD	_ <O>
+Turkish	JJ	_ <O>
+rappers	NNS	_ <O>
+<unk>	NNP	_ <O>
+from	IN	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+produced	VBD	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+their	PRP$	<I-CUE>
+music	NN	<I-CUE>
+.	.	_ <O>
+
+NULL
+Bill	NNP	_ <O>
+<unk>	NNP	_ <O>
+produced	VBD	_ <O>
+tracks	NNS	_ <O>
+for	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNP	_ <O>
+Effects	NNPS	_ <O>
+(	-LRB-	_ <O>
+the	DT	_ <O>
+<unk>	FW	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+which	WDT	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+Barraka	NNP	_ <O>
+'s	POS	_ <O>
+projects	NNS	_ <O>
+and	CC	_ <O>
+groups	NNS	_ <O>
+came	VBD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

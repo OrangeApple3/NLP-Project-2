@@ -1,0 +1,113 @@
+NULL
+It	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+this	DT	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+fact	NN	_ <O>
+that	IN	_ <O>
+<unk>	NNPS	_ <O>
+have	VBP	_ <O>
+many	JJ	<B-CUE>
+geographic	JJ	<I-CUE>
+and	CC	<I-CUE>
+time	NN	<I-CUE>
+<unk>	NNS	<I-CUE>
+that	DT	_ <O>
+would	MD	_ <O>
+prevent	VB	_ <O>
+any	DT	_ <O>
+such	JJ	_ <O>
+cross	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Its	PRP$	_ <O>
+also	RB	_ <O>
+the	DT	_ <O>
+case	NN	_ <O>
+that	IN	_ <O>
+since	IN	_ <O>
+<unk>	NNP	_ <O>
+often	RB	_ <O>
+are	VBP	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+specific	JJ	_ <O>
+species	NNS	_ <O>
+of	IN	_ <O>
+beetles	NNS	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+would	MD	_ <O>
+prevent	VB	_ <O>
+cross	VB	_ <O>
+pollination	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+beetles	NNS	_ <O>
+have	VBP	_ <O>
+also	RB	_ <O>
+been	VBN	_ <O>
+observed	VBN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+selective	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+height	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+plant	NN	_ <O>
+they	PRP	_ <O>
+<unk>	VBP	_ <O>
+which	WDT	_ <O>
+would	MD	_ <O>
+serve	VB	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+additional	JJ	_ <O>
+<unk>	JJ	_ <O>
+measure	NN	_ <O>
+that	WDT	_ <O>
+would	MD	_ <O>
+make	VB	_ <O>
+<unk>	NNS	_ <O>
+less	RBR	_ <O>
+likely	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+An	DT	_ <O>
+interesting	JJ	_ <O>
+feature	NN	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+hybrids	NNS	_ <O>
+is	VBZ	_ <O>
+that	IN	_ <O>
+they	PRP	_ <O>
+often	RB	_ <O>
+can	MD	_ <O>
+show	VB	_ <O>
+<unk>	JJ	_ <O>
+types	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+with	IN	_ <O>
+<unk>	NNS	_ <O>
+to	IN	_ <O>
+genetic	JJ	_ <O>
+relation	NN	_ <O>
+.	.	_ <O>
+
+NULL

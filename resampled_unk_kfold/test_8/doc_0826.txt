@@ -1,0 +1,41 @@
+NULL
+To	TO	_ <O>
+prevent	VB	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+white	JJ	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+egg	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+small	JJ	_ <O>
+amount	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+added	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+water	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+water	NN	_ <O>
+<unk>	RB	_ <O>
+to	TO	_ <O>
+create	VB	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+may	MD	_ <O>
+reduce	VB	_ <O>
+said	VBD	_ <O>
+dispersion	NN	_ <O>
+.	.	_ <O>
+
+NULL

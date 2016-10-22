@@ -1,0 +1,123 @@
+During	IN	_ <O>
+battles	NNS	_ <O>
+,	,	_ <O>
+western	JJ	_ <O>
+forces	NNS	_ <O>
+were	VBD	_ <O>
+usually	RB	_ <O>
+<unk>	JJ	_ <O>
+of	IN	_ <O>
+correctly	RB	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+strength	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+forces	NNS	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+greatly	RB	_ <O>
+<unk>	VBD	_ <O>
+the	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+attacking	VBG	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+taking	VBG	_ <O>
+a	DT	_ <O>
+PVA	NNP	_ <O>
+regiment	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+PVA	NNP	_ <O>
+division	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Moreover	RB	_ <O>
+,	,	_ <O>
+PVAs	NNS	_ <O>
+were	VBD	_ <O>
+masters	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+often	RB	_ <O>
+<unk>	VBD	_ <O>
+in	RP	_ <O>
+and	CC	_ <O>
+attacked	VBD	_ <O>
+directly	RB	_ <O>
+on	IN	_ <O>
+command	NN	_ <O>
+posts	NNS	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+chaos	NN	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+some	DT	<B-CUE>
+military	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+pointed	VBD	_ <O>
+out	RP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+rarely	RB	_ <O>
+use	VBP	_ <O>
+dense	JJ	_ <O>
+formation	NN	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+attacks	NNS	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+<unk>	VBZ	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+maximum	JJ	_ <O>
+damage	NN	_ <O>
+with	IN	_ <O>
+minimum	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+some	DT	<B-CUE>
+military	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+pointed	VBD	_ <O>
+out	RP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+rarely	RB	_ <O>
+use	VBP	_ <O>
+dense	JJ	_ <O>
+formation	NN	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+attacks	NNS	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+<unk>	VBZ	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+maximum	JJ	_ <O>
+damage	NN	_ <O>
+with	IN	_ <O>
+minimum	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

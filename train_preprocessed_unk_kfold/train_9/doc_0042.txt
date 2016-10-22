@@ -1,0 +1,41 @@
+NULL
+In	IN	_ <O>
+<unk>	CD	_ <O>
+the	DT	_ <O>
+American	NNP	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNPS	_ <O>
+and	CC	_ <O>
+<unk>	NNPS	_ <O>
+<unk>	VBD	_ <O>
+<unk>	NNP	_ <O>
+as	IN	_ <O>
+its	PRP$	_ <O>
+first	JJ	_ <O>
+non	NN	_ <O>
+-	HYPH	_ <O>
+American	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+<unk>	CD	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+him	PRP	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+at	IN	_ <O>
+its	PRP$	_ <O>
+Art	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

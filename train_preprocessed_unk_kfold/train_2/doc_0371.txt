@@ -1,0 +1,83 @@
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+various	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+of	IN	<I-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+all	DT	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+depend	VBP	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+tradition	NN	_ <O>
+of	IN	_ <O>
+its	PRP$	_ <O>
+location	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+larger	JJR	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+are	VBP	_ <O>
+usually	RB	_ <O>
+quite	RB	_ <O>
+large	JJ	_ <O>
+and	CC	_ <O>
+may	MD	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+entire	JJ	_ <O>
+<unk>	NN	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+sides	NNS	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+structure	NN	_ <O>
+.	.	_ <O>
+
+NULL
+At	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+extreme	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Grand	NNP	_ <O>
+Hotel	NNP	_ <O>
+on	IN	_ <O>
+<unk>	NNP	_ <O>
+Island	NNP	_ <O>
+,	,	_ <O>
+Michigan	NNP	_ <O>
+has	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+at	IN	_ <O>
+in	IN	_ <O>
+length	NN	_ <O>
+.	.	_ <O>
+
+NULL

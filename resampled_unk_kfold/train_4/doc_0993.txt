@@ -1,0 +1,140 @@
+NULL
+The	DT	_ <O>
+second	JJ	_ <O>
+subject	NN	_ <O>
+is	VBZ	_ <O>
+introduced	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+piano	NN	_ <O>
+,	,	_ <O>
+making	VBG	_ <O>
+its	PRP$	_ <O>
+way	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+expected	VBN	_ <O>
+key	NN	_ <O>
+of	IN	_ <O>
+F	NNP	_ <O>
+major	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+movement	NN	_ <O>
+is	VBZ	_ <O>
+approximately	RB	_ <O>
+10	CD	_ <O>
+minutes	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+who	WP	_ <O>
+leads	VBZ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+B	NNP	_ <O>
+flat	JJ	_ <O>
+major	JJ	_ <O>
+slow	JJ	_ <O>
+movement	NN	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+theme	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+soloist	NN	_ <O>
+with	IN	_ <O>
+material	NN	<B-CUE>
+of	IN	<I-CUE>
+a	DT	<I-CUE>
+more	RBR	<I-CUE>
+<unk>	JJ	<I-CUE>
+kind	NN	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+piano	NN	_ <O>
+employs	VBZ	_ <O>
+many	JJ	<B-CUE>
+difficult	JJ	<I-CUE>
+pianist	NN	<I-CUE>
+devices	NNS	<I-CUE>
+most	RBS	_ <O>
+notably	RB	_ <O>
+rapid	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+who	WP	_ <O>
+leads	VBZ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+B	NNP	_ <O>
+flat	JJ	_ <O>
+major	JJ	_ <O>
+slow	JJ	_ <O>
+movement	NN	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+theme	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+soloist	NN	_ <O>
+with	IN	_ <O>
+material	NN	<B-CUE>
+of	IN	<I-CUE>
+a	DT	<I-CUE>
+more	RBR	<I-CUE>
+<unk>	JJ	<I-CUE>
+kind	NN	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+piano	NN	_ <O>
+employs	VBZ	_ <O>
+many	JJ	<B-CUE>
+difficult	JJ	<I-CUE>
+pianist	NN	<I-CUE>
+devices	NNS	<I-CUE>
+most	RBS	_ <O>
+notably	RB	_ <O>
+rapid	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

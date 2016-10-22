@@ -1,0 +1,236 @@
+NULL
+Australian	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+stories	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Serpent	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+horse	NN	_ <O>
+<unk>	VBD	_ <O>
+and	CC	_ <O>
+<unk>	VBD	_ <O>
+so	RB	_ <O>
+much	RB	_ <O>
+that	IN	_ <O>
+she	PRP	_ <O>
+<unk>	VBD	_ <O>
+out	RP	_ <O>
+the	DT	_ <O>
+Grand	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Origin	NNP	_ <O>
+stories	NNS	_ <O>
+,	,	_ <O>
+explaining	VBG	_ <O>
+how	WRB	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+book	NN	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+came	VBD	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+their	PRP$	_ <O>
+special	JJ	_ <O>
+characteristics	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+,	,	_ <O>
+very	RB	_ <O>
+<unk>	RB	_ <O>
+translated	VBN	_ <O>
+into	IN	_ <O>
+"	``	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+are	VBP	_ <O>
+stories	NNS	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Literature	NNP	_ <O>
+which	WDT	_ <O>
+explain	VBP	_ <O>
+how	WRB	_ <O>
+things	NNS	_ <O>
+came	VBD	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+.	.	_ <O>
+
+NULL
+An	DT	_ <O>
+example	NN	_ <O>
+would	MD	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+Alamat	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+where	WRB	_ <O>
+a	DT	_ <O>
+girl	NN	_ <O>
+who	WP	_ <O>
+is	VBZ	_ <O>
+too	RB	_ <O>
+<unk>	JJ	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+for	IN	_ <O>
+things	NNS	_ <O>
+is	VBZ	_ <O>
+transformed	VBN	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+with	IN	_ <O>
+numerous	JJ	_ <O>
+"	``	_ <O>
+eyes	NNS	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+The	DT	_ <O>
+Just	RB	_ <O>
+So	RB	_ <O>
+Stories	NNS	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+which	WDT	<I-CUE>
+give	VB	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+origin	NN	_ <O>
+of	IN	_ <O>
+animals	NNS	_ <O>
+and	CC	_ <O>
+their	PRP$	_ <O>
+characteristics	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Certain	JJ	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+include	VBP	_ <O>
+<unk>	JJ	_ <O>
+elements	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+Bill	NNP	_ <O>
+<unk>	VBG	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+normally	RB	_ <O>
+involve	VBP	_ <O>
+people	NNS	_ <O>
+being	VBG	_ <O>
+<unk>	VBN	_ <O>
+into	IN	_ <O>
+animals	NNS	_ <O>
+and	CC	_ <O>
+plants	NNS	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+certain	JJ	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+they	PRP	_ <O>
+have	VBP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Just	RB	_ <O>
+So	RB	_ <O>
+Stories	NNS	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+which	WDT	<I-CUE>
+give	VB	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+origin	NN	_ <O>
+of	IN	_ <O>
+animals	NNS	_ <O>
+and	CC	_ <O>
+their	PRP$	_ <O>
+characteristics	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Certain	JJ	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+include	VBP	_ <O>
+<unk>	JJ	_ <O>
+elements	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+Bill	NNP	_ <O>
+<unk>	VBG	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+normally	RB	_ <O>
+involve	VBP	_ <O>
+people	NNS	_ <O>
+being	VBG	_ <O>
+<unk>	VBN	_ <O>
+into	IN	_ <O>
+animals	NNS	_ <O>
+and	CC	_ <O>
+plants	NNS	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+certain	JJ	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+they	PRP	_ <O>
+have	VBP	_ <O>
+.	.	_ <O>
+
+NULL

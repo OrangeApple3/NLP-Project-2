@@ -1,0 +1,67 @@
+The	DT	_ <O>
+primary	JJ	_ <O>
+language	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Polish	JJ	_ <O>
+population	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	JJ	_ <O>
+dialect	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+vast	JJ	_ <O>
+majority	NN	_ <O>
+of	IN	_ <O>
+Poles	NNPS	_ <O>
+using	VBG	_ <O>
+it	PRP	_ <O>
+in	IN	_ <O>
+everyday	JJ	_ <O>
+communication	NN	_ <O>
+.	.	_ <O>
+
+NULL
+European	NNP	_ <O>
+Commission	NNP	_ <O>
+2006	CD	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+Zaolzie	NNP	_ <O>
+region	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+church	NN	_ <O>
+services	NNS	_ <O>
+are	VBP	_ <O>
+conducted	VBN	_ <O>
+in	IN	_ <O>
+Polish	NNP	_ <O>
+.	.	_ <O>
+90	CD	_ <O>
+%	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+among	IN	_ <O>
+Polish	JJ	_ <O>
+secondary	JJ	_ <O>
+school	NN	_ <O>
+students	NNS	_ <O>
+are	VBP	_ <O>
+reported	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+in	IN	_ <O>
+Polish	NNP	_ <O>
+.	.	_ <O>
+
+NULL

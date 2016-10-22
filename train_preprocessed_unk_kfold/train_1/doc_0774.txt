@@ -1,0 +1,23 @@
+NULL
+According	VBG	_ <O>
+to	IN	_ <O>
+some	DT	<B-CUE>
+historians	NNS	<I-CUE>
+of	IN	<I-CUE>
+philosophy	NN	<I-CUE>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+a	DT	_ <O>
+major	JJ	<B-CUE>
+problem	NN	_ <O>
+for	IN	_ <O>
+ancient	JJ	_ <O>
+and	CC	_ <O>
+medieval	JJ	_ <O>
+philosophers	NNS	_ <O>
+.	.	_ <O>
+
+NULL

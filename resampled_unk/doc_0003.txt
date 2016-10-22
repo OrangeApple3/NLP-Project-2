@@ -1,0 +1,80 @@
+<unk>	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+many	JJ	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	<B-CUE>
+most	RBS	<I-CUE>
+famous	JJ	<I-CUE>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+Arnold	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	VBD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+<unk>	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	<B-CUE>
+most	RBS	<I-CUE>
+famous	JJ	<I-CUE>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+Arnold	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	VBD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+<unk>	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

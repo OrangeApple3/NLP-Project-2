@@ -1,0 +1,46 @@
+NULL
+'	''	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+born	VBN	_ <O>
+August	NNP	_ <O>
+13	CD	_ <O>
+,	,	_ <O>
+1979	CD	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+American	JJ	_ <O>
+<unk>	NN	_ <O>
+player	NN	_ <O>
+who	WP	_ <O>
+last	RB	_ <O>
+played	VBD	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+Baltimore	NNP	_ <O>
+<unk>	NNPS	_ <O>
+in	IN	_ <O>
+2007	CD	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+is	VBZ	_ <O>
+currently	RB	_ <O>
+a	DT	_ <O>
+free	JJ	_ <O>
+agent	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,120 @@
+NULL
+<unk>	NNP	_ <O>
+argued	VBD	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+was	VBD	_ <O>
+commonly	RB	_ <O>
+used	VBN	_ <O>
+for	IN	_ <O>
+"	``	_ <O>
+issues	NNS	_ <O>
+that	WDT	_ <O>
+<unk>	VBP	_ <O>
+to	IN	_ <O>
+one	CD	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+Over	IN	_ <O>
+the	DT	_ <O>
+previous	JJ	_ <O>
+years	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+itself	PRP	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	JJ	_ <O>
+public	NN	_ <O>
+figures	NNS	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+a	DT	_ <O>
+sticky	JJ	_ <O>
+situation	NN	_ <O>
+.	.	_ <O>
+
+NULL
+But	CC	_ <O>
+it	PRP	_ <O>
+does	VBZ	_ <O>
+n't	RB	_ <O>
+<unk>	VB	_ <O>
+to	TO	_ <O>
+say	VB	_ <O>
+you	PRP	_ <O>
+have	VBP	_ <O>
+to	TO	_ <O>
+become	VB	_ <O>
+<unk>	RB	_ <O>
+connected	VBN	_ <O>
+like	IN	_ <O>
+some	DT	_ <O>
+kind	NN	_ <O>
+of	IN	_ <O>
+"	``	_ <O>
+<unk>	NN	_ <O>
+baby	NN	_ <O>
+"	''	_ <O>
+with	IN	_ <O>
+them	PRP	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+wrote	VBD	_ <O>
+,	,	_ <O>
+“	.	_ <O>
+Same	JJ	_ <O>
+-	HYPH	_ <O>
+sex	NN	_ <O>
+marriage	NN	_ <O>
+has	VBZ	_ <O>
+generally	RB	<B-CUE>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+like	IN	_ <O>
+a	DT	_ <O>
+political	JJ	_ <O>
+"	``	_ <O>
+tar	NN	_ <O>
+baby	NN	_ <O>
+"	''	_ <O>
+over	IN	_ <O>
+the	DT	_ <O>
+past	JJ	_ <O>
+few	JJ	_ <O>
+years	NNS	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+most	JJS	<B-CUE>
+parties	NNS	<I-CUE>
+<unk>	JJ	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+up	RP	_ <O>
+highly	RB	_ <O>
+<unk>	JJ	_ <O>
+arguments	NNS	_ <O>
+touching	VBG	_ <O>
+on	IN	_ <O>
+religion	NN	_ <O>
+and	CC	_ <O>
+<unk>	RB	_ <O>
+<unk>	JJ	_ <O>
+social	JJ	_ <O>
+values	NNS	_ <O>
+.	.	_ <O>
+
+NULL

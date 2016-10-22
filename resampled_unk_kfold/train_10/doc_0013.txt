@@ -1,0 +1,108 @@
+In	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBD	_ <O>
+widely	RB	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Larger	JJR	_ <O>
+<unk>	CD	_ <O>
+<unk>	NNP	_ <O>
+pedalboards	NNS	_ <O>
+also	RB	_ <O>
+include	VBP	_ <O>
+an	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+volume	NN	_ <O>
+or	CC	_ <O>
+other	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+On	IN	_ <O>
+<unk>	JJ	_ <O>
+electronic	JJ	_ <O>
+<unk>	NNS	_ <O>
+<unk>	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+<unk>	VBN	_ <O>
+to	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+but	CC	_ <O>
+may	MD	_ <O>
+instead	RB	_ <O>
+<unk>	VB	_ <O>
+many	JJ	<B-CUE>
+<unk>	JJ	<I-CUE>
+types	NNS	<I-CUE>
+of	IN	<I-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+<unk>	JJ	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+On	IN	_ <O>
+<unk>	JJ	_ <O>
+electronic	JJ	_ <O>
+<unk>	NNS	_ <O>
+<unk>	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+<unk>	VBN	_ <O>
+to	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+but	CC	_ <O>
+may	MD	_ <O>
+instead	RB	_ <O>
+<unk>	VB	_ <O>
+many	JJ	<B-CUE>
+<unk>	JJ	<I-CUE>
+types	NNS	<I-CUE>
+of	IN	<I-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+<unk>	JJ	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

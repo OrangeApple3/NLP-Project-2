@@ -1,0 +1,89 @@
+NULL
+'	``	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+:	:	_ <O>
+this	DT	_ <O>
+glyph	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+actually	RB	_ <O>
+five	CD	_ <O>
+-	HYPH	_ <O>
+pointed	VBN	_ <O>
+in	IN	_ <O>
+some	DT	_ <O>
+fonts	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	RB	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+Arabs	NNPS	<I-CUE>
+have	VBP	_ <O>
+seen	VBN	_ <O>
+some	DT	<B-CUE>
+kind	NN	<I-CUE>
+of	IN	<I-CUE>
+Zionist	JJ	<I-CUE>
+conspiracy	NN	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+six	CD	_ <O>
+-	HYPH	_ <O>
+lobed	NN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+many	JJ	_ <O>
+traditional	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+hence	RB	_ <O>
+the	DT	_ <O>
+insistence	NN	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+non	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	JJ	_ <O>
+asterisk	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	RB	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+Arabs	NNPS	<I-CUE>
+have	VBP	_ <O>
+seen	VBN	_ <O>
+some	DT	<B-CUE>
+kind	NN	<I-CUE>
+of	IN	<I-CUE>
+Zionist	JJ	<I-CUE>
+conspiracy	NN	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+six	CD	_ <O>
+-	HYPH	_ <O>
+lobed	NN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+many	JJ	_ <O>
+traditional	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+hence	RB	_ <O>
+the	DT	_ <O>
+insistence	NN	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+non	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	JJ	_ <O>
+asterisk	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,144 @@
+Oil	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+ground	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+reserve	NN	_ <O>
+"	''	_ <O>
+unless	IN	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+claimed	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	RB	_ <O>
+recoverable	JJ	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+oil	NN	_ <O>
+is	VBZ	_ <O>
+extracted	VBN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+cost	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+<unk>	RB	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+amount	NN	_ <O>
+of	IN	_ <O>
+oil	NN	_ <O>
+remaining	VBG	_ <O>
+is	VBZ	_ <O>
+reduced	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+recovery	NN	_ <O>
+factor	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+percentage	NN	_ <O>
+of	IN	_ <O>
+oil	NN	_ <O>
+in	IN	_ <O>
+place	NN	_ <O>
+which	WDT	_ <O>
+is	VBZ	<B-CUE>
+expected	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+economically	RB	_ <O>
+recoverable	JJ	_ <O>
+under	IN	_ <O>
+a	DT	_ <O>
+given	VBN	_ <O>
+set	NN	_ <O>
+of	IN	_ <O>
+conditions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Oil	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+ground	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+reserve	NN	_ <O>
+"	''	_ <O>
+unless	IN	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+claimed	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	RB	_ <O>
+recoverable	JJ	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+oil	NN	_ <O>
+is	VBZ	_ <O>
+extracted	VBN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+cost	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+<unk>	RB	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+amount	NN	_ <O>
+of	IN	_ <O>
+oil	NN	_ <O>
+remaining	VBG	_ <O>
+is	VBZ	_ <O>
+reduced	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+recovery	NN	_ <O>
+factor	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+percentage	NN	_ <O>
+of	IN	_ <O>
+oil	NN	_ <O>
+in	IN	_ <O>
+place	NN	_ <O>
+which	WDT	_ <O>
+is	VBZ	<B-CUE>
+expected	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+economically	RB	_ <O>
+recoverable	JJ	_ <O>
+under	IN	_ <O>
+a	DT	_ <O>
+given	VBN	_ <O>
+set	NN	_ <O>
+of	IN	_ <O>
+conditions	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,75 @@
+NULL
+'	``	_ <O>
+Russian	JJ	_ <O>
+culture	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+one	CD	_ <O>
+that	WDT	_ <O>
+is	VBZ	_ <O>
+rich	JJ	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Russians	NNPS	_ <O>
+have	VBP	_ <O>
+a	DT	_ <O>
+rich	JJ	_ <O>
+cuisine	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Russian	JJ	_ <O>
+art	NN	_ <O>
+is	VBZ	<B-CUE>
+considered	VBN	<I-CUE>
+by	IN	_ <O>
+some	DT	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+very	RB	_ <O>
+interesting	JJ	_ <O>
+and	CC	_ <O>
+unique	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Russians	NNPS	_ <O>
+are	VBP	<B-CUE>
+also	RB	<I-CUE>
+known	VBN	<I-CUE>
+for	IN	_ <O>
+their	PRP$	_ <O>
+sense	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Russian	JJ	_ <O>
+literature	NN	_ <O>
+was	VBD	_ <O>
+greatly	RB	<B-CUE>
+influential	JJ	_ <O>
+to	IN	_ <O>
+world	NN	_ <O>
+literature	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Russians	NNPS	_ <O>
+also	RB	_ <O>
+gave	VBD	_ <O>
+the	DT	_ <O>
+classical	JJ	_ <O>
+music	NN	_ <O>
+world	NN	_ <O>
+some	DT	<B-CUE>
+very	RB	<I-CUE>
+famous	JJ	<I-CUE>
+composers	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

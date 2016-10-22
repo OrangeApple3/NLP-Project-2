@@ -1,0 +1,27 @@
+NULL
+It	PRP	_ <O>
+was	VBD	<B-CUE>
+formerly	RB	<I-CUE>
+known	VBN	<I-CUE>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+see	VB	_ <O>
+anorexia	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	<B-CUE>
+formerly	RB	<I-CUE>
+known	VBN	<I-CUE>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+see	VB	_ <O>
+anorexia	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

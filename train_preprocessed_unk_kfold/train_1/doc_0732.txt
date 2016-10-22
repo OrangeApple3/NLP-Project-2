@@ -1,0 +1,69 @@
+NULL
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+an	DT	_ <O>
+<unk>	VBG	_ <O>
+poet	NN	_ <O>
+and	CC	_ <O>
+published	VBD	_ <O>
+various	JJ	_ <O>
+collections	NNS	_ <O>
+of	IN	_ <O>
+poems	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+a	DT	_ <O>
+complete	JJ	_ <O>
+edition	NN	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Like	IN	_ <O>
+other	JJ	_ <O>
+fellow	JJ	_ <O>
+Southern	NNP	_ <O>
+poets	NNS	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+day	NN	_ <O>
+,	,	_ <O>
+his	PRP$	_ <O>
+work	NN	_ <O>
+was	VBD	_ <O>
+highly	RB	_ <O>
+descriptive	JJ	_ <O>
+of	IN	_ <O>
+nature	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+critics	NNS	<I-CUE>
+contend	VB	_ <O>
+that	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	JJ	_ <O>
+lyrics	NNS	_ <O>
+reflect	VBP	_ <O>
+the	DT	_ <O>
+influence	NN	_ <O>
+of	IN	_ <O>
+poet	NN	_ <O>
+John	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Hayne	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	<B-CUE>
+considered	VBN	<I-CUE>
+his	PRP$	_ <O>
+best	JJS	<B-CUE>
+work	NN	_ <O>
+.	.	_ <O>
+
+NULL

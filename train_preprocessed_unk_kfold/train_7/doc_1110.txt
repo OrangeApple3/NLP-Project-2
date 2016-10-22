@@ -1,0 +1,66 @@
+NULL
+The	DT	_ <O>
+puzzle	NN	_ <O>
+piece	NN	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+some	DT	<B-CUE>
+autism	NN	<I-CUE>
+societies	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+<unk>	JJ	<I-CUE>
+adults	NNS	<I-CUE>
+find	VB	_ <O>
+this	DT	_ <O>
+ribbon	NN	_ <O>
+offensive	JJ	_ <O>
+and	CC	_ <O>
+<unk>	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+people	NNS	<I-CUE>
+have	VB	_ <O>
+the	DT	_ <O>
+goal	NN	_ <O>
+of	IN	_ <O>
+eliminating	VBG	_ <O>
+autism	NN	_ <O>
+completely	RB	_ <O>
+;	:	_ <O>
+since	IN	_ <O>
+those	DT	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+autism	NN	_ <O>
+rights	NNS	_ <O>
+movement	NN	_ <O>
+see	VBP	_ <O>
+autism	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+natural	JJ	_ <O>
+human	NN	_ <O>
+variation	NN	_ <O>
+and	CC	_ <O>
+not	RB	_ <O>
+a	DT	_ <O>
+disorder	NN	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+opposed	VBN	_ <O>
+to	IN	_ <O>
+attempts	NNS	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+autism	NN	_ <O>
+.	.	_ <O>
+
+NULL

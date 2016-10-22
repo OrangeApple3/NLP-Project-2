@@ -1,0 +1,249 @@
+Like	IN	_ <O>
+<unk>	NNP	_ <O>
+Churchill	NNP	_ <O>
+,	,	_ <O>
+Reynaud	NNP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+maverick	NN	_ <O>
+in	IN	_ <O>
+his	PRP$	_ <O>
+party	NN	_ <O>
+and	CC	_ <O>
+often	RB	_ <O>
+alone	RB	_ <O>
+in	IN	_ <O>
+his	PRP$	_ <O>
+calls	NNS	_ <O>
+for	IN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+resistance	NN	_ <O>
+to	IN	_ <O>
+German	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+Pierre	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+leader	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Alliance	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+agreed	VBD	_ <O>
+with	IN	_ <O>
+several	JJ	_ <O>
+of	IN	_ <O>
+Reynaud	NNP	_ <O>
+'s	POS	_ <O>
+key	JJ	_ <O>
+policy	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+particularly	RB	_ <O>
+on	IN	_ <O>
+Reynaud	NNP	_ <O>
+'s	POS	_ <O>
+defense	NN	_ <O>
+of	IN	_ <O>
+economic	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+held	VBD	_ <O>
+several	JJ	<B-CUE>
+cabinet	NN	<I-CUE>
+posts	NNS	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+1930s	CD	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+with	IN	_ <O>
+members	NNS	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+party	NN	_ <O>
+after	IN	_ <O>
+1932	CD	_ <O>
+over	IN	_ <O>
+French	JJ	_ <O>
+foreign	JJ	_ <O>
+and	CC	_ <O>
+defense	NN	_ <O>
+policy	NN	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+not	RB	_ <O>
+given	VBN	_ <O>
+another	DT	_ <O>
+cabinet	NN	_ <O>
+position	NN	_ <O>
+until	IN	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Reynaud	NNP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Charles	NNP	_ <O>
+de	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+theories	NNS	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+warfare	NN	_ <O>
+in	IN	_ <O>
+contrast	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+static	JJ	_ <O>
+defense	NN	_ <O>
+<unk>	NNS	_ <O>
+that	WDT	_ <O>
+were	VBD	_ <O>
+in	IN	_ <O>
+vogue	NN	_ <O>
+among	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Line	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+opponent	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+run	NN	_ <O>
+-	HYPH	_ <O>
+up	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Second	NNP	_ <O>
+World	NNP	_ <O>
+War	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+held	VBD	_ <O>
+several	JJ	<B-CUE>
+cabinet	NN	<I-CUE>
+posts	NNS	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+1930s	CD	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+with	IN	_ <O>
+members	NNS	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+party	NN	_ <O>
+after	IN	_ <O>
+1932	CD	_ <O>
+over	IN	_ <O>
+French	JJ	_ <O>
+foreign	JJ	_ <O>
+and	CC	_ <O>
+defense	NN	_ <O>
+policy	NN	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+not	RB	_ <O>
+given	VBN	_ <O>
+another	DT	_ <O>
+cabinet	NN	_ <O>
+position	NN	_ <O>
+until	IN	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Reynaud	NNP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Charles	NNP	_ <O>
+de	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+theories	NNS	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+warfare	NN	_ <O>
+in	IN	_ <O>
+contrast	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+static	JJ	_ <O>
+defense	NN	_ <O>
+<unk>	NNS	_ <O>
+that	WDT	_ <O>
+were	VBD	_ <O>
+in	IN	_ <O>
+vogue	NN	_ <O>
+among	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Line	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+an	DT	_ <O>
+<unk>	JJ	_ <O>
+opponent	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+run	NN	_ <O>
+-	HYPH	_ <O>
+up	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Second	NNP	_ <O>
+World	NNP	_ <O>
+War	NNP	_ <O>
+.	.	_ <O>
+
+NULL

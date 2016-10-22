@@ -1,0 +1,157 @@
+NULL
+Chomsky	NNP	_ <O>
+is	VBZ	_ <O>
+deeply	RB	_ <O>
+critical	JJ	_ <O>
+of	IN	_ <O>
+what	WP	_ <O>
+he	PRP	_ <O>
+calls	VBZ	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+corporate	JJ	_ <O>
+state	NN	_ <O>
+<unk>	NN	_ <O>
+"	''	_ <O>
+that	WDT	_ <O>
+he	PRP	_ <O>
+believes	VBZ	_ <O>
+is	VBZ	_ <O>
+practiced	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+western	JJ	_ <O>
+states	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+supports	VBZ	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+<unk>	NNP	<I-CUE>
+<unk>	NNP	<I-CUE>
+'s	POS	<I-CUE>
+<unk>	NN	<I-CUE>
+(	-LRB-	<I-CUE>
+or	CC	<I-CUE>
+<unk>	JJ	<I-CUE>
+socialist	JJ	<I-CUE>
+)	-RRB-	<I-CUE>
+ideas	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+has	VBZ	_ <O>
+said	VBN	_ <O>
+that	IN	_ <O>
+contrary	JJ	_ <O>
+to	IN	_ <O>
+what	WP	_ <O>
+many	JJ	<B-CUE>
+in	IN	_ <O>
+America	NNP	_ <O>
+claim	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Soviet	NNP	_ <O>
+Union	NNP	_ <O>
+should	MD	_ <O>
+be	VB	_ <O>
+regarded	VBN	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+a	DT	_ <O>
+small	JJ	_ <O>
+victory	NN	_ <O>
+for	IN	_ <O>
+socialism	NN	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+not	RB	_ <O>
+capitalism	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Chomsky	NNP	_ <O>
+was	VBD	_ <O>
+also	RB	_ <O>
+impressed	VBN	_ <O>
+with	IN	_ <O>
+socialism	NN	_ <O>
+as	RB	_ <O>
+practiced	VBD	_ <O>
+in	IN	_ <O>
+Vietnam	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+a	DT	_ <O>
+speech	NN	_ <O>
+given	VBN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+on	IN	_ <O>
+April	NNP	_ <O>
+13	CD	_ <O>
+,	,	_ <O>
+1970	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+broadcast	VBN	_ <O>
+by	IN	_ <O>
+Radio	NNP	_ <O>
+Hanoi	NNP	_ <O>
+the	DT	_ <O>
+next	JJ	_ <O>
+day	NN	_ <O>
+,	,	_ <O>
+Chomsky	NNP	_ <O>
+<unk>	VBD	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+"	``	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+people	NNS	_ <O>
+of	IN	_ <O>
+Vietnam	NNP	_ <O>
+who	WP	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+defend	VB	_ <O>
+themselves	PRP	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+attack	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+time	NN	_ <O>
+take	VB	_ <O>
+great	JJ	_ <O>
+<unk>	NNS	_ <O>
+forward	RB	_ <O>
+toward	IN	_ <O>
+the	DT	_ <O>
+socialist	JJ	_ <O>
+society	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

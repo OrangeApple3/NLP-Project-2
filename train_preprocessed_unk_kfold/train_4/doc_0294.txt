@@ -1,0 +1,142 @@
+NULL
+That	DT	_ <O>
+same	JJ	_ <O>
+year	NN	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+released	VBD	_ <O>
+what	WP	_ <O>
+has	VBZ	_ <O>
+become	VBN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+best	RBS	_ <O>
+-	HYPH	_ <O>
+selling	VBG	_ <O>
+albums	NNS	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+True	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL
+Yet	CC	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	JJ	_ <O>
+production	NN	_ <O>
+work	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+album	NN	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+departure	NN	_ <O>
+in	IN	_ <O>
+style	NN	_ <O>
+and	CC	_ <O>
+sound	NN	_ <O>
+for	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+while	IN	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+album	NN	_ <O>
+'s	POS	_ <O>
+material	NN	_ <O>
+<unk>	VBZ	_ <O>
+the	DT	_ <O>
+production	NN	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+would	MD	_ <O>
+prove	VB	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+Keaggy	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	JJ	_ <O>
+work	NN	_ <O>
+with	IN	_ <O>
+Shacklock	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Years	NNS	_ <O>
+later	RB	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+reflecting	VBG	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+album	NN	_ <O>
+,	,	_ <O>
+Keaggy	NNP	_ <O>
+would	MD	_ <O>
+say	VB	_ <O>
+that	IN	_ <O>
+'	``	_ <O>
+True	JJ	_ <O>
+Believer	NN	_ <O>
+'	''	_ <O>
+"	''	_ <O>
+is	VBZ	_ <O>
+<unk>	RB	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+unlike	IN	_ <O>
+<unk>	PRP	_ <O>
+of	IN	_ <O>
+any	DT	_ <O>
+album	NN	_ <O>
+<unk>	PRP	_ <O>
+ever	RB	_ <O>
+done	VBN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+<unk>	PRP$	_ <O>
+personal	JJ	_ <O>
+opinion	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Despite	IN	_ <O>
+the	DT	_ <O>
+production	NN	_ <O>
+issues	NNS	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+album	NN	<I-CUE>
+'s	POS	<I-CUE>
+songs	NNS	<I-CUE>
+remain	VBP	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+title	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+Salvation	NNP	_ <O>
+Army	NNP	_ <O>
+Band	NNP	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+The	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

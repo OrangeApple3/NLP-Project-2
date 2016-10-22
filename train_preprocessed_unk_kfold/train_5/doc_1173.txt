@@ -1,0 +1,21 @@
+NULL
+Some	DT	<B-CUE>
+may	MD	_ <O>
+find	VB	_ <O>
+the	DT	_ <O>
+scientific	JJ	_ <O>
+method	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+path	NN	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+goal	NN	_ <O>
+of	IN	_ <O>
+gaining	VBG	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,124 @@
+NULL
+The	DT	_ <O>
+freedom	NN	_ <O>
+allowed	VBN	_ <O>
+by	IN	_ <O>
+using	VBG	_ <O>
+computer	NN	_ <O>
+-	HYPH	_ <O>
+generated	VBN	_ <O>
+<unk>	NN	_ <O>
+allows	VBZ	_ <O>
+<unk>	JJ	_ <O>
+(	-LRB-	_ <O>
+<unk>	JJ	_ <O>
+)	-RRB-	_ <O>
+artists	NNS	_ <O>
+to	TO	_ <O>
+create	VB	_ <O>
+scenes	NNS	_ <O>
+or	CC	_ <O>
+<unk>	NNS	_ <O>
+that	WDT	_ <O>
+would	MD	_ <O>
+not	RB	_ <O>
+be	VB	_ <O>
+possible	JJ	_ <O>
+(	-LRB-	_ <O>
+or	CC	_ <O>
+legal	JJ	_ <O>
+)	-RRB-	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+live	JJ	_ <O>
+action	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Therefore	RB	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+<unk>	NNP	<I-CUE>
+pornographic	JJ	<I-CUE>
+artists	NNS	<I-CUE>
+<unk>	VB	_ <O>
+to	TO	_ <O>
+create	VB	_ <O>
+<unk>	JJ	_ <O>
+scenes	NNS	_ <O>
+that	WDT	_ <O>
+may	MD	<B-CUE>
+feature	NN	_ <O>
+animals	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+or	CC	_ <O>
+supernatural	JJ	_ <O>
+elements	NNS	_ <O>
+or	CC	_ <O>
+far	RB	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+<unk>	NNP	_ <O>
+scenarios	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Violent	JJ	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+imagery	NN	_ <O>
+may	MD	<B-CUE>
+also	RB	_ <O>
+be	VB	_ <O>
+seen	VBN	_ <O>
+in	IN	_ <O>
+such	JJ	_ <O>
+computer	NN	_ <O>
+-	HYPH	_ <O>
+generated	VBN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Another	DT	_ <O>
+popular	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Poser	NNP	_ <O>
+porn	NN	_ <O>
+that	WDT	_ <O>
+<unk>	VBZ	_ <O>
+the	DT	_ <O>
+freedom	NN	_ <O>
+of	IN	_ <O>
+computer	NN	_ <O>
+-	HYPH	_ <O>
+generated	VBN	_ <O>
+porn	NN	_ <O>
+appeals	NNS	_ <O>
+to	IN	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+this	DT	_ <O>
+form	NN	_ <O>
+of	IN	_ <O>
+Poser	NNP	_ <O>
+porn	NN	_ <O>
+falls	VBZ	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+category	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

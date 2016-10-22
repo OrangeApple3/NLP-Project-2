@@ -1,0 +1,92 @@
+NULL
+Such	JJ	_ <O>
+views	NNS	_ <O>
+make	VBP	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+every	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+at	IN	_ <O>
+its	PRP$	_ <O>
+root	NN	_ <O>
+a	DT	_ <O>
+singular	JJ	_ <O>
+predication	NN	_ <O>
+,	,	_ <O>
+thus	RB	_ <O>
+making	VBG	_ <O>
+it	PRP	_ <O>
+possible	JJ	_ <O>
+to	TO	_ <O>
+apply	VB	_ <O>
+the	DT	_ <O>
+framework	NN	_ <O>
+of	IN	_ <O>
+standard	JJ	_ <O>
+first	JJ	_ <O>
+-	HYPH	_ <O>
+order	NN	_ <O>
+logic	NN	_ <O>
+.	.	_ <O>
+
+NULL
+No	DT	_ <O>
+set	NN	_ <O>
+ever	RB	_ <O>
+<unk>	VBZ	_ <O>
+a	DT	_ <O>
+building	NN	_ <O>
+,	,	_ <O>
+though	IN	_ <O>
+its	PRP$	_ <O>
+members	NNS	_ <O>
+may	MD	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+fact	NN	_ <O>
+that	IN	_ <O>
+some	DT	_ <O>
+individuals	NNS	_ <O>
+are	VBP	_ <O>
+surrounding	VBG	_ <O>
+a	DT	_ <O>
+building	NN	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+automatically	RB	_ <O>
+imply	VB	_ <O>
+that	IN	_ <O>
+some	DT	_ <O>
+single	JJ	_ <O>
+individual	NN	_ <O>
+(	-LRB-	_ <O>
+of	IN	_ <O>
+any	DT	_ <O>
+kind	NN	_ <O>
+)	-RRB-	_ <O>
+surrounds	VBZ	_ <O>
+the	DT	_ <O>
+building	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Plural	JJ	_ <O>
+<unk>	NN	_ <O>
+phrases	NNS	_ <O>
+can	MD	_ <O>
+refer	VB	_ <O>
+to	IN	_ <O>
+several	JJ	<B-CUE>
+things	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

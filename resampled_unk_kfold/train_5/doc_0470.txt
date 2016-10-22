@@ -1,0 +1,111 @@
+NULL
+Economic	JJ	_ <O>
+activity	NN	_ <O>
+that	WDT	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+result	VB	_ <O>
+in	IN	_ <O>
+monetary	JJ	_ <O>
+income	NN	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+services	NNS	_ <O>
+provided	VBN	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+family	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+for	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+are	VBP	_ <O>
+usually	RB	_ <O>
+not	RB	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+per	FW	_ <O>
+capita	FW	_ <O>
+income	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+majority	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+population	NN	_ <O>
+,	,	_ <O>
+using	VBG	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+income	NN	_ <O>
+or	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+welfare	NN	_ <O>
+function	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+more	RBR	_ <O>
+appropriate	JJ	_ <O>
+approach	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+importance	NN	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+services	NNS	_ <O>
+will	MD	_ <O>
+vary	VB	_ <O>
+widely	RB	_ <O>
+between	IN	_ <O>
+different	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+both	DT	_ <O>
+between	IN	_ <O>
+countries	NNS	_ <O>
+and	CC	_ <O>
+among	IN	_ <O>
+different	JJ	<B-CUE>
+groups	NNS	<I-CUE>
+within	IN	<I-CUE>
+a	DT	<I-CUE>
+country	NN	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+importance	NN	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+services	NNS	_ <O>
+will	MD	_ <O>
+vary	VB	_ <O>
+widely	RB	_ <O>
+between	IN	_ <O>
+different	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+both	DT	_ <O>
+between	IN	_ <O>
+countries	NNS	_ <O>
+and	CC	_ <O>
+among	IN	_ <O>
+different	JJ	<B-CUE>
+groups	NNS	<I-CUE>
+within	IN	<I-CUE>
+a	DT	<I-CUE>
+country	NN	<I-CUE>
+.	.	_ <O>
+
+NULL

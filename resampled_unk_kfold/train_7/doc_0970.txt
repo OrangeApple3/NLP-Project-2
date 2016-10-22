@@ -1,0 +1,45 @@
+NULL
+Foods	NNS	_ <O>
+high	JJ	_ <O>
+in	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+limited	JJ	<B-CUE>
+or	CC	_ <O>
+replaced	VBN	_ <O>
+with	IN	_ <O>
+foods	NNS	_ <O>
+containing	VBG	_ <O>
+a	DT	_ <O>
+higher	JJR	_ <O>
+percentage	NN	_ <O>
+of	IN	_ <O>
+proteins	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Foods	NNS	_ <O>
+high	JJ	_ <O>
+in	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+limited	JJ	<B-CUE>
+or	CC	_ <O>
+replaced	VBN	_ <O>
+with	IN	_ <O>
+foods	NNS	_ <O>
+containing	VBG	_ <O>
+a	DT	_ <O>
+higher	JJR	_ <O>
+percentage	NN	_ <O>
+of	IN	_ <O>
+proteins	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

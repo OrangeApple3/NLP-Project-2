@@ -1,0 +1,146 @@
+NULL
+Mary	NNP	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+shown	VBN	_ <O>
+as	IN	_ <O>
+being	VBG	_ <O>
+<unk>	RB	_ <O>
+faithful	JJ	_ <O>
+towards	IN	_ <O>
+Christ	NNP	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+during	IN	_ <O>
+his	PRP$	_ <O>
+Passion	NN	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+abandoned	VBN	_ <O>
+by	IN	_ <O>
+His	PRP$	_ <O>
+followers	NNS	_ <O>
+,	,	_ <O>
+even	RB	_ <O>
+the	DT	_ <O>
+apostles	NNS	_ <O>
+(	-LRB-	_ <O>
+apart	RB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+young	JJ	_ <O>
+John	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Mary	NNP	_ <O>
+'s	POS	_ <O>
+complete	JJ	_ <O>
+<unk>	NN	_ <O>
+could	MD	<B-CUE>
+be	VB	_ <O>
+the	DT	_ <O>
+fruit	NN	_ <O>
+of	IN	_ <O>
+being	VBG	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+she	PRP	_ <O>
+could	MD	_ <O>
+not	RB	_ <O>
+then	RB	_ <O>
+<unk>	VB	_ <O>
+Christ	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+hour	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+support	NN	_ <O>
+to	IN	_ <O>
+this	DT	_ <O>
+doctrine	NN	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+also	RB	<I-CUE>
+does	VBZ	<I-CUE>
+not	RB	<I-CUE>
+appear	VB	<I-CUE>
+fit	JJ	<I-CUE>
+that	IN	_ <O>
+Christ	NNP	_ <O>
+,	,	_ <O>
+God	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+should	MD	_ <O>
+be	VB	_ <O>
+born	VBN	_ <O>
+in	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Mary	NNP	_ <O>
+'s	POS	_ <O>
+complete	JJ	_ <O>
+<unk>	NN	_ <O>
+could	MD	<B-CUE>
+be	VB	_ <O>
+the	DT	_ <O>
+fruit	NN	_ <O>
+of	IN	_ <O>
+being	VBG	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+she	PRP	_ <O>
+could	MD	_ <O>
+not	RB	_ <O>
+then	RB	_ <O>
+<unk>	VB	_ <O>
+Christ	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJS	_ <O>
+hour	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+support	NN	_ <O>
+to	IN	_ <O>
+this	DT	_ <O>
+doctrine	NN	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+also	RB	<I-CUE>
+does	VBZ	<I-CUE>
+not	RB	<I-CUE>
+appear	VB	<I-CUE>
+fit	JJ	<I-CUE>
+that	IN	_ <O>
+Christ	NNP	_ <O>
+,	,	_ <O>
+God	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+should	MD	_ <O>
+be	VB	_ <O>
+born	VBN	_ <O>
+in	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

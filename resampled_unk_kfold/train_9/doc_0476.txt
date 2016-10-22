@@ -1,0 +1,88 @@
+NULL
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+people	NNS	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+mainly	RB	_ <O>
+<unk>	VBP	_ <O>
+the	DT	_ <O>
+population	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+are	VBP	_ <O>
+the	DT	_ <O>
+common	JJ	_ <O>
+ornaments	NNS	_ <O>
+they	PRP	_ <O>
+show	VBP	_ <O>
+off	RP	_ <O>
+at	IN	_ <O>
+this	DT	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+said	VBN	<I-CUE>
+that	IN	_ <O>
+Bharias	NNP	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+living	VBG	_ <O>
+here	RB	_ <O>
+for	IN	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+500	CD	_ <O>
+years	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+said	VBN	<I-CUE>
+that	IN	_ <O>
+Bharias	NNP	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+living	VBG	_ <O>
+here	RB	_ <O>
+for	IN	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+500	CD	_ <O>
+years	NNS	_ <O>
+.	.	_ <O>
+
+NULL

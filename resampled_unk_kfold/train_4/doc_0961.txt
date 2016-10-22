@@ -1,0 +1,95 @@
+NULL
+For	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+web	NN	_ <O>
+server	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+listening	VBG	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+port	NN	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	CD	_ <O>
+for	IN	_ <O>
+traffic	NN	_ <O>
+redirected	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+restricted	VBN	_ <O>
+port	NN	_ <O>
+80	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Running	VBG	_ <O>
+as	IN	_ <O>
+root	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+security	NN	_ <O>
+risk	NN	_ <O>
+,	,	_ <O>
+so	RB	_ <O>
+some	DT	<B-CUE>
+people	NNS	<I-CUE>
+use	NN	_ <O>
+port	NN	_ <O>
+forwarding	VBG	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	JJ	_ <O>
+traffic	NN	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+low	JJ	_ <O>
+numbered	JJ	_ <O>
+port	NN	_ <O>
+to	TO	_ <O>
+software	VB	_ <O>
+<unk>	VBG	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+higher	JJR	_ <O>
+port	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Running	VBG	_ <O>
+as	IN	_ <O>
+root	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+security	NN	_ <O>
+risk	NN	_ <O>
+,	,	_ <O>
+so	RB	_ <O>
+some	DT	<B-CUE>
+people	NNS	<I-CUE>
+use	NN	_ <O>
+port	NN	_ <O>
+forwarding	VBG	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+<unk>	JJ	_ <O>
+traffic	NN	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+low	JJ	_ <O>
+numbered	JJ	_ <O>
+port	NN	_ <O>
+to	TO	_ <O>
+software	VB	_ <O>
+<unk>	VBG	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+higher	JJR	_ <O>
+port	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,187 @@
+NULL
+The	DT	_ <O>
+concepts	NNS	_ <O>
+of	IN	_ <O>
+environmental	JJ	_ <O>
+economics	NNS	_ <O>
+come	VBP	_ <O>
+into	IN	_ <O>
+play	NN	_ <O>
+with	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+aspects	NNS	<I-CUE>
+suggested	VBD	<I-CUE>
+.	.	_ <O>
+
+NULL
+With	IN	_ <O>
+the	DT	_ <O>
+subsequent	JJ	_ <O>
+increase	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+used	VBN	_ <O>
+-	HYPH	_ <O>
+goods	NNS	_ <O>
+market	NN	_ <O>
+(	-LRB-	_ <O>
+and	CC	_ <O>
+with	IN	_ <O>
+new	JJ	_ <O>
+goods	NNS	_ <O>
+being	VBG	_ <O>
+<unk>	VBN	_ <O>
+)	-RRB-	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+suspected	VBN	<I-CUE>
+that	IN	_ <O>
+people	NNS	<B-CUE>
+would	MD	_ <O>
+put	VB	_ <O>
+more	JJR	_ <O>
+emphasis	NN	_ <O>
+on	IN	_ <O>
+maintenance	NN	_ <O>
+of	IN	_ <O>
+things	NNS	_ <O>
+for	IN	_ <O>
+longer	JJR	_ <O>
+use	NN	_ <O>
+and	CC	_ <O>
+better	JJR	_ <O>
+<unk>	NN	_ <O>
+value	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+that	IN	_ <O>
+they	PRP	<B-CUE>
+may	MD	<B-CUE>
+also	RB	_ <O>
+shy	VBP	_ <O>
+away	RB	_ <O>
+from	IN	_ <O>
+<unk>	JJ	_ <O>
+goods	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+may	MD	<B-CUE>
+reduce	VB	_ <O>
+international	JJ	_ <O>
+shipping	NN	_ <O>
+and	CC	_ <O>
+consequent	JJ	_ <O>
+environmental	JJ	_ <O>
+impact	NN	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+production	NN	_ <O>
+in	IN	_ <O>
+countries	NNS	_ <O>
+with	IN	_ <O>
+less	RBR	_ <O>
+<unk>	JJ	_ <O>
+pollution	NN	_ <O>
+controls	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+concepts	NNS	_ <O>
+of	IN	_ <O>
+environmental	JJ	_ <O>
+economics	NNS	_ <O>
+come	VBP	_ <O>
+into	IN	_ <O>
+play	NN	_ <O>
+with	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+aspects	NNS	<I-CUE>
+suggested	VBD	<I-CUE>
+.	.	_ <O>
+
+NULL
+With	IN	_ <O>
+the	DT	_ <O>
+subsequent	JJ	_ <O>
+increase	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+used	VBN	_ <O>
+-	HYPH	_ <O>
+goods	NNS	_ <O>
+market	NN	_ <O>
+(	-LRB-	_ <O>
+and	CC	_ <O>
+with	IN	_ <O>
+new	JJ	_ <O>
+goods	NNS	_ <O>
+being	VBG	_ <O>
+<unk>	VBN	_ <O>
+)	-RRB-	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+suspected	VBN	<I-CUE>
+that	IN	_ <O>
+people	NNS	<B-CUE>
+would	MD	_ <O>
+put	VB	_ <O>
+more	JJR	_ <O>
+emphasis	NN	_ <O>
+on	IN	_ <O>
+maintenance	NN	_ <O>
+of	IN	_ <O>
+things	NNS	_ <O>
+for	IN	_ <O>
+longer	JJR	_ <O>
+use	NN	_ <O>
+and	CC	_ <O>
+better	JJR	_ <O>
+<unk>	NN	_ <O>
+value	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+that	IN	_ <O>
+they	PRP	<B-CUE>
+may	MD	<B-CUE>
+also	RB	_ <O>
+shy	VBP	_ <O>
+away	RB	_ <O>
+from	IN	_ <O>
+<unk>	JJ	_ <O>
+goods	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+may	MD	<B-CUE>
+reduce	VB	_ <O>
+international	JJ	_ <O>
+shipping	NN	_ <O>
+and	CC	_ <O>
+consequent	JJ	_ <O>
+environmental	JJ	_ <O>
+impact	NN	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+production	NN	_ <O>
+in	IN	_ <O>
+countries	NNS	_ <O>
+with	IN	_ <O>
+less	RBR	_ <O>
+<unk>	JJ	_ <O>
+pollution	NN	_ <O>
+controls	NNS	_ <O>
+.	.	_ <O>
+
+NULL

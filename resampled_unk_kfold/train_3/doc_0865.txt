@@ -1,0 +1,156 @@
+From	IN	_ <O>
+then	RB	_ <O>
+on	IN	_ <O>
+he	PRP	_ <O>
+started	VBD	_ <O>
+to	TO	_ <O>
+play	VB	_ <O>
+and	CC	_ <O>
+recite	VB	_ <O>
+poems	NNS	_ <O>
+in	IN	_ <O>
+local	JJ	_ <O>
+parties	NNS	_ <O>
+and	CC	_ <O>
+became	VBD	_ <O>
+more	RBR	_ <O>
+and	CC	_ <O>
+more	RBR	_ <O>
+popular	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+region	NN	_ <O>
+is	VBZ	_ <O>
+famous	JJ	_ <O>
+for	IN	_ <O>
+being	VBG	_ <O>
+the	DT	_ <O>
+place	NN	_ <O>
+of	IN	_ <O>
+origin	NN	_ <O>
+of	IN	_ <O>
+most	JJS	<B-CUE>
+<unk>	JJ	<I-CUE>
+oral	JJ	<I-CUE>
+<unk>	SYM	<I-CUE>
+folk	NN	<I-CUE>
+traditions	NNS	<I-CUE>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+for	IN	_ <O>
+presenting	VBG	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+biggest	JJS	<I-CUE>
+social	JJ	_ <O>
+gaps	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+country	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+many	JJ	<B-CUE>
+<unk>	JJ	<I-CUE>
+communities	NNS	<I-CUE>
+living	VBG	_ <O>
+in	IN	_ <O>
+extreme	JJ	_ <O>
+poverty	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+On	IN	_ <O>
+his	PRP$	_ <O>
+way	NN	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+he	PRP	_ <O>
+met	VBD	_ <O>
+the	DT	_ <O>
+famous	JJ	<B-CUE>
+popular	JJ	<B-CUE>
+poet	NN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+region	NN	_ <O>
+is	VBZ	_ <O>
+famous	JJ	_ <O>
+for	IN	_ <O>
+being	VBG	_ <O>
+the	DT	_ <O>
+place	NN	_ <O>
+of	IN	_ <O>
+origin	NN	_ <O>
+of	IN	_ <O>
+most	JJS	<B-CUE>
+<unk>	JJ	<I-CUE>
+oral	JJ	<I-CUE>
+<unk>	SYM	<I-CUE>
+folk	NN	<I-CUE>
+traditions	NNS	<I-CUE>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+for	IN	_ <O>
+presenting	VBG	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+biggest	JJS	<I-CUE>
+social	JJ	_ <O>
+gaps	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+country	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+many	JJ	<B-CUE>
+<unk>	JJ	<I-CUE>
+communities	NNS	<I-CUE>
+living	VBG	_ <O>
+in	IN	_ <O>
+extreme	JJ	_ <O>
+poverty	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+On	IN	_ <O>
+his	PRP$	_ <O>
+way	NN	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+he	PRP	_ <O>
+met	VBD	_ <O>
+the	DT	_ <O>
+famous	JJ	<B-CUE>
+popular	JJ	<B-CUE>
+poet	NN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

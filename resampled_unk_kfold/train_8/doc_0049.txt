@@ -1,0 +1,86 @@
+The	DT	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	PRP	_ <O>
+will	MD	_ <O>
+come	VB	_ <O>
+<unk>	IN	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+some	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBZ	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Mizoram	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	<B-CUE>
+believed	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBZ	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Mizoram	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	<B-CUE>
+believed	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

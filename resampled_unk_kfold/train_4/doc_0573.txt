@@ -1,0 +1,79 @@
+Islam	NNP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+religion	NN	_ <O>
+and	CC	_ <O>
+according	VBG	_ <O>
+to	IN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+all	DT	_ <O>
+people	NNS	_ <O>
+are	VBP	_ <O>
+children	NNS	_ <O>
+of	IN	_ <O>
+Adam	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+considered	VBN	_ <O>
+the	DT	_ <O>
+enemy	NN	_ <O>
+of	IN	_ <O>
+humanity	NN	_ <O>
+,	,	_ <O>
+causing	VBG	_ <O>
+<unk>	NN	_ <O>
+among	IN	_ <O>
+all	DT	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+series	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+coming	VBG	_ <O>
+from	IN	_ <O>
+God	NNP	_ <O>
+through	IN	_ <O>
+out	IN	_ <O>
+the	DT	_ <O>
+ages	NNS	_ <O>
+is	VBZ	_ <O>
+to	TO	_ <O>
+call	VB	_ <O>
+the	DT	_ <O>
+people	NNS	_ <O>
+again	RB	_ <O>
+towards	IN	_ <O>
+their	PRP$	_ <O>
+<unk>	JJ	_ <O>
+identity	NN	_ <O>
+of	IN	_ <O>
+love	NN	_ <O>
+and	CC	_ <O>
+friendship	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+his	PRP$	_ <O>
+Last	JJ	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+<unk>	NNS	_ <O>
+:	:	_ <O>
+
+NULL

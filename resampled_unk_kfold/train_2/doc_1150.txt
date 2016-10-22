@@ -1,0 +1,79 @@
+NULL
+The	DT	_ <O>
+World	NNP	_ <O>
+Health	NNP	_ <O>
+Organization	NNP	_ <O>
+estimates	VBZ	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+10	CD	_ <O>
+to	TO	_ <O>
+20	CD	_ <O>
+million	CD	_ <O>
+polio	NN	_ <O>
+survivors	NNS	_ <O>
+worldwide	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+notable	JJ	<I-CUE>
+individuals	NNS	<I-CUE>
+have	VBP	_ <O>
+survived	VBN	_ <O>
+polio	NN	_ <O>
+and	CC	_ <O>
+often	RB	_ <O>
+credit	VBP	_ <O>
+the	DT	_ <O>
+prolonged	JJ	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+residual	JJ	_ <O>
+paralysis	NN	_ <O>
+associated	VBN	_ <O>
+with	IN	_ <O>
+polio	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+driving	VBG	_ <O>
+force	NN	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+lives	NNS	_ <O>
+and	CC	_ <O>
+careers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+notable	JJ	<I-CUE>
+individuals	NNS	<I-CUE>
+have	VBP	_ <O>
+survived	VBN	_ <O>
+polio	NN	_ <O>
+and	CC	_ <O>
+often	RB	_ <O>
+credit	VBP	_ <O>
+the	DT	_ <O>
+prolonged	JJ	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+residual	JJ	_ <O>
+paralysis	NN	_ <O>
+associated	VBN	_ <O>
+with	IN	_ <O>
+polio	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+driving	VBG	_ <O>
+force	NN	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+lives	NNS	_ <O>
+and	CC	_ <O>
+careers	NNS	_ <O>
+.	.	_ <O>
+
+NULL

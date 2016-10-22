@@ -1,0 +1,84 @@
+NULL
+Local	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+often	RB	_ <O>
+gives	VBZ	_ <O>
+temporary	JJ	_ <O>
+or	CC	_ <O>
+permanent	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+if	IN	_ <O>
+not	RB	_ <O>
+combined	VBN	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+local	JJ	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+injected	VBD	_ <O>
+slowly	RB	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+small	JJ	_ <O>
+-	HYPH	_ <O>
+diameter	NN	_ <O>
+needle	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+rates	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+lower	JJR	_ <O>
+if	IN	_ <O>
+injection	NN	_ <O>
+is	VBZ	_ <O>
+performed	VBN	_ <O>
+under	IN	_ <O>
+ultrasound	NN	_ <O>
+guidance	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	VBN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+may	MD	_ <O>
+result	VB	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+While	IN	_ <O>
+this	DT	_ <O>
+may	MD	_ <O>
+actually	RB	_ <O>
+<unk>	VB	_ <O>
+pain	NN	_ <O>
+initially	RB	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+deleterious	JJ	_ <O>
+long	JJ	_ <O>
+-	HYPH	_ <O>
+term	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

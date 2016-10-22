@@ -1,0 +1,376 @@
+NULL
+Subsequently	RB	_ <O>
+the	DT	_ <O>
+design	NN	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+British	JJ	_ <O>
+and	CC	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+most	JJS	_ <O>
+tanks	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+II	NNP	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+Soviet	NNP	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+British	JJ	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+tanks	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+American	JJ	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+(	-LRB-	_ <O>
+Polish	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBD	_ <O>
+<unk>	PRP	_ <O>
+.	.	_ <O>
+35	CD	_ <O>
+Vis	NNP	_ <O>
+,	,	_ <O>
+German	JJ	_ <O>
+designation	NN	_ <O>
+9	CD	_ <O>
+mm	NN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+simply	RB	_ <O>
+called	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+English	NNP	_ <O>
+sources	NNS	_ <O>
+)	-RRB-	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+9	CD	_ <O>
+mm	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+single	JJ	_ <O>
+-	HYPH	_ <O>
+action	NN	_ <O>
+,	,	_ <O>
+semi	NN	_ <O>
+-	HYPH	_ <O>
+automatic	JJ	_ <O>
+pistol	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+become	VBN	_ <O>
+the	DT	_ <O>
+standard	JJ	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Polish	JJ	_ <O>
+Army	NNP	_ <O>
+some	DT	_ <O>
+time	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+Polish	JJ	_ <O>
+light	NN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Second	NNP	_ <O>
+World	NNP	_ <O>
+War	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+<unk>	VBZ	_ <O>
+wz	NN	_ <O>
+.	.	_ <O>
+<unk>	CD	_ <O>
+(	-LRB-	_ <O>
+"	``	_ <O>
+<unk>	JJ	_ <O>
+car	NN	_ <O>
+<unk>	CD	_ <O>
+<unk>	NN	_ <O>
+"	''	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+commonly	RB	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+or	CC	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+Polish	JJ	_ <O>
+<unk>	NN	_ <O>
+heavy	JJ	_ <O>
+<unk>	JJ	_ <O>
+car	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Finally	RB	_ <O>
+,	,	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+Warsaw	NNP	_ <O>
+Uprising	NNP	_ <O>
+Polish	NNP	_ <O>
+<unk>	NNS	_ <O>
+built	VBD	_ <O>
+several	JJ	_ <O>
+armoured	VBN	_ <O>
+car	NN	_ <O>
+which	WDT	_ <O>
+also	RB	_ <O>
+took	VBD	_ <O>
+part	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+fighting	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Radom	NNP	_ <O>
+was	VBD	_ <O>
+very	RB	_ <O>
+accurate	JJ	_ <O>
+,	,	_ <O>
+stable	JJ	_ <O>
+and	CC	_ <O>
+generally	RB	<B-CUE>
+regarded	VBN	_ <O>
+as	IN	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+best	JJS	<I-CUE>
+military	JJ	_ <O>
+pistols	NNS	_ <O>
+of	IN	_ <O>
+that	DT	_ <O>
+period	NN	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+the	DT	_ <O>
+war	NN	_ <O>
+the	DT	_ <O>
+Soviet	JJ	_ <O>
+<unk>	NNP	_ <O>
+pistol	NN	_ <O>
+,	,	_ <O>
+considered	VBN	<B-CUE>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+inferior	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Vis	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+probably	RB	<B-CUE>
+the	DT	_ <O>
+only	JJ	_ <O>
+kind	NN	_ <O>
+of	IN	_ <O>
+modern	JJ	_ <O>
+<unk>	NN	_ <O>
+that	WDT	_ <O>
+could	MD	_ <O>
+be	VB	_ <O>
+manufactured	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+forest	NN	_ <O>
+without	IN	_ <O>
+the	DT	_ <O>
+need	NN	_ <O>
+for	IN	_ <O>
+sophisticated	JJ	_ <O>
+tools	NNS	_ <O>
+and	CC	_ <O>
+factory	NN	_ <O>
+equipment	NN	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+Second	NNP	_ <O>
+World	NNP	_ <O>
+War	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Polish	NNP	_ <O>
+Home	NNP	_ <O>
+Army	NNP	_ <O>
+was	VBD	_ <O>
+probably	RB	<B-CUE>
+the	DT	_ <O>
+only	JJ	_ <O>
+World	NNP	_ <O>
+War	NNP	_ <O>
+II	NNP	_ <O>
+resistance	NN	_ <O>
+movement	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+large	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+munitions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Radom	NNP	_ <O>
+was	VBD	_ <O>
+very	RB	_ <O>
+accurate	JJ	_ <O>
+,	,	_ <O>
+stable	JJ	_ <O>
+and	CC	_ <O>
+generally	RB	<B-CUE>
+regarded	VBN	_ <O>
+as	IN	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+best	JJS	<I-CUE>
+military	JJ	_ <O>
+pistols	NNS	_ <O>
+of	IN	_ <O>
+that	DT	_ <O>
+period	NN	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+the	DT	_ <O>
+war	NN	_ <O>
+the	DT	_ <O>
+Soviet	JJ	_ <O>
+<unk>	NNP	_ <O>
+pistol	NN	_ <O>
+,	,	_ <O>
+considered	VBN	<B-CUE>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+inferior	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Vis	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+probably	RB	<B-CUE>
+the	DT	_ <O>
+only	JJ	_ <O>
+kind	NN	_ <O>
+of	IN	_ <O>
+modern	JJ	_ <O>
+<unk>	NN	_ <O>
+that	WDT	_ <O>
+could	MD	_ <O>
+be	VB	_ <O>
+manufactured	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+forest	NN	_ <O>
+without	IN	_ <O>
+the	DT	_ <O>
+need	NN	_ <O>
+for	IN	_ <O>
+sophisticated	JJ	_ <O>
+tools	NNS	_ <O>
+and	CC	_ <O>
+factory	NN	_ <O>
+equipment	NN	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+Second	NNP	_ <O>
+World	NNP	_ <O>
+War	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Polish	NNP	_ <O>
+Home	NNP	_ <O>
+Army	NNP	_ <O>
+was	VBD	_ <O>
+probably	RB	<B-CUE>
+the	DT	_ <O>
+only	JJ	_ <O>
+World	NNP	_ <O>
+War	NNP	_ <O>
+II	NNP	_ <O>
+resistance	NN	_ <O>
+movement	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+large	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+munitions	NNS	_ <O>
+.	.	_ <O>
+
+NULL

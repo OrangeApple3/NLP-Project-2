@@ -1,0 +1,90 @@
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+lecithin	JJ	_ <O>
+extract	VBP	_ <O>
+<unk>	VBZ	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Phosphatidylcholine	NNP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+major	JJ	_ <O>
+constituent	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+also	RB	_ <O>
+<unk>	VBZ	_ <O>
+a	DT	_ <O>
+role	NN	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+cell	NN	_ <O>
+<unk>	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+such	PDT	_ <O>
+a	DT	_ <O>
+major	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+contexts	NNS	<I-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+terms	NNS	_ <O>
+are	VBP	_ <O>
+<unk>	RB	<B-CUE>
+used	VBN	_ <O>
+as	IN	_ <O>
+synonyms	RB	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+such	PDT	_ <O>
+a	DT	_ <O>
+major	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+contexts	NNS	<I-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+terms	NNS	_ <O>
+are	VBP	_ <O>
+<unk>	RB	<B-CUE>
+used	VBN	_ <O>
+as	IN	_ <O>
+synonyms	RB	_ <O>
+.	.	_ <O>
+
+NULL

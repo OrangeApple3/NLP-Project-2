@@ -1,0 +1,62 @@
+A	DT	_ <O>
+'	''	_ <O>
+police	NN	_ <O>
+motorcycle	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+motorcycle	NN	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+various	JJ	_ <O>
+police	NNS	_ <O>
+forces	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+police	NN	_ <O>
+motorcycle	NN	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+called	VBN	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+<unk>	NN	_ <O>
+"	''	_ <O>
+by	IN	_ <O>
+police	NN	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Similarly	RB	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+motorcycle	NN	_ <O>
+<unk>	NNS	_ <O>
+'	POS	_ <O>
+are	VBP	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+motor	NN	_ <O>
+units	NNS	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+motorcycle	NN	_ <O>
+officers	NNS	_ <O>
+are	VBP	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+motor	NN	_ <O>
+officers	NNS	_ <O>
+.	.	_ <O>
+
+NULL

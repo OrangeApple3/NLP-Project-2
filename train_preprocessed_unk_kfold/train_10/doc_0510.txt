@@ -1,0 +1,66 @@
+NULL
+The	DT	_ <O>
+name	NN	_ <O>
+is	VBZ	_ <O>
+probably	RB	_ <O>
+derived	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+7	CD	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+"	``	_ <O>
+General	NNP	_ <O>
+War	NNP	_ <O>
+Department	NNP	_ <O>
+7	CD	_ <O>
+,	,	_ <O>
+Branch	NNP	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+some	DT	<B-CUE>
+<unk>	VB	_ <O>
+that	IN	_ <O>
+<unk>	NNP	_ <O>
+Joseph	NNP	_ <O>
+<unk>	NNP	_ <O>
+gave	VBD	_ <O>
+the	DT	_ <O>
+V	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+name	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+German	JJ	_ <O>
+the	DT	_ <O>
+tank	NN	_ <O>
+was	VBD	_ <O>
+called	VBN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+roughly	RB	_ <O>
+"	``	_ <O>
+<unk>	NN	_ <O>
+armoured	VBN	_ <O>
+motor	NN	_ <O>
+vehicle	NN	_ <O>
+"	''	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

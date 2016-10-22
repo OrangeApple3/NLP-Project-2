@@ -1,0 +1,90 @@
+NULL
+When	WRB	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+hatch	VBP	_ <O>
+many	JJ	_ <O>
+areas	NNS	_ <O>
+will	MD	_ <O>
+put	VB	_ <O>
+up	RP	_ <O>
+snow	NN	_ <O>
+<unk>	VBG	_ <O>
+to	TO	_ <O>
+restrict	VB	_ <O>
+driving	NN	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+safety	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+chicks	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NNS	_ <O>
+to	IN	_ <O>
+<unk>	NNS	_ <O>
+include	VBP	_ <O>
+<unk>	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+fox	NN	_ <O>
+and	CC	_ <O>
+various	JJ	_ <O>
+other	JJ	_ <O>
+animals	NNS	_ <O>
+to	IN	_ <O>
+less	JJR	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Ghost	NNP	_ <O>
+Crabs	NNP	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+noted	VBN	_ <O>
+as	IN	_ <O>
+being	VBG	_ <O>
+a	DT	_ <O>
+possible	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+young	JJ	_ <O>
+chicks	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+best	JJS	_ <O>
+to	TO	_ <O>
+stay	VB	_ <O>
+away	RB	_ <O>
+from	IN	_ <O>
+any	DT	_ <O>
+bird	NN	_ <O>
+that	WDT	_ <O>
+appears	VBZ	_ <O>
+<unk>	JJ	_ <O>
+to	TO	_ <O>
+prevent	VB	_ <O>
+any	DT	_ <O>
+<unk>	JJ	_ <O>
+consequences	NNS	_ <O>
+.	.	_ <O>
+
+NULL

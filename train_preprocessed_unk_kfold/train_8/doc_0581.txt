@@ -1,0 +1,260 @@
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+Powers	NNP	_ <O>
+
+NULL
+Savage	NNP	_ <O>
+turned	VBD	_ <O>
+face	NN	_ <O>
+later	RB	_ <O>
+in	IN	_ <O>
+1987	CD	_ <O>
+after	IN	_ <O>
+drawing	VBG	_ <O>
+increasingly	RB	<B-CUE>
+positive	JJ	<I-CUE>
+reactions	NNS	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+-	HYPH	_ <O>
+ring	NN	_ <O>
+ability	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+presence	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+began	VBD	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+with	IN	_ <O>
+The	DT	_ <O>
+Honky	NNP	_ <O>
+Tonk	NNP	_ <O>
+Man	NN	_ <O>
+after	IN	_ <O>
+Honky	NNP	_ <O>
+began	VBD	_ <O>
+to	TO	_ <O>
+refer	VB	_ <O>
+to	IN	_ <O>
+himself	PRP	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+<unk>	JJS	_ <O>
+<unk>	NNP	_ <O>
+Champion	NNP	_ <O>
+of	IN	_ <O>
+all	DT	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+On	IN	_ <O>
+'	``	_ <O>
+Saturday	NNP	_ <O>
+Night	NNP	_ <O>
+'s	POS	_ <O>
+Main	NNP	_ <O>
+Event	NN	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+October	NNP	_ <O>
+1987	CD	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+his	PRP$	_ <O>
+status	NN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+face	NN	_ <O>
+when	WRB	_ <O>
+Elizabeth	NNP	_ <O>
+got	VBD	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+to	TO	_ <O>
+save	VB	_ <O>
+him	PRP	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+by	IN	_ <O>
+Jimmy	NNP	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+The	DT	_ <O>
+Honky	NNP	_ <O>
+Tonk	NNP	_ <O>
+Man	NNP	_ <O>
+and	CC	_ <O>
+The	DT	_ <O>
+Hart	NNP	_ <O>
+Foundation	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+a	DT	_ <O>
+result	NN	_ <O>
+,	,	_ <O>
+The	DT	_ <O>
+Mega	NNP	_ <O>
+Powers	NNPS	_ <O>
+were	VBD	_ <O>
+born	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Hogan	NNP	_ <O>
+and	CC	_ <O>
+Savage	NNP	_ <O>
+together	RB	_ <O>
+ruled	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+next	JJ	_ <O>
+<unk>	CD	_ <O>
+months	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+later	JJ	_ <O>
+years	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+WWF	NNP	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+also	RB	_ <O>
+became	VBD	_ <O>
+known	VBN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+very	RB	_ <O>
+open	JJ	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+with	IN	_ <O>
+Hogan	NNP	_ <O>
+after	IN	_ <O>
+Savage	NNP	_ <O>
+accused	VBD	_ <O>
+Hogan	NNP	_ <O>
+of	IN	_ <O>
+sleeping	VBG	_ <O>
+in	IN	_ <O>
+Elizabeth	NNP	_ <O>
+'s	POS	_ <O>
+bed	NN	_ <O>
+during	IN	_ <O>
+a	DT	_ <O>
+road	NN	_ <O>
+trip	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Savage	NNP	_ <O>
+and	CC	_ <O>
+Elizabeth	NNP	_ <O>
+were	VBD	_ <O>
+<unk>	VBN	_ <O>
+on	IN	_ <O>
+September	NNP	_ <O>
+18	CD	_ <O>
+1992	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Savage	NN	_ <O>
+and	CC	_ <O>
+Hogan	NNP	_ <O>
+have	VBP	_ <O>
+a	DT	_ <O>
+<unk>	VBN	_ <O>
+relationship	NN	_ <O>
+to	IN	_ <O>
+this	DT	_ <O>
+day	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+speculated	VBN	<I-CUE>
+that	IN	_ <O>
+Savage	NNP	_ <O>
+<unk>	VBD	_ <O>
+Hogan	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+face	NN	_ <O>
+just	RB	_ <O>
+prior	RB	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+IX	NNP	_ <O>
+,	,	_ <O>
+causing	VBG	_ <O>
+Hogan	NNP	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+eye	NN	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+event	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+story	NN	_ <O>
+was	VBD	<B-CUE>
+found	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+then	RB	_ <O>
+WWF	NNP	_ <O>
+)	-RRB-	_ <O>
+said	VBD	_ <O>
+that	IN	_ <O>
+Hogan	NNP	_ <O>
+'s	POS	_ <O>
+swollen	JJ	_ <O>
+eye	NN	_ <O>
+was	VBD	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+jet	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+accident	NN	_ <O>
+.	.	_ <O>
+
+NULL

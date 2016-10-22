@@ -1,0 +1,50 @@
+NULL
+Tourist	NN	_ <O>
+<unk>	NNS	_ <O>
+usually	RB	_ <O>
+visit	VBP	_ <O>
+this	DT	_ <O>
+peaceful	JJ	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+enjoy	VB	_ <O>
+some	DT	_ <O>
+leisure	NN	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+parts	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+remains	VBZ	_ <O>
+the	DT	_ <O>
+predominantly	RB	_ <O>
+spoken	VBN	_ <O>
+language	NN	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+some	DT	_ <O>
+villages	NNS	_ <O>
+close	RB	_ <O>
+by	IN	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+
+NULL

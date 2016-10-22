@@ -1,0 +1,52 @@
+NULL
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+these	DT	_ <O>
+<unk>	CD	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Users	NNS	_ <O>
+<unk>	RB	_ <O>
+have	VBP	_ <O>
+a	DT	_ <O>
+role	NN	_ <O>
+also	RB	_ <O>
+by	IN	_ <O>
+questioning	VBG	_ <O>
+and	CC	_ <O>
+<unk>	VBG	_ <O>
+<unk>	JJ	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	VBG	_ <O>
+in	IN	_ <O>
+<unk>	VBG	_ <O>
+people	NNS	_ <O>
+as	IN	_ <O>
+known	VBN	_ <O>
+<unk>	IN	_ <O>
+<unk>	JJ	_ <O>
+are	VBP	_ <O>
+<unk>	NN	_ <O>
+systems	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+<unk>	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

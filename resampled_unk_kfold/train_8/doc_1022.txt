@@ -1,0 +1,109 @@
+NULL
+<unk>	NNP	_ <O>
+Islam	NNP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+second	RB	_ <O>
+largest	JJS	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Islam	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+According	VBG	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+chosen	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+thus	RB	_ <O>
+appointed	VBN	_ <O>
+by	IN	_ <O>
+Muhammad	NNP	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+direct	JJ	_ <O>
+successor	NN	_ <O>
+and	CC	_ <O>
+leader	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Muslim	JJ	_ <O>
+community	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+largest	JJS	_ <O>
+group	NN	_ <O>
+of	IN	_ <O>
+Shi`a	NNP	_ <O>
+Muslims	NNPS	_ <O>
+believe	VBP	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+total	NN	_ <O>
+of	IN	_ <O>
+twelve	CD	_ <O>
+Imams	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Shi`a	NN	_ <O>
+<unk>	NNS	_ <O>
+include	VBP	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Imams	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+Muslims	NNPS	<I-CUE>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+Shia	NNPS	_ <O>
+for	IN	_ <O>
+certain	JJ	_ <O>
+beliefs	NNS	_ <O>
+and	CC	_ <O>
+practices	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+practices	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+Muslims	NNPS	<I-CUE>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+Shia	NNPS	_ <O>
+for	IN	_ <O>
+certain	JJ	_ <O>
+beliefs	NNS	_ <O>
+and	CC	_ <O>
+practices	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+practices	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

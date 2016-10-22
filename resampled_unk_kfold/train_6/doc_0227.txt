@@ -1,0 +1,371 @@
+The	DT	_ <O>
+<unk>	NN	_ <O>
+states	VBZ	_ <O>
+that	IN	_ <O>
+a	DT	_ <O>
+war	NN	_ <O>
+is	VBZ	_ <O>
+considered	VBN	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+time	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+FM	NNP	_ <O>
+,	,	_ <O>
+broadcast	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	RB	_ <O>
+American	JJ	_ <O>
+and	CC	_ <O>
+British	JJ	_ <O>
+Top	NNP	_ <O>
+40	CD	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+Rock	NNP	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+section	NN	_ <O>
+of	IN	_ <O>
+Lewis	NNP	_ <O>
+,	,	_ <O>
+New	NNP	_ <O>
+York	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+total	JJ	_ <O>
+population	NN	_ <O>
+of	IN	_ <O>
+approximately	RB	_ <O>
+<unk>	CD	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Station	NNP	_ <O>
+would	MD	_ <O>
+run	VB	_ <O>
+several	JJ	<B-CUE>
+hours	NNS	<I-CUE>
+to	IN	_ <O>
+all	DT	_ <O>
+night	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+music	NN	_ <O>
+played	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+station	NN	_ <O>
+<unk>	VBD	_ <O>
+under	IN	_ <O>
+a	DT	_ <O>
+<unk>	NNP	_ <O>
+or	CC	_ <O>
+Top	JJ	_ <O>
+<unk>	CD	_ <O>
+format	NN	_ <O>
+with	IN	_ <O>
+some	DT	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+and	CC	<I-CUE>
+90	CD	<I-CUE>
+'s	POS	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Using	VBG	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+public	JJ	_ <O>
+<unk>	NNS	_ <O>
+at	IN	_ <O>
+large	JJ	_ <O>
+music	NN	_ <O>
+concerts	NNS	_ <O>
+to	TO	_ <O>
+gain	VB	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+Network	NNP	_ <O>
+brought	VBD	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+<unk>	JJ	_ <O>
+radio	NN	_ <O>
+broadcasts	NNS	_ <O>
+to	IN	_ <O>
+an	DT	_ <O>
+area	NN	_ <O>
+that	WDT	_ <O>
+was	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+"	``	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+eden	NN	_ <O>
+"	''	_ <O>
+of	IN	_ <O>
+radio	NN	_ <O>
+markets	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+caused	VBD	_ <O>
+a	DT	_ <O>
+minor	JJ	_ <O>
+revolution	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+practices	NNS	_ <O>
+of	IN	_ <O>
+radio	NN	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+that	DT	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+they	PRP	_ <O>
+finally	RB	_ <O>
+received	VBD	_ <O>
+their	PRP$	_ <O>
+first	JJ	_ <O>
+notice	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+station	NN	_ <O>
+<unk>	NNS	_ <O>
+went	VBD	_ <O>
+<unk>	RB	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	VB	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+several	JJ	<B-CUE>
+"	``	<I-CUE>
+Low	NNP	<I-CUE>
+Power	NNP	<I-CUE>
+Pirate	NNP	<I-CUE>
+<unk>	NNP	<I-CUE>
+<unk>	NNPS	<I-CUE>
+"	''	<I-CUE>
+throughout	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+possible	JJ	<I-CUE>
+that	IN	_ <O>
+operations	NNS	_ <O>
+may	MD	<B-CUE>
+resume	VB	_ <O>
+soon	RB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+frequency	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+name	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+slightly	RB	_ <O>
+<unk>	VBN	_ <O>
+format	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Station	NNP	_ <O>
+would	MD	_ <O>
+run	VB	_ <O>
+several	JJ	<B-CUE>
+hours	NNS	<I-CUE>
+to	IN	_ <O>
+all	DT	_ <O>
+night	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+music	NN	_ <O>
+played	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+station	NN	_ <O>
+<unk>	VBD	_ <O>
+under	IN	_ <O>
+a	DT	_ <O>
+<unk>	NNP	_ <O>
+or	CC	_ <O>
+Top	JJ	_ <O>
+<unk>	CD	_ <O>
+format	NN	_ <O>
+with	IN	_ <O>
+some	DT	<B-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+and	CC	<I-CUE>
+90	CD	<I-CUE>
+'s	POS	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Using	VBG	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+public	JJ	_ <O>
+<unk>	NNS	_ <O>
+at	IN	_ <O>
+large	JJ	_ <O>
+music	NN	_ <O>
+concerts	NNS	_ <O>
+to	TO	_ <O>
+gain	VB	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+Network	NNP	_ <O>
+brought	VBD	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+<unk>	JJ	_ <O>
+radio	NN	_ <O>
+broadcasts	NNS	_ <O>
+to	IN	_ <O>
+an	DT	_ <O>
+area	NN	_ <O>
+that	WDT	_ <O>
+was	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+"	``	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+eden	NN	_ <O>
+"	''	_ <O>
+of	IN	_ <O>
+radio	NN	_ <O>
+markets	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+caused	VBD	_ <O>
+a	DT	_ <O>
+minor	JJ	_ <O>
+revolution	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+practices	NNS	_ <O>
+of	IN	_ <O>
+radio	NN	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+that	DT	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+they	PRP	_ <O>
+finally	RB	_ <O>
+received	VBD	_ <O>
+their	PRP$	_ <O>
+first	JJ	_ <O>
+notice	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+station	NN	_ <O>
+<unk>	NNS	_ <O>
+went	VBD	_ <O>
+<unk>	RB	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	VB	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+several	JJ	<B-CUE>
+"	``	<I-CUE>
+Low	NNP	<I-CUE>
+Power	NNP	<I-CUE>
+Pirate	NNP	<I-CUE>
+<unk>	NNP	<I-CUE>
+<unk>	NNPS	<I-CUE>
+"	''	<I-CUE>
+throughout	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+possible	JJ	<I-CUE>
+that	IN	_ <O>
+operations	NNS	_ <O>
+may	MD	<B-CUE>
+resume	VB	_ <O>
+soon	RB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+frequency	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+name	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+slightly	RB	_ <O>
+<unk>	VBN	_ <O>
+format	NN	_ <O>
+.	.	_ <O>
+
+NULL

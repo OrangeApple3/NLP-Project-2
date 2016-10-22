@@ -1,0 +1,135 @@
+NULL
+'	``	_ <O>
+<unk>	JJ	_ <O>
+style	NN	_ <O>
+'	''	_ <O>
+:	:	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+Lazio	NNP	_ <O>
+(	-LRB-	_ <O>
+Rome	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+parts	NNS	<I-CUE>
+of	IN	<I-CUE>
+Italy	NNP	<I-CUE>
+,	,	_ <O>
+is	VBZ	_ <O>
+available	JJ	_ <O>
+in	IN	_ <O>
+two	CD	_ <O>
+different	JJ	_ <O>
+styles	NNS	_ <O>
+:	:	_ <O>
+(	-LRB-	_ <O>
+1	LS	_ <O>
+)	-RRB-	_ <O>
+Take	VB	_ <O>
+-	HYPH	_ <O>
+away	RB	_ <O>
+shops	NNS	_ <O>
+sell	VBP	_ <O>
+'	''	_ <O>
+pizza	NN	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+or	CC	_ <O>
+'	''	_ <O>
+pizza	NN	_ <O>
+al	NNP	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+similar	JJ	_ <O>
+to	IN	_ <O>
+that	DT	_ <O>
+of	IN	_ <O>
+an	DT	_ <O>
+English	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+pizza	NN	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+an	DT	_ <O>
+electric	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+cut	VBN	_ <O>
+with	IN	_ <O>
+<unk>	NNS	_ <O>
+or	CC	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+sold	VBN	_ <O>
+by	IN	_ <O>
+weight	NN	_ <O>
+.	.	_ <O>
+(	-LRB-	_ <O>
+2	CD	_ <O>
+)	-RRB-	_ <O>
+In	IN	_ <O>
+pizza	NN	_ <O>
+restaurants	NNS	_ <O>
+(	-LRB-	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+pizza	NN	_ <O>
+is	VBZ	_ <O>
+served	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+dish	NN	_ <O>
+in	IN	_ <O>
+its	PRP$	_ <O>
+traditional	JJ	_ <O>
+round	JJ	_ <O>
+shape	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+cooked	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+wood	NN	_ <O>
+-	HYPH	_ <O>
+fired	VBN	_ <O>
+oven	NN	_ <O>
+,	,	_ <O>
+giving	VBG	_ <O>
+the	DT	_ <O>
+pizza	NN	_ <O>
+its	PRP$	_ <O>
+unique	JJ	_ <O>
+flavor	NN	_ <O>
+and	CC	_ <O>
+texture	NN	_ <O>
+.	.	_ <O>
+
+NULL

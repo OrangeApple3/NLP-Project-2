@@ -1,0 +1,23 @@
+NULL
+2008	CD	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+lead	NN	_ <O>
+in	IN	_ <O>
+"	``	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+about	IN	_ <O>
+a	DT	_ <O>
+female	JJ	_ <O>
+ex	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+turned	VBD	_ <O>
+fire	NN	_ <O>
+jumper	NN	_ <O>
+.	.	_ <O>
+
+NULL

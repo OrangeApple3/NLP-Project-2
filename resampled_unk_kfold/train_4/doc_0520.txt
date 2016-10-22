@@ -1,0 +1,181 @@
+The	DT	_ <O>
+'	``	_ <O>
+Times	NNP	_ <O>
+Literary	NNP	_ <O>
+Supplement	NNP	_ <O>
+'	''	_ <O>
+of	IN	_ <O>
+April	NNP	_ <O>
+14	CD	_ <O>
+,	,	_ <O>
+1932	CD	_ <O>
+stated	VBD	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+actual	JJ	_ <O>
+solution	NN	_ <O>
+is	VBZ	_ <O>
+quite	RB	_ <O>
+<unk>	RB	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+well	RB	_ <O>
+up	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+standard	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+best	JJS	_ <O>
+stories	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	RB	_ <O>
+fair	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+possible	JJ	<I-CUE>
+to	TO	<I-CUE>
+<unk>	VB	<I-CUE>
+the	DT	_ <O>
+solution	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	RB	_ <O>
+early	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+book	NN	_ <O>
+,	,	_ <O>
+though	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+certainly	RB	_ <O>
+not	RB	_ <O>
+easy	JJ	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+his	PRP$	_ <O>
+<unk>	JJ	_ <O>
+Captain	NNP	_ <O>
+<unk>	NNP	_ <O>
+are	VBP	_ <O>
+characters	NNS	_ <O>
+whom	WP	_ <O>
+one	CD	_ <O>
+is	VBZ	_ <O>
+<unk>	JJ	_ <O>
+to	TO	_ <O>
+meet	VB	_ <O>
+again	RB	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+lively	JJ	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+book	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+even	RB	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+little	JJ	_ <O>
+more	RBR	_ <O>
+than	IN	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+problem	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	RB	_ <O>
+fair	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+possible	JJ	<I-CUE>
+to	TO	<I-CUE>
+<unk>	VB	<I-CUE>
+the	DT	_ <O>
+solution	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	RB	_ <O>
+early	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+book	NN	_ <O>
+,	,	_ <O>
+though	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+certainly	RB	_ <O>
+not	RB	_ <O>
+easy	JJ	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+his	PRP$	_ <O>
+<unk>	JJ	_ <O>
+Captain	NNP	_ <O>
+<unk>	NNP	_ <O>
+are	VBP	_ <O>
+characters	NNS	_ <O>
+whom	WP	_ <O>
+one	CD	_ <O>
+is	VBZ	_ <O>
+<unk>	JJ	_ <O>
+to	TO	_ <O>
+meet	VB	_ <O>
+again	RB	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+lively	JJ	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+book	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+even	RB	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+little	JJ	_ <O>
+more	RBR	_ <O>
+than	IN	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+problem	NN	_ <O>
+.	.	_ <O>
+
+NULL

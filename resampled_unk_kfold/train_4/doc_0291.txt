@@ -1,0 +1,189 @@
+NULL
+Moon	NNP	_ <O>
+'s	POS	_ <O>
+works	NNS	_ <O>
+have	VBP	_ <O>
+come	VBN	_ <O>
+in	RP	_ <O>
+for	IN	_ <O>
+criticism	NN	_ <O>
+from	IN	_ <O>
+some	DT	<B-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+books	NNS	<I-CUE>
+,	,	_ <O>
+he	PRP	_ <O>
+has	VBZ	_ <O>
+stated	VBN	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+<unk>	VBZ	_ <O>
+history	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+those	DT	_ <O>
+involved	VBN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+not	RB	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+result	NN	_ <O>
+is	VBZ	_ <O>
+that	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+<unk>	NNS	<I-CUE>
+<unk>	VB	_ <O>
+from	IN	_ <O>
+what	WP	_ <O>
+later	RBR	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+events	NNS	_ <O>
+<unk>	VBP	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+describe	VB	_ <O>
+it	PRP	_ <O>
+as	IN	_ <O>
+engaging	NN	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+others	NNS	<B-CUE>
+<unk>	VB	_ <O>
+it	PRP	_ <O>
+as	IN	_ <O>
+not	RB	_ <O>
+<unk>	VBG	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+typical	JJ	_ <O>
+style	NN	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+New	NNP	<I-CUE>
+Zealand	NNP	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Moon	NNP	_ <O>
+'s	POS	_ <O>
+works	NNS	_ <O>
+have	VBP	_ <O>
+come	VBN	_ <O>
+in	RP	_ <O>
+for	IN	_ <O>
+criticism	NN	_ <O>
+from	IN	_ <O>
+some	DT	<B-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+books	NNS	<I-CUE>
+,	,	_ <O>
+he	PRP	_ <O>
+has	VBZ	_ <O>
+stated	VBN	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+<unk>	VBZ	_ <O>
+history	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+those	DT	_ <O>
+involved	VBN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+not	RB	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+result	NN	_ <O>
+is	VBZ	_ <O>
+that	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+<unk>	NNS	<I-CUE>
+<unk>	VB	_ <O>
+from	IN	_ <O>
+what	WP	_ <O>
+later	RBR	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+events	NNS	_ <O>
+<unk>	VBP	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+describe	VB	_ <O>
+it	PRP	_ <O>
+as	IN	_ <O>
+engaging	NN	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+others	NNS	<B-CUE>
+<unk>	VB	_ <O>
+it	PRP	_ <O>
+as	IN	_ <O>
+not	RB	_ <O>
+<unk>	VBG	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+typical	JJ	_ <O>
+style	NN	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+New	NNP	<I-CUE>
+Zealand	NNP	<I-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

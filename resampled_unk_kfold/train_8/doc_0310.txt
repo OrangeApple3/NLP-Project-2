@@ -1,0 +1,176 @@
+NULL
+The	DT	_ <O>
+company	NN	_ <O>
+generated	VBD	_ <O>
+<unk>	NN	_ <O>
+by	IN	_ <O>
+selling	VBG	_ <O>
+<unk>	NNS	_ <O>
+on	IN	_ <O>
+its	PRP$	_ <O>
+chat	NN	_ <O>
+lines	NNS	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+<unk>	NNS	_ <O>
+would	MD	_ <O>
+have	VB	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+to	IN	_ <O>
+,	,	_ <O>
+before	IN	_ <O>
+being	VBG	_ <O>
+connected	VBN	_ <O>
+to	IN	_ <O>
+other	JJ	_ <O>
+callers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+other	JJ	_ <O>
+competing	VBG	_ <O>
+Free	JJ	_ <O>
+Chat	NNP	_ <O>
+line	NN	_ <O>
+service	NN	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+Free	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+Chat	NNP	_ <O>
+Line	NN	_ <O>
+which	WDT	_ <O>
+additionally	RB	_ <O>
+<unk>	VBZ	_ <O>
+numbers	NNS	_ <O>
+across	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+By	IN	_ <O>
+2007	CD	_ <O>
+,	,	_ <O>
+only	RB	_ <O>
+a	DT	<B-CUE>
+few	JJ	<I-CUE>
+<unk>	NN	<I-CUE>
+line	NN	<I-CUE>
+companies	NNS	<I-CUE>
+remained	VBD	_ <O>
+active	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+addition	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+standard	JJ	_ <O>
+Free	NNP	_ <O>
+Chat	NNP	_ <O>
+lines	NNS	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+many	JJ	<B-CUE>
+popular	JJ	<I-CUE>
+services	NNS	<I-CUE>
+that	DT	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Community	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+oldest	JJS	_ <O>
+such	JJ	_ <O>
+service	NN	_ <O>
+is	VBZ	_ <O>
+The	DT	_ <O>
+Gay	NNP	_ <O>
+Connection	NN	_ <O>
+which	WDT	_ <O>
+started	VBD	_ <O>
+in	IN	_ <O>
+1985	CD	_ <O>
+in	IN	_ <O>
+Los	NNP	_ <O>
+Angeles	NNP	_ <O>
+California	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+now	RB	_ <O>
+<unk>	VBZ	_ <O>
+numbers	NNS	_ <O>
+<unk>	RB	_ <O>
+.	.	_ <O>
+
+NULL
+By	IN	_ <O>
+2007	CD	_ <O>
+,	,	_ <O>
+only	RB	_ <O>
+a	DT	<B-CUE>
+few	JJ	<I-CUE>
+<unk>	NN	<I-CUE>
+line	NN	<I-CUE>
+companies	NNS	<I-CUE>
+remained	VBD	_ <O>
+active	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+addition	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+standard	JJ	_ <O>
+Free	NNP	_ <O>
+Chat	NNP	_ <O>
+lines	NNS	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+many	JJ	<B-CUE>
+popular	JJ	<I-CUE>
+services	NNS	<I-CUE>
+that	DT	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Community	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+oldest	JJS	_ <O>
+such	JJ	_ <O>
+service	NN	_ <O>
+is	VBZ	_ <O>
+The	DT	_ <O>
+Gay	NNP	_ <O>
+Connection	NN	_ <O>
+which	WDT	_ <O>
+started	VBD	_ <O>
+in	IN	_ <O>
+1985	CD	_ <O>
+in	IN	_ <O>
+Los	NNP	_ <O>
+Angeles	NNP	_ <O>
+California	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+now	RB	_ <O>
+<unk>	VBZ	_ <O>
+numbers	NNS	_ <O>
+<unk>	RB	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,155 @@
+NULL
+Until	IN	_ <O>
+the	DT	_ <O>
+late	JJ	_ <O>
+1960s	NNS	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+have	VBP	_ <O>
+argued	VBN	_ <O>
+that	IN	_ <O>
+Australian	JJ	_ <O>
+popular	JJ	_ <O>
+music	NN	_ <O>
+was	VBD	_ <O>
+largely	RB	_ <O>
+<unk>	JJ	_ <O>
+from	IN	_ <O>
+<unk>	JJ	_ <O>
+music	NN	_ <O>
+:	:	_ <O>
+British	JJ	_ <O>
+to	TO	_ <O>
+begin	VB	_ <O>
+with	RP	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+gradually	RB	_ <O>
+more	JJR	_ <O>
+and	CC	_ <O>
+more	JJR	_ <O>
+American	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+post	NN	_ <O>
+-	HYPH	_ <O>
+war	NN	_ <O>
+years	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+sudden	JJ	_ <O>
+arrival	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+1960s	NNS	_ <O>
+underground	JJ	_ <O>
+movement	NN	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+mainstream	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+1970s	CD	_ <O>
+changed	VBD	_ <O>
+Australian	JJ	_ <O>
+music	NN	_ <O>
+permanently	RB	_ <O>
+:	:	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+far	RB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+people	NNS	_ <O>
+to	TO	_ <O>
+write	VB	_ <O>
+songs	NNS	_ <O>
+in	IN	_ <O>
+Australia	NNP	_ <O>
+,	,	_ <O>
+by	IN	_ <O>
+<unk>	NNPS	_ <O>
+,	,	_ <O>
+about	IN	_ <O>
+Australia	NNP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+they	PRP	_ <O>
+'	``	_ <O>
+were	VBD	_ <O>
+'	``	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+ones	NNS	_ <O>
+ever	RB	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+money	NN	_ <O>
+doing	VBG	_ <O>
+it	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	<B-CUE>
+two	CD	<I-CUE>
+best	RBS	<I-CUE>
+-	HYPH	<I-CUE>
+selling	VBG	<I-CUE>
+Australian	JJ	<I-CUE>
+albums	NNS	<I-CUE>
+ever	RB	_ <O>
+made	VBN	_ <O>
+(	-LRB-	_ <O>
+at	IN	_ <O>
+that	DT	_ <O>
+time	NN	_ <O>
+)	-RRB-	_ <O>
+put	VBD	_ <O>
+Australian	JJ	_ <O>
+music	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+map	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Within	IN	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+years	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+had	VBD	_ <O>
+worn	VBN	_ <O>
+off	RP	_ <O>
+and	CC	_ <O>
+it	PRP	_ <O>
+became	VBD	_ <O>
+<unk>	JJ	_ <O>
+to	TO	_ <O>
+hear	VB	_ <O>
+<unk>	RB	_ <O>
+Australian	JJ	_ <O>
+lyrics	NNS	_ <O>
+and	CC	_ <O>
+sometimes	RB	_ <O>
+sounds	VBZ	_ <O>
+side	JJ	_ <O>
+-	HYPH	_ <O>
+by	IN	_ <O>
+-	HYPH	_ <O>
+side	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+imports	NNS	_ <O>
+.	.	_ <O>
+
+NULL

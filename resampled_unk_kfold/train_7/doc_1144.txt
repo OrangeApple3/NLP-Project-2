@@ -1,0 +1,39 @@
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+Yorkshire	NNP	_ <O>
+<unk>	NNP	_ <O>
+village	NN	_ <O>
+and	CC	_ <O>
+civil	JJ	_ <O>
+parish	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+East	NNP	_ <O>
+Riding	NNP	_ <O>
+of	IN	_ <O>
+Yorkshire	NNP	_ <O>
+,	,	_ <O>
+England	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+According	VBG	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+2001	CD	_ <O>
+UK	NNP	_ <O>
+census	NN	_ <O>
+,	,	_ <O>
+Wetwang	NNP	_ <O>
+parish	NN	_ <O>
+had	VBD	_ <O>
+a	DT	_ <O>
+population	NN	_ <O>
+of	IN	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL

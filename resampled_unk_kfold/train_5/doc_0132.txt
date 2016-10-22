@@ -1,0 +1,193 @@
+This	DT	_ <O>
+is	VBZ	_ <O>
+referred	VBN	_ <O>
+to	IN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+effect	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNS	<B-CUE>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+note	VB	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+little	JJ	_ <O>
+evidence	NN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	JJ	_ <O>
+writing	NN	_ <O>
+claimed	VBD	<B-CUE>
+to	TO	<I-CUE>
+be	VB	<I-CUE>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+origins	NNS	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+game	NN	_ <O>
+that	WDT	_ <O>
+is	VBZ	_ <O>
+little	JJ	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	<B-CUE>
+<unk>	VB	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+no	DT	_ <O>
+evidence	NN	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+<unk>	NN	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+those	DT	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+writing	NN	_ <O>
+<unk>	VBG	_ <O>
+their	PRP$	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+no	DT	_ <O>
+solid	JJ	_ <O>
+evidence	NN	_ <O>
+that	IN	_ <O>
+any	DT	_ <O>
+messages	NNS	_ <O>
+are	VBP	_ <O>
+<unk>	VBG	_ <O>
+from	IN	_ <O>
+<unk>	RB	_ <O>
+other	JJ	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+minds	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+person	NN	_ <O>
+holding	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNS	<B-CUE>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+note	VB	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+little	JJ	_ <O>
+evidence	NN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	JJ	_ <O>
+writing	NN	_ <O>
+claimed	VBD	<B-CUE>
+to	TO	<I-CUE>
+be	VB	<I-CUE>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+origins	NNS	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+game	NN	_ <O>
+that	WDT	_ <O>
+is	VBZ	_ <O>
+little	JJ	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	<B-CUE>
+<unk>	VB	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+no	DT	_ <O>
+evidence	NN	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+<unk>	NN	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+those	DT	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+writing	NN	_ <O>
+<unk>	VBG	_ <O>
+their	PRP$	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+no	DT	_ <O>
+solid	JJ	_ <O>
+evidence	NN	_ <O>
+that	IN	_ <O>
+any	DT	_ <O>
+messages	NNS	_ <O>
+are	VBP	_ <O>
+<unk>	VBG	_ <O>
+from	IN	_ <O>
+<unk>	RB	_ <O>
+other	JJ	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+minds	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+person	NN	_ <O>
+holding	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

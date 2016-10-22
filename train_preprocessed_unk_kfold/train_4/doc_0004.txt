@@ -1,0 +1,37 @@
+NULL
+'	''	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNPS	_ <O>
+,	,	_ <O>
+is	VBZ	<B-CUE>
+widely	RB	<I-CUE>
+<unk>	VBN	<I-CUE>
+as	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+<unk>	JJ	<I-CUE>
+and	CC	<I-CUE>
+<unk>	JJ	<I-CUE>
+<unk>	NNS	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

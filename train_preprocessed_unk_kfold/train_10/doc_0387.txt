@@ -1,0 +1,90 @@
+NULL
+The	DT	_ <O>
+<unk>	NN	_ <O>
+associated	VBN	_ <O>
+with	IN	_ <O>
+titles	NNS	_ <O>
+arising	VBG	_ <O>
+from	IN	_ <O>
+<unk>	JJ	_ <O>
+research	NN	_ <O>
+vary	VBP	_ <O>
+from	IN	_ <O>
+one	CD	_ <O>
+institution	NN	_ <O>
+to	IN	_ <O>
+another	DT	_ <O>
+and	CC	_ <O>
+one	CD	_ <O>
+country	NN	_ <O>
+to	IN	_ <O>
+another	DT	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+example	NN	_ <O>
+,	,	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+level	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+would	MD	_ <O>
+be	VB	_ <O>
+common	JJ	_ <O>
+to	TO	_ <O>
+receive	VB	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+some	DT	_ <O>
+<unk>	NNS	_ <O>
+to	IN	_ <O>
+this	DT	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+a	DT	_ <O>
+professional	JJ	_ <O>
+Doctorate	NNP	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+objective	NN	_ <O>
+is	VBZ	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+an	DT	_ <O>
+in	IN	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+research	NN	_ <O>
+knowledge	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+particular	JJ	_ <O>
+area	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+discipline	NN	_ <O>
+is	VBZ	_ <O>
+usually	RB	_ <O>
+included	VBN	_ <O>
+(	-LRB-	_ <O>
+e.g.	RB	_ <O>
+,	,	_ <O>
+Doctor	NNP	_ <O>
+of	IN	_ <O>
+Business	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

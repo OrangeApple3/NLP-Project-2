@@ -1,0 +1,152 @@
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+fine	JJ	_ <O>
+,	,	_ <O>
+less	RBR	_ <O>
+vigorous	JJ	_ <O>
+grasses	NNS	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+common	JJ	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+reserve	NN	_ <O>
+supports	VBZ	_ <O>
+a	DT	_ <O>
+rich	JJ	_ <O>
+<unk>	NN	_ <O>
+including	VBG	_ <O>
+many	JJ	_ <O>
+<unk>	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Common	NNP	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+Small	JJ	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Notable	JJ	_ <O>
+species	NNS	_ <O>
+include	VBP	_ <O>
+Slender	NNP	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+vulgaris	NN	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Fourteen	CD	_ <O>
+species	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+are	VBP	_ <O>
+known	VBN	_ <O>
+to	TO	_ <O>
+grow	VB	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+reserve	NN	_ <O>
+including	VBG	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+UK	NNP	<I-CUE>
+'s	POS	<I-CUE>
+<unk>	JJS	<I-CUE>
+species	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+orchid	NN	_ <O>
+was	VBD	_ <O>
+introduced	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+site	NN	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+twentieth	JJ	_ <O>
+century	NN	_ <O>
+from	IN	_ <O>
+another	DT	_ <O>
+<unk>	NNP	_ <O>
+site	NN	_ <O>
+and	CC	_ <O>
+has	VBZ	_ <O>
+since	IN	_ <O>
+flourished	VBN	_ <O>
+with	IN	_ <O>
+over	IN	_ <O>
+100	CD	_ <O>
+plants	NNS	_ <O>
+.	.	_ <O>
+
+NULL

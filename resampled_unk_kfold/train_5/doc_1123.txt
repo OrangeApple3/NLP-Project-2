@@ -1,0 +1,86 @@
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+UK	NNP	_ <O>
+,	,	_ <O>
+no	DT	_ <O>
+medical	JJ	_ <O>
+schools	NNS	_ <O>
+offer	VBP	_ <O>
+courses	NNS	_ <O>
+that	WDT	_ <O>
+teach	VBP	_ <O>
+the	DT	_ <O>
+clinical	JJ	_ <O>
+practice	NN	_ <O>
+of	IN	_ <O>
+alternative	JJ	_ <O>
+medicine	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Teaching	NN	_ <O>
+is	VBZ	_ <O>
+based	VBN	_ <O>
+mostly	RB	_ <O>
+on	IN	_ <O>
+theory	NN	_ <O>
+and	CC	_ <O>
+understanding	NN	_ <O>
+alternative	JJ	_ <O>
+medicine	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+emphasis	NN	_ <O>
+on	IN	_ <O>
+being	VBG	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+communicate	VB	_ <O>
+with	IN	_ <O>
+alternative	JJ	_ <O>
+medicine	NN	_ <O>
+specialists	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+aspects	NNS	<I-CUE>
+of	IN	<I-CUE>
+alternative	JJ	<I-CUE>
+medicine	NN	<I-CUE>
+are	VBP	_ <O>
+taught	VBN	_ <O>
+in	IN	_ <O>
+several	JJ	<B-CUE>
+schools	NNS	<I-CUE>
+as	IN	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+curriculum	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+aspects	NNS	<I-CUE>
+of	IN	<I-CUE>
+alternative	JJ	<I-CUE>
+medicine	NN	<I-CUE>
+are	VBP	_ <O>
+taught	VBN	_ <O>
+in	IN	_ <O>
+several	JJ	<B-CUE>
+schools	NNS	<I-CUE>
+as	IN	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+curriculum	NN	_ <O>
+.	.	_ <O>
+
+NULL

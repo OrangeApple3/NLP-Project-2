@@ -1,0 +1,125 @@
+'	``	_ <O>
+<unk>	NN	_ <O>
+:	:	_ <O>
+Bad	PRP$	_ <O>
+Company	NNP	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+abbreviated	JJ	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+first	JJ	_ <O>
+-	HYPH	_ <O>
+person	NN	_ <O>
+shooter	NN	_ <O>
+under	IN	_ <O>
+development	NN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNS	_ <O>
+CE.	NNP	_ <O>
+
+NULL
+Currently	RB	_ <O>
+planned	VBN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+PlayStation	NNP	_ <O>
+3	CD	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+Bad	JJ	_ <O>
+Company	NNP	_ <O>
+will	MD	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+Battlefield	NNP	_ <O>
+game	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+developed	VBN	_ <O>
+specifically	RB	_ <O>
+for	IN	_ <O>
+History	NN	_ <O>
+of	IN	_ <O>
+next	JJ	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+was	VBD	_ <O>
+released	VBN	_ <O>
+on	IN	_ <O>
+February	NNP	_ <O>
+28	CD	_ <O>
+,	,	_ <O>
+2007	CD	_ <O>
+displaying	VBG	_ <O>
+<unk>	JJ	_ <O>
+environments	NNS	_ <O>
+and	CC	_ <O>
+gameplay	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+second	JJ	_ <O>
+trailer	NN	_ <O>
+was	VBD	_ <O>
+released	VBN	_ <O>
+on	IN	_ <O>
+September	NNP	_ <O>
+6	CD	_ <O>
+,	,	_ <O>
+2007	CD	_ <O>
+showing	VBG	_ <O>
+First	NNP	_ <O>
+Person	NNP	_ <O>
+gameplay	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+storyline	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	<B-CUE>
+expected	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+released	VBN	_ <O>
+in	IN	_ <O>
+early	JJ	_ <O>
+2008	CD	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	<B-CUE>
+expected	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+released	VBN	_ <O>
+in	IN	_ <O>
+early	JJ	_ <O>
+2008	CD	_ <O>
+.	.	_ <O>
+
+NULL

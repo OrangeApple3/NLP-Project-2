@@ -1,0 +1,164 @@
+NULL
+The	DT	_ <O>
+<unk>	JJ	_ <O>
+trait	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+story	NN	_ <O>
+goes	VBZ	_ <O>
+back	RB	_ <O>
+as	RB	_ <O>
+far	RB	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+myth	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+myth	NN	_ <O>
+'s	POS	_ <O>
+imagery	NN	_ <O>
+of	IN	_ <O>
+meat	NN	_ <O>
+<unk>	NNS	_ <O>
+made	VBN	_ <O>
+from	IN	_ <O>
+people	NNS	_ <O>
+is	VBZ	_ <O>
+almost	RB	_ <O>
+certainly	RB	_ <O>
+an	DT	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+finale	NN	_ <O>
+of	IN	_ <O>
+Shakespeare	NNP	_ <O>
+'s	POS	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+original	JJ	_ <O>
+Roman	JJ	_ <O>
+tale	NN	_ <O>
+on	IN	_ <O>
+which	WDT	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+based	VBN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+story	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	<B-CUE>
+is	VBZ	<I-CUE>
+thought	VBN	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+been	VBN	_ <O>
+a	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+who	WP	_ <O>
+cut	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+customers	NNS	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+French	JJ	_ <O>
+Revolution	NNP	_ <O>
+,	,	_ <O>
+though	IN	_ <O>
+for	IN	_ <O>
+politics	NNS	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+profit	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Likewise	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+-	HYPH	_ <O>
+century	NN	_ <O>
+<unk>	JJ	_ <O>
+figure	NN	_ <O>
+<unk>	NNP	_ <O>
+Bean	NNP	_ <O>
+led	VBD	_ <O>
+a	DT	_ <O>
+family	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+who	WP	_ <O>
+are	VBP	<B-CUE>
+believed	VBN	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+<unk>	VBN	_ <O>
+on	IN	_ <O>
+their	PRP$	_ <O>
+victims	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+relevant	JJ	_ <O>
+that	IN	_ <O>
+'	``	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+could	MD	<B-CUE>
+be	VB	<I-CUE>
+considered	VBN	<I-CUE>
+a	DT	_ <O>
+typically	RB	_ <O>
+Irish	JJ	_ <O>
+name	NN	_ <O>
+,	,	_ <O>
+just	RB	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+Sawney	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+Scottish	JJ	_ <O>
+one	NN	_ <O>
+;	:	_ <O>
+ethnic	JJ	_ <O>
+prejudice	NN	_ <O>
+could	MD	<B-CUE>
+<unk>	VBP	_ <O>
+both	DT	_ <O>
+legends	NNS	_ <O>
+.	.	_ <O>
+
+NULL

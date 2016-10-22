@@ -1,0 +1,126 @@
+NULL
+Relatively	RB	<B-CUE>
+little	RB	_ <O>
+is	VBZ	_ <O>
+known	VBN	_ <O>
+about	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+settlement	NN	_ <O>
+of	IN	_ <O>
+much	JJ	_ <O>
+of	IN	_ <O>
+South	NNP	_ <O>
+America	NNP	_ <O>
+east	RB	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+lack	NN	_ <O>
+of	IN	_ <O>
+stone	NN	_ <O>
+(	-LRB-	_ <O>
+generally	RB	_ <O>
+required	VBN	_ <O>
+for	IN	_ <O>
+leaving	VBG	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+environment	NN	_ <O>
+that	WDT	_ <O>
+rapidly	RB	_ <O>
+<unk>	VBZ	_ <O>
+organic	JJ	_ <O>
+materials	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Beyond	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+regions	NNS	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+inhabitants	NNS	_ <O>
+were	VBD	_ <O>
+more	RBR	_ <O>
+clearly	RB	_ <O>
+related	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+cultures	NNS	_ <O>
+of	IN	_ <O>
+Peru	NNP	_ <O>
+,	,	_ <O>
+early	JJ	_ <O>
+finds	NNS	_ <O>
+are	VBP	_ <O>
+generally	RB	<B-CUE>
+limited	JJ	_ <O>
+to	IN	_ <O>
+coastal	JJ	_ <O>
+areas	NNS	_ <O>
+and	CC	_ <O>
+those	DT	_ <O>
+areas	NNS	_ <O>
+where	WRB	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+stone	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+While	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+evidence	NN	_ <O>
+of	IN	_ <O>
+human	JJ	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+northern	JJ	_ <O>
+Brazil	NNP	_ <O>
+as	RB	_ <O>
+early	RB	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+rock	NN	_ <O>
+art	NN	_ <O>
+of	IN	_ <O>
+unknown	JJ	_ <O>
+(	-LRB-	_ <O>
+or	CC	_ <O>
+at	IN	_ <O>
+best	JJS	_ <O>
+uncertain	JJ	_ <O>
+)	-RRB-	_ <O>
+age	NN	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+appear	VB	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+earliest	JJS	_ <O>
+artistic	JJ	_ <O>
+artifacts	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,152 @@
+NULL
+His	PRP$	_ <O>
+first	JJ	_ <O>
+major	JJ	_ <O>
+league	NN	_ <O>
+hit	VBD	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+bases	NNS	_ <O>
+-	HYPH	_ <O>
+loaded	VBN	_ <O>
+double	NN	_ <O>
+,	,	_ <O>
+came	VBD	_ <O>
+the	DT	_ <O>
+next	JJ	_ <O>
+day	NN	_ <O>
+off	IN	_ <O>
+Bill	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+he	PRP	_ <O>
+went	VBD	_ <O>
+<unk>	XX	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+Seattle	NNP	_ <O>
+<unk>	NNPS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+17	CD	_ <O>
+-	SYM	_ <O>
+3	CD	_ <O>
+Tigers	NNPS	_ <O>
+win	VBP	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+hit	VBD	_ <O>
+his	PRP$	_ <O>
+first	JJ	_ <O>
+major	JJ	_ <O>
+league	NN	_ <O>
+home	NN	_ <O>
+run	NN	_ <O>
+on	IN	_ <O>
+May	NNP	_ <O>
+15	CD	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+Oakland	NNP	_ <O>
+Athletics	NNPS	_ <O>
+;	:	_ <O>
+it	PRP	_ <O>
+came	VBD	_ <O>
+off	RP	_ <O>
+Mike	NNP	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+bottom	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+sixth	JJ	_ <O>
+<unk>	NN	_ <O>
+with	IN	_ <O>
+two	CD	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Joe	NNP	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+on	IN	_ <O>
+base	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+season	NN	_ <O>
+was	VBD	_ <O>
+arguably	RB	<B-CUE>
+his	PRP$	_ <O>
+most	RBS	<B-CUE>
+successful	JJ	<I-CUE>
+;	:	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+a	DT	_ <O>
+<unk>	CD	_ <O>
+<unk>	NN	_ <O>
+average	NN	_ <O>
+,	,	_ <O>
+hit	VBD	_ <O>
+3	CD	_ <O>
+home	NN	_ <O>
+runs	NNS	_ <O>
+,	,	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+30	CD	_ <O>
+runs	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+collected	VBD	_ <O>
+<unk>	CD	_ <O>
+total	JJ	_ <O>
+bases	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+season	NN	_ <O>
+was	VBD	_ <O>
+arguably	RB	<B-CUE>
+his	PRP$	_ <O>
+most	RBS	<B-CUE>
+successful	JJ	<I-CUE>
+;	:	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+a	DT	_ <O>
+<unk>	CD	_ <O>
+<unk>	NN	_ <O>
+average	NN	_ <O>
+,	,	_ <O>
+hit	VBD	_ <O>
+3	CD	_ <O>
+home	NN	_ <O>
+runs	NNS	_ <O>
+,	,	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+30	CD	_ <O>
+runs	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+collected	VBD	_ <O>
+<unk>	CD	_ <O>
+total	JJ	_ <O>
+bases	NNS	_ <O>
+.	.	_ <O>
+
+NULL

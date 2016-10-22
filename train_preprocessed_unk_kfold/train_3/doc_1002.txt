@@ -1,0 +1,143 @@
+NULL
+In	IN	_ <O>
+2001	CD	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+Sun	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+announced	VBD	_ <O>
+that	IN	_ <O>
+they	PRP	_ <O>
+would	MD	_ <O>
+phase	VB	_ <O>
+out	RP	_ <O>
+<unk>	NNP	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+standard	JJ	_ <O>
+<unk>	NN	_ <O>
+on	IN	_ <O>
+their	PRP$	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+favor	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+April	NNP	_ <O>
+2003	CD	_ <O>
+,	,	_ <O>
+HP	NNP	_ <O>
+reportedly	RB	<B-CUE>
+<unk>	VBD	_ <O>
+to	TO	_ <O>
+return	VB	_ <O>
+to	IN	_ <O>
+CDE	NNP	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+had	VBD	_ <O>
+not	RB	_ <O>
+<unk>	VBN	_ <O>
+sufficiently	RB	_ <O>
+for	IN	_ <O>
+their	PRP$	_ <O>
+preference	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+GNOME	NNP	_ <O>
+'s	POS	_ <O>
+non	JJ	_ <O>
+-	HYPH	_ <O>
+frozen	JJ	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+the	DT	_ <O>
+main	JJ	_ <O>
+complaint	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Solaris	NNP	_ <O>
+10	CD	_ <O>
+,	,	_ <O>
+released	VBN	_ <O>
+in	IN	_ <O>
+early	JJ	_ <O>
+2005	CD	_ <O>
+,	,	_ <O>
+includes	VBZ	_ <O>
+both	CC	_ <O>
+CDE	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+GNOME	NNP	_ <O>
+-	HYPH	_ <O>
+based	VBN	_ <O>
+Java	NNP	_ <O>
+Desktop	NNP	_ <O>
+System	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Future	JJ	_ <O>
+releases	NNS	_ <O>
+of	IN	_ <O>
+Solaris	NNP	_ <O>
+will	MD	_ <O>
+be	VB	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+open	JJ	_ <O>
+source	NN	_ <O>
+project	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+states	VBZ	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+no	DT	_ <O>
+plan	NN	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+the	DT	_ <O>
+Solaris	NNP	_ <O>
+CDE	NNP	_ <O>
+"	``	_ <O>
+consolidation	NN	_ <O>
+"	''	_ <O>
+(	-LRB-	_ <O>
+OS	NN	_ <O>
+component	NN	_ <O>
+)	-RRB-	_ <O>
+available	JJ	_ <O>
+as	IN	_ <O>
+open	JJ	_ <O>
+source	NN	_ <O>
+.	.	_ <O>
+
+NULL

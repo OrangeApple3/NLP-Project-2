@@ -1,0 +1,56 @@
+NULL
+This	DT	_ <O>
+<unk>	NN	_ <O>
+killed	VBD	_ <O>
+two	CD	_ <O>
+people	NNS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+home	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+remained	VBD	_ <O>
+for	IN	_ <O>
+14	CD	_ <O>
+miles	NNS	_ <O>
+(	-LRB-	_ <O>
+<unk>	CD	_ <O>
+km	NN	_ <O>
+)	-RRB-	_ <O>
+but	CC	_ <O>
+this	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+partially	RB	_ <O>
+damaged	VBD	_ <O>
+a	DT	_ <O>
+church	NN	_ <O>
+,	,	_ <O>
+twenty	CD	_ <O>
+-	HYPH	_ <O>
+six	CD	_ <O>
+homes	NNS	_ <O>
+and	CC	_ <O>
+mobile	JJ	_ <O>
+homes	NNS	_ <O>
+including	VBG	_ <O>
+other	JJ	_ <O>
+buildings	NNS	_ <O>
+in	IN	_ <O>
+Coal	NNP	_ <O>
+City	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+An	DT	_ <O>
+additional	JJ	_ <O>
+twelve	CD	_ <O>
+people	NNS	_ <O>
+were	VBD	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL

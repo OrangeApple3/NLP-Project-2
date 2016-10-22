@@ -1,0 +1,127 @@
+NULL
+The	DT	_ <O>
+appointment	NN	_ <O>
+of	IN	_ <O>
+Timberlake	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Department	NNP	_ <O>
+of	IN	_ <O>
+Biological	NNP	_ <O>
+Control	NNP	_ <O>
+in	IN	_ <O>
+1924	CD	_ <O>
+was	VBD	_ <O>
+motivated	VBN	_ <O>
+by	IN	_ <O>
+his	PRP$	_ <O>
+extensive	JJ	_ <O>
+knowledge	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+parasitic	JJ	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	JJ	_ <O>
+beetles	NNS	_ <O>
+,	,	_ <O>
+groups	NNS	_ <O>
+of	IN	_ <O>
+importance	NN	_ <O>
+in	IN	_ <O>
+biological	JJ	_ <O>
+control	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+insects	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+late	JJ	_ <O>
+1920s	NNS	_ <O>
+and	CC	_ <O>
+thereafter	RB	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+focused	VBD	_ <O>
+almost	RB	_ <O>
+entirely	RB	_ <O>
+upon	IN	_ <O>
+the	DT	_ <O>
+taxonomy	NN	_ <O>
+of	IN	_ <O>
+native	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+the	DT	_ <O>
+genus	NN	_ <O>
+'	``	_ <O>
+Perdita	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+over	IN	_ <O>
+800	CD	_ <O>
+species	NNS	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+Perdita	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+most	RBS	_ <O>
+described	VBN	_ <O>
+by	IN	_ <O>
+Timberlake	NNP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+also	RB	_ <O>
+by	IN	_ <O>
+T.D.A.	NNP	_ <O>
+Cockerell	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+almost	RB	<B-CUE>
+all	DT	<I-CUE>
+specialist	NN	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+oligoleges	NNS	_ <O>
+)	-RRB-	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+species	NNS	<I-CUE>
+of	IN	<I-CUE>
+plants	NNS	<I-CUE>
+,	,	_ <O>
+especially	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+desert	NN	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+Timberlake	NNP	_ <O>
+carried	VBD	_ <O>
+out	RP	_ <O>
+extensive	JJ	_ <O>
+collecting	VBG	_ <O>
+for	IN	_ <O>
+decades	NNS	_ <O>
+.	.	_ <O>
+
+NULL

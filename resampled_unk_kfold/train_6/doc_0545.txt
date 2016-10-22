@@ -1,0 +1,96 @@
+NULL
+After	IN	_ <O>
+leaving	VBG	_ <O>
+the	DT	_ <O>
+Marines	NNPS	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+worked	VBD	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+Foreign	NNP	_ <O>
+and	CC	_ <O>
+Commonwealth	NNP	_ <O>
+Office	NNP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+industry	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+youth	NN	_ <O>
+<unk>	NN	_ <O>
+before	IN	_ <O>
+being	VBG	_ <O>
+elected	VBN	_ <O>
+Liberal	JJ	_ <O>
+Member	NNP	_ <O>
+of	IN	_ <O>
+Parliament	NNP	_ <O>
+for	IN	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+United	NNP	_ <O>
+Kingdom	NNP	_ <O>
+general	JJ	_ <O>
+election	NN	_ <O>
+,	,	_ <O>
+1983	CD	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+<unk>	NNP	_ <O>
+worked	VBD	_ <O>
+for	IN	_ <O>
+<unk>	CD	_ <O>
+while	IN	_ <O>
+a	DT	_ <O>
+diplomat	NN	_ <O>
+in	IN	_ <O>
+Geneva	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1970s	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+he	PRP	_ <O>
+has	VBZ	_ <O>
+publicly	RB	_ <O>
+denied	VBN	_ <O>
+this	DT	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+suggested	VBN	<I-CUE>
+that	IN	_ <O>
+<unk>	NNP	_ <O>
+worked	VBD	_ <O>
+for	IN	_ <O>
+<unk>	CD	_ <O>
+while	IN	_ <O>
+a	DT	_ <O>
+diplomat	NN	_ <O>
+in	IN	_ <O>
+Geneva	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1970s	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+he	PRP	_ <O>
+has	VBZ	_ <O>
+publicly	RB	_ <O>
+denied	VBN	_ <O>
+this	DT	_ <O>
+.	.	_ <O>
+
+NULL

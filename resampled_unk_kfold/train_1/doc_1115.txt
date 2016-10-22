@@ -1,0 +1,70 @@
+<unk>	IN	_ <O>
+Windows	NNP	_ <O>
+Forms	NNP	_ <O>
+Components	NNPS	_ <O>
+
+NULL
+Once	RB	_ <O>
+again	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+product	NN	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+changed	VBN	_ <O>
+to	TO	_ <O>
+distinguish	VB	_ <O>
+between	IN	_ <O>
+components	NNS	_ <O>
+for	IN	_ <O>
+different	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+fact	NN	_ <O>
+,	,	_ <O>
+Developer	NNP	_ <O>
+Express	NNP	_ <O>
+is	VBZ	<B-CUE>
+believed	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+vendor	NN	_ <O>
+to	TO	_ <O>
+offer	VB	_ <O>
+commercial	JJ	_ <O>
+visual	JJ	_ <O>
+components	NNS	_ <O>
+for	IN	_ <O>
+Visual	NNP	_ <O>
+Studio	NNP	_ <O>
+<unk>	.	_ <O>
+
+NULL
+In	IN	_ <O>
+fact	NN	_ <O>
+,	,	_ <O>
+Developer	NNP	_ <O>
+Express	NNP	_ <O>
+is	VBZ	<B-CUE>
+believed	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+vendor	NN	_ <O>
+to	TO	_ <O>
+offer	VB	_ <O>
+commercial	JJ	_ <O>
+visual	JJ	_ <O>
+components	NNS	_ <O>
+for	IN	_ <O>
+Visual	NNP	_ <O>
+Studio	NNP	_ <O>
+<unk>	.	_ <O>
+
+NULL

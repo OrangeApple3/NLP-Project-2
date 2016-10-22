@@ -1,0 +1,90 @@
+NULL
+<unk>	IN	_ <O>
+Windows	NNP	_ <O>
+Forms	NNP	_ <O>
+Components	NNPS	_ <O>
+
+NULL
+When	WRB	_ <O>
+the	DT	_ <O>
+Microsoft	NNP	_ <O>
+Visual	NNP	_ <O>
+Studio	NNP	_ <O>
+.NET	NNP	_ <O>
+2002	CD	_ <O>
+was	VBD	_ <O>
+in	IN	_ <O>
+early	JJ	_ <O>
+Beta	JJ	_ <O>
+stages	NNS	_ <O>
+,	,	_ <O>
+Developer	NNP	_ <O>
+Express	NNP	_ <O>
+had	VBD	_ <O>
+already	RB	_ <O>
+started	VBN	_ <O>
+to	TO	_ <O>
+research	VB	_ <O>
+the	DT	_ <O>
+forthcoming	JJ	_ <O>
+.NET	NNP	_ <O>
+Framework	NNP	_ <O>
+and	CC	_ <O>
+develop	VB	_ <O>
+components	NNS	_ <O>
+for	IN	_ <O>
+it	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+fact	NN	_ <O>
+,	,	_ <O>
+Developer	NNP	_ <O>
+Express	NNP	_ <O>
+is	VBZ	<B-CUE>
+believed	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+vendor	NN	_ <O>
+to	TO	_ <O>
+offer	VB	_ <O>
+commercial	JJ	_ <O>
+visual	JJ	_ <O>
+components	NNS	_ <O>
+for	IN	_ <O>
+Visual	NNP	_ <O>
+Studio	NNP	_ <O>
+<unk>	.	_ <O>
+
+NULL
+Once	RB	_ <O>
+again	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+product	NN	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+changed	VBN	_ <O>
+to	TO	_ <O>
+distinguish	VB	_ <O>
+between	IN	_ <O>
+components	NNS	_ <O>
+for	IN	_ <O>
+different	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+.NET	JJ	_ <O>
+framework	NN	_ <O>
+components	NNS	_ <O>
+got	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+prefix	NN	_ <O>
+.	.	_ <O>
+
+NULL

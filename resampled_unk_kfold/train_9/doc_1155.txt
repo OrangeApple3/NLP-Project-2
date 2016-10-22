@@ -1,0 +1,132 @@
+Shakespeare	NNP	_ <O>
+is	VBZ	_ <O>
+known	VBN	_ <O>
+for	IN	_ <O>
+borrowing	VBG	_ <O>
+plots	NNS	_ <O>
+and	CC	_ <O>
+characters	NNS	_ <O>
+from	IN	_ <O>
+other	JJ	_ <O>
+stories	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+the	DT	_ <O>
+source	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+A	DT	_ <O>
+Midsummer	NNP	_ <O>
+Night	NNP	_ <O>
+'s	POS	_ <O>
+Dream	NNP	_ <O>
+'	''	_ <O>
+has	VBZ	_ <O>
+proved	VBN	_ <O>
+difficult	JJ	_ <O>
+to	TO	_ <O>
+trace	VB	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+characters	NNS	_ <O>
+have	VBP	_ <O>
+little	JJ	_ <O>
+else	RB	_ <O>
+in	IN	_ <O>
+common	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Because	IN	_ <O>
+Chaucer	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNP	_ <O>
+adopts	VBZ	_ <O>
+this	DT	_ <O>
+identity	NN	_ <O>
+to	TO	_ <O>
+become	VB	_ <O>
+a	DT	_ <O>
+servant	NN	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+court	NN	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+possible	JJ	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Midsummer	NNP	_ <O>
+Night	NNP	_ <O>
+'s	POS	_ <O>
+Dream	NNP	_ <O>
+'	POS	_ <O>
+character	NN	_ <O>
+is	VBZ	_ <O>
+meant	VBN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+person	NN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+continuation	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+story	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Because	IN	_ <O>
+Chaucer	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNP	_ <O>
+adopts	VBZ	_ <O>
+this	DT	_ <O>
+identity	NN	_ <O>
+to	TO	_ <O>
+become	VB	_ <O>
+a	DT	_ <O>
+servant	NN	_ <O>
+at	IN	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+court	NN	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+possible	JJ	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Midsummer	NNP	_ <O>
+Night	NNP	_ <O>
+'s	POS	_ <O>
+Dream	NNP	_ <O>
+'	POS	_ <O>
+character	NN	_ <O>
+is	VBZ	_ <O>
+meant	VBN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+person	NN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+continuation	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+story	NN	_ <O>
+.	.	_ <O>
+
+NULL

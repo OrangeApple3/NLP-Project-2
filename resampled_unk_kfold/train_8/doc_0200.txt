@@ -1,0 +1,271 @@
+NULL
+Democratic	JJ	_ <O>
+caucus	NN	_ <O>
+participants	NNS	_ <O>
+(	-LRB-	_ <O>
+though	IN	_ <O>
+'	``	_ <O>
+not	RB	_ <O>
+'	''	_ <O>
+Republicans	NNPS	_ <O>
+,	,	_ <O>
+whose	WP$	_ <O>
+caucuses	NNS	_ <O>
+vote	VBP	_ <O>
+by	IN	_ <O>
+secret	JJ	_ <O>
+ballot	NN	_ <O>
+)	-RRB-	_ <O>
+must	MD	_ <O>
+<unk>	RB	_ <O>
+state	VB	_ <O>
+their	PRP$	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+vote	NN	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+to	IN	_ <O>
+<unk>	JJ	_ <O>
+problems	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NN	_ <O>
+pressure	NN	_ <O>
+from	IN	_ <O>
+<unk>	JJ	_ <O>
+neighbors	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+over	IN	_ <O>
+who	WP	_ <O>
+<unk>	PRP$	_ <O>
+real	JJ	_ <O>
+<unk>	NN	_ <O>
+might	MD	_ <O>
+be	VB	_ <O>
+.	.	_ <O>
+
+NULL
+Another	DT	_ <O>
+criticism	NN	_ <O>
+involves	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+amount	NN	_ <O>
+of	IN	_ <O>
+participants	NNS	_ <O>
+'	POS	_ <O>
+time	NN	_ <O>
+these	DT	_ <O>
+events	NNS	_ <O>
+<unk>	VBP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Iowa	NNP	_ <O>
+caucus	NN	_ <O>
+<unk>	VBZ	_ <O>
+two	CD	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+people	NNS	_ <O>
+who	WP	_ <O>
+must	MD	_ <O>
+work	VB	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+are	VBP	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+must	MD	_ <O>
+take	VB	_ <O>
+care	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+children	NNS	_ <O>
+from	IN	_ <O>
+casting	VBG	_ <O>
+their	PRP$	_ <O>
+vote	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+final	JJ	_ <O>
+criticism	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+complexity	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+rules	NNS	_ <O>
+in	IN	_ <O>
+terms	NNS	_ <O>
+of	IN	_ <O>
+how	WRB	_ <O>
+one	PRP	_ <O>
+'s	POS	_ <O>
+vote	NN	_ <O>
+<unk>	VBZ	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+a	DT	_ <O>
+simple	JJ	_ <O>
+popular	JJ	_ <O>
+vote	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Ties	NNS	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+<unk>	VBG	_ <O>
+a	DT	_ <O>
+name	NN	_ <O>
+out	IN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+a	DT	_ <O>
+simple	JJ	_ <O>
+<unk>	NN	_ <O>
+toss	NN	_ <O>
+,	,	_ <O>
+leading	VBG	_ <O>
+to	IN	_ <O>
+<unk>	NN	_ <O>
+over	IN	_ <O>
+the	DT	_ <O>
+true	JJ	_ <O>
+democratic	JJ	_ <O>
+nature	NN	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+caucuses	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	<B-CUE>
+is	VBZ	<I-CUE>
+a	DT	<I-CUE>
+debate	NN	<I-CUE>
+over	IN	_ <O>
+the	DT	_ <O>
+effectiveness	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Additionally	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+caucus	NN	_ <O>
+has	VBZ	<B-CUE>
+been	VBN	<I-CUE>
+questioned	VBN	<I-CUE>
+due	IN	_ <O>
+to	IN	_ <O>
+traditionally	RB	_ <O>
+low	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Others	NNS	<B-CUE>
+<unk>	NN	_ <O>
+the	DT	_ <O>
+permanent	JJ	_ <O>
+feature	NN	_ <O>
+of	IN	_ <O>
+having	VBG	_ <O>
+caucuses	NNS	_ <O>
+in	IN	_ <O>
+certain	JJ	_ <O>
+states	NNS	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+country	NN	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	<B-CUE>
+is	VBZ	<I-CUE>
+a	DT	<I-CUE>
+debate	NN	<I-CUE>
+over	IN	_ <O>
+the	DT	_ <O>
+effectiveness	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Additionally	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+caucus	NN	_ <O>
+has	VBZ	<B-CUE>
+been	VBN	<I-CUE>
+questioned	VBN	<I-CUE>
+due	IN	_ <O>
+to	IN	_ <O>
+traditionally	RB	_ <O>
+low	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Others	NNS	<B-CUE>
+<unk>	NN	_ <O>
+the	DT	_ <O>
+permanent	JJ	_ <O>
+feature	NN	_ <O>
+of	IN	_ <O>
+having	VBG	_ <O>
+caucuses	NNS	_ <O>
+in	IN	_ <O>
+certain	JJ	_ <O>
+states	NNS	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+country	NN	_ <O>
+.	.	_ <O>
+
+NULL

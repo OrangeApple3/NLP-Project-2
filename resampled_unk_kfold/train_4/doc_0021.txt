@@ -1,0 +1,198 @@
+In	IN	_ <O>
+reality	NN	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+people	NNS	_ <O>
+had	VBD	_ <O>
+even	RB	_ <O>
+<unk>	VBN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+rumours	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+<unk>	VBD	_ <O>
+in	IN	_ <O>
+September	NNP	_ <O>
+1979	CD	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Pope	NNP	_ <O>
+John	NNP	_ <O>
+Paul	NNP	_ <O>
+II	NNP	_ <O>
+,	,	_ <O>
+<unk>	VBD	_ <O>
+their	PRP$	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+that	IN	_ <O>
+Europe	NNP	_ <O>
+was	VBD	_ <O>
+"	``	_ <O>
+<unk>	JJ	_ <O>
+"	''	_ <O>
+with	IN	_ <O>
+<unk>	NNS	<B-CUE>
+that	IN	_ <O>
+<unk>	NNP	_ <O>
+had	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBG	_ <O>
+with	IN	_ <O>
+<unk>	PRP	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+an	DT	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+and	CC	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+were	VBD	_ <O>
+<unk>	VBG	_ <O>
+and	CC	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNS	<B-CUE>
+<unk>	VBD	<B-CUE>
+<unk>	WRB	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+that	WDT	_ <O>
+few	JJ	<B-CUE>
+outside	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+and	CC	<I-CUE>
+political	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+had	VBD	_ <O>
+heard	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+<unk>	VBD	_ <O>
+in	IN	_ <O>
+September	NNP	_ <O>
+1979	CD	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	VBG	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Pope	NNP	_ <O>
+John	NNP	_ <O>
+Paul	NNP	_ <O>
+II	NNP	_ <O>
+,	,	_ <O>
+<unk>	VBD	_ <O>
+their	PRP$	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+that	IN	_ <O>
+Europe	NNP	_ <O>
+was	VBD	_ <O>
+"	``	_ <O>
+<unk>	JJ	_ <O>
+"	''	_ <O>
+with	IN	_ <O>
+<unk>	NNS	<B-CUE>
+that	IN	_ <O>
+<unk>	NNP	_ <O>
+had	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBG	_ <O>
+with	IN	_ <O>
+<unk>	PRP	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+an	DT	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+and	CC	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+were	VBD	_ <O>
+<unk>	VBG	_ <O>
+and	CC	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNS	<B-CUE>
+<unk>	VBD	<B-CUE>
+<unk>	WRB	_ <O>
+he	PRP	_ <O>
+<unk>	VBD	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+that	WDT	_ <O>
+few	JJ	<B-CUE>
+outside	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+and	CC	<I-CUE>
+political	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+had	VBD	_ <O>
+heard	VBN	_ <O>
+.	.	_ <O>
+
+NULL

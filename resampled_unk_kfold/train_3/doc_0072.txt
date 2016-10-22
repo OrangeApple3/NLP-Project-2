@@ -1,0 +1,119 @@
+NULL
+<unk>	NNP	_ <O>
+<unk>	VBD	_ <O>
+the	DT	_ <O>
+popular	JJ	_ <O>
+Irish	JJ	_ <O>
+<unk>	NN	_ <O>
+The	DT	_ <O>
+<unk>	NNPS	_ <O>
+when	WRB	_ <O>
+Michael	NNP	_ <O>
+<unk>	NNP	_ <O>
+left	VBD	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	IN	_ <O>
+some	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+Brady	NNP	_ <O>
+returned	VBD	_ <O>
+to	IN	_ <O>
+Ireland	NNP	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+Irish	JJ	_ <O>
+group	NN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	JJ	_ <O>
+few	JJ	_ <O>
+years	NNS	_ <O>
+<unk>	VBD	_ <O>
+him	PRP	_ <O>
+<unk>	VB	_ <O>
+his	PRP$	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+as	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+Ireland	NNP	_ <O>
+'s	POS	_ <O>
+best	JJS	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+traditional	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+like	IN	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+were	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+as	IN	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+are	VBP	_ <O>
+still	RB	_ <O>
+popular	JJ	_ <O>
+at	IN	_ <O>
+<unk>	NNS	_ <O>
+today	NN	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NNS	_ <O>
+like	IN	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+were	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+as	IN	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+are	VBP	_ <O>
+still	RB	_ <O>
+popular	JJ	_ <O>
+at	IN	_ <O>
+<unk>	NNS	_ <O>
+today	NN	_ <O>
+.	.	_ <O>
+
+NULL

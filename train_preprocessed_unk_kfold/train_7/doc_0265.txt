@@ -1,0 +1,133 @@
+NULL
+Pioneer	NNP	_ <O>
+Elite	NNP	_ <O>
+<unk>	VBZ	_ <O>
+<unk>	NNS	_ <O>
+that	WDT	_ <O>
+are	VBP	_ <O>
+usually	RB	_ <O>
+higher	JJR	_ <O>
+in	IN	_ <O>
+price	NN	_ <O>
+and	CC	_ <O>
+quality	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Pioneer	NNP	_ <O>
+Elite	NNP	_ <O>
+<unk>	VBD	_ <O>
+electronics	NNS	_ <O>
+usually	RB	<B-CUE>
+have	VBP	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+black	JJ	_ <O>
+finish	NN	_ <O>
+.	.	_ <O>
+:	:	_ <O>
+
+NULL
+Pioneer	NNP	_ <O>
+Elite	JJ	_ <O>
+products	NNS	_ <O>
+include	VBP	_ <O>
+<unk>	NNP	_ <O>
+players	NNS	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+players	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+players	NNS	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+computer	NN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+rear	JJ	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+televisions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Pioneer	NNP	_ <O>
+Elite	NNP	_ <O>
+<unk>	VBD	_ <O>
+their	PRP$	_ <O>
+first	JJ	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+Disc	NN	_ <O>
+player	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Pioneer	NNP	_ <O>
+released	VBD	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+<unk>	CD	_ <O>
+plasma	NN	_ <O>
+display	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+:	:	_ <O>
+
+NULL
+Pioneer	NNP	_ <O>
+has	VBZ	_ <O>
+recently	RB	_ <O>
+released	VBN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+line	NN	_ <O>
+of	IN	_ <O>
+plasma	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+company	NN	_ <O>
+claims	NNS	_ <O>
+have	VBP	_ <O>
+the	DT	_ <O>
+best	JJS	_ <O>
+black	JJ	_ <O>
+levels	NNS	_ <O>
+of	IN	_ <O>
+any	DT	_ <O>
+flat	JJ	_ <O>
+<unk>	NN	_ <O>
+display	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Kuro	JJ	_ <O>
+means	VBZ	_ <O>
+black	JJ	_ <O>
+in	IN	_ <O>
+Japanese	JJ	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,71 @@
+NULL
+In	IN	_ <O>
+other	JJ	_ <O>
+words	NNS	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+believed	VBD	_ <O>
+that	IN	_ <O>
+Russia	NNP	_ <O>
+would	MD	_ <O>
+have	VB	_ <O>
+to	TO	_ <O>
+wait	VB	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+historical	JJ	_ <O>
+development	NN	_ <O>
+experienced	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+West	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Lavrov	NNP	_ <O>
+rejected	VBD	_ <O>
+this	DT	_ <O>
+outlook	NN	_ <O>
+,	,	_ <O>
+believing	VBG	_ <O>
+it	PRP	_ <O>
+possible	JJ	<B-CUE>
+to	TO	_ <O>
+create	VB	_ <O>
+socialism	NN	_ <O>
+by	IN	_ <O>
+<unk>	VBG	_ <O>
+revolutionary	JJ	_ <O>
+tactics	NNS	_ <O>
+on	IN	_ <O>
+Russia	NNP	_ <O>
+’s	POS	_ <O>
+individual	JJ	_ <O>
+history	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Lavrov	NNP	_ <O>
+rejected	VBD	_ <O>
+this	DT	_ <O>
+outlook	NN	_ <O>
+,	,	_ <O>
+believing	VBG	_ <O>
+it	PRP	_ <O>
+possible	JJ	<B-CUE>
+to	TO	_ <O>
+create	VB	_ <O>
+socialism	NN	_ <O>
+by	IN	_ <O>
+<unk>	VBG	_ <O>
+revolutionary	JJ	_ <O>
+tactics	NNS	_ <O>
+on	IN	_ <O>
+Russia	NNP	_ <O>
+’s	POS	_ <O>
+individual	JJ	_ <O>
+history	NN	_ <O>
+.	.	_ <O>
+
+NULL

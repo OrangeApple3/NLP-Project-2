@@ -1,0 +1,359 @@
+A	DT	_ <O>
+scenario	NN	_ <O>
+of	IN	_ <O>
+general	JJ	_ <O>
+<unk>	JJ	_ <O>
+change	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+beginning	NN	_ <O>
+ice	NN	_ <O>
+age	NN	_ <O>
+and	CC	_ <O>
+changes	NNS	_ <O>
+in	IN	_ <O>
+ocean	NN	_ <O>
+<unk>	NNS	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+plate	NN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+e.g.	VB	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	JJ	_ <O>
+current	NN	_ <O>
+or	CC	_ <O>
+the	DT	_ <O>
+closing	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+Panama	NNP	_ <O>
+)	-RRB-	_ <O>
+-	:	_ <O>
+is	VBZ	_ <O>
+more	RBR	_ <O>
+likely	JJ	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+birds	NNS	_ <O>
+as	IN	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+'s	POS	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNS	_ <O>
+ultimately	RB	_ <O>
+failing	VBG	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+that	DT	_ <O>
+respect	NN	_ <O>
+it	PRP	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+significant	JJ	_ <O>
+that	IN	_ <O>
+some	DT	<B-CUE>
+<unk>	NNS	<I-CUE>
+of	IN	<I-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+like	IN	_ <O>
+the	DT	_ <O>
+primitive	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+or	CC	_ <O>
+the	DT	_ <O>
+shark	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+flourished	VBD	_ <O>
+contemporary	JJ	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+became	VBD	_ <O>
+extinct	JJ	_ <O>
+at	IN	_ <O>
+about	RB	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Also	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+modern	JJ	_ <O>
+diversity	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+genera	NN	_ <O>
+evolved	VBD	_ <O>
+largely	RB	_ <O>
+around	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+boundary	NN	_ <O>
+,	,	_ <O>
+suggesting	VBG	<B-CUE>
+that	IN	_ <O>
+many	JJ	<B-CUE>
+ecological	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+emerged	VBD	_ <O>
+or	CC	_ <O>
+became	VBD	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+that	DT	_ <O>
+respect	NN	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+conspicuous	JJ	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+older	JJR	_ <O>
+pseudotooth	NN	_ <O>
+birds	NNS	_ <O>
+are	VBP	_ <O>
+typically	RB	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+deposits	NNS	_ <O>
+as	IN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+younger	JJR	_ <O>
+forms	NNS	_ <O>
+were	VBD	_ <O>
+<unk>	JJ	_ <O>
+with	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+albatrosses	NNS	_ <O>
+,	,	_ <O>
+penguins	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+which	NNP	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+underwent	VBD	_ <O>
+an	DT	_ <O>
+adaptive	JJ	_ <O>
+radiation	NN	_ <O>
+of	IN	_ <O>
+considerable	JJ	_ <O>
+extent	NN	_ <O>
+<unk>	JJ	_ <O>
+(	-LRB-	_ <O>
+and	CC	_ <O>
+probably	RB	<B-CUE>
+caused	VBN	_ <O>
+by	IN	_ <O>
+)	-RRB-	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+final	JJ	_ <O>
+demise	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Paleogene	NNP	_ <O>
+-	HYPH	_ <O>
+type	NN	_ <O>
+<unk>	NN	_ <O>
+web	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+that	DT	_ <O>
+respect	NN	_ <O>
+it	PRP	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+significant	JJ	_ <O>
+that	IN	_ <O>
+some	DT	<B-CUE>
+<unk>	NNS	<I-CUE>
+of	IN	<I-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+like	IN	_ <O>
+the	DT	_ <O>
+primitive	JJ	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+or	CC	_ <O>
+the	DT	_ <O>
+shark	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+flourished	VBD	_ <O>
+contemporary	JJ	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+became	VBD	_ <O>
+extinct	JJ	_ <O>
+at	IN	_ <O>
+about	RB	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Also	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+modern	JJ	_ <O>
+diversity	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+genera	NN	_ <O>
+evolved	VBD	_ <O>
+largely	RB	_ <O>
+around	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+<unk>	NNP	_ <O>
+boundary	NN	_ <O>
+,	,	_ <O>
+suggesting	VBG	<B-CUE>
+that	IN	_ <O>
+many	JJ	<B-CUE>
+ecological	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+emerged	VBD	_ <O>
+or	CC	_ <O>
+became	VBD	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+that	DT	_ <O>
+respect	NN	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+conspicuous	JJ	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+older	JJR	_ <O>
+pseudotooth	NN	_ <O>
+birds	NNS	_ <O>
+are	VBP	_ <O>
+typically	RB	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+deposits	NNS	_ <O>
+as	IN	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+younger	JJR	_ <O>
+forms	NNS	_ <O>
+were	VBD	_ <O>
+<unk>	JJ	_ <O>
+with	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+albatrosses	NNS	_ <O>
+,	,	_ <O>
+penguins	NNS	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+-	HYPH	_ <O>
+which	NNP	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+underwent	VBD	_ <O>
+an	DT	_ <O>
+adaptive	JJ	_ <O>
+radiation	NN	_ <O>
+of	IN	_ <O>
+considerable	JJ	_ <O>
+extent	NN	_ <O>
+<unk>	JJ	_ <O>
+(	-LRB-	_ <O>
+and	CC	_ <O>
+probably	RB	<B-CUE>
+caused	VBN	_ <O>
+by	IN	_ <O>
+)	-RRB-	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+final	JJ	_ <O>
+demise	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Paleogene	NNP	_ <O>
+-	HYPH	_ <O>
+type	NN	_ <O>
+<unk>	NN	_ <O>
+web	NN	_ <O>
+.	.	_ <O>
+
+NULL

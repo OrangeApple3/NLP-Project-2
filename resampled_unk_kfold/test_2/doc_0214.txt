@@ -1,0 +1,24 @@
+<unk>	NNP	_ <O>
+Bowl	NNP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+field	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Philadelphia	NNP	_ <O>
+Eagles	NNPS	_ <O>
+who	WP	_ <O>
+played	VBD	_ <O>
+home	NN	_ <O>
+games	NNS	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+from	IN	_ <O>
+<unk>	CD	_ <O>
+through	IN	_ <O>
+<unk>	CD	_ <O>
+.	.	_ <O>
+
+NULL

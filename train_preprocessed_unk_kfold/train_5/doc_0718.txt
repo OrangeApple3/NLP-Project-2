@@ -1,0 +1,154 @@
+NULL
+In	IN	_ <O>
+these	DT	_ <O>
+memoirs	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+claims	VBZ	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+invented	VBN	_ <O>
+the	DT	_ <O>
+"	``	_ <O>
+<unk>	NN	_ <O>
+"	''	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+words	NNS	_ <O>
+"	``	_ <O>
+if	IN	_ <O>
+and	CC	_ <O>
+only	RB	_ <O>
+if	IN	_ <O>
+"	``	_ <O>
+and	CC	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+been	VBN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+to	TO	_ <O>
+use	VB	_ <O>
+the	DT	_ <O>
+“	JJ	_ <O>
+<unk>	NN	_ <O>
+”	-RRB-	_ <O>
+notation	NN	_ <O>
+to	TO	_ <O>
+signify	VB	_ <O>
+the	DT	_ <O>
+end	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+proof	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+this	DT	<B-CUE>
+is	VBZ	<I-CUE>
+generally	RB	<I-CUE>
+agreed	VBN	<I-CUE>
+to	TO	<I-CUE>
+be	VB	<I-CUE>
+the	DT	<I-CUE>
+case	NN	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+symbol	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	RB	_ <O>
+not	RB	_ <O>
+my	PRP$	_ <O>
+invention	NN	_ <O>
+-	:	_ <O>
+it	PRP	_ <O>
+appeared	VBD	_ <O>
+in	IN	_ <O>
+popular	JJ	_ <O>
+magazines	NNS	_ <O>
+(	-LRB-	_ <O>
+not	RB	_ <O>
+mathematical	JJ	_ <O>
+ones	NNS	_ <O>
+)	-RRB-	_ <O>
+before	IN	_ <O>
+I	PRP	_ <O>
+adopted	VBD	_ <O>
+it	PRP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+,	,	_ <O>
+once	RB	_ <O>
+again	RB	_ <O>
+,	,	_ <O>
+I	PRP	_ <O>
+seem	VBP	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+introduced	VBN	_ <O>
+it	PRP	_ <O>
+into	IN	_ <O>
+mathematics	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+symbol	NN	_ <O>
+that	WDT	_ <O>
+sometimes	RB	_ <O>
+looks	VBZ	_ <O>
+like	IN	_ <O>
+[	-LRB-	_ <O>
+an	DT	_ <O>
+empty	JJ	_ <O>
+square	NN	_ <O>
+]	-RRB-	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+used	VBN	_ <O>
+to	TO	_ <O>
+indicate	VB	_ <O>
+an	DT	_ <O>
+end	NN	_ <O>
+,	,	_ <O>
+usually	RB	_ <O>
+the	DT	_ <O>
+end	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+proof	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+most	RBS	_ <O>
+frequently	RB	_ <O>
+called	VBN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+tombstone	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+at	IN	_ <O>
+least	RBS	_ <O>
+one	CD	_ <O>
+generous	JJ	<B-CUE>
+author	NN	_ <O>
+referred	VBD	_ <O>
+to	IN	_ <O>
+it	PRP	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+halmos	NN	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL

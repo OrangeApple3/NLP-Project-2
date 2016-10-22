@@ -1,0 +1,219 @@
+NULL
+The	DT	_ <O>
+leaders	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+had	VBD	_ <O>
+declared	VBN	_ <O>
+war	NN	_ <O>
+for	IN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+population	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+territory	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+Singer	NNP	_ <O>
+,	,	_ <O>
+head	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+secret	JJ	_ <O>
+police	NN	_ <O>
+"	''	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+"	''	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+had	VBD	_ <O>
+said	VBN	_ <O>
+that	IN	_ <O>
+one	CD	_ <O>
+third	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+(	-LRB-	_ <O>
+living	VBG	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+NDH	NNP	_ <O>
+)	-RRB-	_ <O>
+should	MD	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+,	,	_ <O>
+another	DT	_ <O>
+third	NN	_ <O>
+killed	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+final	JJ	_ <O>
+third	NN	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+To	TO	_ <O>
+meet	VB	_ <O>
+the	DT	_ <O>
+third	JJ	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	<B-CUE>
+given	VBN	<I-CUE>
+to	IN	_ <O>
+those	DT	_ <O>
+who	WP	_ <O>
+would	MD	_ <O>
+<unk>	VB	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	VBG	_ <O>
+the	DT	_ <O>
+Catholic	NNP	_ <O>
+Church	NNP	_ <O>
+and	CC	_ <O>
+<unk>	VBG	_ <O>
+themselves	PRP	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+Croatian	JJ	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+included	VBD	_ <O>
+giving	VBG	_ <O>
+them	PRP	_ <O>
+free	JJ	_ <O>
+land	NN	_ <O>
+and	CC	_ <O>
+lower	JJR	_ <O>
+taxes	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Since	IN	_ <O>
+this	DT	_ <O>
+did	VBD	_ <O>
+not	RB	_ <O>
+<unk>	VB	_ <O>
+many	JJ	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	NNP	_ <O>
+Orthodox	NNP	_ <O>
+Church	NNP	_ <O>
+was	VBD	<B-CUE>
+created	VBN	<I-CUE>
+,	,	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+considered	VBN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+three	CD	_ <O>
+<unk>	NNS	_ <O>
+to	TO	_ <O>
+which	WDT	_ <O>
+<unk>	NNP	_ <O>
+could	MD	_ <O>
+officially	RB	_ <O>
+<unk>	VB	_ <O>
+(	-LRB-	_ <O>
+the	DT	_ <O>
+others	NNS	_ <O>
+being	VBG	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+To	TO	_ <O>
+try	VB	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+conversions	NNS	_ <O>
+to	IN	_ <O>
+this	DT	_ <O>
+church	NN	_ <O>
+,	,	_ <O>
+similar	JJ	_ <O>
+incentives	NNS	_ <O>
+were	VBD	<B-CUE>
+given	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL
+Members	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Serbian	JJ	_ <O>
+Orthodox	NNP	_ <O>
+Church	NNP	_ <O>
+were	VBD	<B-CUE>
+<unk>	VBN	<I-CUE>
+to	TO	_ <O>
+wear	VB	_ <O>
+white	JJ	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+similar	JJ	_ <O>
+to	IN	_ <O>
+Jews	NNPS	_ <O>
+being	VBG	_ <O>
+forced	VBN	_ <O>
+to	TO	_ <O>
+wear	VB	_ <O>
+yellow	JJ	_ <O>
+armbands	NNS	_ <O>
+in	IN	_ <O>
+some	DT	_ <O>
+countries	NNS	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+this	DT	_ <O>
+was	VBD	<B-CUE>
+not	RB	<I-CUE>
+required	VBN	<I-CUE>
+of	IN	_ <O>
+members	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Croat	NNP	_ <O>
+Orthodox	NNP	_ <O>
+Church	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Still	RB	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Croat	NNP	_ <O>
+Orthodox	NNP	_ <O>
+Church	NNP	_ <O>
+were	VBD	_ <O>
+few	JJ	_ <O>
+.	.	_ <O>
+
+NULL

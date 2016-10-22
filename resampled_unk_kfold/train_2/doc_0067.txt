@@ -1,0 +1,78 @@
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+five	CD	_ <O>
+common	JJ	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+<unk>	JJ	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+use	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+home	NN	_ <O>
+.	.	_ <O>
+
+NULL
+"	``	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+Pillows	NNS	_ <O>
+<unk>	VBP	_ <O>
+or	CC	_ <O>
+accent	VBP	_ <O>
+some	DT	_ <O>
+other	JJ	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+home	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+terms	NNS	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+Pillow	NNP	_ <O>
+<unk>	VBP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+place	NN	_ <O>
+these	DT	_ <O>
+decorative	JJ	_ <O>
+pillows	NNS	_ <O>
+are	VBP	_ <O>
+likely	JJ	_ <O>
+found	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+terms	NNS	_ <O>
+<unk>	VBP	_ <O>
+pillow	NN	_ <O>
+and	CC	_ <O>
+<unk>	VB	_ <O>
+pillow	NN	_ <O>
+refer	VB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+way	NN	_ <O>
+they	PRP	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBP	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+places	NNS	_ <O>
+.	.	_ <O>
+
+NULL

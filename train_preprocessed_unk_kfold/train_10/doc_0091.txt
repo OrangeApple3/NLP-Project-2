@@ -1,0 +1,92 @@
+NULL
+When	WRB	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+present	JJ	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+person	NN	_ <O>
+with	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+fluid	NN	_ <O>
+can	MD	_ <O>
+often	RB	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	NN	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	VBG	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+results	NNS	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+fluid	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+requiring	VBG	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+severe	JJ	_ <O>
+cases	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+the	DT	_ <O>
+fluid	NN	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+<unk>	VBN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+may	MD	_ <O>
+<unk>	VB	_ <O>
+,	,	_ <O>
+because	IN	_ <O>
+<unk>	NNS	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+<unk>	VB	_ <O>
+well	RB	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+pleural	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

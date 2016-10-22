@@ -1,0 +1,88 @@
+NULL
+'	``	_ <O>
+Alabama	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	NNP	_ <O>
+Award	NNP	_ <O>
+-	HYPH	_ <O>
+winning	VBG	_ <O>
+country	NN	_ <O>
+music	NN	_ <O>
+band	NN	_ <O>
+that	WDT	_ <O>
+originated	VBD	_ <O>
+in	IN	_ <O>
+Fort	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+Alabama	NNP	_ <O>
+,	,	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+were	VBD	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+commercially	RB	_ <O>
+successful	JJ	_ <O>
+country	NN	_ <O>
+act	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1980s	NNS	_ <O>
+and	CC	_ <O>
+remain	VBP	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+American	JJ	_ <O>
+musical	JJ	_ <O>
+acts	NNS	_ <O>
+of	IN	_ <O>
+all	DT	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+band	NN	_ <O>
+is	VBZ	<B-CUE>
+often	RB	<I-CUE>
+credited	VBN	<I-CUE>
+with	IN	_ <O>
+bringing	VBG	_ <O>
+country	NN	_ <O>
+music	NN	_ <O>
+groups	NNS	_ <O>
+(	-LRB-	_ <O>
+as	IN	_ <O>
+opposed	VBN	_ <O>
+to	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+)	-RRB-	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+mainstream	NN	_ <O>
+,	,	_ <O>
+paving	VBG	_ <O>
+the	DT	_ <O>
+way	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+success	NN	_ <O>
+of	IN	_ <O>
+today	NN	_ <O>
+'s	POS	_ <O>
+top	JJ	_ <O>
+country	NN	_ <O>
+groups	NNS	_ <O>
+.	.	_ <O>
+
+NULL

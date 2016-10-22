@@ -1,0 +1,195 @@
+Greater	JJ	_ <O>
+wealth	NN	_ <O>
+in	IN	_ <O>
+<unk>	JJ	_ <O>
+nations	NNS	_ <O>
+also	RB	_ <O>
+means	VBZ	_ <O>
+that	IN	_ <O>
+more	JJR	_ <O>
+money	NN	_ <O>
+is	VBZ	_ <O>
+spent	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+services	NNS	_ <O>
+provided	VBN	_ <O>
+by	IN	_ <O>
+pink	JJ	_ <O>
+collar	NN	_ <O>
+positions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Not	RB	_ <O>
+only	RB	_ <O>
+this	DT	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+as	IN	_ <O>
+women	NNS	_ <O>
+are	VBP	_ <O>
+becoming	VBG	_ <O>
+more	RBR	_ <O>
+educated	JJ	_ <O>
+,	,	_ <O>
+more	JJR	_ <O>
+employment	NN	_ <O>
+opportunities	NNS	_ <O>
+have	VBP	_ <O>
+become	VBN	_ <O>
+available	JJ	_ <O>
+that	IN	_ <O>
+once	RB	_ <O>
+were	VBD	_ <O>
+out	IN	_ <O>
+of	IN	_ <O>
+reach	NN	_ <O>
+for	IN	_ <O>
+most	JJS	_ <O>
+women	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Often	RB	_ <O>
+kept	VBD	_ <O>
+out	IN	_ <O>
+of	IN	_ <O>
+traditional	JJ	_ <O>
+blue	JJ	_ <O>
+and	CC	_ <O>
+white	JJ	_ <O>
+<unk>	NN	_ <O>
+jobs	NNS	_ <O>
+by	IN	_ <O>
+physical	JJ	_ <O>
+requirements	NNS	_ <O>
+and	CC	_ <O>
+prejudice	NN	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+women	NNS	<I-CUE>
+found	VBD	_ <O>
+ways	NNS	_ <O>
+to	TO	_ <O>
+take	VB	_ <O>
+their	PRP$	_ <O>
+domestic	JJ	_ <O>
+skills	NNS	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+of	IN	_ <O>
+paid	VBN	_ <O>
+work	NN	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+the	DT	_ <O>
+twentieth	JJ	_ <O>
+century	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+some	DT	<B-CUE>
+ups	NNS	<I-CUE>
+and	CC	<I-CUE>
+<unk>	NNS	<I-CUE>
+within	IN	_ <O>
+the	DT	_ <O>
+culture	NN	_ <O>
+and	CC	_ <O>
+different	JJ	_ <O>
+degrees	NNS	_ <O>
+of	IN	_ <O>
+change	NN	_ <O>
+in	IN	_ <O>
+different	JJ	_ <O>
+countries	NNS	_ <O>
+,	,	_ <O>
+there	EX	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+less	JJR	_ <O>
+separation	NN	_ <O>
+between	IN	_ <O>
+men	NNS	_ <O>
+'s	POS	_ <O>
+and	CC	_ <O>
+women	NNS	_ <O>
+'s	POS	_ <O>
+jobs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Often	RB	_ <O>
+kept	VBD	_ <O>
+out	IN	_ <O>
+of	IN	_ <O>
+traditional	JJ	_ <O>
+blue	JJ	_ <O>
+and	CC	_ <O>
+white	JJ	_ <O>
+<unk>	NN	_ <O>
+jobs	NNS	_ <O>
+by	IN	_ <O>
+physical	JJ	_ <O>
+requirements	NNS	_ <O>
+and	CC	_ <O>
+prejudice	NN	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+women	NNS	<I-CUE>
+found	VBD	_ <O>
+ways	NNS	_ <O>
+to	TO	_ <O>
+take	VB	_ <O>
+their	PRP$	_ <O>
+domestic	JJ	_ <O>
+skills	NNS	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+of	IN	_ <O>
+paid	VBN	_ <O>
+work	NN	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+the	DT	_ <O>
+twentieth	JJ	_ <O>
+century	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+some	DT	<B-CUE>
+ups	NNS	<I-CUE>
+and	CC	<I-CUE>
+<unk>	NNS	<I-CUE>
+within	IN	_ <O>
+the	DT	_ <O>
+culture	NN	_ <O>
+and	CC	_ <O>
+different	JJ	_ <O>
+degrees	NNS	_ <O>
+of	IN	_ <O>
+change	NN	_ <O>
+in	IN	_ <O>
+different	JJ	_ <O>
+countries	NNS	_ <O>
+,	,	_ <O>
+there	EX	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+less	JJR	_ <O>
+separation	NN	_ <O>
+between	IN	_ <O>
+men	NNS	_ <O>
+'s	POS	_ <O>
+and	CC	_ <O>
+women	NNS	_ <O>
+'s	POS	_ <O>
+jobs	NNS	_ <O>
+.	.	_ <O>
+
+NULL

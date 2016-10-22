@@ -1,0 +1,29 @@
+NULL
+On	IN	_ <O>
+Easter	NNP	_ <O>
+Monday	NNP	_ <O>
+,	,	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+an	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBD	_ <O>
+in	IN	_ <O>
+Ireland	NNP	_ <O>
+took	VBD	_ <O>
+place	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	VBG	_ <O>
+British	JJ	_ <O>
+rule	NN	_ <O>
+and	CC	_ <O>
+<unk>	VBG	_ <O>
+an	DT	_ <O>
+Irish	NNP	_ <O>
+Republic	NNP	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,174 @@
+NULL
+The	DT	_ <O>
+military	JJ	_ <O>
+policing	NN	_ <O>
+responsibilities	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+France	NNP	_ <O>
+were	VBD	_ <O>
+<unk>	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Marshal	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+whose	WP$	_ <O>
+force	NN	_ <O>
+was	VBD	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+Marshalcy	NNP	_ <O>
+because	IN	_ <O>
+its	PRP$	_ <O>
+authority	NN	_ <O>
+ultimately	RB	_ <O>
+derived	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+Marshal	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+direct	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+regime	NN	_ <O>
+,	,	_ <O>
+more	RBR	<B-CUE>
+commonly	RB	<I-CUE>
+known	VBN	_ <O>
+by	IN	_ <O>
+its	PRP$	_ <O>
+French	JJ	_ <O>
+title	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+marshalcy	NN	_ <O>
+<unk>	VBZ	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Hundred	NNP	_ <O>
+Years	NNP	_ <O>
+War	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+historians	NNS	<I-CUE>
+<unk>	VB	_ <O>
+it	PRP	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+<unk>	JJ	_ <O>
+century	NN	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+the	DT	_ <O>
+revolutionary	JJ	_ <O>
+period	NN	_ <O>
+,	,	_ <O>
+marshalcy	NN	_ <O>
+commanders	NNS	_ <O>
+generally	RB	<B-CUE>
+placed	VBD	_ <O>
+themselves	PRP	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+local	JJ	_ <O>
+constitutional	JJ	_ <O>
+authorities	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+direct	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+regime	NN	_ <O>
+,	,	_ <O>
+more	RBR	<B-CUE>
+commonly	RB	<I-CUE>
+known	VBN	_ <O>
+by	IN	_ <O>
+its	PRP$	_ <O>
+French	JJ	_ <O>
+title	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+marshalcy	NN	_ <O>
+<unk>	VBZ	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Hundred	NNP	_ <O>
+Years	NNP	_ <O>
+War	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+historians	NNS	<I-CUE>
+<unk>	VB	_ <O>
+it	PRP	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+<unk>	JJ	_ <O>
+century	NN	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+the	DT	_ <O>
+revolutionary	JJ	_ <O>
+period	NN	_ <O>
+,	,	_ <O>
+marshalcy	NN	_ <O>
+commanders	NNS	_ <O>
+generally	RB	<B-CUE>
+placed	VBD	_ <O>
+themselves	PRP	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+local	JJ	_ <O>
+constitutional	JJ	_ <O>
+authorities	NNS	_ <O>
+.	.	_ <O>
+
+NULL

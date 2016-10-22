@@ -1,0 +1,188 @@
+In	IN	_ <O>
+addition	NN	_ <O>
+,	,	_ <O>
+two	CD	_ <O>
+color	NN	_ <O>
+names	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+combined	VBN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+in	IN	_ <O>
+"	``	_ <O>
+gray	JJ	_ <O>
+green	JJ	_ <O>
+"	''	_ <O>
+or	CC	_ <O>
+"	``	_ <O>
+brown	JJ	_ <O>
+orange	NN	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+name	NN	_ <O>
+indicates	VBZ	_ <O>
+the	DT	_ <O>
+direction	NN	_ <O>
+of	IN	_ <O>
+modification	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+second	JJ	_ <O>
+color	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	<B-CUE>
+general	JJ	<I-CUE>
+,	,	_ <O>
+collectors	NNS	_ <O>
+follow	VBP	_ <O>
+the	DT	_ <O>
+stamp	NN	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+color	NN	_ <O>
+nomenclature	NN	_ <O>
+,	,	_ <O>
+even	RB	_ <O>
+though	IN	_ <O>
+the	DT	_ <O>
+different	JJ	_ <O>
+catalogs	NNS	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+<unk>	JJ	_ <O>
+with	IN	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Although	IN	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+a	DT	_ <O>
+great	JJ	_ <O>
+many	JJ	<B-CUE>
+named	VBN	<I-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNS	_ <O>
+is	VBZ	_ <O>
+limited	JJ	_ <O>
+to	IN	_ <O>
+several	JJ	<B-CUE>
+<unk>	NN	<I-CUE>
+,	,	_ <O>
+modified	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+dark	JJ	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+light	JJ	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+pale	JJ	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+<unk>	JJ	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+deep	JJ	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	<B-CUE>
+general	JJ	<I-CUE>
+,	,	_ <O>
+collectors	NNS	_ <O>
+follow	VBP	_ <O>
+the	DT	_ <O>
+stamp	NN	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+color	NN	_ <O>
+nomenclature	NN	_ <O>
+,	,	_ <O>
+even	RB	_ <O>
+though	IN	_ <O>
+the	DT	_ <O>
+different	JJ	_ <O>
+catalogs	NNS	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+<unk>	JJ	_ <O>
+with	IN	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Although	IN	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+a	DT	_ <O>
+great	JJ	_ <O>
+many	JJ	<B-CUE>
+named	VBN	<I-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNS	_ <O>
+is	VBZ	_ <O>
+limited	JJ	_ <O>
+to	IN	_ <O>
+several	JJ	<B-CUE>
+<unk>	NN	<I-CUE>
+,	,	_ <O>
+modified	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+dark	JJ	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+light	JJ	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+pale	JJ	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+<unk>	JJ	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+deep	JJ	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,245 @@
+In	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+siege	NN	_ <O>
+,	,	_ <O>
+Phuthi	NNP	_ <O>
+people	NNS	_ <O>
+dispersed	VBD	_ <O>
+widely	RB	_ <O>
+over	IN	_ <O>
+what	WP	_ <O>
+is	VBZ	_ <O>
+<unk>	JJ	_ <O>
+southern	JJ	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+northern	JJ	_ <O>
+<unk>	NNP	_ <O>
+region	NN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+capture	NN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	<B-CUE>
+most	RBS	<I-CUE>
+famous	JJ	<I-CUE>
+<unk>	NNP	_ <O>
+leader	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+historical	JJ	_ <O>
+record	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+powerful	JJ	<B-CUE>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+died	VBD	_ <O>
+in	IN	_ <O>
+unclear	JJ	_ <O>
+circumstances	NNS	_ <O>
+on	IN	_ <O>
+<unk>	NNP	_ <O>
+Moorosi	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+<unk>	NNP	_ <O>
+Moorosi	NNP	_ <O>
+'	POS	_ <O>
+)	-RRB-	_ <O>
+in	IN	_ <O>
+1879	CD	_ <O>
+,	,	_ <O>
+after	IN	_ <O>
+a	DT	_ <O>
+<unk>	VBN	_ <O>
+nine	CD	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+British	NNP	_ <O>
+,	,	_ <O>
+'	``	_ <O>
+<unk>	NNS	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+i.e.	FW	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+military	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+siege	NN	_ <O>
+is	VBZ	<B-CUE>
+often	RB	<I-CUE>
+referred	VBN	<I-CUE>
+to	IN	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+Moorosi	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NN	_ <O>
+that	WDT	_ <O>
+<unk>	VBD	_ <O>
+the	DT	_ <O>
+siege	NN	_ <O>
+was	VBD	_ <O>
+alleged	VBN	<B-CUE>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	<B-CUE>
+most	RBS	<I-CUE>
+famous	JJ	<I-CUE>
+<unk>	NNP	_ <O>
+leader	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+historical	JJ	_ <O>
+record	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+powerful	JJ	<B-CUE>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	VBN	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+died	VBD	_ <O>
+in	IN	_ <O>
+unclear	JJ	_ <O>
+circumstances	NNS	_ <O>
+on	IN	_ <O>
+<unk>	NNP	_ <O>
+Moorosi	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+'	POS	_ <O>
+<unk>	NNP	_ <O>
+Moorosi	NNP	_ <O>
+'	POS	_ <O>
+)	-RRB-	_ <O>
+in	IN	_ <O>
+1879	CD	_ <O>
+,	,	_ <O>
+after	IN	_ <O>
+a	DT	_ <O>
+<unk>	VBN	_ <O>
+nine	CD	_ <O>
+-	HYPH	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+British	NNP	_ <O>
+,	,	_ <O>
+'	``	_ <O>
+<unk>	NNS	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+i.e.	FW	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+military	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+siege	NN	_ <O>
+is	VBZ	<B-CUE>
+often	RB	<I-CUE>
+referred	VBN	<I-CUE>
+to	IN	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+Moorosi	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NNP	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+<unk>	NN	_ <O>
+that	WDT	_ <O>
+<unk>	VBD	_ <O>
+the	DT	_ <O>
+siege	NN	_ <O>
+was	VBD	_ <O>
+alleged	VBN	<B-CUE>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+
+NULL

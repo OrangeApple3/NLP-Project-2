@@ -1,0 +1,145 @@
+NULL
+In	IN	_ <O>
+general	JJ	_ <O>
+,	,	_ <O>
+cross	VB	_ <O>
+-	HYPH	_ <O>
+age	NN	_ <O>
+<unk>	NN	_ <O>
+programs	NNS	_ <O>
+can	MD	_ <O>
+involve	VB	_ <O>
+a	DT	_ <O>
+tutoring	NN	_ <O>
+or	CC	_ <O>
+teaching	NN	_ <O>
+component	NN	_ <O>
+,	,	_ <O>
+personal	JJ	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+guidance	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+both	CC	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+maintains	VBZ	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+advantages	NNS	<I-CUE>
+inherent	JJ	_ <O>
+in	IN	_ <O>
+other	JJ	_ <O>
+forms	NNS	_ <O>
+of	IN	_ <O>
+peer	NN	_ <O>
+mentorship	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Because	IN	_ <O>
+student	NN	_ <O>
+<unk>	NNS	_ <O>
+are	VBP	_ <O>
+closer	JJR	_ <O>
+in	IN	_ <O>
+age	NN	_ <O>
+,	,	_ <O>
+knowledge	NN	_ <O>
+,	,	_ <O>
+authority	NN	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+development	NN	_ <O>
+than	IN	_ <O>
+adult	JJ	_ <O>
+mentors	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+often	RB	_ <O>
+feel	VBP	_ <O>
+<unk>	JJR	_ <O>
+to	TO	_ <O>
+express	VB	_ <O>
+ideas	NNS	_ <O>
+,	,	_ <O>
+<unk>	VB	_ <O>
+questions	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+take	VB	_ <O>
+risks	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+These	DT	_ <O>
+<unk>	NNS	_ <O>
+also	RB	_ <O>
+make	VBP	_ <O>
+it	PRP	_ <O>
+easier	JJR	_ <O>
+for	IN	_ <O>
+mentors	NNS	_ <O>
+to	TO	_ <O>
+understand	VB	_ <O>
+personal	JJ	_ <O>
+and	CC	_ <O>
+academic	JJ	_ <O>
+problems	NNS	_ <O>
+that	WDT	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+<unk>	VBG	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+present	JJ	_ <O>
+solutions	NNS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+more	RBR	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+relevant	JJ	_ <O>
+way	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+specific	JJ	_ <O>
+benefits	NNS	_ <O>
+of	IN	_ <O>
+cross	NN	_ <O>
+-	HYPH	_ <O>
+age	NN	_ <O>
+<unk>	NN	_ <O>
+are	VBP	_ <O>
+numerous	JJ	<B-CUE>
+,	,	_ <O>
+and	CC	_ <O>
+are	VBP	_ <O>
+<unk>	RB	_ <O>
+described	VBN	_ <O>
+here	RB	_ <O>
+in	IN	_ <O>
+three	CD	_ <O>
+main	JJ	_ <O>
+categories	NNS	_ <O>
+:	:	_ <O>
+increased	VBD	_ <O>
+academic	JJ	_ <O>
+achievement	NN	_ <O>
+,	,	_ <O>
+improved	VBD	_ <O>
+<unk>	JJ	_ <O>
+skills	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+personal	JJ	_ <O>
+development	NN	_ <O>
+.	.	_ <O>
+
+NULL

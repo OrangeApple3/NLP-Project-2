@@ -1,0 +1,88 @@
+NULL
+Inmates	NNS	_ <O>
+are	VBP	_ <O>
+allowed	VBN	_ <O>
+to	TO	_ <O>
+bring	VB	_ <O>
+an	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+cell	NN	_ <O>
+or	CC	_ <O>
+watch	VB	_ <O>
+TV	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+common	JJ	_ <O>
+room	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+may	MD	_ <O>
+even	RB	_ <O>
+get	VB	_ <O>
+to	TO	_ <O>
+leave	VB	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+day	NN	_ <O>
+to	TO	_ <O>
+go	VB	_ <O>
+to	IN	_ <O>
+work	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Prisoners	NNS	_ <O>
+are	VBP	_ <O>
+safe	JJ	_ <O>
+from	IN	_ <O>
+prison	NN	_ <O>
+gangs	NNS	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+dangerous	JJ	_ <O>
+prisoners	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+may	MD	_ <O>
+have	VB	_ <O>
+their	PRP$	_ <O>
+food	NN	_ <O>
+delivered	VBN	_ <O>
+to	IN	_ <O>
+their	PRP$	_ <O>
+cell	NN	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+going	VBG	_ <O>
+the	DT	_ <O>
+jail	NN	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+they	PRP	_ <O>
+may	MD	_ <O>
+choose	VB	_ <O>
+to	TO	_ <O>
+enjoy	VB	_ <O>
+meals	NNS	_ <O>
+brought	VBN	_ <O>
+by	IN	_ <O>
+their	PRP$	_ <O>
+families	NNS	_ <O>
+during	IN	_ <O>
+visiting	VBG	_ <O>
+hours	NNS	_ <O>
+.	.	_ <O>
+
+NULL

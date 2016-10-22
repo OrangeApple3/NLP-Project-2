@@ -1,0 +1,84 @@
+NULL
+At	IN	_ <O>
+a	DT	_ <O>
+pep	NN	_ <O>
+rally	NN	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+will	MD	_ <O>
+often	RB	_ <O>
+lead	VB	_ <O>
+in	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+intended	VBN	_ <O>
+to	TO	_ <O>
+get	VB	_ <O>
+the	DT	_ <O>
+student	NN	_ <O>
+body	NN	_ <O>
+involved	VBN	_ <O>
+and	CC	_ <O>
+supporting	VBG	_ <O>
+the	DT	_ <O>
+school	NN	_ <O>
+'s	POS	_ <O>
+team	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Games	NNS	_ <O>
+between	IN	_ <O>
+competing	VBG	_ <O>
+classes	NNS	_ <O>
+with	IN	_ <O>
+small	JJ	_ <O>
+prizes	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+held	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+school	NN	_ <O>
+'s	POS	_ <O>
+band	NN	_ <O>
+will	MD	_ <O>
+often	RB	_ <O>
+play	VB	_ <O>
+<unk>	JJ	_ <O>
+music	NN	_ <O>
+in	IN	_ <O>
+between	IN	_ <O>
+demonstrations	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+may	MD	_ <O>
+play	VB	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+case	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+<unk>	NNP	_ <O>
+game	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Homecoming	NNP	_ <O>
+"	``	_ <O>
+court	NN	_ <O>
+"	''	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+chosen	VBN	_ <O>
+and	CC	_ <O>
+announced	VBN	_ <O>
+.	.	_ <O>
+
+NULL

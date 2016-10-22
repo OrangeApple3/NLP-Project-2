@@ -1,0 +1,100 @@
+NULL
+The	DT	_ <O>
+twist	NN	_ <O>
+was	VBD	_ <O>
+that	IN	_ <O>
+her	PRP$	_ <O>
+man	NN	_ <O>
+had	VBD	_ <O>
+romantic	JJ	_ <O>
+and	CC	_ <O>
+sexual	JJ	_ <O>
+desires	NNS	_ <O>
+for	IN	_ <O>
+another	DT	_ <O>
+man	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Released	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+single	JJ	_ <O>
+the	DT	_ <O>
+song	NN	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+Bill	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+initially	RB	_ <O>
+just	RB	_ <O>
+to	IN	_ <O>
+blues	NNS	_ <O>
+radio	NN	_ <O>
+stations	NNS	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+also	RB	_ <O>
+began	VBD	_ <O>
+getting	VBG	_ <O>
+airplay	NN	_ <O>
+on	IN	_ <O>
+Urban	NNP	_ <O>
+contemporary	JJ	_ <O>
+radio	NN	_ <O>
+and	CC	_ <O>
+soon	RB	_ <O>
+gained	VBD	_ <O>
+most	RBS	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+status	NN	_ <O>
+at	IN	_ <O>
+several	JJ	<B-CUE>
+larger	JJR	<I-CUE>
+stations	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Released	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+single	JJ	_ <O>
+the	DT	_ <O>
+song	NN	_ <O>
+,	,	_ <O>
+"	``	_ <O>
+Bill	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+initially	RB	_ <O>
+just	RB	_ <O>
+to	IN	_ <O>
+blues	NNS	_ <O>
+radio	NN	_ <O>
+stations	NNS	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+also	RB	_ <O>
+began	VBD	_ <O>
+getting	VBG	_ <O>
+airplay	NN	_ <O>
+on	IN	_ <O>
+Urban	NNP	_ <O>
+contemporary	JJ	_ <O>
+radio	NN	_ <O>
+and	CC	_ <O>
+soon	RB	_ <O>
+gained	VBD	_ <O>
+most	RBS	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+status	NN	_ <O>
+at	IN	_ <O>
+several	JJ	<B-CUE>
+larger	JJR	<I-CUE>
+stations	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

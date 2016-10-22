@@ -1,0 +1,84 @@
+NULL
+Oral	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+developed	VBN	_ <O>
+by	IN	_ <O>
+several	JJ	_ <O>
+groups	NNS	_ <O>
+,	,	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+which	WDT	_ <O>
+was	VBD	_ <O>
+led	VBN	_ <O>
+by	IN	_ <O>
+Albert	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Other	JJ	_ <O>
+groups	NNS	_ <O>
+,	,	_ <O>
+led	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+developed	VBD	_ <O>
+their	PRP$	_ <O>
+own	JJ	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+various	JJ	_ <O>
+vaccines	NNS	_ <O>
+were	VBD	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBN	_ <O>
+for	IN	_ <O>
+their	PRP$	_ <O>
+ability	NN	_ <O>
+to	TO	_ <O>
+induce	VB	_ <O>
+<unk>	NN	_ <O>
+to	IN	_ <O>
+polio	NN	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+<unk>	VBG	_ <O>
+a	DT	_ <O>
+low	JJ	_ <O>
+incidence	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Based	VBN	_ <O>
+on	IN	_ <O>
+these	DT	_ <O>
+results	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Sabin	NNP	_ <O>
+strains	NNS	_ <O>
+were	VBD	_ <O>
+chosen	VBN	_ <O>
+for	IN	_ <O>
+worldwide	JJ	_ <O>
+distribution	NN	_ <O>
+.	.	_ <O>
+
+NULL

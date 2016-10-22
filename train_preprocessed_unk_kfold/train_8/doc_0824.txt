@@ -1,0 +1,89 @@
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+often	RB	<I-CUE>
+said	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+phone	NN	_ <O>
+number	NN	_ <O>
+<unk>	CD	_ <O>
+-	HYPH	_ <O>
+<unk>	CD	_ <O>
+was	VBD	_ <O>
+that	DT	_ <O>
+of	IN	_ <O>
+an	DT	_ <O>
+apartment	NN	_ <O>
+building	NN	_ <O>
+in	IN	_ <O>
+State	NNP	_ <O>
+College	NNP	_ <O>
+,	,	_ <O>
+Pennsylvania	NNP	_ <O>
+,	,	_ <O>
+home	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+State	NNP	_ <O>
+University	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+number	NN	_ <O>
+is	VBZ	<B-CUE>
+said	VBN	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+belonged	VBN	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+girl	NN	_ <O>
+living	VBG	_ <O>
+in	IN	_ <O>
+downtown	NN	_ <O>
+State	NN	_ <O>
+College	NNP	_ <O>
+in	IN	_ <O>
+either	CC	_ <O>
+the	DT	_ <O>
+Beaver	NNP	_ <O>
+Hill	NNP	_ <O>
+or	CC	_ <O>
+<unk>	NNP	_ <O>
+apartment	NN	_ <O>
+buildings	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Allegedly	RB	<B-CUE>
+,	,	_ <O>
+this	DT	_ <O>
+female	JJ	_ <O>
+had	VBD	_ <O>
+<unk>	NNS	_ <O>
+(	-LRB-	_ <O>
+although	IN	_ <O>
+not	RB	_ <O>
+clear	JJ	_ <O>
+what	WDT	_ <O>
+kind	NN	_ <O>
+of	IN	_ <O>
+connections	NNS	_ <O>
+)	-RRB-	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+band	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+why	WRB	_ <O>
+her	PRP$	_ <O>
+phone	NN	_ <O>
+number	NN	_ <O>
+was	VBD	_ <O>
+used	VBN	_ <O>
+.	.	_ <O>
+
+NULL

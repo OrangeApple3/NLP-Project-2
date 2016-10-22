@@ -1,0 +1,162 @@
+NULL
+As	IN	_ <O>
+it	PRP	_ <O>
+turned	VBD	_ <O>
+out	RP	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+was	VBD	_ <O>
+actually	RB	_ <O>
+a	DT	_ <O>
+major	JJ	_ <O>
+factor	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+gameplay	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+first	JJ	_ <O>
+round	NN	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+instance	NN	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+Aztec	NNP	_ <O>
+is	VBZ	_ <O>
+running	VBG	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+while	IN	_ <O>
+<unk>	VBG	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+all	RB	_ <O>
+about	IN	_ <O>
+<unk>	VBG	_ <O>
+to	TO	_ <O>
+push	VB	_ <O>
+<unk>	RB	_ <O>
+or	CC	_ <O>
+back	RB	_ <O>
+almost	RB	_ <O>
+<unk>	RB	_ <O>
+depending	VBG	_ <O>
+on	IN	_ <O>
+whether	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+was	VBD	_ <O>
+high	JJ	_ <O>
+or	CC	_ <O>
+low	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+(	-LRB-	_ <O>
+Note	VB	_ <O>
+:	:	_ <O>
+while	IN	_ <O>
+this	DT	_ <O>
+may	MD	_ <O>
+sound	VB	_ <O>
+very	RB	_ <O>
+'	``	_ <O>
+maverick	JJ	_ <O>
+'	''	_ <O>
+of	IN	_ <O>
+me	PRP	_ <O>
+,	,	_ <O>
+let	VB	_ <O>
+me	PRP	_ <O>
+warn	VB	_ <O>
+you	PRP	_ <O>
+;	:	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+by	IN	_ <O>
+no	DT	_ <O>
+means	NN	_ <O>
+<unk>	VBZ	_ <O>
+popularity	NN	_ <O>
+.	.	_ <O>
+)	-RRB-	_ <O>
+
+NULL
+I	PRP	_ <O>
+do	VBP	_ <O>
+remember	VB	_ <O>
+putting	VBG	_ <O>
+some	DT	_ <O>
+effort	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	VBP	_ <O>
+this	DT	_ <O>
+was	VBD	_ <O>
+only	RB	_ <O>
+the	DT	_ <O>
+second	JJ	_ <O>
+program	NN	_ <O>
+I	PRP	_ <O>
+<unk>	MD	_ <O>
+written	VBN	_ <O>
+)	-RRB-	_ <O>
+into	IN	_ <O>
+using	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+new	JJ	<I-CUE>
+ways	NNS	<I-CUE>
+to	TO	_ <O>
+get	VB	_ <O>
+greater	JJR	_ <O>
+<unk>	NN	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+character	NN	_ <O>
+.	.	_ <O>
+
+NULL
+I	PRP	_ <O>
+do	VBP	_ <O>
+remember	VB	_ <O>
+putting	VBG	_ <O>
+some	DT	_ <O>
+effort	NN	_ <O>
+(	-LRB-	_ <O>
+<unk>	VBP	_ <O>
+this	DT	_ <O>
+was	VBD	_ <O>
+only	RB	_ <O>
+the	DT	_ <O>
+second	JJ	_ <O>
+program	NN	_ <O>
+I	PRP	_ <O>
+<unk>	MD	_ <O>
+written	VBN	_ <O>
+)	-RRB-	_ <O>
+into	IN	_ <O>
+using	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+new	JJ	<I-CUE>
+ways	NNS	<I-CUE>
+to	TO	_ <O>
+get	VB	_ <O>
+greater	JJR	_ <O>
+<unk>	NN	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+character	NN	_ <O>
+.	.	_ <O>
+
+NULL

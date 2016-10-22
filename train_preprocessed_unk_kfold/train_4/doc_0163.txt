@@ -1,0 +1,121 @@
+NULL
+It	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+reported	VBN	<I-CUE>
+that	IN	_ <O>
+<unk>	NNP	_ <O>
+died	VBD	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+<unk>	NNP	_ <O>
+but	CC	_ <O>
+this	DT	<B-CUE>
+claim	NN	<I-CUE>
+has	VBZ	<B-CUE>
+not	RB	<I-CUE>
+been	VBN	<I-CUE>
+<unk>	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+it	PRP	_ <O>
+were	VBD	_ <O>
+not	RB	_ <O>
+for	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+<unk>	NN	_ <O>
+during	IN	_ <O>
+this	DT	_ <O>
+time	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+'s	POS	_ <O>
+history	NN	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+probably	RB	<B-CUE>
+would	MD	_ <O>
+not	RB	_ <O>
+have	VB	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+While	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+<unk>	NNS	_ <O>
+were	VBD	_ <O>
+<unk>	VBG	_ <O>
+or	CC	_ <O>
+being	VBG	_ <O>
+forced	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+,	,	_ <O>
+Mu	NNP	_ <O>
+Theta	NNP	_ <O>
+was	VBD	_ <O>
+building	VBG	_ <O>
+and	CC	_ <O>
+growing	VBG	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+take	VB	_ <O>
+the	DT	_ <O>
+leadership	NN	_ <O>
+position	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Fraternity	NN	_ <O>
+and	CC	_ <O>
+at	IN	_ <O>
+Gulf	NNP	_ <O>
+Coast	NNP	_ <O>
+Military	NNP	_ <O>
+Academy	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+the	DT	_ <O>
+members	NNS	_ <O>
+of	IN	_ <O>
+Mu	NNP	_ <O>
+Theta	NNP	_ <O>
+<unk>	VBD	_ <O>
+out	RP	_ <O>
+across	IN	_ <O>
+the	DT	_ <O>
+South	NNP	_ <O>
+each	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+returned	VBD	_ <O>
+to	IN	_ <O>
+their	PRP$	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+founded	VBD	_ <O>
+Phi	NNP	_ <O>
+Kappa	NNP	_ <O>
+chapters	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,162 @@
+NULL
+Peace	NN	_ <O>
+talks	NNS	_ <O>
+between	IN	_ <O>
+the	DT	_ <O>
+southern	JJ	_ <O>
+rebels	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+made	VBD	_ <O>
+substantial	JJ	_ <O>
+progress	NN	_ <O>
+in	IN	_ <O>
+2003	CD	_ <O>
+and	CC	_ <O>
+early	JJ	_ <O>
+2004	CD	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+<unk>	NNS	_ <O>
+in	IN	_ <O>
+parts	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+south	NN	_ <O>
+have	VBP	_ <O>
+reportedly	RB	_ <O>
+continued	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+two	CD	_ <O>
+sides	NNS	_ <O>
+have	VBP	_ <O>
+<unk>	VBN	_ <O>
+that	IN	_ <O>
+,	,	_ <O>
+following	VBG	_ <O>
+a	DT	_ <O>
+final	JJ	_ <O>
+peace	NN	_ <O>
+treaty	NN	_ <O>
+,	,	_ <O>
+southern	JJ	_ <O>
+<unk>	NNP	_ <O>
+will	MD	_ <O>
+enjoy	VB	_ <O>
+autonomy	NN	_ <O>
+for	IN	_ <O>
+six	CD	_ <O>
+years	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+expiration	NN	_ <O>
+of	IN	_ <O>
+that	DT	_ <O>
+period	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+people	NNS	_ <O>
+of	IN	_ <O>
+southern	JJ	_ <O>
+Sudan	NNP	_ <O>
+will	MD	_ <O>
+be	VB	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+vote	VB	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+on	IN	_ <O>
+independence	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Furthermore	RB	_ <O>
+,	,	_ <O>
+oil	NN	_ <O>
+<unk>	NNS	_ <O>
+will	MD	_ <O>
+be	VB	_ <O>
+divided	VBN	_ <O>
+<unk>	RB	_ <O>
+between	IN	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+and	CC	_ <O>
+rebels	NNS	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+six	CD	_ <O>
+-	HYPH	_ <O>
+year	NN	_ <O>
+<unk>	JJ	_ <O>
+period	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+ability	NN	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+these	DT	_ <O>
+<unk>	NNS	_ <O>
+has	VBZ	<B-CUE>
+been	VBN	<I-CUE>
+questioned	VBN	<I-CUE>
+by	IN	_ <O>
+some	DT	<B-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+status	NN	_ <O>
+of	IN	_ <O>
+three	CD	_ <O>
+central	JJ	_ <O>
+and	CC	_ <O>
+eastern	JJ	_ <O>
+provinces	NNS	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+point	NN	_ <O>
+of	IN	_ <O>
+contention	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+negotiations	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+observers	NNS	<I-CUE>
+<unk>	VBD	<B-CUE>
+whether	IN	_ <O>
+<unk>	JJ	_ <O>
+line	NN	_ <O>
+elements	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+north	NN	_ <O>
+would	MD	_ <O>
+allow	VB	_ <O>
+the	DT	_ <O>
+treaty	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+.	.	_ <O>
+
+NULL

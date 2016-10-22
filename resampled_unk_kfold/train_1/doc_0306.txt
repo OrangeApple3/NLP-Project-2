@@ -1,0 +1,41 @@
+Before	IN	_ <O>
+World	NNP	_ <O>
+War	NNP	_ <O>
+II	NNP	_ <O>
+there	EX	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+various	JJ	_ <O>
+Polish	JJ	_ <O>
+organizations	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+PZKO	NNP	_ <O>
+gained	VBD	_ <O>
+<unk>	NN	_ <O>
+position	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+<unk>	JJ	_ <O>
+for	IN	_ <O>
+all	DT	_ <O>
+activities	NNS	_ <O>
+related	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+other	JJ	_ <O>
+Polish	JJ	_ <O>
+organizations	NNS	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL

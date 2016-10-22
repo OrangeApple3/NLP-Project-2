@@ -1,0 +1,32 @@
+NULL
+Elsewhere	RB	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+considered	VBN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+dish	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+eaten	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+meat	NN	_ <O>
+dish	NN	_ <O>
+in	IN	_ <O>
+many	JJ	_ <O>
+<unk>	NNS	_ <O>
+or	CC	_ <O>
+as	IN	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

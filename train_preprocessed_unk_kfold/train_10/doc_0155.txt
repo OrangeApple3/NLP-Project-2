@@ -1,0 +1,92 @@
+NULL
+American	JJ	_ <O>
+<unk>	NN	_ <O>
+'	''	_ <O>
+Bill	NNP	_ <O>
+<unk>	NNP	_ <O>
+'	''	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBZ	_ <O>
+his	PRP$	_ <O>
+point	NN	_ <O>
+of	IN	_ <O>
+view	NN	_ <O>
+on	IN	_ <O>
+a	DT	<B-CUE>
+wide	JJ	<I-CUE>
+variety	NN	<I-CUE>
+of	IN	_ <O>
+political	JJ	_ <O>
+,	,	_ <O>
+social	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+issues	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+'	``	_ <O>
+The	DT	_ <O>
+O'Reilly	NNP	_ <O>
+Factor	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+its	PRP$	_ <O>
+<unk>	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+News	NNP	_ <O>
+<unk>	NNP	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+the	DT	_ <O>
+primary	JJ	<B-CUE>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+would	MD	_ <O>
+later	RB	_ <O>
+start	VB	_ <O>
+his	PRP$	_ <O>
+own	JJ	_ <O>
+radio	NN	_ <O>
+<unk>	NN	_ <O>
+The	DT	_ <O>
+Radio	NNP	_ <O>
+Factor	NNP	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+years	NNS	_ <O>
+later	RB	_ <O>
+.	.	_ <O>
+
+NULL
+O'Reilly	RB	_ <O>
+has	VBZ	_ <O>
+also	RB	_ <O>
+written	VBN	_ <O>
+several	JJ	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+fiction	NN	_ <O>
+books	NNS	_ <O>
+<unk>	VBG	_ <O>
+some	DT	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+beliefs	NNS	_ <O>
+.	.	_ <O>
+
+NULL

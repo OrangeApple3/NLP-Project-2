@@ -1,0 +1,13 @@
+Water	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+river	NN	_ <O>
+Oder	NNP	_ <O>
+<unk>	VBZ	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+Szczecin	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,219 @@
+NULL
+Counties	NNS	_ <O>
+can	MD	_ <O>
+include	VB	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+cities	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+<unk>	RB	_ <O>
+just	RB	_ <O>
+a	DT	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+city	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Counties	NNS	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+states	NNS	<I-CUE>
+are	VBP	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBN	_ <O>
+into	IN	_ <O>
+<unk>	NNS	_ <O>
+-	:	_ <O>
+which	WDT	_ <O>
+,	,	_ <O>
+by	IN	_ <O>
+definition	NN	_ <O>
+,	,	_ <O>
+are	VBP	_ <O>
+<unk>	JJ	_ <O>
+divisions	NNS	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+some	DT	<B-CUE>
+states	NNS	<I-CUE>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+can	MD	_ <O>
+<unk>	VB	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+state	NN	_ <O>
+government	NN	_ <O>
+,	,	_ <O>
+making	VBG	_ <O>
+<unk>	PRP	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+charter	NN	_ <O>
+township	NN	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+type	NN	_ <O>
+of	IN	_ <O>
+<unk>	VBN	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+township	NN	_ <O>
+<unk>	NN	_ <O>
+(	-LRB-	_ <O>
+giving	VBG	_ <O>
+the	DT	_ <O>
+township	NN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+rights	NNS	<I-CUE>
+of	IN	_ <O>
+a	DT	_ <O>
+city	NN	_ <O>
+without	IN	_ <O>
+all	DT	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+mixed	JJ	_ <O>
+municipality	NN	_ <O>
+and	CC	_ <O>
+county	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Counties	NNS	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+states	NNS	<I-CUE>
+are	VBP	_ <O>
+<unk>	RB	_ <O>
+<unk>	VBN	_ <O>
+into	IN	_ <O>
+<unk>	NNS	_ <O>
+-	:	_ <O>
+which	WDT	_ <O>
+,	,	_ <O>
+by	IN	_ <O>
+definition	NN	_ <O>
+,	,	_ <O>
+are	VBP	_ <O>
+<unk>	JJ	_ <O>
+divisions	NNS	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+some	DT	<B-CUE>
+states	NNS	<I-CUE>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+can	MD	_ <O>
+<unk>	VB	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+state	NN	_ <O>
+government	NN	_ <O>
+,	,	_ <O>
+making	VBG	_ <O>
+<unk>	PRP	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+charter	NN	_ <O>
+township	NN	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+type	NN	_ <O>
+of	IN	_ <O>
+<unk>	VBN	_ <O>
+<unk>	JJ	_ <O>
+and	CC	_ <O>
+township	NN	_ <O>
+<unk>	NN	_ <O>
+(	-LRB-	_ <O>
+giving	VBG	_ <O>
+the	DT	_ <O>
+township	NN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+rights	NNS	<I-CUE>
+of	IN	_ <O>
+a	DT	_ <O>
+city	NN	_ <O>
+without	IN	_ <O>
+all	DT	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+mixed	JJ	_ <O>
+municipality	NN	_ <O>
+and	CC	_ <O>
+county	NN	_ <O>
+.	.	_ <O>
+
+NULL

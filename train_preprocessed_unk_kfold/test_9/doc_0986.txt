@@ -1,0 +1,23 @@
+NULL
+U.S.	NNP	_ <O>
+Route	NNP	_ <O>
+212	CD	_ <O>
+and	CC	_ <O>
+Minnesota	NNP	_ <O>
+State	NNP	_ <O>
+<unk>	NNP	_ <O>
+5	CD	_ <O>
+and	CC	_ <O>
+41	CD	_ <O>
+are	VBP	_ <O>
+three	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+main	JJ	_ <O>
+routes	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+city	NN	_ <O>
+.	.	_ <O>
+
+NULL

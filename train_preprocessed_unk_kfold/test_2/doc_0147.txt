@@ -1,0 +1,25 @@
+NULL
+<unk>	NNP	_ <O>
+International	NNP	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+located	VBN	_ <O>
+<unk>	CD	_ <O>
+<unk>	NNS	_ <O>
+from	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+Northern	NNP	_ <O>
+<unk>	NNP	_ <O>
+International	NNP	_ <O>
+Airport	NNP	_ <O>
+is	VBZ	_ <O>
+located	VBN	_ <O>
+<unk>	CD	_ <O>
+miles	NNS	_ <O>
+away	RB	_ <O>
+.	.	_ <O>
+
+NULL

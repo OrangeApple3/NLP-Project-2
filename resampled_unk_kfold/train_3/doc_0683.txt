@@ -1,0 +1,83 @@
+NULL
+Started	VBN	_ <O>
+by	IN	_ <O>
+Howard	NNP	_ <O>
+<unk>	NNP	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+<unk>	CD	_ <O>
+years	NNS	_ <O>
+ago	RB	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+seen	VBN	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+4	CD	_ <O>
+generations	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+On	IN	_ <O>
+the	DT	_ <O>
+corner	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+Street	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+front	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Federal	NNP	_ <O>
+Building	NNP	_ <O>
+,	,	_ <O>
+every	DT	_ <O>
+Friday	NNP	_ <O>
+starting	VBG	_ <O>
+at	IN	_ <O>
+4	CD	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+lasting	VBG	_ <O>
+until	IN	_ <O>
+usually	RB	_ <O>
+about	RB	_ <O>
+6	CD	_ <O>
+pm	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+home	NN	_ <O>
+to	IN	_ <O>
+the	DT	<B-CUE>
+longest	JJS	<I-CUE>
+-	HYPH	<I-CUE>
+running	VBG	<I-CUE>
+Peace	NN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+home	NN	_ <O>
+to	IN	_ <O>
+the	DT	<B-CUE>
+longest	JJS	<I-CUE>
+-	HYPH	<I-CUE>
+running	VBG	<I-CUE>
+Peace	NN	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+
+NULL

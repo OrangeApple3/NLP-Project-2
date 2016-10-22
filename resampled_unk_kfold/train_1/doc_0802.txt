@@ -1,0 +1,544 @@
+Whilst	NNP	_ <O>
+"	``	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+<unk>	NNP	_ <O>
+dies	NNS	_ <O>
+,	,	_ <O>
+never	RB	_ <O>
+to	TO	_ <O>
+rise	VB	_ <O>
+again	RB	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+according	VBG	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+Christian	JJ	_ <O>
+historian	NN	_ <O>
+committed	VBD	_ <O>
+<unk>	NNS	_ <O>
+continued	VBD	_ <O>
+,	,	_ <O>
+<unk>	WRB	_ <O>
+possible	JJ	_ <O>
+,	,	_ <O>
+to	TO	_ <O>
+practice	VB	_ <O>
+their	PRP$	_ <O>
+faith	NN	_ <O>
+<unk>	RB	_ <O>
+or	CC	_ <O>
+under	IN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+common	JJ	_ <O>
+festivals	NNS	_ <O>
+and	CC	_ <O>
+by	IN	_ <O>
+<unk>	VBG	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+letter	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+law	NN	_ <O>
+if	IN	_ <O>
+not	RB	_ <O>
+its	PRP$	_ <O>
+spirit	NN	_ <O>
+,	,	_ <O>
+more	RBR	_ <O>
+commonly	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+countryside	NN	_ <O>
+,	,	_ <O>
+hence	RB	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+called	VBN	_ <O>
+"	``	_ <O>
+<unk>	NNS	_ <O>
+-	:	_ <O>
+the	DT	_ <O>
+pagani	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+Upon	IN	_ <O>
+the	DT	_ <O>
+death	NN	_ <O>
+of	IN	_ <O>
+Theodosius	NNP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Empire	NNP	_ <O>
+was	VBD	_ <O>
+divided	VBN	_ <O>
+between	IN	_ <O>
+his	PRP$	_ <O>
+two	CD	_ <O>
+<unk>	JJ	_ <O>
+sons	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Political	JJ	_ <O>
+crisis	NN	_ <O>
+<unk>	RB	_ <O>
+;	:	_ <O>
+over	IN	_ <O>
+the	DT	_ <O>
+next	JJ	_ <O>
+several	JJ	_ <O>
+decades	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+defence	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Empire	NNP	_ <O>
+gradually	RB	_ <O>
+collapsed	VBD	_ <O>
+.	.	_ <O>
+
+NULL
+Pagans	NNPS	_ <O>
+<unk>	VBD	_ <O>
+the	DT	_ <O>
+Christians	NNPS	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+affecting	VBG	_ <O>
+the	DT	_ <O>
+empire	NN	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+reign	NN	_ <O>
+of	IN	_ <O>
+Honorius	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+exercise	VB	_ <O>
+<unk>	JJ	_ <O>
+power	NN	_ <O>
+over	IN	_ <O>
+the	DT	_ <O>
+west	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+year	NN	_ <O>
+,	,	_ <O>
+another	DT	_ <O>
+law	NN	_ <O>
+was	VBD	_ <O>
+passed	VBN	_ <O>
+by	IN	_ <O>
+Arcadius	NNP	_ <O>
+that	WDT	_ <O>
+prohibited	VBD	_ <O>
+anyone	NN	_ <O>
+from	IN	_ <O>
+going	VBG	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+Pagan	NNP	_ <O>
+sanctuary	NN	_ <O>
+or	CC	_ <O>
+temple	NN	_ <O>
+or	CC	_ <O>
+of	IN	_ <O>
+<unk>	VBG	_ <O>
+any	DT	_ <O>
+kind	NN	_ <O>
+of	IN	_ <O>
+Pagan	NNP	_ <O>
+sacrifice	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+year	NN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+privileges	NNS	_ <O>
+of	IN	_ <O>
+Pagan	NNP	_ <O>
+priests	NNS	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+clerics	NNS	_ <O>
+were	VBD	_ <O>
+officially	RB	_ <O>
+<unk>	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+year	NN	_ <O>
+,	,	_ <O>
+Arcadius	NNP	_ <O>
+ordered	VBD	_ <O>
+that	IN	_ <O>
+Pagan	NNP	_ <O>
+temples	NNS	_ <O>
+standing	VBG	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+country	NN	_ <O>
+were	VBD	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+destroyed	VBN	_ <O>
+without	IN	_ <O>
+disorder	NN	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+such	JJ	_ <O>
+that	IN	_ <O>
+they	PRP	_ <O>
+could	MD	_ <O>
+not	RB	_ <O>
+be	VB	_ <O>
+used	VBN	_ <O>
+for	IN	_ <O>
+religious	JJ	_ <O>
+<unk>	NNS	_ <O>
+away	RB	_ <O>
+from	IN	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+authorities	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+this	DT	_ <O>
+prolonged	JJ	_ <O>
+disaster	NN	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+Christians	NNPS	<I-CUE>
+became	VBD	_ <O>
+less	RBR	_ <O>
+certain	JJ	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+religion	NN	_ <O>
+and	CC	_ <O>
+converted	VBD	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+old	JJ	_ <O>
+religion	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+reflects	VBZ	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+<unk>	NNP	<I-CUE>
+<unk>	NNS	<I-CUE>
+of	IN	_ <O>
+this	DT	_ <O>
+period	NN	_ <O>
+in	IN	_ <O>
+his	PRP$	_ <O>
+writings	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Despite	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+Pagans	NNPS	<I-CUE>
+for	IN	_ <O>
+tolerance	NN	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+continued	VBD	_ <O>
+the	DT	_ <O>
+work	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+father	NN	_ <O>
+by	IN	_ <O>
+<unk>	VBG	_ <O>
+even	RB	_ <O>
+more	RBR	_ <O>
+anti	JJ	_ <O>
+-	HYPH	_ <O>
+Pagan	NNP	_ <O>
+laws	NNS	_ <O>
+to	TO	_ <O>
+stop	VB	_ <O>
+any	DT	_ <O>
+revival	NN	_ <O>
+of	IN	_ <O>
+Paganism	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+law	NN	_ <O>
+seems	VBZ	<B-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+been	VBN	_ <O>
+targeted	VBN	_ <O>
+at	IN	_ <O>
+those	DT	_ <O>
+Christians	NNS	_ <O>
+who	WP	_ <O>
+were	VBD	_ <O>
+<unk>	VBG	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+Paganism	NNP	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+specifically	RB	_ <O>
+mentions	VBZ	_ <O>
+"	``	_ <O>
+those	DT	_ <O>
+who	WP	_ <O>
+are	VBP	_ <O>
+trying	VBG	_ <O>
+to	TO	_ <O>
+stray	VB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+dogma	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Catholic	JJ	_ <O>
+faith	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+The	DT	_ <O>
+large	JJ	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+Pagans	NNPS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+east	NN	_ <O>
+also	RB	_ <O>
+seems	VBZ	<B-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+forced	VBN	_ <O>
+Arcadius	NNP	_ <O>
+into	IN	_ <O>
+allowing	VBG	_ <O>
+the	DT	_ <O>
+ancient	JJ	_ <O>
+festivals	NNS	_ <O>
+and	CC	_ <O>
+public	JJ	_ <O>
+games	NNS	_ <O>
+to	TO	_ <O>
+continue	VB	_ <O>
+but	CC	_ <O>
+without	IN	_ <O>
+religious	JJ	_ <O>
+rites	NNS	_ <O>
+that	WDT	_ <O>
+formed	VBD	_ <O>
+an	DT	_ <O>
+essential	JJ	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+old	JJ	_ <O>
+religion	NN	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+this	DT	_ <O>
+prolonged	JJ	_ <O>
+disaster	NN	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+Christians	NNPS	<I-CUE>
+became	VBD	_ <O>
+less	RBR	_ <O>
+certain	JJ	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+religion	NN	_ <O>
+and	CC	_ <O>
+converted	VBD	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+old	JJ	_ <O>
+religion	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+reflects	VBZ	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+<unk>	NNP	<I-CUE>
+<unk>	NNS	<I-CUE>
+of	IN	_ <O>
+this	DT	_ <O>
+period	NN	_ <O>
+in	IN	_ <O>
+his	PRP$	_ <O>
+writings	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Despite	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+Pagans	NNPS	<I-CUE>
+for	IN	_ <O>
+tolerance	NN	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+continued	VBD	_ <O>
+the	DT	_ <O>
+work	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+father	NN	_ <O>
+by	IN	_ <O>
+<unk>	VBG	_ <O>
+even	RB	_ <O>
+more	RBR	_ <O>
+anti	JJ	_ <O>
+-	HYPH	_ <O>
+Pagan	NNP	_ <O>
+laws	NNS	_ <O>
+to	TO	_ <O>
+stop	VB	_ <O>
+any	DT	_ <O>
+revival	NN	_ <O>
+of	IN	_ <O>
+Paganism	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+law	NN	_ <O>
+seems	VBZ	<B-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+been	VBN	_ <O>
+targeted	VBN	_ <O>
+at	IN	_ <O>
+those	DT	_ <O>
+Christians	NNS	_ <O>
+who	WP	_ <O>
+were	VBD	_ <O>
+<unk>	VBG	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+Paganism	NNP	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+specifically	RB	_ <O>
+mentions	VBZ	_ <O>
+"	``	_ <O>
+those	DT	_ <O>
+who	WP	_ <O>
+are	VBP	_ <O>
+trying	VBG	_ <O>
+to	TO	_ <O>
+stray	VB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+dogma	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Catholic	JJ	_ <O>
+faith	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+The	DT	_ <O>
+large	JJ	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+Pagans	NNPS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+east	NN	_ <O>
+also	RB	_ <O>
+seems	VBZ	<B-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+forced	VBN	_ <O>
+Arcadius	NNP	_ <O>
+into	IN	_ <O>
+allowing	VBG	_ <O>
+the	DT	_ <O>
+ancient	JJ	_ <O>
+festivals	NNS	_ <O>
+and	CC	_ <O>
+public	JJ	_ <O>
+games	NNS	_ <O>
+to	TO	_ <O>
+continue	VB	_ <O>
+but	CC	_ <O>
+without	IN	_ <O>
+religious	JJ	_ <O>
+rites	NNS	_ <O>
+that	WDT	_ <O>
+formed	VBD	_ <O>
+an	DT	_ <O>
+essential	JJ	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+old	JJ	_ <O>
+religion	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,86 @@
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+'	``	_ <O>
+The	DT	_ <O>
+Unknown	JJ	_ <O>
+Soldier	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+novel	NN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+story	NN	_ <O>
+is	VBZ	_ <O>
+about	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+War	NNP	_ <O>
+between	IN	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Soviet	NNP	_ <O>
+Union	NNP	_ <O>
+as	IN	_ <O>
+told	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+ordinary	JJ	_ <O>
+Finnish	JJ	_ <O>
+soldiers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+1985	CD	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+directed	VBD	_ <O>
+a	DT	_ <O>
+new	JJ	_ <O>
+version	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+film	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Its	PRP$	_ <O>
+portrayal	NN	_ <O>
+of	IN	_ <O>
+Linna	NNP	_ <O>
+'s	POS	_ <O>
+characters	NNS	_ <O>
+is	VBZ	<B-CUE>
+widely	RB	<I-CUE>
+accepted	VBN	<I-CUE>
+as	IN	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Its	PRP$	_ <O>
+portrayal	NN	_ <O>
+of	IN	_ <O>
+Linna	NNP	_ <O>
+'s	POS	_ <O>
+characters	NNS	_ <O>
+is	VBZ	<B-CUE>
+widely	RB	<I-CUE>
+accepted	VBN	<I-CUE>
+as	IN	_ <O>
+<unk>	JJ	_ <O>
+.	.	_ <O>
+
+NULL

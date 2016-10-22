@@ -1,0 +1,102 @@
+NULL
+His	PRP$	_ <O>
+<unk>	NNS	_ <O>
+have	VBP	<B-CUE>
+been	VBN	<I-CUE>
+described	VBN	<I-CUE>
+as	IN	_ <O>
+"	``	_ <O>
+<unk>	JJ	_ <O>
+<unk>	JJ	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+often	RB	_ <O>
+portray	VBP	_ <O>
+the	DT	_ <O>
+dark	JJ	_ <O>
+side	NN	_ <O>
+of	IN	_ <O>
+human	JJ	_ <O>
+nature	NN	_ <O>
+and	CC	_ <O>
+contemporary	JJ	_ <O>
+social	JJ	_ <O>
+,	,	_ <O>
+political	JJ	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+religious	JJ	_ <O>
+values	NNS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+humorous	JJ	_ <O>
+and	CC	_ <O>
+at	IN	_ <O>
+times	NNS	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+way	NN	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+visual	JJ	_ <O>
+style	NN	_ <O>
+is	VBZ	_ <O>
+distinctive	JJ	_ <O>
+in	IN	_ <O>
+its	PRP$	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+primitive	JJ	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+<unk>	JJ	_ <O>
+figures	NNS	_ <O>
+and	CC	_ <O>
+<unk>	JJ	_ <O>
+backgrounds	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+has	VBZ	_ <O>
+made	VBN	_ <O>
+over	RP	_ <O>
+30	CD	_ <O>
+animated	JJ	_ <O>
+films	NNS	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+which	WDT	<I-CUE>
+are	VBP	_ <O>
+in	IN	_ <O>
+themed	JJ	_ <O>
+<unk>	NNS	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+Hollywood	NNP	_ <O>
+genres	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Mulloy	NNP	_ <O>
+has	VBZ	_ <O>
+won	VBN	_ <O>
+many	JJ	<B-CUE>
+international	JJ	<I-CUE>
+awards	NNS	<I-CUE>
+for	IN	_ <O>
+his	PRP$	_ <O>
+work	NN	_ <O>
+and	CC	_ <O>
+has	VBZ	_ <O>
+conducted	VBN	_ <O>
+several	JJ	<B-CUE>
+workshops	NNS	<I-CUE>
+for	IN	_ <O>
+young	JJ	_ <O>
+animators	NNS	_ <O>
+.	.	_ <O>
+
+NULL

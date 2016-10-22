@@ -1,0 +1,135 @@
+NULL
+Flexible	JJ	_ <O>
+compression	NN	_ <O>
+rings	NNS	_ <O>
+,	,	_ <O>
+commonly	RB	_ <O>
+called	VBN	_ <O>
+<unk>	NN	_ <O>
+rings	NNS	_ <O>
+,	,	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+added	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+best	JJS	_ <O>
+circumstances	NNS	_ <O>
+<unk>	NNS	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+maintained	VBN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+considerable	JJ	_ <O>
+time	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+manufacturers	NNS	_ <O>
+'	POS	_ <O>
+literature	NN	_ <O>
+recommends	VBZ	_ <O>
+that	IN	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+safety	NN	_ <O>
+,	,	_ <O>
+rings	NNS	_ <O>
+should	MD	_ <O>
+be	VB	_ <O>
+removed	VBN	_ <O>
+after	IN	_ <O>
+no	RB	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+30	CD	_ <O>
+minutes	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+some	DT	<B-CUE>
+cases	NNS	<I-CUE>
+the	DT	_ <O>
+testicles	NNS	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+<unk>	RB	_ <O>
+pulled	VBN	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+cylinder	NN	_ <O>
+and	CC	_ <O>
+cause	VBP	_ <O>
+severe	JJ	_ <O>
+pain	NN	_ <O>
+and	CC	_ <O>
+injury	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Attempts	VBZ	_ <O>
+at	IN	_ <O>
+using	VBG	_ <O>
+<unk>	NN	_ <O>
+<unk>	JJR	_ <O>
+units	NNS	_ <O>
+for	IN	_ <O>
+this	DT	_ <O>
+purpose	NN	_ <O>
+have	VBP	_ <O>
+resulted	VBN	_ <O>
+in	IN	_ <O>
+severe	JJ	_ <O>
+injury	NN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+machine	NN	_ <O>
+produces	VBZ	_ <O>
+far	RB	_ <O>
+too	RB	_ <O>
+much	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+scientists	NNS	_ <O>
+Graham	NNP	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+Anne	NNP	_ <O>
+<unk>	NNP	_ <O>
+have	VBP	_ <O>
+also	RB	_ <O>
+undertaken	VBN	_ <O>
+significant	JJ	_ <O>
+research	NN	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+area	NN	_ <O>
+,	,	_ <O>
+being	VBG	_ <O>
+<unk>	VBN	_ <O>
+by	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+major	JJ	<I-CUE>
+names	NNS	<I-CUE>
+in	IN	_ <O>
+sexual	JJ	_ <O>
+pleasure	NN	_ <O>
+toys	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Ann	NNP	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,11 @@
+<unk>	NNP	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+town	NN	_ <O>
+council	NN	_ <O>
+with	IN	_ <O>
+twelve	CD	_ <O>
+members	NNS	_ <O>
+.	.	_ <O>
+
+NULL

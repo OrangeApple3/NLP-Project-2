@@ -1,0 +1,141 @@
+NULL
+<unk>	NNP	_ <O>
+Stirner	NNP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+philosopher	NN	_ <O>
+whose	WP$	_ <O>
+"	``	_ <O>
+name	NN	_ <O>
+appears	VBZ	_ <O>
+with	IN	_ <O>
+familiar	JJ	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+historically	RB	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+surveys	NNS	_ <O>
+of	IN	_ <O>
+anarchist	NN	_ <O>
+thought	VBD	<B-CUE>
+as	IN	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+earliest	JJS	<I-CUE>
+and	CC	<I-CUE>
+best	RBS	<I-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+In	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+his	PRP$	_ <O>
+'	``	_ <O>
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+Its	PRP$	_ <O>
+Own	JJ	_ <O>
+'	''	_ <O>
+was	VBD	_ <O>
+published	VBN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	<B-CUE>
+considered	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+"	``	_ <O>
+a	DT	_ <O>
+founding	VBG	_ <O>
+text	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+tradition	NN	_ <O>
+of	IN	_ <O>
+individualist	NN	_ <O>
+anarchism	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+Stirner	NNP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+philosopher	NN	_ <O>
+whose	WP$	_ <O>
+"	``	_ <O>
+name	NN	_ <O>
+appears	VBZ	_ <O>
+with	IN	_ <O>
+familiar	JJ	_ <O>
+<unk>	NN	_ <O>
+in	IN	_ <O>
+historically	RB	_ <O>
+-	HYPH	_ <O>
+<unk>	VBN	_ <O>
+surveys	NNS	_ <O>
+of	IN	_ <O>
+anarchist	NN	_ <O>
+thought	VBD	<B-CUE>
+as	IN	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+earliest	JJS	<I-CUE>
+and	CC	<I-CUE>
+best	RBS	<I-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+<unk>	NNS	_ <O>
+of	IN	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+In	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+his	PRP$	_ <O>
+'	``	_ <O>
+The	DT	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+Its	PRP$	_ <O>
+Own	JJ	_ <O>
+'	''	_ <O>
+was	VBD	_ <O>
+published	VBN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	<B-CUE>
+considered	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+"	``	_ <O>
+a	DT	_ <O>
+founding	VBG	_ <O>
+text	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+tradition	NN	_ <O>
+of	IN	_ <O>
+individualist	NN	_ <O>
+anarchism	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

@@ -1,0 +1,88 @@
+NULL
+This	DT	_ <O>
+<unk>	NN	_ <O>
+center	NN	_ <O>
+also	RB	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+building	NN	_ <O>
+built	VBN	_ <O>
+<unk>	JJ	_ <O>
+for	IN	_ <O>
+several	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Since	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+many	JJ	_ <O>
+<unk>	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+built	VBN	_ <O>
+along	IN	_ <O>
+or	CC	_ <O>
+near	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+to	TO	_ <O>
+allow	VB	_ <O>
+for	IN	_ <O>
+easy	JJ	_ <O>
+access	NN	_ <O>
+to	IN	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+popular	JJ	_ <O>
+<unk>	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+also	RB	_ <O>
+opened	VBN	_ <O>
+in	IN	_ <O>
+2007	CD	_ <O>
+near	IN	_ <O>
+the	DT	_ <O>
+corner	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+Highway	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+Road	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+<unk>	NN	_ <O>
+opened	VBD	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+<unk>	RB	_ <O>
+built	VBN	_ <O>
+retail	JJ	_ <O>
+center	NN	_ <O>
+that	WDT	_ <O>
+houses	VBZ	_ <O>
+several	JJ	_ <O>
+other	JJ	_ <O>
+tenants	NNS	_ <O>
+.	.	_ <O>
+
+NULL

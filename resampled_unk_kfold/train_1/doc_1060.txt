@@ -1,0 +1,39 @@
+NULL
+Historians	NNS	<B-CUE>
+now	RB	_ <O>
+generally	RB	<B-CUE>
+think	VB	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+actual	JJ	_ <O>
+casualty	NN	_ <O>
+figures	NNS	_ <O>
+were	VBD	_ <O>
+somewhere	RB	_ <O>
+between	IN	_ <O>
+20,000	CD	_ <O>
+and	CC	_ <O>
+30,000	CD	_ <O>
+civilians	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Historians	NNS	<B-CUE>
+now	RB	_ <O>
+generally	RB	<B-CUE>
+think	VB	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+actual	JJ	_ <O>
+casualty	NN	_ <O>
+figures	NNS	_ <O>
+were	VBD	_ <O>
+somewhere	RB	_ <O>
+between	IN	_ <O>
+20,000	CD	_ <O>
+and	CC	_ <O>
+30,000	CD	_ <O>
+civilians	NNS	_ <O>
+.	.	_ <O>
+
+NULL

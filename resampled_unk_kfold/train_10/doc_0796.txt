@@ -1,0 +1,38 @@
+The	DT	_ <O>
+<unk>	NNPS	_ <O>
+are	VBP	_ <O>
+a	DT	_ <O>
+majority	NN	_ <O>
+followed	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNPS	_ <O>
+and	CC	_ <O>
+<unk>	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+some	DT	_ <O>
+Muslims	NNPS	_ <O>
+and	CC	_ <O>
+Jews	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+<unk>	NNP	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	_ <O>
+churches	NNS	_ <O>
+,	,	_ <O>
+two	CD	_ <O>
+<unk>	NNS	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

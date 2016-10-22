@@ -1,0 +1,87 @@
+NULL
+The	DT	_ <O>
+piece	NN	_ <O>
+requires	VBZ	_ <O>
+ten	CD	_ <O>
+"	``	_ <O>
+performers	NNS	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+efforts	NNS	_ <O>
+take	VB	_ <O>
+place	NN	_ <O>
+without	IN	_ <O>
+the	DT	_ <O>
+audience	NN	_ <O>
+present	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Once	IN	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+all	DT	_ <O>
+fully	RB	_ <O>
+<unk>	VBN	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+all	RB	_ <O>
+started	VBN	_ <O>
+as	RB	_ <O>
+simultaneously	RB	_ <O>
+as	IN	_ <O>
+possible	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+wind	VBP	_ <O>
+down	RP	_ <O>
+one	CD	_ <O>
+after	IN	_ <O>
+another	DT	_ <O>
+and	CC	_ <O>
+stop	VB	_ <O>
+,	,	_ <O>
+<unk>	NN	_ <O>
+becomes	VBZ	_ <O>
+noticeable	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+sound	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+individual	JJ	_ <O>
+metronomes	NNS	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+more	RBR	_ <O>
+clearly	RB	_ <O>
+made	VBN	_ <O>
+out	RP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+piece	NN	_ <O>
+typically	RB	_ <O>
+ends	VBZ	_ <O>
+with	IN	_ <O>
+just	RB	_ <O>
+one	CD	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBG	_ <O>
+alone	RB	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+beats	NNS	_ <O>
+.	.	_ <O>
+
+NULL

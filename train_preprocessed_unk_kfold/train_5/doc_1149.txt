@@ -1,0 +1,40 @@
+NULL
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+specific	JJ	_ <O>
+medical	JJ	_ <O>
+term	NN	_ <O>
+used	VBN	_ <O>
+to	TO	_ <O>
+describe	VB	_ <O>
+the	DT	_ <O>
+sensation	NN	_ <O>
+of	IN	_ <O>
+<unk>	VBG	_ <O>
+or	CC	_ <O>
+having	VBG	_ <O>
+the	DT	_ <O>
+room	NN	_ <O>
+spin	NN	_ <O>
+about	IN	_ <O>
+you	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+Most	JJS	<B-CUE>
+people	NNS	<I-CUE>
+find	VB	_ <O>
+vertigo	NNS	_ <O>
+very	RB	_ <O>
+disturbing	JJ	_ <O>
+and	CC	_ <O>
+often	RB	<B-CUE>
+report	NN	_ <O>
+associated	VBN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

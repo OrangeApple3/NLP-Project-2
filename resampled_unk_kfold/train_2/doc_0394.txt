@@ -1,0 +1,37 @@
+NULL
+Much	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+Cornwell	NNP	_ <O>
+<unk>	VBN	_ <O>
+around	IN	_ <O>
+his	PRP$	_ <O>
+disputed	JJ	_ <O>
+claim	NN	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+<unk>	VBG	_ <O>
+Catholic	NNP	_ <O>
+who	WP	_ <O>
+had	VBD	_ <O>
+attempted	VBN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+Pius	NNP	_ <O>
+with	IN	_ <O>
+his	PRP$	_ <O>
+work	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Cornwell	NNP	_ <O>
+'s	POS	_ <O>
+scholarship	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+criticized	VBN	_ <O>
+.	.	_ <O>
+
+NULL

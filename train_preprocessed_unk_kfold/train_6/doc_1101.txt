@@ -1,0 +1,19 @@
+NULL
+In	IN	_ <O>
+<unk>	CD	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+Counties	NNPS	_ <O>
+were	VBD	_ <O>
+split	VBN	_ <O>
+off	RP	_ <O>
+from	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

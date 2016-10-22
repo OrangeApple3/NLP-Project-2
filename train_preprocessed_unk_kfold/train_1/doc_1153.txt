@@ -1,0 +1,43 @@
+NULL
+From	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+O'Brien	NNP	_ <O>
+took	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+as	IN	_ <O>
+head	JJ	_ <O>
+coach	NN	_ <O>
+of	IN	_ <O>
+Boston	NNP	_ <O>
+College	NNP	_ <O>
+in	IN	_ <O>
+1996	CD	_ <O>
+until	IN	_ <O>
+his	PRP$	_ <O>
+departure	NN	_ <O>
+in	IN	_ <O>
+2006	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Eagles	NNPS	_ <O>
+attained	VBD	_ <O>
+a	DT	_ <O>
+consistently	RB	<B-CUE>
+high	JJ	<I-CUE>
+level	NN	_ <O>
+of	IN	_ <O>
+achievement	NN	_ <O>
+,	,	_ <O>
+both	DT	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+field	NN	_ <O>
+and	CC	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+:	:	_ <O>
+
+NULL

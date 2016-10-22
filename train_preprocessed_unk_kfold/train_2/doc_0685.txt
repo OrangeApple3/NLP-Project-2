@@ -1,0 +1,97 @@
+NULL
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+common	JJ	_ <O>
+in	IN	_ <O>
+Africa	NNP	_ <O>
+,	,	_ <O>
+Mexico	NNP	_ <O>
+,	,	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+China	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+<unk>	JJ	_ <O>
+societies	NNS	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+majority	NN	_ <O>
+of	IN	_ <O>
+patients	NNS	_ <O>
+with	IN	_ <O>
+clinical	JJ	_ <O>
+pellagra	NN	_ <O>
+are	VBP	_ <O>
+poor	JJ	_ <O>
+,	,	_ <O>
+homeless	JJ	_ <O>
+,	,	_ <O>
+alcohol	NN	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+<unk>	JJ	_ <O>
+patients	NNS	_ <O>
+who	WP	_ <O>
+refuse	VBP	_ <O>
+food	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+common	JJ	_ <O>
+amongst	IN	_ <O>
+prisoners	NNS	_ <O>
+of	IN	_ <O>
+Soviet	JJ	_ <O>
+labor	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+infamous	JJ	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+addition	NN	_ <O>
+,	,	_ <O>
+pellagra	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+disease	NN	_ <O>
+that	WDT	_ <O>
+frequently	RB	_ <O>
+affects	VBZ	_ <O>
+populations	NNS	_ <O>
+of	IN	_ <O>
+refugees	NNS	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+displaced	JJ	_ <O>
+people	NNS	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+their	PRP$	_ <O>
+unique	JJ	_ <O>
+,	,	_ <O>
+long	JJ	_ <O>
+-	HYPH	_ <O>
+term	NN	_ <O>
+residential	JJ	_ <O>
+circumstances	NNS	_ <O>
+and	CC	_ <O>
+dependence	NN	_ <O>
+on	IN	_ <O>
+food	NN	_ <O>
+aid	NN	_ <O>
+.	.	_ <O>
+
+NULL

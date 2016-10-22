@@ -1,0 +1,64 @@
+NULL
+Edged	VBN	_ <O>
+weapons	NNS	_ <O>
+with	IN	_ <O>
+built	VBN	_ <O>
+-	HYPH	_ <O>
+in	RP	_ <O>
+pistols	NNS	_ <O>
+were	VBD	_ <O>
+common	JJ	_ <O>
+in	IN	_ <O>
+Eastern	NNP	_ <O>
+Europe	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+These	DT	_ <O>
+were	VBD	_ <O>
+made	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+used	VBN	_ <O>
+black	JJ	_ <O>
+powder	NN	_ <O>
+and	CC	_ <O>
+were	VBD	_ <O>
+available	JJ	_ <O>
+in	IN	_ <O>
+various	JJ	_ <O>
+small	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Like	IN	_ <O>
+the	DT	_ <O>
+modern	JJ	_ <O>
+<unk>	NNP	_ <O>
+Army	NNP	_ <O>
+knife	NN	_ <O>
+they	PRP	_ <O>
+contained	VBD	_ <O>
+a	DT	_ <O>
+variety	NN	_ <O>
+of	IN	_ <O>
+tools	NNS	_ <O>
+,	,	_ <O>
+from	IN	_ <O>
+blades	NNS	_ <O>
+to	IN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+were	VBD	_ <O>
+often	RB	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL

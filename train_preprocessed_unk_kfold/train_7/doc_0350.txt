@@ -1,0 +1,63 @@
+NULL
+The	DT	_ <O>
+piece	NN	_ <O>
+is	VBZ	<B-CUE>
+generally	RB	<I-CUE>
+considered	VBN	<I-CUE>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+'s	POS	_ <O>
+total	JJ	_ <O>
+<unk>	JJ	_ <O>
+period	NN	_ <O>
+(	-LRB-	_ <O>
+the	DT	_ <O>
+apex	NN	_ <O>
+being	VBG	_ <O>
+Structures	NNPS	_ <O>
+,	,	_ <O>
+book	NN	_ <O>
+1	CD	_ <O>
+of	IN	_ <O>
+<unk>	CD	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Its	PRP$	_ <O>
+<unk>	NN	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+<unk>	CD	_ <O>
+<unk>	NNP	_ <O>
+Festival	NNP	_ <O>
+caused	VBD	_ <O>
+a	DT	_ <O>
+scandal	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+one	CD	_ <O>
+half	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+<unk>	VBG	_ <O>
+and	CC	_ <O>
+<unk>	VBG	_ <O>
+animal	NN	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+half	NN	_ <O>
+responded	VBD	_ <O>
+with	IN	_ <O>
+<unk>	NN	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL

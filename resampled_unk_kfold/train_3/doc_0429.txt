@@ -1,0 +1,109 @@
+NULL
+Its	PRP$	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+complex	JJ	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+numerous	JJ	_ <O>
+rock	NN	_ <O>
+formations	NNS	_ <O>
+of	IN	_ <O>
+different	JJ	_ <O>
+materials	NNS	_ <O>
+and	CC	_ <O>
+ages	NNS	_ <O>
+<unk>	VBN	_ <O>
+with	IN	_ <O>
+one	CD	_ <O>
+another	DT	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+last	JJ	_ <O>
+major	JJ	_ <O>
+event	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+history	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Piedmont	NNP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+break	NN	_ <O>
+-	HYPH	_ <O>
+up	NN	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+North	NNP	_ <O>
+America	NNP	_ <O>
+and	CC	_ <O>
+Africa	NNP	_ <O>
+began	VBD	_ <O>
+to	TO	_ <O>
+separate	VB	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+series	NN	_ <O>
+of	IN	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NNS	_ <O>
+is	VBZ	_ <O>
+almost	RB	_ <O>
+entirely	RB	_ <O>
+located	VBN	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+Piedmont	NNP	_ <O>
+region	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Essentially	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+several	JJ	<B-CUE>
+ancient	JJ	<I-CUE>
+mountain	NN	<I-CUE>
+<unk>	NNS	<I-CUE>
+that	WDT	_ <O>
+have	VBP	_ <O>
+since	IN	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+away	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Essentially	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+several	JJ	<B-CUE>
+ancient	JJ	<I-CUE>
+mountain	NN	<I-CUE>
+<unk>	NNS	<I-CUE>
+that	WDT	_ <O>
+have	VBP	_ <O>
+since	IN	_ <O>
+been	VBN	_ <O>
+<unk>	VBN	_ <O>
+away	RB	_ <O>
+.	.	_ <O>
+
+NULL

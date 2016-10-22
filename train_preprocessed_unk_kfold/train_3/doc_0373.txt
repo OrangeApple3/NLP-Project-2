@@ -1,0 +1,125 @@
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNS	_ <O>
+,	,	_ <O>
+James	NNP	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+chief	JJ	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Democratic	NNP	_ <O>
+Party	NNP	_ <O>
+'s	POS	_ <O>
+patronage	NN	_ <O>
+system	NN	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+Postal	NNP	_ <O>
+Department	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Works	NNP	_ <O>
+Progress	NNP	_ <O>
+Administration	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+which	WDT	_ <O>
+eventually	RB	_ <O>
+<unk>	VBD	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+job	NN	<I-CUE>
+benefits	NNS	<I-CUE>
+machines	NNS	_ <O>
+provided	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+New	NNP	_ <O>
+Deal	NNP	_ <O>
+allowed	VBD	_ <O>
+machines	NNS	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+WPA	NNP	_ <O>
+and	CC	_ <O>
+<unk>	NNP	_ <O>
+<unk>	NNP	_ <O>
+Corps	NNP	_ <O>
+(	-LRB-	_ <O>
+<unk>	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+making	VBG	_ <O>
+Farley	NNP	_ <O>
+'s	POS	_ <O>
+machine	NN	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+powerful	JJ	_ <O>
+,	,	_ <O>
+all	DT	_ <O>
+patronage	NN	_ <O>
+was	VBD	_ <O>
+<unk>	VBN	_ <O>
+through	IN	_ <O>
+Farley	NNP	_ <O>
+including	VBG	_ <O>
+Presidential	JJ	_ <O>
+<unk>	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+1940s	NNS	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+big	JJ	_ <O>
+city	NN	_ <O>
+machines	NNS	_ <O>
+<unk>	VBD	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+notable	JJ	_ <O>
+exception	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Chicago	NNP	_ <O>
+machine	NN	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+local	JJ	_ <O>
+political	JJ	_ <O>
+machine	NN	_ <O>
+in	IN	_ <O>
+Tennessee	NNP	_ <O>
+was	VBD	_ <O>
+<unk>	RB	_ <O>
+removed	VBN	_ <O>
+in	IN	_ <O>
+what	WP	_ <O>
+was	VBD	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+Battle	NNP	_ <O>
+of	IN	_ <O>
+<unk>	NNP	_ <O>
+.	.	_ <O>
+
+NULL

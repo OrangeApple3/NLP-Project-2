@@ -1,0 +1,36 @@
+<unk>	NNP	_ <O>
+infection	NN	_ <O>
+of	IN	_ <O>
+potato	NN	_ <O>
+plants	NNS	_ <O>
+results	NNS	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+variety	NN	_ <O>
+of	IN	_ <O>
+symptoms	NNS	_ <O>
+depending	VBG	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+<unk>	JJ	_ <O>
+<unk>	NN	_ <O>
+.	.	_ <O>
+
+NULL
+PVY	NN	_ <O>
+is	VBZ	_ <O>
+<unk>	JJ	_ <O>
+by	IN	_ <O>
+<unk>	NN	_ <O>
+vectors	NNS	_ <O>
+but	CC	_ <O>
+may	MD	_ <O>
+also	RB	_ <O>
+remain	VB	_ <O>
+<unk>	JJ	_ <O>
+in	IN	_ <O>
+<unk>	NN	_ <O>
+potatoes	NNS	_ <O>
+.	.	_ <O>
+
+NULL

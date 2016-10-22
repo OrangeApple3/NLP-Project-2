@@ -1,0 +1,137 @@
+NULL
+Because	IN	_ <O>
+<unk>	NNP	_ <O>
+is	VBZ	_ <O>
+relatively	RB	_ <O>
+toxic	JJ	_ <O>
+and	CC	_ <O>
+can	MD	_ <O>
+cause	VB	_ <O>
+skin	NN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+modern	JJ	_ <O>
+commercial	JJ	_ <O>
+developers	NNS	_ <O>
+often	RB	_ <O>
+use	VBP	_ <O>
+<unk>	NN	_ <O>
+or	CC	_ <O>
+<unk>	NNP	_ <O>
+S	NNP	_ <O>
+instead	RB	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NN	_ <O>
+can	MD	_ <O>
+also	RB	_ <O>
+be	VB	_ <O>
+toxic	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+human	JJ	_ <O>
+operator	NN	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+environment	NN	_ <O>
+;	:	_ <O>
+some	DT	_ <O>
+modern	JJ	_ <O>
+developers	NNS	_ <O>
+replace	VBP	_ <O>
+it	PRP	_ <O>
+with	IN	_ <O>
+<unk>	JJ	_ <O>
+acid	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+<unk>	NN	_ <O>
+C.	NNP	_ <O>
+
+NULL
+<unk>	JJ	_ <O>
+developers	NNS	_ <O>
+may	MD	_ <O>
+have	VB	_ <O>
+the	DT	_ <O>
+advantage	NN	_ <O>
+of	IN	_ <O>
+being	VBG	_ <O>
+compensating	VBG	_ <O>
+and	CC	_ <O>
+<unk>	NN	_ <O>
+-	HYPH	_ <O>
+<unk>	VBG	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+<unk>	NN	_ <O>
+by	IN	_ <O>
+-	HYPH	_ <O>
+products	NNS	_ <O>
+formed	VBN	_ <O>
+during	IN	_ <O>
+development	NN	_ <O>
+are	VBP	_ <O>
+<unk>	JJ	_ <O>
+,	,	_ <O>
+meaning	VBG	_ <O>
+they	PRP	_ <O>
+<unk>	VBP	_ <O>
+development	NN	_ <O>
+in	IN	_ <O>
+and	CC	_ <O>
+adjacent	JJ	_ <O>
+to	IN	_ <O>
+areas	NNS	_ <O>
+of	IN	_ <O>
+high	JJ	_ <O>
+activity	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Recently	RB	_ <O>
+,	,	_ <O>
+claims	NNS	_ <O>
+for	IN	_ <O>
+practical	JJ	_ <O>
+methods	NNS	_ <O>
+to	TO	_ <O>
+improve	VB	_ <O>
+the	DT	_ <O>
+stability	NN	_ <O>
+of	IN	_ <O>
+ascorbate	NN	_ <O>
+developers	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+made	VBN	_ <O>
+by	IN	_ <O>
+several	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Recently	RB	_ <O>
+,	,	_ <O>
+claims	NNS	_ <O>
+for	IN	_ <O>
+practical	JJ	_ <O>
+methods	NNS	_ <O>
+to	TO	_ <O>
+improve	VB	_ <O>
+the	DT	_ <O>
+stability	NN	_ <O>
+of	IN	_ <O>
+ascorbate	NN	_ <O>
+developers	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+made	VBN	_ <O>
+by	IN	_ <O>
+several	JJ	<B-CUE>
+<unk>	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

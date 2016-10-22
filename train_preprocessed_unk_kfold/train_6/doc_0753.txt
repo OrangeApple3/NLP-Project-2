@@ -1,0 +1,100 @@
+NULL
+Some	DT	<B-CUE>
+<unk>	NNPS	<I-CUE>
+have	VBP	_ <O>
+a	DT	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+saints	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+most	RBS	<B-CUE>
+Protestant	JJ	<I-CUE>
+<unk>	NNS	<I-CUE>
+and	CC	<I-CUE>
+<unk>	NNS	<I-CUE>
+,	,	_ <O>
+in	IN	_ <O>
+an	DT	_ <O>
+attempt	NN	_ <O>
+to	TO	_ <O>
+avoid	VB	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+certain	JJ	_ <O>
+believers	NNS	_ <O>
+above	IN	_ <O>
+others	NNS	_ <O>
+,	,	_ <O>
+reject	VB	_ <O>
+the	DT	_ <O>
+notion	NN	_ <O>
+of	IN	_ <O>
+an	DT	_ <O>
+official	NN	_ <O>
+or	CC	_ <O>
+recognized	VBN	_ <O>
+list	NN	_ <O>
+of	IN	_ <O>
+"	``	_ <O>
+saints	NNS	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNS	_ <O>
+often	RB	_ <O>
+appeal	VBP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Bible	NNP	_ <O>
+'s	POS	_ <O>
+apparent	JJ	_ <O>
+recognition	NN	_ <O>
+of	IN	_ <O>
+all	DT	_ <O>
+Christian	JJ	_ <O>
+believers	NNS	_ <O>
+as	IN	_ <O>
+saints	NNS	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+Acts	NNPS	_ <O>
+and	CC	_ <O>
+in	IN	_ <O>
+Paul	NNP	_ <O>
+'s	POS	_ <O>
+letters	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Also	RB	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+most	JJS	<B-CUE>
+Protestants	NNPS	<I-CUE>
+reject	VB	_ <O>
+prayer	NN	_ <O>
+requests	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+dead	JJ	_ <O>
+as	IN	_ <O>
+impossible	JJ	_ <O>
+,	,	_ <O>
+much	JJ	_ <O>
+of	IN	_ <O>
+other	JJ	_ <O>
+churches	NNS	_ <O>
+'	POS	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+<unk>	NN	_ <O>
+is	VBZ	_ <O>
+removed	VBN	_ <O>
+in	IN	_ <O>
+Protestant	JJ	_ <O>
+practice	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,24 @@
+NULL
+In	IN	_ <O>
+2007	CD	_ <O>
+a	DT	_ <O>
+re	RB	_ <O>
+-	HYPH	_ <O>
+<unk>	VBG	_ <O>
+exercise	NN	_ <O>
+led	VBD	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+adopting	VBG	_ <O>
+the	DT	_ <O>
+<unk>	NN	_ <O>
+"	``	_ <O>
+More	JJR	_ <O>
+Than	NNP	_ <O>
+You	PRP	_ <O>
+<unk>	VBP	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL

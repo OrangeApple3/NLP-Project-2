@@ -1,0 +1,36 @@
+NULL
+<unk>	NNP	_ <O>
+received	VBD	_ <O>
+the	DT	_ <O>
+<unk>	NNP	_ <O>
+Music	NNP	_ <O>
+Award	NNP	_ <O>
+in	IN	_ <O>
+1965	CD	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+authored	VBD	_ <O>
+his	PRP$	_ <O>
+own	JJ	_ <O>
+memoirs	NNS	_ <O>
+,	,	_ <O>
+'	''	_ <O>
+How	WRB	_ <O>
+I	PRP	_ <O>
+Took	VBD	_ <O>
+63	CD	_ <O>
+Years	NNS	_ <O>
+to	TO	_ <O>
+Commit	VB	_ <O>
+Suicide	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+year	NN	_ <O>
+he	PRP	_ <O>
+died	VBD	_ <O>
+.	.	_ <O>
+
+NULL

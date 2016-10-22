@@ -1,0 +1,164 @@
+Market	NN	_ <O>
+reform	NN	_ <O>
+has	VBZ	_ <O>
+<unk>	RB	_ <O>
+increased	VBN	_ <O>
+the	DT	_ <O>
+return	NN	_ <O>
+to	IN	_ <O>
+<unk>	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+<unk>	VBZ	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+good	JJ	_ <O>
+<unk>	NNS	_ <O>
+for	IN	_ <O>
+skilled	JJ	_ <O>
+people	NNS	_ <O>
+and	CC	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+<unk>	VBZ	_ <O>
+a	DT	_ <O>
+powerful	JJ	_ <O>
+<unk>	NN	_ <O>
+for	IN	_ <O>
+<unk>	NNS	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+the	DT	_ <O>
+education	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+children	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+China	NNP	_ <O>
+is	VBZ	_ <O>
+at	IN	_ <O>
+some	DT	<B-CUE>
+risk	NN	<I-CUE>
+of	IN	_ <O>
+falling	VBG	_ <O>
+into	IN	_ <O>
+this	DT	_ <O>
+trap	NN	_ <O>
+,	,	_ <O>
+because	IN	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+developed	VBN	_ <O>
+a	DT	_ <O>
+highly	RB	<B-CUE>
+<unk>	JJ	_ <O>
+<unk>	JJ	_ <O>
+system	NN	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+local	JJ	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBP	_ <O>
+primarily	RB	_ <O>
+on	IN	_ <O>
+local	JJ	_ <O>
+tax	NN	_ <O>
+collection	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+basic	JJ	_ <O>
+services	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+primary	JJ	_ <O>
+education	NN	_ <O>
+and	CC	_ <O>
+primary	JJ	_ <O>
+health	NN	_ <O>
+care	NN	_ <O>
+.	.	_ <O>
+
+NULL
+China	NNP	_ <O>
+in	IN	_ <O>
+fact	NN	_ <O>
+has	VBZ	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+decentralized	JJ	<I-CUE>
+fiscal	JJ	_ <O>
+systems	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+.	.	_ <O>
+
+NULL
+China	NNP	_ <O>
+is	VBZ	_ <O>
+at	IN	_ <O>
+some	DT	<B-CUE>
+risk	NN	<I-CUE>
+of	IN	_ <O>
+falling	VBG	_ <O>
+into	IN	_ <O>
+this	DT	_ <O>
+trap	NN	_ <O>
+,	,	_ <O>
+because	IN	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+developed	VBN	_ <O>
+a	DT	_ <O>
+highly	RB	<B-CUE>
+<unk>	JJ	_ <O>
+<unk>	JJ	_ <O>
+system	NN	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+local	JJ	_ <O>
+<unk>	NNS	_ <O>
+<unk>	VBP	_ <O>
+primarily	RB	_ <O>
+on	IN	_ <O>
+local	JJ	_ <O>
+tax	NN	_ <O>
+collection	NN	_ <O>
+to	TO	_ <O>
+<unk>	VB	_ <O>
+basic	JJ	_ <O>
+services	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+primary	JJ	_ <O>
+education	NN	_ <O>
+and	CC	_ <O>
+primary	JJ	_ <O>
+health	NN	_ <O>
+care	NN	_ <O>
+.	.	_ <O>
+
+NULL
+China	NNP	_ <O>
+in	IN	_ <O>
+fact	NN	_ <O>
+has	VBZ	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+decentralized	JJ	<I-CUE>
+fiscal	JJ	_ <O>
+systems	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+.	.	_ <O>
+
+NULL

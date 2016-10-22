@@ -1,0 +1,138 @@
+NULL
+There	EX	<B-CUE>
+can	MD	<I-CUE>
+be	VB	<I-CUE>
+little	JJ	<I-CUE>
+doubt	NN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+<unk>	NNPS	_ <O>
+and	CC	_ <O>
+<unk>	NNPS	_ <O>
+were	VBD	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+people	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+the	DT	_ <O>
+distinction	NN	_ <O>
+between	IN	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+seems	VBZ	<B-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+been	VBN	_ <O>
+established	VBN	_ <O>
+at	IN	_ <O>
+an	DT	_ <O>
+early	JJ	_ <O>
+period	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Herodotus	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+mention	VB	_ <O>
+the	DT	_ <O>
+Pisidians	NNPS	_ <O>
+,	,	_ <O>
+<unk>	VBZ	_ <O>
+the	DT	_ <O>
+Pamphylians	NNPS	_ <O>
+among	IN	_ <O>
+the	DT	_ <O>
+nations	NNS	_ <O>
+of	IN	_ <O>
+Asia	NNP	_ <O>
+Minor	NNP	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+<unk>	NNP	_ <O>
+mentions	VBZ	_ <O>
+them	PRP	_ <O>
+both	CC	_ <O>
+,	,	_ <O>
+correctly	RB	_ <O>
+including	VBG	_ <O>
+the	DT	_ <O>
+one	CD	_ <O>
+among	IN	_ <O>
+the	DT	_ <O>
+nations	NNS	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+interior	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+among	IN	_ <O>
+those	DT	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+coast	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+early	RB	_ <O>
+received	VBD	_ <O>
+colonies	NNS	_ <O>
+from	IN	_ <O>
+Greece	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+lands	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+from	IN	_ <O>
+this	DT	_ <O>
+cause	NN	_ <O>
+,	,	_ <O>
+combined	VBN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+greater	JJR	_ <O>
+<unk>	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+territory	NN	_ <O>
+,	,	_ <O>
+became	VBD	_ <O>
+more	RBR	_ <O>
+civilized	JJ	_ <O>
+than	IN	_ <O>
+its	PRP$	_ <O>
+neighbor	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+interior	NN	_ <O>
+.	.	_ <O>
+
+NULL
+<unk>	NNP	_ <O>
+remained	VBD	_ <O>
+a	DT	_ <O>
+wild	JJ	_ <O>
+,	,	_ <O>
+<unk>	JJ	_ <O>
+region	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+difficult	JJ	<I-CUE>
+for	IN	_ <O>
+outside	JJ	_ <O>
+powers	NNS	_ <O>
+to	TO	_ <O>
+rule	VB	_ <O>
+.	.	_ <O>
+
+NULL
