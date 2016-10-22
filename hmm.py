@@ -202,7 +202,7 @@ def test_emissions():
 
         
 def test_viterbi():
-    word_pos_list = ['hi','there','i','am','several','turnips']
+    word_pos_list = ['i','am','john','cena','please','go','away']
     transition = compute_transition_probabilities()
     emission = compute_emission_probabilities(directory=TRAINING_DIRECTORY)
     print viterbi(emission, transition, word_pos_list)

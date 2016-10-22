@@ -11,7 +11,7 @@ BIO = {"<B-CUE>": 0, "<I-CUE>": 1, "<O>": 2}
 # emission probability
 # Return: highest (probability_of_tag_sequence, tag_sequence)
 def viterbi(emission_prob, transition_prob, word_POS_list):
-    wordSet = Set(key for key,_ in word_POS_list)
+    wordSet = Set(key for key,_ in emission_prob)
     max_node_prob = []
     max_node_prob.extend([(0,[]) for _ in range(3)] 
                          for _ in range(len(word_POS_list)))
