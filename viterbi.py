@@ -9,7 +9,7 @@ BIO = {"<B-CUE>": 0, "<I-CUE>": 1, "<O>": 2}
 # Precondition: entries of word_POS_list are the observed variables in the
 # emission probability
 # Return: highest (probability_of_tag_sequence, tag_sequence)
-def viterbi_algo(emission_prob, transition_prob, word_POS_list):
+def viterbi(emission_prob, transition_prob, word_POS_list):
     max_node_prob = []
     max_node_prob.extend([(0,[]) for _ in range(3)] 
                          for _ in range(len(word_POS_list)))
@@ -41,7 +41,7 @@ def viterbi_algo(emission_prob, transition_prob, word_POS_list):
             )
     #for i in range(len(max_node_prob)):
     #    print(max_node_prob[i])
-    print max_node_prob[len(max_node_prob)-1]
+    #print max_node_prob[len(max_node_prob)-1]
     return(max(max_node_prob[-1], key=lambda t: t[0]))
 
             
@@ -73,5 +73,11 @@ def viterbi_again(emission, transition, word_POS_list):
 
     for i in range(len(word_POS_list)-1, 0, -1):
         viterbi_path[i-1] = state_paths[viterbi_path[i]][i]
-    return viterbi_path
+    final_cue_list = []
+    for index in viterbi_path:
+        for k in BIO:
+            if BIO[k] == index:
+                final_cue_list.append(k)
+    return final_cue_list
+                
     

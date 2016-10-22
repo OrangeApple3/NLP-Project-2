@@ -6,6 +6,7 @@ import csv
 # in this file will not work without it. To replicate this, create a directory within the NLP-Project-2 directory called
 # 'train_preprocessed' and run the preprocess function within this module
 
+# Setting this to True will allow tests to be run
 DEBUG = False
 
 

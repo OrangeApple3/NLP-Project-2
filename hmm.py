@@ -3,7 +3,7 @@ import os
 from collections import Counter
 from preprocessing import has_cue, DEBUG
 from transition import compute_transition_probabilities
-from viterbi import viterbi_algo, viterbi_again
+from viterbi import viterbi, viterbi_again
 
 CUES = ['<B-CUE>', '<I-CUE>', '<O>']
 
@@ -65,32 +65,7 @@ def smooth_counts(counts):
             #        counts[(pair[0], cue)] = compute_gt_count(0, word_counts_inc, word_counts_noninc)
     return counts
 
-
-def test_emissions():
-    # Sanity checks
-    emission_probs = compute_emission_probabilities(smoothed=True)
-    sorted_probs = sorted(emission_probs, key=emission_probs.get, reverse=True)
-
-    b_cue_probs = [pair for pair in sorted_probs if pair[1] == '<B-CUE>']
-    i_cue_probs = [pair for pair in sorted_probs if pair[1] == '<I-CUE>']
-    o_probs = [pair for pair in sorted_probs if pair[1] == '<O>']
-    null_probs = [pair for pair in sorted_probs if pair[1] == 'NULL']
-
-    # More sanity checks
-    print "Total B emission probs is " + str(sum(emission_probs[pair] for pair in b_cue_probs))
-    print "Total I emission probs is " + str(sum(emission_probs[pair] for pair in emission_probs if pair[1] == '<I-CUE>'))
-    print "Total O emission probs is " + str(sum(emission_probs[pair] for pair in emission_probs if pair[1] == '<O>'))
-
-    print "Top five most common beginning cue words"
-    for i in range(5):
-        print "Beginning cue '{}' has emission probability {}".format(b_cue_probs[i][0], emission_probs[b_cue_probs[i]])
-        print "Inside cue '{}' has emission probability {}".format(i_cue_probs[i][0], emission_probs[i_cue_probs[i]])
-        print "Outside word '{}' has emission probability {}".format(o_probs[i][0], emission_probs[o_probs[i]])
-
-    if null_probs:
-        print "Error: There should not be emission probabiities ont he NULL state"
-
-        
+    
 def get_sentences(test_root_dir):
     sentences = []
     for file in os.listdir(test_root_dir):
@@ -118,26 +93,75 @@ def phrase_label():
     
     transition = compute_transition_probabilities()
     emission = compute_emission_probabilities()
-
+    for i in range(5):
+        print viterbi(emission, transition, public_sentences[i])
     # Use Viterbi algorithm to determine appropriate cue tags/labels for each sentence
     for sentence in public_sentences:
-        public_tags.append(viterbi_again(emission, transition, sentence))
+        public_tags.append(viterbi(emission, transition, sentence))
     for sentence in private_sentences:
-        private_tags.append(viterbi_again(emission, transition, sentence))
-
+        private_tags.append(viterbi(emission, transition, sentence))
+    #print public_tags
     # Compute the uncertainty spans from the tagged sentences
     public_count = 0
     private_count = 0
     for sentence in public_tags:
+        in_cue = False
+        cue_begin = 0
+        cue_end = 0
         for tag in sentence:
+            if tag == '<B-CUE>':
+                in_cue = True
+                cue_begin = public_count
+                cue_end = cue_begin
+            elif tag == '<I-CUE>' and in_cue:
+                cue_end = public_count
+            elif tag == "<O>" and in_cue:
+                if cue_begin != cue_end:
+                    public_uncertainty_spans += "{}-{} ".format(cue_begin, cue_end)
+                else:
+                    public_uncertainty_spans += "{} ".format(cue_begin)
+                in_cue = False
             public_count += 1
+
     for sentence in private_tags:
-        for word in sentence:
+        for tag in sentence:
             private_count += 1
+    return public_uncertainty_spans
             
 
-print phrase_label()
+def test_emissions():
+    # Sanity checks
+    emission_probs = compute_emission_probabilities(smoothed=True)
+    sorted_probs = sorted(emission_probs, key=emission_probs.get, reverse=True)
+
+    b_cue_probs = [pair for pair in sorted_probs if pair[1] == '<B-CUE>']
+    i_cue_probs = [pair for pair in sorted_probs if pair[1] == '<I-CUE>']
+    o_probs = [pair for pair in sorted_probs if pair[1] == '<O>']
+    null_probs = [pair for pair in sorted_probs if pair[1] == 'NULL']
+
+    # More sanity checks
+    print "Total B emission probs is " + str(sum(emission_probs[pair] for pair in b_cue_probs))
+    print "Total I emission probs is " + str(sum(emission_probs[pair] for pair in emission_probs if pair[1] == '<I-CUE>'))
+    print "Total O emission probs is " + str(sum(emission_probs[pair] for pair in emission_probs if pair[1] == '<O>'))
+
+    print "Top five most common beginning cue words"
+    for i in range(5):
+        print "Beginning cue '{}' has emission probability {}".format(b_cue_probs[i][0], emission_probs[b_cue_probs[i]])
+        print "Inside cue '{}' has emission probability {}".format(i_cue_probs[i][0], emission_probs[i_cue_probs[i]])
+        print "Outside word '{}' has emission probability {}".format(o_probs[i][0], emission_probs[o_probs[i]])
+
+    if null_probs:
+        print "Error: There should not be emission probabiities ont he NULL state"
+
+def test_viterbi():
+    word_pos_list = ['hi','there','i','am','several','turnips']
+    transition = compute_transition_probabilities()
+    emission = compute_emission_probabilities()
+    print viterbi_again(emission, transition, word_pos_list)
     
             
 if DEBUG:
     test_emissions()
+    test_viterbi()
+
+print phrase_label()
