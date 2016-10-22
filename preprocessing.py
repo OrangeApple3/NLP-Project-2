@@ -112,6 +112,7 @@ def baseline_sentence_detection():
     private_ids = [str(id) for id in private_ids]
     return " ".join(public_ids), " ".join(private_ids)
 
+
 def uncertainty_phrase_csv():
     public_ids, private_ids = baseline_phrase_detection()
     with open('baseline_phrases.csv', 'w+') as file:
@@ -120,6 +121,7 @@ def uncertainty_phrase_csv():
         writer.writerow(['CUE-public', public_ids])
         writer.writerow(['CUE-private', private_ids])
 
+        
 def uncertainty_sentence_csv():
     public_ids, private_ids = baseline_sentence_detection()
     with open('baseline_sentences.csv', 'w+') as file:
@@ -128,6 +130,7 @@ def uncertainty_sentence_csv():
         writer.writerow(['SENTENCE-public', public_ids])
         writer.writerow(['SENTENCE-private', private_ids])
 
+        
 if __name__ == "__main__":
     preprocess()
 

@@ -2,12 +2,14 @@ import os
 import sys
 from constants import DEBUG, TRAINING_DIRECTORY
 
-# python transition.py 
+# to run: python transition.py 
 # trans_probability dictionary key ("<B-CUE>", "<I-CUE>") --> p(<B-CUE>|<I-CUE>)
 
 def compute_transition_probabilities(directory=TRAINING_DIRECTORY):
-    # transitions and transitions_p keys are reversed
-    # key ("<B-CUE>", "<I-CUE>") --> p(<I-CUE>|<B-CUE>)
+    """
+    Returns a dictionary of transition probabilities
+    P(<B-CUE>|<O-CUE>) is represented by the key ('B-CUE', 'O-CUE'). The value is the probability itself
+    """
     transitions = {("<B-CUE>","<B-CUE>"):0, ("<B-CUE>","<I-CUE>"):0, ("<B-CUE>","<O>"):0, ("<I-CUE>", "<B-CUE>"):0, ("<I-CUE>", "<I-CUE>"):0, ("<I-CUE>", "<O>"):0, ("<O>", "<B-CUE>"):0, ("<O>", "<I-CUE>"):0, ("<O>", "<O>"):0, ("NULL", "<B-CUE>"):0, ("NULL", "<I-CUE>"):0, ("NULL", "<O>"):0}
     transitions_p = {("<B-CUE>","<B-CUE>"):0, ("<B-CUE>","<I-CUE>"):0, ("<B-CUE>","<O>"):0, ("<I-CUE>", "<B-CUE>"):0, ("<I-CUE>", "<I-CUE>"):0, ("<I-CUE>", "<O>"):0, ("<O>", "<B-CUE>"):0, ("<O>", "<I-CUE>"):0, ("<O>", "<O>"):0, ("NULL", "<B-CUE>"):0, ("NULL", "<I-CUE>"):0, ("NULL", "<O>"):0}
     all_file_tags = []

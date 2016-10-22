@@ -4,8 +4,12 @@ import random
 from preprocessing import has_cue
 from constants import DEBUG, TRAINING_DIRECTORY
 
-# python resample.py
+# Upsamples sentences containing uncertainty cues and downsamples sentences without uncertainty cues
 
+
+# to run: python resample.py
+# given a training directory, duplicates the sentences that contain uncertainty cues
+# and, with some probability, removes some sentences that do not contain uncertainty
 
 
 def main(directory=TRAINING_DIRECTORY):
@@ -36,7 +40,7 @@ def main(directory=TRAINING_DIRECTORY):
             uncertain_sentences += uncertain_sentences # to repeat sentences, increment uncertain_sentences
 
         # write to new file
-        file = open("resampled_unk/" + fn, "w")
+        file = open("resampled_unk/" + fn, "w") # rename to directory designated to contain resampled training files
         for sent in certain_sentences + uncertain_sentences:
             for token in sent:
                 file.write(token)
