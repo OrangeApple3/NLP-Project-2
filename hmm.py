@@ -160,10 +160,12 @@ def phrase_sentence_label():
             writer.writerow(['Type', 'Indices'])
             writer.writerow(['SENTENCE-public', public_uncertainty_sentences])
             writer.writerow(['SENTENCE-private', private_uncertainty_sentences])
+            
     return {'public_uncertainty_spans': public_uncertainty_spans,
             'private_uncertainty_spans': private_uncertainty_spans,
             'public_uncertain_sentences': public_uncertain_sentences,
             'private_uncertain_sentences': private_uncertain_sentences}
+
 
 def compute_F1_score(pred_tags, actual_tags):
     """
