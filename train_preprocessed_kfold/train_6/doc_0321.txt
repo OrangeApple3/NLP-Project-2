@@ -1,0 +1,44 @@
+NULL
+The	DT	_ <O>
+motto	NN	_ <O>
+of	IN	_ <O>
+Clackmannanshire	NNP	_ <O>
+is	VBZ	_ <O>
+"	``	_ <O>
+Look	VB	_ <O>
+Aboot	NNP	_ <O>
+Ye	NNP	_ <O>
+"	''	_ <O>
+(	-LRB-	_ <O>
+'	``	_ <O>
+Circumspice	NNP	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+Latin	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+2007	CD	_ <O>
+a	DT	_ <O>
+re	RB	_ <O>
+-	HYPH	_ <O>
+branding	VBG	_ <O>
+exercise	NN	_ <O>
+led	VBD	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+adopting	VBG	_ <O>
+the	DT	_ <O>
+slogan	NN	_ <O>
+"	``	_ <O>
+More	JJR	_ <O>
+Than	NNP	_ <O>
+You	PRP	_ <O>
+Imagine	VBP	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL

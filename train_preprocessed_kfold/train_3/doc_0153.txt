@@ -1,0 +1,78 @@
+NULL
+Another	DT	_ <O>
+version	NN	_ <O>
+of	IN	_ <O>
+formalism	NN	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+deductivism	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+same	JJ	_ <O>
+is	VBZ	_ <O>
+held	VBN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+true	JJ	_ <O>
+for	IN	_ <O>
+all	DT	_ <O>
+other	JJ	_ <O>
+mathematical	JJ	_ <O>
+statements	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+usually	RB	<I-CUE>
+hoped	VBN	<I-CUE>
+that	IN	_ <O>
+there	EX	_ <O>
+exists	VBZ	_ <O>
+some	DT	<B-CUE>
+interpretation	NN	<I-CUE>
+in	IN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+rules	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+game	NN	_ <O>
+hold	VBP	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+formalists	NNS	<I-CUE>
+would	MD	_ <O>
+say	VB	_ <O>
+that	IN	_ <O>
+in	IN	_ <O>
+practice	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+axiom	NN	_ <O>
+systems	NNS	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+studied	VBN	_ <O>
+will	MD	_ <O>
+be	VB	_ <O>
+suggested	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+demands	NNS	_ <O>
+of	IN	_ <O>
+science	NN	_ <O>
+or	CC	_ <O>
+other	JJ	_ <O>
+areas	NNS	_ <O>
+of	IN	_ <O>
+mathematics	NNS	_ <O>
+.	.	_ <O>
+
+NULL

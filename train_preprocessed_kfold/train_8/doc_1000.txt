@@ -1,0 +1,147 @@
+NULL
+Philosophy	NN	_ <O>
+of	IN	_ <O>
+space	NN	_ <O>
+and	CC	_ <O>
+time	NN	_ <O>
+
+NULL
+Time	NNP	_ <O>
+
+NULL
+Time	NNP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+fundamental	JJ	_ <O>
+quantity	NN	_ <O>
+(	-LRB-	_ <O>
+that	DT	_ <O>
+is	VBZ	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+quantity	NN	_ <O>
+which	WDT	_ <O>
+can	MD	_ <O>
+not	RB	_ <O>
+be	VB	_ <O>
+defined	VBN	_ <O>
+in	IN	_ <O>
+terms	NNS	_ <O>
+of	IN	_ <O>
+other	JJ	_ <O>
+quantities	NNS	_ <O>
+,	,	_ <O>
+because	IN	_ <O>
+at	IN	_ <O>
+present	NN	_ <O>
+we	PRP	_ <O>
+do	VBP	_ <O>
+n't	RB	_ <O>
+know	VB	_ <O>
+anything	NN	_ <O>
+more	JJR	_ <O>
+basic	JJ	_ <O>
+than	IN	_ <O>
+time	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Our	PRP$	_ <O>
+modern	JJ	_ <O>
+conception	NN	_ <O>
+of	IN	_ <O>
+time	NN	_ <O>
+is	VBZ	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+Einstein	NNP	_ <O>
+'s	POS	_ <O>
+theory	NN	_ <O>
+of	IN	_ <O>
+relativity	NN	_ <O>
+and	CC	_ <O>
+Hermann	NNP	_ <O>
+Minkowski	NNP	_ <O>
+'s	POS	_ <O>
+spacetime	NN	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+rates	NNS	_ <O>
+of	IN	_ <O>
+time	NN	_ <O>
+at	IN	_ <O>
+separate	JJ	_ <O>
+places	NNS	_ <O>
+run	VBN	_ <O>
+differently	RB	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+space	NN	_ <O>
+and	CC	_ <O>
+time	NN	_ <O>
+are	VBP	_ <O>
+merged	VBN	_ <O>
+into	IN	_ <O>
+spacetime	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Time	NNP	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+quantized	VBN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+theoretical	JJ	_ <O>
+smallest	JJS	_ <O>
+time	NN	_ <O>
+being	VBG	_ <O>
+the	DT	_ <O>
+Planck	NNP	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Einstein	NNP	_ <O>
+'s	POS	_ <O>
+general	JJ	_ <O>
+relativity	NN	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+redshift	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+light	NN	_ <O>
+from	IN	_ <O>
+receding	VBG	_ <O>
+distant	JJ	_ <O>
+galaxies	NNS	_ <O>
+indicate	VBP	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+entire	JJ	_ <O>
+Universe	NNP	_ <O>
+and	CC	_ <O>
+possibly	RB	<B-CUE>
+space	NN	_ <O>
+-	HYPH	_ <O>
+time	NN	_ <O>
+itself	PRP	_ <O>
+began	VBD	_ <O>
+about	RB	_ <O>
+13.7	CD	_ <O>
+billion	CD	_ <O>
+years	NNS	_ <O>
+ago	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+big	JJ	_ <O>
+bang	NN	_ <O>
+.	.	_ <O>
+
+NULL

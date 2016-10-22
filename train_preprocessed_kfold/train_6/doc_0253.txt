@@ -1,0 +1,117 @@
+NULL
+His	PRP$	_ <O>
+views	NNS	_ <O>
+were	VBD	_ <O>
+almost	RB	_ <O>
+polar	JJ	_ <O>
+opposites	NNS	_ <O>
+of	IN	_ <O>
+those	DT	_ <O>
+held	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+new	JJ	_ <O>
+Conservative	JJ	_ <O>
+leader	NN	_ <O>
+in	IN	_ <O>
+1964	CD	_ <O>
+,	,	_ <O>
+Edward	NNP	_ <O>
+Heath	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+remarked	VBD	_ <O>
+of	IN	_ <O>
+Williams	NNP	_ <O>
+in	IN	_ <O>
+1966	CD	_ <O>
+:	:	_ <O>
+"	``	_ <O>
+I	PRP	_ <O>
+thoroughly	RB	_ <O>
+disagree	VBP	_ <O>
+with	IN	_ <O>
+his	PRP$	_ <O>
+views	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+the	DT	_ <O>
+view	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+modern	JJ	_ <O>
+Tory	NNP	_ <O>
+party	NN	_ <O>
+,	,	_ <O>
+nor	CC	_ <O>
+the	DT	_ <O>
+views	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+great	JJ	_ <O>
+majority	NN	_ <O>
+of	IN	_ <O>
+people	NNS	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+country	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+To	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+us	PRP	<I-CUE>
+outside	IN	_ <O>
+Parliament	NNP	_ <O>
+it	PRP	_ <O>
+appears	VBZ	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+neither	CC	_ <O>
+Conservative	JJ	_ <O>
+nor	CC	_ <O>
+an	DT	_ <O>
+opposition	NN	_ <O>
+...	:	_ <O>
+we	PRP	_ <O>
+must	MD	_ <O>
+oppose	VB	_ <O>
+socialism	NN	_ <O>
+,	,	_ <O>
+not	RB	_ <O>
+condone	VB	_ <O>
+it	PRP	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+He	PRP	_ <O>
+remained	VBD	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+Club	NNP	_ <O>
+'s	POS	_ <O>
+Executive	NNP	_ <O>
+Council	NNP	_ <O>
+until	IN	_ <O>
+1973	CD	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+still	RB	_ <O>
+listed	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+Vice	NNP	_ <O>
+-	HYPH	_ <O>
+President	NNP	_ <O>
+in	IN	_ <O>
+1991	CD	_ <O>
+.	.	_ <O>
+
+NULL

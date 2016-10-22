@@ -1,0 +1,101 @@
+NULL
+Driscoll	NNP	_ <O>
+has	VBZ	_ <O>
+not	RB	_ <O>
+published	VBN	_ <O>
+a	DT	_ <O>
+comprehensive	JJ	_ <O>
+outline	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+theological	JJ	_ <O>
+beliefs	NNS	_ <O>
+(	-LRB-	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+systematic	JJ	_ <O>
+theology	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+his	PRP$	_ <O>
+sermons	NNS	_ <O>
+,	,	_ <O>
+lectures	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+books	NNS	_ <O>
+provide	VBP	_ <O>
+a	DT	_ <O>
+good	JJ	_ <O>
+understanding	NN	_ <O>
+of	IN	_ <O>
+what	WP	_ <O>
+he	PRP	_ <O>
+believes	VBZ	_ <O>
+.	.	_ <O>
+
+NULL
+Furthermore	RB	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+can	MD	<I-CUE>
+be	VB	<I-CUE>
+inferred	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+doctrinal	JJ	_ <O>
+statement	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+church	NN	_ <O>
+planting	VBG	_ <O>
+network	NN	_ <O>
+he	PRP	_ <O>
+co	RB	_ <O>
+-	,	_ <O>
+founded	VBN	_ <O>
+,	,	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+reliable	JJ	_ <O>
+overview	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+beliefs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+summary	NN	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+has	VBZ	_ <O>
+described	VBN	_ <O>
+himself	PRP	_ <O>
+as	IN	_ <O>
+(	-LRB-	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+of	IN	_ <O>
+importance	NN	_ <O>
+)	-RRB-	_ <O>
+"	``	_ <O>
+first	JJ	_ <O>
+Christian	JJ	_ <O>
+,	,	_ <O>
+second	JJ	_ <O>
+Evangelical	JJ	_ <O>
+,	,	_ <O>
+third	JJ	_ <O>
+Missional	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+fourth	RB	_ <O>
+Reformed	NNP	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

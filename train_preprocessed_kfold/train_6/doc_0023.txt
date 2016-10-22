@@ -1,0 +1,52 @@
+NULL
+Intertwined	VBN	_ <O>
+in	IN	_ <O>
+these	DT	_ <O>
+four	CD	_ <O>
+layers	NNS	_ <O>
+are	VBP	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Users	NNS	_ <O>
+obviously	RB	_ <O>
+have	VBP	_ <O>
+a	DT	_ <O>
+role	NN	_ <O>
+also	RB	_ <O>
+by	IN	_ <O>
+questioning	VBG	_ <O>
+and	CC	_ <O>
+reporting	VBG	_ <O>
+suspicious	JJ	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Aiding	VBG	_ <O>
+in	IN	_ <O>
+identifying	VBG	_ <O>
+people	NNS	_ <O>
+as	IN	_ <O>
+known	VBN	_ <O>
+versus	IN	_ <O>
+unknown	JJ	_ <O>
+are	VBP	_ <O>
+identification	NN	_ <O>
+systems	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Visitors	NNS	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+required	VBN	_ <O>
+to	TO	_ <O>
+wear	VB	_ <O>
+a	DT	_ <O>
+visitor	NN	_ <O>
+badge	NN	_ <O>
+.	.	_ <O>
+
+NULL

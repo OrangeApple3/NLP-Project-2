@@ -1,0 +1,37 @@
+NULL
+'	''	_ <O>
+Robert	NNP	_ <O>
+W.	NNP	_ <O>
+O'Donnell	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+former	JJ	_ <O>
+Speaker	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Pennsylvania	NNP	_ <O>
+House	NNP	_ <O>
+of	IN	_ <O>
+Representatives	NNPS	_ <O>
+,	,	_ <O>
+is	VBZ	<B-CUE>
+widely	RB	<I-CUE>
+regarded	VBN	<I-CUE>
+as	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+able	JJ	<I-CUE>
+and	CC	<I-CUE>
+gifted	JJ	<I-CUE>
+members	NNS	_ <O>
+to	TO	_ <O>
+serve	VB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+legislature	NN	_ <O>
+.	.	_ <O>
+
+NULL

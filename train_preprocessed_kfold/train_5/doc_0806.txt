@@ -1,0 +1,252 @@
+NULL
+A	DT	_ <O>
+layout	NN	_ <O>
+artist	NN	_ <O>
+working	VBG	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+key	NN	_ <O>
+-	HYPH	_ <O>
+frame	NN	_ <O>
+of	IN	_ <O>
+animation	NN	_ <O>
+for	IN	_ <O>
+'	``	_ <O>
+He	PRP	_ <O>
+-	HYPH	_ <O>
+Man	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Masters	NNPS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Universe	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+typical	JJ	_ <O>
+working	VBG	_ <O>
+desk	NN	_ <O>
+for	IN	_ <O>
+animators	NNS	_ <O>
+,	,	_ <O>
+layout	NN	_ <O>
+artists	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+background	NN	_ <O>
+designers	NNS	_ <O>
+at	IN	_ <O>
+Filmation	NNP	_ <O>
+in	IN	_ <O>
+1983	CD	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+with	IN	_ <O>
+other	JJ	<B-CUE>
+producers	NNS	<I-CUE>
+of	IN	_ <O>
+Saturday	NNP	_ <O>
+morning	NN	_ <O>
+cartoons	NNS	_ <O>
+,	,	_ <O>
+Filmation	NNP	_ <O>
+was	VBD	_ <O>
+more	RBR	_ <O>
+concerned	JJ	_ <O>
+with	IN	_ <O>
+quantity	NN	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+quality	NN	_ <O>
+;	:	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+did	VBD	_ <O>
+make	VB	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+attempts	NNS	<I-CUE>
+to	TO	_ <O>
+rise	VB	_ <O>
+above	IN	_ <O>
+the	DT	_ <O>
+standard	JJ	_ <O>
+animated	JJ	_ <O>
+fare	NN	_ <O>
+and	CC	_ <O>
+produce	VBP	_ <O>
+reasonably	RB	<B-CUE>
+well	RB	<I-CUE>
+-	HYPH	<I-CUE>
+written	VBN	<I-CUE>
+cartoons	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	<B-CUE>
+best	RBS	<I-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+example	NN	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+their	PRP$	_ <O>
+animated	JJ	_ <O>
+adaptation	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Star	NNP	_ <O>
+Trek	NNP	_ <O>
+'	POS	_ <O>
+series	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+included	VBD	_ <O>
+scripts	NNS	_ <O>
+contributed	VBN	_ <O>
+by	IN	_ <O>
+well	RB	<B-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+science	NN	<I-CUE>
+fiction	NN	<I-CUE>
+writers	NNS	<I-CUE>
+and	CC	_ <O>
+starred	VBD	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+original	JJ	_ <O>
+cast	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Other	JJ	_ <O>
+favorably	RB	<B-CUE>
+remembered	VBD	<I-CUE>
+Filmation	NNP	_ <O>
+series	NN	_ <O>
+included	VBD	_ <O>
+a	DT	_ <O>
+16-part	CD	_ <O>
+animated	VBN	_ <O>
+serial	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+Flash	NNP	_ <O>
+Gordon	NNP	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+originally	RB	_ <O>
+intended	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+movie	NN	_ <O>
+for	IN	_ <O>
+theatrical	JJ	_ <O>
+release	NN	_ <O>
+but	CC	_ <O>
+shown	VBN	_ <O>
+in	IN	_ <O>
+its	PRP$	_ <O>
+entirety	NN	_ <O>
+only	RB	_ <O>
+thrice	RB	_ <O>
+on	IN	_ <O>
+NBC	NNP	_ <O>
+)	-RRB-	_ <O>
+;	:	_ <O>
+'	''	_ <O>
+Fat	NNP	_ <O>
+Albert	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Cosby	NNP	_ <O>
+Kids	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+an	DT	_ <O>
+animated	JJ	_ <O>
+educational	JJ	_ <O>
+series	NN	_ <O>
+created	VBN	_ <O>
+by	IN	_ <O>
+and	CC	_ <O>
+starring	VBG	_ <O>
+Bill	NNP	_ <O>
+Cosby	NNP	_ <O>
+;	:	_ <O>
+and	CC	_ <O>
+'	``	_ <O>
+He	PRP	_ <O>
+-	HYPH	_ <O>
+Man	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Masters	NNPS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Universe	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+popular	JJ	_ <O>
+line	NN	_ <O>
+of	IN	_ <O>
+Mattel	NNP	_ <O>
+toys	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+animated	JJ	_ <O>
+adaptations	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Archie	NNP	_ <O>
+Comics	NNP	_ <O>
+characters	NNS	_ <O>
+were	VBD	_ <O>
+also	RB	_ <O>
+noteworthy	JJ	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+pop	NN	_ <O>
+music	NN	_ <O>
+produced	VBN	_ <O>
+for	IN	_ <O>
+it	PRP	_ <O>
+,	,	_ <O>
+particularly	RB	_ <O>
+the	DT	_ <O>
+song	NN	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+Sugar	NNP	_ <O>
+,	,	_ <O>
+Sugar	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+#	$	_ <O>
+1	CD	_ <O>
+hit	VBN	_ <O>
+single	JJ	_ <O>
+.	.	_ <O>
+
+NULL

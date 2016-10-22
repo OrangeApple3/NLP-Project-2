@@ -1,0 +1,150 @@
+NULL
+The	DT	_ <O>
+Pauli	NNP	_ <O>
+exclusion	NN	_ <O>
+principle	NN	_ <O>
+is	VBZ	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+important	JJ	<I-CUE>
+principles	NNS	_ <O>
+in	IN	_ <O>
+physics	NN	_ <O>
+,	,	_ <O>
+mainly	RB	_ <O>
+because	IN	_ <O>
+the	DT	_ <O>
+three	CD	_ <O>
+types	NNS	_ <O>
+of	IN	_ <O>
+particles	NNS	_ <O>
+from	IN	_ <O>
+which	WDT	_ <O>
+ordinary	JJ	_ <O>
+matter	NN	_ <O>
+is	VBZ	_ <O>
+made—electrons	NNS	_ <O>
+,	,	_ <O>
+protons	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+neutrons—are	VB	_ <O>
+all	DT	_ <O>
+subject	NN	_ <O>
+to	IN	_ <O>
+it	PRP	_ <O>
+;	:	_ <O>
+consequently	RB	_ <O>
+,	,	_ <O>
+all	DT	_ <O>
+material	JJ	_ <O>
+particles	NNS	_ <O>
+exhibit	VBP	_ <O>
+space	NN	_ <O>
+-	HYPH	_ <O>
+occupying	VBG	_ <O>
+behavior	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Pauli	NNP	_ <O>
+exclusion	NN	_ <O>
+principle	NN	_ <O>
+underpins	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+characteristic	JJ	<I-CUE>
+properties	NNS	<I-CUE>
+of	IN	<I-CUE>
+matter	NN	<I-CUE>
+,	,	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+large	JJ	_ <O>
+-	HYPH	_ <O>
+scale	NN	_ <O>
+stability	NN	_ <O>
+of	IN	_ <O>
+matter	NN	_ <O>
+,	,	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+existence	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+periodic	JJ	_ <O>
+table	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+elements	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Apart	RB	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+familiar	JJ	_ <O>
+electron	NN	_ <O>
+,	,	_ <O>
+proton	NN	_ <O>
+and	CC	_ <O>
+neutron	NN	_ <O>
+,	,	_ <O>
+these	DT	_ <O>
+include	VBP	_ <O>
+neutrinos	NNS	_ <O>
+and	CC	_ <O>
+quarks	NNS	_ <O>
+(	-LRB-	_ <O>
+from	IN	_ <O>
+which	WDT	_ <O>
+protons	NNS	_ <O>
+and	CC	_ <O>
+neutrons	NNS	_ <O>
+are	VBP	_ <O>
+made	VBN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+some	DT	_ <O>
+atoms	NNS	_ <O>
+like	IN	_ <O>
+helium-3	ADD	_ <O>
+.	.	_ <O>
+
+NULL
+Particles	NNS	_ <O>
+with	IN	_ <O>
+integer	NN	_ <O>
+spin	NN	_ <O>
+have	VBP	_ <O>
+a	DT	_ <O>
+symmetric	JJ	_ <O>
+wave	NN	_ <O>
+function	NN	_ <O>
+and	CC	_ <O>
+are	VBP	_ <O>
+called	VBN	_ <O>
+bosons	NNS	_ <O>
+;	:	_ <O>
+in	IN	_ <O>
+contrast	NN	_ <O>
+to	IN	_ <O>
+fermions	NNS	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+may	MD	_ <O>
+share	VB	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+quantum	JJ	_ <O>
+states	NNS	_ <O>
+.	.	_ <O>
+
+NULL

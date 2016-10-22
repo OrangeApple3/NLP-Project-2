@@ -1,0 +1,156 @@
+NULL
+Apparently	RB	_ <O>
+rushed	VBD	_ <O>
+into	IN	_ <O>
+production	NN	_ <O>
+to	TO	_ <O>
+meet	VB	_ <O>
+the	DT	_ <O>
+(	-LRB-	_ <O>
+unrelated	JJ	_ <O>
+but	CC	_ <O>
+thematically	RB	_ <O>
+similar	JJ	_ <O>
+)	-RRB-	_ <O>
+movie	NN	_ <O>
+Pirates	NNPS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Caribbean	NNP	_ <O>
+:	:	_ <O>
+Dead	NNP	_ <O>
+Man	NNP	_ <O>
+'s	POS	_ <O>
+Chest	NNP	_ <O>
+that	WDT	_ <O>
+released	VBD	_ <O>
+later	RB	_ <O>
+on	IN	_ <O>
+July	NNP	_ <O>
+7	CD	_ <O>
+,	,	_ <O>
+2006	CD	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+set	NN	_ <O>
+had	VBD	_ <O>
+an	DT	_ <O>
+unusual	JJ	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+'	``	_ <O>
+quality	NN	_ <O>
+issues	NNS	_ <O>
+'	''	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+run	NN	_ <O>
+,	,	_ <O>
+mainly	RB	_ <O>
+damaged	JJ	_ <O>
+cards	NNS	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+factory	NN	_ <O>
+-	HYPH	_ <O>
+severe	JJ	_ <O>
+scratches	NNS	_ <O>
+,	,	_ <O>
+dings	NNS	_ <O>
+and	CC	_ <O>
+corner	NN	_ <O>
+clipping	NN	_ <O>
+are	VBP	_ <O>
+common	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+run	NN	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+set	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Dirt	NN	_ <O>
+,	,	_ <O>
+pebbles	NNS	_ <O>
+,	,	_ <O>
+hair	NN	_ <O>
+and	CC	_ <O>
+assorted	JJ	_ <O>
+debris	NN	_ <O>
+were	VBD	_ <O>
+also	RB	_ <O>
+commonly	RB	_ <O>
+found	VBN	_ <O>
+inside	IN	_ <O>
+the	DT	_ <O>
+wrappers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Later	JJ	_ <O>
+print	NN	_ <O>
+runs	NNS	_ <O>
+changed	VBD	_ <O>
+the	DT	_ <O>
+booster	NN	_ <O>
+pack	NN	_ <O>
+wrapper	NN	_ <O>
+artwork	NN	_ <O>
+and	CC	_ <O>
+seem	VBP	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+addressed	VBN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+quality	NN	<I-CUE>
+issues	NNS	<I-CUE>
+,	,	_ <O>
+but	CC	_ <O>
+the	DT	_ <O>
+cardstock	NN	_ <O>
+and	CC	_ <O>
+inks	NNS	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+set	NN	_ <O>
+are	VBP	_ <O>
+still	RB	_ <O>
+notably	RB	<B-CUE>
+inferior	JJ	<I-CUE>
+to	IN	_ <O>
+other	JJ	_ <O>
+sets	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Collectors	NNS	_ <O>
+are	VBP	_ <O>
+warned	VBN	_ <O>
+that	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+cards	NNS	<I-CUE>
+are	VBP	_ <O>
+"	``	_ <O>
+Mint	NNP	_ <O>
+as	IN	_ <O>
+issued	VBN	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+aka	RB	_ <O>
+issued	VBN	_ <O>
+damaged	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+factory	NN	_ <O>
+.	.	_ <O>
+
+NULL

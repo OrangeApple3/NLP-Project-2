@@ -1,0 +1,98 @@
+NULL
+Phase	NN	_ <O>
+noise	NN	_ <O>
+is	VBZ	_ <O>
+another	DT	_ <O>
+type	NN	_ <O>
+of	IN	_ <O>
+jitter	NN	_ <O>
+observed	VBN	_ <O>
+in	IN	_ <O>
+PLLs	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+mostly	RB	_ <O>
+caused	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+amplifier	NN	_ <O>
+elements	NNS	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+circuit	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+technologies	NNS	<I-CUE>
+are	VBP	<B-CUE>
+known	VBN	<I-CUE>
+to	TO	_ <O>
+perform	VB	_ <O>
+better	RBR	_ <O>
+than	IN	_ <O>
+others	NNS	<B-CUE>
+in	IN	_ <O>
+this	DT	_ <O>
+regard	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+best	JJS	_ <O>
+digital	JJ	_ <O>
+PLLs	NNS	_ <O>
+are	VBP	_ <O>
+constructed	VBN	_ <O>
+with	IN	_ <O>
+emitter	NN	_ <O>
+-	HYPH	_ <O>
+coupled	VBN	_ <O>
+logic	NN	_ <O>
+(	-LRB-	_ <O>
+ECL	NNP	_ <O>
+)	-RRB-	_ <O>
+elements	NNS	_ <O>
+,	,	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+expense	NN	_ <O>
+of	IN	_ <O>
+high	JJ	_ <O>
+power	NN	_ <O>
+consumption	NN	_ <O>
+.	.	_ <O>
+
+NULL
+To	TO	_ <O>
+keep	VB	_ <O>
+phase	NN	_ <O>
+noise	NN	_ <O>
+low	JJ	_ <O>
+in	IN	_ <O>
+PLL	NNP	_ <O>
+circuits	NNS	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+best	JJS	_ <O>
+to	TO	_ <O>
+avoid	VB	_ <O>
+saturating	VBG	_ <O>
+logic	NN	_ <O>
+families	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+transistor	NN	_ <O>
+-	HYPH	_ <O>
+transistor	NN	_ <O>
+logic	NN	_ <O>
+(	-LRB-	_ <O>
+TTL	NNP	_ <O>
+)	-RRB-	_ <O>
+or	CC	_ <O>
+CMOS.	NNP	_ <O>
+
+NULL

@@ -1,0 +1,132 @@
+NULL
+The	DT	_ <O>
+uniform	NN	_ <O>
+is	VBZ	_ <O>
+considered	VBN	_ <O>
+by	IN	_ <O>
+some	DT	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+an	DT	_ <O>
+objectification	NN	_ <O>
+of	IN	_ <O>
+women	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+general	JJ	_ <O>
+environment	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+restaurant	NN	_ <O>
+is	VBZ	_ <O>
+seen	VBN	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+people	NNS	<I-CUE>
+as	IN	_ <O>
+sexist	JJ	_ <O>
+and	CC	_ <O>
+demeaning	JJ	_ <O>
+to	IN	_ <O>
+women	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+restaurant	NN	_ <O>
+hires	VBZ	_ <O>
+only	RB	_ <O>
+women	NNS	_ <O>
+as	IN	_ <O>
+servers	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+refers	VBZ	_ <O>
+to	IN	_ <O>
+them	PRP	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+Hooters	NNP	_ <O>
+Girls	NNP	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+Several	JJ	_ <O>
+discrimination	NN	_ <O>
+lawsuits	NNS	_ <O>
+brought	VBN	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+chain	NN	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+settled	VBN	_ <O>
+out	IN	_ <O>
+of	IN	_ <O>
+court	NN	_ <O>
+or	CC	_ <O>
+dropped	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Equal	NNP	_ <O>
+Employment	NNP	_ <O>
+Opportunity	NNP	_ <O>
+Commission(EEOC	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+some	DT	_ <O>
+after	IN	_ <O>
+an	DT	_ <O>
+advertising	NN	_ <O>
+campaign	NN	_ <O>
+featuring	VBG	_ <O>
+St.	NNP	_ <O>
+Petersburg	NNP	_ <O>
+,	,	_ <O>
+Florida	NNP	_ <O>
+Hooters	NNP	_ <O>
+'	POS	_ <O>
+kitchen	NN	_ <O>
+manager	NN	_ <O>
+Vince	NNP	_ <O>
+Gigliotti	NNP	_ <O>
+dressed	VBD	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+Hooters	NNP	_ <O>
+Girl	NNP	_ <O>
+uniform	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Men	NNS	_ <O>
+do	VBP	_ <O>
+find	VB	_ <O>
+employment	NN	_ <O>
+at	IN	_ <O>
+Hooters	NNP	_ <O>
+as	IN	_ <O>
+cooks	NNS	_ <O>
+,	,	_ <O>
+dishwashers	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+managers	NNS	_ <O>
+where	WRB	_ <O>
+most	JJS	_ <O>
+wear	VBP	_ <O>
+Bermuda	NNP	_ <O>
+shorts	NNS	_ <O>
+,	,	_ <O>
+Hawaiian	JJ	_ <O>
+shirts	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+similar	JJ	_ <O>
+garb	NNS	_ <O>
+.	.	_ <O>
+
+NULL

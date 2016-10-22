@@ -1,0 +1,70 @@
+NULL
+Most	JJS	_ <O>
+lights	NNS	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+modern	JJ	_ <O>
+photography	NN	_ <O>
+are	VBP	_ <O>
+a	DT	_ <O>
+flash	NN	_ <O>
+of	IN	_ <O>
+some	DT	_ <O>
+sort	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+provides	VBZ	_ <O>
+a	DT	_ <O>
+softer	JJR	_ <O>
+lighting	NN	_ <O>
+for	IN	_ <O>
+portrait	NN	_ <O>
+work	NN	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+considered	VBN	_ <O>
+more	RBR	_ <O>
+appealing	JJ	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+harsh	JJ	_ <O>
+light	NN	_ <O>
+often	RB	_ <O>
+cast	VB	_ <O>
+by	IN	_ <O>
+open	JJ	_ <O>
+strobes	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Hair	NN	_ <O>
+and	CC	_ <O>
+background	NN	_ <O>
+lights	NNS	_ <O>
+are	VBP	_ <O>
+usually	RB	_ <O>
+not	RB	_ <O>
+diffused	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+more	RBR	_ <O>
+important	JJ	_ <O>
+to	TO	_ <O>
+control	VB	_ <O>
+light	NN	_ <O>
+spillage	NN	_ <O>
+to	IN	_ <O>
+other	JJ	_ <O>
+areas	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+subject	NN	_ <O>
+.	.	_ <O>
+
+NULL

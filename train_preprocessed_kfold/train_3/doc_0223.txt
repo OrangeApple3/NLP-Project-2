@@ -1,0 +1,13 @@
+NULL
+Louis	NNP	_ <O>
+Antoine	NNP	_ <O>
+de	IN	_ <O>
+Bougainville	NNP	_ <O>
+named	VBN	_ <O>
+the	DT	_ <O>
+island	NN	_ <O>
+after	IN	_ <O>
+himself	PRP	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,82 @@
+NULL
+It	PRP	<B-CUE>
+had	VBD	<I-CUE>
+been	VBN	<I-CUE>
+believed	VBN	<I-CUE>
+that	IN	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+buried	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+Coemetarium	NNP	_ <O>
+Praetextati	NNP	_ <O>
+'	''	_ <O>
+where	WRB	_ <O>
+a	DT	_ <O>
+tomb	NN	_ <O>
+was	VBD	_ <O>
+inscribed	VBN	_ <O>
+with	IN	_ <O>
+his	PRP$	_ <O>
+name	NN	_ <O>
+.	.	_ <O>
+
+NULL
+De	NNP	_ <O>
+Rossi	NNP	_ <O>
+therefore	RB	_ <O>
+concluded	VBD	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+Urban	NNP	_ <O>
+buried	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Coemetarium	NNP	_ <O>
+Praetextati	NNP	_ <O>
+was	VBD	_ <O>
+another	DT	_ <O>
+bishop	NN	_ <O>
+and	CC	_ <O>
+Pope	NNP	_ <O>
+Urban	NNP	_ <O>
+was	VBD	_ <O>
+located	VBN	_ <O>
+in	IN	_ <O>
+St.	NNP	_ <O>
+Callistus	NNP	_ <O>
+'	POS	_ <O>
+Catacomb	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+While	IN	_ <O>
+many	JJ	<B-CUE>
+historians	NNS	<I-CUE>
+accept	VB	_ <O>
+this	DT	_ <O>
+belief	NN	_ <O>
+doubt	NN	<B-CUE>
+remains	VBZ	_ <O>
+.	.	_ <O>
+
+NULL
+Therefore	RB	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+possible	JJ	<B-CUE>
+that	IN	_ <O>
+Pope	NNP	_ <O>
+Urban	NNP	_ <O>
+is	VBZ	_ <O>
+indeed	RB	_ <O>
+buried	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Coemetarium	NNP	_ <O>
+Praetextati	NNP	_ <O>
+.	.	_ <O>
+
+NULL

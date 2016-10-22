@@ -1,0 +1,99 @@
+NULL
+Phosphoproteomic	JJ	_ <O>
+analyses	NNS	_ <O>
+are	VBP	_ <O>
+ideal	JJ	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+study	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+dynamics	NNS	_ <O>
+of	IN	_ <O>
+signalling	VBG	_ <O>
+networks	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+cells	NNS	_ <O>
+are	VBP	_ <O>
+collected	VBN	_ <O>
+at	IN	_ <O>
+various	JJ	_ <O>
+timepoints	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+lysates	NNS	_ <O>
+are	VBP	_ <O>
+combined	VBN	_ <O>
+for	IN	_ <O>
+analysis	NN	_ <O>
+by	IN	_ <O>
+tandem	NN	_ <O>
+MS.	NNP	_ <O>
+
+NULL
+This	DT	_ <O>
+allows	VBZ	_ <O>
+experimenters	NNS	_ <O>
+to	TO	_ <O>
+track	VB	_ <O>
+the	DT	_ <O>
+phosphorylation	NN	_ <O>
+state	NN	_ <O>
+of	IN	_ <O>
+many	JJ	_ <O>
+phosphoproteins	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+cell	NN	_ <O>
+over	IN	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+ability	NN	_ <O>
+to	TO	_ <O>
+measure	VB	_ <O>
+the	DT	_ <O>
+global	JJ	_ <O>
+phosphorylation	NN	_ <O>
+state	NN	_ <O>
+of	IN	_ <O>
+many	JJ	_ <O>
+proteins	NNS	_ <O>
+at	IN	_ <O>
+various	JJ	_ <O>
+time	NN	_ <O>
+points	NNS	_ <O>
+makes	VBZ	_ <O>
+this	DT	_ <O>
+approach	NN	_ <O>
+much	RB	_ <O>
+more	RBR	_ <O>
+powerful	JJ	_ <O>
+than	IN	_ <O>
+traditional	JJ	_ <O>
+biochemical	JJ	_ <O>
+methods	NNS	_ <O>
+for	IN	_ <O>
+analyzing	VBG	_ <O>
+signalling	VBG	_ <O>
+network	NN	_ <O>
+behavior	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Phosphoproteomics	NNS	_ <O>
+:	:	_ <O>
+new	JJ	_ <O>
+insights	NNS	_ <O>
+into	IN	_ <O>
+cellular	JJ	_ <O>
+signalling	NN	_ <O>
+.	.	_ <O>
+
+NULL

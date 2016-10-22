@@ -1,0 +1,259 @@
+NULL
+Megalithic	JJ	_ <O>
+monuments	NNS	_ <O>
+are	VBP	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Neolithic	NNP	_ <O>
+from	IN	_ <O>
+Malta	NNP	_ <O>
+to	IN	_ <O>
+Portugal	NNP	_ <O>
+,	,	_ <O>
+through	IN	_ <O>
+France	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+across	IN	_ <O>
+southern	JJ	_ <O>
+England	NNP	_ <O>
+to	IN	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+Wales	NNP	_ <O>
+and	CC	_ <O>
+Ireland	NNP	_ <O>
+They	PRP	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+northern	JJ	_ <O>
+Germany	NNP	_ <O>
+and	CC	_ <O>
+Poland	NNP	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+in	IN	_ <O>
+Egypt	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Sahara	NNP	_ <O>
+desert	NN	_ <O>
+(	-LRB-	_ <O>
+at	IN	_ <O>
+Nabata	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+sites	NNS	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+best	JJS	_ <O>
+preserved	VBN	_ <O>
+of	IN	_ <O>
+all	DT	_ <O>
+temples	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+oldest	JJS	_ <O>
+free	JJ	_ <O>
+standing	VBG	_ <O>
+structures	NNS	_ <O>
+on	IN	_ <O>
+Earth	NNP	_ <O>
+are	VBP	_ <O>
+the	DT	_ <O>
+Megalithic	NNP	_ <O>
+Temples	NNP	_ <O>
+of	IN	_ <O>
+Malta	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+start	VBP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+5th	JJ	_ <O>
+millennium	NN	_ <O>
+BC	NNP	_ <O>
+,	,	_ <O>
+though	IN	_ <O>
+some	DT	<B-CUE>
+authors	NNS	<I-CUE>
+speculate	VB	<B-CUE>
+on	IN	_ <O>
+Mesolithic	NNP	_ <O>
+roots	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	_ <O>
+sites	NNS	_ <O>
+for	IN	_ <O>
+rock	NN	_ <O>
+and	CC	_ <O>
+cave	NN	_ <O>
+art	NN	_ <O>
+of	IN	_ <O>
+engraved	JJ	_ <O>
+animal	NN	_ <O>
+and	CC	_ <O>
+human	JJ	_ <O>
+scenes	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Saharan	NNP	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+
+NULL
+While	IN	_ <O>
+the	DT	<B-CUE>
+best	RBS	<I-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+of	IN	_ <O>
+these	DT	_ <O>
+is	VBZ	_ <O>
+Stonehenge	NNP	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+the	DT	_ <O>
+main	JJ	_ <O>
+structures	NNS	_ <O>
+date	VBP	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+Bronze	NNP	_ <O>
+Age	NNP	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+monuments	NNS	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+found	VBN	_ <O>
+throughout	IN	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+Western	JJ	_ <O>
+and	CC	_ <O>
+Northern	NNP	_ <O>
+Europe	NNP	_ <O>
+,	,	_ <O>
+notably	RB	_ <O>
+at	IN	_ <O>
+Carnac	NNP	_ <O>
+,	,	_ <O>
+France	NNP	_ <O>
+,	,	_ <O>
+at	IN	_ <O>
+Skara	NNP	_ <O>
+Brae	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Orkney	NNP	_ <O>
+Islands	NNPS	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+Portugal	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+in	IN	_ <O>
+Wiltshire	NNP	_ <O>
+,	,	_ <O>
+England	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+of	IN	_ <O>
+Stonehenge	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Avebury	NNP	_ <O>
+circle	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+tombs	NNS	_ <O>
+at	IN	_ <O>
+West	NNP	_ <O>
+Kennet	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Woodhenge	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+tomb	NN	_ <O>
+of	IN	_ <O>
+Knowth	NNP	_ <O>
+has	VBZ	_ <O>
+rock	NN	_ <O>
+-	HYPH	_ <O>
+cut	VBN	_ <O>
+ornaments	NNS	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+;	:	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+them	PRP	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+the	DT	<B-CUE>
+oldest	JJS	<I-CUE>
+known	VBN	<I-CUE>
+image	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Moon	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+monuments	NNS	<I-CUE>
+were	VBD	_ <O>
+megalithic	JJ	_ <O>
+tombs	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+archaeologists	NNS	<B-CUE>
+speculate	VB	<B-CUE>
+that	IN	_ <O>
+most	JJS	<B-CUE>
+have	VBP	_ <O>
+religious	JJ	_ <O>
+significance	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Knowth	NNP	_ <O>
+is	VBZ	_ <O>
+reputed	VBN	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+approximately	RB	_ <O>
+one	CD	_ <O>
+third	NN	_ <O>
+of	IN	_ <O>
+all	DT	_ <O>
+megalithic	JJ	_ <O>
+art	NN	_ <O>
+in	IN	_ <O>
+Western	NNP	_ <O>
+Europe	NNP	_ <O>
+.	.	_ <O>
+
+NULL

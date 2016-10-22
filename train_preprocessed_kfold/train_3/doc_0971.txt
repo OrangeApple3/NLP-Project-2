@@ -1,0 +1,88 @@
+NULL
+The	DT	_ <O>
+term	NN	_ <O>
+'	``	_ <O>
+pre	RB	_ <O>
+-	HYPH	_ <O>
+sectarian	JJ	_ <O>
+Buddhism	NNP	_ <O>
+'	POS	_ <O>
+is	VBZ	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+some	DT	<B-CUE>
+scholars	NNS	<I-CUE>
+for	IN	_ <O>
+example	NN	_ <O>
+:	:	_ <O>
+'	''	_ <O>
+...	:	_ <O>
+stressed	VBD	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+written	VBN	_ <O>
+canon	NN	_ <O>
+in	IN	_ <O>
+Buddhism	NNP	_ <O>
+is	VBZ	_ <O>
+sectarian	JJ	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+outset	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+that	IN	_ <O>
+presectarian	JJ	_ <O>
+Buddhism	NNP	_ <O>
+must	MD	_ <O>
+be	VB	_ <O>
+deduced	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+writings	NNS	_ <O>
+as	IN	_ <O>
+they	PRP	_ <O>
+now	RB	_ <O>
+exist	VBP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL
+This	DT	_ <O>
+kernel	NN	_ <O>
+of	IN	_ <O>
+doctrine	NN	_ <O>
+is	VBZ	_ <O>
+presumably	RB	<B-CUE>
+common	JJ	_ <O>
+Buddhism	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+period	NN	_ <O>
+"	``	_ <O>
+before	IN	_ <O>
+the	DT	_ <O>
+schisms	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+fourth	JJ	_ <O>
+and	CC	_ <O>
+third	JJ	_ <O>
+centuries	NNS	_ <O>
+BC.	XX	_ <O>
+
+NULL
+It	PRP	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+substantially	RB	_ <O>
+the	DT	_ <O>
+Buddhism	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Buddha	NNP	_ <O>
+himself	PRP	_ <O>
+.	.	_ <O>
+
+NULL

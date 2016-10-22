@@ -1,0 +1,105 @@
+NULL
+The	DT	_ <O>
+Gendarmerie	NNP	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+direct	JJ	_ <O>
+descendant	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Marshalcy	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+ancien	JJ	_ <O>
+regime	NN	_ <O>
+,	,	_ <O>
+more	RBR	<B-CUE>
+commonly	RB	<I-CUE>
+known	VBN	_ <O>
+by	IN	_ <O>
+its	PRP$	_ <O>
+French	JJ	_ <O>
+title	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Maréchaussée	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+military	JJ	_ <O>
+policing	NN	_ <O>
+responsibilities	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Marshal	NNP	_ <O>
+of	IN	_ <O>
+France	NNP	_ <O>
+were	VBD	_ <O>
+delegated	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Marshal	NNP	_ <O>
+'s	POS	_ <O>
+provost	NN	_ <O>
+,	,	_ <O>
+whose	WP$	_ <O>
+force	NN	_ <O>
+was	VBD	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+Marshalcy	NNP	_ <O>
+because	IN	_ <O>
+its	PRP$	_ <O>
+authority	NN	_ <O>
+ultimately	RB	_ <O>
+derived	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+Marshal	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+marshalcy	NN	_ <O>
+dates	VBZ	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Hundred	NNP	_ <O>
+Years	NNP	_ <O>
+War	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+historians	NNS	<I-CUE>
+trace	VB	_ <O>
+it	PRP	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+twelfth	JJ	_ <O>
+century	NN	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+the	DT	_ <O>
+revolutionary	JJ	_ <O>
+period	NN	_ <O>
+,	,	_ <O>
+marshalcy	NN	_ <O>
+commanders	NNS	_ <O>
+generally	RB	<B-CUE>
+placed	VBD	_ <O>
+themselves	PRP	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+local	JJ	_ <O>
+constitutional	JJ	_ <O>
+authorities	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,92 @@
+NULL
+The	DT	_ <O>
+population	NN	_ <O>
+reached	VBD	_ <O>
+approximately	RB	_ <O>
+250	CD	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+mid-1890s	NNS	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+small	JJ	_ <O>
+downtown	NN	_ <O>
+developed	VBD	_ <O>
+even	RB	_ <O>
+though	IN	_ <O>
+most	JJS	_ <O>
+residents	NNS	_ <O>
+did	VBD	_ <O>
+their	PRP$	_ <O>
+branching	NN	_ <O>
+and	CC	_ <O>
+shipping	NN	_ <O>
+in	IN	_ <O>
+Round	NNP	_ <O>
+Rock	NNP	_ <O>
+,	,	_ <O>
+eight	CD	_ <O>
+miles	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+northwest	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Wooden	JJ	_ <O>
+buildings	NNS	_ <O>
+were	VBD	_ <O>
+erected	VBN	_ <O>
+on	IN	_ <O>
+Main	NNP	_ <O>
+Street	NNP	_ <O>
+and	CC	_ <O>
+Pecan	NNP	_ <O>
+Street	NNP	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+by	IN	_ <O>
+Conrad	NNP	_ <O>
+Pfluger	NNP	_ <O>
+–	.	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+Henry	NNP	_ <O>
+Pfluger	NNP	_ <O>
+,	,	_ <O>
+Sr	NNP	_ <O>
+.	.	_ <O>
+'s	VBZ	_ <O>
+eight	CD	_ <O>
+sons	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+that	DT	_ <O>
+period	NN	_ <O>
+,	,	_ <O>
+several	JJ	<B-CUE>
+area	NN	<I-CUE>
+school	NN	<I-CUE>
+districts	NNS	<I-CUE>
+consolidated	VBN	_ <O>
+with	IN	_ <O>
+Pflugerville	NNP	_ <O>
+High	NNP	_ <O>
+School	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Around	IN	_ <O>
+580	CD	_ <O>
+people	NNS	_ <O>
+lived	VBD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+community	NN	_ <O>
+in	IN	_ <O>
+1930	CD	_ <O>
+.	.	_ <O>
+
+NULL

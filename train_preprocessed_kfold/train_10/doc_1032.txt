@@ -1,0 +1,37 @@
+NULL
+On	IN	_ <O>
+the	DT	_ <O>
+via	FW	_ <O>
+Salaria	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Catacombs	NNP	_ <O>
+of	IN	_ <O>
+via	IN	_ <O>
+Anapo	NNP	_ <O>
+are	VBP	_ <O>
+datable	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+end	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+3rd	NN	_ <O>
+or	CC	_ <O>
+the	DT	_ <O>
+beginning	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+4th	JJ	_ <O>
+century	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+contain	VB	_ <O>
+diverse	JJ	_ <O>
+frescoes	NNS	_ <O>
+of	IN	_ <O>
+biblical	JJ	_ <O>
+subjects	NNS	_ <O>
+.	.	_ <O>
+
+NULL

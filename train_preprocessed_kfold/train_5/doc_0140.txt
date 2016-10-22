@@ -1,0 +1,53 @@
+NULL
+In	IN	_ <O>
+Turkey	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+award	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Nobel	NNP	_ <O>
+Prize	NNP	_ <O>
+has	VBZ	_ <O>
+given	VBN	_ <O>
+a	DT	_ <O>
+new	JJ	_ <O>
+slant	NN	_ <O>
+to	IN	_ <O>
+discussion	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+allegedly	RB	_ <O>
+"	``	_ <O>
+anti	JJ	_ <O>
+-	``	_ <O>
+Turkish	JJ	_ <O>
+"	''	_ <O>
+comments	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+people	NNS	<I-CUE>
+in	IN	_ <O>
+Turkey	NNP	_ <O>
+believe	VBP	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+given	VBN	_ <O>
+the	DT	_ <O>
+Nobel	NNP	_ <O>
+Prize	NNP	_ <O>
+for	IN	_ <O>
+being	VBG	_ <O>
+anti	JJ	_ <O>
+-	``	_ <O>
+Turkish	JJ	_ <O>
+and	CC	_ <O>
+not	RB	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+writing	NN	_ <O>
+.	.	_ <O>
+
+NULL

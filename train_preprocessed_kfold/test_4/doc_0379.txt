@@ -1,0 +1,28 @@
+NULL
+The	DT	_ <O>
+movie	NN	_ <O>
+was	VBD	_ <O>
+adapted	VBN	_ <O>
+by	IN	_ <O>
+Robert	NNP	_ <O>
+Gittler	NNP	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+biography	NN	_ <O>
+of	IN	_ <O>
+Holly	NNP	_ <O>
+by	IN	_ <O>
+John	NNP	_ <O>
+Goldrosen	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+directed	VBN	_ <O>
+by	IN	_ <O>
+Steve	NNP	_ <O>
+Rash	NNP	_ <O>
+.	.	_ <O>
+
+NULL

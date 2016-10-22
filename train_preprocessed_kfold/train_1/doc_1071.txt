@@ -1,0 +1,67 @@
+NULL
+The	DT	_ <O>
+tarsier	NN	_ <O>
+mainly	RB	_ <O>
+dines	VBZ	_ <O>
+on	IN	_ <O>
+insects	NNS	_ <O>
+,	,	_ <O>
+usually	RB	_ <O>
+crickets	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+frogs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Its	PRP$	_ <O>
+chief	JJ	_ <O>
+predator	NN	_ <O>
+,	,	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+hand	NN	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+common	JJ	_ <O>
+house	NN	_ <O>
+cat	NN	_ <O>
+.	.	_ <O>
+
+NULL
+But	CC	_ <O>
+they	PRP	_ <O>
+almost	RB	_ <O>
+always	RB	_ <O>
+return	VBP	_ <O>
+before	IN	_ <O>
+daybreak	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Thus	RB	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+and	CC	_ <O>
+two	CD	_ <O>
+other	JJ	_ <O>
+staff	NN	_ <O>
+members	NNS	_ <O>
+have	VBP	_ <O>
+made	VBN	_ <O>
+it	PRP	_ <O>
+their	PRP$	_ <O>
+daily	JJ	_ <O>
+morning	NN	_ <O>
+routine	NN	_ <O>
+to	TO	_ <O>
+inspect	VB	_ <O>
+the	DT	_ <O>
+net	NN	_ <O>
+for	IN	_ <O>
+breaches	NNS	_ <O>
+.	.	_ <O>
+
+NULL

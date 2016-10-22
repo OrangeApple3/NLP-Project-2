@@ -1,0 +1,116 @@
+NULL
+According	VBG	_ <O>
+to	IN	_ <O>
+2006	CD	_ <O>
+Census	NNP	_ <O>
+Data	NNP	_ <O>
+,	,	_ <O>
+13,558	CD	_ <O>
+people	NNS	_ <O>
+currently	RB	_ <O>
+reside	VBP	_ <O>
+in	IN	_ <O>
+Pascoe	NNP	_ <O>
+Vale	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+slightly	RB	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+recorded	VBN	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+residents	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+2001	CD	_ <O>
+Census	NNP	_ <O>
+Data	NNP	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+13,210	CD	_ <O>
+people	NNS	_ <O>
+were	VBD	_ <O>
+recorded	VBN	_ <O>
+as	IN	_ <O>
+living	VBG	_ <O>
+in	IN	_ <O>
+Pascoe	NNP	_ <O>
+Vale	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+suburb	NN	_ <O>
+has	VBZ	_ <O>
+historically	RB	_ <O>
+been	VBN	_ <O>
+less	RBR	_ <O>
+culturally	RB	_ <O>
+diverse	JJ	_ <O>
+compared	VBN	_ <O>
+to	IN	_ <O>
+other	JJ	_ <O>
+suburbs	NNS	_ <O>
+in	IN	_ <O>
+Moreland	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+lower	JJR	_ <O>
+proportion	NN	_ <O>
+of	IN	_ <O>
+Pascoe	NNP	_ <O>
+Vale	NNP	_ <O>
+people	NNS	_ <O>
+were	VBD	_ <O>
+born	VBN	_ <O>
+overseas	RB	_ <O>
+and	CC	_ <O>
+Pascoe	NNP	_ <O>
+Vale	NNP	_ <O>
+has	VBZ	_ <O>
+the	DT	_ <O>
+highest	JJS	_ <O>
+proportion	NN	_ <O>
+of	IN	_ <O>
+Australian	NNP	_ <O>
+born	VBN	_ <O>
+citizens	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+61	CD	_ <O>
+%	NN	_ <O>
+of	IN	_ <O>
+people	NNS	_ <O>
+living	VBG	_ <O>
+in	IN	_ <O>
+Pascoe	NNP	_ <O>
+Vale	NNP	_ <O>
+speak	VBP	_ <O>
+English	NNP	_ <O>
+at	IN	_ <O>
+home	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+lower	JJR	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+metropolitan	JJ	_ <O>
+average	NN	_ <O>
+but	CC	_ <O>
+higher	JJR	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+average	NN	_ <O>
+in	IN	_ <O>
+Moreland	NNP	_ <O>
+.	.	_ <O>
+
+NULL

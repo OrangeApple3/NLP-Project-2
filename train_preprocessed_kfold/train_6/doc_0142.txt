@@ -1,0 +1,138 @@
+NULL
+Market	NN	_ <O>
+reform	NN	_ <O>
+has	VBZ	_ <O>
+dramatically	RB	_ <O>
+increased	VBN	_ <O>
+the	DT	_ <O>
+return	NN	_ <O>
+to	IN	_ <O>
+education	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+indicates	VBZ	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+good	JJ	_ <O>
+opportunities	NNS	_ <O>
+for	IN	_ <O>
+skilled	JJ	_ <O>
+people	NNS	_ <O>
+and	CC	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+creates	VBZ	_ <O>
+a	DT	_ <O>
+powerful	JJ	_ <O>
+incentive	NN	_ <O>
+for	IN	_ <O>
+families	NNS	_ <O>
+to	TO	_ <O>
+increase	VB	_ <O>
+the	DT	_ <O>
+education	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+children	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Otherwise	RB	_ <O>
+,	,	_ <O>
+inequality	NN	_ <O>
+can	MD	_ <O>
+become	VB	_ <O>
+self	NN	_ <O>
+-	HYPH	_ <O>
+perpetuating	VBG	_ <O>
+:	:	_ <O>
+if	IN	_ <O>
+only	RB	_ <O>
+high	JJ	_ <O>
+-	HYPH	_ <O>
+income	NN	_ <O>
+people	NNS	_ <O>
+can	MD	_ <O>
+educate	VB	_ <O>
+their	PRP$	_ <O>
+children	NNS	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+that	DT	_ <O>
+group	NN	_ <O>
+remains	VBZ	_ <O>
+a	DT	_ <O>
+privileged	JJ	_ <O>
+,	,	_ <O>
+high	JJ	_ <O>
+-	HYPH	_ <O>
+income	NN	_ <O>
+group	NN	_ <O>
+permanently	RB	_ <O>
+.	.	_ <O>
+
+NULL
+China	NNP	_ <O>
+is	VBZ	_ <O>
+at	IN	_ <O>
+some	DT	<B-CUE>
+risk	NN	<I-CUE>
+of	IN	_ <O>
+falling	VBG	_ <O>
+into	IN	_ <O>
+this	DT	_ <O>
+trap	NN	_ <O>
+,	,	_ <O>
+because	IN	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+developed	VBN	_ <O>
+a	DT	_ <O>
+highly	RB	<B-CUE>
+decentralized	JJ	_ <O>
+fiscal	JJ	_ <O>
+system	NN	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+local	JJ	_ <O>
+governments	NNS	_ <O>
+rely	VBP	_ <O>
+primarily	RB	_ <O>
+on	IN	_ <O>
+local	JJ	_ <O>
+tax	NN	_ <O>
+collection	NN	_ <O>
+to	TO	_ <O>
+provide	VB	_ <O>
+basic	JJ	_ <O>
+services	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+primary	JJ	_ <O>
+education	NN	_ <O>
+and	CC	_ <O>
+primary	JJ	_ <O>
+health	NN	_ <O>
+care	NN	_ <O>
+.	.	_ <O>
+
+NULL
+China	NNP	_ <O>
+in	IN	_ <O>
+fact	NN	_ <O>
+has	VBZ	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+decentralized	JJ	<I-CUE>
+fiscal	JJ	_ <O>
+systems	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+.	.	_ <O>
+
+NULL

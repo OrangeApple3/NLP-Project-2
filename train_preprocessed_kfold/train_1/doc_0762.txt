@@ -1,0 +1,119 @@
+NULL
+As	IN	_ <O>
+the	DT	_ <O>
+third	JJ	_ <O>
+child	NN	_ <O>
+of	IN	_ <O>
+eight	CD	_ <O>
+,	,	_ <O>
+Philip	NNP	_ <O>
+Verheyen	NNP	_ <O>
+was	VBD	_ <O>
+born	VBN	_ <O>
+in	IN	_ <O>
+Verrebroek	NNP	_ <O>
+(	-LRB-	_ <O>
+most	RBS	_ <O>
+likely	RB	_ <O>
+in	IN	_ <O>
+his	PRP$	_ <O>
+parents	NNS	_ <O>
+'	POS	_ <O>
+house	NN	_ <O>
+,	,	_ <O>
+standing	VBG	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+small	JJ	_ <O>
+plot	NN	_ <O>
+of	IN	_ <O>
+owned	VBN	_ <O>
+land	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+called	VBN	_ <O>
+"	``	_ <O>
+Borring	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+close	RB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+border	NN	_ <O>
+with	IN	_ <O>
+Meerdonk	NNP	_ <O>
+)	-RRB-	_ <O>
+to	IN	_ <O>
+Thomas	NNP	_ <O>
+Verheyen	NNP	_ <O>
+and	CC	_ <O>
+Joanna	NNP	_ <O>
+Goeman	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Little	RB	_ <O>
+is	VBZ	_ <O>
+known	VBN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+childhood	NN	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+a	DT	_ <O>
+young	JJ	_ <O>
+boy	NN	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+probably	RB	<B-CUE>
+a	DT	_ <O>
+cowherd	NN	_ <O>
+and	CC	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+assumed	VBN	<I-CUE>
+that	IN	_ <O>
+he	PRP	_ <O>
+learned	VBD	_ <O>
+to	TO	_ <O>
+read	VB	_ <O>
+and	CC	_ <O>
+write	VB	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+local	JJ	_ <O>
+parish	NN	_ <O>
+school	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Local	JJ	<B-CUE>
+folk	NN	<I-CUE>
+tales	NNS	<I-CUE>
+claim	NN	<B-CUE>
+that	IN	_ <O>
+he	PRP	_ <O>
+had	VBD	_ <O>
+such	PDT	_ <O>
+a	DT	_ <O>
+brilliant	JJ	_ <O>
+memory	NN	_ <O>
+that	WDT	_ <O>
+he	PRP	_ <O>
+could	MD	_ <O>
+recite	VB	_ <O>
+the	DT	_ <O>
+pastor	NN	_ <O>
+'s	POS	_ <O>
+sermon	NN	_ <O>
+after	IN	_ <O>
+attending	VBG	_ <O>
+mass	NN	_ <O>
+on	IN	_ <O>
+Sunday	NNP	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,78 @@
+NULL
+The	DT	_ <O>
+mixed	JJ	_ <O>
+-	HYPH	_ <O>
+capitalization	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+PostgreSQL	NNP	_ <O>
+name	NN	_ <O>
+can	MD	<B-CUE>
+confuse	VB	_ <O>
+some	DT	<B-CUE>
+people	NNS	<I-CUE>
+on	IN	_ <O>
+first	JJ	_ <O>
+viewing	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+several	JJ	<B-CUE>
+pronunciations	NNS	<I-CUE>
+of	IN	_ <O>
+"	``	_ <O>
+SQL	NNP	_ <O>
+"	''	_ <O>
+can	MD	<B-CUE>
+lead	NN	_ <O>
+to	IN	_ <O>
+this	DT	_ <O>
+confusion	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+also	RB	<I-CUE>
+common	JJ	<I-CUE>
+to	TO	_ <O>
+hear	VB	_ <O>
+it	PRP	_ <O>
+abbreviated	JJ	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+Postgres	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+its	PRP$	_ <O>
+original	JJ	_ <O>
+name	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Because	IN	_ <O>
+of	IN	_ <O>
+ubiquitous	JJ	_ <O>
+support	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+SQL	NNP	_ <O>
+Standard	NNP	_ <O>
+amongst	IN	_ <O>
+most	JJS	_ <O>
+relational	JJ	_ <O>
+databases	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+community	NN	_ <O>
+considered	VBN	_ <O>
+changing	VBG	_ <O>
+the	DT	_ <O>
+name	NN	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+Postgres	NNP	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,162 @@
+NULL
+The	DT	_ <O>
+announcement	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+engagement	NN	_ <O>
+in	IN	_ <O>
+1953	CD	_ <O>
+produced	VBD	_ <O>
+a	DT	_ <O>
+firestorm	NN	_ <O>
+of	IN	_ <O>
+comment	NN	_ <O>
+in	IN	_ <O>
+Britain	NNP	_ <O>
+and	CC	_ <O>
+around	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+;	:	_ <O>
+and	CC	_ <O>
+when	WRB	_ <O>
+Peggy	NNP	_ <O>
+Cripps	NNP	_ <O>
+and	CC	_ <O>
+Joe	NNP	_ <O>
+Appiah	NNP	_ <O>
+were	VBD	_ <O>
+married	VBN	_ <O>
+in	IN	_ <O>
+June	NNP	_ <O>
+1953	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+occasion	NN	_ <O>
+was	VBD	_ <O>
+front	JJ	_ <O>
+-	HYPH	_ <O>
+page	NN	_ <O>
+news	NN	_ <O>
+in	IN	_ <O>
+Britain	NNP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+Ghana	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+countries	NNS	<I-CUE>
+and	CC	_ <O>
+the	DT	_ <O>
+event	NN	_ <O>
+was	VBD	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+social	JJ	_ <O>
+events	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+year	NN	_ <O>
+.	.	_ <O>
+
+NULL
+George	NNP	_ <O>
+Padmore	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+West	NNP	_ <O>
+Indian	JJ	_ <O>
+Pan	NNP	_ <O>
+-	HYPH	_ <O>
+Africanist	NNP	_ <O>
+was	VBD	_ <O>
+best	JJS	_ <O>
+man	NN	_ <O>
+,	,	_ <O>
+deputising	VBG	_ <O>
+for	IN	_ <O>
+Kwame	NNP	_ <O>
+Nkrumah	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+was	VBD	_ <O>
+too	RB	_ <O>
+busy	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+new	JJ	_ <O>
+leader	NN	_ <O>
+of	IN	_ <O>
+Government	NNP	_ <O>
+Business	NNP	_ <O>
+to	TO	_ <O>
+attend	VB	_ <O>
+himself	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+Jamaican	JJ	_ <O>
+newspaper	NN	_ <O>
+commented	VBD	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+were	VBD	_ <O>
+"	``	_ <O>
+top	JJ	_ <O>
+-	HYPH	_ <O>
+hatted	JJ	_ <O>
+and	CC	_ <O>
+frock	NN	_ <O>
+-	HYPH	_ <O>
+coated	VBN	_ <O>
+British	JJ	_ <O>
+aristocrats	NNS	_ <O>
+...	NFP	_ <O>
+ex	NN	_ <O>
+-	HYPH	_ <O>
+Cabinet	NNP	_ <O>
+Ministers	NNPS	_ <O>
+...	:	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+several	JJ	<B-CUE>
+Tory	NNP	<I-CUE>
+and	CC	<I-CUE>
+Socialist	JJ	<I-CUE>
+members	NNS	<I-CUE>
+of	IN	_ <O>
+Parliament	NNP	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+The	DT	_ <O>
+real	JJ	_ <O>
+attraction	NN	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+kente	NN	_ <O>
+cloth	NN	_ <O>
+worn	VBN	_ <O>
+not	RB	_ <O>
+only	RB	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+bridegroom	NN	_ <O>
+but	CC	_ <O>
+by	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+friends	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

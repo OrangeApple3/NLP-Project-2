@@ -1,0 +1,28 @@
+NULL
+The	DT	_ <O>
+'	``	_ <O>
+Harbin	NNP	_ <O>
+Y-12	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+high	JJ	_ <O>
+wing	NN	_ <O>
+twin	JJ	_ <O>
+-	HYPH	_ <O>
+engine	NN	_ <O>
+turboprop	NN	_ <O>
+utility	NN	_ <O>
+aircraft	NN	_ <O>
+built	VBN	_ <O>
+by	IN	_ <O>
+Harbin	NNP	_ <O>
+Aircraft	NNP	_ <O>
+Manufacturing	NNP	_ <O>
+Corporation	NNP	_ <O>
+(	-LRB-	_ <O>
+HAMC	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

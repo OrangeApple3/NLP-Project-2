@@ -1,0 +1,123 @@
+NULL
+Magazines	NNS	_ <O>
+are	VBP	_ <O>
+,	,	_ <O>
+along	IN	_ <O>
+with	IN	_ <O>
+videos	NNS	_ <O>
+,	,	_ <O>
+popular	JJ	_ <O>
+media	NNS	_ <O>
+for	IN	_ <O>
+pornographic	JJ	_ <O>
+materials	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+non	AFX	<I-CUE>
+-	HYPH	<I-CUE>
+pornographic	JJ	<I-CUE>
+magazines	NNS	<I-CUE>
+have	VBP	_ <O>
+some	DT	<B-CUE>
+glamour	NN	<I-CUE>
+photography	NN	<I-CUE>
+and	CC	_ <O>
+as	RB	_ <O>
+long	RB	_ <O>
+as	IN	_ <O>
+women	NNS	_ <O>
+are	VBP	_ <O>
+in	IN	_ <O>
+something	NN	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+a	DT	_ <O>
+swimsuit	NN	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+considered	VBN	_ <O>
+a	DT	_ <O>
+non	NN	_ <O>
+-	HYPH	_ <O>
+pornographic	JJ	_ <O>
+photograph	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Several	JJ	<B-CUE>
+non	AFX	<I-CUE>
+-	HYPH	<I-CUE>
+pornographic	JJ	<I-CUE>
+magazines	NNS	<I-CUE>
+have	VBP	_ <O>
+some	DT	<B-CUE>
+nude	JJ	<I-CUE>
+photographs	NNS	<I-CUE>
+of	IN	<I-CUE>
+women	NNS	<I-CUE>
+as	IN	_ <O>
+a	DT	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+articles	NNS	_ <O>
+but	CC	_ <O>
+as	RB	_ <O>
+long	RB	_ <O>
+as	IN	_ <O>
+they	PRP	_ <O>
+have	VBP	_ <O>
+an	DT	_ <O>
+artistic	JJ	_ <O>
+quality	NN	_ <O>
+and	CC	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+show	VB	_ <O>
+men	NNS	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+is	VBZ	<B-CUE>
+not	RB	<I-CUE>
+considered	VBN	<I-CUE>
+pornographic	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+Furthermore	RB	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+female	JJ	_ <O>
+and	CC	_ <O>
+male	JJ	_ <O>
+doll	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+partially	RB	_ <O>
+clothed	VBN	_ <O>
+or	CC	_ <O>
+even	RB	_ <O>
+nude	JJ	_ <O>
+as	RB	_ <O>
+long	RB	_ <O>
+as	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+work	NN	_ <O>
+of	IN	_ <O>
+art	NN	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+in	IN	_ <O>
+an	DT	_ <O>
+act	NN	_ <O>
+of	IN	_ <O>
+sex	NN	_ <O>
+.	.	_ <O>
+
+NULL

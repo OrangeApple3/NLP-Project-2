@@ -1,0 +1,117 @@
+NULL
+The	DT	_ <O>
+ethnographic	JJ	_ <O>
+sample	NN	_ <O>
+is	VBZ	_ <O>
+based	VBN	_ <O>
+almost	RB	_ <O>
+entirely	RB	_ <O>
+on	IN	_ <O>
+case	NN	_ <O>
+studies	NNS	_ <O>
+from	IN	_ <O>
+societies	NNS	_ <O>
+located	VBN	_ <O>
+in	IN	_ <O>
+northern	JJ	_ <O>
+latitudes	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Period	NN	_ <O>
+of	IN	_ <O>
+pit	NN	_ <O>
+structure	NN	_ <O>
+occupation	NN	_ <O>
+is	VBZ	_ <O>
+generally	RB	<B-CUE>
+during	IN	_ <O>
+the	DT	_ <O>
+cold	JJ	_ <O>
+season	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	_ <O>
+probably	RB	<B-CUE>
+due	IN	_ <O>
+to	IN	_ <O>
+their	PRP$	_ <O>
+thermal	JJ	_ <O>
+efficiency	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Since	IN	_ <O>
+less	JJR	_ <O>
+heat	NN	_ <O>
+is	VBZ	_ <O>
+lost	VBN	_ <O>
+by	IN	_ <O>
+transmission	NN	_ <O>
+than	IN	_ <O>
+above	JJ	_ <O>
+ground	NN	_ <O>
+structures	NNS	_ <O>
+,	,	_ <O>
+less	JJR	_ <O>
+energy	NN	_ <O>
+is	VBZ	_ <O>
+required	VBN	_ <O>
+to	TO	_ <O>
+maintain	VB	_ <O>
+stable	JJ	_ <O>
+temperatures	NNS	_ <O>
+inside	IN	_ <O>
+the	DT	_ <O>
+structure	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Out	IN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+82	CD	_ <O>
+ethnographic	JJ	_ <O>
+cases	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Ethnographic	NNP	_ <O>
+Atlas	NNP	_ <O>
+50	CD	_ <O>
+societies	NNS	_ <O>
+had	VBD	_ <O>
+population	NN	_ <O>
+estimates	NNS	_ <O>
+and	CC	_ <O>
+of	IN	_ <O>
+these	DT	_ <O>
+64	CD	_ <O>
+%	NN	_ <O>
+had	VBD	_ <O>
+fewer	JJR	_ <O>
+than	IN	_ <O>
+100	CD	_ <O>
+people	NNS	_ <O>
+per	IN	_ <O>
+settlement	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+only	RB	_ <O>
+6	CD	_ <O>
+%	NN	_ <O>
+cases	NNS	_ <O>
+were	VBD	_ <O>
+there	RB	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+400	CD	_ <O>
+persons	NNS	_ <O>
+per	IN	_ <O>
+settlement	NN	_ <O>
+.	.	_ <O>
+
+NULL

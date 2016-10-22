@@ -1,0 +1,46 @@
+NULL
+Primary	NN	_ <O>
+and	CC	_ <O>
+Intermediate	NNP	_ <O>
+Education	NNP	_ <O>
+
+NULL
+Bulacan	NNP	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+total	NN	_ <O>
+of	IN	_ <O>
+473	CD	_ <O>
+public	JJ	_ <O>
+Elementary	NNP	_ <O>
+schools	NNS	_ <O>
+,	,	_ <O>
+435	CD	_ <O>
+public	JJ	_ <O>
+schools	NNS	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+Department	NNP	_ <O>
+of	IN	_ <O>
+Education	NNP	_ <O>
+(	-LRB-	_ <O>
+DEPED	NNP	_ <O>
+)	-RRB-	_ <O>
+Division	NNP	_ <O>
+of	IN	_ <O>
+Bulacan	NNP	_ <O>
+and	CC	_ <O>
+38	CD	_ <O>
+public	JJ	_ <O>
+schools	NNS	_ <O>
+under	IN	_ <O>
+the	DT	_ <O>
+Division	NNP	_ <O>
+of	IN	_ <O>
+City	NNP	_ <O>
+Schools	NNP	_ <O>
+of	IN	_ <O>
+Malolos	NNP	_ <O>
+.	.	_ <O>
+
+NULL

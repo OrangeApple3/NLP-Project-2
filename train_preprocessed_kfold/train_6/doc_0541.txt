@@ -1,0 +1,199 @@
+NULL
+In	IN	_ <O>
+addition	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+popular	JJ	_ <O>
+Midnight	NNP	_ <O>
+University	NNP	_ <O>
+web	NN	_ <O>
+board	NN	_ <O>
+was	VBD	_ <O>
+shut	VBN	_ <O>
+down	RP	_ <O>
+for	IN	_ <O>
+what	WP	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+claimed	VBD	_ <O>
+were	VBD	_ <O>
+posts	NNS	_ <O>
+offensive	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+monarchy	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+repeal	NN	_ <O>
+of	IN	_ <O>
+junta	NN	_ <O>
+restrictions	NNS	_ <O>
+against	IN	_ <O>
+organizing	VBG	_ <O>
+protests	NNS	_ <O>
+on	IN	_ <O>
+9	CD	_ <O>
+November	NNP	_ <O>
+2006	CD	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+martial	JJ	_ <O>
+law	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+lifted	VBN	_ <O>
+in	IN	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+country	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+approval	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+law	NN	_ <O>
+that	WDT	_ <O>
+would	MD	_ <O>
+imprison	VB	_ <O>
+anyone	NN	_ <O>
+found	VBN	_ <O>
+guilty	JJ	_ <O>
+of	IN	_ <O>
+forwarding	VBG	_ <O>
+a	DT	_ <O>
+pornographic	JJ	_ <O>
+email	NN	_ <O>
+up	RP	_ <O>
+to	IN	_ <O>
+three	CD	_ <O>
+years	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+establishment	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+14,000-strong	CD	_ <O>
+special	JJ	_ <O>
+operations	NNS	_ <O>
+force	NN	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+mandate	NN	_ <O>
+to	TO	_ <O>
+control	VB	_ <O>
+anti	JJ	_ <O>
+-	HYPH	_ <O>
+junta	NN	_ <O>
+protests	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+General	NNP	_ <O>
+Saprang	NNP	_ <O>
+Kallayanamit	NNP	_ <O>
+,	,	_ <O>
+assistant	NN	_ <O>
+Secretary	NNP	_ <O>
+-	HYPH	_ <O>
+General	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+CNS	NNP	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+appointed	VBN	_ <O>
+Commander	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+force	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Arresting	VBG	_ <O>
+26	CD	_ <O>
+Bo	NNP	_ <O>
+Bae	NNP	_ <O>
+Market	NNP	_ <O>
+illegal	JJ	_ <O>
+vendors	NNS	_ <O>
+protesting	VBG	_ <O>
+their	PRP$	_ <O>
+forced	VBN	_ <O>
+relocation	NN	_ <O>
+following	VBG	_ <O>
+a	DT	_ <O>
+major	JJ	_ <O>
+fire	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+protestors	NNS	_ <O>
+were	VBD	_ <O>
+charged	VBN	_ <O>
+with	IN	_ <O>
+participating	VBG	_ <O>
+in	IN	_ <O>
+an	DT	_ <O>
+illegal	JJ	_ <O>
+gathering	NN	_ <O>
+attended	VBN	_ <O>
+by	IN	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+10	CD	_ <O>
+people	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+later	RB	_ <O>
+refused	VBD	_ <O>
+to	TO	_ <O>
+air	VB	_ <O>
+an	DT	_ <O>
+interview	NN	_ <O>
+that	WDT	_ <O>
+Thaksin	NNP	_ <O>
+had	VBD	_ <O>
+earlier	RBR	_ <O>
+made	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Censorship	NN	_ <O>
+of	IN	_ <O>
+all	DT	_ <O>
+mention	NN	_ <O>
+of	IN	_ <O>
+Thaksin	NNP	_ <O>
+Shinawatra	NNP	_ <O>
+from	IN	_ <O>
+television	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+torture	NN	_ <O>
+of	IN	_ <O>
+suspected	VBN	_ <O>
+insurgents	NNS	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+military	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+South	NNP	_ <O>
+.	.	_ <O>
+
+NULL

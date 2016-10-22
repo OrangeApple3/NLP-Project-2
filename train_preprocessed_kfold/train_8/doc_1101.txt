@@ -1,0 +1,19 @@
+NULL
+In	IN	_ <O>
+1791	CD	_ <O>
+,	,	_ <O>
+Herkimer	NNP	_ <O>
+,	,	_ <O>
+Otsego	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Tioga	NNP	_ <O>
+Counties	NNPS	_ <O>
+were	VBD	_ <O>
+split	VBN	_ <O>
+off	RP	_ <O>
+from	IN	_ <O>
+Montgomery	NNP	_ <O>
+.	.	_ <O>
+
+NULL

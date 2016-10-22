@@ -1,0 +1,118 @@
+NULL
+Iceland	NNP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+welfare	NN	_ <O>
+state	NN	_ <O>
+and	CC	_ <O>
+its	PRP$	_ <O>
+population	NN	_ <O>
+enjoys	VBZ	_ <O>
+a	DT	_ <O>
+wide	JJ	_ <O>
+range	NN	_ <O>
+of	IN	_ <O>
+benefits	NNS	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+example	NN	_ <O>
+old	JJ	_ <O>
+-	HYPH	_ <O>
+age	NN	_ <O>
+pensions	NNS	_ <O>
+and	CC	_ <O>
+unemployment	NN	_ <O>
+benefits	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Icelanders	NNS	_ <O>
+also	RB	_ <O>
+have	VBP	_ <O>
+access	NN	_ <O>
+to	IN	_ <O>
+excellent	JJ	<B-CUE>
+healthcare	NN	_ <O>
+and	CC	_ <O>
+education	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+means	VBZ	_ <O>
+that	IN	_ <O>
+Iceland	NNP	_ <O>
+has	VBZ	_ <O>
+very	RB	_ <O>
+high	JJ	_ <O>
+taxation	NN	_ <O>
+,	,	_ <O>
+like	IN	_ <O>
+other	JJ	_ <O>
+Nordic	JJ	_ <O>
+countries	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Ministry	NNP	_ <O>
+of	IN	_ <O>
+Health	NNP	_ <O>
+runs	VBZ	_ <O>
+the	DT	_ <O>
+healthcare	NN	_ <O>
+system	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Ministry	NNP	_ <O>
+of	IN	_ <O>
+Education	NNP	_ <O>
+,	,	_ <O>
+Science	NNP	_ <O>
+and	CC	_ <O>
+Culture	NNP	_ <O>
+is	VBZ	_ <O>
+responsible	JJ	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+policies	NNS	_ <O>
+and	CC	_ <O>
+methods	NNS	_ <O>
+that	WDT	_ <O>
+schools	NNS	_ <O>
+must	MD	_ <O>
+use	VB	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+they	PRP	_ <O>
+issue	VBP	_ <O>
+the	DT	_ <O>
+National	NNP	_ <O>
+Curriculum	NNP	_ <O>
+Guidelines	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+playschools	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+primary	JJ	_ <O>
+and	CC	_ <O>
+lower	JJR	_ <O>
+secondary	JJ	_ <O>
+schools	NNS	_ <O>
+are	VBP	_ <O>
+funded	VBN	_ <O>
+and	CC	_ <O>
+administered	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+municipalities	NNS	_ <O>
+.	.	_ <O>
+
+NULL

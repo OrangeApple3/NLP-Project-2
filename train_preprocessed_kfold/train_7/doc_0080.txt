@@ -1,0 +1,103 @@
+NULL
+Trait	NNP	_ <O>
+models	NNS	_ <O>
+have	VBP	<B-CUE>
+been	VBN	<I-CUE>
+criticized	VBN	<I-CUE>
+as	IN	_ <O>
+being	VBG	_ <O>
+purely	RB	_ <O>
+descriptive	JJ	_ <O>
+and	CC	_ <O>
+offering	VBG	_ <O>
+little	JJ	_ <O>
+explanation	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+underlying	VBG	_ <O>
+causes	NNS	_ <O>
+of	IN	_ <O>
+personality	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Eysenck	NNP	_ <O>
+'s	POS	_ <O>
+theory	NN	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+does	VBZ	_ <O>
+propose	VB	_ <O>
+biological	JJ	_ <O>
+mechanisms	NNS	_ <O>
+as	IN	_ <O>
+driving	VBG	_ <O>
+traits	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+modern	JJ	_ <O>
+behavior	NN	_ <O>
+genetics	NNS	_ <O>
+researchers	NNS	_ <O>
+have	VBP	_ <O>
+shown	VBN	_ <O>
+a	DT	_ <O>
+clear	JJ	_ <O>
+genetic	JJ	_ <O>
+substrate	NN	_ <O>
+to	IN	_ <O>
+them	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+Another	DT	_ <O>
+potential	JJ	_ <O>
+weakness	NN	_ <O>
+of	IN	_ <O>
+trait	NN	_ <O>
+theories	NNS	_ <O>
+is	VBZ	_ <O>
+that	IN	_ <O>
+they	PRP	_ <O>
+lead	VBP	_ <O>
+people	NNS	_ <O>
+to	TO	_ <O>
+accept	VB	_ <O>
+oversimplified	JJ	_ <O>
+classifications	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+worse	JJR	_ <O>
+offer	NN	_ <O>
+advice	NN	_ <O>
+,	,	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+superficial	JJ	_ <O>
+analysis	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+personality	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Finally	RB	_ <O>
+,	,	_ <O>
+trait	NN	_ <O>
+models	NNS	_ <O>
+often	RB	_ <O>
+underestimate	VBP	_ <O>
+the	DT	_ <O>
+effect	NN	_ <O>
+of	IN	_ <O>
+specific	JJ	_ <O>
+situations	NNS	_ <O>
+on	IN	_ <O>
+people	NNS	_ <O>
+'s	POS	_ <O>
+behavior	NN	_ <O>
+.	.	_ <O>
+
+NULL

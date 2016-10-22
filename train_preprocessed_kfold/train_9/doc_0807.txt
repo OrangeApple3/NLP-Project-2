@@ -1,0 +1,89 @@
+NULL
+The	DT	_ <O>
+school	NN	_ <O>
+is	VBZ	_ <O>
+located	VBN	_ <O>
+in	IN	_ <O>
+Harrow	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+Hill	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+London	NNP	_ <O>
+Borough	NNP	_ <O>
+of	IN	_ <O>
+Harrow	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+founded	VBN	_ <O>
+in	IN	_ <O>
+1572	CD	_ <O>
+under	IN	_ <O>
+a	DT	_ <O>
+Royal	NNP	_ <O>
+Charter	NNP	_ <O>
+granted	VBN	_ <O>
+by	IN	_ <O>
+Elizabeth	NNP	_ <O>
+I	NNP	_ <O>
+of	IN	_ <O>
+England	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+charter	NN	_ <O>
+was	VBD	_ <O>
+granted	VBN	_ <O>
+to	IN	_ <O>
+John	NNP	_ <O>
+Lyon	NNP	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+provision	NN	_ <O>
+of	IN	_ <O>
+education	NN	_ <O>
+to	IN	_ <O>
+local	JJ	_ <O>
+boys	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Lyon	NNP	_ <O>
+was	VBD	_ <O>
+particularly	RB	_ <O>
+insistent	JJ	_ <O>
+about	IN	_ <O>
+keeping	VBG	_ <O>
+Harrow	NNP	_ <O>
+single	JJ	_ <O>
+-	HYPH	_ <O>
+sex	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+original	JJ	_ <O>
+nine	CD	_ <O>
+English	JJ	_ <O>
+public	JJ	_ <O>
+schools	NNS	_ <O>
+as	IN	_ <O>
+defined	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Public	NNP	_ <O>
+Schools	NNPS	_ <O>
+Act	NNP	_ <O>
+1868	CD	_ <O>
+.	.	_ <O>
+
+NULL

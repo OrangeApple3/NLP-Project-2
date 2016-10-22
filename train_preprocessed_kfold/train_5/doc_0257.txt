@@ -1,0 +1,197 @@
+NULL
+'	``	_ <O>
+Foundry	JJ	_ <O>
+sand	NN	_ <O>
+testing	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+sand	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+foundry	NN	_ <O>
+industry	NN	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+commonly	RB	<I-CUE>
+less	JJR	_ <O>
+understood	VBD	_ <O>
+substance	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+a	DT	_ <O>
+sand	NN	_ <O>
+casting	VBG	_ <O>
+foundry	NN	_ <O>
+sands	NNS	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+used	VBN	_ <O>
+for	IN	_ <O>
+making	VBG	_ <O>
+moulds	NNS	_ <O>
+or	CC	_ <O>
+cores	NNS	_ <O>
+are	VBP	_ <O>
+mainly	RB	<B-CUE>
+of	IN	_ <O>
+following	VBG	_ <O>
+types.1	ADD	_ <O>
+.	.	_ <O>
+
+NULL
+Green	NNP	_ <O>
+Sand2	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Resin	NNP	_ <O>
+Coated	NNP	_ <O>
+Sand3	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Molasses	NNP	_ <O>
+4	CD	_ <O>
+.	.	_ <O>
+
+NULL
+Cold	NNP	_ <O>
+Box	NNP	_ <O>
+Sand5	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Hot	JJ	_ <O>
+Box	NNP	_ <O>
+Sand6	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+CO2	NNP	_ <O>
+SandSand	NNP	_ <O>
+in	IN	_ <O>
+terms	NNS	_ <O>
+of	IN	_ <O>
+foundry	NN	_ <O>
+is	VBZ	_ <O>
+meant	VBN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+sand	NN	_ <O>
+'	``	_ <O>
+prepared	VBD	_ <O>
+'	''	_ <O>
+for	IN	_ <O>
+making	VBG	_ <O>
+the	DT	_ <O>
+moulds	NNS	_ <O>
+or	CC	_ <O>
+cores	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+preparation	NN	_ <O>
+process	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+sands	NNS	_ <O>
+envolve	NN	_ <O>
+various	JJ	<B-CUE>
+parameters	NNS	<I-CUE>
+in	IN	_ <O>
+accordance	NN	_ <O>
+with	IN	_ <O>
+their	PRP$	_ <O>
+types	NNS	_ <O>
+and	CC	_ <O>
+after	IN	_ <O>
+preparation	NN	_ <O>
+there	EX	_ <O>
+area	NN	_ <O>
+various	JJ	<B-CUE>
+parameters	NNS	<I-CUE>
+of	IN	_ <O>
+the	DT	_ <O>
+sand	NN	_ <O>
+which	WDT	_ <O>
+should	MD	_ <O>
+be	VB	_ <O>
+tested	VBN	_ <O>
+to	TO	_ <O>
+assure	VB	_ <O>
+defect	NN	_ <O>
+free	JJ	_ <O>
+casting	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+a	DT	_ <O>
+Sand	NNP	_ <O>
+casting	VBG	_ <O>
+foundry	NN	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+only	RB	_ <O>
+two	CD	_ <O>
+sources	NNS	_ <O>
+of	IN	_ <O>
+rejection	NN	_ <O>
+i.e.	FW	_ <O>
+Metal	NNP	_ <O>
+&	CC	_ <O>
+Sand	NNP	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+wide	JJ	<B-CUE>
+variety	NN	<I-CUE>
+of	IN	<I-CUE>
+internal	JJ	<I-CUE>
+variables	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+defects	NNS	_ <O>
+arising	VBG	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+sand	NN	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+'	``	_ <O>
+prevented	VBN	_ <O>
+'	''	_ <O>
+by	IN	_ <O>
+using	VBG	_ <O>
+sand	NN	_ <O>
+testing	NN	_ <O>
+equipments	NNS	_ <O>
+by	IN	_ <O>
+monitoring	VBG	_ <O>
+various	JJ	<B-CUE>
+properties	NNS	<I-CUE>
+of	IN	_ <O>
+the	DT	_ <O>
+sand	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Following	VBG	_ <O>
+are	VBP	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+popular	JJ	<I-CUE>
+makes	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+testing	NN	_ <O>
+equipments	NNS	_ <O>
+.	.	_ <O>
+
+NULL

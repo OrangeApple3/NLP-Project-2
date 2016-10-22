@@ -1,0 +1,21 @@
+NULL
+He	PRP	_ <O>
+then	RB	_ <O>
+explained	VBD	_ <O>
+the	DT	_ <O>
+cause	NN	_ <O>
+of	IN	_ <O>
+such	JJ	_ <O>
+differences	NNS	_ <O>
+in	IN	_ <O>
+accordance	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+law	NN	_ <O>
+of	IN	_ <O>
+cause	NN	_ <O>
+and	CC	_ <O>
+effect	NN	_ <O>
+.	.	_ <O>
+
+NULL

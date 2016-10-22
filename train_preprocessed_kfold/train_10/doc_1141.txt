@@ -1,0 +1,67 @@
+NULL
+'	``	_ <O>
+The	DT	_ <O>
+Night	NNP	_ <O>
+the	DT	_ <O>
+Animals	NNP	_ <O>
+Talked	NNP	_ <O>
+'	''	_ <O>
+was	VBD	_ <O>
+produced	VBN	_ <O>
+by	IN	_ <O>
+Gamma	NNP	_ <O>
+Films	NNP	_ <O>
+of	IN	_ <O>
+Italy	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+directed	VBN	_ <O>
+by	IN	_ <O>
+animation	NN	_ <O>
+veteran	NN	_ <O>
+Shamus	NNP	_ <O>
+Culhane	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+story	NN	_ <O>
+evolved	VBD	_ <O>
+from	IN	_ <O>
+an	DT	_ <O>
+MGM	NNP	_ <O>
+Records	NNPS	_ <O>
+children	NNS	_ <O>
+'s	POS	_ <O>
+recording	NN	_ <O>
+written	VBN	_ <O>
+by	IN	_ <O>
+writer	NN	_ <O>
+and	CC	_ <O>
+voiceover	NN	_ <O>
+artist	NN	_ <O>
+Peter	NNP	_ <O>
+Fernandez	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+With	IN	_ <O>
+the	DT	_ <O>
+demise	NN	_ <O>
+of	IN	_ <O>
+Gamma	NNP	_ <O>
+Films	NNPS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+film	NN	_ <O>
+has	VBZ	_ <O>
+likely	JJ	<B-CUE>
+passed	VBD	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+public	JJ	_ <O>
+domain	NN	_ <O>
+.	.	_ <O>
+
+NULL

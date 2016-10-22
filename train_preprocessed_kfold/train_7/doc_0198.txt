@@ -1,0 +1,117 @@
+NULL
+Mixing	VBG	_ <O>
+tobacco	NN	_ <O>
+in	IN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+cannabis	NN	_ <O>
+is	VBZ	_ <O>
+much	RB	_ <O>
+more	RBR	_ <O>
+common	JJ	_ <O>
+in	IN	_ <O>
+some	DT	<B-CUE>
+areas	NNS	<I-CUE>
+partly	RB	_ <O>
+because	IN	_ <O>
+the	DT	_ <O>
+majority	NN	_ <O>
+of	IN	_ <O>
+cannabis	NN	_ <O>
+is	VBZ	_ <O>
+resin	NN	_ <O>
+which	WDT	_ <O>
+can	MD	_ <O>
+not	RB	_ <O>
+be	VB	_ <O>
+smoked	VBN	_ <O>
+on	IN	_ <O>
+its	PRP$	_ <O>
+own	JJ	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+joint	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+People	NNS	_ <O>
+who	WP	_ <O>
+use	VBP	_ <O>
+tobacco	NN	_ <O>
+claim	VBP	_ <O>
+it	PRP	_ <O>
+helps	VBZ	_ <O>
+the	DT	_ <O>
+joint	JJ	_ <O>
+burn	NN	_ <O>
+,	,	_ <O>
+when	WRB	_ <O>
+loose	JJ	_ <O>
+tobacco	NN	_ <O>
+acts	VBZ	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+kindling	VBG	_ <O>
+"	''	_ <O>
+to	TO	_ <O>
+ignite	VB	_ <O>
+the	DT	_ <O>
+moister	NN	_ <O>
+and	CC	_ <O>
+denser	NN	_ <O>
+cannabis	NNS	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+some	DT	<B-CUE>
+non	AFX	<I-CUE>
+-	HYPH	<I-CUE>
+tobacco	NN	<I-CUE>
+smokers	NNS	<I-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+tobacco	NN	_ <O>
+destroys	VBZ	_ <O>
+the	DT	_ <O>
+cannabis	JJ	_ <O>
+high	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+smokers	NNS	<I-CUE>
+also	RB	_ <O>
+avoid	VB	_ <O>
+mixing	VBG	_ <O>
+cannabis	JJ	_ <O>
+with	IN	_ <O>
+tobacco	NN	_ <O>
+for	IN	_ <O>
+fear	NN	_ <O>
+of	IN	_ <O>
+becoming	VBG	_ <O>
+addicted	JJ	_ <O>
+to	IN	_ <O>
+tobacco	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+believe	VB	_ <O>
+that	IN	_ <O>
+heating	VBG	_ <O>
+the	DT	_ <O>
+tobacco	NN	_ <O>
+before	IN	_ <O>
+use	NN	_ <O>
+gets	VBZ	_ <O>
+rid	JJ	_ <O>
+of	IN	_ <O>
+any	DT	_ <O>
+nicotine	NN	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+unhealthy	JJ	_ <O>
+substances	NNS	_ <O>
+.	.	_ <O>
+
+NULL

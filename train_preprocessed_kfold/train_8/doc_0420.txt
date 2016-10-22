@@ -1,0 +1,109 @@
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+believed	VBN	<I-CUE>
+that	IN	_ <O>
+de	IN	_ <O>
+Mas	NNP	_ <O>
+used	VBD	_ <O>
+a	DT	_ <O>
+daguerreotype	NN	_ <O>
+camera	NN	_ <O>
+in	IN	_ <O>
+1841	CD	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+photography	NN	_ <O>
+became	VBD	_ <O>
+more	RBR	_ <O>
+common	JJ	_ <O>
+in	IN	_ <O>
+Manila	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+rest	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Philippines	NNPS	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+year	NN	_ <O>
+1860	CD	_ <O>
+onwards	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Although	IN	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+believed	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+photography	NN	_ <O>
+studios	NNS	_ <O>
+were	VBD	_ <O>
+opened	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Philippines	NNPS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1850s	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+known	VBN	_ <O>
+actively	RB	_ <O>
+operational	JJ	_ <O>
+photo	NN	_ <O>
+studio	NN	_ <O>
+was	VBD	_ <O>
+that	IN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+British	JJ	_ <O>
+photographer	NN	_ <O>
+Albert	NNP	_ <O>
+Honnis	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Recognized	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+resident	NN	_ <O>
+photographer	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Philippines	NNPS	_ <O>
+since	IN	_ <O>
+1865	CD	_ <O>
+through	IN	_ <O>
+the	DT	_ <O>
+1870s	NNS	_ <O>
+,	,	_ <O>
+Honnis	NNP	_ <O>
+was	VBD	_ <O>
+a	DT	_ <O>
+popular	JJ	_ <O>
+producer	NN	_ <O>
+of	IN	_ <O>
+commercial	JJ	_ <O>
+“	.	_ <O>
+visiting	VBG	_ <O>
+cards	NNS	_ <O>
+”	NFP	_ <O>
+and	CC	_ <O>
+“	NFP	_ <O>
+aesthetic	JJ	_ <O>
+”	-RRB-	_ <O>
+picture	NN	_ <O>
+portraits	NNS	_ <O>
+.	.	_ <O>
+
+NULL

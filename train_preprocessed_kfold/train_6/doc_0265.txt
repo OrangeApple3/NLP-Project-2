@@ -1,0 +1,133 @@
+NULL
+Pioneer	NNP	_ <O>
+Elite	NNP	_ <O>
+produces	VBZ	_ <O>
+electronics	NNS	_ <O>
+that	WDT	_ <O>
+are	VBP	_ <O>
+usually	RB	_ <O>
+higher	JJR	_ <O>
+in	IN	_ <O>
+price	NN	_ <O>
+and	CC	_ <O>
+quality	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Pioneer	NNP	_ <O>
+Elite	NNP	_ <O>
+branded	VBD	_ <O>
+electronics	NNS	_ <O>
+usually	RB	<B-CUE>
+have	VBP	_ <O>
+the	DT	_ <O>
+Urishi	NNP	_ <O>
+finish	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+gloss	NN	_ <O>
+black	JJ	_ <O>
+finish	NN	_ <O>
+.	.	_ <O>
+:	:	_ <O>
+
+NULL
+Pioneer	NNP	_ <O>
+Elite	JJ	_ <O>
+products	NNS	_ <O>
+include	VBP	_ <O>
+Laserdisc	NNP	_ <O>
+players	NNS	_ <O>
+,	,	_ <O>
+CD	NN	_ <O>
+players	NNS	_ <O>
+,	,	_ <O>
+DVD	NNP	_ <O>
+players	NNS	_ <O>
+,	,	_ <O>
+plasma	NN	_ <O>
+computer	NN	_ <O>
+monitors	NNS	_ <O>
+and	CC	_ <O>
+televisions	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+rear	JJ	_ <O>
+-	HYPH	_ <O>
+projection	NN	_ <O>
+televisions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Pioneer	NNP	_ <O>
+Elite	NNP	_ <O>
+debuted	VBD	_ <O>
+their	PRP$	_ <O>
+first	JJ	_ <O>
+Blu	NNP	_ <O>
+-	HYPH	_ <O>
+Ray	NNP	_ <O>
+Disc	NN	_ <O>
+player	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+BDP	NNP	_ <O>
+-	HYPH	_ <O>
+HD1	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Pioneer	NNP	_ <O>
+released	VBD	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+1080p	CD	_ <O>
+plasma	NN	_ <O>
+display	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+PRO	NNP	_ <O>
+-	HYPH	_ <O>
+FHD1	NNP	_ <O>
+.	.	_ <O>
+:	:	_ <O>
+
+NULL
+Pioneer	NNP	_ <O>
+has	VBZ	_ <O>
+recently	RB	_ <O>
+released	VBN	_ <O>
+the	DT	_ <O>
+Kuro	NNP	_ <O>
+line	NN	_ <O>
+of	IN	_ <O>
+plasma	NN	_ <O>
+displays	NNS	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+company	NN	_ <O>
+claims	NNS	_ <O>
+have	VBP	_ <O>
+the	DT	_ <O>
+best	JJS	_ <O>
+black	JJ	_ <O>
+levels	NNS	_ <O>
+of	IN	_ <O>
+any	DT	_ <O>
+flat	JJ	_ <O>
+panel	NN	_ <O>
+display	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Kuro	JJ	_ <O>
+means	VBZ	_ <O>
+black	JJ	_ <O>
+in	IN	_ <O>
+Japanese	JJ	_ <O>
+.	.	_ <O>
+
+NULL

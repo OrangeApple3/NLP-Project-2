@@ -1,0 +1,93 @@
+NULL
+The	DT	_ <O>
+other	JJ	_ <O>
+characters	NNS	_ <O>
+think	VBP	_ <O>
+,	,	_ <O>
+correctly	RB	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+Laurey	NNP	_ <O>
+(	-LRB-	_ <O>
+Joan	NNP	_ <O>
+Roberts	NNP	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+Curly	NNP	_ <O>
+(	-LRB-	_ <O>
+Alfred	NNP	_ <O>
+Drake	NNP	_ <O>
+)	-RRB-	_ <O>
+are	VBP	_ <O>
+in	IN	_ <O>
+love	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+this	DT	_ <O>
+song	NN	_ <O>
+they	PRP	_ <O>
+warn	VBP	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+not	RB	_ <O>
+to	TO	_ <O>
+behave	VB	_ <O>
+indiscreetly	RB	_ <O>
+,	,	_ <O>
+lest	JJS	_ <O>
+people	NNS	_ <O>
+misinterpret	VBP	_ <O>
+their	PRP$	_ <O>
+intentions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Neither	DT	_ <O>
+wants	VBZ	_ <O>
+to	TO	_ <O>
+admit	VB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+other	JJ	_ <O>
+-	HYPH	_ <O>
+or	CC	_ <O>
+themselves	PRP	_ <O>
+-	:	_ <O>
+his	PRP$	_ <O>
+or	CC	_ <O>
+her	PRP$	_ <O>
+true	JJ	_ <O>
+feelings	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+At	IN	_ <O>
+the	DT	_ <O>
+end	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+musical	JJ	_ <O>
+the	DT	_ <O>
+characters	NNS	_ <O>
+reprise	VBP	_ <O>
+the	DT	_ <O>
+number	NN	_ <O>
+after	IN	_ <O>
+becoming	VBG	_ <O>
+engaged	VBD	_ <O>
+,	,	_ <O>
+saying	VBG	_ <O>
+"	``	_ <O>
+Let	VB	_ <O>
+people	NNS	_ <O>
+say	VB	_ <O>
+we	PRP	_ <O>
+'re	VBP	_ <O>
+in	IN	_ <O>
+love	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

@@ -1,0 +1,74 @@
+NULL
+Thus	RB	_ <O>
+it	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+often	RB	<I-CUE>
+reported	VBN	<I-CUE>
+in	IN	_ <O>
+European	JJ	_ <O>
+media	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+countries	NNS	_ <O>
+involved	VBN	_ <O>
+in	IN	_ <O>
+operations	NNS	_ <O>
+in	IN	_ <O>
+Iraq	NNP	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+a	DT	_ <O>
+large	JJ	_ <O>
+minority	NN	_ <O>
+of	IN	_ <O>
+American	JJ	_ <O>
+soldiers	NNS	_ <O>
+and	CC	_ <O>
+Marines	NNPS	_ <O>
+in	IN	_ <O>
+Iraq	NNP	_ <O>
+have	VBP	_ <O>
+been	VBN	_ <O>
+able	JJ	_ <O>
+to	TO	_ <O>
+behave	VB	_ <O>
+irresponsibly	RB	_ <O>
+in	IN	_ <O>
+Iraq	NNP	_ <O>
+,	,	_ <O>
+causing	VBG	_ <O>
+unnecessary	JJ	_ <O>
+deaths	NNS	_ <O>
+of	IN	_ <O>
+civilians	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+At	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+time	NN	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+believe	VB	_ <O>
+that	IN	_ <O>
+US	NNP	_ <O>
+forces	NNS	_ <O>
+have	VBP	_ <O>
+come	VBN	_ <O>
+under	IN	_ <O>
+little	JJ	_ <O>
+US	NNP	_ <O>
+media	NNS	_ <O>
+scrutiny	NN	_ <O>
+,	,	_ <O>
+except	IN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+extreme	JJ	_ <O>
+cases	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,108 @@
+NULL
+New	RB	<B-CUE>
+scientific	JJ	<I-CUE>
+tests	NNS	<I-CUE>
+on	IN	_ <O>
+the	DT	_ <O>
+label	NN	_ <O>
+suggest	VBP	<B-CUE>
+that	IN	_ <O>
+it	PRP	_ <O>
+dates	VBZ	_ <O>
+to	IN	_ <O>
+Shakespeare	NNP	_ <O>
+'s	POS	_ <O>
+lifetime	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+,	,	_ <O>
+if	IN	_ <O>
+true	JJ	_ <O>
+,	,	_ <O>
+would	MD	_ <O>
+make	VB	_ <O>
+this	DT	_ <O>
+a	DT	_ <O>
+likely	JJ	_ <O>
+authentic	JJ	_ <O>
+image	NN	_ <O>
+of	IN	_ <O>
+Shakespeare	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+attributed	VBN	_ <O>
+by	IN	_ <O>
+a	DT	_ <O>
+family	NN	_ <O>
+tradition	NN	_ <O>
+to	IN	_ <O>
+one	CD	_ <O>
+John	NNP	_ <O>
+Sanders	NNP	_ <O>
+or	CC	_ <O>
+possibly	RB	<B-CUE>
+his	PRP$	_ <O>
+brother	NN	_ <O>
+Thomas	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+inscription	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+label	NN	_ <O>
+"	``	_ <O>
+This	DT	_ <O>
+likeness	NN	_ <O>
+taken	VBN	_ <O>
+"	``	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+criticised	VBN	_ <O>
+as	IN	_ <O>
+not	RB	_ <O>
+a	DT	_ <O>
+contemporary	JJ	_ <O>
+formulation	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+no	RB	_ <O>
+longer	RB	_ <O>
+attributed	VBN	_ <O>
+to	IN	_ <O>
+him	PRP	_ <O>
+,	,	_ <O>
+nor	CC	_ <O>
+is	VBZ	_ <O>
+there	EX	_ <O>
+any	DT	_ <O>
+evidence	NN	_ <O>
+to	TO	_ <O>
+identify	VB	_ <O>
+it	PRP	_ <O>
+as	IN	_ <O>
+Shakespeare	NNP	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+it	PRP	_ <O>
+was	VBD	_ <O>
+probably	RB	<B-CUE>
+painted	VBN	_ <O>
+during	IN	_ <O>
+his	PRP$	_ <O>
+lifetime	NN	_ <O>
+and	CC	_ <O>
+may	MD	<B-CUE>
+depict	VBP	_ <O>
+a	DT	_ <O>
+poet	NN	_ <O>
+.	.	_ <O>
+
+NULL

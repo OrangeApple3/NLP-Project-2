@@ -1,0 +1,86 @@
+NULL
+Arguably	RB	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+comprehensive	JJ	<I-CUE>
+modern	JJ	_ <O>
+compilation	NN	_ <O>
+of	IN	_ <O>
+information	NN	_ <O>
+on	IN	_ <O>
+this	DT	_ <O>
+subject	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+U.S.	NNP	_ <O>
+Department	NNP	_ <O>
+of	IN	_ <O>
+Energy	NNP	_ <O>
+(	-LRB-	_ <O>
+DOE	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+popular	JJ	_ <O>
+"	``	_ <O>
+Three	CD	_ <O>
+Decades	NNS	_ <O>
+of	IN	_ <O>
+Passive	NNP	_ <O>
+Solar	NNP	_ <O>
+Heating	NNP	_ <O>
+and	CC	_ <O>
+COOLING	NNP	_ <O>
+Lessons	NNPS	_ <O>
+Learned	NNP	_ <O>
+"	''	_ <O>
+DOE/ORNL	NNP	_ <O>
+Workshop	NNP	_ <O>
+materials	NNS	_ <O>
+include	VBP	_ <O>
+an	DT	_ <O>
+800-page	JJ	_ <O>
+eBook	NN	_ <O>
+,	,	_ <O>
+500	CD	_ <O>
+presentation	NN	_ <O>
+slides	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+related	JJ	_ <O>
+support	NN	_ <O>
+materials	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+(	-LRB-	_ <O>
+A	DT	_ <O>
+significant	JJ	_ <O>
+portion	NN	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+Wikipedia	NNP	_ <O>
+article	NN	_ <O>
+is	VBZ	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+uncopyrighted	JJ	_ <O>
+,	,	_ <O>
+public	JJ	_ <O>
+-	HYPH	_ <O>
+domain	NN	_ <O>
+overview	NN	_ <O>
+highlights	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+2007	CD	_ <O>
+DOE/ORNL	NNP	_ <O>
+Passive	NNP	_ <O>
+Solar	NNP	_ <O>
+Workshop	NNP	_ <O>
+.	.	_ <O>
+)	-RRB-	_ <O>
+
+NULL

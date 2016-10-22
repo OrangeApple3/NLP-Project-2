@@ -1,0 +1,157 @@
+NULL
+Precision	NNP	_ <O>
+incorporates	VBZ	_ <O>
+
+NULL
+Precision	NNP	_ <O>
+becomes	VBZ	_ <O>
+the	DT	_ <O>
+majority	NN	_ <O>
+shareholder	NN	_ <O>
+in	IN	_ <O>
+United	NNP	_ <O>
+Diamond	NNP	_ <O>
+Ltd.	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+designs	VBZ	_ <O>
+,	,	_ <O>
+manufactures	VBZ	_ <O>
+,	,	_ <O>
+rents	NNS	_ <O>
+and	CC	_ <O>
+sells	VBZ	_ <O>
+polycrystalline	JJ	_ <O>
+diamond	NN	_ <O>
+compact	NN	_ <O>
+(	-LRB-	_ <O>
+PDC	NNP	_ <O>
+)	-RRB-	_ <O>
+drill	NN	_ <O>
+bits	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Precision	NNP	_ <O>
+also	RB	_ <O>
+receives	VBZ	_ <O>
+an	DT	_ <O>
+exclusive	JJ	_ <O>
+,	,	_ <O>
+worldwide	JJ	_ <O>
+license	NN	_ <O>
+to	IN	_ <O>
+Georservices	NNP	_ <O>
+'	POS	_ <O>
+EM	NNP	_ <O>
+-	HYPH	_ <O>
+MWD	NNP	_ <O>
+technology	NN	_ <O>
+,	,	_ <O>
+using	VBG	_ <O>
+it	PRP	_ <O>
+extensively	RB	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+Computalog	NNP	_ <O>
+subsidiary	NN	_ <O>
+.	.	_ <O>
+
+NULL
+2001	CD	_ <O>
+Computalog	NNP	_ <O>
+U.S.A.	NNP	_ <O>
+,	,	_ <O>
+Inc.	NNP	_ <O>
+acquires	VBZ	_ <O>
+all	DT	_ <O>
+shares	NNS	_ <O>
+of	IN	_ <O>
+Premium	NNP	_ <O>
+Pump	NNP	_ <O>
+Services	NNPS	_ <O>
+Inc.	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+provides	VBZ	_ <O>
+pressure	NN	_ <O>
+-	HYPH	_ <O>
+pumping	VBG	_ <O>
+services	NNS	_ <O>
+like	IN	_ <O>
+cementing	VBG	_ <O>
+,	,	_ <O>
+fracturing	VBG	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+stimulation	NN	_ <O>
+services	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Precision	NNP	_ <O>
+Drilling	NNP	_ <O>
+Corporation	NNP	_ <O>
+announces	VBZ	_ <O>
+it	PRP	_ <O>
+has	VBZ	_ <O>
+successfully	RB	_ <O>
+operated	VBN	_ <O>
+its	PRP$	_ <O>
+HEL	NNP	_ <O>
+MWD	NNP	_ <O>
+and	CC	_ <O>
+PrecisionLWD	NNP	_ <O>
+tools	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+2005	CD	_ <O>
+Precision	NNP	_ <O>
+Drilling	NNP	_ <O>
+Corporation	NNP	_ <O>
+sells	VBZ	_ <O>
+its	PRP$	_ <O>
+Energy	NNP	_ <O>
+Services	NNP	_ <O>
+and	CC	_ <O>
+International	NNP	_ <O>
+Drilling	NNP	_ <O>
+divisions	NNS	_ <O>
+to	IN	_ <O>
+Weatherford	NNP	_ <O>
+International	NNP	_ <O>
+Ltd.	NNP	_ <O>
+for	IN	_ <O>
+26,000,000	CD	_ <O>
+common	JJ	_ <O>
+shares	NNS	_ <O>
+of	IN	_ <O>
+Weatherford	NNP	_ <O>
+and	CC	_ <O>
+$	$	_ <O>
+1	CD	_ <O>
+CAD.	CD	_ <O>
+
+NULL
+Precision	NNP	_ <O>
+Drilling	NNP	_ <O>
+Corporation	NNP	_ <O>
+announces	VBZ	_ <O>
+the	DT	_ <O>
+sale	NN	_ <O>
+of	IN	_ <O>
+CEDA	NNP	_ <O>
+International	NNP	_ <O>
+Corporation	NNP	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+price	NN	_ <O>
+of	IN	_ <O>
+approximately	RB	_ <O>
+$	$	_ <O>
+274	CD	_ <O>
+million	CD	_ <O>
+CAD.	NNP	_ <O>
+
+NULL

@@ -1,0 +1,91 @@
+NULL
+Depending	VBG	_ <O>
+on	IN	_ <O>
+jurisdiction	NN	_ <O>
+and	CC	_ <O>
+university	NN	_ <O>
+,	,	_ <O>
+entry	NN	_ <O>
+may	MD	_ <O>
+follow	VB	_ <O>
+directly	RB	_ <O>
+from	IN	_ <O>
+secondary	JJ	_ <O>
+school	NN	_ <O>
+or	CC	_ <O>
+require	VBP	_ <O>
+pre	JJ	_ <O>
+-	HYPH	_ <O>
+requisite	JJ	_ <O>
+undergraduate	JJ	_ <O>
+education	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+former	JJ	_ <O>
+commonly	RB	_ <O>
+take	VB	_ <O>
+five	CD	_ <O>
+or	CC	_ <O>
+six	CD	_ <O>
+years	NNS	_ <O>
+to	TO	_ <O>
+complete	VB	_ <O>
+.	.	_ <O>
+
+NULL
+Programs	NNS	_ <O>
+that	WDT	_ <O>
+require	VBP	_ <O>
+previous	JJ	_ <O>
+undergraduate	JJ	_ <O>
+education	NN	_ <O>
+(	-LRB-	_ <O>
+typically	RB	_ <O>
+a	DT	_ <O>
+three	CD	_ <O>
+or	CC	_ <O>
+four	CD	_ <O>
+year	NN	_ <O>
+degree	NN	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+in	IN	_ <O>
+Science	NNP	_ <O>
+)	-RRB-	_ <O>
+are	VBP	_ <O>
+usually	RB	_ <O>
+four	CD	_ <O>
+or	CC	_ <O>
+five	CD	_ <O>
+years	NNS	_ <O>
+in	IN	_ <O>
+length	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Hence	RB	_ <O>
+,	,	_ <O>
+gaining	VBG	_ <O>
+a	DT	_ <O>
+basic	JJ	_ <O>
+medical	JJ	_ <O>
+degree	NN	_ <O>
+may	MD	_ <O>
+typically	RB	_ <O>
+take	VB	_ <O>
+from	IN	_ <O>
+five	CD	_ <O>
+to	IN	_ <O>
+eight	CD	_ <O>
+years	NNS	_ <O>
+,	,	_ <O>
+depending	VBG	_ <O>
+on	IN	_ <O>
+jurisdiction	NN	_ <O>
+and	CC	_ <O>
+university	NN	_ <O>
+.	.	_ <O>
+
+NULL

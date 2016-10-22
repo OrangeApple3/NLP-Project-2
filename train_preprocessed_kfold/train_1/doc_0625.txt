@@ -1,0 +1,79 @@
+NULL
+Iceland	NNP	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+typical	JJ	<B-CUE>
+left	JJ	_ <O>
+-	HYPH	_ <O>
+right	JJ	_ <O>
+multi	NN	_ <O>
+-	HYPH	_ <O>
+party	NN	_ <O>
+system	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+biggest	JJS	_ <O>
+party	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+right	JJ	_ <O>
+wing	NN	_ <O>
+Independence	NNP	_ <O>
+Party	NNP	_ <O>
+(	-LRB-	_ <O>
+’’Sjálfstaoisflokkurinn	NNP	_ <O>
+’	-RRB-	_ <O>
+’	LS	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+while	IN	_ <O>
+the	DT	_ <O>
+second	RB	_ <O>
+largest	JJS	_ <O>
+one	CD	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+social	JJ	_ <O>
+democratic	JJ	_ <O>
+Alliance	NNP	_ <O>
+(	-LRB-	_ <O>
+’Samfylkingin	NNP	_ <O>
+’	-RRB-	_ <O>
+’	NFP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Following	VBG	_ <O>
+the	DT	_ <O>
+May	NNP	_ <O>
+2007	CD	_ <O>
+parliamentary	JJ	_ <O>
+elections	NNS	_ <O>
+,	,	_ <O>
+these	DT	_ <O>
+two	CD	_ <O>
+formed	VBD	_ <O>
+a	DT	_ <O>
+coalition	NN	_ <O>
+,	,	_ <O>
+enjoying	VBG	_ <O>
+a	DT	_ <O>
+strong	JJ	_ <O>
+majority	NN	_ <O>
+in	IN	_ <O>
+Althing	NNP	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+43	CD	_ <O>
+out	IN	_ <O>
+of	IN	_ <O>
+63	CD	_ <O>
+members	NNS	_ <O>
+supporting	VBG	_ <O>
+it	PRP	_ <O>
+.	.	_ <O>
+
+NULL

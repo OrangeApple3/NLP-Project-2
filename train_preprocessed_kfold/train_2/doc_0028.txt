@@ -1,0 +1,144 @@
+NULL
+Francisco	NNP	_ <O>
+Sá	NNP	_ <O>
+Carneiro	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+dynamic	JJ	_ <O>
+leader	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+PSD	NNP	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+fierce	JJ	_ <O>
+personal	JJ	_ <O>
+rival	NN	_ <O>
+of	IN	_ <O>
+Soares	NNP	_ <O>
+,	,	_ <O>
+put	VBD	_ <O>
+together	RP	_ <O>
+a	DT	_ <O>
+coalition	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+own	JJ	_ <O>
+PSD	NN	_ <O>
+along	IN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+CDS	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Popular	NNP	_ <O>
+Monarchist	NNP	_ <O>
+Party	NNP	_ <O>
+(	-LRB-	_ <O>
+Partido	NNP	_ <O>
+Popular	NNP	_ <O>
+Monárquico	NNP	_ <O>
+—	:	_ <O>
+PPM	NNP	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+another	DT	_ <O>
+small	JJ	_ <O>
+party	NN	_ <O>
+to	TO	_ <O>
+form	VB	_ <O>
+the	DT	_ <O>
+Democratic	NNP	_ <O>
+Alliance	NNP	_ <O>
+(	-LRB-	_ <O>
+Aliança	NNP	_ <O>
+Democrática	NNP	_ <O>
+—	:	_ <O>
+AD	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+coalition	NN	_ <O>
+won	VBD	_ <O>
+45.2	CD	_ <O>
+%	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+vote	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+elections	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+128	CD	_ <O>
+seats	NNS	_ <O>
+,	,	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+majority	NN	_ <O>
+of	IN	_ <O>
+3	CD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+250-seat	CD	_ <O>
+assembly	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+PS	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+had	VBD	_ <O>
+also	RB	_ <O>
+formed	VBN	_ <O>
+an	DT	_ <O>
+electoral	JJ	_ <O>
+coalition	NN	_ <O>
+with	IN	_ <O>
+several	JJ	<B-CUE>
+small	JJ	<I-CUE>
+left	VBN	<I-CUE>
+-	HYPH	<I-CUE>
+wing	NN	<I-CUE>
+groups	NNS	<I-CUE>
+,	,	_ <O>
+suffered	VBD	_ <O>
+a	DT	_ <O>
+drubbing	NN	_ <O>
+and	CC	_ <O>
+won	VBD	_ <O>
+only	RB	_ <O>
+27.4	CD	_ <O>
+%	NN	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+large	JJ	_ <O>
+drop	NN	_ <O>
+compared	VBN	_ <O>
+with	IN	_ <O>
+1976	CD	_ <O>
+results	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+PCP	NNP	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+coalition	NN	_ <O>
+with	IN	_ <O>
+another	DT	_ <O>
+left	JJ	_ <O>
+-	HYPH	_ <O>
+wing	NN	_ <O>
+party	NN	_ <O>
+,	,	_ <O>
+gained	VBD	_ <O>
+slightly	RB	_ <O>
+.	.	_ <O>
+
+NULL

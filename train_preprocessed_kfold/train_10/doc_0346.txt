@@ -1,0 +1,77 @@
+NULL
+Like	IN	_ <O>
+all	DT	<B-CUE>
+modern	JJ	<I-CUE>
+skyscrapers	NNS	<I-CUE>
+,	,	_ <O>
+WTC	NNP	_ <O>
+towers	NNS	_ <O>
+were	VBD	_ <O>
+designed	VBN	_ <O>
+to	TO	_ <O>
+survive	VB	_ <O>
+major	JJ	_ <O>
+fires	NNS	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+not	RB	_ <O>
+necessarily	RB	_ <O>
+those	DT	_ <O>
+that	WDT	_ <O>
+involved	JJ	_ <O>
+jet	NN	_ <O>
+fuel	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Though	IN	_ <O>
+fireproofing	NN	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+incorporated	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+original	JJ	_ <O>
+construction	NN	_ <O>
+,	,	_ <O>
+more	JJR	_ <O>
+was	VBD	_ <O>
+added	VBN	_ <O>
+after	IN	_ <O>
+a	DT	_ <O>
+fire	NN	_ <O>
+in	IN	_ <O>
+1975	CD	_ <O>
+that	WDT	_ <O>
+spread	VBD	_ <O>
+to	IN	_ <O>
+six	CD	_ <O>
+floors	NNS	_ <O>
+before	IN	_ <O>
+being	VBG	_ <O>
+extinguished	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Early	JJ	_ <O>
+tests	NNS	_ <O>
+conducted	VBN	_ <O>
+on	IN	_ <O>
+steel	NN	_ <O>
+beams	NNS	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+WTC	NNP	_ <O>
+show	VBP	_ <O>
+they	PRP	_ <O>
+generally	RB	_ <O>
+met	VBD	_ <O>
+or	CC	_ <O>
+were	VBD	_ <O>
+stronger	JJR	_ <O>
+than	IN	_ <O>
+design	NN	_ <O>
+requirements	NNS	_ <O>
+.	.	_ <O>
+
+NULL

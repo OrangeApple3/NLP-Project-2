@@ -1,0 +1,127 @@
+NULL
+Following	VBG	_ <O>
+partition	NN	_ <O>
+some	DT	<B-CUE>
+social	JJ	<I-CUE>
+and	CC	<I-CUE>
+sporting	NN	<I-CUE>
+bodies	NNS	<I-CUE>
+divided	VBN	_ <O>
+but	CC	_ <O>
+others	NNS	<B-CUE>
+did	VBD	_ <O>
+not	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Today	NN	_ <O>
+in	IN	_ <O>
+Ireland	NNP	_ <O>
+many	JJ	_ <O>
+sports	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+boxing	NN	_ <O>
+,	,	_ <O>
+rugby	NN	_ <O>
+union	NN	_ <O>
+,	,	_ <O>
+Gaelic	NNP	_ <O>
+football	NN	_ <O>
+,	,	_ <O>
+hurling	VBG	_ <O>
+and	CC	_ <O>
+Rugby	NNP	_ <O>
+union	NN	_ <O>
+,	,	_ <O>
+are	VBP	_ <O>
+organised	VBN	_ <O>
+in	IN	_ <O>
+an	DT	_ <O>
+all	DT	_ <O>
+-	HYPH	_ <O>
+island	NN	_ <O>
+basis	NN	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+single	JJ	_ <O>
+team	NN	_ <O>
+representing	VBG	_ <O>
+Ireland	NNP	_ <O>
+in	IN	_ <O>
+international	JJ	_ <O>
+competitions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Selection	NN	_ <O>
+usually	RB	_ <O>
+depends	VBZ	_ <O>
+on	IN	_ <O>
+whether	IN	_ <O>
+his	PRP$	_ <O>
+or	CC	_ <O>
+her	PRP$	_ <O>
+sport	NN	_ <O>
+is	VBZ	_ <O>
+organised	VBN	_ <O>
+on	IN	_ <O>
+an	DT	_ <O>
+all	DT	_ <O>
+-	HYPH	_ <O>
+Ireland	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+Northern	NNP	_ <O>
+Ireland	NNP	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+a	DT	_ <O>
+UK	NNP	_ <O>
+basis	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Sports	NNS	_ <O>
+organised	VBD	_ <O>
+on	IN	_ <O>
+an	DT	_ <O>
+all	DT	_ <O>
+-	HYPH	_ <O>
+Ireland	NNP	_ <O>
+basis	NN	_ <O>
+are	VBP	_ <O>
+affiliated	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Republic	NNP	_ <O>
+of	IN	_ <O>
+Ireland	NNP	_ <O>
+’s	NNP	_ <O>
+Olympic	NNP	_ <O>
+association	NN	_ <O>
+,	,	_ <O>
+whereas	IN	_ <O>
+those	DT	_ <O>
+organised	VBN	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+Northern	NNP	_ <O>
+Ireland	NNP	_ <O>
+or	CC	_ <O>
+UK	NNP	_ <O>
+basis	NN	_ <O>
+are	VBP	_ <O>
+generally	RB	<B-CUE>
+affiliated	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+UK	NNP	_ <O>
+’s	NNP	_ <O>
+Olympic	NNP	_ <O>
+association	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,103 @@
+NULL
+The	DT	_ <O>
+'	``	_ <O>
+Australian	JJ	_ <O>
+Swamp	NNP	_ <O>
+Rat	NNP	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+'	''	_ <O>
+Rattus	NNP	_ <O>
+lutreolus	NN	_ <O>
+'	''	_ <O>
+)	-RRB-	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+species	NN	_ <O>
+of	IN	_ <O>
+rat	NN	_ <O>
+native	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+around	IN	_ <O>
+Melbourne	NNP	_ <O>
+.	.	_ <O>
+they	PRP	_ <O>
+currently	RB	_ <O>
+live	VBP	_ <O>
+primarily	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+outer	JJ	_ <O>
+urban	JJ	_ <O>
+areas	NNS	_ <O>
+East	NNP	_ <O>
+of	IN	_ <O>
+Melbourne	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+unrelated	JJ	_ <O>
+to	IN	_ <O>
+Black	NNP	_ <O>
+or	CC	_ <O>
+Brown	NNP	_ <O>
+rats	NNS	_ <O>
+and	CC	_ <O>
+are	VBP	<B-CUE>
+not	RB	<I-CUE>
+problematic	JJ	<I-CUE>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Swamp	NNP	_ <O>
+Rat	NNP	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+seen	VBN	_ <O>
+at	IN	_ <O>
+places	NNS	_ <O>
+like	IN	_ <O>
+the	DT	_ <O>
+Healesville	NNP	_ <O>
+Sanctuary	NNP	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+they	PRP	_ <O>
+live	VBP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+grounds	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+rangers	NNS	_ <O>
+at	IN	_ <O>
+Healesville	NNP	_ <O>
+tolerate	VBP	_ <O>
+them	PRP	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+they	PRP	_ <O>
+(	-LRB-	_ <O>
+the	DT	_ <O>
+rats	NNS	_ <O>
+)	-RRB-	_ <O>
+are	VBP	_ <O>
+native	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+and	CC	_ <O>
+carry	VB	_ <O>
+no	DT	_ <O>
+dangerous	JJ	<B-CUE>
+diseases	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

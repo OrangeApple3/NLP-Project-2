@@ -1,0 +1,99 @@
+NULL
+'	``	_ <O>
+VALIS	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+perhaps	RB	<B-CUE>
+Dick	NNP	_ <O>
+’s	NNP	_ <O>
+most	RBS	<B-CUE>
+postmodern	JJ	<I-CUE>
+and	CC	<I-CUE>
+autobiographical	JJ	<I-CUE>
+novel	NN	_ <O>
+,	,	_ <O>
+examining	VBG	_ <O>
+his	PRP$	_ <O>
+own	JJ	_ <O>
+unexplained	JJ	_ <O>
+experiences	NNS	_ <O>
+(	-LRB-	_ <O>
+see	VB	_ <O>
+above	RB	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+may	MD	<B-CUE>
+also	RB	_ <O>
+be	VB	_ <O>
+his	PRP$	_ <O>
+most	RBS	<B-CUE>
+academically	RB	<I-CUE>
+studied	VBN	<I-CUE>
+work	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+adapted	VBN	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+opera	NN	_ <O>
+by	IN	_ <O>
+Tod	NNP	_ <O>
+Machover	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+VALIS	NN	_ <O>
+'	''	_ <O>
+was	VBD	_ <O>
+voted	VBN	_ <O>
+Philip	NNP	_ <O>
+K.	NNP	_ <O>
+Dick‘s	VBD	_ <O>
+best	JJS	_ <O>
+novel	NN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+website	NN	_ <O>
+philipkdickfans.com	ADD	_ <O>
+.	.	_ <O>
+
+NULL
+Later	JJ	_ <O>
+works	NNS	_ <O>
+like	IN	_ <O>
+the	DT	_ <O>
+VALIS	NN	_ <O>
+trilogy	NN	_ <O>
+were	VBD	_ <O>
+heavily	RB	_ <O>
+autobiographical	JJ	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+with	IN	_ <O>
+"	``	_ <O>
+two	CD	_ <O>
+-	HYPH	_ <O>
+three	CD	_ <O>
+-	HYPH	_ <O>
+seventy	CD	_ <O>
+-	HYPH	_ <O>
+four	CD	_ <O>
+"	''	_ <O>
+(	-LRB-	_ <O>
+2	CD	_ <O>
+-	SYM	_ <O>
+3	CD	_ <O>
+-	SYM	_ <O>
+74	CD	_ <O>
+)	-RRB-	_ <O>
+references	NNS	_ <O>
+and	CC	_ <O>
+influences	NNS	_ <O>
+.	.	_ <O>
+
+NULL

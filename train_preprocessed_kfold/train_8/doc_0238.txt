@@ -1,0 +1,220 @@
+NULL
+The	DT	_ <O>
+Just	RB	_ <O>
+So	RB	_ <O>
+Stories	NNS	_ <O>
+by	IN	_ <O>
+Rudyard	NNP	_ <O>
+Kipling	NNP	_ <O>
+,	,	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+which	WDT	<I-CUE>
+give	VB	_ <O>
+explanations	NNS	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+origin	NN	_ <O>
+of	IN	_ <O>
+animals	NNS	_ <O>
+and	CC	_ <O>
+their	PRP$	_ <O>
+characteristics	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Australian	JJ	_ <O>
+Aboriginal	JJ	_ <O>
+dreamtime	NN	_ <O>
+stories	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+Rainbow	NNP	_ <O>
+Serpent	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Certain	JJ	<B-CUE>
+tall	JJ	<I-CUE>
+tales	NNS	<I-CUE>
+include	VBP	_ <O>
+pourquoi	JJ	_ <O>
+elements	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Pecos	NNP	_ <O>
+Bill	NNP	_ <O>
+taming	VBG	_ <O>
+his	PRP$	_ <O>
+horse	NN	_ <O>
+,	,	_ <O>
+Widowmaker	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+horse	NN	_ <O>
+bucked	VBD	_ <O>
+and	CC	_ <O>
+kicked	VBD	_ <O>
+so	RB	_ <O>
+much	RB	_ <O>
+that	IN	_ <O>
+she	PRP	_ <O>
+dug	VBD	_ <O>
+out	RP	_ <O>
+the	DT	_ <O>
+Grand	NNP	_ <O>
+Canyon	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Epic	NNP	_ <O>
+of	IN	_ <O>
+Gilgamesh	NNP	_ <O>
+includes	VBZ	_ <O>
+many	JJ	_ <O>
+pourquoi	JJ	_ <O>
+stories	NNS	_ <O>
+from	IN	_ <O>
+Mesopotamian	JJ	_ <O>
+folklore	NN	_ <O>
+:	:	_ <O>
+how	WRB	_ <O>
+the	DT	_ <O>
+Beqa'a	NNP	_ <O>
+Valley	NNP	_ <O>
+was	VBD	_ <O>
+formed	VBN	_ <O>
+,	,	_ <O>
+why	WRB	_ <O>
+meat	NN	_ <O>
+becomes	VBZ	_ <O>
+rancid	JJ	_ <O>
+when	WRB	_ <O>
+left	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+sun	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+why	WRB	_ <O>
+snakes	NNS	_ <O>
+shed	VBP	_ <O>
+their	PRP$	_ <O>
+skins	NNS	_ <O>
+while	IN	_ <O>
+people	NNS	_ <O>
+(	-LRB-	_ <O>
+who	WP	_ <O>
+are	VBP	_ <O>
+mortal	JJ	_ <O>
+)	-RRB-	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Origin	NNP	_ <O>
+stories	NNS	_ <O>
+,	,	_ <O>
+explaining	VBG	_ <O>
+how	WRB	_ <O>
+a	DT	_ <O>
+comic	JJ	_ <O>
+book	NN	_ <O>
+hero	NN	_ <O>
+or	CC	_ <O>
+heroine	NN	_ <O>
+came	VBD	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+their	PRP$	_ <O>
+special	JJ	_ <O>
+characteristics	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Alamat	NNP	_ <O>
+,	,	_ <O>
+very	RB	_ <O>
+loosely	RB	_ <O>
+translated	VBN	_ <O>
+into	IN	_ <O>
+"	``	_ <O>
+legend	NN	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+are	VBP	_ <O>
+stories	NNS	_ <O>
+in	IN	_ <O>
+Philippine	NNP	_ <O>
+Folk	NNP	_ <O>
+Literature	NNP	_ <O>
+which	WDT	_ <O>
+explain	VBP	_ <O>
+how	WRB	_ <O>
+things	NNS	_ <O>
+came	VBD	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+normally	RB	_ <O>
+involve	VBP	_ <O>
+people	NNS	_ <O>
+being	VBG	_ <O>
+transformed	VBN	_ <O>
+into	IN	_ <O>
+animals	NNS	_ <O>
+and	CC	_ <O>
+plants	NNS	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+certain	JJ	<B-CUE>
+untoward	JJ	<I-CUE>
+habits	NNS	<I-CUE>
+they	PRP	_ <O>
+have	VBP	_ <O>
+.	.	_ <O>
+
+NULL
+An	DT	_ <O>
+example	NN	_ <O>
+would	MD	_ <O>
+be	VB	_ <O>
+the	DT	_ <O>
+Alamat	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Pineapple	NNP	_ <O>
+where	WRB	_ <O>
+a	DT	_ <O>
+girl	NN	_ <O>
+who	WP	_ <O>
+is	VBZ	_ <O>
+too	RB	_ <O>
+lazy	JJ	_ <O>
+to	TO	_ <O>
+look	VB	_ <O>
+for	IN	_ <O>
+things	NNS	_ <O>
+is	VBZ	_ <O>
+transformed	VBN	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+fruit	NN	_ <O>
+with	IN	_ <O>
+numerous	JJ	_ <O>
+"	``	_ <O>
+eyes	NNS	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

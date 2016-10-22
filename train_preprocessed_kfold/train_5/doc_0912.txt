@@ -1,0 +1,98 @@
+NULL
+The	DT	_ <O>
+result	NN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+studies	NNS	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+elaboration	NN	_ <O>
+of	IN	_ <O>
+linguistic	JJ	_ <O>
+-	HYPH	_ <O>
+philosophical	JJ	_ <O>
+notions	NNS	_ <O>
+whose	WP$	_ <O>
+complexity	NN	_ <O>
+and	CC	_ <O>
+subtlety	NN	_ <O>
+has	VBZ	_ <O>
+only	RB	_ <O>
+recently	RB	_ <O>
+come	VBN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+appreciated	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+interesting	JJ	<I-CUE>
+problems	NNS	<I-CUE>
+of	IN	<I-CUE>
+modern	JJ	<I-CUE>
+philosophy	NN	<I-CUE>
+of	IN	<I-CUE>
+language	NN	<I-CUE>
+were	VBD	_ <O>
+anticipated	VBN	_ <O>
+by	IN	_ <O>
+medieval	JJ	_ <O>
+thinkers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+major	JJ	_ <O>
+developments	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+scholastics	NNS	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+area	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+doctrine	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+suppositio	NN	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+'	``	_ <O>
+proper	JJ	_ <O>
+'	''	_ <O>
+or	CC	_ <O>
+'	``	_ <O>
+improper	JJ	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+as	IN	_ <O>
+when	WRB	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+metaphor	NN	_ <O>
+,	,	_ <O>
+metonyms	NN	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+figures	NNS	_ <O>
+of	IN	_ <O>
+speech	NN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

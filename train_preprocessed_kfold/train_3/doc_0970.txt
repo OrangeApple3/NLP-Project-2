@@ -1,0 +1,50 @@
+NULL
+'	``	_ <O>
+Low	JJ	_ <O>
+-	HYPH	_ <O>
+carbohydrate	NN	_ <O>
+diets	NNS	_ <O>
+'	''	_ <O>
+or	CC	_ <O>
+'	''	_ <O>
+low	JJ	_ <O>
+-	HYPH	_ <O>
+carb	NN	_ <O>
+diets	NNS	_ <O>
+'	POS	_ <O>
+are	VBP	_ <O>
+dietary	JJ	_ <O>
+programs	NNS	_ <O>
+that	WDT	_ <O>
+restrict	VBP	_ <O>
+carbohydrate	NN	_ <O>
+consumption	NN	_ <O>
+primarily	RB	_ <O>
+for	IN	_ <O>
+weight	NN	_ <O>
+control	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Foods	NNS	_ <O>
+high	JJ	_ <O>
+in	IN	_ <O>
+digestible	JJ	_ <O>
+carbohydrates	NNS	_ <O>
+are	VBP	_ <O>
+limited	JJ	<B-CUE>
+or	CC	_ <O>
+replaced	VBN	_ <O>
+with	IN	_ <O>
+foods	NNS	_ <O>
+containing	VBG	_ <O>
+a	DT	_ <O>
+higher	JJR	_ <O>
+percentage	NN	_ <O>
+of	IN	_ <O>
+proteins	NNS	_ <O>
+and	CC	_ <O>
+fats	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,41 @@
+NULL
+In	IN	_ <O>
+1972	CD	_ <O>
+the	DT	_ <O>
+American	NNP	_ <O>
+Academy	NNP	_ <O>
+of	IN	_ <O>
+Arts	NNPS	_ <O>
+and	CC	_ <O>
+Letters	NNPS	_ <O>
+admitted	VBD	_ <O>
+Nivola	NNP	_ <O>
+as	IN	_ <O>
+its	PRP$	_ <O>
+first	JJ	_ <O>
+non	NN	_ <O>
+-	HYPH	_ <O>
+American	JJ	_ <O>
+member	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+1978	CD	_ <O>
+the	DT	_ <O>
+University	NNP	_ <O>
+of	IN	_ <O>
+California	NNP	_ <O>
+,	,	_ <O>
+Berkeley	NNP	_ <O>
+gave	VBD	_ <O>
+him	PRP	_ <O>
+a	DT	_ <O>
+chair	NN	_ <O>
+at	IN	_ <O>
+its	PRP$	_ <O>
+Art	NNP	_ <O>
+Department	NNP	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,92 @@
+NULL
+Another	DT	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+image	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+parrot	NN	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+"	``	_ <O>
+Polly	NNP	_ <O>
+"	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+common	JJ	_ <O>
+name	NN	_ <O>
+for	IN	_ <O>
+these	DT	_ <O>
+birds	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+PolyOz	NNP	_ <O>
+states	NNS	_ <O>
+in	IN	_ <O>
+its	PRP$	_ <O>
+that	IN	_ <O>
+"	``	_ <O>
+The	DT	_ <O>
+parrot	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+common	JJ	_ <O>
+poly	NN	_ <O>
+"	``	_ <O>
+mascot	NN	_ <O>
+"	''	_ <O>
+or	CC	_ <O>
+symbol	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Punning	VBG	_ <O>
+on	IN	_ <O>
+'	``	_ <O>
+poly	NN	_ <O>
+wanna	VBD	_ <O>
+X".PolyOz	JJ	_ <O>
+states	NNS	_ <O>
+in	IN	_ <O>
+its	PRP$	_ <O>
+that	IN	_ <O>
+"	``	_ <O>
+The	DT	_ <O>
+parrot	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+common	JJ	_ <O>
+poly	NN	_ <O>
+"	``	_ <O>
+mascot	NN	_ <O>
+"	''	_ <O>
+or	CC	_ <O>
+symbol	NN	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+2003	CD	_ <O>
+in	IN	_ <O>
+'	``	_ <O>
+The	NNP	_ <O>
+Guardian	NNP	_ <O>
+'	POS	_ <O>
+states	NNS	_ <O>
+"	``	_ <O>
+Today	NNP	_ <O>
+America	NNP	_ <O>
+has	VBZ	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+100	CD	_ <O>
+poly	NNS	_ <O>
+email	NN	_ <O>
+lists	NNS	_ <O>
+and	CC	_ <O>
+support	NN	_ <O>
+groups	NNS	_ <O>
+.	.	_ <O>
+
+NULL

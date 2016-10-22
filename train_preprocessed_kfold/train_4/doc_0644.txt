@@ -1,0 +1,94 @@
+NULL
+Nintendo	NNP	_ <O>
+packed	VBD	_ <O>
+its	PRP$	_ <O>
+most	RBS	_ <O>
+popular	JJ	_ <O>
+games	NNS	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+machine	NN	_ <O>
+case	NN	_ <O>
+and	CC	_ <O>
+called	VBD	_ <O>
+it	PRP	_ <O>
+the	DT	_ <O>
+PlayChoice-10	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+machine	NN	_ <O>
+was	VBD	_ <O>
+compatible	JJ	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+NES	NNP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+with	IN	_ <O>
+some	DT	_ <O>
+key	JJ	_ <O>
+differences	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Normal	JJ	_ <O>
+NES	NNP	_ <O>
+cartridges	NNS	_ <O>
+could	MD	_ <O>
+not	RB	_ <O>
+be	VB	_ <O>
+used	VBN	_ <O>
+;	:	_ <O>
+rather	RB	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+PlayChoice	NNP	_ <O>
+used	VBD	_ <O>
+special	JJ	_ <O>
+expansion	NN	_ <O>
+cards	NNS	_ <O>
+containing	VBG	_ <O>
+(	-LRB-	_ <O>
+usually	RB	_ <O>
+unmodified	JJ	_ <O>
+)	-RRB-	_ <O>
+NES	NNP	_ <O>
+games	NNS	_ <O>
+along	RB	_ <O>
+with	IN	_ <O>
+an	DT	_ <O>
+extra	JJ	_ <O>
+8KB	CD	_ <O>
+ROM	NN	_ <O>
+to	TO	_ <O>
+display	VB	_ <O>
+hints	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+in	IN	_ <O>
+fact	NN	_ <O>
+possible	JJ	<B-CUE>
+to	TO	_ <O>
+replace	VB	_ <O>
+the	DT	_ <O>
+NES	NNP	_ <O>
+PPU	NNP	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+PlayChoice-10	NNP	_ <O>
+PPU	NNP	_ <O>
+,	,	_ <O>
+allowing	VBG	_ <O>
+it	PRP	_ <O>
+to	TO	_ <O>
+output	VB	_ <O>
+RGB	NNP	_ <O>
+natively	RB	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,92 @@
+NULL
+Highlights	NNS	_ <O>
+from	IN	_ <O>
+these	DT	_ <O>
+first	JJ	_ <O>
+period	NN	_ <O>
+are	VBP	_ <O>
+the	DT	_ <O>
+Lambert	NNP	_ <O>
+'s	POS	_ <O>
+Church	NNP	_ <O>
+in	IN	_ <O>
+Veghel	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Catharina	NNP	_ <O>
+'s	POS	_ <O>
+Church	NNP	_ <O>
+in	IN	_ <O>
+Eindhoven	NNP	_ <O>
+,	,	_ <O>
+among	IN	_ <O>
+others	NNS	<B-CUE>
+.	.	_ <O>
+
+NULL
+From	IN	_ <O>
+1870	CD	_ <O>
+onwards	RB	_ <O>
+Cuypers	NNPS	_ <O>
+'	POS	_ <O>
+style	NN	_ <O>
+became	VBD	_ <O>
+more	RBR	_ <O>
+influenced	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+native	JJ	_ <O>
+Gothic	JJ	_ <O>
+styles	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Netherlands	NNP	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+Gothic	JJ	_ <O>
+styles	NNS	_ <O>
+from	IN	_ <O>
+other	JJ	_ <O>
+countries	NNS	_ <O>
+like	IN	_ <O>
+Norway	NNP	_ <O>
+and	CC	_ <O>
+Italy	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+also	RB	_ <O>
+experimented	VBD	_ <O>
+with	IN	_ <O>
+centralizing	NN	_ <O>
+ground	NN	_ <O>
+-	HYPH	_ <O>
+plans	NNS	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+non	AFX	_ <O>
+-	,	_ <O>
+conventional	JJ	_ <O>
+layouts	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+this	DT	_ <O>
+second	JJ	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+career	NN	_ <O>
+he	PRP	_ <O>
+built	VBD	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+best	JJS	<I-CUE>
+work	NN	<I-CUE>
+.	.	_ <O>
+
+NULL

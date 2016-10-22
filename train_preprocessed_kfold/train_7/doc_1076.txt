@@ -1,0 +1,100 @@
+NULL
+Within	IN	_ <O>
+a	DT	_ <O>
+week	NN	_ <O>
+their	PRP$	_ <O>
+membership	NN	_ <O>
+included	VBD	_ <O>
+many	JJ	<B-CUE>
+riders	NNS	<I-CUE>
+from	IN	_ <O>
+associations	NNS	_ <O>
+like	IN	_ <O>
+the	DT	_ <O>
+VFW	NNP	_ <O>
+,	,	_ <O>
+American	NNP	_ <O>
+Legion	NNP	_ <O>
+,	,	_ <O>
+Rolling	NNP	_ <O>
+Thunder	NNP	_ <O>
+,	,	_ <O>
+ABATE	NNP	_ <O>
+,	,	_ <O>
+Combat	NNP	_ <O>
+Vets	NNP	_ <O>
+Motorcycle	NNP	_ <O>
+Association	NNP	_ <O>
+,	,	_ <O>
+Intruder	NNP	_ <O>
+Alert	NNP	_ <O>
+,	,	_ <O>
+Leathernecks	NNP	_ <O>
+Motorcycle	NNP	_ <O>
+Club	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+almost	RB	_ <O>
+five	CD	_ <O>
+hundred	CD	_ <O>
+individual	NN	_ <O>
+riders	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+To	IN	_ <O>
+the	DT	_ <O>
+credit	NN	_ <O>
+of	IN	_ <O>
+Hugh	NNP	_ <O>
+and	CC	_ <O>
+“	NFP	_ <O>
+Waldo	NNP	_ <O>
+”	NFP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+PGR	NNP	_ <O>
+website	NN	_ <O>
+had	VBD	_ <O>
+received	VBN	_ <O>
+almost	RB	_ <O>
+566,000	CD	_ <O>
+hits	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+two	CD	_ <O>
+weeks	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Patriots	NNS	_ <O>
+from	IN	_ <O>
+all	RB	_ <O>
+over	IN	_ <O>
+America	NNP	_ <O>
+and	CC	_ <O>
+several	JJ	<B-CUE>
+foreign	JJ	<I-CUE>
+countries	NNS	<I-CUE>
+responded	VBD	_ <O>
+.	.	_ <O>
+
+NULL
+Emails	NNS	_ <O>
+were	VBD	_ <O>
+pouring	VBG	_ <O>
+in	RP	_ <O>
+from	IN	_ <O>
+people	NNS	_ <O>
+wanting	VBG	_ <O>
+to	TO	_ <O>
+support	VB	_ <O>
+and	CC	_ <O>
+join	VB	_ <O>
+the	DT	_ <O>
+newly	RB	_ <O>
+formed	VBN	_ <O>
+PGR.	NNP	_ <O>
+
+NULL

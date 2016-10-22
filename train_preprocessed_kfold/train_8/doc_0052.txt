@@ -1,0 +1,101 @@
+NULL
+Some	DT	<B-CUE>
+gameplay	NN	<I-CUE>
+modes	NNS	_ <O>
+include	VBP	_ <O>
+:	:	_ <O>
+
+NULL
+'	``	_ <O>
+Speed	NN	_ <O>
+Monkey	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+player	NN	_ <O>
+has	VBZ	_ <O>
+to	TO	_ <O>
+avoid	VB	_ <O>
+and	CC	_ <O>
+overtake	VB	_ <O>
+as	RB	_ <O>
+many	JJ	_ <O>
+cars	NNS	_ <O>
+as	IN	_ <O>
+possible	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+Hot	JJ	_ <O>
+Pursuit	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+player	NN	_ <O>
+has	VBZ	_ <O>
+to	TO	_ <O>
+crash	VB	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+specific	JJ	_ <O>
+car	NN	_ <O>
+as	RB	_ <O>
+much	RB	_ <O>
+as	IN	_ <O>
+possible	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+Hot	JJ	_ <O>
+Rods	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+player	NN	_ <O>
+has	VBZ	_ <O>
+to	TO	_ <O>
+race	VB	_ <O>
+against	IN	_ <O>
+four	CD	_ <O>
+opponents	NNS	_ <O>
+while	IN	_ <O>
+avoiding	VBG	_ <O>
+other	JJ	_ <O>
+cars	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+The	DT	_ <O>
+Munchies	NNPS	_ <O>
+'	POS	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+crashing	VBG	_ <O>
+into	IN	_ <O>
+other	JJ	_ <O>
+cars	NNS	_ <O>
+fuels	VBZ	_ <O>
+the	DT	_ <O>
+player	NN	_ <O>
+'s	POS	_ <O>
+vehicle	NN	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+for	IN	_ <O>
+it	PRP	_ <O>
+to	TO	_ <O>
+keep	VB	_ <O>
+racing	VBG	_ <O>
+.	.	_ <O>
+
+NULL

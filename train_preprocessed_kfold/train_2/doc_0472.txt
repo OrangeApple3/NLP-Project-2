@@ -1,0 +1,49 @@
+NULL
+He	PRP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+son	NN	_ <O>
+of	IN	_ <O>
+Emil	NNP	_ <O>
+Victor	NNP	_ <O>
+Schau	NNP	_ <O>
+Lassen	NNP	_ <O>
+and	CC	_ <O>
+Suzanne	NNP	_ <O>
+Maria	NNP	_ <O>
+Signe	NNP	_ <O>
+Lassen	NNP	_ <O>
+,	,	_ <O>
+of	IN	_ <O>
+Nyhavn	NNP	_ <O>
+,	,	_ <O>
+Copenhagen	NNP	_ <O>
+,	,	_ <O>
+Denmark	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+was	VBD	_ <O>
+first	JJ	_ <O>
+cousin	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+German	NNP	_ <O>
+Major	NNP	_ <O>
+Axel	NNP	_ <O>
+von	NNP	_ <O>
+dem	VBD	_ <O>
+Bussche	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+plotted	VBD	_ <O>
+to	TO	_ <O>
+kill	VB	_ <O>
+Hitler	NNP	_ <O>
+in	IN	_ <O>
+November	NNP	_ <O>
+1943	CD	_ <O>
+.	.	_ <O>
+
+NULL

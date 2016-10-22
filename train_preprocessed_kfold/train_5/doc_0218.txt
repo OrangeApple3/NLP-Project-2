@@ -1,0 +1,14 @@
+NULL
+Nike	NNP	_ <O>
+SB	NNP	_ <O>
+created	VBD	_ <O>
+a	DT	_ <O>
+shoe	NN	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+album	NN	_ <O>
+cover	NN	_ <O>
+.	.	_ <O>
+
+NULL

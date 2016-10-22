@@ -1,0 +1,153 @@
+NULL
+Assigning	VBG	_ <O>
+precise	JJ	_ <O>
+frequency	NN	_ <O>
+proportions	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+pentatonic	JJ	_ <O>
+scales	NNS	_ <O>
+of	IN	_ <O>
+most	JJS	_ <O>
+cultures	NNS	_ <O>
+is	VBZ	_ <O>
+problematic	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+slendro	NN	_ <O>
+anhemitonic	JJ	_ <O>
+scales	NNS	_ <O>
+of	IN	_ <O>
+Java	NNP	_ <O>
+and	CC	_ <O>
+Bali	NNP	_ <O>
+are	VBP	_ <O>
+said	VBN	_ <O>
+to	TO	_ <O>
+approach	VB	_ <O>
+,	,	_ <O>
+very	RB	<B-CUE>
+roughly	RB	<I-CUE>
+,	,	_ <O>
+an	DT	_ <O>
+equally	RB	_ <O>
+-	HYPH	_ <O>
+tempered	VBN	_ <O>
+five	CD	_ <O>
+note	NN	_ <O>
+scale	NN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+fact	NN	_ <O>
+,	,	_ <O>
+their	PRP$	_ <O>
+tunings	NNS	_ <O>
+vary	VBP	_ <O>
+dramatically	RB	_ <O>
+from	IN	_ <O>
+gamelan	NN	_ <O>
+to	IN	_ <O>
+gamelan	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Specially	RB	_ <O>
+trained	VBN	_ <O>
+musicians	NNS	_ <O>
+among	IN	_ <O>
+the	DT	_ <O>
+Gogo	JJ	_ <O>
+people	NNS	_ <O>
+of	IN	_ <O>
+Tanzania	NNP	_ <O>
+sing	VB	_ <O>
+the	DT	_ <O>
+fourth	JJ	_ <O>
+through	IN	_ <O>
+ninth	JJ	_ <O>
+(	-LRB-	_ <O>
+and	CC	_ <O>
+occasionally	RB	_ <O>
+tenth	JJ	_ <O>
+)	-RRB-	_ <O>
+harmonics	NNS	_ <O>
+above	IN	_ <O>
+a	DT	_ <O>
+fundamental	JJ	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+do	VBP	_ <O>
+necessarily	RB	_ <O>
+accurately	RB	_ <O>
+correspond	VBP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+frequency	NN	_ <O>
+proportions	NNS	_ <O>
+4:5:6:7:8:9	CD	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+not	RB	_ <O>
+a	DT	_ <O>
+scale	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+western	JJ	_ <O>
+sense	NN	_ <O>
+because	IN	_ <O>
+these	DT	_ <O>
+pitches	NNS	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+found	VBN	_ <O>
+within	IN	_ <O>
+a	DT	_ <O>
+single	JJ	_ <O>
+octave	NN	_ <O>
+and	CC	_ <O>
+could	MD	_ <O>
+not	RB	_ <O>
+be	VB	_ <O>
+put	VBN	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+single	JJ	_ <O>
+octave	NN	_ <O>
+with	IN	_ <O>
+this	DT	_ <O>
+manner	NN	_ <O>
+of	IN	_ <O>
+performance	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Composer	NNP	_ <O>
+Lou	NNP	_ <O>
+Harrison	NNP	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+recent	JJ	<I-CUE>
+proponents	NNS	_ <O>
+and	CC	_ <O>
+developers	NNS	_ <O>
+of	IN	_ <O>
+new	JJ	_ <O>
+pentatonic	NN	_ <O>
+scales	NNS	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+historical	JJ	_ <O>
+models	NNS	_ <O>
+.	.	_ <O>
+
+NULL

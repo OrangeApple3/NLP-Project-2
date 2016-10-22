@@ -1,0 +1,88 @@
+NULL
+After	IN	_ <O>
+some	DT	_ <O>
+investigating	VBG	_ <O>
+,	,	_ <O>
+Harley	NNP	_ <O>
+learned	VBD	_ <O>
+Alan	NNP	_ <O>
+was	VBD	_ <O>
+telling	VBG	_ <O>
+the	DT	_ <O>
+truth—Phillip	NN	_ <O>
+was	VBD	_ <O>
+alive	JJ	_ <O>
+!	.	_ <O>
+
+NULL
+Though	NNP	_ <O>
+distressed	JJ	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+thought	NN	_ <O>
+of	IN	_ <O>
+him	PRP	_ <O>
+returning	VBG	_ <O>
+,	,	_ <O>
+Harley	NNP	_ <O>
+decided	VBD	_ <O>
+it	PRP	_ <O>
+might	MD	_ <O>
+be	VB	_ <O>
+best	RBS	_ <O>
+to	TO	_ <O>
+know	VB	_ <O>
+his	PRP$	_ <O>
+whereabouts	NN	_ <O>
+and	CC	_ <O>
+took	VBD	_ <O>
+the	DT	_ <O>
+case	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+Remy	NNP	_ <O>
+who	WP	_ <O>
+claimed	VBD	_ <O>
+to	TO	_ <O>
+have	VB	_ <O>
+run	VBN	_ <O>
+into	IN	_ <O>
+Phillip	NNP	_ <O>
+after	IN	_ <O>
+losing	VBG	_ <O>
+some	DT	_ <O>
+gambling	NN	_ <O>
+money	NN	_ <O>
+in	IN	_ <O>
+Clayton	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Remy	NNP	_ <O>
+claimed	VBD	_ <O>
+Phillip	NNP	_ <O>
+paid	VBD	_ <O>
+him	PRP	_ <O>
+to	TO	_ <O>
+deliver	VB	_ <O>
+this	DT	_ <O>
+package	NN	_ <O>
+(	-LRB-	_ <O>
+which	WDT	_ <O>
+contained	VBD	_ <O>
+Phillip	NNP	_ <O>
+’s	NNP	_ <O>
+old	JJ	_ <O>
+high	JJ	_ <O>
+school	NN	_ <O>
+sports	NNS	_ <O>
+jersey	NN	_ <O>
+)	-RRB-	_ <O>
+to	IN	_ <O>
+Zach	NNP	_ <O>
+.	.	_ <O>
+
+NULL

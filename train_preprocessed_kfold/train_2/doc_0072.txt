@@ -1,0 +1,89 @@
+NULL
+Brady	NNP	_ <O>
+joined	VBD	_ <O>
+the	DT	_ <O>
+popular	JJ	_ <O>
+Irish	JJ	_ <O>
+band	NN	_ <O>
+The	DT	_ <O>
+Johnstons	NNPS	_ <O>
+when	WRB	_ <O>
+Michael	NNP	_ <O>
+Johnston	NNP	_ <O>
+left	VBD	_ <O>
+.	.	_ <O>
+
+NULL
+Despite	IN	_ <O>
+some	DT	_ <O>
+success	NN	_ <O>
+,	,	_ <O>
+Brady	NNP	_ <O>
+returned	VBD	_ <O>
+to	IN	_ <O>
+Ireland	NNP	_ <O>
+in	IN	_ <O>
+1974	CD	_ <O>
+to	TO	_ <O>
+join	VB	_ <O>
+the	DT	_ <O>
+Irish	JJ	_ <O>
+group	NN	_ <O>
+Planxty	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+next	JJ	_ <O>
+few	JJ	_ <O>
+years	NNS	_ <O>
+saw	VBD	_ <O>
+him	PRP	_ <O>
+establish	VB	_ <O>
+his	PRP$	_ <O>
+popularity	NN	_ <O>
+and	CC	_ <O>
+reputation	NN	_ <O>
+as	IN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+Ireland	NNP	_ <O>
+'s	POS	_ <O>
+best	JJS	_ <O>
+interpreters	NNS	_ <O>
+of	IN	_ <O>
+traditional	JJ	_ <O>
+songs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+versions	NNS	_ <O>
+of	IN	_ <O>
+ballads	NNS	_ <O>
+like	IN	_ <O>
+"	``	_ <O>
+Arthur	NNP	_ <O>
+McBride	NNP	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+The	DT	_ <O>
+Lakes	NNP	_ <O>
+of	IN	_ <O>
+Pontchartrain	NNP	_ <O>
+"	''	_ <O>
+were	VBD	<B-CUE>
+considered	VBN	<I-CUE>
+as	IN	_ <O>
+definitive	JJ	_ <O>
+and	CC	_ <O>
+are	VBP	_ <O>
+still	RB	_ <O>
+popular	JJ	_ <O>
+at	IN	_ <O>
+concerts	NNS	_ <O>
+today	NN	_ <O>
+.	.	_ <O>
+
+NULL

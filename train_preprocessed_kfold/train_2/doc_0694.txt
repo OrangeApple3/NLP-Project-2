@@ -1,0 +1,123 @@
+NULL
+Though	IN	_ <O>
+the	DT	_ <O>
+comic	NN	_ <O>
+began	VBD	_ <O>
+light	RB	_ <O>
+-	HYPH	_ <O>
+hearted	VBN	_ <O>
+,	,	_ <O>
+Dominic	NNP	_ <O>
+Deegan	NNP	_ <O>
+:	:	_ <O>
+Oracle	NNP	_ <O>
+for	IN	_ <O>
+Hire	NNP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+very	RB	<B-CUE>
+melodramatic	JJ	<I-CUE>
+comic	JJ	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+at	RB	_ <O>
+least	RBS	_ <O>
+one	CD	_ <O>
+character	NN	_ <O>
+crying	NN	_ <O>
+,	,	_ <O>
+bleeding	VBG	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+getting	VBG	_ <O>
+horribly	RB	_ <O>
+maimed	VBN	_ <O>
+in	IN	_ <O>
+each	DT	_ <O>
+storyline	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Though	IN	_ <O>
+the	DT	_ <O>
+scars	NNS	_ <O>
+sustained	VBD	_ <O>
+during	IN	_ <O>
+these	DT	_ <O>
+mishaps	NNS	_ <O>
+,	,	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+crippling	JJ	_ <O>
+,	,	_ <O>
+tend	VB	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+either	CC	_ <O>
+character	NN	_ <O>
+building	NN	_ <O>
+or	CC	_ <O>
+serve	VB	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+the	DT	_ <O>
+character	NN	_ <O>
+look	VB	_ <O>
+cooler	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Another	DT	<B-CUE>
+criticism	NN	<I-CUE>
+could	MD	_ <O>
+be	VB	_ <O>
+that	IN	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+all	PDT	_ <O>
+the	DT	_ <O>
+heroes	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+comic	JJ	_ <O>
+have	VBP	_ <O>
+modern	JJ	_ <O>
+,	,	_ <O>
+politically	RB	_ <O>
+correct	JJ	_ <O>
+opinions	NNS	_ <O>
+regarding	VBG	_ <O>
+race	NN	_ <O>
+,	,	_ <O>
+sexual	JJ	_ <O>
+preference	NN	_ <O>
+and	CC	_ <O>
+ethics	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+are	VBP	_ <O>
+n't	RB	_ <O>
+afraid	JJ	_ <O>
+to	TO	_ <O>
+talk	VB	_ <O>
+about	IN	_ <O>
+them	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+While	IN	_ <O>
+most	JJS	<B-CUE>
+of	IN	<I-CUE>
+all	PDT	<I-CUE>
+the	DT	<I-CUE>
+villains	NNS	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+comic	NN	_ <O>
+tend	NN	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+bigots	NNS	_ <O>
+.	.	_ <O>
+
+NULL

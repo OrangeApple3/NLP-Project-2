@@ -1,0 +1,30 @@
+NULL
+'	``	_ <O>
+Ethics	NNS	_ <O>
+of	IN	_ <O>
+file	NN	_ <O>
+sharing	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+subfield	NN	_ <O>
+of	IN	_ <O>
+ethics	NNS	_ <O>
+specifically	RB	_ <O>
+relating	VBG	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+ethical	JJ	_ <O>
+implications	NNS	_ <O>
+of	IN	_ <O>
+file	NN	_ <O>
+sharing	NN	_ <O>
+over	IN	_ <O>
+computer	NN	_ <O>
+networks	NNS	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Internet	NN	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,95 @@
+NULL
+It	PRP	<B-CUE>
+seems	VBZ	<I-CUE>
+that	IN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+level	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+organ	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+leaf	NN	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+the	DT	_ <O>
+ancestor	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+flower	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+at	IN	_ <O>
+least	JJS	_ <O>
+some	DT	_ <O>
+floral	JJ	_ <O>
+organs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+we	PRP	_ <O>
+mutate	VBP	_ <O>
+some	DT	_ <O>
+crucial	JJ	_ <O>
+genes	NNS	_ <O>
+involved	VBN	_ <O>
+in	IN	_ <O>
+flower	NN	_ <O>
+development	NN	_ <O>
+,	,	_ <O>
+we	PRP	_ <O>
+end	VBP	_ <O>
+up	RP	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+cluster	NN	_ <O>
+of	IN	_ <O>
+leaf	NN	_ <O>
+-	HYPH	_ <O>
+like	JJ	_ <O>
+structures	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+probably	RB	<B-CUE>
+also	RB	_ <O>
+exists	VBZ	_ <O>
+an	DT	_ <O>
+overall	JJ	_ <O>
+robust	JJ	_ <O>
+framework	NN	_ <O>
+within	IN	_ <O>
+which	WDT	_ <O>
+the	DT	_ <O>
+floral	JJ	_ <O>
+diversity	NN	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+generated	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+'	``	_ <O>
+LFY	NNP	_ <O>
+'	''	_ <O>
+gene	NN	_ <O>
+regulates	VBZ	_ <O>
+the	DT	_ <O>
+expression	NN	_ <O>
+of	IN	_ <O>
+some	DT	<B-CUE>
+gene	NN	<I-CUE>
+belonging	VBG	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+MADS	NNP	_ <O>
+-	HYPH	_ <O>
+box	NNP	_ <O>
+family	NN	_ <O>
+.	.	_ <O>
+
+NULL

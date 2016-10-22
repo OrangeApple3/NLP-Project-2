@@ -1,0 +1,77 @@
+NULL
+King	NNP	_ <O>
+Street	NNP	_ <O>
+,	,	_ <O>
+half	PDT	_ <O>
+the	DT	_ <O>
+Market	NNP	_ <O>
+Square	NNP	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+Brook	NNP	<I-CUE>
+End	NN	<I-CUE>
+area	NN	<I-CUE>
+were	VBD	_ <O>
+destroyed	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+was	VBD	<I-CUE>
+reported	VBN	<I-CUE>
+to	TO	_ <O>
+have	VB	_ <O>
+burned	VBN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+day	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Local	JJ	_ <O>
+people	NNS	_ <O>
+raised	VBD	_ <O>
+L6,000	NNP	_ <O>
+to	TO	_ <O>
+help	VB	_ <O>
+those	DT	_ <O>
+most	RBS	_ <O>
+in	IN	_ <O>
+need	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Providing	VBG	_ <O>
+temporary	JJ	_ <O>
+accommodation	NN	_ <O>
+in	IN	_ <O>
+nearby	JJ	_ <O>
+fields	NNS	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+townsfolk	NNS	_ <O>
+alone	RB	_ <O>
+cost	VBD	_ <O>
+L25,000	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Rebuilding	VBG	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+fire	NN	_ <O>
+has	VBZ	_ <O>
+left	VBN	_ <O>
+the	DT	_ <O>
+town	NN	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+Georgian	JJ	_ <O>
+buildings	NNS	_ <O>
+.	.	_ <O>
+
+NULL

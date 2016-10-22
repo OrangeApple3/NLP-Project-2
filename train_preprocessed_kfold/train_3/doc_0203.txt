@@ -1,0 +1,101 @@
+NULL
+Admission	NN	_ <O>
+to	IN	_ <O>
+this	DT	_ <O>
+school	NN	_ <O>
+is	VBZ	_ <O>
+by	IN	_ <O>
+competitive	JJ	_ <O>
+examination	NN	_ <O>
+,	,	_ <O>
+unlike	IN	_ <O>
+many	JJ	<B-CUE>
+public	JJ	<I-CUE>
+Middle	NNP	<I-CUE>
+Schools	NNP	<I-CUE>
+in	IN	_ <O>
+New	NNP	_ <O>
+York	NNP	_ <O>
+City	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+school	NN	_ <O>
+is	VBZ	_ <O>
+ranked	VBN	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+best	JJS	_ <O>
+middle	JJ	_ <O>
+schools	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+city	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Achievement	NN	_ <O>
+First	NNP	_ <O>
+Charter	NNP	_ <O>
+School	NNP	_ <O>
+has	VBZ	_ <O>
+recently	RB	_ <O>
+been	VBN	_ <O>
+added	VBN	_ <O>
+in	IN	_ <O>
+addition	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+school	NN	_ <O>
+,	,	_ <O>
+provoking	VBG	_ <O>
+many	JJ	<B-CUE>
+angry	JJ	<I-CUE>
+parents	NNS	<I-CUE>
+,	,	<I-CUE>
+teachers	NNS	<I-CUE>
+,	,	<I-CUE>
+and	CC	<I-CUE>
+students	NNS	<I-CUE>
+alike	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+parents	NNS	<I-CUE>
+believe	VB	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+extra	JJ	_ <O>
+school	NN	_ <O>
+within	IN	_ <O>
+the	DT	_ <O>
+building	NN	_ <O>
+could	MD	_ <O>
+possibly	RB	<B-CUE>
+affect	VB	_ <O>
+the	DT	_ <O>
+Schuyler	NNP	_ <O>
+students	NNS	_ <O>
+attending	VBG	_ <O>
+and	CC	_ <O>
+could	MD	_ <O>
+hurt	VB	_ <O>
+their	PRP$	_ <O>
+educations	NNS	_ <O>
+,	,	_ <O>
+therefore	RB	_ <O>
+lowering	VBG	_ <O>
+the	DT	_ <O>
+standards	NNS	_ <O>
+and	CC	_ <O>
+educational	JJ	_ <O>
+standing	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+school	NN	_ <O>
+.	.	_ <O>
+
+NULL

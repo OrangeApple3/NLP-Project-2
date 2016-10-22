@@ -1,0 +1,62 @@
+NULL
+'	``	_ <O>
+KVMX	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+commercial	JJ	_ <O>
+broadcast	NN	_ <O>
+radio	NN	_ <O>
+station	NN	_ <O>
+located	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Portland	NNP	_ <O>
+,	,	_ <O>
+Oregon	NNP	_ <O>
+area	NN	_ <O>
+and	CC	_ <O>
+broadcasts	NNS	_ <O>
+at	IN	_ <O>
+107.5	CD	_ <O>
+FM.	NNS	_ <O>
+
+NULL
+The	DT	_ <O>
+transmitter	NN	_ <O>
+is	VBZ	_ <O>
+located	VBN	_ <O>
+in	IN	_ <O>
+Portland	NNP	_ <O>
+'s	POS	_ <O>
+west	JJ	_ <O>
+hills	NNS	_ <O>
+;	:	_ <O>
+the	DT	_ <O>
+studio	NN	_ <O>
+is	VBZ	_ <O>
+in	IN	_ <O>
+downtown	NN	_ <O>
+Portland	NNP	_ <O>
+;	:	_ <O>
+the	DT	_ <O>
+license	NN	_ <O>
+location	NN	_ <O>
+of	IN	_ <O>
+Banks	NNPS	_ <O>
+,	,	_ <O>
+Oregon	NNP	_ <O>
+is	VBZ	_ <O>
+likely	JJ	<B-CUE>
+due	JJ	_ <O>
+to	IN	_ <O>
+technicalities	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+frequency	NN	_ <O>
+'s	POS	_ <O>
+licensing	NN	_ <O>
+history	NN	_ <O>
+.	.	_ <O>
+
+NULL

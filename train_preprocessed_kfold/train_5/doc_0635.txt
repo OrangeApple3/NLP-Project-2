@@ -1,0 +1,28 @@
+NULL
+Among	IN	_ <O>
+some	DT	<B-CUE>
+open	JJ	<I-CUE>
+source	NN	<I-CUE>
+user	NN	<I-CUE>
+groups	NNS	<I-CUE>
+exists	VBZ	_ <O>
+the	DT	_ <O>
+feeling	NN	_ <O>
+that	IN	_ <O>
+Transgaming	NNP	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+"	``	_ <O>
+Free	JJ	_ <O>
+riding	NN	_ <O>
+"	''	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+free	JJ	_ <O>
+software	NN	_ <O>
+movement	NN	_ <O>
+with	IN	_ <O>
+Cedega	NNP	_ <O>
+.	.	_ <O>
+
+NULL

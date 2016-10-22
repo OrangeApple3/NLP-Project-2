@@ -1,0 +1,75 @@
+NULL
+Polish	JJ	_ <O>
+people	NNS	_ <O>
+are	VBP	_ <O>
+the	DT	_ <O>
+sixth	RB	_ <O>
+largest	JJS	_ <O>
+national	JJ	_ <O>
+group	NN	_ <O>
+in	IN	_ <O>
+Europe	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Estimates	NNS	_ <O>
+vary	VBP	_ <O>
+depending	VBG	_ <O>
+on	IN	_ <O>
+source	NN	_ <O>
+,	,	_ <O>
+though	IN	_ <O>
+available	JJ	_ <O>
+data	NNS	_ <O>
+suggests	VBZ	<B-CUE>
+a	DT	_ <O>
+total	JJ	_ <O>
+number	NN	_ <O>
+around	IN	_ <O>
+60	CD	_ <O>
+million	CD	_ <O>
+people	NNS	_ <O>
+worldwide	RB	_ <O>
+(	-LRB-	_ <O>
+with	IN	_ <O>
+approx	NN	_ <O>
+.	.	_ <O>
+21	CD	_ <O>
+million	CD	_ <O>
+living	VBG	_ <O>
+outside	IN	_ <O>
+of	IN	_ <O>
+Poland	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+almost	RB	_ <O>
+39	CD	_ <O>
+million	CD	_ <O>
+Poles	NNPS	_ <O>
+in	IN	_ <O>
+Poland	NNP	_ <O>
+alone	RB	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+some	DT	_ <O>
+smaller	JJR	_ <O>
+autochthonous	JJ	_ <O>
+minorities	NNS	_ <O>
+in	IN	_ <O>
+nearby	JJ	_ <O>
+countries	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Moldova	NNP	_ <O>
+and	CC	_ <O>
+Latvia	NNP	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,84 @@
+NULL
+Political	JJ	_ <O>
+gatherings	NNS	_ <O>
+may	MD	_ <O>
+supplement	VB	_ <O>
+or	CC	_ <O>
+replace	VB	_ <O>
+religious	JJ	_ <O>
+ceremonies	NNS	_ <O>
+to	TO	_ <O>
+help	VB	_ <O>
+reinforce	VB	_ <O>
+loyalty	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+state	NN	_ <O>
+usually	RB	_ <O>
+controls	VBZ	_ <O>
+the	DT	_ <O>
+mass	NN	_ <O>
+media	NNS	_ <O>
+for	IN	_ <O>
+similar	JJ	_ <O>
+reasons	NNS	_ <O>
+,	,	_ <O>
+filling	VBG	_ <O>
+it	PRP	_ <O>
+with	IN	_ <O>
+propaganda	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Political	JJ	_ <O>
+religions	NNS	_ <O>
+that	WDT	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+have	VB	_ <O>
+such	JJ	_ <O>
+a	DT	_ <O>
+level	NN	_ <O>
+of	IN	_ <O>
+mandated	VBN	_ <O>
+control	NN	_ <O>
+may	MD	_ <O>
+,	,	_ <O>
+instead	RB	_ <O>
+,	,	_ <O>
+use	VB	_ <O>
+commercial	JJ	_ <O>
+means	NNS	_ <O>
+to	TO	_ <O>
+influence	VB	_ <O>
+editorial	NN	_ <O>
+and	CC	_ <O>
+programming	NN	_ <O>
+decisions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Certain	JJ	<B-CUE>
+leisure	NN	<I-CUE>
+or	CC	<I-CUE>
+cultural	JJ	<I-CUE>
+activities	NNS	<I-CUE>
+may	MD	_ <O>
+also	RB	_ <O>
+be	VB	_ <O>
+mandated	VBN	_ <O>
+to	TO	_ <O>
+reinforce	VB	_ <O>
+some	DT	_ <O>
+aspect	NN	_ <O>
+of	IN	_ <O>
+loyalty	NN	_ <O>
+or	CC	_ <O>
+the	DT	_ <O>
+state	NN	_ <O>
+ideology	NN	_ <O>
+.	.	_ <O>
+
+NULL

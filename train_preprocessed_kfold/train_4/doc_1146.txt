@@ -1,0 +1,113 @@
+NULL
+Parkstone	NNP	_ <O>
+Grammar	NNP	_ <O>
+School	NNP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+successful	JJ	_ <O>
+secondary	JJ	_ <O>
+school	NN	_ <O>
+in	IN	_ <O>
+Poole	NNP	_ <O>
+for	IN	_ <O>
+GCSE	NNP	_ <O>
+results	NNS	_ <O>
+in	IN	_ <O>
+2007	CD	_ <O>
+:	:	_ <O>
+100	CD	_ <O>
+%	NN	_ <O>
+of	IN	_ <O>
+pupils	NNS	_ <O>
+gained	VBD	_ <O>
+five	CD	_ <O>
+or	CC	_ <O>
+more	JJR	_ <O>
+GCSEs	NNS	_ <O>
+at	IN	_ <O>
+A	NN	_ <O>
+
+NULL
+to	IN	_ <O>
+C	NNP	_ <O>
+grade	NN	_ <O>
+including	VBG	_ <O>
+maths	NNS	_ <O>
+and	CC	_ <O>
+English	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Canford	NNP	_ <O>
+School	NNP	_ <O>
+also	RB	_ <O>
+achieved	VBD	_ <O>
+100	CD	_ <O>
+%	NN	_ <O>
+and	CC	_ <O>
+Poole	NNP	_ <O>
+Grammar	NNP	_ <O>
+School	NNP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+next	RB	_ <O>
+best	JJS	_ <O>
+performing	VBG	_ <O>
+school	NN	_ <O>
+with	IN	_ <O>
+98	CD	_ <O>
+%	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Poole	NNP	_ <O>
+’s	NN	_ <O>
+grammar	NN	_ <O>
+schools	NNS	_ <O>
+were	VBD	_ <O>
+also	RB	_ <O>
+the	DT	_ <O>
+best	JJS	_ <O>
+performing	NN	_ <O>
+for	IN	_ <O>
+A	DT	_ <O>
+-	HYPH	_ <O>
+level	NN	_ <O>
+results	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Poole	NNP	_ <O>
+Grammar	NNP	_ <O>
+School	NNP	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+60th	JJ	_ <O>
+most	RBS	_ <O>
+successful	JJ	_ <O>
+school/sixth	JJ	_ <O>
+form	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+country	NN	_ <O>
+in	IN	_ <O>
+2007	CD	_ <O>
+:	:	_ <O>
+each	DT	_ <O>
+student	NN	_ <O>
+achieved	VBD	_ <O>
+on	IN	_ <O>
+average	JJ	_ <O>
+1071.4	CD	_ <O>
+points	NNS	_ <O>
+compared	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+national	JJ	_ <O>
+average	NN	_ <O>
+of	IN	_ <O>
+731.2	CD	_ <O>
+.	.	_ <O>
+
+NULL

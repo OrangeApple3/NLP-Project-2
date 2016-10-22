@@ -1,0 +1,73 @@
+NULL
+The	DT	_ <O>
+Bulgarians	NNPS	_ <O>
+are	VBP	_ <O>
+a	DT	_ <O>
+majority	NN	_ <O>
+followed	VBN	_ <O>
+by	IN	_ <O>
+Gypsies	NNPS	_ <O>
+and	CC	_ <O>
+Turks	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+vast	JJ	_ <O>
+majority	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+inhabitants	NNS	_ <O>
+are	VBP	_ <O>
+Christians	NNPS	_ <O>
+-	:	_ <O>
+mostly	RB	_ <O>
+Eastern	NNP	_ <O>
+Orthodox	NNP	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+Catholics	NNPS	_ <O>
+,	,	_ <O>
+Eastern	NNP	_ <O>
+Catholics	NNPS	_ <O>
+and	CC	_ <O>
+Protestant	JJ	_ <O>
+trends	NNS	_ <O>
+(	-LRB-	_ <O>
+Adventists	NNPS	_ <O>
+,	,	_ <O>
+Baptists	NNPS	_ <O>
+and	CC	_ <O>
+others	NNS	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+some	DT	_ <O>
+Muslims	NNPS	_ <O>
+and	CC	_ <O>
+Jews	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+Plovdiv	NNP	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	_ <O>
+churches	NNS	_ <O>
+,	,	_ <O>
+two	CD	_ <O>
+mosques	NNS	_ <O>
+and	CC	_ <O>
+a	DT	_ <O>
+synagogue	NN	_ <O>
+.	.	_ <O>
+
+NULL

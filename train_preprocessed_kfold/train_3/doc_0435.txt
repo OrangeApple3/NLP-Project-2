@@ -1,0 +1,67 @@
+NULL
+They	PRP	_ <O>
+may	MD	_ <O>
+have	VB	_ <O>
+a	DT	_ <O>
+large	JJ	_ <O>
+flat	JJ	_ <O>
+base	NN	_ <O>
+(	-LRB-	_ <O>
+sessile	NN	_ <O>
+)	-RRB-	_ <O>
+or	CC	_ <O>
+be	VB	_ <O>
+attached	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+uterus	NN	_ <O>
+by	IN	_ <O>
+an	DT	_ <O>
+elongated	JJ	_ <O>
+pedicle	NN	_ <O>
+(	-LRB-	_ <O>
+pedunculated	VBN	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Pedunculated	VBN	_ <O>
+polyps	NNS	_ <O>
+are	VBP	_ <O>
+more	RBR	_ <O>
+common	JJ	_ <O>
+that	IN	_ <O>
+sessile	JJ	_ <O>
+ones	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+range	VBP	_ <O>
+in	IN	_ <O>
+size	NN	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+millimeters	NNS	_ <O>
+to	IN	_ <O>
+several	JJ	_ <O>
+centimeters	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Small	JJ	_ <O>
+blood	NN	_ <O>
+vessels	NNS	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+present	JJ	_ <O>
+in	IN	_ <O>
+polyps	NNS	_ <O>
+,	,	_ <O>
+particularly	RB	_ <O>
+large	JJ	_ <O>
+ones	NNS	_ <O>
+.	.	_ <O>
+
+NULL

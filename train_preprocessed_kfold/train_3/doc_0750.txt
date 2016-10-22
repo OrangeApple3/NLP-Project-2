@@ -1,0 +1,36 @@
+NULL
+The	DT	_ <O>
+'	``	_ <O>
+Central	NNP	_ <O>
+Union	NNP	_ <O>
+of	IN	_ <O>
+Marine	NNP	_ <O>
+Underwriters	NNP	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+CEFOR	NNP	_ <O>
+)	-RRB-	_ <O>
+was	VBD	_ <O>
+founded	VBN	_ <O>
+August	NNP	_ <O>
+15	CD	_ <O>
+,	,	_ <O>
+1911	CD	_ <O>
+by	IN	_ <O>
+Norwegian	JJ	_ <O>
+and	CC	_ <O>
+foreign	JJ	_ <O>
+insurance	NN	_ <O>
+companies	NNS	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+marine	JJ	_ <O>
+insurance	NN	_ <O>
+market	NN	_ <O>
+organization	NN	_ <O>
+of	IN	_ <O>
+Norway	NNP	_ <O>
+.	.	_ <O>
+
+NULL

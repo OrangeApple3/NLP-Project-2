@@ -1,0 +1,97 @@
+NULL
+To	TO	_ <O>
+Photios	VB	_ <O>
+we	PRP	_ <O>
+are	VBP	_ <O>
+indebted	JJ	_ <O>
+for	IN	_ <O>
+almost	RB	_ <O>
+all	DT	_ <O>
+we	PRP	_ <O>
+possess	VBP	_ <O>
+of	IN	_ <O>
+Ctesias	NNP	_ <O>
+,	,	_ <O>
+Memnon	NNP	_ <O>
+of	IN	_ <O>
+Heraclea	NNP	_ <O>
+,	,	_ <O>
+Conon	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+lost	JJ	_ <O>
+books	NNS	_ <O>
+of	IN	_ <O>
+Diodorus	NNP	_ <O>
+Siculus	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+lost	JJ	_ <O>
+writings	NNS	_ <O>
+of	IN	_ <O>
+Arrian	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Theology	NN	_ <O>
+and	CC	_ <O>
+ecclesiastical	JJ	_ <O>
+history	NN	_ <O>
+are	VBP	_ <O>
+also	RB	_ <O>
+very	RB	_ <O>
+fully	RB	_ <O>
+represented	VBN	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+poetry	NN	_ <O>
+and	CC	_ <O>
+ancient	JJ	_ <O>
+philosophy	NN	_ <O>
+are	VBP	_ <O>
+almost	RB	_ <O>
+entirely	RB	_ <O>
+ignored	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+literary	JJ	_ <O>
+criticisms	NNS	_ <O>
+,	,	_ <O>
+generally	RB	<B-CUE>
+distinguished	VBN	_ <O>
+by	IN	_ <O>
+keen	JJ	_ <O>
+and	CC	_ <O>
+independent	JJ	_ <O>
+judgment	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+excerpts	NNS	_ <O>
+vary	VBP	_ <O>
+considerably	RB	<B-CUE>
+in	IN	_ <O>
+length	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+numerous	JJ	_ <O>
+biographical	JJ	_ <O>
+notes	NNS	_ <O>
+are	VBP	_ <O>
+probably	RB	<B-CUE>
+taken	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+work	NN	_ <O>
+of	IN	_ <O>
+Hesychius	NNP	_ <O>
+of	IN	_ <O>
+Miletus	NNP	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,40 @@
+NULL
+Since	IN	_ <O>
+the	DT	_ <O>
+Middle	NNP	_ <O>
+Age	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+kings	NNS	_ <O>
+of	IN	_ <O>
+Denmark	NNP	_ <O>
+and	CC	_ <O>
+Denmark	NNP	_ <O>
+-	HYPH	_ <O>
+Norway	NNP	_ <O>
+carried	VBD	_ <O>
+the	DT	_ <O>
+titles	NNS	_ <O>
+'	POS	_ <O>
+King	NNP	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Wends	NNPS	_ <O>
+and	CC	_ <O>
+Goths	NNPS	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+both	DT	_ <O>
+titles	NNS	_ <O>
+was	VBD	_ <O>
+discontinued	VBN	_ <O>
+in	IN	_ <O>
+1972	CD	_ <O>
+.	.	_ <O>
+
+NULL

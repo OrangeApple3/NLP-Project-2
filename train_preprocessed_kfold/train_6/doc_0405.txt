@@ -1,0 +1,183 @@
+NULL
+"	``	_ <O>
+Toe	VB	_ <O>
+the	DT	_ <O>
+line	NN	_ <O>
+"	``	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+idiomatic	JJ	_ <O>
+expression	NN	_ <O>
+with	IN	_ <O>
+disputed	VBN	<B-CUE>
+origins	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	<B-CUE>
+often	RB	<I-CUE>
+equated	VBN	<I-CUE>
+to	TO	_ <O>
+"	``	_ <O>
+toe	VB	_ <O>
+the	DT	_ <O>
+mark	NN	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+which	WDT	_ <O>
+has	VBZ	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+meaning	NN	_ <O>
+:	:	_ <O>
+to	TO	_ <O>
+conform	VB	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+rule	NN	_ <O>
+or	CC	_ <O>
+a	DT	_ <O>
+standard	NN	_ <O>
+.	.	_ <O>
+
+NULL
+One	CD	_ <O>
+documented	VBN	_ <O>
+origin	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+phrase	NN	_ <O>
+is	VBZ	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+athletics	NN	_ <O>
+analogy	NN	_ <O>
+that	WDT	_ <O>
+originated	VBD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+19th	JJ	_ <O>
+century	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Other	JJ	_ <O>
+suggested	VBN	_ <O>
+origins	NNS	_ <O>
+are	VBP	_ <O>
+the	DT	_ <O>
+center	JJ	_ <O>
+line	NN	_ <O>
+in	IN	_ <O>
+boxing	NN	_ <O>
+which	WDT	_ <O>
+boxers	NNS	_ <O>
+were	VBD	_ <O>
+instructed	VBN	_ <O>
+to	TO	_ <O>
+toe	VB	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+start	NN	_ <O>
+of	IN	_ <O>
+each	DT	_ <O>
+round	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+the	DT	_ <O>
+lines	NNS	_ <O>
+created	VBN	_ <O>
+by	IN	_ <O>
+deck	NN	_ <O>
+planks	NNS	_ <O>
+on	IN	_ <O>
+ships	NNS	_ <O>
+which	WDT	_ <O>
+naval	JJ	_ <O>
+crews	NNS	_ <O>
+used	VBN	_ <O>
+to	IN	_ <O>
+“	-LRB-	_ <O>
+fall	VB	_ <O>
+in	IN	_ <O>
+line”.	JJ	_ <O>
+
+NULL
+The	DT	<B-CUE>
+longest	RBS	<I-CUE>
+-	HYPH	<I-CUE>
+running	VBG	<I-CUE>
+use	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+phrase	NN	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+mentioned	VBN	_ <O>
+by	IN	_ <O>
+tourist	NN	_ <O>
+guides	NNS	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+British	JJ	_ <O>
+House	NNP	_ <O>
+of	IN	_ <O>
+Commons	NNP	_ <O>
+where	WRB	_ <O>
+sword	NN	_ <O>
+-	HYPH	_ <O>
+strapped	VBN	_ <O>
+members	NNS	_ <O>
+were	VBD	_ <O>
+instructed	VBN	_ <O>
+to	TO	_ <O>
+stand	VB	_ <O>
+behind	IN	_ <O>
+lines	NNS	_ <O>
+that	WDT	_ <O>
+were	VBD	_ <O>
+better	JJR	_ <O>
+than	IN	_ <O>
+a	DT	_ <O>
+sword	NN	_ <O>
+’s	NNP	_ <O>
+length	NN	_ <O>
+from	IN	_ <O>
+their	PRP$	_ <O>
+political	JJ	_ <O>
+rivals	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Thus	RB	_ <O>
+the	DT	_ <O>
+cry	NN	_ <O>
+to	IN	_ <O>
+“	.	_ <O>
+toe	VB	_ <O>
+the	DT	_ <O>
+line	NN	_ <O>
+!	.	_ <O>
+”	NFP	_ <O>
+was	VBD	_ <O>
+echoed	VBN	_ <O>
+to	TO	_ <O>
+return	VB	_ <O>
+order	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+House	NNP	_ <O>
+and	CC	_ <O>
+to	TO	_ <O>
+quell	VB	_ <O>
+a	DT	_ <O>
+potential	JJ	_ <O>
+mortal	JJ	_ <O>
+conflict	NN	_ <O>
+.	.	_ <O>
+
+NULL

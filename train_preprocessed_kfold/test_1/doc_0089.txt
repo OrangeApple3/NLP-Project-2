@@ -1,0 +1,107 @@
+NULL
+But	CC	_ <O>
+,	,	_ <O>
+it	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+known	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+Osage	NNP	_ <O>
+Indians	NNPS	_ <O>
+were	VBD	_ <O>
+roaming	VBG	_ <O>
+on	IN	_ <O>
+lands	NNS	_ <O>
+north	RB	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Arkansas	NNP	_ <O>
+River	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+were	VBD	_ <O>
+a	DT	_ <O>
+fearless	JJ	_ <O>
+,	,	_ <O>
+happy	JJ	_ <O>
+people	NNS	_ <O>
+who	WP	_ <O>
+were	VBD	_ <O>
+more	JJR	_ <O>
+settled	VBN	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+Osage	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	<B-CUE>
+is	VBZ	<I-CUE>
+known	VBN	<I-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+tribes	NNS	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+area	NN	_ <O>
+were	VBD	_ <O>
+more	RBR	_ <O>
+settled	VBN	_ <O>
+and	CC	_ <O>
+were	VBD	_ <O>
+actually	RB	_ <O>
+farmers	NNS	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+way	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+town	NN	_ <O>
+'s	POS	_ <O>
+namesake	NN	_ <O>
+wild	JJ	_ <O>
+peas	NNS	_ <O>
+are	VBP	<B-CUE>
+believed	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+product	NN	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+early	JJ	_ <O>
+farming	NN	_ <O>
+,	,	_ <O>
+since	IN	_ <O>
+it	PRP	_ <O>
+would	MD	_ <O>
+have	VB	_ <O>
+taken	VBN	_ <O>
+many	JJ	_ <O>
+years	NNS	_ <O>
+of	IN	_ <O>
+preparation	NN	_ <O>
+and	CC	_ <O>
+cultivation	NN	_ <O>
+to	TO	_ <O>
+produce	VB	_ <O>
+them	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+Who	WP	_ <O>
+Lived	VBD	_ <O>
+in	IN	_ <O>
+Our	PRP$	_ <O>
+Area	NN	_ <O>
+Before	IN	_ <O>
+Our	PRP$	_ <O>
+Ancestors	NNPS	_ <O>
+Came	NNPS	_ <O>
+?	.	_ <O>
+
+NULL

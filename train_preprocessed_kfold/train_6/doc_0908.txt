@@ -1,0 +1,33 @@
+NULL
+The	DT	_ <O>
+first	JJ	_ <O>
+violin	NN	_ <O>
+competition	NN	_ <O>
+named	VBN	_ <O>
+after	IN	_ <O>
+Wieniawski	NNP	_ <O>
+took	VBD	_ <O>
+place	NN	_ <O>
+in	IN	_ <O>
+Warsaw	NNP	_ <O>
+in	IN	_ <O>
+1935	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+International	NNP	_ <O>
+Henryk	NNP	_ <O>
+Wieniawski	NNP	_ <O>
+Violin	NNP	_ <O>
+Competition	NNP	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+held	VBN	_ <O>
+every	DT	_ <O>
+five	CD	_ <O>
+years	NNS	_ <O>
+since	IN	_ <O>
+1952	CD	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,126 @@
+NULL
+The	DT	_ <O>
+most	RBS	_ <O>
+recent	JJ	_ <O>
+expansion	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+college	NN	_ <O>
+came	VBD	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1960s	NNS	_ <O>
+,	,	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+closure	NN	_ <O>
+of	IN	_ <O>
+Beef	NNP	_ <O>
+Lane	NNP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+north	NN	_ <O>
+of	IN	_ <O>
+Chapel	NNP	_ <O>
+Quad	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+private	JJ	_ <O>
+houses	NNS	_ <O>
+north	RB	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+closed	VBN	_ <O>
+road	NN	_ <O>
+were	VBD	_ <O>
+acquired	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+College	NNP	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+piecemeal	JJ	_ <O>
+fashion	NN	_ <O>
+and	CC	_ <O>
+reversed	VBD	_ <O>
+so	IN	_ <O>
+that	IN	_ <O>
+access	NN	_ <O>
+was	VBD	_ <O>
+only	RB	_ <O>
+possible	JJ	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+rear	NN	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+modern	JJ	_ <O>
+annex	NN	_ <O>
+was	VBD	_ <O>
+built	VBN	_ <O>
+near	IN	_ <O>
+to	IN	_ <O>
+college	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+banks	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Isis	NNP	_ <O>
+at	IN	_ <O>
+Grandpont	NNP	_ <O>
+,	,	_ <O>
+provides	VBZ	_ <O>
+accommodation	NN	_ <O>
+for	IN	_ <O>
+almost	RB	_ <O>
+a	DT	_ <O>
+hundred	CD	_ <O>
+undergraduates	NNS	_ <O>
+,	,	_ <O>
+usually	RB	_ <O>
+those	DT	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+final	JJ	_ <O>
+year	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+building	NN	_ <O>
+is	VBZ	<B-CUE>
+commonly	RB	<I-CUE>
+known	VBN	<I-CUE>
+as	IN	_ <O>
+"	``	_ <O>
+The	DT	_ <O>
+GAB	NNP	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+after	IN	_ <O>
+being	VBG	_ <O>
+named	VBN	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+diplomat	NN	_ <O>
+Sir	NNP	_ <O>
+Geoffrey	NNP	_ <O>
+Arthur—a	NNP	_ <O>
+former	JJ	_ <O>
+master	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+college	NN	_ <O>
+(	-LRB-	_ <O>
+1975	CD	_ <O>
+-	SYM	_ <O>
+1985	CD	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,89 @@
+NULL
+She	PRP	_ <O>
+is	VBZ	_ <O>
+generally	RB	_ <O>
+weak	JJ	_ <O>
+-	:	_ <O>
+more	RBR	_ <O>
+so	RB	_ <O>
+when	WRB	_ <O>
+her	PRP$	_ <O>
+staff	NN	_ <O>
+breaks	VBZ	_ <O>
+under	IN	_ <O>
+Misha	NNP	_ <O>
+'s	POS	_ <O>
+angelic	JJ	_ <O>
+influence	NN	_ <O>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+Misha	NNP	_ <O>
+sacrifices	NNS	_ <O>
+herself	PRP	_ <O>
+by	IN	_ <O>
+making	VBG	_ <O>
+some	DT	<B-CUE>
+kind	NN	<I-CUE>
+of	IN	<I-CUE>
+medicine	NN	<I-CUE>
+that	WDT	_ <O>
+made	VBD	_ <O>
+people	NNS	_ <O>
+forget	VB	_ <O>
+her	PRP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+remember	VB	_ <O>
+Shia	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Once	IN	_ <O>
+the	DT	_ <O>
+people	NNS	_ <O>
+remembered	VBD	_ <O>
+Shia	NNP	_ <O>
+,	,	_ <O>
+Shia	NNP	_ <O>
+came	VBD	_ <O>
+back	RB	_ <O>
+to	IN	_ <O>
+life	NN	_ <O>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+Shima	NNP	_ <O>
+becomes	VBZ	_ <O>
+too	RB	_ <O>
+weak	JJ	_ <O>
+and	CC	_ <O>
+almost	RB	_ <O>
+takes	VBZ	_ <O>
+Kotaroh	NNP	_ <O>
+'s	POS	_ <O>
+life	NN	_ <O>
+force	NN	_ <O>
+,	,	_ <O>
+she	PRP	_ <O>
+goes	VBZ	_ <O>
+with	IN	_ <O>
+Klaus	NNP	_ <O>
+(	-LRB-	_ <O>
+Nya	NNP	_ <O>
+)	-RRB-	_ <O>
+who	WP	_ <O>
+erases	VBZ	_ <O>
+her	PRP$	_ <O>
+memory	NN	_ <O>
+of	IN	_ <O>
+Taro	NNP	_ <O>
+and	CC	_ <O>
+her	PRP$	_ <O>
+children	NNS	_ <O>
+.	.	_ <O>
+
+NULL

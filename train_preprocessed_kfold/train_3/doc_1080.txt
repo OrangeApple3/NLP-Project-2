@@ -1,0 +1,67 @@
+NULL
+Albino	JJ	_ <O>
+squirrels	NNS	_ <O>
+are	VBP	<B-CUE>
+thought	VBN	<I-CUE>
+by	IN	_ <O>
+some	DT	<B-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+a	DT	_ <O>
+source	NN	_ <O>
+of	IN	_ <O>
+good	JJ	_ <O>
+luck	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Albino	NNP	_ <O>
+Squirrel	NNP	_ <O>
+Preservation	NNP	_ <O>
+Society	NNP	_ <O>
+was	VBD	_ <O>
+founded	VBN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+University	NNP	_ <O>
+of	IN	_ <O>
+Texas	NNP	_ <O>
+at	IN	_ <O>
+Austin	NNP	_ <O>
+in	IN	_ <O>
+2001	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+its	PRP$	_ <O>
+sister	NN	_ <O>
+chapter	NN	_ <O>
+at	IN	_ <O>
+University	NNP	_ <O>
+of	IN	_ <O>
+North	NNP	_ <O>
+Texas	NNP	_ <O>
+petitioned	VBD	_ <O>
+for	IN	_ <O>
+an	DT	_ <O>
+election	NN	_ <O>
+to	TO	_ <O>
+name	VB	_ <O>
+their	PRP$	_ <O>
+albino	JJ	_ <O>
+squirrel	NN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+university	NN	_ <O>
+'s	POS	_ <O>
+secondary	JJ	_ <O>
+mascot	NN	_ <O>
+(	-LRB-	_ <O>
+the	DT	_ <O>
+election	NN	_ <O>
+narrowly	RB	_ <O>
+failed	VBD	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

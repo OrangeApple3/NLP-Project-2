@@ -1,0 +1,76 @@
+NULL
+In	IN	_ <O>
+Sri	NNP	_ <O>
+Lanka	NNP	_ <O>
+,	,	_ <O>
+polyandry	JJ	_ <O>
+was	VBD	_ <O>
+practiced	VBN	_ <O>
+(	-LRB-	_ <O>
+though	IN	_ <O>
+not	RB	_ <O>
+widespread	JJ	_ <O>
+)	-RRB-	_ <O>
+till	IN	_ <O>
+recent	JJ	_ <O>
+times	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+the	DT	_ <O>
+Buddhist	NNP	_ <O>
+texts	NNS	_ <O>
+were	VBD	_ <O>
+translated	VBN	_ <O>
+into	IN	_ <O>
+Chinese	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+concubines	NNS	_ <O>
+of	IN	_ <O>
+others	NNS	_ <O>
+were	VBD	_ <O>
+added	VBN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+list	NN	_ <O>
+of	IN	_ <O>
+inappropriate	JJ	_ <O>
+partners	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+Tibet	NNP	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+,	,	_ <O>
+both	CC	_ <O>
+polygyny	NN	_ <O>
+and	CC	_ <O>
+polyandry	JJ	_ <O>
+were	VBD	_ <O>
+commonly	RB	_ <O>
+practiced	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Having	VBG	_ <O>
+several	JJ	_ <O>
+wives	NNS	_ <O>
+or	CC	_ <O>
+several	JJ	_ <O>
+husbands	NNS	_ <O>
+was	VBD	_ <O>
+never	RB	_ <O>
+regarded	VBN	_ <O>
+as	IN	_ <O>
+having	VBG	_ <O>
+sex	NN	_ <O>
+with	IN	_ <O>
+inappropriate	JJ	_ <O>
+partners	NNS	_ <O>
+.	.	_ <O>
+
+NULL

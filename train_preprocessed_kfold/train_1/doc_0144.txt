@@ -1,0 +1,114 @@
+NULL
+One	CD	_ <O>
+of	IN	_ <O>
+them	PRP	_ <O>
+,	,	_ <O>
+Marcusson	NNP	_ <O>
+,	,	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+positive	JJ	_ <O>
+thinker	NN	_ <O>
+who	WP	_ <O>
+believes	VBZ	_ <O>
+that	IN	_ <O>
+people	NNS	_ <O>
+are	VBP	_ <O>
+alike	RB	_ <O>
+all	RB	_ <O>
+over	RB	_ <O>
+,	,	_ <O>
+even	RB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+Red	NNP	_ <O>
+Planet	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+other	JJ	_ <O>
+astronaut	NN	_ <O>
+,	,	_ <O>
+Conrad	NNP	_ <O>
+,	,	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+more	RBR	_ <O>
+cynical	JJ	_ <O>
+view	NN	_ <O>
+of	IN	_ <O>
+human	JJ	_ <O>
+interplanetary	JJ	_ <O>
+nature	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Expecting	VBG	_ <O>
+some	DT	<B-CUE>
+unnameable	JJ	<I-CUE>
+evil	NN	<I-CUE>
+,	,	_ <O>
+he	PRP	_ <O>
+finds	VBZ	_ <O>
+his	PRP$	_ <O>
+apprehension	NN	_ <O>
+turning	VBG	_ <O>
+to	IN	_ <O>
+joy	NN	_ <O>
+when	WRB	_ <O>
+,	,	_ <O>
+upon	IN	_ <O>
+opening	VBG	_ <O>
+the	DT	_ <O>
+hatch	NN	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+sees	VBZ	_ <O>
+Martians	NNPS	_ <O>
+that	IN	_ <O>
+indeed	RB	_ <O>
+appear	VB	_ <O>
+human	NN	_ <O>
+,	,	_ <O>
+have	VBP	_ <O>
+mind	NN	_ <O>
+-	HYPH	_ <O>
+reading	VBG	_ <O>
+abilities	NNS	_ <O>
+and	CC	_ <O>
+give	VB	_ <O>
+the	DT	_ <O>
+impression	NN	_ <O>
+of	IN	_ <O>
+being	VBG	_ <O>
+most	RBS	_ <O>
+amicable	JJ	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+the	DT	_ <O>
+beautiful	JJ	_ <O>
+Teenya	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+welcomes	VBZ	_ <O>
+and	CC	_ <O>
+reassures	VBZ	_ <O>
+him	PRP	_ <O>
+.	.	_ <O>
+
+NULL
+People	NNS	_ <O>
+'	``	_ <O>
+are	VBP	_ <O>
+'	''	_ <O>
+alike	RB	_ <O>
+....	NFP	_ <O>
+people	NNS	_ <O>
+are	VBP	_ <O>
+alike	JJ	_ <O>
+everywhere	RB	_ <O>
+!	.	_ <O>
+"	''	_ <O>
+
+NULL

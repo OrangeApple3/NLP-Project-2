@@ -1,0 +1,110 @@
+NULL
+Tongva	NNP	_ <O>
+dwellings	NNS	_ <O>
+lined	VBD	_ <O>
+the	DT	_ <O>
+Arroyo	NNP	_ <O>
+Seco	NNP	_ <O>
+(	-LRB-	_ <O>
+Los	NNP	_ <O>
+Angeles	NNP	_ <O>
+County	NNP	_ <O>
+)	-RRB-	_ <O>
+in	IN	_ <O>
+Pasadena	NNP	_ <O>
+and	CC	_ <O>
+south	NN	_ <O>
+to	IN	_ <O>
+where	WRB	_ <O>
+it	PRP	_ <O>
+joins	VBZ	_ <O>
+the	DT	_ <O>
+Los	NNP	_ <O>
+Angeles	NNP	_ <O>
+River	NNP	_ <O>
+and	CC	_ <O>
+along	IN	_ <O>
+other	JJ	_ <O>
+natural	JJ	_ <O>
+waterways	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+city	NN	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+food	NN	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+lived	VBD	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+diet	NN	_ <O>
+of	IN	_ <O>
+acorn	JJ	_ <O>
+meal	NN	_ <O>
+,	,	_ <O>
+seeds	NNS	_ <O>
+and	CC	_ <O>
+herbs	NNS	_ <O>
+,	,	_ <O>
+venison	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+small	JJ	_ <O>
+animals	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+the	DT	_ <O>
+Spanish	JJ	_ <O>
+occupied	VBD	_ <O>
+the	DT	_ <O>
+Los	NNP	_ <O>
+Angeles	NNP	_ <O>
+Basin	NNP	_ <O>
+they	PRP	_ <O>
+built	VBD	_ <O>
+the	DT	_ <O>
+San	NNP	_ <O>
+Gabriel	NNP	_ <O>
+Mission	NNP	_ <O>
+and	CC	_ <O>
+renamed	VBD	_ <O>
+the	DT	_ <O>
+local	JJ	_ <O>
+Tongva	NNP	_ <O>
+people	NNS	_ <O>
+"	''	_ <O>
+Gabrielino	NNP	_ <O>
+Indians	NNPS	_ <O>
+,	,	_ <O>
+"	''	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+name	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+mission	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Today	NN	_ <O>
+,	,	_ <O>
+several	JJ	<B-CUE>
+bands	NNS	<I-CUE>
+of	IN	<I-CUE>
+Tongva	NNP	<I-CUE>
+people	NNS	<I-CUE>
+live	VB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+Los	NNP	_ <O>
+Angeles	NNP	_ <O>
+area	NN	_ <O>
+.	.	_ <O>
+
+NULL

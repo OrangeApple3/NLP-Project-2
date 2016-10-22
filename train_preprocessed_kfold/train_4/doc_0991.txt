@@ -1,0 +1,122 @@
+NULL
+His	PRP$	_ <O>
+best	RBS	<B-CUE>
+-	HYPH	<I-CUE>
+known	VBN	<I-CUE>
+works	NNS	_ <O>
+are	VBP	_ <O>
+video	JJ	_ <O>
+art	NN	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+featuring	VBG	_ <O>
+teenagers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+best	RBS	<B-CUE>
+known	VBN	<I-CUE>
+work	NN	_ <O>
+is	VBZ	_ <O>
+'	``	_ <O>
+They	PRP	_ <O>
+Shoot	VBP	_ <O>
+Horses	NNS	_ <O>
+'	POS	_ <O>
+(	-LRB-	_ <O>
+2004	CD	_ <O>
+)	-RRB-	_ <O>
+consisting	VBG	_ <O>
+of	IN	_ <O>
+two	CD	_ <O>
+videos	NNS	_ <O>
+each	DT	_ <O>
+lasting	VBG	_ <O>
+seven	CD	_ <O>
+hours	NNS	_ <O>
+and	CC	_ <O>
+shown	VBN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+time	NN	_ <O>
+on	IN	_ <O>
+different	JJ	_ <O>
+walls	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Music	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+last	JJ	_ <O>
+three	CD	_ <O>
+decades	NNS	_ <O>
+is	VBZ	_ <O>
+played	VBN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+young	JJ	_ <O>
+people	NNS	_ <O>
+are	VBP	_ <O>
+captured	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+single	JJ	_ <O>
+camera	NN	_ <O>
+take	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+they	PRP	_ <O>
+dance	VBP	_ <O>
+or	CC	_ <O>
+,	,	_ <O>
+at	IN	_ <O>
+times	NNS	_ <O>
+,	,	_ <O>
+stand	VB	_ <O>
+round	NN	_ <O>
+or	CC	_ <O>
+slump	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+floor	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Another	DT	_ <O>
+similar	JJ	_ <O>
+work	NN	_ <O>
+was	VBD	_ <O>
+'	``	_ <O>
+The	DT	_ <O>
+World	NNP	_ <O>
+Wo	MD	_ <O>
+n't	RB	_ <O>
+Listen	VB	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+2005	CD	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+features	VBZ	_ <O>
+young	JJ	_ <O>
+people	NNS	_ <O>
+in	IN	_ <O>
+Turkey	NNP	_ <O>
+,	,	_ <O>
+Colombia	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Indonesia	NNP	_ <O>
+performing	VBG	_ <O>
+karaoke	NN	_ <O>
+versions	NNS	_ <O>
+of	IN	_ <O>
+Smiths	NNP	_ <O>
+songs	NNS	_ <O>
+..	.	_ <O>
+
+NULL

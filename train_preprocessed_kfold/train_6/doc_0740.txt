@@ -1,0 +1,89 @@
+NULL
+However	RB	_ <O>
+,	,	_ <O>
+recently	RB	_ <O>
+it	PRP	<B-CUE>
+has	VBZ	<I-CUE>
+been	VBN	<I-CUE>
+said	VBN	<I-CUE>
+that	IN	_ <O>
+"	``	_ <O>
+Shadows	NNPS	_ <O>
+and	CC	_ <O>
+Regrets	NNPS	_ <O>
+"	''	_ <O>
+is	VBZ	_ <O>
+about	IN	_ <O>
+Scott	NNP	_ <O>
+Shad	NNP	_ <O>
+,	,	_ <O>
+former	JJ	_ <O>
+drummer	NN	_ <O>
+of	IN	_ <O>
+Inspection	NNP	_ <O>
+12	CD	_ <O>
+and	CC	_ <O>
+best	JJS	_ <O>
+friend	NN	_ <O>
+of	IN	_ <O>
+Ryan	NNP	_ <O>
+Key	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+died	VBD	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+car	NN	_ <O>
+crash	NN	_ <O>
+.	.	_ <O>
+
+NULL
+And	CC	_ <O>
+we	PRP	_ <O>
+were	VBD	_ <O>
+best	JJS	_ <O>
+of	IN	_ <O>
+friends	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+And	CC	_ <O>
+we	PRP	_ <O>
+hoped	VBD	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+best	JJS	_ <O>
+.	.	_ <O>
+
+NULL
+While	IN	_ <O>
+this	DT	_ <O>
+could	MD	_ <O>
+understandably	RB	_ <O>
+be	VB	_ <O>
+about	IN	_ <O>
+Ben	NNP	_ <O>
+Harper	NNP	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+and	CC	_ <O>
+Key	NNP	_ <O>
+only	RB	_ <O>
+met	VBD	_ <O>
+in	IN	_ <O>
+high	JJ	_ <O>
+school	NN	_ <O>
+,	,	_ <O>
+whereas	IN	_ <O>
+Key	NNP	_ <O>
+and	CC	_ <O>
+Shad	NNP	_ <O>
+knew	VBD	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+their	PRP$	_ <O>
+entire	JJ	_ <O>
+lives	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,58 @@
+NULL
+'	``	_ <O>
+Area	NN	_ <O>
+-	HYPH	_ <O>
+International	NNP	_ <O>
+POPular	NNP	_ <O>
+Group	NNP	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+most	RBS	<B-CUE>
+commonly	RB	<I-CUE>
+known	VBN	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+AreA	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+was	VBD	_ <O>
+an	DT	_ <O>
+Italian	JJ	_ <O>
+jazz	NN	_ <O>
+fusion	NN	_ <O>
+and	CC	_ <O>
+progressive	JJ	_ <O>
+rock	NN	_ <O>
+group	NN	_ <O>
+formed	VBN	_ <O>
+in	IN	_ <O>
+1972	CD	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+were	VBD	_ <O>
+known	VBN	_ <O>
+for	IN	_ <O>
+their	PRP$	_ <O>
+left	JJ	_ <O>
+-	HYPH	_ <O>
+wing	NN	_ <O>
+Socialist	NNP	_ <O>
+and	CC	_ <O>
+Communist	JJ	_ <O>
+lyrics	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Their	PRP$	_ <O>
+singer	NN	_ <O>
+was	VBD	_ <O>
+the	DT	_ <O>
+reek	NN	_ <O>
+born	VBN	_ <O>
+Demetrio	NNP	_ <O>
+Stratos	NNP	_ <O>
+.	.	_ <O>
+
+NULL

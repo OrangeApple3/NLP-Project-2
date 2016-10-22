@@ -1,0 +1,114 @@
+NULL
+Despite	IN	_ <O>
+offering	VBG	_ <O>
+a	DT	_ <O>
+good	JJ	_ <O>
+viewer	NN	_ <O>
+experience	NN	_ <O>
+,	,	_ <O>
+traditional	JJ	_ <O>
+star	NN	_ <O>
+ball	NN	_ <O>
+projectors	NNS	_ <O>
+suffer	VBP	_ <O>
+several	JJ	_ <O>
+inherent	JJ	_ <O>
+limitations	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+From	IN	_ <O>
+a	DT	_ <O>
+practical	JJ	_ <O>
+point	NN	_ <O>
+of	IN	_ <O>
+view	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+low	JJ	_ <O>
+light	NN	_ <O>
+levels	NNS	_ <O>
+require	VBP	_ <O>
+several	JJ	_ <O>
+minutes	NNS	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+audience	NN	_ <O>
+to	TO	_ <O>
+"	``	_ <O>
+dark	JJ	_ <O>
+adapt	NNS	_ <O>
+"	''	_ <O>
+its	PRP$	_ <O>
+eyesight	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Finally	RB	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+challenge	NN	_ <O>
+for	IN	_ <O>
+most	JJS	_ <O>
+traditional	JJ	_ <O>
+projectors	NNS	_ <O>
+is	VBZ	_ <O>
+that	IN	_ <O>
+the	DT	_ <O>
+various	JJ	_ <O>
+overlaid	VBN	_ <O>
+projection	NN	_ <O>
+systems	NNS	_ <O>
+are	VBP	_ <O>
+incapable	JJ	_ <O>
+of	IN	_ <O>
+proper	JJ	_ <O>
+occultation	NN	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+related	JJ	_ <O>
+reasons	NNS	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+planetariums	NNS	<I-CUE>
+show	VB	_ <O>
+stars	NNS	_ <O>
+below	IN	_ <O>
+the	DT	_ <O>
+horizon	NN	_ <O>
+projecting	VBG	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+walls	NNS	_ <O>
+below	IN	_ <O>
+the	DT	_ <O>
+dome	NN	_ <O>
+or	CC	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+floor	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+(	-LRB-	_ <O>
+with	IN	_ <O>
+a	DT	_ <O>
+bright	JJ	_ <O>
+star	NN	_ <O>
+or	CC	_ <O>
+a	DT	_ <O>
+planet	NN	_ <O>
+)	-RRB-	_ <O>
+shining	VBG	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+eyes	NNS	_ <O>
+of	IN	_ <O>
+someone	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+audience	NN	_ <O>
+.	.	_ <O>
+
+NULL

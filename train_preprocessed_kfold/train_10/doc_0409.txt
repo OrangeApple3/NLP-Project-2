@@ -1,0 +1,155 @@
+NULL
+While	IN	_ <O>
+in	IN	_ <O>
+England	NNP	_ <O>
+,	,	_ <O>
+Heraclius	NNP	_ <O>
+consecrated	VBD	_ <O>
+the	DT	_ <O>
+Temple	NNP	_ <O>
+Church	NNP	_ <O>
+in	IN	_ <O>
+London	NNP	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+English	JJ	_ <O>
+headquarters	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Knights	NNPS	_ <O>
+Templar	NNP	_ <O>
+;	:	_ <O>
+for	IN	_ <O>
+which	WDT	_ <O>
+act	NN	_ <O>
+he	PRP	_ <O>
+is	VBZ	<B-CUE>
+perhaps	RB	<I-CUE>
+best	JJS	<I-CUE>
+remembered	VBN	<I-CUE>
+in	IN	_ <O>
+England	NNP	_ <O>
+today	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+chronicler	NN	_ <O>
+Ralph	NNP	_ <O>
+Niger	NNP	_ <O>
+reports	VBZ	_ <O>
+that	IN	_ <O>
+on	IN	_ <O>
+this	DT	_ <O>
+mission	NN	_ <O>
+Eraclius	NNP	_ <O>
+offered	VBD	_ <O>
+the	DT	_ <O>
+kingship	NN	_ <O>
+of	IN	_ <O>
+Jerusalem	NNP	_ <O>
+to	IN	_ <O>
+Philip	NNP	_ <O>
+II	NNP	_ <O>
+of	IN	_ <O>
+France	NNP	_ <O>
+and	CC	_ <O>
+Henry	NNP	_ <O>
+II	NNP	_ <O>
+of	IN	_ <O>
+England	NNP	_ <O>
+(	-LRB-	_ <O>
+but	CC	_ <O>
+both	CC	_ <O>
+turned	VBD	_ <O>
+him	PRP	_ <O>
+down	RP	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+to	IN	_ <O>
+any	DT	_ <O>
+other	JJ	_ <O>
+prince	NN	_ <O>
+he	PRP	_ <O>
+came	VBD	_ <O>
+across	IN	_ <O>
+.	.	_ <O>
+
+NULL
+Ralph	NNP	_ <O>
+claimed	VBD	_ <O>
+that	IN	_ <O>
+Heraclius	NNP	_ <O>
+'s	POS	_ <O>
+enormous	JJ	_ <O>
+retinue	NN	_ <O>
+and	CC	_ <O>
+opulent	JJ	_ <O>
+dress	NN	_ <O>
+offended	VBD	_ <O>
+the	DT	_ <O>
+sensibilities	NNS	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+westerners	NNS	<I-CUE>
+,	,	_ <O>
+who	WP	_ <O>
+felt	VBD	_ <O>
+they	PRP	_ <O>
+were	VBD	_ <O>
+not	RB	_ <O>
+befitting	VBG	_ <O>
+a	DT	_ <O>
+patriarch	NN	_ <O>
+;	:	_ <O>
+surely	RB	_ <O>
+if	IN	_ <O>
+the	DT	_ <O>
+east	NN	_ <O>
+was	VBD	_ <O>
+so	RB	_ <O>
+wealthy	JJ	_ <O>
+,	,	_ <O>
+no	UH	_ <O>
+help	NN	_ <O>
+was	VBD	_ <O>
+needed	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+west	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+,	,	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+unprepared	JJ	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+Byzantine	JJ	_ <O>
+style	NN	_ <O>
+of	IN	_ <O>
+dress	NN	_ <O>
+favoured	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+court	NN	_ <O>
+of	IN	_ <O>
+Jerusalem	NNP	_ <O>
+since	IN	_ <O>
+Amalric	NNP	_ <O>
+I	PRP	_ <O>
+'s	POS	_ <O>
+marriage	NN	_ <O>
+to	IN	_ <O>
+Maria	NNP	_ <O>
+Comnena	NNP	_ <O>
+.	.	_ <O>
+
+NULL

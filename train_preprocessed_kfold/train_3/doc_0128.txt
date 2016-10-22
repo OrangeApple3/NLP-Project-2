@@ -1,0 +1,89 @@
+NULL
+Other	JJ	_ <O>
+expressions	NNS	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+disease	NN	_ <O>
+consist	NN	_ <O>
+of	IN	_ <O>
+an	DT	_ <O>
+almost	RB	_ <O>
+obsessive	JJ	_ <O>
+need	NN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+glass	NN	_ <O>
+of	IN	_ <O>
+water	NN	_ <O>
+while	IN	_ <O>
+eating	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+Certain	JJ	_ <O>
+patients	NNS	_ <O>
+suffering	VBG	_ <O>
+from	IN	_ <O>
+phagophobia	NNS	_ <O>
+may	MD	_ <O>
+fly	VB	_ <O>
+into	IN	_ <O>
+mild	JJ	_ <O>
+seizures	NNS	_ <O>
+and/or	XX	_ <O>
+irrational	JJ	_ <O>
+rages	NNS	_ <O>
+if	IN	_ <O>
+deprived	VBN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+water	NN	_ <O>
+while	IN	_ <O>
+eating	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+During	IN	_ <O>
+these	DT	_ <O>
+rages	NNS	_ <O>
+,	,	_ <O>
+phagophobia	VB	_ <O>
+some	DT	_ <O>
+patients	NNS	_ <O>
+have	VBP	_ <O>
+a	DT	_ <O>
+tendency	NN	_ <O>
+to	TO	_ <O>
+rapidly	RB	_ <O>
+walk	VB	_ <O>
+around	IN	_ <O>
+the	DT	_ <O>
+room	NN	_ <O>
+holding	VBG	_ <O>
+an	DT	_ <O>
+empty	JJ	_ <O>
+glass	NN	_ <O>
+in	IN	_ <O>
+one	CD	_ <O>
+hand	NN	_ <O>
+while	IN	_ <O>
+plugging	VBG	_ <O>
+their	PRP$	_ <O>
+ear	NN	_ <O>
+with	IN	_ <O>
+their	PRP$	_ <O>
+other	JJ	_ <O>
+hand	NN	_ <O>
+.	.	_ <O>
+
+NULL
+These	DT	_ <O>
+and	CC	_ <O>
+other	JJ	<B-CUE>
+symptoms	NNS	<I-CUE>
+have	VBP	<B-CUE>
+been	VBN	<I-CUE>
+observed	VBN	<I-CUE>
+.	.	_ <O>
+
+NULL

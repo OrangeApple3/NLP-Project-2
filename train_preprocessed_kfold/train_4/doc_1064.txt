@@ -1,0 +1,80 @@
+NULL
+You	PRP	_ <O>
+can	MD	_ <O>
+find	VB	_ <O>
+a	DT	_ <O>
+longer	JJR	_ <O>
+version	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+EU	NNP	_ <O>
+website	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+famous	JJ	<B-CUE>
+choral	JJ	_ <O>
+finale	NN	_ <O>
+is	VBZ	_ <O>
+Beethoven	NNP	_ <O>
+'s	POS	_ <O>
+musical	JJ	_ <O>
+representation	NN	_ <O>
+of	IN	_ <O>
+Universal	NNP	_ <O>
+Brotherhood	NNP	_ <O>
+and	CC	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+characterized	VBN	_ <O>
+by	IN	_ <O>
+Charles	NNP	_ <O>
+Rosen	NNP	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+symphony	NN	_ <O>
+within	IN	_ <O>
+a	DT	_ <O>
+symphony	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+contains	VBZ	_ <O>
+four	CD	_ <O>
+movements	NNS	_ <O>
+played	VBD	_ <O>
+without	IN	_ <O>
+interruption	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+"	``	_ <O>
+inner	JJ	_ <O>
+symphony	NN	_ <O>
+"	''	_ <O>
+follows	VBZ	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+overall	JJ	_ <O>
+pattern	NN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+Ninth	JJ	_ <O>
+Symphony	NNP	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+whole	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+scheme	NN	_ <O>
+is	VBZ	_ <O>
+as	IN	_ <O>
+follows	VBZ	_ <O>
+:	:	_ <O>
+
+NULL

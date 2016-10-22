@@ -1,0 +1,97 @@
+NULL
+A	DT	_ <O>
+chest	NN	_ <O>
+tube	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+inserted	VBN	_ <O>
+,	,	_ <O>
+often	RB	_ <O>
+using	VBG	_ <O>
+ultrasound	NN	_ <O>
+guidance	NN	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+this	DT	_ <O>
+is	VBZ	_ <O>
+insufficient	JJ	_ <O>
+,	,	_ <O>
+surgical	JJ	_ <O>
+debridement	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+pleural	JJ	_ <O>
+space	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+required	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	_ <O>
+frequently	RB	_ <O>
+done	VBN	_ <O>
+using	VBG	_ <O>
+thoracoscopic	NN	_ <O>
+techniques	NNS	_ <O>
+but	CC	_ <O>
+if	IN	_ <O>
+the	DT	_ <O>
+the	DT	_ <O>
+disease	NN	_ <O>
+is	VBZ	_ <O>
+chronic	JJ	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+limited	VBN	_ <O>
+thoracotomy	NN	_ <O>
+may	MD	_ <O>
+be	VB	_ <O>
+necessary	JJ	_ <O>
+to	TO	_ <O>
+fully	RB	_ <O>
+drain	VB	_ <O>
+the	DT	_ <O>
+empyema	NN	_ <O>
+and	CC	_ <O>
+remove	VB	_ <O>
+the	DT	_ <O>
+filbrinopurulent	NN	_ <O>
+excudate	NN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+lung	NN	_ <O>
+and	CC	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+chest	NN	_ <O>
+wall	NN	_ <O>
+.	.	_ <O>
+
+NULL
+To	TO	_ <O>
+combat	VB	_ <O>
+this	DT	_ <O>
+problem	NN	_ <O>
+,	,	_ <O>
+surgeons	NNS	_ <O>
+will	MD	_ <O>
+often	RB	_ <O>
+place	VB	_ <O>
+large	JJ	_ <O>
+bore	JJ	_ <O>
+chest	NN	_ <O>
+tubes	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+one	CD	_ <O>
+chest	NN	_ <O>
+tube	NN	_ <O>
+.	.	_ <O>
+
+NULL

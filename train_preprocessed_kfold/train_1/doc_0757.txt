@@ -1,0 +1,81 @@
+NULL
+The	DT	_ <O>
+simplicity	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+basic	JJ	_ <O>
+combination	NN	_ <O>
+invites	VBZ	_ <O>
+variations	NNS	_ <O>
+,	,	_ <O>
+either	RB	_ <O>
+by	IN	_ <O>
+adding	VBG	_ <O>
+other	JJ	_ <O>
+ingredients	NNS	_ <O>
+or	CC	_ <O>
+substituting	VBG	_ <O>
+other	JJ	_ <O>
+herbs	NNS	_ <O>
+,	,	_ <O>
+e.g.	RB	_ <O>
+bay	NN	_ <O>
+leaf	NN	_ <O>
+,	,	_ <O>
+oregano	NN	_ <O>
+,	,	_ <O>
+basil	NN	_ <O>
+or	CC	_ <O>
+tarragon	NN	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+parsley	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Anchovy	NNP	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+common	JJ	_ <O>
+addition	NN	_ <O>
+in	IN	_ <O>
+Provençal	NNP	_ <O>
+cooking	NN	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+small	JJ	_ <O>
+amount	NN	_ <O>
+of	IN	_ <O>
+olive	JJ	_ <O>
+oil	NN	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+added	VBN	_ <O>
+to	IN	_ <O>
+persillade	VB	_ <O>
+to	TO	_ <O>
+make	VB	_ <O>
+it	PRP	_ <O>
+easier	JJR	_ <O>
+to	TO	_ <O>
+work	VB	_ <O>
+with	IN	_ <O>
+.	.	_ <O>
+
+NULL
+Adding	VBG	_ <O>
+more	RBR	_ <O>
+olive	JJ	_ <O>
+oil	NN	_ <O>
+and	CC	_ <O>
+perhaps	RB	<B-CUE>
+some	DT	_ <O>
+grated	VBD	_ <O>
+Parmesan	NNP	_ <O>
+produces	VBZ	_ <O>
+Pistou	NNP	_ <O>
+.	.	_ <O>
+
+NULL

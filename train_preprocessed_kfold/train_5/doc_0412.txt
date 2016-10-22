@@ -1,0 +1,81 @@
+NULL
+They	PRP	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+jazz	NN	_ <O>
+or	CC	_ <O>
+blues	NNS	_ <O>
+music	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+bristles	NNS	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+made	VBN	_ <O>
+of	IN	_ <O>
+metal	NN	_ <O>
+or	CC	_ <O>
+plastic	NN	_ <O>
+;	:	_ <O>
+handles	NNS	_ <O>
+are	VBP	_ <O>
+commonly	RB	_ <O>
+made	VBN	_ <O>
+of	IN	_ <O>
+wood	NN	_ <O>
+or	CC	_ <O>
+aluminum	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+coated	VBN	_ <O>
+with	IN	_ <O>
+rubber	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+non	AFX	_ <O>
+-	HYPH	_ <O>
+bristled	JJ	_ <O>
+end	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+brush	NN	_ <O>
+may	MD	_ <O>
+end	VB	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+loop	NN	_ <O>
+or	CC	_ <O>
+a	DT	_ <O>
+ball	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Though	IN	_ <O>
+most	JJS	<B-CUE>
+performers	NNS	<I-CUE>
+prefer	VB	_ <O>
+using	VBG	_ <O>
+metallic	JJ	_ <O>
+brushes	NNS	_ <O>
+,	,	_ <O>
+more	JJR	<B-CUE>
+now	RB	_ <O>
+use	VBP	_ <O>
+plastic	NN	_ <O>
+brushes	NNS	_ <O>
+because	IN	_ <O>
+of	IN	_ <O>
+their	PRP$	_ <O>
+increased	JJ	_ <O>
+durability	NN	_ <O>
+.	.	_ <O>
+
+NULL

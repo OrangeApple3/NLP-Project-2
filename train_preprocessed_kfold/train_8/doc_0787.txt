@@ -1,0 +1,101 @@
+NULL
+The	DT	_ <O>
+product	NN	_ <O>
+remained	VBD	_ <O>
+unavailable	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+until	IN	_ <O>
+only	RB	_ <O>
+recently	RB	_ <O>
+(	-LRB-	_ <O>
+The	DT	_ <O>
+U.S	NNP	_ <O>
+is	VBZ	_ <O>
+PepsiCo	NNP	_ <O>
+'s	POS	_ <O>
+native	JJ	_ <O>
+market	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+largest	JJS	_ <O>
+consumer	NN	_ <O>
+of	IN	_ <O>
+carbonated	JJ	_ <O>
+soft	JJ	_ <O>
+drinks	NNS	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+its	PRP$	_ <O>
+principal	JJ	_ <O>
+ingredients	NNS	_ <O>
+had	VBD	_ <O>
+not	RB	_ <O>
+yet	RB	_ <O>
+been	VBN	_ <O>
+approved	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Food	NNP	_ <O>
+and	CC	_ <O>
+Drug	NNP	_ <O>
+Administration	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+ingredient	NN	_ <O>
+in	IN	_ <O>
+question	NN	_ <O>
+-	HYPH	_ <O>
+acesulfame	NN	_ <O>
+potassium	NN	_ <O>
+-	HYPH	_ <O>
+is	VBZ	_ <O>
+combined	VBN	_ <O>
+with	IN	_ <O>
+aspartame	NN	_ <O>
+to	TO	_ <O>
+provide	VB	_ <O>
+the	DT	_ <O>
+beverage	NN	_ <O>
+'s	POS	_ <O>
+sweetness	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+people	NNS	<I-CUE>
+claim	NN	_ <O>
+that	IN	_ <O>
+this	DT	_ <O>
+results	VBZ	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+better	JJR	_ <O>
+taste	NN	_ <O>
+than	IN	_ <O>
+that	DT	_ <O>
+of	IN	_ <O>
+other	JJ	_ <O>
+diet	NN	_ <O>
+colas	NNS	_ <O>
+(	-LRB-	_ <O>
+most	JJS	<B-CUE>
+of	IN	_ <O>
+which	WDT	_ <O>
+are	VBP	_ <O>
+sweetened	VBN	_ <O>
+with	IN	_ <O>
+aspartame	NN	_ <O>
+alone	RB	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL

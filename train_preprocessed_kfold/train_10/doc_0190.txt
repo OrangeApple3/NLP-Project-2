@@ -1,0 +1,111 @@
+NULL
+Some	DT	<B-CUE>
+of	IN	<I-CUE>
+elected	VBN	<I-CUE>
+ones	NNS	<I-CUE>
+resigned	VBD	_ <O>
+while	IN	_ <O>
+the	DT	<B-CUE>
+others	NNS	<I-CUE>
+refused	VBD	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+most	RBS	_ <O>
+known	VBN	_ <O>
+person	NN	_ <O>
+who	WP	_ <O>
+did	VBD	_ <O>
+n't	RB	_ <O>
+resign	VB	_ <O>
+was	VBD	_ <O>
+newly	RB	_ <O>
+elected	VBN	_ <O>
+president	NN	_ <O>
+(	-LRB-	_ <O>
+=mayor	NNP	_ <O>
+)	-RRB-	_ <O>
+of	IN	_ <O>
+Warsaw	NNP	_ <O>
+,	,	_ <O>
+Hanna	NNP	_ <O>
+Gronkiewicz	NNP	_ <O>
+-	HYPH	_ <O>
+Waltz	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Polish	JJ	<B-CUE>
+legal	JJ	<I-CUE>
+experts	NNS	<I-CUE>
+maintained	VBD	_ <O>
+that	IN	_ <O>
+by	IN	_ <O>
+submitting	VBG	_ <O>
+their	PRP$	_ <O>
+statements	NNS	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+day	NN	_ <O>
+,	,	_ <O>
+Gronkiewicz	NNP	_ <O>
+-	HYPH	_ <O>
+Waltz	NNP	_ <O>
+had	VBD	_ <O>
+observed	VBN	_ <O>
+the	DT	_ <O>
+spirit	NN	_ <O>
+,	,	_ <O>
+even	RB	_ <O>
+if	IN	_ <O>
+not	RB	_ <O>
+the	DT	_ <O>
+letter	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+law	NN	_ <O>
+.	.	_ <O>
+
+NULL
+On	IN	_ <O>
+Tuesday	NNP	_ <O>
+,	,	_ <O>
+March	NNP	_ <O>
+13	CD	_ <O>
+,	,	_ <O>
+2007	CD	_ <O>
+,	,	_ <O>
+Poland	NNP	_ <O>
+'s	POS	_ <O>
+Constitutional	NNP	_ <O>
+Tribunal	NNP	_ <O>
+ruled	VBD	_ <O>
+against	IN	_ <O>
+the	DT	_ <O>
+governing	VBG	_ <O>
+Law	NNP	_ <O>
+and	CC	_ <O>
+Justice	NNP	_ <O>
+(	-LRB-	_ <O>
+PiS	NNP	_ <O>
+)	-RRB-	_ <O>
+party	NN	_ <O>
+and	CC	_ <O>
+struck	VBD	_ <O>
+down	RP	_ <O>
+the	DT	_ <O>
+controversial	JJ	_ <O>
+law	NN	_ <O>
+that	WDT	_ <O>
+threatened	VBD	_ <O>
+her	PRP	_ <O>
+and	CC	_ <O>
+many	JJ	<B-CUE>
+other	JJ	<I-CUE>
+public	JJ	<I-CUE>
+officials	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

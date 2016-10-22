@@ -1,0 +1,167 @@
+NULL
+The	DT	_ <O>
+volume	NN	_ <O>
+alternately	RB	_ <O>
+ranges	VBZ	_ <O>
+about	IN	_ <O>
+'	``	_ <O>
+mezzopiano	NN	_ <O>
+'	''	_ <O>
+and	CC	_ <O>
+'	``	_ <O>
+pianissimo	JJ	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+until	IN	_ <O>
+after	IN	_ <O>
+several	JJ	<B-CUE>
+almost	RB	<I-CUE>
+revealing	VBG	<I-CUE>
+seconds	NNS	<I-CUE>
+of	IN	_ <O>
+'	``	_ <O>
+forte	NN	_ <O>
+'	''	_ <O>
+the	DT	_ <O>
+pianist	NN	_ <O>
+has	VBZ	_ <O>
+the	DT	_ <O>
+music	NN	_ <O>
+retire	VB	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+'	``	_ <O>
+pianissimo	JJ	_ <O>
+'	''	_ <O>
+mystery	NN	_ <O>
+in	IN	_ <O>
+which	WDT	_ <O>
+it	PRP	_ <O>
+would	MD	_ <O>
+,	,	_ <O>
+it	PRP	_ <O>
+appears	VBZ	_ <O>
+,	,	_ <O>
+remain	VBP	_ <O>
+immersed	JJ	_ <O>
+indefinitely	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Over	IN	_ <O>
+the	DT	_ <O>
+next	JJ	_ <O>
+eight	CD	_ <O>
+bars	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+piano	NN	_ <O>
+'s	POS	_ <O>
+motions	NNS	_ <O>
+circle	NN	_ <O>
+ever	RB	_ <O>
+higher	RBR	_ <O>
+with	IN	_ <O>
+hardly	RB	<B-CUE>
+a	DT	_ <O>
+crescendo	NN	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+drop	VB	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+moment	NN	_ <O>
+,	,	_ <O>
+summoning	VBG	_ <O>
+force	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+music	NN	_ <O>
+hardly	RB	<B-CUE>
+grows	VBZ	_ <O>
+any	DT	_ <O>
+louder	JJR	_ <O>
+,	,	_ <O>
+only	RB	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+'	``	_ <O>
+piano	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+but	CC	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+emotionally	RB	_ <O>
+so	RB	_ <O>
+intense	JJ	_ <O>
+that	IN	_ <O>
+it	PRP	_ <O>
+can	MD	_ <O>
+not	RB	_ <O>
+possibly	RB	<B-CUE>
+remain	VBP	_ <O>
+there	RB	_ <O>
+.	.	_ <O>
+
+NULL
+Bassoons	NNS	_ <O>
+and	CC	_ <O>
+flutes	NNS	_ <O>
+enter	VBP	_ <O>
+one	CD	_ <O>
+after	IN	_ <O>
+another	DT	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+piano	NN	_ <O>
+goes	VBZ	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+more	RBR	_ <O>
+acute	JJ	_ <O>
+mezzoforte	NN	_ <O>
+run	NN	_ <O>
+,	,	_ <O>
+dense	JJ	_ <O>
+with	IN	_ <O>
+repeated	VBN	_ <O>
+notes	NNS	_ <O>
+,	,	_ <O>
+octaves	NNS	_ <O>
+and	CC	_ <O>
+fourths	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+For	IN	_ <O>
+several	JJ	<B-CUE>
+bars	NNS	<I-CUE>
+the	DT	_ <O>
+volume	NN	_ <O>
+draws	VBZ	_ <O>
+back	RP	_ <O>
+,	,	_ <O>
+then	RB	_ <O>
+erupts	VBZ	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+powerfully	RB	<B-CUE>
+sad	JJ	<I-CUE>
+'	``	_ <O>
+fortissimo	NN	_ <O>
+'	''	_ <O>
+with	IN	_ <O>
+heavy	JJ	_ <O>
+,	,	_ <O>
+dissonant	JJ	_ <O>
+chords	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+piano	NN	_ <O>
+part	NN	_ <O>
+.	.	_ <O>
+
+NULL

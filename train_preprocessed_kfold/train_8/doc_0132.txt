@@ -1,0 +1,103 @@
+NULL
+Skeptics	NNS	<B-CUE>
+such	JJ	_ <O>
+as	IN	_ <O>
+James	NNP	_ <O>
+Randi	NNP	_ <O>
+note	VB	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+little	JJ	_ <O>
+evidence	NN	_ <O>
+distinguishing	VBG	_ <O>
+automatic	JJ	_ <O>
+writing	NN	_ <O>
+claimed	VBD	<B-CUE>
+to	TO	<I-CUE>
+be	VB	<I-CUE>
+of	IN	_ <O>
+supernatural	JJ	_ <O>
+origins	NNS	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+parlor	NN	_ <O>
+game	NN	_ <O>
+that	WDT	_ <O>
+is	VBZ	_ <O>
+little	JJ	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+sparks	NNS	_ <O>
+of	IN	_ <O>
+creativity	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+minds	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+participants	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	<B-CUE>
+assert	VB	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+no	DT	_ <O>
+evidence	NN	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+anything	NN	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+subconscious	NN	_ <O>
+of	IN	_ <O>
+those	DT	_ <O>
+performing	VBG	_ <O>
+the	DT	_ <O>
+writing	NN	_ <O>
+influencing	VBG	_ <O>
+their	PRP$	_ <O>
+actions	NNS	_ <O>
+and	CC	_ <O>
+that	IN	_ <O>
+there	EX	_ <O>
+is	VBZ	_ <O>
+no	DT	_ <O>
+solid	JJ	_ <O>
+evidence	NN	_ <O>
+that	IN	_ <O>
+any	DT	_ <O>
+messages	NNS	_ <O>
+are	VBP	_ <O>
+coming	VBG	_ <O>
+from	IN	_ <O>
+anywhere	RB	_ <O>
+other	JJ	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+minds	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+person	NN	_ <O>
+holding	VBG	_ <O>
+the	DT	_ <O>
+pencil	NN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	_ <O>
+referred	VBN	_ <O>
+to	IN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+ideomotor	NN	_ <O>
+effect	NN	_ <O>
+.	.	_ <O>
+
+NULL

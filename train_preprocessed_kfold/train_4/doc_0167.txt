@@ -1,0 +1,93 @@
+NULL
+Because	IN	_ <O>
+PPS	NNP	_ <O>
+can	MD	_ <O>
+fatigue	VB	_ <O>
+facial	JJ	_ <O>
+muscles	NNS	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+cause	NN	_ <O>
+dysphagia	NN	_ <O>
+(	-LRB-	_ <O>
+difficulty	NN	_ <O>
+swallowing	VBG	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+dysarthria	NN	_ <O>
+(	-LRB-	_ <O>
+difficulty	NN	_ <O>
+speaking	VBG	_ <O>
+)	-RRB-	_ <O>
+or	CC	_ <O>
+aphonia	NN	_ <O>
+(	-LRB-	_ <O>
+inability	NN	_ <O>
+to	TO	_ <O>
+produce	VB	_ <O>
+speech	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+persons	NNS	_ <O>
+with	IN	_ <O>
+PPS	NNP	_ <O>
+may	MD	_ <O>
+become	VB	_ <O>
+malnourished	JJ	_ <O>
+due	IN	_ <O>
+to	IN	_ <O>
+difficulty	NN	_ <O>
+eating	VBG	_ <O>
+.	.	_ <O>
+
+NULL
+Severe	JJ	_ <O>
+cases	NNS	_ <O>
+may	MD	_ <O>
+require	VB	_ <O>
+permanent	JJ	_ <O>
+ventilation	NN	_ <O>
+or	CC	_ <O>
+tracheostomy	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Sleep	NNP	_ <O>
+apnoea	NN	_ <O>
+may	MD	_ <O>
+also	RB	_ <O>
+occur	VB	_ <O>
+.	.	_ <O>
+
+NULL
+Other	JJ	_ <O>
+management	NN	_ <O>
+strategies	NNS	_ <O>
+that	WDT	_ <O>
+may	MD	_ <O>
+lead	VB	_ <O>
+to	IN	_ <O>
+improvement	NN	_ <O>
+improvement	NN	_ <O>
+include	VBP	_ <O>
+smoking	NN	_ <O>
+cessation	NN	_ <O>
+,	,	_ <O>
+treatment	NN	_ <O>
+of	IN	_ <O>
+other	JJ	_ <O>
+respiratory	JJ	_ <O>
+diseases	NNS	_ <O>
+and	CC	_ <O>
+vaccination	NN	_ <O>
+against	IN	_ <O>
+respiratory	JJ	_ <O>
+infections	NNS	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+influenza	NN	_ <O>
+.	.	_ <O>
+
+NULL

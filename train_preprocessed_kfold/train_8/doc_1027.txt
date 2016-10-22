@@ -1,0 +1,100 @@
+NULL
+National	JJ	<B-CUE>
+loyalties	NNS	<I-CUE>
+have	VBP	_ <O>
+been	VBN	_ <O>
+described	VBN	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+destructive	JJ	_ <O>
+influence	NN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+human	JJ	_ <O>
+rights	NNS	_ <O>
+movement	NN	_ <O>
+because	IN	_ <O>
+they	PRP	<B-CUE>
+deny	VB	_ <O>
+people	NNS	_ <O>
+'s	POS	_ <O>
+innately	RB	_ <O>
+similar	JJ	_ <O>
+human	JJ	_ <O>
+qualities	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+But	CC	_ <O>
+others	NNS	<B-CUE>
+argue	VBP	_ <O>
+that	IN	_ <O>
+state	NN	_ <O>
+sovereignty	NN	_ <O>
+is	VBZ	_ <O>
+paramount	JJ	_ <O>
+,	,	_ <O>
+not	RB	_ <O>
+least	JJS	_ <O>
+because	IN	_ <O>
+it	PRP	_ <O>
+is	VBZ	_ <O>
+often	RB	_ <O>
+the	DT	_ <O>
+state	NN	_ <O>
+that	WDT	_ <O>
+has	VBZ	_ <O>
+signed	VBN	_ <O>
+up	RP	_ <O>
+to	IN	_ <O>
+human	JJ	_ <O>
+rights	NNS	_ <O>
+treaties	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Commentators	NNS	<B-CUE>
+'	POS	<I-CUE>
+positions	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+argument	NN	_ <O>
+for	IN	_ <O>
+and	CC	_ <O>
+against	IN	_ <O>
+intervention	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+force	NN	_ <O>
+by	IN	_ <O>
+states	NNS	_ <O>
+are	VBP	_ <O>
+influenced	VBN	_ <O>
+by	IN	_ <O>
+whether	IN	_ <O>
+they	PRP	<B-CUE>
+believe	VB	_ <O>
+human	JJ	_ <O>
+rights	NNS	_ <O>
+are	VBP	_ <O>
+largely	RB	_ <O>
+a	DT	_ <O>
+legal	JJ	_ <O>
+or	CC	_ <O>
+moral	JJ	_ <O>
+duty	NN	_ <O>
+and	CC	_ <O>
+whether	IN	_ <O>
+they	PRP	<B-CUE>
+are	VBP	_ <O>
+of	IN	_ <O>
+more	RBR	_ <O>
+cosmopolitan	JJ	_ <O>
+or	CC	_ <O>
+nationalist	JJ	_ <O>
+persuasion	NN	_ <O>
+.	.	_ <O>
+
+NULL

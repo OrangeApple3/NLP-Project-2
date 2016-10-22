@@ -1,0 +1,67 @@
+NULL
+Huhne	NNP	_ <O>
+has	VBZ	_ <O>
+spoken	VBN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+need	NN	_ <O>
+to	TO	_ <O>
+"	``	_ <O>
+roll	VB	_ <O>
+back	RP	_ <O>
+[	-LRB-	_ <O>
+Labour	NNP	_ <O>
+'s	POS	_ <O>
+]	-RRB-	_ <O>
+security	NN	_ <O>
+-	HYPH	_ <O>
+obsessed	VBN	_ <O>
+surveillance	NN	_ <O>
+state	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+have	VBP	_ <O>
+therefore	RB	_ <O>
+criticised	VBN	_ <O>
+him	PRP	_ <O>
+for	IN	_ <O>
+holding	VBG	_ <O>
+shares	NNS	_ <O>
+(	-LRB-	_ <O>
+listed	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+Register	NNP	_ <O>
+of	IN	_ <O>
+Members	NNP	_ <O>
+'	POS	_ <O>
+Interests	NNPS	_ <O>
+)	-RRB-	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+UK	NNP	_ <O>
+company	NN	_ <O>
+called	VBD	_ <O>
+IRISYS	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+specialises	VBZ	_ <O>
+in	IN	_ <O>
+producing	VBG	_ <O>
+thermal	JJ	_ <O>
+imagers	NNS	_ <O>
+"	''	_ <O>
+for	IN	_ <O>
+process	NN	_ <O>
+,	,	_ <O>
+people	NNS	_ <O>
+and	CC	_ <O>
+queue	NN	_ <O>
+monitoring	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL

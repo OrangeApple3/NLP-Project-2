@@ -1,0 +1,287 @@
+NULL
+Proven	VBN	_ <O>
+,	,	_ <O>
+probable	JJ	_ <O>
+and	CC	_ <O>
+possible	JJ	_ <O>
+reserves	NNS	_ <O>
+are	VBP	_ <O>
+the	DT	_ <O>
+three	CD	_ <O>
+most	RBS	_ <O>
+common	JJ	_ <O>
+categories	NNS	_ <O>
+of	IN	_ <O>
+reserves	NNS	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+oil	NN	_ <O>
+industry	NN	_ <O>
+.	.	_ <O>
+
+NULL
+They	PRP	_ <O>
+are	VBP	<B-CUE>
+intended	VBN	<I-CUE>
+to	TO	_ <O>
+represent	VB	_ <O>
+the	DT	_ <O>
+probability	NN	_ <O>
+that	IN	_ <O>
+a	DT	_ <O>
+reserve	NN	_ <O>
+exists	VBZ	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+geologic	JJ	_ <O>
+and	CC	_ <O>
+engineering	NN	_ <O>
+data	NNS	_ <O>
+and	CC	_ <O>
+interpretation	NN	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+given	VBN	_ <O>
+location	NN	_ <O>
+,	,	_ <O>
+though	IN	_ <O>
+many	JJ	<B-CUE>
+governments	NNS	<I-CUE>
+refuse	VBP	_ <O>
+to	TO	_ <O>
+disclose	VB	_ <O>
+verifying	VBG	_ <O>
+data	NNS	_ <O>
+to	TO	_ <O>
+support	VB	_ <O>
+their	PRP$	_ <O>
+claims	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+Proven	NNP	_ <O>
+Reserves	NNPS	_ <O>
+'	POS	_ <O>
+-	HYPH	_ <O>
+defined	VBN	_ <O>
+as	IN	_ <O>
+oil	NN	_ <O>
+and	CC	_ <O>
+gas	NN	_ <O>
+"	``	_ <O>
+Reasonably	RB	_ <O>
+Certain	JJ	_ <O>
+"	''	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+producible	JJ	_ <O>
+using	VBG	_ <O>
+current	JJ	_ <O>
+technology	NN	_ <O>
+at	IN	_ <O>
+current	JJ	_ <O>
+prices	NNS	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+current	JJ	_ <O>
+commercial	JJ	_ <O>
+terms	NNS	_ <O>
+and	CC	_ <O>
+government	NN	_ <O>
+consent	NN	_ <O>
+,	,	_ <O>
+also	RB	_ <O>
+known	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+industry	NN	_ <O>
+as	IN	_ <O>
+1P.	CD	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+industry	NN	<I-CUE>
+specialists	NNS	<I-CUE>
+refer	VB	_ <O>
+to	IN	_ <O>
+this	DT	_ <O>
+as	IN	_ <O>
+P90	NNP	_ <O>
+,	,	_ <O>
+i.e.	FW	_ <O>
+,	,	_ <O>
+ideally	RB	<B-CUE>
+having	VBG	_ <O>
+a	DT	_ <O>
+90	CD	_ <O>
+%	NN	_ <O>
+certainty	NN	_ <O>
+of	IN	_ <O>
+being	VBG	_ <O>
+produced	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+Proven	JJ	_ <O>
+reserves	NNS	_ <O>
+are	VBP	_ <O>
+further	RB	_ <O>
+subdivided	VBN	_ <O>
+into	IN	_ <O>
+"	``	_ <O>
+Proven	NNP	_ <O>
+Developed	JJ	_ <O>
+"	''	_ <O>
+(	-LRB-	_ <O>
+PD	NNP	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+Proven	NNP	_ <O>
+Undeveloped	NNP	_ <O>
+"	''	_ <O>
+(	-LRB-	_ <O>
+PUD	NNP	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+PD	NN	_ <O>
+reserves	NNS	_ <O>
+are	VBP	_ <O>
+reserves	NNS	_ <O>
+that	WDT	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+produced	VBN	_ <O>
+with	IN	_ <O>
+existing	JJ	_ <O>
+wells	NNS	_ <O>
+and	CC	_ <O>
+perforations	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+from	IN	_ <O>
+additional	JJ	_ <O>
+reservoirs	NNS	_ <O>
+where	WRB	_ <O>
+minimal	JJ	_ <O>
+additional	JJ	_ <O>
+investment	NN	_ <O>
+(	-LRB-	_ <O>
+operating	VBG	_ <O>
+expense	NN	_ <O>
+)	-RRB-	_ <O>
+is	VBZ	_ <O>
+required	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+PUD	NNP	_ <O>
+reserves	NNS	_ <O>
+require	VBP	_ <O>
+additional	JJ	_ <O>
+capital	JJ	_ <O>
+investment	NN	_ <O>
+(	-LRB-	_ <O>
+drilling	VBG	_ <O>
+new	JJ	_ <O>
+wells	NNS	_ <O>
+,	,	_ <O>
+installing	VBG	_ <O>
+gas	NN	_ <O>
+compression	NN	_ <O>
+,	,	_ <O>
+etc	FW	_ <O>
+.	.	_ <O>
+)	-RRB-	_ <O>
+to	TO	_ <O>
+bring	VB	_ <O>
+the	DT	_ <O>
+oil	NN	_ <O>
+and	CC	_ <O>
+gas	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+surface	NN	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+Probable	JJ	_ <O>
+Reserves	NNS	_ <O>
+'	''	_ <O>
+-	:	_ <O>
+defined	VBN	_ <O>
+as	IN	_ <O>
+oil	NN	_ <O>
+and	CC	_ <O>
+gas	NN	_ <O>
+"	``	_ <O>
+Reasonably	RB	_ <O>
+Probable	JJ	_ <O>
+"	''	_ <O>
+of	IN	_ <O>
+being	VBG	_ <O>
+produced	VBN	_ <O>
+using	VBG	_ <O>
+current	NN	_ <O>
+or	CC	_ <O>
+likely	JJ	_ <O>
+technology	NN	_ <O>
+at	IN	_ <O>
+current	JJ	_ <O>
+prices	NNS	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+current	JJ	_ <O>
+commercial	JJ	_ <O>
+terms	NNS	_ <O>
+and	CC	_ <O>
+government	NN	_ <O>
+consent	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+Industry	NN	<I-CUE>
+specialists	NNS	<I-CUE>
+refer	VB	_ <O>
+to	IN	_ <O>
+this	DT	_ <O>
+as	IN	_ <O>
+P50	NNP	_ <O>
+,	,	_ <O>
+i.e.	FW	_ <O>
+,	,	_ <O>
+ideally	RB	<B-CUE>
+having	VBG	_ <O>
+a	DT	_ <O>
+50	CD	_ <O>
+%	NN	_ <O>
+certainty	NN	_ <O>
+of	IN	_ <O>
+being	VBG	_ <O>
+produced	VBN	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+known	VBN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+industry	NN	_ <O>
+as	IN	_ <O>
+2P	CD	_ <O>
+or	CC	_ <O>
+Proven	NNP	_ <O>
+plus	CC	_ <O>
+probable	JJ	_ <O>
+.	.	_ <O>
+
+NULL

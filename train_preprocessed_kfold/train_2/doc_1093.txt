@@ -1,0 +1,23 @@
+NULL
+Adams	NNP	_ <O>
+was	VBD	_ <O>
+born	VBN	_ <O>
+in	IN	_ <O>
+Dunkirk	NNP	_ <O>
+,	,	_ <O>
+New	NNP	_ <O>
+York	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+1891	CD	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+graduated	VBD	_ <O>
+from	IN	_ <O>
+Hamilton	NNP	_ <O>
+College	NNP	_ <O>
+.	.	_ <O>
+
+NULL

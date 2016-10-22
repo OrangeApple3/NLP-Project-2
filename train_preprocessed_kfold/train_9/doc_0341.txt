@@ -1,0 +1,88 @@
+NULL
+Special	JJ	_ <O>
+markings	NNS	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+made	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+road	NN	_ <O>
+surface	NN	_ <O>
+,	,	_ <O>
+both	DT	_ <O>
+to	TO	_ <O>
+direct	JJ	_ <O>
+pedestrians	NNS	_ <O>
+and	CC	_ <O>
+to	TO	_ <O>
+prevent	VB	_ <O>
+motorists	NNS	_ <O>
+from	IN	_ <O>
+stopping	VBG	_ <O>
+vehicles	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+way	NN	_ <O>
+of	IN	_ <O>
+foot	NN	_ <O>
+traffic	NN	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	<B-CUE>
+varieties	NNS	<I-CUE>
+of	IN	_ <O>
+signal	NN	_ <O>
+and	CC	_ <O>
+marking	VBG	_ <O>
+layouts	NNS	_ <O>
+around	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+and	CC	_ <O>
+even	RB	_ <O>
+within	IN	_ <O>
+single	JJ	_ <O>
+countries	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+,	,	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+many	JJ	<B-CUE>
+inconsistencies	NNS	<I-CUE>
+,	,	_ <O>
+although	IN	_ <O>
+the	DT	_ <O>
+variations	NNS	_ <O>
+are	VBP	_ <O>
+usually	RB	_ <O>
+minor	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+several	JJ	<B-CUE>
+distinct	JJ	<I-CUE>
+types	NNS	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+United	NNP	_ <O>
+Kingdom	NNP	_ <O>
+,	,	_ <O>
+each	DT	_ <O>
+with	IN	_ <O>
+their	PRP$	_ <O>
+own	JJ	_ <O>
+name	NN	_ <O>
+.	.	_ <O>
+
+NULL

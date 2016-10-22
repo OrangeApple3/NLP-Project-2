@@ -1,0 +1,114 @@
+NULL
+A	DT	_ <O>
+major	JJ	_ <O>
+risk	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+household	NN	_ <O>
+in	IN	_ <O>
+achieving	VBG	_ <O>
+their	PRP$	_ <O>
+accumulation	NN	_ <O>
+goal	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+rate	NN	_ <O>
+of	IN	_ <O>
+price	NN	_ <O>
+increases	NNS	_ <O>
+over	IN	_ <O>
+time	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+inflation	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Using	VBG	_ <O>
+net	JJ	_ <O>
+present	JJ	_ <O>
+value	NN	_ <O>
+calculators	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+financial	JJ	_ <O>
+planner	NN	_ <O>
+will	MD	_ <O>
+suggest	VB	_ <O>
+a	DT	_ <O>
+combination	NN	_ <O>
+of	IN	_ <O>
+asset	NN	_ <O>
+earmarking	VBG	_ <O>
+and	CC	_ <O>
+regular	JJ	_ <O>
+savings	NNS	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+invested	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+variety	NN	_ <O>
+of	IN	_ <O>
+investments	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+overcome	VB	_ <O>
+the	DT	_ <O>
+rate	NN	_ <O>
+of	IN	_ <O>
+inflation	NN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+investment	NN	_ <O>
+portfolio	NN	_ <O>
+has	VBZ	_ <O>
+to	TO	_ <O>
+get	VB	_ <O>
+a	DT	_ <O>
+higher	JJR	_ <O>
+rate	NN	_ <O>
+of	IN	_ <O>
+return	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+typically	RB	_ <O>
+will	MD	_ <O>
+subject	VB	_ <O>
+the	DT	_ <O>
+portfolio	NN	_ <O>
+to	IN	_ <O>
+a	DT	<B-CUE>
+number	NN	<I-CUE>
+of	IN	<I-CUE>
+risks	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Managing	VBG	_ <O>
+these	DT	<B-CUE>
+portfolio	NN	<I-CUE>
+risks	NNS	<I-CUE>
+is	VBZ	_ <O>
+most	RBS	<B-CUE>
+often	RB	<I-CUE>
+accomplished	VBN	_ <O>
+using	VBG	_ <O>
+asset	NN	_ <O>
+allocation	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+seeks	VBZ	_ <O>
+to	TO	_ <O>
+diversify	VB	_ <O>
+investment	NN	_ <O>
+risk	NN	_ <O>
+and	CC	_ <O>
+opportunity	NN	_ <O>
+.	.	_ <O>
+
+NULL

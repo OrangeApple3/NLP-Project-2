@@ -1,0 +1,24 @@
+NULL
+The	DT	_ <O>
+final	JJ	_ <O>
+results	NNS	_ <O>
+amongst	IN	_ <O>
+these	DT	_ <O>
+supply	NN	_ <O>
+and	CC	_ <O>
+demand	NN	_ <O>
+interactions	NNS	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+gradation	NN	_ <O>
+of	IN	_ <O>
+different	JJ	_ <O>
+wages	NNS	_ <O>
+representing	VBG	_ <O>
+income	NN	_ <O>
+inequality	NN	_ <O>
+within	IN	_ <O>
+society	NN	_ <O>
+.	.	_ <O>
+
+NULL

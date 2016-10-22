@@ -1,0 +1,61 @@
+NULL
+Phawngpui	NNP	_ <O>
+Peak	NNP	_ <O>
+in	IN	_ <O>
+Mizoram	NNP	_ <O>
+exhibits	VBZ	_ <O>
+the	DT	<B-CUE>
+most	RBS	<I-CUE>
+enchanting	JJ	<I-CUE>
+view	NN	_ <O>
+of	IN	_ <O>
+Mizoram	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+cliff	NN	_ <O>
+is	VBZ	<B-CUE>
+believed	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+haunted	VBN	_ <O>
+by	IN	_ <O>
+spirits	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+area	NN	_ <O>
+is	VBZ	_ <O>
+encircled	VBN	_ <O>
+by	IN	_ <O>
+matted	JJ	_ <O>
+bamboo	NN	_ <O>
+groves	NNS	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+alluring	JJ	_ <O>
+vegetations	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+You	PRP	_ <O>
+will	MD	_ <O>
+come	VB	_ <O>
+across	IN	_ <O>
+varieties	NNS	_ <O>
+of	IN	_ <O>
+butterflies	NNS	_ <O>
+,	,	_ <O>
+including	VBG	_ <O>
+some	DT	_ <O>
+rare	JJ	_ <O>
+species	NNS	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+this	DT	_ <O>
+region	NN	_ <O>
+.	.	_ <O>
+
+NULL

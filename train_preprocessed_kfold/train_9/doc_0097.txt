@@ -1,0 +1,121 @@
+NULL
+Pringle	NNP	_ <O>
+speaks	VBZ	_ <O>
+in	IN	_ <O>
+a	DT	<B-CUE>
+variety	NN	<I-CUE>
+of	IN	<I-CUE>
+conference	NN	<I-CUE>
+and	CC	<I-CUE>
+church	NN	<I-CUE>
+situations	NNS	<I-CUE>
+around	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+has	VBZ	_ <O>
+authored	VBN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+books	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+continues	VBZ	_ <O>
+to	TO	_ <O>
+paint	VB	_ <O>
+and	CC	_ <O>
+hold	VB	_ <O>
+exhibitions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+church	NN	_ <O>
+at	IN	_ <O>
+Oxford	NNP	_ <O>
+Falls	NNP	_ <O>
+also	RB	_ <O>
+runs	VBZ	_ <O>
+several	JJ	_ <O>
+Colleges	NNPS	_ <O>
+;	:	_ <O>
+School	NNP	_ <O>
+of	IN	_ <O>
+Ministry	NNP	_ <O>
+,	,	_ <O>
+School	NNP	_ <O>
+of	IN	_ <O>
+Creative	NNP	_ <O>
+Arts	NNP	_ <O>
+(	-LRB-	_ <O>
+including	VBG	_ <O>
+dance	NN	_ <O>
+,	,	_ <O>
+drama	NN	_ <O>
+,	,	_ <O>
+music	NN	_ <O>
+,	,	_ <O>
+song	NN	_ <O>
+writing	NN	_ <O>
+,	,	_ <O>
+singing	NN	_ <O>
+,	,	_ <O>
+visual	JJ	_ <O>
+arts	NNS	_ <O>
+,	,	_ <O>
+film	NN	_ <O>
+and	CC	_ <O>
+video	NN	_ <O>
+)	-RRB-	_ <O>
+and	CC	_ <O>
+School	NNP	_ <O>
+of	IN	_ <O>
+Pastoral	NNP	_ <O>
+Care	NNP	_ <O>
+Management	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Pringle	NNP	_ <O>
+'s	POS	_ <O>
+vision	NN	_ <O>
+is	VBZ	_ <O>
+to	TO	_ <O>
+build	VB	_ <O>
+a	DT	_ <O>
+growing	VBG	_ <O>
+church	NN	_ <O>
+and	CC	_ <O>
+movement	NN	_ <O>
+of	IN	_ <O>
+churches	NNS	_ <O>
+that	WDT	_ <O>
+are	VBP	_ <O>
+relevant	JJ	_ <O>
+to	IN	_ <O>
+today	NN	_ <O>
+'s	POS	_ <O>
+world	NN	_ <O>
+,	,	_ <O>
+through	IN	_ <O>
+bringing	VBG	_ <O>
+salvation	NN	_ <O>
+to	IN	_ <O>
+lost	VBD	_ <O>
+people	NNS	_ <O>
+and	CC	_ <O>
+teaching	VBG	_ <O>
+people	NNS	_ <O>
+how	WRB	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+disciples	NNS	_ <O>
+of	IN	_ <O>
+Christ	NNP	_ <O>
+.	.	_ <O>
+
+NULL

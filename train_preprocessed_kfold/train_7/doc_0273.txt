@@ -1,0 +1,105 @@
+NULL
+Penuche	NNP	_ <O>
+often	RB	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+tannish	JJ	_ <O>
+color	NN	_ <O>
+to	IN	_ <O>
+it	PRP	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+lighter	JJR	_ <O>
+than	IN	_ <O>
+regular	JJ	_ <O>
+fudge	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+formed	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+caramelization	NN	_ <O>
+of	IN	_ <O>
+brown	JJ	_ <O>
+sugar	NN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+thus	RB	_ <O>
+its	PRP$	_ <O>
+flavor	NN	_ <O>
+is	VBZ	<B-CUE>
+said	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+reminiscent	JJ	_ <O>
+of	IN	_ <O>
+caramel	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Nuts	NNP	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+pecans	NNS	_ <O>
+,	,	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+added	VBN	_ <O>
+to	IN	_ <O>
+penuche	VB	_ <O>
+for	IN	_ <O>
+texture	NN	_ <O>
+,	,	_ <O>
+especially	RB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+making	NN	_ <O>
+of	IN	_ <O>
+penuche	NN	_ <O>
+candies	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+primarily	RB	_ <O>
+a	DT	_ <O>
+regional	JJ	_ <O>
+food	NN	_ <O>
+,	,	_ <O>
+found	VBD	_ <O>
+in	IN	_ <O>
+New	NNP	_ <O>
+England	NNP	_ <O>
+and	CC	_ <O>
+some	DT	<B-CUE>
+places	NNS	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+Southern	NNP	_ <O>
+United	NNP	_ <O>
+States	NNP	_ <O>
+,	,	_ <O>
+though	IN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+latter	JJ	_ <O>
+it	PRP	_ <O>
+goes	VBZ	_ <O>
+by	IN	_ <O>
+different	JJ	_ <O>
+names	NNS	_ <O>
+,	,	_ <O>
+usually	RB	_ <O>
+"	``	_ <O>
+Brown	NNP	_ <O>
+Sugar	NNP	_ <O>
+Fudge	NNP	_ <O>
+Candy	NNP	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL

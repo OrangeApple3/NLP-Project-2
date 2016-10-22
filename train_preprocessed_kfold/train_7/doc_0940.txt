@@ -1,0 +1,162 @@
+NULL
+Limitations	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+widespread	JJ	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+PET	NNP	_ <O>
+arise	VBP	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+high	JJ	_ <O>
+costs	NNS	_ <O>
+of	IN	_ <O>
+cyclotrons	NNS	_ <O>
+needed	VBN	_ <O>
+to	TO	_ <O>
+produce	VB	_ <O>
+the	DT	_ <O>
+short	JJ	_ <O>
+-	HYPH	_ <O>
+lived	VBN	_ <O>
+radionuclides	NNS	_ <O>
+for	IN	_ <O>
+PET	NNP	_ <O>
+scanning	NN	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+need	NN	_ <O>
+for	IN	_ <O>
+specially	RB	_ <O>
+adapted	VBN	_ <O>
+on	IN	_ <O>
+-	HYPH	_ <O>
+site	NN	_ <O>
+chemical	NN	_ <O>
+synthesis	NN	_ <O>
+apparatus	NN	_ <O>
+to	TO	_ <O>
+produce	VB	_ <O>
+the	DT	_ <O>
+radiopharmaceuticals	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Few	JJ	<B-CUE>
+hospitals	NNS	<I-CUE>
+and	CC	<I-CUE>
+universities	NNS	<I-CUE>
+are	VBP	_ <O>
+capable	JJ	_ <O>
+of	IN	_ <O>
+maintaining	VBG	_ <O>
+such	JJ	_ <O>
+systems	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+most	JJS	<B-CUE>
+clinical	JJ	<I-CUE>
+PET	NN	<I-CUE>
+is	VBZ	_ <O>
+supported	VBN	_ <O>
+by	IN	_ <O>
+third	JJ	_ <O>
+-	HYPH	_ <O>
+party	NN	_ <O>
+suppliers	NNS	_ <O>
+of	IN	_ <O>
+radiotracers	NNS	_ <O>
+which	WDT	_ <O>
+can	MD	_ <O>
+supply	VB	_ <O>
+many	JJ	<B-CUE>
+sites	NNS	<I-CUE>
+simultaneously	RB	_ <O>
+.	.	_ <O>
+
+NULL
+This	DT	_ <O>
+limitation	NN	_ <O>
+restricts	VBZ	_ <O>
+clinical	JJ	_ <O>
+PET	NNP	_ <O>
+primarily	RB	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+tracers	NNS	_ <O>
+labelled	VBN	_ <O>
+with	IN	_ <O>
+F-18	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+has	VBZ	_ <O>
+a	DT	_ <O>
+half	JJ	_ <O>
+life	NN	_ <O>
+of	IN	_ <O>
+110	CD	_ <O>
+minutes	NNS	_ <O>
+and	CC	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+transported	VBN	_ <O>
+a	DT	_ <O>
+reasonable	JJ	_ <O>
+distance	NN	_ <O>
+before	IN	_ <O>
+use	NN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+to	IN	_ <O>
+rubidium-82	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+can	MD	_ <O>
+be	VB	_ <O>
+created	VBN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+portable	JJ	_ <O>
+generator	NN	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+used	VBN	_ <O>
+for	IN	_ <O>
+myocardial	JJ	_ <O>
+perfusion	NN	_ <O>
+studies	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Nevertheless	RB	_ <O>
+,	,	_ <O>
+in	IN	_ <O>
+recent	JJ	_ <O>
+years	NNS	_ <O>
+a	DT	_ <O>
+few	JJ	_ <O>
+on	IN	_ <O>
+-	HYPH	_ <O>
+site	NN	_ <O>
+cyclotrons	NNS	_ <O>
+with	IN	_ <O>
+integrated	VBN	_ <O>
+shielding	VBG	_ <O>
+and	CC	_ <O>
+hot	JJ	_ <O>
+labs	NNS	_ <O>
+have	VBP	_ <O>
+begun	VBN	_ <O>
+to	TO	_ <O>
+accompany	VB	_ <O>
+PET	NNP	_ <O>
+units	NNS	_ <O>
+to	IN	_ <O>
+remote	JJ	_ <O>
+hospitals	NNS	_ <O>
+.	.	_ <O>
+
+NULL

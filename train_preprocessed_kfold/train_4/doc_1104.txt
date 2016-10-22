@@ -1,0 +1,165 @@
+NULL
+Vocals	NNS	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+omitted	VBN	_ <O>
+from	IN	_ <O>
+post	NN	_ <O>
+-	HYPH	_ <O>
+rock	NN	_ <O>
+;	:	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+this	DT	_ <O>
+does	VBZ	_ <O>
+not	RB	_ <O>
+necessarily	RB	_ <O>
+mean	VB	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+absent	JJ	_ <O>
+entirely	RB	_ <O>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+vocals	NNS	_ <O>
+are	VBP	_ <O>
+included	VBN	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+is	VBZ	_ <O>
+typically	RB	_ <O>
+non	JJ	_ <O>
+-	,	_ <O>
+traditional	JJ	_ <O>
+:	.	_ <O>
+some	DT	<B-CUE>
+post	NN	<I-CUE>
+-	HYPH	<I-CUE>
+rock	NN	<I-CUE>
+bands	NNS	<I-CUE>
+employ	VB	_ <O>
+vocals	NNS	_ <O>
+as	IN	_ <O>
+purely	RB	_ <O>
+instrumental	JJ	_ <O>
+efforts	NNS	_ <O>
+and	CC	_ <O>
+incidental	JJ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+sound	NN	_ <O>
+,	,	_ <O>
+rather	RB	_ <O>
+than	IN	_ <O>
+a	DT	_ <O>
+more	RBR	_ <O>
+traditional	JJ	_ <O>
+use	NN	_ <O>
+where	WRB	_ <O>
+"	``	_ <O>
+clean	JJ	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+easily	RB	_ <O>
+-	HYPH	_ <O>
+interpretable	JJ	_ <O>
+vocals	NNS	_ <O>
+are	VBP	_ <O>
+important	JJ	_ <O>
+for	IN	_ <O>
+poetic	JJ	_ <O>
+and	CC	_ <O>
+lyrical	JJ	_ <O>
+meaning	NN	_ <O>
+.	.	_ <O>
+
+NULL
+When	WRB	_ <O>
+present	JJ	_ <O>
+,	,	_ <O>
+post	NN	_ <O>
+-	HYPH	_ <O>
+rock	NN	_ <O>
+vocals	NNS	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+soft	JJ	_ <O>
+or	CC	_ <O>
+droning	JJ	_ <O>
+and	CC	_ <O>
+are	VBP	_ <O>
+typically	RB	<B-CUE>
+infrequent	JJ	_ <O>
+or	CC	_ <O>
+present	JJ	_ <O>
+in	IN	_ <O>
+irregular	JJ	_ <O>
+intervals	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Sigur	NNP	_ <O>
+Rós	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+band	NN	_ <O>
+known	VBN	_ <O>
+for	IN	_ <O>
+their	PRP$	_ <O>
+distinctive	JJ	_ <O>
+vocals	NNS	_ <O>
+,	,	_ <O>
+fabricated	VBD	_ <O>
+a	DT	_ <O>
+language	NN	_ <O>
+that	WDT	_ <O>
+critics	NNS	<B-CUE>
+call	NN	_ <O>
+"	``	_ <O>
+Hopelandic	NNP	_ <O>
+"	''	_ <O>
+(	-LRB-	_ <O>
+Vonlenska	NNP	_ <O>
+in	IN	_ <O>
+icelandic	JJ	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+term	NN	_ <O>
+even	RB	_ <O>
+used	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+band	NN	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+described	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+band	NN	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+a	DT	_ <O>
+form	NN	_ <O>
+of	IN	_ <O>
+gibberish	NN	_ <O>
+vocals	NNS	_ <O>
+that	WDT	_ <O>
+fits	VBZ	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+music	NN	_ <O>
+and	CC	_ <O>
+acts	VBZ	_ <O>
+as	IN	_ <O>
+another	DT	_ <O>
+instrument	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL

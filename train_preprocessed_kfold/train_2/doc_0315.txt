@@ -1,0 +1,96 @@
+NULL
+The	DT	_ <O>
+difference	NN	_ <O>
+between	IN	_ <O>
+sociopathy	NN	_ <O>
+and	CC	_ <O>
+psychopathy	NN	_ <O>
+,	,	_ <O>
+according	VBG	_ <O>
+to	IN	_ <O>
+Hare	NNP	_ <O>
+,	,	_ <O>
+may	MD	_ <O>
+"	``	_ <O>
+reflect	VB	_ <O>
+the	DT	_ <O>
+user	NN	_ <O>
+'s	POS	_ <O>
+views	NNS	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+origins	NNS	_ <O>
+and	CC	_ <O>
+determinates	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+disorder	NN	_ <O>
+.	.	_ <O>
+"	''	_ <O>
+
+NULL
+Most	JJS	<B-CUE>
+sociologists	NNS	<I-CUE>
+,	,	<I-CUE>
+criminologists	NNS	<I-CUE>
+and	CC	_ <O>
+even	RB	_ <O>
+some	DT	<B-CUE>
+psychologists	NNS	<I-CUE>
+believe	VBP	_ <O>
+the	DT	_ <O>
+disorder	NN	_ <O>
+is	VBZ	_ <O>
+caused	VBN	_ <O>
+by	IN	_ <O>
+social	JJ	_ <O>
+conflicts	NNS	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+thus	RB	_ <O>
+prefer	VBP	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+'	``	_ <O>
+sociopath	NN	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+
+NULL
+Those	DT	_ <O>
+who	WP	_ <O>
+believe	VBP	_ <O>
+as	IN	_ <O>
+Hare	NNP	_ <O>
+does	VBZ	_ <O>
+,	,	_ <O>
+that	IN	_ <O>
+a	DT	_ <O>
+combination	NN	_ <O>
+of	IN	_ <O>
+psychological	JJ	_ <O>
+,	,	_ <O>
+biological	JJ	_ <O>
+,	,	_ <O>
+genetic	JJ	_ <O>
+and	CC	_ <O>
+environmental	JJ	_ <O>
+factors	NNS	_ <O>
+all	DT	_ <O>
+contribute	VBP	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+disorder	NN	_ <O>
+are	VBP	_ <O>
+more	RBR	_ <O>
+likely	JJ	_ <O>
+to	TO	_ <O>
+use	VB	_ <O>
+the	DT	_ <O>
+term	NN	_ <O>
+'	``	_ <O>
+psychopath	NN	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL

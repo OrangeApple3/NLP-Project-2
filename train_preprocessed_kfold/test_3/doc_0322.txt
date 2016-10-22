@@ -1,0 +1,105 @@
+NULL
+Parades	NNS	_ <O>
+are	VBP	_ <O>
+much	JJ	<B-CUE>
+less	RBR	<I-CUE>
+common	JJ	<I-CUE>
+among	IN	_ <O>
+nationalist	JJ	_ <O>
+or	CC	_ <O>
+republican	JJ	_ <O>
+communities	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Unlike	IN	_ <O>
+unionist	NN	_ <O>
+parades	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+vast	JJ	_ <O>
+majority	NN	_ <O>
+of	IN	_ <O>
+nationalist/republican	JJ	_ <O>
+parades	NNS	_ <O>
+do	VBP	_ <O>
+not	RB	_ <O>
+have	VB	_ <O>
+religious	JJ	_ <O>
+associations	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+broadly	RB	_ <O>
+nationalist	JJ	_ <O>
+Ancient	NNP	_ <O>
+Order	NNP	_ <O>
+of	IN	_ <O>
+Hibernians	NNPS	_ <O>
+are	VBP	<B-CUE>
+sometimes	RB	<I-CUE>
+regarded	VBN	<I-CUE>
+as	IN	_ <O>
+the	DT	_ <O>
+'	``	_ <O>
+green	JJ	_ <O>
+Orange	NNP	_ <O>
+Order	NNP	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+Compared	VBN	_ <O>
+to	IN	_ <O>
+most	RBS	_ <O>
+Protestant	JJ	_ <O>
+organisations	NNS	_ <O>
+they	PRP	_ <O>
+parade	VBP	_ <O>
+relatively	RB	_ <O>
+infrequently	RB	_ <O>
+,	,	_ <O>
+their	PRP$	_ <O>
+main	JJ	_ <O>
+parades	NNS	_ <O>
+being	VBG	_ <O>
+on	IN	_ <O>
+Saint	NNP	_ <O>
+Patrick	NNP	_ <O>
+'s	POS	_ <O>
+Day	NNP	_ <O>
+,	,	_ <O>
+at	IN	_ <O>
+Easter	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+on	IN	_ <O>
+Lady	NNP	_ <O>
+Day	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+At	IN	_ <O>
+various	JJ	_ <O>
+points	NNS	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+Troubles	NNPS	_ <O>
+the	DT	_ <O>
+Hibernians	NNPS	_ <O>
+offered	VBD	_ <O>
+to	TO	_ <O>
+voluntarily	RB	_ <O>
+cease	VB	_ <O>
+parading	VBG	_ <O>
+if	IN	_ <O>
+Protestant	JJ	_ <O>
+groups	NNS	_ <O>
+would	MD	_ <O>
+do	VB	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+.	.	_ <O>
+
+NULL

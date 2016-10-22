@@ -1,0 +1,106 @@
+NULL
+Moore	NNP	_ <O>
+has	VBZ	_ <O>
+been	VBN	_ <O>
+criticized	VBN	_ <O>
+by	IN	_ <O>
+environmentalists	NNS	_ <O>
+for	IN	_ <O>
+many	JJ	<B-CUE>
+of	IN	<I-CUE>
+his	PRP$	<I-CUE>
+views	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+see	VB	_ <O>
+him	PRP	_ <O>
+as	IN	_ <O>
+having	VBG	_ <O>
+"	``	_ <O>
+abruptly	RB	_ <O>
+turned	VBD	_ <O>
+his	PRP$	_ <O>
+back	RP	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+environmental	JJ	_ <O>
+movement	NN	_ <O>
+"	''	_ <O>
+and	CC	_ <O>
+"	``	_ <O>
+being	VBG	_ <O>
+a	DT	_ <O>
+mouthpiece	NN	_ <O>
+for	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+very	RB	<I-CUE>
+interests	NNS	<I-CUE>
+Greenpeace	NNP	_ <O>
+was	VBD	_ <O>
+founded	VBN	_ <O>
+to	TO	_ <O>
+counter	VB	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+His	PRP$	_ <O>
+critics	NNS	<B-CUE>
+point	NN	_ <O>
+out	RP	_ <O>
+Moore	NNP	_ <O>
+'s	POS	_ <O>
+business	NN	_ <O>
+relations	NNS	_ <O>
+with	IN	_ <O>
+what	WP	_ <O>
+they	PRP	_ <O>
+see	VBP	_ <O>
+as	IN	_ <O>
+"	``	_ <O>
+polluters	NNS	_ <O>
+and	CC	_ <O>
+clear	JJ	_ <O>
+-	HYPH	_ <O>
+cutters	NNS	_ <O>
+"	''	_ <O>
+through	IN	_ <O>
+his	PRP$	_ <O>
+consultancy	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Moore	NNP	_ <O>
+has	VBZ	_ <O>
+earned	VBN	_ <O>
+his	PRP$	_ <O>
+living	NN	_ <O>
+since	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+1990s	NNS	_ <O>
+primarily	RB	_ <O>
+by	IN	_ <O>
+consulting	VBG	_ <O>
+for	IN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+publicly	RB	_ <O>
+speaking	VBG	_ <O>
+to	IN	_ <O>
+a	DT	<B-CUE>
+wide	JJ	<I-CUE>
+variety	NN	<I-CUE>
+of	IN	<I-CUE>
+corporations	NNS	<I-CUE>
+and	CC	<I-CUE>
+industry	NN	<I-CUE>
+lobby	NN	<I-CUE>
+groups	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

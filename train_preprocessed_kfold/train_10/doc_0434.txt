@@ -1,0 +1,111 @@
+NULL
+'	``	_ <O>
+Portrait	VB	_ <O>
+photography	NN	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+popular	JJ	_ <O>
+commercial	JJ	_ <O>
+industry	NN	_ <O>
+all	RB	_ <O>
+over	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	<B-CUE>
+people	NNS	<I-CUE>
+enjoy	VB	_ <O>
+having	VBG	_ <O>
+professionally	RB	_ <O>
+made	VBN	_ <O>
+'	''	_ <O>
+family	NN	_ <O>
+portraits	NNS	_ <O>
+'	''	_ <O>
+to	TO	_ <O>
+hang	VB	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+homes	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+special	JJ	_ <O>
+portraits	NNS	_ <O>
+to	TO	_ <O>
+commemorate	VB	_ <O>
+certain	JJ	_ <O>
+events	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+graduations	NNS	_ <O>
+or	CC	_ <O>
+weddings	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Since	IN	_ <O>
+the	DT	_ <O>
+dawn	NN	_ <O>
+of	IN	_ <O>
+photography	NN	_ <O>
+,	,	_ <O>
+people	NNS	_ <O>
+have	VBP	_ <O>
+made	VBN	_ <O>
+portraits	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Studios	NNS	_ <O>
+sprang	VBD	_ <O>
+up	RP	_ <O>
+in	IN	_ <O>
+cities	NNS	_ <O>
+around	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+,	,	_ <O>
+some	DT	<B-CUE>
+cranking	VBG	_ <O>
+out	RP	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+500	CD	_ <O>
+plates	NNS	_ <O>
+a	DT	_ <O>
+day	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Subjects	NNS	_ <O>
+were	VBD	_ <O>
+generally	RB	_ <O>
+seated	VBN	_ <O>
+against	IN	_ <O>
+plain	JJ	_ <O>
+backgrounds	NNS	_ <O>
+and	CC	_ <O>
+lit	VBN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+soft	JJ	_ <O>
+light	NN	_ <O>
+of	IN	_ <O>
+an	DT	_ <O>
+overhead	JJ	_ <O>
+window	NN	_ <O>
+and	CC	_ <O>
+whatever	WDT	_ <O>
+else	RB	_ <O>
+could	MD	_ <O>
+be	VB	_ <O>
+reflected	VBN	_ <O>
+with	IN	_ <O>
+mirrors	NNS	_ <O>
+.	.	_ <O>
+
+NULL

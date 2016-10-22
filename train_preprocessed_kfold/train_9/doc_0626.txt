@@ -1,0 +1,103 @@
+NULL
+The	DT	_ <O>
+"	``	_ <O>
+First	NNP	_ <O>
+Generation	NNP	_ <O>
+"	''	_ <O>
+Design	NN	_ <O>
+was	VBD	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+1987	CD	_ <O>
+concept	NN	_ <O>
+Lamborghini	NNP	_ <O>
+Portofino	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Portofino	NNP	_ <O>
+was	VBD	<B-CUE>
+heralded	VBN	<I-CUE>
+as	IN	_ <O>
+a	DT	_ <O>
+design	NN	_ <O>
+triumph	NN	_ <O>
+,	,	_ <O>
+setting	VBG	_ <O>
+in	IN	_ <O>
+motion	NN	_ <O>
+Chrysler	NNP	_ <O>
+'s	POS	_ <O>
+decision	NN	_ <O>
+to	TO	_ <O>
+produce	VB	_ <O>
+a	DT	_ <O>
+production	NN	_ <O>
+sedan	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+Portofino	NNP	_ <O>
+'s	POS	_ <O>
+revolutionary	JJ	_ <O>
+design	NN	_ <O>
+,	,	_ <O>
+called	VBN	_ <O>
+"	``	_ <O>
+cab	NN	_ <O>
+-	HYPH	_ <O>
+forward	NN	_ <O>
+"	''	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+cab	NN	_ <O>
+-	HYPH	_ <O>
+forward	NN	_ <O>
+design	NN	_ <O>
+was	VBD	_ <O>
+characterized	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+long	JJ	_ <O>
+,	,	_ <O>
+low	JJ	_ <O>
+-	HYPH	_ <O>
+slung	JJ	_ <O>
+windshield	NN	_ <O>
+and	CC	_ <O>
+relatively	RB	_ <O>
+short	JJ	_ <O>
+overhangs	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+wheels	NNS	_ <O>
+where	WRB	_ <O>
+effectively	RB	_ <O>
+pushed	VBD	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+corners	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+car	NN	_ <O>
+,	,	_ <O>
+creating	VBG	_ <O>
+a	DT	_ <O>
+much	RB	_ <O>
+larger	JJR	_ <O>
+passenger	NN	_ <O>
+cabin	NN	_ <O>
+than	IN	_ <O>
+the	DT	_ <O>
+contemporaries	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+time	NN	_ <O>
+.	.	_ <O>
+
+NULL

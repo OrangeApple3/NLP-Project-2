@@ -1,0 +1,193 @@
+NULL
+Other	JJ	_ <O>
+minor	JJ	_ <O>
+influences	NNS	_ <O>
+include	VBP	_ <O>
+some	DT	<B-CUE>
+5th	JJ	<I-CUE>
+century	NN	<I-CUE>
+vestiges	NNS	<I-CUE>
+of	IN	_ <O>
+Alan	NNP	_ <O>
+settlement	NN	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+were	VBD	_ <O>
+found	VBN	_ <O>
+in	IN	_ <O>
+Alenquer	NNP	_ <O>
+,	,	_ <O>
+Coimbra	NNP	_ <O>
+and	CC	_ <O>
+even	RB	_ <O>
+Lisbon	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+A	DT	_ <O>
+victory	NN	_ <O>
+over	IN	_ <O>
+the	DT	_ <O>
+Muslims	NNPS	_ <O>
+at	IN	_ <O>
+Ourique	NNP	_ <O>
+in	IN	_ <O>
+1139	CD	_ <O>
+is	VBZ	_ <O>
+traditionally	RB	<B-CUE>
+taken	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+occasion	NN	_ <O>
+when	WRB	_ <O>
+Portugal	NNP	_ <O>
+was	VBD	_ <O>
+transformed	VBN	_ <O>
+from	IN	_ <O>
+a	DT	_ <O>
+county	NN	_ <O>
+(	-LRB-	_ <O>
+County	NNP	_ <O>
+of	IN	_ <O>
+Portugal	NNP	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+fief	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Kingdom	NNP	_ <O>
+of	IN	_ <O>
+León	NNP	_ <O>
+)	-RRB-	_ <O>
+into	IN	_ <O>
+an	DT	_ <O>
+independent	JJ	_ <O>
+kingdom	NN	_ <O>
+:	:	_ <O>
+the	DT	_ <O>
+Kingdom	NNP	_ <O>
+of	IN	_ <O>
+Portugal	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Guimaraes	NNP	_ <O>
+-	HYPH	_ <O>
+the	DT	_ <O>
+city	NN	_ <O>
+is	VBZ	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+the	DT	_ <O>
+cradle	NN	_ <O>
+of	IN	_ <O>
+Portugal	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+On	IN	_ <O>
+24	CD	_ <O>
+June	NNP	_ <O>
+1128	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+Battle	NNP	_ <O>
+of	IN	_ <O>
+Sao	NNP	_ <O>
+Mamede	NNP	_ <O>
+occurred	VBD	_ <O>
+near	IN	_ <O>
+Guimaraes	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+1348	CD	_ <O>
+and	CC	_ <O>
+1349	CD	_ <O>
+,	,	_ <O>
+like	IN	_ <O>
+the	DT	_ <O>
+rest	NN	_ <O>
+of	IN	_ <O>
+Europe	NNP	_ <O>
+,	,	_ <O>
+Portugal	NNP	_ <O>
+was	VBD	_ <O>
+devastated	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Black	NNP	_ <O>
+Death	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+1373	CD	_ <O>
+,	,	_ <O>
+Portugal	NNP	_ <O>
+made	VBD	_ <O>
+an	DT	_ <O>
+alliance	NN	_ <O>
+with	IN	_ <O>
+England	NNP	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+longest	RBS	_ <O>
+-	HYPH	_ <O>
+standing	VBG	_ <O>
+alliance	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+world	NN	_ <O>
+.	.	_ <O>
+'	''	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+1383	CD	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+king	NN	_ <O>
+of	IN	_ <O>
+Castile	NNP	_ <O>
+,	,	_ <O>
+husband	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+daughter	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Portuguese	JJ	_ <O>
+king	NN	_ <O>
+who	WP	_ <O>
+had	VBD	_ <O>
+died	VBN	_ <O>
+without	IN	_ <O>
+a	DT	_ <O>
+male	JJ	_ <O>
+heir	NN	_ <O>
+,	,	_ <O>
+claimed	VBD	_ <O>
+his	PRP$	_ <O>
+throne	NN	_ <O>
+.	.	_ <O>
+
+NULL
+An	DT	_ <O>
+ensuing	VBG	_ <O>
+popular	JJ	_ <O>
+revolt	NN	_ <O>
+led	VBD	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+1383	CD	_ <O>
+-	SYM	_ <O>
+1385	CD	_ <O>
+Crisis	NN	_ <O>
+.	.	_ <O>
+
+NULL

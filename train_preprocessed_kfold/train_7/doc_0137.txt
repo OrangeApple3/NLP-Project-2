@@ -1,0 +1,105 @@
+NULL
+'	``	_ <O>
+King	NNP	_ <O>
+'s	POS	_ <O>
+College	NNP	_ <O>
+'	''	_ <O>
+is	VBZ	_ <O>
+an	DT	_ <O>
+independent	JJ	_ <O>
+secondary	JJ	_ <O>
+school	NN	_ <O>
+in	IN	_ <O>
+New	NNP	_ <O>
+Zealand	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+is	VBZ	<B-CUE>
+considered	VBN	<I-CUE>
+to	TO	_ <O>
+be	VB	_ <O>
+one	CD	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+most	RBS	<I-CUE>
+prestigious	JJ	<I-CUE>
+schools	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+country	NN	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+was	VBD	_ <O>
+originally	RB	_ <O>
+a	DT	_ <O>
+boys	NNS	_ <O>
+-	HYPH	_ <O>
+only	RB	_ <O>
+school	NN	_ <O>
+but	CC	_ <O>
+now	RB	_ <O>
+also	RB	_ <O>
+admits	VBZ	_ <O>
+girls	NNS	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+sixth	JJ	_ <O>
+and	CC	_ <O>
+seventh	JJ	_ <O>
+forms	NNS	_ <O>
+(	-LRB-	_ <O>
+Years	$	_ <O>
+12	CD	_ <O>
+and	CC	_ <O>
+13	CD	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+school	NN	_ <O>
+has	VBZ	_ <O>
+strong	JJ	_ <O>
+links	NNS	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+Anglican	JJ	_ <O>
+church	NN	_ <O>
+;	:	_ <O>
+the	DT	_ <O>
+Anglican	JJ	_ <O>
+Bishop	NNP	_ <O>
+of	IN	_ <O>
+Auckland	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Dean	NNP	_ <O>
+of	IN	_ <O>
+Auckland	NNP	_ <O>
+are	VBP	_ <O>
+permanent	JJ	_ <O>
+members	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+school	NN	_ <O>
+'s	POS	_ <O>
+Board	NNP	_ <O>
+Of	IN	_ <O>
+Governors	NNPS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+school	NN	_ <O>
+caters	VBZ	_ <O>
+for	IN	_ <O>
+both	DT	_ <O>
+boarding	NN	_ <O>
+and	CC	_ <O>
+day	NN	_ <O>
+students	NNS	_ <O>
+.	.	_ <O>
+
+NULL

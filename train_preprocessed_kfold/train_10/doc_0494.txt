@@ -1,0 +1,74 @@
+NULL
+Frozen	JJ	_ <O>
+ground	NN	_ <O>
+covers	VBZ	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+polar	JJ	_ <O>
+regions	NNS	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+majority	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+year	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Due	IN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+permafrost	JJ	_ <O>
+the	DT	_ <O>
+water	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+soil	NN	_ <O>
+remains	VBZ	_ <O>
+frozen	JJ	_ <O>
+for	IN	_ <O>
+most	JJS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+year	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+summer	NN	_ <O>
+the	DT	_ <O>
+top	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+permafrost	NN	_ <O>
+may	MD	<B-CUE>
+be	VB	_ <O>
+covered	VBN	_ <O>
+with	IN	_ <O>
+water	NN	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+melting	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+area	NN	_ <O>
+(	-LRB-	_ <O>
+Stonehouse	NNP	_ <O>
+,	,	_ <O>
+69	CD	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+Weathering	NN	_ <O>
+is	VBZ	_ <O>
+also	RB	_ <O>
+common	JJ	_ <O>
+in	IN	_ <O>
+polar	JJ	_ <O>
+regions	NNS	_ <O>
+.	.	_ <O>
+
+NULL

@@ -1,0 +1,106 @@
+NULL
+The	DT	_ <O>
+Civil	NNP	_ <O>
+Constitution	NNP	_ <O>
+required	VBD	_ <O>
+all	DT	_ <O>
+clerics	NNS	_ <O>
+to	TO	_ <O>
+swear	VB	_ <O>
+allegiance	NN	_ <O>
+to	IN	_ <O>
+it	PRP	_ <O>
+and	CC	_ <O>
+by	IN	_ <O>
+extension	NN	_ <O>
+to	IN	_ <O>
+the	DT	_ <O>
+increasingly	RB	_ <O>
+anti	JJ	_ <O>
+-	HYPH	_ <O>
+clerical	JJ	_ <O>
+National	NNP	_ <O>
+Constituent	NNP	_ <O>
+Assembly	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+Vendean	NNP	_ <O>
+clergy	NN	_ <O>
+almost	RB	<B-CUE>
+universally	RB	<I-CUE>
+refused	VBD	_ <O>
+to	TO	_ <O>
+swear	VB	_ <O>
+the	DT	_ <O>
+oath	NN	_ <O>
+and	CC	_ <O>
+were	VBD	_ <O>
+replaced	VBN	_ <O>
+by	IN	_ <O>
+clergy	NNS	_ <O>
+appointed	VBN	_ <O>
+and	CC	_ <O>
+approved	VBN	_ <O>
+by	IN	_ <O>
+the	DT	_ <O>
+Revolutionary	NNP	_ <O>
+authorities	NNS	_ <O>
+,	,	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+'	``	_ <O>
+jurors	NNS	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+were	VBD	_ <O>
+almost	RB	<B-CUE>
+universally	RB	<I-CUE>
+disliked	VBD	_ <O>
+and	CC	_ <O>
+condemned	VBD	_ <O>
+as	IN	_ <O>
+intruders	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+Nonjuring	NNP	_ <O>
+'	''	_ <O>
+priests	NNS	_ <O>
+declared	VBD	_ <O>
+the	DT	_ <O>
+new	JJ	_ <O>
+civic	JJ	_ <O>
+ceremonies	NNS	_ <O>
+as	IN	_ <O>
+false	JJ	_ <O>
+and	CC	_ <O>
+worthless	JJ	_ <O>
+;	:	_ <O>
+in	IN	_ <O>
+response	NN	_ <O>
+gangs	NNS	_ <O>
+of	IN	_ <O>
+Republicans	NNPS	_ <O>
+came	VBD	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+cities	NNS	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+countryside	NN	_ <O>
+,	,	_ <O>
+closing	VBG	_ <O>
+and	CC	_ <O>
+vandalizing	VBG	_ <O>
+the	DT	_ <O>
+churches	NNS	_ <O>
+of	IN	_ <O>
+nonjuring	VBG	_ <O>
+priests	NNS	_ <O>
+.	.	_ <O>
+
+NULL

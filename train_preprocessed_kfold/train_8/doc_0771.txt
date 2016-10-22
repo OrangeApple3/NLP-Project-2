@@ -1,0 +1,82 @@
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+widely	RB	_ <O>
+used	VBN	_ <O>
+in	IN	_ <O>
+Scouting	NNP	_ <O>
+and	CC	_ <O>
+Girl	NNP	_ <O>
+Guiding	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Many	JJ	_ <O>
+Scout	NN	_ <O>
+and	CC	_ <O>
+Guide	NNP	_ <O>
+groups	NNS	_ <O>
+train	VBP	_ <O>
+their	PRP$	_ <O>
+members	NNS	_ <O>
+in	IN	_ <O>
+pioneering	JJ	_ <O>
+skills	NNS	_ <O>
+and	CC	_ <O>
+construct	VB	_ <O>
+projects	NNS	_ <O>
+,	,	_ <O>
+both	CC	_ <O>
+small	JJ	_ <O>
+and	CC	_ <O>
+large	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+camp	NN	_ <O>
+,	,	_ <O>
+Scouts	NNPS	_ <O>
+may	MD	_ <O>
+construct	VB	_ <O>
+functional	JJ	_ <O>
+items	NNS	_ <O>
+like	IN	_ <O>
+tables	NNS	_ <O>
+,	,	_ <O>
+camp	NN	_ <O>
+dressers	NNS	_ <O>
+and	CC	_ <O>
+gadgets	NNS	_ <O>
+,	,	_ <O>
+as	RB	_ <O>
+well	RB	_ <O>
+as	IN	_ <O>
+decorative	JJ	_ <O>
+camp	NN	_ <O>
+gateways	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Pioneering	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+common	JJ	_ <O>
+merit	NN	_ <O>
+badge	NN	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+countries	NNS	<I-CUE>
+,	,	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+required	VBN	_ <O>
+for	IN	_ <O>
+Eagle	NNP	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+1920s	NNS	_ <O>
+and	CC	_ <O>
+1930s	NNS	_ <O>
+
+NULL

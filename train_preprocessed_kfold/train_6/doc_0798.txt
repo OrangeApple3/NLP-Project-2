@@ -1,0 +1,115 @@
+NULL
+When	WRB	_ <O>
+Paul	NNP	_ <O>
+decided	VBD	_ <O>
+to	TO	_ <O>
+take	VB	_ <O>
+on	IN	_ <O>
+some	DT	_ <O>
+freelance	NN	_ <O>
+work	NN	_ <O>
+,	,	_ <O>
+he	PRP	_ <O>
+employed	VBD	_ <O>
+Trevor	NNP	_ <O>
+as	IN	_ <O>
+a	DT	_ <O>
+builder	NN	_ <O>
+'s	POS	_ <O>
+aid	NN	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+he	PRP	_ <O>
+was	VBD	_ <O>
+more	JJR	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+liability	NN	_ <O>
+than	IN	_ <O>
+a	DT	_ <O>
+labourer	NN	_ <O>
+and	CC	_ <O>
+made	VBD	_ <O>
+many	JJ	<B-CUE>
+disastrous	JJ	<I-CUE>
+mistakes	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Paul	NNP	_ <O>
+continued	VBD	_ <O>
+to	TO	_ <O>
+mess	VB	_ <O>
+Diane	NNP	_ <O>
+around	RB	_ <O>
+,	,	_ <O>
+standing	VBG	_ <O>
+her	PRP	_ <O>
+up	RP	_ <O>
+on	IN	_ <O>
+several	JJ	_ <O>
+occasions	NNS	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+with	IN	_ <O>
+Julie	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Meanwhile	RB	_ <O>
+,	,	_ <O>
+Paul	NNP	_ <O>
+soon	RB	_ <O>
+began	VBD	_ <O>
+to	TO	_ <O>
+feel	VB	_ <O>
+that	IN	_ <O>
+Julie	NNP	_ <O>
+was	VBD	_ <O>
+merely	RB	_ <O>
+using	VBG	_ <O>
+him	PRP	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+get	VB	_ <O>
+a	DT	_ <O>
+cheap	JJ	_ <O>
+deal	NN	_ <O>
+for	IN	_ <O>
+his	PRP$	_ <O>
+labour	NN	_ <O>
+and	CC	_ <O>
+he	PRP	_ <O>
+began	VBD	_ <O>
+to	TO	_ <O>
+take	VB	_ <O>
+against	IN	_ <O>
+her	PRP$	_ <O>
+flirtatious	JJ	_ <O>
+behaviour	NN	_ <O>
+towards	IN	_ <O>
+other	JJ	_ <O>
+men	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+She	PRP	_ <O>
+would	MD	_ <O>
+not	RB	_ <O>
+forgive	VB	_ <O>
+Julie	NNP	_ <O>
+however	RB	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+played	VBD	_ <O>
+various	JJ	_ <O>
+vengeful	JJ	_ <O>
+tricks	NNS	_ <O>
+on	IN	_ <O>
+her	PRP$	_ <O>
+as	IN	_ <O>
+payback	NN	_ <O>
+.	.	_ <O>
+
+NULL

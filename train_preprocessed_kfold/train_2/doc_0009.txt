@@ -1,0 +1,113 @@
+NULL
+It	PRP	_ <O>
+usually	RB	_ <O>
+supplements	VBZ	_ <O>
+product	NN	_ <O>
+positioning	NN	_ <O>
+techniques	NNS	_ <O>
+like	IN	_ <O>
+multi	NNS	_ <O>
+dimensional	JJ	_ <O>
+scaling	NN	_ <O>
+or	CC	_ <O>
+factor	NN	_ <O>
+analysis	NN	_ <O>
+and	CC	_ <O>
+is	VBZ	_ <O>
+used	VBN	_ <O>
+to	TO	_ <O>
+create	VB	_ <O>
+ideal	JJ	_ <O>
+vectors	NNS	_ <O>
+on	IN	_ <O>
+perceptual	JJ	_ <O>
+maps	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+'	``	_ <O>
+Perceptual	JJ	_ <O>
+Map	NN	_ <O>
+of	IN	_ <O>
+Competing	VBG	_ <O>
+Products	NNS	_ <O>
+with	IN	_ <O>
+Ideal	NNP	_ <O>
+Vectors	NNP	_ <O>
+'	POS	_ <O>
+
+NULL
+Starting	VBG	_ <O>
+with	IN	_ <O>
+raw	JJ	_ <O>
+data	NNS	_ <O>
+from	IN	_ <O>
+surveys	NNS	_ <O>
+,	,	_ <O>
+researchers	NNS	<B-CUE>
+apply	VB	_ <O>
+positioning	VBG	_ <O>
+techniques	NNS	_ <O>
+to	TO	_ <O>
+determine	VB	_ <O>
+important	JJ	_ <O>
+dimensions	NNS	_ <O>
+and	CC	_ <O>
+plot	VB	_ <O>
+the	DT	_ <O>
+position	NN	_ <O>
+of	IN	_ <O>
+competing	VBG	_ <O>
+products	NNS	_ <O>
+on	IN	_ <O>
+these	DT	_ <O>
+dimensions	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Like	IN	_ <O>
+all	DT	_ <O>
+regression	NN	_ <O>
+methods	NNS	_ <O>
+,	,	_ <O>
+the	DT	_ <O>
+computer	NN	_ <O>
+fits	VBZ	_ <O>
+weights	NNS	_ <O>
+to	TO	_ <O>
+best	JJS	_ <O>
+predict	VB	_ <O>
+data	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+resultant	JJ	_ <O>
+regression	NN	_ <O>
+line	NN	_ <O>
+is	VBZ	_ <O>
+referred	VBN	_ <O>
+to	IN	_ <O>
+as	IN	_ <O>
+an	DT	_ <O>
+ideal	JJ	_ <O>
+vector	NN	_ <O>
+because	IN	_ <O>
+the	DT	_ <O>
+slope	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+vector	NN	_ <O>
+is	VBZ	_ <O>
+the	DT	_ <O>
+ratio	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+preferences	NNS	_ <O>
+for	IN	_ <O>
+the	DT	_ <O>
+two	CD	_ <O>
+dimensions	NNS	_ <O>
+.	.	_ <O>
+
+NULL

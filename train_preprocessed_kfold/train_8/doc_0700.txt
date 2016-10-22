@@ -1,0 +1,99 @@
+NULL
+This	DT	_ <O>
+design	NN	_ <O>
+practice	NN	_ <O>
+may	MD	<B-CUE>
+require	VB	_ <O>
+the	DT	_ <O>
+use	NN	_ <O>
+of	IN	_ <O>
+level	NN	_ <O>
+-	HYPH	_ <O>
+shifters	NNS	_ <O>
+when	WRB	_ <O>
+two	CD	_ <O>
+blocks	NNS	_ <O>
+with	IN	_ <O>
+different	JJ	_ <O>
+supply	NN	_ <O>
+voltages	NNS	_ <O>
+communicate	VBP	_ <O>
+with	IN	_ <O>
+each	DT	_ <O>
+other	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+simplest	JJS	_ <O>
+form	NN	_ <O>
+there	EX	_ <O>
+are	VBP	_ <O>
+two	CD	_ <O>
+different	JJ	_ <O>
+thresholds	NNS	_ <O>
+available	JJ	_ <O>
+,	,	_ <O>
+common	JJ	_ <O>
+called	VBD	_ <O>
+High	NNP	_ <O>
+-	HYPH	_ <O>
+Vt	NNP	_ <O>
+and	CC	_ <O>
+Low	NNP	_ <O>
+-	HYPH	_ <O>
+Vt	NNP	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+Vt	NNP	_ <O>
+stands	VBZ	_ <O>
+for	IN	_ <O>
+threshold	NN	_ <O>
+voltage	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Stacking	NNP	_ <O>
+and	CC	_ <O>
+parking	NN	_ <O>
+states	NNS	_ <O>
+:	:	_ <O>
+Logic	NNP	_ <O>
+gates	NNS	_ <O>
+may	MD	<B-CUE>
+leak	NN	_ <O>
+differently	RB	_ <O>
+during	IN	_ <O>
+logically	RB	_ <O>
+equivalent	JJ	_ <O>
+input	NN	_ <O>
+states	NNS	_ <O>
+(	-LRB-	_ <O>
+say	VB	_ <O>
+10	CD	_ <O>
+on	IN	_ <O>
+a	DT	_ <O>
+NAND	NNP	_ <O>
+gate	NN	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+opposed	VBN	_ <O>
+to	IN	_ <O>
+01	CD	_ <O>
+)	-RRB-	_ <O>
+.	.	_ <O>
+
+NULL
+State	NN	_ <O>
+machines	NNS	_ <O>
+may	MD	<B-CUE>
+have	VBP	_ <O>
+less	JJR	_ <O>
+leakage	NN	_ <O>
+in	IN	_ <O>
+certain	JJ	<B-CUE>
+states	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL

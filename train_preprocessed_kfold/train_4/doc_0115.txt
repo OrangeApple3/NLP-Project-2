@@ -1,0 +1,102 @@
+NULL
+The	DT	_ <O>
+Orloj	NNP	_ <O>
+stopped	VBD	_ <O>
+working	VBG	_ <O>
+many	JJ	<B-CUE>
+times	NNS	<I-CUE>
+in	IN	_ <O>
+the	DT	_ <O>
+centuries	NNS	_ <O>
+after	IN	_ <O>
+1552	CD	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+was	VBD	_ <O>
+repaired	VBN	_ <O>
+many	JJ	<B-CUE>
+times	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+Some	DT	<B-CUE>
+speculate	VB	<B-CUE>
+that	IN	_ <O>
+the	DT	_ <O>
+government	NN	_ <O>
+purposely	RB	_ <O>
+gouged	VBD	_ <O>
+out	RP	_ <O>
+the	DT	_ <O>
+original	JJ	_ <O>
+maker	NN	_ <O>
+'s	POS	_ <O>
+eyes	NNS	_ <O>
+in	IN	_ <O>
+order	NN	_ <O>
+to	TO	_ <O>
+prevent	VB	_ <O>
+him	PRP	_ <O>
+from	IN	_ <O>
+making	VBG	_ <O>
+a	DT	_ <O>
+similar	JJ	_ <O>
+clock	NN	_ <O>
+for	IN	_ <O>
+another	DT	_ <O>
+country	NN	_ <O>
+.	.	_ <O>
+
+NULL
+After	IN	_ <O>
+this	DT	_ <O>
+he	PRP	_ <O>
+died	VBD	_ <O>
+touching	VBG	_ <O>
+the	DT	_ <O>
+clock	NN	_ <O>
+,	,	_ <O>
+at	IN	_ <O>
+which	WDT	_ <O>
+point	NN	_ <O>
+the	DT	_ <O>
+clock	NN	_ <O>
+stopped	VBD	_ <O>
+working	VBG	_ <O>
+and	CC	_ <O>
+remained	VBD	_ <O>
+unrepairable	JJ	_ <O>
+for	IN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+years	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+the	DT	_ <O>
+17th	JJ	_ <O>
+century	NN	_ <O>
+moving	VBG	_ <O>
+statues	NNS	_ <O>
+were	VBD	_ <O>
+added	VBN	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+figures	NNS	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+Apostles	NNPS	_ <O>
+were	VBD	_ <O>
+added	VBN	_ <O>
+after	IN	_ <O>
+major	JJ	_ <O>
+repair	NN	_ <O>
+in	IN	_ <O>
+1865	CD	_ <O>
+-	SYM	_ <O>
+1866	CD	_ <O>
+.	.	_ <O>
+
+NULL

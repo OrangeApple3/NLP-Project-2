@@ -1,0 +1,24 @@
+NULL
+Ghulam	NNP	_ <O>
+Azam	NNP	_ <O>
+in	IN	_ <O>
+meting	VBG	_ <O>
+with	IN	_ <O>
+Lt	NNP	_ <O>
+.	.	_ <O>
+General	NNP	_ <O>
+Tikka	NNP	_ <O>
+Khan	NNP	_ <O>
+and	CC	_ <O>
+Nurul	NNP	_ <O>
+Amin	NNP	_ <O>
+to	TO	_ <O>
+form	VB	_ <O>
+Peace	NNP	_ <O>
+Committe	NNP	_ <O>
+(	-LRB-	_ <O>
+Razakar	NNP	_ <O>
+Party	NNP	_ <O>
+)	-RRB-	_ <O>
+
+NULL

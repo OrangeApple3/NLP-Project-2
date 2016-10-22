@@ -1,0 +1,150 @@
+NULL
+The	DT	_ <O>
+Phunk	NNP	_ <O>
+Junkeez	NNP	_ <O>
+were	VBD	_ <O>
+one	CD	_ <O>
+of	IN	_ <O>
+many	JJ	<B-CUE>
+bands	NNS	<I-CUE>
+to	TO	_ <O>
+jump	VB	_ <O>
+on	IN	_ <O>
+the	DT	_ <O>
+band	NN	_ <O>
+wagon	NN	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+early	JJ	_ <O>
+90	CD	_ <O>
+'s	VBZ	_ <O>
+that	IN	_ <O>
+fused	VBN	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+different	JJ	_ <O>
+styles	NNS	_ <O>
+in	IN	_ <O>
+their	PRP$	_ <O>
+music	NN	_ <O>
+,	,	_ <O>
+from	IN	_ <O>
+hardcore	JJ	_ <O>
+punk	NN	_ <O>
+to	IN	_ <O>
+trip	NN	_ <O>
+-	HYPH	_ <O>
+hop	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Phunk	NNP	_ <O>
+Junkeez	NNP	_ <O>
+concerts	NNS	_ <O>
+often	RB	_ <O>
+attracted	VBD	_ <O>
+the	DT	_ <O>
+attention	NN	_ <O>
+of	IN	_ <O>
+local	JJ	_ <O>
+police	NNS	_ <O>
+who	WP	_ <O>
+threatened	VBD	_ <O>
+to	TO	_ <O>
+throw	VB	_ <O>
+the	DT	_ <O>
+band	NN	_ <O>
+in	IN	_ <O>
+jail	NN	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+band	NN	_ <O>
+grew	VBD	_ <O>
+large	JJ	_ <O>
+enough	RB	_ <O>
+to	TO	_ <O>
+start	VB	_ <O>
+playing	VBG	_ <O>
+legitimate	JJ	_ <O>
+venues	NNS	_ <O>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+The	DT	_ <O>
+Electric	NNP	_ <O>
+Ballroom	NNP	_ <O>
+,	,	_ <O>
+Club	NNP	_ <O>
+Rio	NNP	_ <O>
+,	,	_ <O>
+Mesa	NNP	_ <O>
+Amphitheater	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Compton	NNP	_ <O>
+Terrace	NNP	_ <O>
+,	,	_ <O>
+sometimes	RB	_ <O>
+selling	VBG	_ <O>
+out	RP	_ <O>
+multiple	JJ	_ <O>
+nights	NNS	_ <O>
+at	IN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+these	DT	<I-CUE>
+venues	NNS	<I-CUE>
+.	.	_ <O>
+
+NULL
+However	RB	_ <O>
+while	IN	_ <O>
+Roachclip	NNP	_ <O>
+IS	VBZ	_ <O>
+the	DT	_ <O>
+original	JJ	_ <O>
+DJ	NN	_ <O>
+,	,	_ <O>
+his	PRP$	_ <O>
+position	NN	_ <O>
+was	VBD	_ <O>
+added	VBN	_ <O>
+after	IN	_ <O>
+the	DT	_ <O>
+band	NN	_ <O>
+had	VBD	_ <O>
+been	VBN	_ <O>
+together	RB	_ <O>
+for	IN	_ <O>
+several	JJ	_ <O>
+years	NNS	_ <O>
+,	,	_ <O>
+The	DT	_ <O>
+Band	NNP	_ <O>
+had	VBD	_ <O>
+already	RB	_ <O>
+gained	VBN	_ <O>
+its	PRP$	_ <O>
+notorioty	NN	_ <O>
+before	IN	_ <O>
+Roachclip	NNP	_ <O>
+joined	VBD	_ <O>
+,	,	_ <O>
+as	IN	_ <O>
+proclaimed	VBN	_ <O>
+by	IN	_ <O>
+soulman	NN	_ <O>
+in	IN	_ <O>
+a	DT	_ <O>
+1992	CD	_ <O>
+interview	NN	_ <O>
+with	IN	_ <O>
+Phoenix	NNP	_ <O>
+New	NNP	_ <O>
+Times	NNP	_ <O>
+.	.	_ <O>
+
+NULL

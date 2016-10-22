@@ -1,0 +1,132 @@
+NULL
+'	``	_ <O>
+The	DT	_ <O>
+Unknown	JJ	_ <O>
+Soldier	NN	_ <O>
+'	''	_ <O>
+(	-LRB-	_ <O>
+'	''	_ <O>
+Tuntematon	NNP	_ <O>
+sotilas	NNS	_ <O>
+'	POS	_ <O>
+)	-RRB-	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+Finnish	JJ	_ <O>
+film	NN	_ <O>
+directed	VBN	_ <O>
+by	IN	_ <O>
+Edvin	NNP	_ <O>
+Laine	NNP	_ <O>
+and	CC	_ <O>
+premiered	VBD	_ <O>
+in	IN	_ <O>
+December	NNP	_ <O>
+1955	CD	_ <O>
+.	.	_ <O>
+
+NULL
+It	PRP	_ <O>
+is	VBZ	_ <O>
+based	VBN	_ <O>
+on	IN	_ <O>
+'	``	_ <O>
+The	DT	_ <O>
+Unknown	JJ	_ <O>
+Soldier	NN	_ <O>
+'	''	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+novel	NN	_ <O>
+by	IN	_ <O>
+Väinö	NNP	_ <O>
+Linna	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+story	NN	_ <O>
+is	VBZ	_ <O>
+about	IN	_ <O>
+the	DT	_ <O>
+Continuation	NNP	_ <O>
+War	NNP	_ <O>
+between	IN	_ <O>
+Finland	NNP	_ <O>
+and	CC	_ <O>
+the	DT	_ <O>
+Soviet	NNP	_ <O>
+Union	NNP	_ <O>
+as	IN	_ <O>
+told	VBN	_ <O>
+from	IN	_ <O>
+the	DT	_ <O>
+viewpoint	NN	_ <O>
+of	IN	_ <O>
+ordinary	JJ	_ <O>
+Finnish	JJ	_ <O>
+soldiers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+film	NN	_ <O>
+was	VBD	_ <O>
+and	CC	_ <O>
+remains	VBZ	_ <O>
+the	DT	_ <O>
+most	RBS	_ <O>
+successful	JJ	_ <O>
+movie	NN	_ <O>
+ever	RB	_ <O>
+in	IN	_ <O>
+Finland	NNP	_ <O>
+;	:	_ <O>
+about	RB	_ <O>
+2.8	CD	_ <O>
+million	CD	_ <O>
+people	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+more	JJR	_ <O>
+than	IN	_ <O>
+half	PDT	_ <O>
+the	DT	_ <O>
+Finnish	JJ	_ <O>
+population	NN	_ <O>
+,	,	_ <O>
+saw	VBD	_ <O>
+it	PRP	_ <O>
+in	IN	_ <O>
+theaters	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Its	PRP$	_ <O>
+portrayal	NN	_ <O>
+of	IN	_ <O>
+Linna	NNP	_ <O>
+'s	POS	_ <O>
+characters	NNS	_ <O>
+is	VBZ	<B-CUE>
+widely	RB	<I-CUE>
+accepted	VBN	<I-CUE>
+as	IN	_ <O>
+canonical	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+1985	CD	_ <O>
+Rauni	NNP	_ <O>
+Mollberg	NNP	_ <O>
+directed	VBD	_ <O>
+a	DT	_ <O>
+new	JJ	_ <O>
+version	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+film	NN	_ <O>
+.	.	_ <O>
+
+NULL

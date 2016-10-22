@@ -1,0 +1,165 @@
+NULL
+There	EX	_ <O>
+are	VBP	_ <O>
+thirty	CD	_ <O>
+-	HYPH	_ <O>
+nine	CD	_ <O>
+independent	JJ	_ <O>
+cities	NNS	_ <O>
+in	IN	_ <O>
+Virginia	NNP	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+independent	JJ	_ <O>
+cities	NNS	_ <O>
+that	WDT	_ <O>
+are	VBP	_ <O>
+not	RB	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+consolidated	VBN	_ <O>
+with	IN	_ <O>
+,	,	_ <O>
+counties	NNS	_ <O>
+include	VBP	_ <O>
+Baltimore	NNP	_ <O>
+,	,	_ <O>
+Maryland	NNP	_ <O>
+,	,	_ <O>
+St.	NNP	_ <O>
+Louis	NNP	_ <O>
+,	,	_ <O>
+Missouri	NNP	_ <O>
+,	,	_ <O>
+and	CC	_ <O>
+Carson	NNP	_ <O>
+City	NNP	_ <O>
+,	,	_ <O>
+Nevada	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+Counties	NNS	_ <O>
+can	MD	_ <O>
+include	VB	_ <O>
+a	DT	_ <O>
+number	NN	_ <O>
+of	IN	_ <O>
+cities	NNS	_ <O>
+,	,	_ <O>
+towns	NNS	_ <O>
+,	,	_ <O>
+villages	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+hamlets	NNS	_ <O>
+,	,	_ <O>
+or	CC	_ <O>
+sometimes	RB	_ <O>
+just	RB	_ <O>
+a	DT	_ <O>
+part	NN	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+city	NN	_ <O>
+.	.	_ <O>
+
+NULL
+Counties	NNS	_ <O>
+in	IN	_ <O>
+many	JJ	<B-CUE>
+states	NNS	<I-CUE>
+are	VBP	_ <O>
+further	RB	_ <O>
+subdivided	VBN	_ <O>
+into	IN	_ <O>
+townships	NNS	_ <O>
+-	:	_ <O>
+which	WDT	_ <O>
+,	,	_ <O>
+by	IN	_ <O>
+definition	NN	_ <O>
+,	,	_ <O>
+are	VBP	_ <O>
+administrative	JJ	_ <O>
+divisions	NNS	_ <O>
+of	IN	_ <O>
+a	DT	_ <O>
+county	NN	_ <O>
+.	.	_ <O>
+
+NULL
+In	IN	_ <O>
+some	DT	<B-CUE>
+states	NNS	<I-CUE>
+,	,	_ <O>
+such	JJ	_ <O>
+as	IN	_ <O>
+Michigan	NNP	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+township	NN	_ <O>
+can	MD	_ <O>
+file	VB	_ <O>
+a	DT	_ <O>
+charter	NN	_ <O>
+with	IN	_ <O>
+the	DT	_ <O>
+state	NN	_ <O>
+government	NN	_ <O>
+,	,	_ <O>
+making	VBG	_ <O>
+itself	PRP	_ <O>
+into	IN	_ <O>
+a	DT	_ <O>
+"	``	_ <O>
+charter	NN	_ <O>
+township	NN	_ <O>
+"	''	_ <O>
+,	,	_ <O>
+which	WDT	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+type	NN	_ <O>
+of	IN	_ <O>
+mixed	VBN	_ <O>
+municipal	JJ	_ <O>
+and	CC	_ <O>
+township	NN	_ <O>
+status	NN	_ <O>
+(	-LRB-	_ <O>
+giving	VBG	_ <O>
+the	DT	_ <O>
+township	NN	_ <O>
+some	DT	<B-CUE>
+of	IN	<I-CUE>
+the	DT	<I-CUE>
+rights	NNS	<I-CUE>
+of	IN	_ <O>
+a	DT	_ <O>
+city	NN	_ <O>
+without	IN	_ <O>
+all	DT	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+responsibilities	NNS	_ <O>
+)	-RRB-	_ <O>
+,	,	_ <O>
+much	JJ	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+way	NN	_ <O>
+a	DT	_ <O>
+metropolitan	JJ	_ <O>
+municipality	NN	_ <O>
+is	VBZ	_ <O>
+a	DT	_ <O>
+mixed	JJ	_ <O>
+municipality	NN	_ <O>
+and	CC	_ <O>
+county	NN	_ <O>
+.	.	_ <O>
+
+NULL

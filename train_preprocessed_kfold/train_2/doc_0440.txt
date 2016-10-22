@@ -1,0 +1,121 @@
+NULL
+Formulas	NNS	_ <O>
+of	IN	_ <O>
+this	DT	_ <O>
+type	NN	_ <O>
+,	,	_ <O>
+now	RB	_ <O>
+known	VBN	_ <O>
+as	IN	_ <O>
+Machin	NNP	_ <O>
+-	HYPH	_ <O>
+like	JJ	_ <O>
+formulas	NNS	_ <O>
+,	,	_ <O>
+were	VBD	_ <O>
+used	VBN	_ <O>
+to	TO	_ <O>
+set	VB	_ <O>
+several	JJ	<B-CUE>
+successive	JJ	<I-CUE>
+records	NNS	<I-CUE>
+and	CC	_ <O>
+remained	VBD	_ <O>
+the	DT	_ <O>
+best	RBS	_ <O>
+known	JJ	_ <O>
+method	NN	_ <O>
+for	IN	_ <O>
+calculating	VBG	_ <O>
+?	.	_ <O>
+well	RB	_ <O>
+into	IN	_ <O>
+the	DT	_ <O>
+age	NN	_ <O>
+of	IN	_ <O>
+computers	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+The	DT	_ <O>
+best	JJS	_ <O>
+value	NN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+end	NN	_ <O>
+of	IN	_ <O>
+the	DT	_ <O>
+19th	JJ	_ <O>
+century	NN	_ <O>
+was	VBD	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+William	NNP	_ <O>
+Shanks	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+took	VBD	_ <O>
+15	CD	_ <O>
+years	NNS	_ <O>
+to	TO	_ <O>
+calculate	VB	_ <O>
+?	.	_ <O>
+with	IN	_ <O>
+707	CD	_ <O>
+digits	NNS	_ <O>
+,	,	_ <O>
+although	IN	_ <O>
+due	JJ	_ <O>
+to	IN	_ <O>
+a	DT	_ <O>
+mistake	NN	_ <O>
+only	RB	_ <O>
+the	DT	_ <O>
+first	JJ	_ <O>
+527	CD	_ <O>
+were	VBD	_ <O>
+correct	JJ	_ <O>
+.	.	_ <O>
+
+NULL
+(	-LRB-	_ <O>
+To	TO	_ <O>
+avoid	VB	_ <O>
+such	JJ	_ <O>
+errors	NNS	_ <O>
+,	,	_ <O>
+modern	JJ	_ <O>
+record	NN	_ <O>
+calculations	NNS	_ <O>
+of	IN	_ <O>
+any	DT	_ <O>
+kind	NN	_ <O>
+are	VBP	_ <O>
+often	RB	_ <O>
+performed	VBN	_ <O>
+twice	RB	_ <O>
+,	,	_ <O>
+with	IN	_ <O>
+two	CD	_ <O>
+different	JJ	_ <O>
+formulas	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+If	IN	_ <O>
+the	DT	_ <O>
+results	NNS	_ <O>
+are	VBP	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+,	,	_ <O>
+they	PRP	_ <O>
+are	VBP	_ <O>
+likely	JJ	_ <O>
+to	TO	_ <O>
+be	VB	_ <O>
+correct	JJ	_ <O>
+.	.	_ <O>
+)	-RRB-	_ <O>
+
+NULL

@@ -1,0 +1,127 @@
+NULL
+A	DT	_ <O>
+similar	JJ	_ <O>
+accusation	NN	_ <O>
+was	VBD	_ <O>
+made	VBN	_ <O>
+at	IN	_ <O>
+the	DT	_ <O>
+same	JJ	_ <O>
+time	NN	_ <O>
+against	IN	_ <O>
+another	DT	_ <O>
+bishop	NN	_ <O>
+,	,	_ <O>
+Juan	NNP	_ <O>
+Arias	NNP	_ <O>
+Davila	NNP	_ <O>
+,	,	_ <O>
+of	IN	_ <O>
+Segovia	NNP	_ <O>
+.	.	_ <O>
+
+NULL
+As	IN	_ <O>
+a	DT	_ <O>
+result	NN	_ <O>
+,	,	_ <O>
+both	DT	_ <O>
+bishops	NNS	_ <O>
+were	VBD	_ <O>
+summoned	VBN	_ <O>
+to	IN	_ <O>
+Rome	NNP	_ <O>
+,	,	_ <O>
+where	WRB	_ <O>
+subsequently	RB	_ <O>
+several	JJ	<B-CUE>
+distinctions	NNS	<I-CUE>
+were	VBD	_ <O>
+accorded	VBN	_ <O>
+to	IN	_ <O>
+Davila	NNP	_ <O>
+,	,	_ <O>
+who	WP	_ <O>
+during	IN	_ <O>
+the	DT	_ <O>
+remainder	NN	_ <O>
+of	IN	_ <O>
+his	PRP$	_ <O>
+life	NN	_ <O>
+enjoyed	VBD	_ <O>
+high	JJ	_ <O>
+honors	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+He	PRP	_ <O>
+was	VBD	_ <O>
+arraigned	VBN	_ <O>
+for	IN	_ <O>
+having	VBG	_ <O>
+taken	VBN	_ <O>
+food	NN	_ <O>
+before	IN	_ <O>
+mass	NN	_ <O>
+and	CC	_ <O>
+for	IN	_ <O>
+having	VBG	_ <O>
+desecrated	VBN	_ <O>
+,	,	_ <O>
+by	IN	_ <O>
+scratching	VBG	_ <O>
+,	,	_ <O>
+a	DT	_ <O>
+crucifix	NN	_ <O>
+and	CC	_ <O>
+other	JJ	_ <O>
+holy	JJ	_ <O>
+images	NNS	_ <O>
+.	.	_ <O>
+
+NULL
+Observing	VBG	_ <O>
+the	DT	_ <O>
+pope	NN	_ <O>
+'s	POS	_ <O>
+resolve	NN	_ <O>
+to	TO	_ <O>
+imprison	VB	_ <O>
+Aranda	NNP	_ <O>
+,	,	_ <O>
+Garcilaso	NNP	_ <O>
+pointed	VBD	_ <O>
+out	RP	_ <O>
+the	DT	_ <O>
+suspicion	NN	<B-CUE>
+that	DT	_ <O>
+was	VBD	_ <O>
+likely	JJ	_ <O>
+to	TO	_ <O>
+arise	VB	_ <O>
+in	IN	_ <O>
+the	DT	_ <O>
+popular	JJ	<B-CUE>
+mind	NN	<I-CUE>
+from	IN	_ <O>
+the	DT	_ <O>
+anomalous	JJ	_ <O>
+incarceration	NN	_ <O>
+of	IN	_ <O>
+Aranda	NNP	_ <O>
+while	IN	_ <O>
+the	DT	_ <O>
+Marrano	NNP	_ <O>
+delegates	NNS	_ <O>
+,	,	_ <O>
+indubitable	JJ	_ <O>
+heretics	NNS	_ <O>
+,	,	_ <O>
+were	VBD	_ <O>
+granted	VBN	_ <O>
+favor	NN	_ <O>
+and	CC	_ <O>
+freedom	NN	_ <O>
+.	.	_ <O>
+
+NULL
