@@ -6,8 +6,8 @@ from constants import DEBUG, TRAINING_DIRECTORY
 def add_unk(directory=TRAINING_DIRECTORY):
     seen_words = Set()
     for file in os.listdir(directory):
-        data = open(directory + "/" + file, 'r')
-        preprocessed_data = open(directory + "_unk/" + file, 'w+')
+        data = open(directory + file, 'r')
+        preprocessed_data = open(directory[:-1] + "_unk/" + file, 'w+')
         for line in data:
             if line.strip("\n") and (line.split()[0] != "NULL") and (line.split()[0].lower() not in seen_words):
                 preprocessed_data.write(line.replace(line.split()[0], "<unk>", 1))

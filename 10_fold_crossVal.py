@@ -12,24 +12,24 @@ def k_crossVal(directory=TRAINING_DIRECTORY, k=10):
         high = (i+1) * (1186/k) if i+1 != k else 1186
 
         for file in os.listdir(directory)[low-1:high]:
-            data = open(directory + "/" + file, 'r')
-            preprocessed_data = open(directory + "_kfold/" + "test_{}/".format(i+1) + file, 'w+')
+            data = open(directory + file, 'r')
+            preprocessed_data = open(directory[:-1] + "_kfold/" + "test_{}/".format(i+1) + file, 'w+')
             for line in data:
                 preprocessed_data.write(line)
             preprocessed_data.close()
             data.close()
         
         for file in os.listdir(directory)[:low-1]:
-            data = open(directory + "/" + file, 'r')
-            preprocessed_data = open(directory + "_kfold/" + "train_{}/".format(i+1) + file, 'w+')
+            data = open(directory + file, 'r')
+            preprocessed_data = open(directory[:-1] + "_kfold/" + "train_{}/".format(i+1) + file, 'w+')
             for line in data:
                 preprocessed_data.write(line)
             preprocessed_data.close()
             data.close()
 
         for file in os.listdir(directory)[high:]:
-            data = open(directory + "/" + file, 'r')
-            preprocessed_data = open(directory + "_kfold/" + "train_{}/".format(i+1) + file, 'w+')
+            data = open(directory + file, 'r')
+            preprocessed_data = open(directory[:-1] + "_kfold/" + "train_{}/".format(i+1) + file, 'w+')
             for line in data:
                 preprocessed_data.write(line)
             preprocessed_data.close()
